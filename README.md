@@ -14,7 +14,7 @@
 | 历史档案（edition） | 352 个（176 CSV + 176 Parquet），**8.53 GB**；车辆注册 2000–2026、pricecatcher 2022-01 起逐月、轨道交通 OD 按年 |
 | 元数据 | `registry/registry.json` + `registry.csv`（290 条）+ `registry/details/<id>.json`（290 个详情页：frequency / next_update / 字段 schema / methodology / caveat） |
 | 本地合计 | **8.70 GB / 911 文件**，全部通过完整性校验（大小 + ETag-MD5 + Parquet 魔数，0 问题） |
-| 本仓库收录 | 除 **5 个 >100 MB 的 CSV**（GitHub 单文件硬限制，清单见 §9）外的全部文件 |
+| 本仓库收录 | 除 **5 个 >100 MB 的 CSV**（GitHub 单文件硬限制，清单见 §9.2）外的全部文件；已推送完成：**1211 文件 / 7.54 GB**，`main @ b379b9d` |
 | 数据清单 | `DATA_INVENTORY.csv`（932 行：数据集/类型/版本/字节/md5/来源 URL/本地路径） |
 
 复现与校验：
@@ -196,11 +196,30 @@ API 用于①直链 404 的 API-only 数据集、②定制过滤/增量。请自
 合计未收录 CSV 1.16 GB；`data/` 本地全量为 8.70 GB，本仓库收录约 7.54 GB。
 （另有 `currency_codes` 的 CSV 在上游 storage.dosm.gov.my 本身就缺失，其 Parquet 已收录。）
 
-### 9.3 分批推送说明
+### 9.3 分批推送与校验（已完成）
 
-GitHub 单次 push 约 2 GB 上限，因此本仓库按「元数据 → 当前快照 → edition Parquet → edition CSV 分卷」多批提交推送
-（每批 ≤1.2 GB），commit 信息形如 `mirror: edition archives: CSV batch 3 (28 files)`。
-大文件超限时 GitHub 会拒绝整次 push，本仓库的 5 个大文件已在 `.gitignore` 中显式排除并记录于 §9.2。
+GitHub 单次 push 约 2 GB 上限，因此按「元数据 → 当前快照 → edition Parquet → edition CSV 分卷」共 **9 批**提交推送，
+**2026-09-09 完成，用时 28 分钟，最终提交 `b379b9d`**（`main`）：
+
+| 批次 | 内容 | 文件数 | 大小 |
+|---|---|---|---|
+| 1 | README / tools / registry / 清单 / 元数据 | 307 | 1.7 MB |
+| 2 | 当前快照 CSV+Parquet | 557 | 166 MB |
+| 3 | edition 档案 Parquet | 176 | 257 MB |
+| 4–9 | edition 档案 CSV（分 6 卷） | 171 | 7.12 GB |
+| | **合计** | **1211** | **7.54 GB** |
+
+- commit 信息形如 `mirror: edition archives: CSV batch 3 (27 files)`；超限文件 GitHub 会拒绝整次 push，
+  5 个 >100 MB 文件已由 `.gitignore` 排除（§9.2）。
+- **传输方式**：SSH（`git@github.com:changwu/data-gov-my.git`）。本机 git 只带 schannel TLS 后端且不可用
+  （`SEC_E_NO_CREDENTIALS`），HTTPS 推送失败，故改用系统 OpenSSH——见 `core.sshCommand` 指向的包装脚本
+  `~/.ssh_dgm/ssh_github.cmd`，以及 `github.com` 在部分网络下需固定可用边缘 IP（`http.curloptResolve`）。
+- **校验**：克隆远端仓库后逐条比对 blob SHA，**1211 条全部一致**（内容寻址 ⇒ 字节级一致）；
+  抽样文件按 MD5 复核（`fuelprice.csv`、`komuter_utara_2020.csv`、`pricecatcher_2026-09.parquet`）全部 MATCH；
+  5 个 >100 MB 文件确认不在远端树中。
+- GitHub 对 50–100 MB 的文件会给出 "larger than recommended maximum" 警告（本仓库共有数十个），属提示而非错误，推送正常接受。
+- 注意：仓库体积已远超 GitHub 建议的 1 GB，克隆较慢；日常研究建议只取所需子目录
+  （`git clone --filter=blob:none --sparse` 或按需下载单个数据集目录）。
 
 ### 9.4 署名与许可
 
