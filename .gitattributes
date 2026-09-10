@@ -1,0 +1,3 @@
+# Byte-exact data mirror: never translate line endings, so published MD5 sums
+# in DATA_INVENTORY.csv / manifest.json stay valid after a fresh clone.
+* -text
