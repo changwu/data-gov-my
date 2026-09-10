@@ -220,6 +220,11 @@ GitHub 单次 push 约 2 GB 上限，因此按「元数据 → 当前快照 → 
 - GitHub 对 50–100 MB 的文件会给出 "larger than recommended maximum" 警告（本仓库共有数十个），属提示而非错误，推送正常接受。
 - 注意：仓库体积已远超 GitHub 建议的 1 GB，克隆较慢；日常研究建议只取所需子目录
   （`git clone --filter=blob:none --sparse` 或按需下载单个数据集目录）。
+- **网络/代理提示（2026-09 实证）**：本机 Windows 可配置系统代理（WinINET 注册表，如 `127.0.0.1:7890`），
+  `urllib` 会自动使用它——该本地代理一旦退出，所有请求会报 `SSL: WRONG_VERSION_NUMBER` /
+  `UNEXPECTED_EOF_WHILE_READING`，**看起来像 data.gov.my 故障，实际是本地代理问题**。
+  因此 `tools/` 默认**直连**（`DGM_PROXY=direct`），可用 `DGM_PROXY=system` 走系统代理，
+  或 `DGM_PROXY=http://host:port` 指定代理。
 
 ### 9.4 署名与许可
 

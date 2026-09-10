@@ -7,12 +7,31 @@ UA = "data-gov-my-mirror/0.1 (country-policy research mirror; polite crawler)"
 SITE = "https://data.gov.my"
 CATALOGUE_PAGE = SITE + "/data-catalogue"
 
+# --- proxy policy ---------------------------------------------------------
+# Windows may have a system proxy configured (WinINET registry, e.g. a local
+# Clash/v2ray on 127.0.0.1:7890). urllib picks it up automatically, which makes
+# every download depend on that local process staying alive; if it dies you get
+# confusing SSL errors (WRONG_VERSION_NUMBER / UNEXPECTED_EOF) that look like
+# the portal is broken. The S3 hosts are directly reachable, so default to
+# DIRECT connections.  Override with DGM_PROXY=system | http://host:port
+_PROXY_MODE = os.environ.get("DGM_PROXY", "direct").strip()
+
+def _build_opener():
+    if _PROXY_MODE == "system":
+        return urllib.request.build_opener()
+    if _PROXY_MODE.startswith("http"):
+        return urllib.request.build_opener(
+            urllib.request.ProxyHandler({"http": _PROXY_MODE, "https": _PROXY_MODE}))
+    return urllib.request.build_opener(urllib.request.ProxyHandler({}))
+
+OPENER = _build_opener()
+
 def _open(url, timeout=60, method=None, headers=None, retries=3):
     last = None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, method=method, headers={"User-Agent": UA, **(headers or {})})
-            return urllib.request.urlopen(req, timeout=timeout)
+            return OPENER.open(req, timeout=timeout)
         except urllib.error.HTTPError as e:
             if e.code in (429, 500, 502, 503, 504) and attempt < retries - 1:
                 last = e; time.sleep(2 ** attempt * 2); continue

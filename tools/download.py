@@ -35,7 +35,7 @@ def download_one(url, dest, expected_size, expected_md5, force=False):
         headers = {"Range": "bytes=%d-" % start} if start else {}
         req = urllib.request.Request(url, headers={"User-Agent": common.UA, **headers})
         try:
-            with urllib.request.urlopen(req, timeout=120) as r:
+            with common.OPENER.open(req, timeout=120) as r:
                 mode = "ab" if (r.status == 206) else "wb"
                 with open(tmp, mode) as f:
                     while True:
