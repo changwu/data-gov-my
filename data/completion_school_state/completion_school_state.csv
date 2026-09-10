@@ -1,0 +1,1072 @@
+state,stage,sex,date,completion
+Malaysia,primary,both,2016-01-01,98.37
+Malaysia,primary,both,2017-01-01,98.07
+Malaysia,primary,both,2018-01-01,97.67
+Malaysia,primary,both,2019-01-01,98.0
+Malaysia,primary,both,2020-01-01,98.4
+Malaysia,primary,both,2021-01-01,99.0
+Malaysia,primary,both,2022-01-01,99.3
+Malaysia,primary,female,2016-01-01,99.14
+Malaysia,primary,female,2017-01-01,98.83
+Malaysia,primary,female,2018-01-01,98.52
+Malaysia,primary,female,2019-01-01,98.7
+Malaysia,primary,female,2020-01-01,99.3
+Malaysia,primary,female,2021-01-01,100.5
+Malaysia,primary,female,2022-01-01,100.1
+Malaysia,primary,male,2016-01-01,97.64
+Malaysia,primary,male,2017-01-01,97.34
+Malaysia,primary,male,2018-01-01,96.86
+Malaysia,primary,male,2019-01-01,97.2
+Malaysia,primary,male,2020-01-01,97.6
+Malaysia,primary,male,2021-01-01,97.5
+Malaysia,primary,male,2022-01-01,98.7
+Malaysia,secondary_lower,both,2016-01-01,95.582
+Malaysia,secondary_lower,both,2017-01-01,97.7251
+Malaysia,secondary_lower,both,2018-01-01,96.6377
+Malaysia,secondary_lower,both,2019-01-01,96.7
+Malaysia,secondary_lower,both,2020-01-01,97.8
+Malaysia,secondary_lower,both,2021-01-01,99.8
+Malaysia,secondary_lower,both,2022-01-01,99.0
+Malaysia,secondary_lower,female,2016-01-01,97.0444
+Malaysia,secondary_lower,female,2017-01-01,98.6532
+Malaysia,secondary_lower,female,2018-01-01,97.6811
+Malaysia,secondary_lower,female,2019-01-01,98.0
+Malaysia,secondary_lower,female,2020-01-01,99.3
+Malaysia,secondary_lower,female,2021-01-01,100.4
+Malaysia,secondary_lower,female,2022-01-01,98.9
+Malaysia,secondary_lower,male,2016-01-01,94.1613
+Malaysia,secondary_lower,male,2017-01-01,96.813
+Malaysia,secondary_lower,male,2018-01-01,95.6254
+Malaysia,secondary_lower,male,2019-01-01,95.4
+Malaysia,secondary_lower,male,2020-01-01,96.4
+Malaysia,secondary_lower,male,2021-01-01,99.2
+Malaysia,secondary_lower,male,2022-01-01,99.2
+Malaysia,secondary_upper,both,2016-01-01,99.2484
+Malaysia,secondary_upper,both,2017-01-01,96.3806
+Malaysia,secondary_upper,both,2018-01-01,95.6307
+Malaysia,secondary_upper,both,2019-01-01,97.5
+Malaysia,secondary_upper,both,2020-01-01,92.8
+Malaysia,secondary_upper,both,2021-01-01,97.8
+Malaysia,secondary_upper,both,2022-01-01,99.2
+Malaysia,secondary_upper,female,2016-01-01,99.4922
+Malaysia,secondary_upper,female,2017-01-01,97.492
+Malaysia,secondary_upper,female,2018-01-01,96.5132
+Malaysia,secondary_upper,female,2019-01-01,98.9
+Malaysia,secondary_upper,female,2020-01-01,93.6
+Malaysia,secondary_upper,female,2021-01-01,97.9
+Malaysia,secondary_upper,female,2022-01-01,99.3
+Malaysia,secondary_upper,male,2016-01-01,98.9922
+Malaysia,secondary_upper,male,2017-01-01,95.2126
+Malaysia,secondary_upper,male,2018-01-01,94.7178
+Malaysia,secondary_upper,male,2019-01-01,96.1
+Malaysia,secondary_upper,male,2020-01-01,92.0
+Malaysia,secondary_upper,male,2021-01-01,97.6
+Malaysia,secondary_upper,male,2022-01-01,99.1
+Johor,primary,both,2016-01-01,99.06
+Johor,primary,both,2017-01-01,99.14
+Johor,primary,both,2018-01-01,97.56
+Johor,primary,both,2019-01-01,97.7
+Johor,primary,both,2020-01-01,98.2
+Johor,primary,both,2021-01-01,95.5
+Johor,primary,both,2022-01-01,99.0
+Johor,primary,female,2016-01-01,99.48
+Johor,primary,female,2017-01-01,99.71
+Johor,primary,female,2018-01-01,98.2
+Johor,primary,female,2019-01-01,98.2
+Johor,primary,female,2020-01-01,98.9
+Johor,primary,female,2021-01-01,99.7
+Johor,primary,female,2022-01-01,99.3
+Johor,primary,male,2016-01-01,98.67
+Johor,primary,male,2017-01-01,98.59
+Johor,primary,male,2018-01-01,96.97
+Johor,primary,male,2019-01-01,97.2
+Johor,primary,male,2020-01-01,97.6
+Johor,primary,male,2021-01-01,91.8
+Johor,primary,male,2022-01-01,98.7
+Johor,secondary_lower,both,2016-01-01,94.7645
+Johor,secondary_lower,both,2017-01-01,99.5251
+Johor,secondary_lower,both,2018-01-01,99.6891
+Johor,secondary_lower,both,2019-01-01,95.2
+Johor,secondary_lower,both,2020-01-01,96.9
+Johor,secondary_lower,both,2021-01-01,97.9
+Johor,secondary_lower,both,2022-01-01,100.1
+Johor,secondary_lower,female,2016-01-01,96.7463
+Johor,secondary_lower,female,2017-01-01,100.5709
+Johor,secondary_lower,female,2018-01-01,99.4141
+Johor,secondary_lower,female,2019-01-01,96.8
+Johor,secondary_lower,female,2020-01-01,98.3
+Johor,secondary_lower,female,2021-01-01,98.4
+Johor,secondary_lower,female,2022-01-01,97.6
+Johor,secondary_lower,male,2016-01-01,92.884
+Johor,secondary_lower,male,2017-01-01,98.5141
+Johor,secondary_lower,male,2018-01-01,99.9562
+Johor,secondary_lower,male,2019-01-01,93.5
+Johor,secondary_lower,male,2020-01-01,95.6
+Johor,secondary_lower,male,2021-01-01,97.4
+Johor,secondary_lower,male,2022-01-01,102.5
+Johor,secondary_upper,both,2016-01-01,99.5156
+Johor,secondary_upper,both,2017-01-01,99.2906
+Johor,secondary_upper,both,2018-01-01,93.7421
+Johor,secondary_upper,both,2019-01-01,98.0
+Johor,secondary_upper,both,2020-01-01,89.2
+Johor,secondary_upper,both,2021-01-01,97.0
+Johor,secondary_upper,both,2022-01-01,98.1
+Johor,secondary_upper,female,2016-01-01,99.9629
+Johor,secondary_upper,female,2017-01-01,100.545
+Johor,secondary_upper,female,2018-01-01,94.899
+Johor,secondary_upper,female,2019-01-01,98.6
+Johor,secondary_upper,female,2020-01-01,90.1
+Johor,secondary_upper,female,2021-01-01,97.2
+Johor,secondary_upper,female,2022-01-01,98.5
+Johor,secondary_upper,male,2016-01-01,99.0459
+Johor,secondary_upper,male,2017-01-01,97.966
+Johor,secondary_upper,male,2018-01-01,92.5617
+Johor,secondary_upper,male,2019-01-01,97.4
+Johor,secondary_upper,male,2020-01-01,88.3
+Johor,secondary_upper,male,2021-01-01,96.8
+Johor,secondary_upper,male,2022-01-01,97.8
+Kedah,primary,both,2016-01-01,99.97
+Kedah,primary,both,2017-01-01,100.12
+Kedah,primary,both,2018-01-01,100.34
+Kedah,primary,both,2019-01-01,100.2
+Kedah,primary,both,2020-01-01,100.1
+Kedah,primary,both,2021-01-01,97.2
+Kedah,primary,both,2022-01-01,101.1
+Kedah,primary,female,2016-01-01,100.85
+Kedah,primary,female,2017-01-01,100.84
+Kedah,primary,female,2018-01-01,101.4
+Kedah,primary,female,2019-01-01,100.8
+Kedah,primary,female,2020-01-01,100.9
+Kedah,primary,female,2021-01-01,99.3
+Kedah,primary,female,2022-01-01,102.4
+Kedah,primary,male,2016-01-01,99.11
+Kedah,primary,male,2017-01-01,99.43
+Kedah,primary,male,2018-01-01,99.33
+Kedah,primary,male,2019-01-01,99.6
+Kedah,primary,male,2020-01-01,99.3
+Kedah,primary,male,2021-01-01,95.3
+Kedah,primary,male,2022-01-01,99.8
+Kedah,secondary_lower,both,2016-01-01,95.9472
+Kedah,secondary_lower,both,2017-01-01,97.3087
+Kedah,secondary_lower,both,2018-01-01,96.3721
+Kedah,secondary_lower,both,2019-01-01,96.1
+Kedah,secondary_lower,both,2020-01-01,96.8
+Kedah,secondary_lower,both,2021-01-01,100.3
+Kedah,secondary_lower,both,2022-01-01,99.4
+Kedah,secondary_lower,female,2016-01-01,97.6341
+Kedah,secondary_lower,female,2017-01-01,97.6467
+Kedah,secondary_lower,female,2018-01-01,97.7081
+Kedah,secondary_lower,female,2019-01-01,98.1
+Kedah,secondary_lower,female,2020-01-01,98.6
+Kedah,secondary_lower,female,2021-01-01,100.9
+Kedah,secondary_lower,female,2022-01-01,99.2
+Kedah,secondary_lower,male,2016-01-01,94.3062
+Kedah,secondary_lower,male,2017-01-01,96.9697
+Kedah,secondary_lower,male,2018-01-01,95.0751
+Kedah,secondary_lower,male,2019-01-01,94.1
+Kedah,secondary_lower,male,2020-01-01,95.0
+Kedah,secondary_lower,male,2021-01-01,99.7
+Kedah,secondary_lower,male,2022-01-01,99.6
+Kedah,secondary_upper,both,2016-01-01,99.0933
+Kedah,secondary_upper,both,2017-01-01,97.451
+Kedah,secondary_upper,both,2018-01-01,95.7661
+Kedah,secondary_upper,both,2019-01-01,96.6
+Kedah,secondary_upper,both,2020-01-01,96.7
+Kedah,secondary_upper,both,2021-01-01,100.5
+Kedah,secondary_upper,both,2022-01-01,99.2
+Kedah,secondary_upper,female,2016-01-01,98.8679
+Kedah,secondary_upper,female,2017-01-01,98.573
+Kedah,secondary_upper,female,2018-01-01,97.5336
+Kedah,secondary_upper,female,2019-01-01,97.9
+Kedah,secondary_upper,female,2020-01-01,97.9
+Kedah,secondary_upper,female,2021-01-01,100.0
+Kedah,secondary_upper,female,2022-01-01,99.6
+Kedah,secondary_upper,male,2016-01-01,99.3418
+Kedah,secondary_upper,male,2017-01-01,96.2206
+Kedah,secondary_upper,male,2018-01-01,93.9202
+Kedah,secondary_upper,male,2019-01-01,95.3
+Kedah,secondary_upper,male,2020-01-01,95.5
+Kedah,secondary_upper,male,2021-01-01,101.2
+Kedah,secondary_upper,male,2022-01-01,98.7
+Kelantan,primary,both,2016-01-01,100.32
+Kelantan,primary,both,2017-01-01,100.17
+Kelantan,primary,both,2018-01-01,99.32
+Kelantan,primary,both,2019-01-01,99.9
+Kelantan,primary,both,2020-01-01,99.5
+Kelantan,primary,both,2021-01-01,100.2
+Kelantan,primary,both,2022-01-01,98.2
+Kelantan,primary,female,2016-01-01,101.49
+Kelantan,primary,female,2017-01-01,101.41
+Kelantan,primary,female,2018-01-01,100.59
+Kelantan,primary,female,2019-01-01,101.1
+Kelantan,primary,female,2020-01-01,101.5
+Kelantan,primary,female,2021-01-01,101.8
+Kelantan,primary,female,2022-01-01,99.2
+Kelantan,primary,male,2016-01-01,99.2
+Kelantan,primary,male,2017-01-01,99.0
+Kelantan,primary,male,2018-01-01,98.12
+Kelantan,primary,male,2019-01-01,98.7
+Kelantan,primary,male,2020-01-01,97.6
+Kelantan,primary,male,2021-01-01,98.7
+Kelantan,primary,male,2022-01-01,97.3
+Kelantan,secondary_lower,both,2016-01-01,96.242
+Kelantan,secondary_lower,both,2017-01-01,94.65
+Kelantan,secondary_lower,both,2018-01-01,85.9723
+Kelantan,secondary_lower,both,2019-01-01,98.0
+Kelantan,secondary_lower,both,2020-01-01,109.9
+Kelantan,secondary_lower,both,2021-01-01,111.7
+Kelantan,secondary_lower,both,2022-01-01,99.0
+Kelantan,secondary_lower,female,2016-01-01,96.6945
+Kelantan,secondary_lower,female,2017-01-01,96.9235
+Kelantan,secondary_lower,female,2018-01-01,86.3164
+Kelantan,secondary_lower,female,2019-01-01,98.8
+Kelantan,secondary_lower,female,2020-01-01,112.9
+Kelantan,secondary_lower,female,2021-01-01,112.9
+Kelantan,secondary_lower,female,2022-01-01,98.7
+Kelantan,secondary_lower,male,2016-01-01,95.7847
+Kelantan,secondary_lower,male,2017-01-01,92.3972
+Kelantan,secondary_lower,male,2018-01-01,85.6336
+Kelantan,secondary_lower,male,2019-01-01,97.1
+Kelantan,secondary_lower,male,2020-01-01,107.0
+Kelantan,secondary_lower,male,2021-01-01,110.5
+Kelantan,secondary_lower,male,2022-01-01,99.4
+Kelantan,secondary_upper,both,2016-01-01,98.4254
+Kelantan,secondary_upper,both,2017-01-01,96.8805
+Kelantan,secondary_upper,both,2018-01-01,88.4185
+Kelantan,secondary_upper,both,2019-01-01,109.2
+Kelantan,secondary_upper,both,2020-01-01,97.7
+Kelantan,secondary_upper,both,2021-01-01,100.3
+Kelantan,secondary_upper,both,2022-01-01,99.4
+Kelantan,secondary_upper,female,2016-01-01,97.9233
+Kelantan,secondary_upper,female,2017-01-01,98.8592
+Kelantan,secondary_upper,female,2018-01-01,87.4555
+Kelantan,secondary_upper,female,2019-01-01,111.7
+Kelantan,secondary_upper,female,2020-01-01,98.6
+Kelantan,secondary_upper,female,2021-01-01,99.6
+Kelantan,secondary_upper,female,2022-01-01,98.8
+Kelantan,secondary_upper,male,2016-01-01,98.9638
+Kelantan,secondary_upper,male,2017-01-01,94.7214
+Kelantan,secondary_upper,male,2018-01-01,89.4737
+Kelantan,secondary_upper,male,2019-01-01,106.7
+Kelantan,secondary_upper,male,2020-01-01,96.8
+Kelantan,secondary_upper,male,2021-01-01,101.1
+Kelantan,secondary_upper,male,2022-01-01,100.0
+Melaka,primary,both,2016-01-01,98.92
+Melaka,primary,both,2017-01-01,98.87
+Melaka,primary,both,2018-01-01,98.92
+Melaka,primary,both,2019-01-01,98.7
+Melaka,primary,both,2020-01-01,98.5
+Melaka,primary,both,2021-01-01,95.1
+Melaka,primary,both,2022-01-01,99.5
+Melaka,primary,female,2016-01-01,100.17
+Melaka,primary,female,2017-01-01,99.92
+Melaka,primary,female,2018-01-01,99.17
+Melaka,primary,female,2019-01-01,100.3
+Melaka,primary,female,2020-01-01,99.2
+Melaka,primary,female,2021-01-01,96.8
+Melaka,primary,female,2022-01-01,100.3
+Melaka,primary,male,2016-01-01,97.73
+Melaka,primary,male,2017-01-01,97.87
+Melaka,primary,male,2018-01-01,98.67
+Melaka,primary,male,2019-01-01,97.2
+Melaka,primary,male,2020-01-01,97.7
+Melaka,primary,male,2021-01-01,93.5
+Melaka,primary,male,2022-01-01,98.7
+Melaka,secondary_lower,both,2016-01-01,99.0276
+Melaka,secondary_lower,both,2017-01-01,98.5646
+Melaka,secondary_lower,both,2018-01-01,99.9172
+Melaka,secondary_lower,both,2019-01-01,98.7
+Melaka,secondary_lower,both,2020-01-01,97.8
+Melaka,secondary_lower,both,2021-01-01,98.1
+Melaka,secondary_lower,both,2022-01-01,98.9
+Melaka,secondary_lower,female,2016-01-01,99.9568
+Melaka,secondary_lower,female,2017-01-01,99.2662
+Melaka,secondary_lower,female,2018-01-01,100.0305
+Melaka,secondary_lower,female,2019-01-01,98.5
+Melaka,secondary_lower,female,2020-01-01,98.6
+Melaka,secondary_lower,female,2021-01-01,99.2
+Melaka,secondary_lower,female,2022-01-01,99.3
+Melaka,secondary_lower,male,2016-01-01,98.1113
+Melaka,secondary_lower,male,2017-01-01,97.8447
+Melaka,secondary_lower,male,2018-01-01,99.8065
+Melaka,secondary_lower,male,2019-01-01,98.9
+Melaka,secondary_lower,male,2020-01-01,96.9
+Melaka,secondary_lower,male,2021-01-01,97.1
+Melaka,secondary_lower,male,2022-01-01,98.6
+Melaka,secondary_upper,both,2016-01-01,99.2746
+Melaka,secondary_upper,both,2017-01-01,97.8254
+Melaka,secondary_upper,both,2018-01-01,98.245
+Melaka,secondary_upper,both,2019-01-01,97.0
+Melaka,secondary_upper,both,2020-01-01,94.1
+Melaka,secondary_upper,both,2021-01-01,98.2
+Melaka,secondary_upper,both,2022-01-01,97.7
+Melaka,secondary_upper,female,2016-01-01,99.762
+Melaka,secondary_upper,female,2017-01-01,98.7135
+Melaka,secondary_upper,female,2018-01-01,98.5104
+Melaka,secondary_upper,female,2019-01-01,98.4
+Melaka,secondary_upper,female,2020-01-01,95.1
+Melaka,secondary_upper,female,2021-01-01,98.0
+Melaka,secondary_upper,female,2022-01-01,98.3
+Melaka,secondary_upper,male,2016-01-01,98.7998
+Melaka,secondary_upper,male,2017-01-01,96.8979
+Melaka,secondary_upper,male,2018-01-01,97.9713
+Melaka,secondary_upper,male,2019-01-01,95.5
+Melaka,secondary_upper,male,2020-01-01,93.0
+Melaka,secondary_upper,male,2021-01-01,98.5
+Melaka,secondary_upper,male,2022-01-01,97.1
+Negeri Sembilan,primary,both,2016-01-01,98.29
+Negeri Sembilan,primary,both,2017-01-01,98.95
+Negeri Sembilan,primary,both,2018-01-01,99.24
+Negeri Sembilan,primary,both,2019-01-01,98.9
+Negeri Sembilan,primary,both,2020-01-01,100.1
+Negeri Sembilan,primary,both,2021-01-01,102.9
+Negeri Sembilan,primary,both,2022-01-01,101.6
+Negeri Sembilan,primary,female,2016-01-01,99.96
+Negeri Sembilan,primary,female,2017-01-01,99.49
+Negeri Sembilan,primary,female,2018-01-01,100.67
+Negeri Sembilan,primary,female,2019-01-01,99.2
+Negeri Sembilan,primary,female,2020-01-01,100.5
+Negeri Sembilan,primary,female,2021-01-01,102.9
+Negeri Sembilan,primary,female,2022-01-01,102.7
+Negeri Sembilan,primary,male,2016-01-01,96.74
+Negeri Sembilan,primary,male,2017-01-01,98.44
+Negeri Sembilan,primary,male,2018-01-01,97.9
+Negeri Sembilan,primary,male,2019-01-01,98.7
+Negeri Sembilan,primary,male,2020-01-01,99.7
+Negeri Sembilan,primary,male,2021-01-01,102.8
+Negeri Sembilan,primary,male,2022-01-01,100.6
+Negeri Sembilan,secondary_lower,both,2016-01-01,97.3067
+Negeri Sembilan,secondary_lower,both,2017-01-01,99.5664
+Negeri Sembilan,secondary_lower,both,2018-01-01,97.1165
+Negeri Sembilan,secondary_lower,both,2019-01-01,96.9
+Negeri Sembilan,secondary_lower,both,2020-01-01,98.2
+Negeri Sembilan,secondary_lower,both,2021-01-01,98.9
+Negeri Sembilan,secondary_lower,both,2022-01-01,99.9
+Negeri Sembilan,secondary_lower,female,2016-01-01,98.235
+Negeri Sembilan,secondary_lower,female,2017-01-01,100.411
+Negeri Sembilan,secondary_lower,female,2018-01-01,98.2037
+Negeri Sembilan,secondary_lower,female,2019-01-01,97.2
+Negeri Sembilan,secondary_lower,female,2020-01-01,99.8
+Negeri Sembilan,secondary_lower,female,2021-01-01,99.6
+Negeri Sembilan,secondary_lower,female,2022-01-01,99.8
+Negeri Sembilan,secondary_lower,male,2016-01-01,96.4068
+Negeri Sembilan,secondary_lower,male,2017-01-01,98.7444
+Negeri Sembilan,secondary_lower,male,2018-01-01,96.0503
+Negeri Sembilan,secondary_lower,male,2019-01-01,96.6
+Negeri Sembilan,secondary_lower,male,2020-01-01,96.7
+Negeri Sembilan,secondary_lower,male,2021-01-01,98.3
+Negeri Sembilan,secondary_lower,male,2022-01-01,99.9
+Negeri Sembilan,secondary_upper,both,2016-01-01,100.1393
+Negeri Sembilan,secondary_upper,both,2017-01-01,96.707
+Negeri Sembilan,secondary_upper,both,2018-01-01,96.7493
+Negeri Sembilan,secondary_upper,both,2019-01-01,96.9
+Negeri Sembilan,secondary_upper,both,2020-01-01,93.3
+Negeri Sembilan,secondary_upper,both,2021-01-01,98.6
+Negeri Sembilan,secondary_upper,both,2022-01-01,100.4
+Negeri Sembilan,secondary_upper,female,2016-01-01,100.3412
+Negeri Sembilan,secondary_upper,female,2017-01-01,97.8202
+Negeri Sembilan,secondary_upper,female,2018-01-01,97.5787
+Negeri Sembilan,secondary_upper,female,2019-01-01,98.3
+Negeri Sembilan,secondary_upper,female,2020-01-01,93.7
+Negeri Sembilan,secondary_upper,female,2021-01-01,98.6
+Negeri Sembilan,secondary_upper,female,2022-01-01,99.8
+Negeri Sembilan,secondary_upper,male,2016-01-01,99.9323
+Negeri Sembilan,secondary_upper,male,2017-01-01,95.5919
+Negeri Sembilan,secondary_upper,male,2018-01-01,95.9152
+Negeri Sembilan,secondary_upper,male,2019-01-01,95.5
+Negeri Sembilan,secondary_upper,male,2020-01-01,93.0
+Negeri Sembilan,secondary_upper,male,2021-01-01,98.6
+Negeri Sembilan,secondary_upper,male,2022-01-01,100.9
+Pahang,primary,both,2016-01-01,97.72
+Pahang,primary,both,2017-01-01,97.57
+Pahang,primary,both,2018-01-01,97.13
+Pahang,primary,both,2019-01-01,96.3
+Pahang,primary,both,2020-01-01,97.0
+Pahang,primary,both,2021-01-01,97.3
+Pahang,primary,both,2022-01-01,96.5
+Pahang,primary,female,2016-01-01,98.72
+Pahang,primary,female,2017-01-01,98.85
+Pahang,primary,female,2018-01-01,97.65
+Pahang,primary,female,2019-01-01,97.5
+Pahang,primary,female,2020-01-01,97.9
+Pahang,primary,female,2021-01-01,97.9
+Pahang,primary,female,2022-01-01,98.1
+Pahang,primary,male,2016-01-01,96.81
+Pahang,primary,male,2017-01-01,96.34
+Pahang,primary,male,2018-01-01,96.63
+Pahang,primary,male,2019-01-01,95.2
+Pahang,primary,male,2020-01-01,96.2
+Pahang,primary,male,2021-01-01,96.8
+Pahang,primary,male,2022-01-01,95.1
+Pahang,secondary_lower,both,2016-01-01,96.3753
+Pahang,secondary_lower,both,2017-01-01,97.636
+Pahang,secondary_lower,both,2018-01-01,94.9303
+Pahang,secondary_lower,both,2019-01-01,96.4
+Pahang,secondary_lower,both,2020-01-01,96.0
+Pahang,secondary_lower,both,2021-01-01,99.1
+Pahang,secondary_lower,both,2022-01-01,98.7
+Pahang,secondary_lower,female,2016-01-01,96.6483
+Pahang,secondary_lower,female,2017-01-01,98.1296
+Pahang,secondary_lower,female,2018-01-01,97.0508
+Pahang,secondary_lower,female,2019-01-01,97.5
+Pahang,secondary_lower,female,2020-01-01,97.3
+Pahang,secondary_lower,female,2021-01-01,100.0
+Pahang,secondary_lower,female,2022-01-01,98.8
+Pahang,secondary_lower,male,2016-01-01,96.1076
+Pahang,secondary_lower,male,2017-01-01,97.1421
+Pahang,secondary_lower,male,2018-01-01,92.8984
+Pahang,secondary_lower,male,2019-01-01,95.3
+Pahang,secondary_lower,male,2020-01-01,94.8
+Pahang,secondary_lower,male,2021-01-01,98.2
+Pahang,secondary_lower,male,2022-01-01,98.6
+Pahang,secondary_upper,both,2016-01-01,99.6813
+Pahang,secondary_upper,both,2017-01-01,90.8114
+Pahang,secondary_upper,both,2018-01-01,99.1357
+Pahang,secondary_upper,both,2019-01-01,92.9
+Pahang,secondary_upper,both,2020-01-01,97.5
+Pahang,secondary_upper,both,2021-01-01,99.6
+Pahang,secondary_upper,both,2022-01-01,100.0
+Pahang,secondary_upper,female,2016-01-01,99.5629
+Pahang,secondary_upper,female,2017-01-01,91.9756
+Pahang,secondary_upper,female,2018-01-01,96.9521
+Pahang,secondary_upper,female,2019-01-01,96.5
+Pahang,secondary_upper,female,2020-01-01,96.9
+Pahang,secondary_upper,female,2021-01-01,99.1
+Pahang,secondary_upper,female,2022-01-01,99.5
+Pahang,secondary_upper,male,2016-01-01,99.8058
+Pahang,secondary_upper,male,2017-01-01,89.6342
+Pahang,secondary_upper,male,2018-01-01,101.3786
+Pahang,secondary_upper,male,2019-01-01,89.3
+Pahang,secondary_upper,male,2020-01-01,98.2
+Pahang,secondary_upper,male,2021-01-01,100.2
+Pahang,secondary_upper,male,2022-01-01,100.6
+Perak,primary,both,2016-01-01,98.83
+Perak,primary,both,2017-01-01,98.9
+Perak,primary,both,2018-01-01,98.09
+Perak,primary,both,2019-01-01,98.6
+Perak,primary,both,2020-01-01,99.1
+Perak,primary,both,2021-01-01,98.8
+Perak,primary,both,2022-01-01,99.9
+Perak,primary,female,2016-01-01,99.28
+Perak,primary,female,2017-01-01,99.37
+Perak,primary,female,2018-01-01,98.51
+Perak,primary,female,2019-01-01,99.3
+Perak,primary,female,2020-01-01,99.8
+Perak,primary,female,2021-01-01,99.7
+Perak,primary,female,2022-01-01,100.9
+Perak,primary,male,2016-01-01,98.39
+Perak,primary,male,2017-01-01,98.44
+Perak,primary,male,2018-01-01,97.69
+Perak,primary,male,2019-01-01,98.0
+Perak,primary,male,2020-01-01,98.4
+Perak,primary,male,2021-01-01,98.0
+Perak,primary,male,2022-01-01,99.1
+Perak,secondary_lower,both,2016-01-01,94.9094
+Perak,secondary_lower,both,2017-01-01,96.7561
+Perak,secondary_lower,both,2018-01-01,95.9696
+Perak,secondary_lower,both,2019-01-01,96.9
+Perak,secondary_lower,both,2020-01-01,97.1
+Perak,secondary_lower,both,2021-01-01,99.4
+Perak,secondary_lower,both,2022-01-01,99.2
+Perak,secondary_lower,female,2016-01-01,97.142
+Perak,secondary_lower,female,2017-01-01,98.1378
+Perak,secondary_lower,female,2018-01-01,97.178
+Perak,secondary_lower,female,2019-01-01,97.7
+Perak,secondary_lower,female,2020-01-01,98.8
+Perak,secondary_lower,female,2021-01-01,100.2
+Perak,secondary_lower,female,2022-01-01,99.4
+Perak,secondary_lower,male,2016-01-01,92.8087
+Perak,secondary_lower,male,2017-01-01,95.3946
+Perak,secondary_lower,male,2018-01-01,94.8274
+Perak,secondary_lower,male,2019-01-01,96.2
+Perak,secondary_lower,male,2020-01-01,95.5
+Perak,secondary_lower,male,2021-01-01,98.6
+Perak,secondary_lower,male,2022-01-01,99.0
+Perak,secondary_upper,both,2016-01-01,99.1
+Perak,secondary_upper,both,2017-01-01,94.4357
+Perak,secondary_upper,both,2018-01-01,97.4355
+Perak,secondary_upper,both,2019-01-01,97.9
+Perak,secondary_upper,both,2020-01-01,92.4
+Perak,secondary_upper,both,2021-01-01,98.8
+Perak,secondary_upper,both,2022-01-01,100.3
+Perak,secondary_upper,female,2016-01-01,99.1742
+Perak,secondary_upper,female,2017-01-01,95.7164
+Perak,secondary_upper,female,2018-01-01,98.4112
+Perak,secondary_upper,female,2019-01-01,99.5
+Perak,secondary_upper,female,2020-01-01,93.2
+Perak,secondary_upper,female,2021-01-01,99.2
+Perak,secondary_upper,female,2022-01-01,99.9
+Perak,secondary_upper,male,2016-01-01,99.0226
+Perak,secondary_upper,male,2017-01-01,93.1089
+Perak,secondary_upper,male,2018-01-01,96.4462
+Perak,secondary_upper,male,2019-01-01,96.2
+Perak,secondary_upper,male,2020-01-01,91.5
+Perak,secondary_upper,male,2021-01-01,98.4
+Perak,secondary_upper,male,2022-01-01,100.7
+Perlis,primary,both,2016-01-01,101.66
+Perlis,primary,both,2017-01-01,99.22
+Perlis,primary,both,2018-01-01,99.61
+Perlis,primary,both,2019-01-01,99.0
+Perlis,primary,both,2020-01-01,98.8
+Perlis,primary,both,2021-01-01,96.9
+Perlis,primary,both,2022-01-01,105.5
+Perlis,primary,female,2016-01-01,100.66
+Perlis,primary,female,2017-01-01,100.44
+Perlis,primary,female,2018-01-01,100.11
+Perlis,primary,female,2019-01-01,101.2
+Perlis,primary,female,2020-01-01,100.0
+Perlis,primary,female,2021-01-01,99.8
+Perlis,primary,female,2022-01-01,107.2
+Perlis,primary,male,2016-01-01,102.63
+Perlis,primary,male,2017-01-01,98.05
+Perlis,primary,male,2018-01-01,99.13
+Perlis,primary,male,2019-01-01,97.0
+Perlis,primary,male,2020-01-01,97.7
+Perlis,primary,male,2021-01-01,94.4
+Perlis,primary,male,2022-01-01,103.9
+Perlis,secondary_lower,both,2016-01-01,93.6557
+Perlis,secondary_lower,both,2017-01-01,96.4581
+Perlis,secondary_lower,both,2018-01-01,96.5534
+Perlis,secondary_lower,both,2019-01-01,93.1
+Perlis,secondary_lower,both,2020-01-01,94.4
+Perlis,secondary_lower,both,2021-01-01,97.8
+Perlis,secondary_lower,both,2022-01-01,99.7
+Perlis,secondary_lower,female,2016-01-01,95.152
+Perlis,secondary_lower,female,2017-01-01,96.6188
+Perlis,secondary_lower,female,2018-01-01,98.2229
+Perlis,secondary_lower,female,2019-01-01,95.9
+Perlis,secondary_lower,female,2020-01-01,95.8
+Perlis,secondary_lower,female,2021-01-01,98.6
+Perlis,secondary_lower,female,2022-01-01,100.3
+Perlis,secondary_lower,male,2016-01-01,92.1393
+Perlis,secondary_lower,male,2017-01-01,96.2909
+Perlis,secondary_lower,male,2018-01-01,94.895
+Perlis,secondary_lower,male,2019-01-01,90.3
+Perlis,secondary_lower,male,2020-01-01,93.1
+Perlis,secondary_lower,male,2021-01-01,97.1
+Perlis,secondary_lower,male,2022-01-01,99.1
+Perlis,secondary_upper,both,2016-01-01,91.1528
+Perlis,secondary_upper,both,2017-01-01,94.5276
+Perlis,secondary_upper,both,2018-01-01,94.6984
+Perlis,secondary_upper,both,2019-01-01,94.6
+Perlis,secondary_upper,both,2020-01-01,93.3
+Perlis,secondary_upper,both,2021-01-01,97.4
+Perlis,secondary_upper,both,2022-01-01,97.9
+Perlis,secondary_upper,female,2016-01-01,93.1364
+Perlis,secondary_upper,female,2017-01-01,95.4263
+Perlis,secondary_upper,female,2018-01-01,96.6413
+Perlis,secondary_upper,female,2019-01-01,96.9
+Perlis,secondary_upper,female,2020-01-01,95.0
+Perlis,secondary_upper,female,2021-01-01,98.3
+Perlis,secondary_upper,female,2022-01-01,98.2
+Perlis,secondary_upper,male,2016-01-01,89.2025
+Perlis,secondary_upper,male,2017-01-01,93.618
+Perlis,secondary_upper,male,2018-01-01,92.6738
+Perlis,secondary_upper,male,2019-01-01,92.2
+Perlis,secondary_upper,male,2020-01-01,91.5
+Perlis,secondary_upper,male,2021-01-01,96.5
+Perlis,secondary_upper,male,2022-01-01,97.6
+Pulau Pinang,primary,both,2016-01-01,96.55
+Pulau Pinang,primary,both,2017-01-01,96.71
+Pulau Pinang,primary,both,2018-01-01,96.52
+Pulau Pinang,primary,both,2019-01-01,96.0
+Pulau Pinang,primary,both,2020-01-01,96.9
+Pulau Pinang,primary,both,2021-01-01,94.0
+Pulau Pinang,primary,both,2022-01-01,97.7
+Pulau Pinang,primary,female,2016-01-01,97.2
+Pulau Pinang,primary,female,2017-01-01,98.16
+Pulau Pinang,primary,female,2018-01-01,97.2
+Pulau Pinang,primary,female,2019-01-01,97.1
+Pulau Pinang,primary,female,2020-01-01,97.8
+Pulau Pinang,primary,female,2021-01-01,96.8
+Pulau Pinang,primary,female,2022-01-01,98.9
+Pulau Pinang,primary,male,2016-01-01,95.93
+Pulau Pinang,primary,male,2017-01-01,95.35
+Pulau Pinang,primary,male,2018-01-01,95.9
+Pulau Pinang,primary,male,2019-01-01,95.0
+Pulau Pinang,primary,male,2020-01-01,96.1
+Pulau Pinang,primary,male,2021-01-01,91.6
+Pulau Pinang,primary,male,2022-01-01,96.6
+Pulau Pinang,secondary_lower,both,2016-01-01,94.7517
+Pulau Pinang,secondary_lower,both,2017-01-01,97.3899
+Pulau Pinang,secondary_lower,both,2018-01-01,95.4679
+Pulau Pinang,secondary_lower,both,2019-01-01,97.8
+Pulau Pinang,secondary_lower,both,2020-01-01,97.9
+Pulau Pinang,secondary_lower,both,2021-01-01,97.1
+Pulau Pinang,secondary_lower,both,2022-01-01,98.9
+Pulau Pinang,secondary_lower,female,2016-01-01,96.7884
+Pulau Pinang,secondary_lower,female,2017-01-01,97.4851
+Pulau Pinang,secondary_lower,female,2018-01-01,96.6006
+Pulau Pinang,secondary_lower,female,2019-01-01,98.9
+Pulau Pinang,secondary_lower,female,2020-01-01,99.1
+Pulau Pinang,secondary_lower,female,2021-01-01,97.9
+Pulau Pinang,secondary_lower,female,2022-01-01,99.7
+Pulau Pinang,secondary_lower,male,2016-01-01,92.7462
+Pulau Pinang,secondary_lower,male,2017-01-01,97.2984
+Pulau Pinang,secondary_lower,male,2018-01-01,94.3396
+Pulau Pinang,secondary_lower,male,2019-01-01,96.6
+Pulau Pinang,secondary_lower,male,2020-01-01,96.8
+Pulau Pinang,secondary_lower,male,2021-01-01,96.3
+Pulau Pinang,secondary_lower,male,2022-01-01,99.7
+Pulau Pinang,secondary_upper,both,2016-01-01,100.1947
+Pulau Pinang,secondary_upper,both,2017-01-01,95.4438
+Pulau Pinang,secondary_upper,both,2018-01-01,94.9794
+Pulau Pinang,secondary_upper,both,2019-01-01,96.9
+Pulau Pinang,secondary_upper,both,2020-01-01,92.0
+Pulau Pinang,secondary_upper,both,2021-01-01,95.5
+Pulau Pinang,secondary_upper,both,2022-01-01,100.5
+Pulau Pinang,secondary_upper,female,2016-01-01,100.3956
+Pulau Pinang,secondary_upper,female,2017-01-01,96.4923
+Pulau Pinang,secondary_upper,female,2018-01-01,96.6369
+Pulau Pinang,secondary_upper,female,2019-01-01,98.1
+Pulau Pinang,secondary_upper,female,2020-01-01,92.6
+Pulau Pinang,secondary_upper,female,2021-01-01,95.9
+Pulau Pinang,secondary_upper,female,2022-01-01,101.0
+Pulau Pinang,secondary_upper,male,2016-01-01,99.9818
+Pulau Pinang,secondary_upper,male,2017-01-01,94.3466
+Pulau Pinang,secondary_upper,male,2018-01-01,93.2466
+Pulau Pinang,secondary_upper,male,2019-01-01,95.6
+Pulau Pinang,secondary_upper,male,2020-01-01,91.5
+Pulau Pinang,secondary_upper,male,2021-01-01,95.1
+Pulau Pinang,secondary_upper,male,2022-01-01,100.0
+Sabah,primary,both,2016-01-01,99.75
+Sabah,primary,both,2017-01-01,99.04
+Sabah,primary,both,2018-01-01,99.12
+Sabah,primary,both,2019-01-01,100.3
+Sabah,primary,both,2020-01-01,100.3
+Sabah,primary,both,2021-01-01,97.7
+Sabah,primary,both,2022-01-01,100.6
+Sabah,primary,female,2016-01-01,100.24
+Sabah,primary,female,2017-01-01,99.59
+Sabah,primary,female,2018-01-01,100.16
+Sabah,primary,female,2019-01-01,101.2
+Sabah,primary,female,2020-01-01,101.0
+Sabah,primary,female,2021-01-01,98.1
+Sabah,primary,female,2022-01-01,100.8
+Sabah,primary,male,2016-01-01,99.29
+Sabah,primary,male,2017-01-01,98.51
+Sabah,primary,male,2018-01-01,98.14
+Sabah,primary,male,2019-01-01,99.4
+Sabah,primary,male,2020-01-01,99.8
+Sabah,primary,male,2021-01-01,97.3
+Sabah,primary,male,2022-01-01,100.3
+Sabah,secondary_lower,both,2016-01-01,90.1018
+Sabah,secondary_lower,both,2017-01-01,95.0703
+Sabah,secondary_lower,both,2018-01-01,94.6595
+Sabah,secondary_lower,both,2019-01-01,94.4
+Sabah,secondary_lower,both,2020-01-01,95.7
+Sabah,secondary_lower,both,2021-01-01,97.9
+Sabah,secondary_lower,both,2022-01-01,99.6
+Sabah,secondary_lower,female,2016-01-01,92.4599
+Sabah,secondary_lower,female,2017-01-01,96.8362
+Sabah,secondary_lower,female,2018-01-01,96.9419
+Sabah,secondary_lower,female,2019-01-01,96.4
+Sabah,secondary_lower,female,2020-01-01,97.5
+Sabah,secondary_lower,female,2021-01-01,98.7
+Sabah,secondary_lower,female,2022-01-01,99.7
+Sabah,secondary_lower,male,2016-01-01,87.8606
+Sabah,secondary_lower,male,2017-01-01,93.3594
+Sabah,secondary_lower,male,2018-01-01,92.4622
+Sabah,secondary_lower,male,2019-01-01,92.4
+Sabah,secondary_lower,male,2020-01-01,93.9
+Sabah,secondary_lower,male,2021-01-01,97.1
+Sabah,secondary_lower,male,2022-01-01,99.5
+Sabah,secondary_upper,both,2016-01-01,97.5882
+Sabah,secondary_upper,both,2017-01-01,96.3273
+Sabah,secondary_upper,both,2018-01-01,95.4015
+Sabah,secondary_upper,both,2019-01-01,95.3
+Sabah,secondary_upper,both,2020-01-01,94.2
+Sabah,secondary_upper,both,2021-01-01,98.7
+Sabah,secondary_upper,both,2022-01-01,99.6
+Sabah,secondary_upper,female,2016-01-01,98.1709
+Sabah,secondary_upper,female,2017-01-01,97.5322
+Sabah,secondary_upper,female,2018-01-01,96.7491
+Sabah,secondary_upper,female,2019-01-01,96.6
+Sabah,secondary_upper,female,2020-01-01,95.4
+Sabah,secondary_upper,female,2021-01-01,98.8
+Sabah,secondary_upper,female,2022-01-01,99.5
+Sabah,secondary_upper,male,2016-01-01,96.9636
+Sabah,secondary_upper,male,2017-01-01,95.0459
+Sabah,secondary_upper,male,2018-01-01,93.9898
+Sabah,secondary_upper,male,2019-01-01,93.9
+Sabah,secondary_upper,male,2020-01-01,92.9
+Sabah,secondary_upper,male,2021-01-01,98.5
+Sabah,secondary_upper,male,2022-01-01,99.7
+Sarawak,primary,both,2016-01-01,99.4
+Sarawak,primary,both,2017-01-01,99.54
+Sarawak,primary,both,2018-01-01,99.23
+Sarawak,primary,both,2019-01-01,99.9
+Sarawak,primary,both,2020-01-01,99.9
+Sarawak,primary,both,2021-01-01,100.1
+Sarawak,primary,both,2022-01-01,100.7
+Sarawak,primary,female,2016-01-01,100.02
+Sarawak,primary,female,2017-01-01,99.98
+Sarawak,primary,female,2018-01-01,99.57
+Sarawak,primary,female,2019-01-01,100.0
+Sarawak,primary,female,2020-01-01,100.1
+Sarawak,primary,female,2021-01-01,100.7
+Sarawak,primary,female,2022-01-01,101.1
+Sarawak,primary,male,2016-01-01,98.82
+Sarawak,primary,male,2017-01-01,99.13
+Sarawak,primary,male,2018-01-01,98.91
+Sarawak,primary,male,2019-01-01,99.7
+Sarawak,primary,male,2020-01-01,99.6
+Sarawak,primary,male,2021-01-01,99.6
+Sarawak,primary,male,2022-01-01,100.3
+Sarawak,secondary_lower,both,2016-01-01,94.3106
+Sarawak,secondary_lower,both,2017-01-01,95.7767
+Sarawak,secondary_lower,both,2018-01-01,95.3701
+Sarawak,secondary_lower,both,2019-01-01,95.3
+Sarawak,secondary_lower,both,2020-01-01,96.0
+Sarawak,secondary_lower,both,2021-01-01,97.5
+Sarawak,secondary_lower,both,2022-01-01,99.0
+Sarawak,secondary_lower,female,2016-01-01,96.4445
+Sarawak,secondary_lower,female,2017-01-01,97.5599
+Sarawak,secondary_lower,female,2018-01-01,97.2874
+Sarawak,secondary_lower,female,2019-01-01,97.1
+Sarawak,secondary_lower,female,2020-01-01,97.7
+Sarawak,secondary_lower,female,2021-01-01,98.7
+Sarawak,secondary_lower,female,2022-01-01,99.6
+Sarawak,secondary_lower,male,2016-01-01,92.2721
+Sarawak,secondary_lower,male,2017-01-01,94.0587
+Sarawak,secondary_lower,male,2018-01-01,93.5813
+Sarawak,secondary_lower,male,2019-01-01,93.5
+Sarawak,secondary_lower,male,2020-01-01,94.4
+Sarawak,secondary_lower,male,2021-01-01,96.4
+Sarawak,secondary_lower,male,2022-01-01,98.5
+Sarawak,secondary_upper,both,2016-01-01,97.7736
+Sarawak,secondary_upper,both,2017-01-01,95.9102
+Sarawak,secondary_upper,both,2018-01-01,96.2509
+Sarawak,secondary_upper,both,2019-01-01,96.0
+Sarawak,secondary_upper,both,2020-01-01,91.8
+Sarawak,secondary_upper,both,2021-01-01,97.5
+Sarawak,secondary_upper,both,2022-01-01,98.9
+Sarawak,secondary_upper,female,2016-01-01,98.4458
+Sarawak,secondary_upper,female,2017-01-01,97.2364
+Sarawak,secondary_upper,female,2018-01-01,97.283
+Sarawak,secondary_upper,female,2019-01-01,97.2
+Sarawak,secondary_upper,female,2020-01-01,92.9
+Sarawak,secondary_upper,female,2021-01-01,97.9
+Sarawak,secondary_upper,female,2022-01-01,98.9
+Sarawak,secondary_upper,male,2016-01-01,97.0583
+Sarawak,secondary_upper,male,2017-01-01,94.4892
+Sarawak,secondary_upper,male,2018-01-01,95.1596
+Sarawak,secondary_upper,male,2019-01-01,94.8
+Sarawak,secondary_upper,male,2020-01-01,90.6
+Sarawak,secondary_upper,male,2021-01-01,97.2
+Sarawak,secondary_upper,male,2022-01-01,98.8
+Selangor,primary,both,2016-01-01,96.86
+Selangor,primary,both,2017-01-01,96.03
+Selangor,primary,both,2018-01-01,95.56
+Selangor,primary,both,2019-01-01,96.1
+Selangor,primary,both,2020-01-01,97.3
+Selangor,primary,both,2021-01-01,104.5
+Selangor,primary,both,2022-01-01,98.6
+Selangor,primary,female,2016-01-01,97.59
+Selangor,primary,female,2017-01-01,96.6
+Selangor,primary,female,2018-01-01,96.51
+Selangor,primary,female,2019-01-01,96.9
+Selangor,primary,female,2020-01-01,98.1
+Selangor,primary,female,2021-01-01,105.4
+Selangor,primary,female,2022-01-01,99.1
+Selangor,primary,male,2016-01-01,96.17
+Selangor,primary,male,2017-01-01,95.48
+Selangor,primary,male,2018-01-01,94.68
+Selangor,primary,male,2019-01-01,95.4
+Selangor,primary,male,2020-01-01,96.4
+Selangor,primary,male,2021-01-01,103.6
+Selangor,primary,male,2022-01-01,98.2
+Selangor,secondary_lower,both,2016-01-01,98.0499
+Selangor,secondary_lower,both,2017-01-01,100.1307
+Selangor,secondary_lower,both,2018-01-01,102.0542
+Selangor,secondary_lower,both,2019-01-01,97.6
+Selangor,secondary_lower,both,2020-01-01,97.1
+Selangor,secondary_lower,both,2021-01-01,101.8
+Selangor,secondary_lower,both,2022-01-01,98.1
+Selangor,secondary_lower,female,2016-01-01,98.6911
+Selangor,secondary_lower,female,2017-01-01,100.2461
+Selangor,secondary_lower,female,2018-01-01,101.8743
+Selangor,secondary_lower,female,2019-01-01,99.1
+Selangor,secondary_lower,female,2020-01-01,98.2
+Selangor,secondary_lower,female,2021-01-01,101.5
+Selangor,secondary_lower,female,2022-01-01,98.4
+Selangor,secondary_lower,male,2016-01-01,97.4134
+Selangor,secondary_lower,male,2017-01-01,100.0173
+Selangor,secondary_lower,male,2018-01-01,102.2325
+Selangor,secondary_lower,male,2019-01-01,96.1
+Selangor,secondary_lower,male,2020-01-01,95.9
+Selangor,secondary_lower,male,2021-01-01,102.1
+Selangor,secondary_lower,male,2022-01-01,97.7
+Selangor,secondary_upper,both,2016-01-01,100.3258
+Selangor,secondary_upper,both,2017-01-01,97.3706
+Selangor,secondary_upper,both,2018-01-01,97.6012
+Selangor,secondary_upper,both,2019-01-01,95.8
+Selangor,secondary_upper,both,2020-01-01,93.0
+Selangor,secondary_upper,both,2021-01-01,95.6
+Selangor,secondary_upper,both,2022-01-01,99.3
+Selangor,secondary_upper,female,2016-01-01,100.6855
+Selangor,secondary_upper,female,2017-01-01,98.2312
+Selangor,secondary_upper,female,2018-01-01,98.9636
+Selangor,secondary_upper,female,2019-01-01,96.9
+Selangor,secondary_upper,female,2020-01-01,93.5
+Selangor,secondary_upper,female,2021-01-01,96.1
+Selangor,secondary_upper,female,2022-01-01,99.6
+Selangor,secondary_upper,male,2016-01-01,99.9505
+Selangor,secondary_upper,male,2017-01-01,96.4688
+Selangor,secondary_upper,male,2018-01-01,96.2022
+Selangor,secondary_upper,male,2019-01-01,94.6
+Selangor,secondary_upper,male,2020-01-01,92.4
+Selangor,secondary_upper,male,2021-01-01,95.0
+Selangor,secondary_upper,male,2022-01-01,98.9
+Terengganu,primary,both,2016-01-01,100.43
+Terengganu,primary,both,2017-01-01,100.06
+Terengganu,primary,both,2018-01-01,99.87
+Terengganu,primary,both,2019-01-01,100.7
+Terengganu,primary,both,2020-01-01,100.4
+Terengganu,primary,both,2021-01-01,103.7
+Terengganu,primary,both,2022-01-01,103.8
+Terengganu,primary,female,2016-01-01,101.43
+Terengganu,primary,female,2017-01-01,101.45
+Terengganu,primary,female,2018-01-01,101.81
+Terengganu,primary,female,2019-01-01,101.5
+Terengganu,primary,female,2020-01-01,101.9
+Terengganu,primary,female,2021-01-01,104.4
+Terengganu,primary,female,2022-01-01,104.6
+Terengganu,primary,male,2016-01-01,99.51
+Terengganu,primary,male,2017-01-01,98.7
+Terengganu,primary,male,2018-01-01,97.99
+Terengganu,primary,male,2019-01-01,100.0
+Terengganu,primary,male,2020-01-01,99.0
+Terengganu,primary,male,2021-01-01,102.9
+Terengganu,primary,male,2022-01-01,103.1
+Terengganu,secondary_lower,both,2016-01-01,96.8437
+Terengganu,secondary_lower,both,2017-01-01,98.9429
+Terengganu,secondary_lower,both,2018-01-01,100.4034
+Terengganu,secondary_lower,both,2019-01-01,101.7
+Terengganu,secondary_lower,both,2020-01-01,99.5
+Terengganu,secondary_lower,both,2021-01-01,99.0
+Terengganu,secondary_lower,both,2022-01-01,99.7
+Terengganu,secondary_lower,female,2016-01-01,97.9727
+Terengganu,secondary_lower,female,2017-01-01,99.5636
+Terengganu,secondary_lower,female,2018-01-01,100.3665
+Terengganu,secondary_lower,female,2019-01-01,101.7
+Terengganu,secondary_lower,female,2020-01-01,99.9
+Terengganu,secondary_lower,female,2021-01-01,99.0
+Terengganu,secondary_lower,female,2022-01-01,99.9
+Terengganu,secondary_lower,male,2016-01-01,95.7021
+Terengganu,secondary_lower,male,2017-01-01,98.3104
+Terengganu,secondary_lower,male,2018-01-01,100.4405
+Terengganu,secondary_lower,male,2019-01-01,101.7
+Terengganu,secondary_lower,male,2020-01-01,99.2
+Terengganu,secondary_lower,male,2021-01-01,99.1
+Terengganu,secondary_lower,male,2022-01-01,99.6
+Terengganu,secondary_upper,both,2016-01-01,99.5952
+Terengganu,secondary_upper,both,2017-01-01,98.0835
+Terengganu,secondary_upper,both,2018-01-01,98.1639
+Terengganu,secondary_upper,both,2019-01-01,99.9
+Terengganu,secondary_upper,both,2020-01-01,96.1
+Terengganu,secondary_upper,both,2021-01-01,100.5
+Terengganu,secondary_upper,both,2022-01-01,99.0
+Terengganu,secondary_upper,female,2016-01-01,99.4789
+Terengganu,secondary_upper,female,2017-01-01,98.8052
+Terengganu,secondary_upper,female,2018-01-01,98.4996
+Terengganu,secondary_upper,female,2019-01-01,100.8
+Terengganu,secondary_upper,female,2020-01-01,97.3
+Terengganu,secondary_upper,female,2021-01-01,100.0
+Terengganu,secondary_upper,female,2022-01-01,99.1
+Terengganu,secondary_upper,male,2016-01-01,99.7217
+Terengganu,secondary_upper,male,2017-01-01,97.3145
+Terengganu,secondary_upper,male,2018-01-01,97.8014
+Terengganu,secondary_upper,male,2019-01-01,99.0
+Terengganu,secondary_upper,male,2020-01-01,94.9
+Terengganu,secondary_upper,male,2021-01-01,100.9
+Terengganu,secondary_upper,male,2022-01-01,98.8
+W.P. Kuala Lumpur,primary,both,2016-01-01,91.93
+W.P. Kuala Lumpur,primary,both,2017-01-01,90.37
+W.P. Kuala Lumpur,primary,both,2018-01-01,91.18
+W.P. Kuala Lumpur,primary,both,2019-01-01,91.6
+W.P. Kuala Lumpur,primary,both,2020-01-01,92.4
+W.P. Kuala Lumpur,primary,both,2021-01-01,94.5
+W.P. Kuala Lumpur,primary,both,2022-01-01,93.8
+W.P. Kuala Lumpur,primary,female,2016-01-01,93.13
+W.P. Kuala Lumpur,primary,female,2017-01-01,91.38
+W.P. Kuala Lumpur,primary,female,2018-01-01,92.1
+W.P. Kuala Lumpur,primary,female,2019-01-01,92.5
+W.P. Kuala Lumpur,primary,female,2020-01-01,93.1
+W.P. Kuala Lumpur,primary,female,2021-01-01,96.8
+W.P. Kuala Lumpur,primary,female,2022-01-01,94.6
+W.P. Kuala Lumpur,primary,male,2016-01-01,90.8
+W.P. Kuala Lumpur,primary,male,2017-01-01,89.4
+W.P. Kuala Lumpur,primary,male,2018-01-01,90.31
+W.P. Kuala Lumpur,primary,male,2019-01-01,90.7
+W.P. Kuala Lumpur,primary,male,2020-01-01,91.6
+W.P. Kuala Lumpur,primary,male,2021-01-01,92.4
+W.P. Kuala Lumpur,primary,male,2022-01-01,92.9
+W.P. Kuala Lumpur,secondary_lower,both,2016-01-01,98.0524
+W.P. Kuala Lumpur,secondary_lower,both,2017-01-01,96.7909
+W.P. Kuala Lumpur,secondary_lower,both,2018-01-01,94.0251
+W.P. Kuala Lumpur,secondary_lower,both,2019-01-01,97.6
+W.P. Kuala Lumpur,secondary_lower,both,2020-01-01,96.5
+W.P. Kuala Lumpur,secondary_lower,both,2021-01-01,98.0
+W.P. Kuala Lumpur,secondary_lower,both,2022-01-01,96.4
+W.P. Kuala Lumpur,secondary_lower,female,2016-01-01,99.2771
+W.P. Kuala Lumpur,secondary_lower,female,2017-01-01,97.4007
+W.P. Kuala Lumpur,secondary_lower,female,2018-01-01,95.4319
+W.P. Kuala Lumpur,secondary_lower,female,2019-01-01,98.0
+W.P. Kuala Lumpur,secondary_lower,female,2020-01-01,98.0
+W.P. Kuala Lumpur,secondary_lower,female,2021-01-01,98.7
+W.P. Kuala Lumpur,secondary_lower,female,2022-01-01,96.4
+W.P. Kuala Lumpur,secondary_lower,male,2016-01-01,96.8634
+W.P. Kuala Lumpur,secondary_lower,male,2017-01-01,96.1827
+W.P. Kuala Lumpur,secondary_lower,male,2018-01-01,92.6775
+W.P. Kuala Lumpur,secondary_lower,male,2019-01-01,97.2
+W.P. Kuala Lumpur,secondary_lower,male,2020-01-01,94.9
+W.P. Kuala Lumpur,secondary_lower,male,2021-01-01,97.2
+W.P. Kuala Lumpur,secondary_lower,male,2022-01-01,96.5
+W.P. Kuala Lumpur,secondary_upper,both,2016-01-01,100.5322
+W.P. Kuala Lumpur,secondary_upper,both,2017-01-01,92.2802
+W.P. Kuala Lumpur,secondary_upper,both,2018-01-01,91.9811
+W.P. Kuala Lumpur,secondary_upper,both,2019-01-01,99.4
+W.P. Kuala Lumpur,secondary_upper,both,2020-01-01,80.8
+W.P. Kuala Lumpur,secondary_upper,both,2021-01-01,94.7
+W.P. Kuala Lumpur,secondary_upper,both,2022-01-01,97.5
+W.P. Kuala Lumpur,secondary_upper,female,2016-01-01,101.1574
+W.P. Kuala Lumpur,secondary_upper,female,2017-01-01,92.2339
+W.P. Kuala Lumpur,secondary_upper,female,2018-01-01,93.8397
+W.P. Kuala Lumpur,secondary_upper,female,2019-01-01,100.6
+W.P. Kuala Lumpur,secondary_upper,female,2020-01-01,80.7
+W.P. Kuala Lumpur,secondary_upper,female,2021-01-01,94.9
+W.P. Kuala Lumpur,secondary_upper,female,2022-01-01,98.1
+W.P. Kuala Lumpur,secondary_upper,male,2016-01-01,99.9075
+W.P. Kuala Lumpur,secondary_upper,male,2017-01-01,92.3269
+W.P. Kuala Lumpur,secondary_upper,male,2018-01-01,90.1594
+W.P. Kuala Lumpur,secondary_upper,male,2019-01-01,98.1
+W.P. Kuala Lumpur,secondary_upper,male,2020-01-01,80.9
+W.P. Kuala Lumpur,secondary_upper,male,2021-01-01,94.5
+W.P. Kuala Lumpur,secondary_upper,male,2022-01-01,97.0
+W.P. Labuan,primary,both,2016-01-01,95.05
+W.P. Labuan,primary,both,2017-01-01,91.31
+W.P. Labuan,primary,both,2018-01-01,94.54
+W.P. Labuan,primary,both,2019-01-01,89.8
+W.P. Labuan,primary,both,2020-01-01,94.1
+W.P. Labuan,primary,both,2021-01-01,91.4
+W.P. Labuan,primary,both,2022-01-01,92.4
+W.P. Labuan,primary,female,2016-01-01,97.96
+W.P. Labuan,primary,female,2017-01-01,90.31
+W.P. Labuan,primary,female,2018-01-01,94.99
+W.P. Labuan,primary,female,2019-01-01,90.0
+W.P. Labuan,primary,female,2020-01-01,96.8
+W.P. Labuan,primary,female,2021-01-01,93.2
+W.P. Labuan,primary,female,2022-01-01,93.9
+W.P. Labuan,primary,male,2016-01-01,92.4
+W.P. Labuan,primary,male,2017-01-01,92.24
+W.P. Labuan,primary,male,2018-01-01,94.09
+W.P. Labuan,primary,male,2019-01-01,89.7
+W.P. Labuan,primary,male,2020-01-01,91.6
+W.P. Labuan,primary,male,2021-01-01,89.5
+W.P. Labuan,primary,male,2022-01-01,90.9
+W.P. Labuan,secondary_lower,both,2016-01-01,78.3156
+W.P. Labuan,secondary_lower,both,2017-01-01,99.43
+W.P. Labuan,secondary_lower,both,2018-01-01,89.127
+W.P. Labuan,secondary_lower,both,2019-01-01,94.1
+W.P. Labuan,secondary_lower,both,2020-01-01,103.9
+W.P. Labuan,secondary_lower,both,2021-01-01,98.0
+W.P. Labuan,secondary_lower,both,2022-01-01,102.8
+W.P. Labuan,secondary_lower,female,2016-01-01,80.4911
+W.P. Labuan,secondary_lower,female,2017-01-01,99.5
+W.P. Labuan,secondary_lower,female,2018-01-01,89.0909
+W.P. Labuan,secondary_lower,female,2019-01-01,94.2
+W.P. Labuan,secondary_lower,female,2020-01-01,104.7
+W.P. Labuan,secondary_lower,female,2021-01-01,98.2
+W.P. Labuan,secondary_lower,female,2022-01-01,103.2
+W.P. Labuan,secondary_lower,male,2016-01-01,76.2581
+W.P. Labuan,secondary_lower,male,2017-01-01,99.3631
+W.P. Labuan,secondary_lower,male,2018-01-01,89.1603
+W.P. Labuan,secondary_lower,male,2019-01-01,94.0
+W.P. Labuan,secondary_lower,male,2020-01-01,103.2
+W.P. Labuan,secondary_lower,male,2021-01-01,97.8
+W.P. Labuan,secondary_lower,male,2022-01-01,102.5
+W.P. Labuan,secondary_upper,both,2016-01-01,101.9983
+W.P. Labuan,secondary_upper,both,2017-01-01,97.0185
+W.P. Labuan,secondary_upper,both,2018-01-01,91.4501
+W.P. Labuan,secondary_upper,both,2019-01-01,99.9
+W.P. Labuan,secondary_upper,both,2020-01-01,95.8
+W.P. Labuan,secondary_upper,both,2021-01-01,96.0
+W.P. Labuan,secondary_upper,both,2022-01-01,99.3
+W.P. Labuan,secondary_upper,female,2016-01-01,100.1721
+W.P. Labuan,secondary_upper,female,2017-01-01,98.7138
+W.P. Labuan,secondary_upper,female,2018-01-01,91.0774
+W.P. Labuan,secondary_upper,female,2019-01-01,103.5
+W.P. Labuan,secondary_upper,female,2020-01-01,95.3
+W.P. Labuan,secondary_upper,female,2021-01-01,95.0
+W.P. Labuan,secondary_upper,female,2022-01-01,99.5
+W.P. Labuan,secondary_upper,male,2016-01-01,103.8596
+W.P. Labuan,secondary_upper,male,2017-01-01,95.315
+W.P. Labuan,secondary_upper,male,2018-01-01,91.8197
+W.P. Labuan,secondary_upper,male,2019-01-01,96.7
+W.P. Labuan,secondary_upper,male,2020-01-01,96.4
+W.P. Labuan,secondary_upper,male,2021-01-01,97.0
+W.P. Labuan,secondary_upper,male,2022-01-01,99.2
+W.P. Putrajaya,primary,both,2016-01-01,103.48
+W.P. Putrajaya,primary,both,2017-01-01,103.56
+W.P. Putrajaya,primary,both,2018-01-01,101.26
+W.P. Putrajaya,primary,both,2019-01-01,99.5
+W.P. Putrajaya,primary,both,2020-01-01,101.4
+W.P. Putrajaya,primary,both,2021-01-01,76.8
+W.P. Putrajaya,primary,both,2022-01-01,102.9
+W.P. Putrajaya,primary,female,2016-01-01,104.8
+W.P. Putrajaya,primary,female,2017-01-01,103.56
+W.P. Putrajaya,primary,female,2018-01-01,102.78
+W.P. Putrajaya,primary,female,2019-01-01,99.5
+W.P. Putrajaya,primary,female,2020-01-01,104.3
+W.P. Putrajaya,primary,female,2021-01-01,80.0
+W.P. Putrajaya,primary,female,2022-01-01,104.9
+W.P. Putrajaya,primary,male,2016-01-01,102.23
+W.P. Putrajaya,primary,male,2017-01-01,103.56
+W.P. Putrajaya,primary,male,2018-01-01,99.7
+W.P. Putrajaya,primary,male,2019-01-01,99.6
+W.P. Putrajaya,primary,male,2020-01-01,98.7
+W.P. Putrajaya,primary,male,2021-01-01,73.9
+W.P. Putrajaya,primary,male,2022-01-01,101.1
+W.P. Putrajaya,secondary_lower,both,2016-01-01,110.3378
+W.P. Putrajaya,secondary_lower,both,2017-01-01,107.5758
+W.P. Putrajaya,secondary_lower,both,2018-01-01,97.7966
+W.P. Putrajaya,secondary_lower,both,2019-01-01,103.3
+W.P. Putrajaya,secondary_lower,both,2020-01-01,105.7
+W.P. Putrajaya,secondary_lower,both,2021-01-01,97.5
+W.P. Putrajaya,secondary_lower,both,2022-01-01,103.2
+W.P. Putrajaya,secondary_lower,female,2016-01-01,111.7188
+W.P. Putrajaya,secondary_lower,female,2017-01-01,109.7004
+W.P. Putrajaya,secondary_lower,female,2018-01-01,98.8447
+W.P. Putrajaya,secondary_lower,female,2019-01-01,108.6
+W.P. Putrajaya,secondary_lower,female,2020-01-01,108.3
+W.P. Putrajaya,secondary_lower,female,2021-01-01,97.2
+W.P. Putrajaya,secondary_lower,female,2022-01-01,105.9
+W.P. Putrajaya,secondary_lower,male,2016-01-01,109.2857
+W.P. Putrajaya,secondary_lower,male,2017-01-01,105.889
+W.P. Putrajaya,secondary_lower,male,2018-01-01,96.9728
+W.P. Putrajaya,secondary_lower,male,2019-01-01,99.1
+W.P. Putrajaya,secondary_lower,male,2020-01-01,103.6
+W.P. Putrajaya,secondary_lower,male,2021-01-01,97.8
+W.P. Putrajaya,secondary_lower,male,2022-01-01,100.9
+W.P. Putrajaya,secondary_upper,both,2016-01-01,109.4761
+W.P. Putrajaya,secondary_upper,both,2017-01-01,97.0238
+W.P. Putrajaya,secondary_upper,both,2018-01-01,95.034
+W.P. Putrajaya,secondary_upper,both,2019-01-01,103.6
+W.P. Putrajaya,secondary_upper,both,2020-01-01,93.5
+W.P. Putrajaya,secondary_upper,both,2021-01-01,93.7
+W.P. Putrajaya,secondary_upper,both,2022-01-01,101.7
+W.P. Putrajaya,secondary_upper,female,2016-01-01,110.9515
+W.P. Putrajaya,secondary_upper,female,2017-01-01,95.2872
+W.P. Putrajaya,secondary_upper,female,2018-01-01,94.8438
+W.P. Putrajaya,secondary_upper,female,2019-01-01,101.2
+W.P. Putrajaya,secondary_upper,female,2020-01-01,93.6
+W.P. Putrajaya,secondary_upper,female,2021-01-01,94.5
+W.P. Putrajaya,secondary_upper,female,2022-01-01,99.1
+W.P. Putrajaya,secondary_upper,male,2016-01-01,108.3671
+W.P. Putrajaya,secondary_upper,male,2017-01-01,98.4394
+W.P. Putrajaya,secondary_upper,male,2018-01-01,95.1807
+W.P. Putrajaya,secondary_upper,male,2019-01-01,105.7
+W.P. Putrajaya,secondary_upper,male,2020-01-01,93.4
+W.P. Putrajaya,secondary_upper,male,2021-01-01,92.9
+W.P. Putrajaya,secondary_upper,male,2022-01-01,104.0

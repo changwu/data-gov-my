@@ -1,0 +1,290 @@
+state,date,gini
+Johor,1974-01-01,0.439
+Johor,1976-01-01,0.469
+Johor,1979-01-01,0.442
+Johor,1984-01-01,0.404
+Johor,1987-01-01,0.386
+Johor,1989-01-01,0.381
+Johor,1992-01-01,0.423
+Johor,1995-01-01,0.399
+Johor,1997-01-01,0.397
+Johor,1999-01-01,0.386
+Johor,2002-01-01,0.408
+Johor,2004-01-01,0.395
+Johor,2007-01-01,0.368
+Johor,2009-01-01,0.393
+Johor,2012-01-01,0.383
+Johor,2014-01-01,0.324
+Johor,2016-01-01,0.354
+Johor,2019-01-01,0.366
+Johor,2022-01-01,0.366
+Johor,2024-01-01,0.348
+Kedah,1974-01-01,0.523
+Kedah,1976-01-01,0.497
+Kedah,1979-01-01,0.468
+Kedah,1984-01-01,0.476
+Kedah,1987-01-01,0.434
+Kedah,1989-01-01,0.428
+Kedah,1992-01-01,0.433
+Kedah,1995-01-01,0.406
+Kedah,1997-01-01,0.429
+Kedah,1999-01-01,0.409
+Kedah,2002-01-01,0.426
+Kedah,2004-01-01,0.387
+Kedah,2007-01-01,0.392
+Kedah,2009-01-01,0.408
+Kedah,2012-01-01,0.391
+Kedah,2014-01-01,0.365
+Kedah,2016-01-01,0.393
+Kedah,2019-01-01,0.354
+Kedah,2022-01-01,0.359
+Kedah,2024-01-01,0.334
+Kelantan,1974-01-01,0.612
+Kelantan,1976-01-01,0.505
+Kelantan,1979-01-01,0.438
+Kelantan,1984-01-01,0.464
+Kelantan,1987-01-01,0.414
+Kelantan,1989-01-01,0.407
+Kelantan,1992-01-01,0.451
+Kelantan,1995-01-01,0.442
+Kelantan,1997-01-01,0.442
+Kelantan,1999-01-01,0.424
+Kelantan,2002-01-01,0.444
+Kelantan,2004-01-01,0.416
+Kelantan,2007-01-01,0.405
+Kelantan,2009-01-01,0.428
+Kelantan,2012-01-01,0.41
+Kelantan,2014-01-01,0.393
+Kelantan,2016-01-01,0.389
+Kelantan,2019-01-01,0.378
+Kelantan,2022-01-01,0.385
+Kelantan,2024-01-01,0.356
+Melaka,1974-01-01,0.506
+Melaka,1976-01-01,0.558
+Melaka,1979-01-01,0.472
+Melaka,1984-01-01,0.438
+Melaka,1987-01-01,0.403
+Melaka,1989-01-01,0.396
+Melaka,1992-01-01,0.397
+Melaka,1995-01-01,0.399
+Melaka,1997-01-01,0.371
+Melaka,1999-01-01,0.399
+Melaka,2002-01-01,0.386
+Melaka,2004-01-01,0.352
+Melaka,2007-01-01,0.38
+Melaka,2009-01-01,0.411
+Melaka,2012-01-01,0.355
+Melaka,2014-01-01,0.316
+Melaka,2016-01-01,0.337
+Melaka,2019-01-01,0.383
+Melaka,2022-01-01,0.37
+Melaka,2024-01-01,0.337
+Negeri Sembilan,1974-01-01,0.465
+Negeri Sembilan,1976-01-01,0.49
+Negeri Sembilan,1979-01-01,0.432
+Negeri Sembilan,1984-01-01,0.422
+Negeri Sembilan,1987-01-01,0.431
+Negeri Sembilan,1989-01-01,0.366
+Negeri Sembilan,1992-01-01,0.406
+Negeri Sembilan,1995-01-01,0.384
+Negeri Sembilan,1997-01-01,0.408
+Negeri Sembilan,1999-01-01,0.392
+Negeri Sembilan,2002-01-01,0.401
+Negeri Sembilan,2004-01-01,0.38
+Negeri Sembilan,2007-01-01,0.385
+Negeri Sembilan,2009-01-01,0.372
+Negeri Sembilan,2012-01-01,0.382
+Negeri Sembilan,2014-01-01,0.361
+Negeri Sembilan,2016-01-01,0.38
+Negeri Sembilan,2019-01-01,0.391
+Negeri Sembilan,2022-01-01,0.369
+Negeri Sembilan,2024-01-01,0.343
+Pahang,1974-01-01,0.445
+Pahang,1976-01-01,0.384
+Pahang,1979-01-01,0.478
+Pahang,1984-01-01,0.416
+Pahang,1987-01-01,0.372
+Pahang,1989-01-01,0.35
+Pahang,1992-01-01,0.369
+Pahang,1995-01-01,0.373
+Pahang,1997-01-01,0.359
+Pahang,1999-01-01,0.332
+Pahang,2002-01-01,0.404
+Pahang,2004-01-01,0.389
+Pahang,2007-01-01,0.38
+Pahang,2009-01-01,0.382
+Pahang,2012-01-01,0.354
+Pahang,2014-01-01,0.36
+Pahang,2016-01-01,0.324
+Pahang,2019-01-01,0.33
+Pahang,2022-01-01,0.308
+Pahang,2024-01-01,0.319
+Perak,1974-01-01,0.452
+Perak,1976-01-01,0.525
+Perak,1979-01-01,0.447
+Perak,1984-01-01,0.428
+Perak,1987-01-01,0.41
+Perak,1989-01-01,0.421
+Perak,1992-01-01,0.399
+Perak,1995-01-01,0.397
+Perak,1997-01-01,0.381
+Perak,1999-01-01,0.387
+Perak,2002-01-01,0.417
+Perak,2004-01-01,0.393
+Perak,2007-01-01,0.399
+Perak,2009-01-01,0.4
+Perak,2012-01-01,0.417
+Perak,2014-01-01,0.366
+Perak,2016-01-01,0.362
+Perak,2019-01-01,0.377
+Perak,2022-01-01,0.368
+Perak,2024-01-01,0.298
+Perlis,1974-01-01,0.425
+Perlis,1976-01-01,0.498
+Perlis,1979-01-01,0.44
+Perlis,1984-01-01,0.459
+Perlis,1987-01-01,0.408
+Perlis,1989-01-01,0.377
+Perlis,1992-01-01,0.415
+Perlis,1995-01-01,0.379
+Perlis,1997-01-01,0.412
+Perlis,1999-01-01,0.394
+Perlis,2002-01-01,0.437
+Perlis,2004-01-01,0.423
+Perlis,2007-01-01,0.454
+Perlis,2009-01-01,0.434
+Perlis,2012-01-01,0.455
+Perlis,2014-01-01,0.346
+Perlis,2016-01-01,0.327
+Perlis,2019-01-01,0.334
+Perlis,2022-01-01,0.336
+Perlis,2024-01-01,0.334
+Pulau Pinang,1974-01-01,0.597
+Pulau Pinang,1976-01-01,0.608
+Pulau Pinang,1979-01-01,0.492
+Pulau Pinang,1984-01-01,0.452
+Pulau Pinang,1987-01-01,0.422
+Pulau Pinang,1989-01-01,0.406
+Pulau Pinang,1992-01-01,0.412
+Pulau Pinang,1995-01-01,0.405
+Pulau Pinang,1997-01-01,0.398
+Pulau Pinang,1999-01-01,0.399
+Pulau Pinang,2002-01-01,0.435
+Pulau Pinang,2004-01-01,0.398
+Pulau Pinang,2007-01-01,0.411
+Pulau Pinang,2009-01-01,0.419
+Pulau Pinang,2012-01-01,0.37
+Pulau Pinang,2014-01-01,0.364
+Pulau Pinang,2016-01-01,0.356
+Pulau Pinang,2019-01-01,0.359
+Pulau Pinang,2022-01-01,0.371
+Pulau Pinang,2024-01-01,0.311
+Sabah,1979-01-01,0.49
+Sabah,1984-01-01,0.491
+Sabah,1987-01-01,0.467
+Sabah,1989-01-01,0.459
+Sabah,1992-01-01,0.468
+Sabah,1995-01-01,0.448
+Sabah,1997-01-01,0.454
+Sabah,1999-01-01,0.448
+Sabah,2002-01-01,0.465
+Sabah,2004-01-01,0.477
+Sabah,2007-01-01,0.451
+Sabah,2009-01-01,0.454
+Sabah,2012-01-01,0.427
+Sabah,2014-01-01,0.387
+Sabah,2016-01-01,0.402
+Sabah,2019-01-01,0.397
+Sabah,2022-01-01,0.395
+Sabah,2024-01-01,0.405
+Sarawak,1979-01-01,0.501
+Sarawak,1984-01-01,0.498
+Sarawak,1987-01-01,0.465
+Sarawak,1989-01-01,0.441
+Sarawak,1992-01-01,0.467
+Sarawak,1995-01-01,0.44
+Sarawak,1997-01-01,0.447
+Sarawak,1999-01-01,0.407
+Sarawak,2002-01-01,0.445
+Sarawak,2004-01-01,0.44
+Sarawak,2007-01-01,0.442
+Sarawak,2009-01-01,0.448
+Sarawak,2012-01-01,0.44
+Sarawak,2014-01-01,0.391
+Sarawak,2016-01-01,0.386
+Sarawak,2019-01-01,0.387
+Sarawak,2022-01-01,0.382
+Sarawak,2024-01-01,0.361
+Selangor,1974-01-01,0.507
+Selangor,1976-01-01,0.516
+Selangor,1979-01-01,0.505
+Selangor,1984-01-01,0.481
+Selangor,1987-01-01,0.462
+Selangor,1989-01-01,0.444
+Selangor,1992-01-01,0.446
+Selangor,1995-01-01,0.424
+Selangor,1997-01-01,0.409
+Selangor,1999-01-01,0.394
+Selangor,2002-01-01,0.423
+Selangor,2004-01-01,0.443
+Selangor,2007-01-01,0.418
+Selangor,2009-01-01,0.424
+Selangor,2012-01-01,0.396
+Selangor,2014-01-01,0.379
+Selangor,2016-01-01,0.372
+Selangor,2019-01-01,0.393
+Selangor,2022-01-01,0.361
+Selangor,2024-01-01,0.332
+Terengganu,1974-01-01,0.502
+Terengganu,1976-01-01,0.482
+Terengganu,1979-01-01,0.458
+Terengganu,1984-01-01,0.461
+Terengganu,1987-01-01,0.478
+Terengganu,1989-01-01,0.459
+Terengganu,1992-01-01,0.448
+Terengganu,1995-01-01,0.464
+Terengganu,1997-01-01,0.466
+Terengganu,1999-01-01,0.44
+Terengganu,2002-01-01,0.424
+Terengganu,2004-01-01,0.443
+Terengganu,2007-01-01,0.399
+Terengganu,2009-01-01,0.418
+Terengganu,2012-01-01,0.426
+Terengganu,2014-01-01,0.36
+Terengganu,2016-01-01,0.328
+Terengganu,2019-01-01,0.335
+Terengganu,2022-01-01,0.326
+Terengganu,2024-01-01,0.263
+W.P. Kuala Lumpur,1984-01-01,0.486
+W.P. Kuala Lumpur,1987-01-01,0.465
+W.P. Kuala Lumpur,1989-01-01,0.428
+W.P. Kuala Lumpur,1992-01-01,0.443
+W.P. Kuala Lumpur,1995-01-01,0.423
+W.P. Kuala Lumpur,1997-01-01,0.417
+W.P. Kuala Lumpur,1999-01-01,0.414
+W.P. Kuala Lumpur,2002-01-01,0.448
+W.P. Kuala Lumpur,2004-01-01,0.467
+W.P. Kuala Lumpur,2007-01-01,0.446
+W.P. Kuala Lumpur,2009-01-01,0.374
+W.P. Kuala Lumpur,2012-01-01,0.442
+W.P. Kuala Lumpur,2014-01-01,0.407
+W.P. Kuala Lumpur,2016-01-01,0.378
+W.P. Kuala Lumpur,2019-01-01,0.35
+W.P. Kuala Lumpur,2022-01-01,0.38
+W.P. Kuala Lumpur,2024-01-01,0.375
+W.P. Labuan,2007-01-01,0.388
+W.P. Labuan,2009-01-01,0.387
+W.P. Labuan,2012-01-01,0.383
+W.P. Labuan,2014-01-01,0.385
+W.P. Labuan,2016-01-01,0.398
+W.P. Labuan,2019-01-01,0.333
+W.P. Labuan,2022-01-01,0.3
+W.P. Labuan,2024-01-01,0.327
+W.P. Putrajaya,2007-01-01,0.362
+W.P. Putrajaya,2009-01-01,0.342
+W.P. Putrajaya,2012-01-01,0.305
+W.P. Putrajaya,2014-01-01,0.374
+W.P. Putrajaya,2016-01-01,0.369
+W.P. Putrajaya,2019-01-01,0.361
+W.P. Putrajaya,2022-01-01,0.368
+W.P. Putrajaya,2024-01-01,0.324

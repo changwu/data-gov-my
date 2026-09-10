@@ -1,0 +1,2113 @@
+state,type,commodity,date,production
+Malaysia,energy,coal,2016-01-01,2414765
+Malaysia,energy,coal,2017-01-01,2988212
+Malaysia,energy,coal,2018-01-01,2652813
+Malaysia,energy,coal,2019-01-01,3459122
+Malaysia,energy,coal,2020-01-01,2978248
+Malaysia,energy,coal,2021-01-01,2978248
+Malaysia,metallic,bauxite,2016-01-01,342924
+Malaysia,metallic,bauxite,2017-01-01,189131
+Malaysia,metallic,bauxite,2018-01-01,589684
+Malaysia,metallic,bauxite,2019-01-01,900561
+Malaysia,metallic,bauxite,2020-01-01,594714
+Malaysia,metallic,bauxite,2021-01-01,47577
+Malaysia,metallic,gold,2016-01-01,2248990
+Malaysia,metallic,gold,2017-01-01,2124203
+Malaysia,metallic,gold,2018-01-01,2978482
+Malaysia,metallic,gold,2019-01-01,3150935
+Malaysia,metallic,gold,2020-01-01,1715976
+Malaysia,metallic,gold,2021-01-01,1781191
+Malaysia,metallic,ilmenite,2016-01-01,4316
+Malaysia,metallic,ilmenite,2017-01-01,6363
+Malaysia,metallic,ilmenite,2018-01-01,14158
+Malaysia,metallic,ilmenite,2019-01-01,2334
+Malaysia,metallic,ilmenite,2020-01-01,2548
+Malaysia,metallic,ilmenite,2021-01-01,4598
+Malaysia,metallic,iron_ore,2016-01-01,1914492
+Malaysia,metallic,iron_ore,2017-01-01,3919632
+Malaysia,metallic,iron_ore,2018-01-01,3353634
+Malaysia,metallic,iron_ore,2019-01-01,4160462
+Malaysia,metallic,iron_ore,2020-01-01,5371411
+Malaysia,metallic,iron_ore,2021-01-01,4874485
+Malaysia,metallic,manganese,2016-01-01,700717
+Malaysia,metallic,manganese,2017-01-01,1226106
+Malaysia,metallic,manganese,2018-01-01,1262725
+Malaysia,metallic,manganese,2019-01-01,1130749
+Malaysia,metallic,manganese,2020-01-01,869864
+Malaysia,metallic,manganese,2021-01-01,668558
+Malaysia,metallic,monazite,2016-01-01,1875
+Malaysia,metallic,monazite,2017-01-01,302
+Malaysia,metallic,monazite,2018-01-01,86
+Malaysia,metallic,monazite,2019-01-01,54
+Malaysia,metallic,monazite,2020-01-01,18
+Malaysia,metallic,monazite,2021-01-01,23
+Malaysia,metallic,rutile,2016-01-01,3810
+Malaysia,metallic,rutile,2017-01-01,5266
+Malaysia,metallic,rutile,2018-01-01,5070
+Malaysia,metallic,rutile,2019-01-01,5947
+Malaysia,metallic,rutile,2020-01-01,5136
+Malaysia,metallic,rutile,2021-01-01,11513
+Malaysia,metallic,silver,2016-01-01,1075325
+Malaysia,metallic,silver,2017-01-01,1404399
+Malaysia,metallic,silver,2018-01-01,1541689
+Malaysia,metallic,silver,2019-01-01,686293
+Malaysia,metallic,silver,2020-01-01,422506
+Malaysia,metallic,silver,2021-01-01,672417
+Malaysia,metallic,struverite,2016-01-01,77
+Malaysia,metallic,struverite,2017-01-01,61
+Malaysia,metallic,struverite,2018-01-01,274
+Malaysia,metallic,struverite,2019-01-01,12
+Malaysia,metallic,struverite,2020-01-01,9
+Malaysia,metallic,struverite,2021-01-01,0
+Malaysia,metallic,tin_ore,2016-01-01,4158
+Malaysia,metallic,tin_ore,2017-01-01,3895
+Malaysia,metallic,tin_ore,2018-01-01,3868
+Malaysia,metallic,tin_ore,2019-01-01,652
+Malaysia,metallic,tin_ore,2020-01-01,423
+Malaysia,metallic,tin_ore,2021-01-01,3192
+Malaysia,metallic,xenotime,2016-01-01,4
+Malaysia,metallic,xenotime,2017-01-01,0
+Malaysia,metallic,xenotime,2018-01-01,1568
+Malaysia,metallic,xenotime,2019-01-01,60
+Malaysia,metallic,xenotime,2020-01-01,3
+Malaysia,metallic,xenotime,2021-01-01,23
+Malaysia,metallic,zircon,2016-01-01,653
+Malaysia,metallic,zircon,2017-01-01,1595
+Malaysia,metallic,zircon,2018-01-01,509
+Malaysia,metallic,zircon,2019-01-01,449
+Malaysia,metallic,zircon,2020-01-01,157
+Malaysia,metallic,zircon,2021-01-01,1518
+Malaysia,non_metallic,aggregates,2016-01-01,133072882
+Malaysia,non_metallic,aggregates,2017-01-01,146143665
+Malaysia,non_metallic,aggregates,2018-01-01,132124505
+Malaysia,non_metallic,aggregates,2019-01-01,128622003
+Malaysia,non_metallic,aggregates,2020-01-01,108084837
+Malaysia,non_metallic,aggregates,2021-01-01,109519816
+Malaysia,non_metallic,clay,2016-01-01,5794833
+Malaysia,non_metallic,clay,2017-01-01,4776554
+Malaysia,non_metallic,clay,2018-01-01,8326475
+Malaysia,non_metallic,clay,2019-01-01,9150675
+Malaysia,non_metallic,clay,2020-01-01,6198358
+Malaysia,non_metallic,clay,2021-01-01,6632913
+Malaysia,non_metallic,earth_materials,2016-01-01,25490877
+Malaysia,non_metallic,earth_materials,2017-01-01,33987816
+Malaysia,non_metallic,earth_materials,2018-01-01,29357421
+Malaysia,non_metallic,earth_materials,2019-01-01,24368490
+Malaysia,non_metallic,earth_materials,2020-01-01,19167095
+Malaysia,non_metallic,earth_materials,2021-01-01,16699648
+Malaysia,non_metallic,feldspar,2016-01-01,441856
+Malaysia,non_metallic,feldspar,2017-01-01,411204
+Malaysia,non_metallic,feldspar,2018-01-01,414441
+Malaysia,non_metallic,feldspar,2019-01-01,241189
+Malaysia,non_metallic,feldspar,2020-01-01,144487
+Malaysia,non_metallic,feldspar,2021-01-01,168570
+Malaysia,non_metallic,kaolin,2016-01-01,392932
+Malaysia,non_metallic,kaolin,2017-01-01,444559
+Malaysia,non_metallic,kaolin,2018-01-01,496219
+Malaysia,non_metallic,kaolin,2019-01-01,400722
+Malaysia,non_metallic,kaolin,2020-01-01,336565
+Malaysia,non_metallic,kaolin,2021-01-01,228605
+Malaysia,non_metallic,limestone,2016-01-01,25431150
+Malaysia,non_metallic,limestone,2017-01-01,42577053
+Malaysia,non_metallic,limestone,2018-01-01,44946159
+Malaysia,non_metallic,limestone,2019-01-01,44228283
+Malaysia,non_metallic,limestone,2020-01-01,22377940
+Malaysia,non_metallic,limestone,2021-01-01,19978936
+Malaysia,non_metallic,mica,2016-01-01,4701
+Malaysia,non_metallic,mica,2017-01-01,4787
+Malaysia,non_metallic,mica,2018-01-01,5165
+Malaysia,non_metallic,mica,2019-01-01,4358
+Malaysia,non_metallic,mica,2020-01-01,4083
+Malaysia,non_metallic,mica,2021-01-01,3406
+Malaysia,non_metallic,sand_and_gravel,2016-01-01,44944336
+Malaysia,non_metallic,sand_and_gravel,2017-01-01,36702382
+Malaysia,non_metallic,sand_and_gravel,2018-01-01,44919129
+Malaysia,non_metallic,sand_and_gravel,2019-01-01,69424689
+Malaysia,non_metallic,sand_and_gravel,2020-01-01,35681476
+Malaysia,non_metallic,sand_and_gravel,2021-01-01,35556500
+Malaysia,non_metallic,silica,2016-01-01,5408814
+Malaysia,non_metallic,silica,2017-01-01,2633943
+Malaysia,non_metallic,silica,2018-01-01,4063970
+Malaysia,non_metallic,silica,2019-01-01,4704505
+Malaysia,non_metallic,silica,2020-01-01,5172409
+Malaysia,non_metallic,silica,2021-01-01,6913353
+Johor,energy,coal,2016-01-01,0
+Johor,energy,coal,2017-01-01,0
+Johor,energy,coal,2018-01-01,0
+Johor,energy,coal,2019-01-01,0
+Johor,energy,coal,2020-01-01,0
+Johor,energy,coal,2021-01-01,0
+Johor,metallic,bauxite,2016-01-01,342924
+Johor,metallic,bauxite,2017-01-01,189131
+Johor,metallic,bauxite,2018-01-01,589684
+Johor,metallic,bauxite,2019-01-01,900561
+Johor,metallic,bauxite,2020-01-01,134714
+Johor,metallic,bauxite,2021-01-01,0
+Johor,metallic,gold,2016-01-01,0
+Johor,metallic,gold,2017-01-01,0
+Johor,metallic,gold,2018-01-01,0
+Johor,metallic,gold,2019-01-01,0
+Johor,metallic,gold,2020-01-01,0
+Johor,metallic,gold,2021-01-01,0
+Johor,metallic,ilmenite,2016-01-01,0
+Johor,metallic,ilmenite,2017-01-01,0
+Johor,metallic,ilmenite,2018-01-01,0
+Johor,metallic,ilmenite,2019-01-01,0
+Johor,metallic,ilmenite,2020-01-01,0
+Johor,metallic,ilmenite,2021-01-01,0
+Johor,metallic,iron_ore,2016-01-01,195895
+Johor,metallic,iron_ore,2017-01-01,1212009
+Johor,metallic,iron_ore,2018-01-01,904137
+Johor,metallic,iron_ore,2019-01-01,668672
+Johor,metallic,iron_ore,2020-01-01,683632
+Johor,metallic,iron_ore,2021-01-01,468990
+Johor,metallic,manganese,2016-01-01,478638
+Johor,metallic,manganese,2017-01-01,0
+Johor,metallic,manganese,2018-01-01,0
+Johor,metallic,manganese,2019-01-01,0
+Johor,metallic,manganese,2020-01-01,0
+Johor,metallic,manganese,2021-01-01,0
+Johor,metallic,monazite,2016-01-01,0
+Johor,metallic,monazite,2017-01-01,0
+Johor,metallic,monazite,2018-01-01,0
+Johor,metallic,monazite,2019-01-01,0
+Johor,metallic,monazite,2020-01-01,0
+Johor,metallic,monazite,2021-01-01,0
+Johor,metallic,rutile,2016-01-01,0
+Johor,metallic,rutile,2017-01-01,0
+Johor,metallic,rutile,2018-01-01,0
+Johor,metallic,rutile,2019-01-01,0
+Johor,metallic,rutile,2020-01-01,0
+Johor,metallic,rutile,2021-01-01,0
+Johor,metallic,silver,2016-01-01,0
+Johor,metallic,silver,2017-01-01,0
+Johor,metallic,silver,2018-01-01,0
+Johor,metallic,silver,2019-01-01,0
+Johor,metallic,silver,2020-01-01,0
+Johor,metallic,silver,2021-01-01,0
+Johor,metallic,struverite,2016-01-01,0
+Johor,metallic,struverite,2017-01-01,0
+Johor,metallic,struverite,2018-01-01,0
+Johor,metallic,struverite,2019-01-01,0
+Johor,metallic,struverite,2020-01-01,0
+Johor,metallic,struverite,2021-01-01,0
+Johor,metallic,tin_ore,2016-01-01,218
+Johor,metallic,tin_ore,2017-01-01,101
+Johor,metallic,tin_ore,2018-01-01,45
+Johor,metallic,tin_ore,2019-01-01,50
+Johor,metallic,tin_ore,2020-01-01,26
+Johor,metallic,tin_ore,2021-01-01,0
+Johor,metallic,xenotime,2016-01-01,0
+Johor,metallic,xenotime,2017-01-01,0
+Johor,metallic,xenotime,2018-01-01,0
+Johor,metallic,xenotime,2019-01-01,0
+Johor,metallic,xenotime,2020-01-01,0
+Johor,metallic,xenotime,2021-01-01,0
+Johor,metallic,zircon,2016-01-01,0
+Johor,metallic,zircon,2017-01-01,0
+Johor,metallic,zircon,2018-01-01,0
+Johor,metallic,zircon,2019-01-01,0
+Johor,metallic,zircon,2020-01-01,0
+Johor,metallic,zircon,2021-01-01,0
+Johor,non_metallic,aggregates,2016-01-01,35817482
+Johor,non_metallic,aggregates,2017-01-01,46941061
+Johor,non_metallic,aggregates,2018-01-01,24629425
+Johor,non_metallic,aggregates,2019-01-01,23397954
+Johor,non_metallic,aggregates,2020-01-01,23035610
+Johor,non_metallic,aggregates,2021-01-01,21210433
+Johor,non_metallic,clay,2016-01-01,1588847
+Johor,non_metallic,clay,2017-01-01,1175834
+Johor,non_metallic,clay,2018-01-01,4820145
+Johor,non_metallic,clay,2019-01-01,4579138
+Johor,non_metallic,clay,2020-01-01,3586281
+Johor,non_metallic,clay,2021-01-01,3656216
+Johor,non_metallic,earth_materials,2016-01-01,3745902
+Johor,non_metallic,earth_materials,2017-01-01,4094744
+Johor,non_metallic,earth_materials,2018-01-01,2241876
+Johor,non_metallic,earth_materials,2019-01-01,2129782
+Johor,non_metallic,earth_materials,2020-01-01,2236271
+Johor,non_metallic,earth_materials,2021-01-01,2348084
+Johor,non_metallic,feldspar,2016-01-01,0
+Johor,non_metallic,feldspar,2017-01-01,0
+Johor,non_metallic,feldspar,2018-01-01,0
+Johor,non_metallic,feldspar,2019-01-01,0
+Johor,non_metallic,feldspar,2020-01-01,0
+Johor,non_metallic,feldspar,2021-01-01,0
+Johor,non_metallic,kaolin,2016-01-01,118213
+Johor,non_metallic,kaolin,2017-01-01,115979
+Johor,non_metallic,kaolin,2018-01-01,94699
+Johor,non_metallic,kaolin,2019-01-01,89964
+Johor,non_metallic,kaolin,2020-01-01,0
+Johor,non_metallic,kaolin,2021-01-01,0
+Johor,non_metallic,limestone,2016-01-01,0
+Johor,non_metallic,limestone,2017-01-01,0
+Johor,non_metallic,limestone,2018-01-01,0
+Johor,non_metallic,limestone,2019-01-01,0
+Johor,non_metallic,limestone,2020-01-01,0
+Johor,non_metallic,limestone,2021-01-01,0
+Johor,non_metallic,mica,2016-01-01,0
+Johor,non_metallic,mica,2017-01-01,0
+Johor,non_metallic,mica,2018-01-01,0
+Johor,non_metallic,mica,2019-01-01,0
+Johor,non_metallic,mica,2020-01-01,0
+Johor,non_metallic,mica,2021-01-01,0
+Johor,non_metallic,sand_and_gravel,2016-01-01,4376955
+Johor,non_metallic,sand_and_gravel,2017-01-01,4468981
+Johor,non_metallic,sand_and_gravel,2018-01-01,4614851
+Johor,non_metallic,sand_and_gravel,2019-01-01,4384108
+Johor,non_metallic,sand_and_gravel,2020-01-01,2841110
+Johor,non_metallic,sand_and_gravel,2021-01-01,1202015
+Johor,non_metallic,silica,2016-01-01,2134033
+Johor,non_metallic,silica,2017-01-01,513338
+Johor,non_metallic,silica,2018-01-01,386550
+Johor,non_metallic,silica,2019-01-01,2095144
+Johor,non_metallic,silica,2020-01-01,583154
+Johor,non_metallic,silica,2021-01-01,442010
+Kedah,energy,coal,2016-01-01,0
+Kedah,energy,coal,2017-01-01,0
+Kedah,energy,coal,2018-01-01,0
+Kedah,energy,coal,2019-01-01,0
+Kedah,energy,coal,2020-01-01,0
+Kedah,energy,coal,2021-01-01,0
+Kedah,metallic,bauxite,2016-01-01,0
+Kedah,metallic,bauxite,2017-01-01,0
+Kedah,metallic,bauxite,2018-01-01,0
+Kedah,metallic,bauxite,2019-01-01,0
+Kedah,metallic,bauxite,2020-01-01,0
+Kedah,metallic,bauxite,2021-01-01,0
+Kedah,metallic,gold,2016-01-01,0
+Kedah,metallic,gold,2017-01-01,0
+Kedah,metallic,gold,2018-01-01,0
+Kedah,metallic,gold,2019-01-01,0
+Kedah,metallic,gold,2020-01-01,0
+Kedah,metallic,gold,2021-01-01,0
+Kedah,metallic,ilmenite,2016-01-01,0
+Kedah,metallic,ilmenite,2017-01-01,0
+Kedah,metallic,ilmenite,2018-01-01,0
+Kedah,metallic,ilmenite,2019-01-01,0
+Kedah,metallic,ilmenite,2020-01-01,0
+Kedah,metallic,ilmenite,2021-01-01,0
+Kedah,metallic,iron_ore,2016-01-01,43600
+Kedah,metallic,iron_ore,2017-01-01,56147
+Kedah,metallic,iron_ore,2018-01-01,5493
+Kedah,metallic,iron_ore,2019-01-01,30547
+Kedah,metallic,iron_ore,2020-01-01,117247
+Kedah,metallic,iron_ore,2021-01-01,64000
+Kedah,metallic,manganese,2016-01-01,0
+Kedah,metallic,manganese,2017-01-01,0
+Kedah,metallic,manganese,2018-01-01,0
+Kedah,metallic,manganese,2019-01-01,0
+Kedah,metallic,manganese,2020-01-01,0
+Kedah,metallic,manganese,2021-01-01,0
+Kedah,metallic,monazite,2016-01-01,0
+Kedah,metallic,monazite,2017-01-01,0
+Kedah,metallic,monazite,2018-01-01,0
+Kedah,metallic,monazite,2019-01-01,0
+Kedah,metallic,monazite,2020-01-01,0
+Kedah,metallic,monazite,2021-01-01,0
+Kedah,metallic,rutile,2016-01-01,0
+Kedah,metallic,rutile,2017-01-01,0
+Kedah,metallic,rutile,2018-01-01,0
+Kedah,metallic,rutile,2019-01-01,0
+Kedah,metallic,rutile,2020-01-01,0
+Kedah,metallic,rutile,2021-01-01,0
+Kedah,metallic,silver,2016-01-01,0
+Kedah,metallic,silver,2017-01-01,0
+Kedah,metallic,silver,2018-01-01,0
+Kedah,metallic,silver,2019-01-01,0
+Kedah,metallic,silver,2020-01-01,0
+Kedah,metallic,silver,2021-01-01,0
+Kedah,metallic,struverite,2016-01-01,0
+Kedah,metallic,struverite,2017-01-01,0
+Kedah,metallic,struverite,2018-01-01,0
+Kedah,metallic,struverite,2019-01-01,0
+Kedah,metallic,struverite,2020-01-01,0
+Kedah,metallic,struverite,2021-01-01,0
+Kedah,metallic,tin_ore,2016-01-01,12
+Kedah,metallic,tin_ore,2017-01-01,2
+Kedah,metallic,tin_ore,2018-01-01,0
+Kedah,metallic,tin_ore,2019-01-01,19
+Kedah,metallic,tin_ore,2020-01-01,21
+Kedah,metallic,tin_ore,2021-01-01,22
+Kedah,metallic,xenotime,2016-01-01,0
+Kedah,metallic,xenotime,2017-01-01,0
+Kedah,metallic,xenotime,2018-01-01,0
+Kedah,metallic,xenotime,2019-01-01,0
+Kedah,metallic,xenotime,2020-01-01,0
+Kedah,metallic,xenotime,2021-01-01,0
+Kedah,metallic,zircon,2016-01-01,0
+Kedah,metallic,zircon,2017-01-01,0
+Kedah,metallic,zircon,2018-01-01,0
+Kedah,metallic,zircon,2019-01-01,0
+Kedah,metallic,zircon,2020-01-01,0
+Kedah,metallic,zircon,2021-01-01,0
+Kedah,non_metallic,aggregates,2016-01-01,4864792
+Kedah,non_metallic,aggregates,2017-01-01,4763710
+Kedah,non_metallic,aggregates,2018-01-01,4930995
+Kedah,non_metallic,aggregates,2019-01-01,4339176
+Kedah,non_metallic,aggregates,2020-01-01,3721817
+Kedah,non_metallic,aggregates,2021-01-01,3196697
+Kedah,non_metallic,clay,2016-01-01,556177
+Kedah,non_metallic,clay,2017-01-01,394294
+Kedah,non_metallic,clay,2018-01-01,468375
+Kedah,non_metallic,clay,2019-01-01,491449
+Kedah,non_metallic,clay,2020-01-01,10183
+Kedah,non_metallic,clay,2021-01-01,47482
+Kedah,non_metallic,earth_materials,2016-01-01,1220845
+Kedah,non_metallic,earth_materials,2017-01-01,972892
+Kedah,non_metallic,earth_materials,2018-01-01,1027714
+Kedah,non_metallic,earth_materials,2019-01-01,1003611
+Kedah,non_metallic,earth_materials,2020-01-01,1425302
+Kedah,non_metallic,earth_materials,2021-01-01,2080336
+Kedah,non_metallic,feldspar,2016-01-01,0
+Kedah,non_metallic,feldspar,2017-01-01,0
+Kedah,non_metallic,feldspar,2018-01-01,0
+Kedah,non_metallic,feldspar,2019-01-01,0
+Kedah,non_metallic,feldspar,2020-01-01,0
+Kedah,non_metallic,feldspar,2021-01-01,0
+Kedah,non_metallic,kaolin,2016-01-01,0
+Kedah,non_metallic,kaolin,2017-01-01,0
+Kedah,non_metallic,kaolin,2018-01-01,0
+Kedah,non_metallic,kaolin,2019-01-01,0
+Kedah,non_metallic,kaolin,2020-01-01,0
+Kedah,non_metallic,kaolin,2021-01-01,0
+Kedah,non_metallic,limestone,2016-01-01,3945658
+Kedah,non_metallic,limestone,2017-01-01,3613060
+Kedah,non_metallic,limestone,2018-01-01,3664221
+Kedah,non_metallic,limestone,2019-01-01,3633546
+Kedah,non_metallic,limestone,2020-01-01,1497237
+Kedah,non_metallic,limestone,2021-01-01,2432483
+Kedah,non_metallic,mica,2016-01-01,0
+Kedah,non_metallic,mica,2017-01-01,0
+Kedah,non_metallic,mica,2018-01-01,0
+Kedah,non_metallic,mica,2019-01-01,0
+Kedah,non_metallic,mica,2020-01-01,0
+Kedah,non_metallic,mica,2021-01-01,0
+Kedah,non_metallic,sand_and_gravel,2016-01-01,972218
+Kedah,non_metallic,sand_and_gravel,2017-01-01,976309
+Kedah,non_metallic,sand_and_gravel,2018-01-01,994149
+Kedah,non_metallic,sand_and_gravel,2019-01-01,1139097
+Kedah,non_metallic,sand_and_gravel,2020-01-01,1924618
+Kedah,non_metallic,sand_and_gravel,2021-01-01,1092132
+Kedah,non_metallic,silica,2016-01-01,0
+Kedah,non_metallic,silica,2017-01-01,5000
+Kedah,non_metallic,silica,2018-01-01,14508
+Kedah,non_metallic,silica,2019-01-01,20917
+Kedah,non_metallic,silica,2020-01-01,17644
+Kedah,non_metallic,silica,2021-01-01,0
+Kelantan,energy,coal,2016-01-01,0
+Kelantan,energy,coal,2017-01-01,0
+Kelantan,energy,coal,2018-01-01,0
+Kelantan,energy,coal,2019-01-01,0
+Kelantan,energy,coal,2020-01-01,0
+Kelantan,energy,coal,2021-01-01,0
+Kelantan,metallic,bauxite,2016-01-01,0
+Kelantan,metallic,bauxite,2017-01-01,0
+Kelantan,metallic,bauxite,2018-01-01,0
+Kelantan,metallic,bauxite,2019-01-01,0
+Kelantan,metallic,bauxite,2020-01-01,0
+Kelantan,metallic,bauxite,2021-01-01,0
+Kelantan,metallic,gold,2016-01-01,1006661
+Kelantan,metallic,gold,2017-01-01,570807
+Kelantan,metallic,gold,2018-01-01,1291913
+Kelantan,metallic,gold,2019-01-01,1083768
+Kelantan,metallic,gold,2020-01-01,588454
+Kelantan,metallic,gold,2021-01-01,800400
+Kelantan,metallic,ilmenite,2016-01-01,0
+Kelantan,metallic,ilmenite,2017-01-01,0
+Kelantan,metallic,ilmenite,2018-01-01,0
+Kelantan,metallic,ilmenite,2019-01-01,0
+Kelantan,metallic,ilmenite,2020-01-01,0
+Kelantan,metallic,ilmenite,2021-01-01,0
+Kelantan,metallic,iron_ore,2016-01-01,83180
+Kelantan,metallic,iron_ore,2017-01-01,77350
+Kelantan,metallic,iron_ore,2018-01-01,96650
+Kelantan,metallic,iron_ore,2019-01-01,32347
+Kelantan,metallic,iron_ore,2020-01-01,126287
+Kelantan,metallic,iron_ore,2021-01-01,162370
+Kelantan,metallic,manganese,2016-01-01,0
+Kelantan,metallic,manganese,2017-01-01,922555
+Kelantan,metallic,manganese,2018-01-01,1061125
+Kelantan,metallic,manganese,2019-01-01,776451
+Kelantan,metallic,manganese,2020-01-01,612831
+Kelantan,metallic,manganese,2021-01-01,643343
+Kelantan,metallic,monazite,2016-01-01,0
+Kelantan,metallic,monazite,2017-01-01,0
+Kelantan,metallic,monazite,2018-01-01,0
+Kelantan,metallic,monazite,2019-01-01,0
+Kelantan,metallic,monazite,2020-01-01,0
+Kelantan,metallic,monazite,2021-01-01,0
+Kelantan,metallic,rutile,2016-01-01,0
+Kelantan,metallic,rutile,2017-01-01,0
+Kelantan,metallic,rutile,2018-01-01,0
+Kelantan,metallic,rutile,2019-01-01,0
+Kelantan,metallic,rutile,2020-01-01,0
+Kelantan,metallic,rutile,2021-01-01,0
+Kelantan,metallic,silver,2016-01-01,0
+Kelantan,metallic,silver,2017-01-01,1275001
+Kelantan,metallic,silver,2018-01-01,1439527
+Kelantan,metallic,silver,2019-01-01,670348
+Kelantan,metallic,silver,2020-01-01,422506
+Kelantan,metallic,silver,2021-01-01,672417
+Kelantan,metallic,struverite,2016-01-01,0
+Kelantan,metallic,struverite,2017-01-01,0
+Kelantan,metallic,struverite,2018-01-01,0
+Kelantan,metallic,struverite,2019-01-01,0
+Kelantan,metallic,struverite,2020-01-01,0
+Kelantan,metallic,struverite,2021-01-01,0
+Kelantan,metallic,tin_ore,2016-01-01,0
+Kelantan,metallic,tin_ore,2017-01-01,0
+Kelantan,metallic,tin_ore,2018-01-01,0
+Kelantan,metallic,tin_ore,2019-01-01,0
+Kelantan,metallic,tin_ore,2020-01-01,0
+Kelantan,metallic,tin_ore,2021-01-01,0
+Kelantan,metallic,xenotime,2016-01-01,0
+Kelantan,metallic,xenotime,2017-01-01,0
+Kelantan,metallic,xenotime,2018-01-01,0
+Kelantan,metallic,xenotime,2019-01-01,0
+Kelantan,metallic,xenotime,2020-01-01,0
+Kelantan,metallic,xenotime,2021-01-01,0
+Kelantan,metallic,zircon,2016-01-01,0
+Kelantan,metallic,zircon,2017-01-01,0
+Kelantan,metallic,zircon,2018-01-01,0
+Kelantan,metallic,zircon,2019-01-01,0
+Kelantan,metallic,zircon,2020-01-01,0
+Kelantan,metallic,zircon,2021-01-01,0
+Kelantan,non_metallic,aggregates,2016-01-01,2939366
+Kelantan,non_metallic,aggregates,2017-01-01,2769021
+Kelantan,non_metallic,aggregates,2018-01-01,2669783
+Kelantan,non_metallic,aggregates,2019-01-01,2680870
+Kelantan,non_metallic,aggregates,2020-01-01,2680240
+Kelantan,non_metallic,aggregates,2021-01-01,2632006
+Kelantan,non_metallic,clay,2016-01-01,20124
+Kelantan,non_metallic,clay,2017-01-01,11750
+Kelantan,non_metallic,clay,2018-01-01,0
+Kelantan,non_metallic,clay,2019-01-01,0
+Kelantan,non_metallic,clay,2020-01-01,0
+Kelantan,non_metallic,clay,2021-01-01,134187
+Kelantan,non_metallic,earth_materials,2016-01-01,132150
+Kelantan,non_metallic,earth_materials,2017-01-01,975969
+Kelantan,non_metallic,earth_materials,2018-01-01,1377976
+Kelantan,non_metallic,earth_materials,2019-01-01,883323
+Kelantan,non_metallic,earth_materials,2020-01-01,1167796
+Kelantan,non_metallic,earth_materials,2021-01-01,1828481
+Kelantan,non_metallic,feldspar,2016-01-01,328106
+Kelantan,non_metallic,feldspar,2017-01-01,286997
+Kelantan,non_metallic,feldspar,2018-01-01,309920
+Kelantan,non_metallic,feldspar,2019-01-01,157444
+Kelantan,non_metallic,feldspar,2020-01-01,62387
+Kelantan,non_metallic,feldspar,2021-01-01,103701
+Kelantan,non_metallic,kaolin,2016-01-01,0
+Kelantan,non_metallic,kaolin,2017-01-01,0
+Kelantan,non_metallic,kaolin,2018-01-01,0
+Kelantan,non_metallic,kaolin,2019-01-01,0
+Kelantan,non_metallic,kaolin,2020-01-01,0
+Kelantan,non_metallic,kaolin,2021-01-01,0
+Kelantan,non_metallic,limestone,2016-01-01,0
+Kelantan,non_metallic,limestone,2017-01-01,101926
+Kelantan,non_metallic,limestone,2018-01-01,0
+Kelantan,non_metallic,limestone,2019-01-01,0
+Kelantan,non_metallic,limestone,2020-01-01,0
+Kelantan,non_metallic,limestone,2021-01-01,0
+Kelantan,non_metallic,mica,2016-01-01,0
+Kelantan,non_metallic,mica,2017-01-01,0
+Kelantan,non_metallic,mica,2018-01-01,0
+Kelantan,non_metallic,mica,2019-01-01,0
+Kelantan,non_metallic,mica,2020-01-01,0
+Kelantan,non_metallic,mica,2021-01-01,0
+Kelantan,non_metallic,sand_and_gravel,2016-01-01,455141
+Kelantan,non_metallic,sand_and_gravel,2017-01-01,1786218
+Kelantan,non_metallic,sand_and_gravel,2018-01-01,2556201
+Kelantan,non_metallic,sand_and_gravel,2019-01-01,1056612
+Kelantan,non_metallic,sand_and_gravel,2020-01-01,1152009
+Kelantan,non_metallic,sand_and_gravel,2021-01-01,1672866
+Kelantan,non_metallic,silica,2016-01-01,0
+Kelantan,non_metallic,silica,2017-01-01,0
+Kelantan,non_metallic,silica,2018-01-01,0
+Kelantan,non_metallic,silica,2019-01-01,0
+Kelantan,non_metallic,silica,2020-01-01,0
+Kelantan,non_metallic,silica,2021-01-01,0
+Melaka,energy,coal,2016-01-01,0
+Melaka,energy,coal,2017-01-01,0
+Melaka,energy,coal,2018-01-01,0
+Melaka,energy,coal,2019-01-01,0
+Melaka,energy,coal,2020-01-01,0
+Melaka,energy,coal,2021-01-01,0
+Melaka,metallic,bauxite,2016-01-01,0
+Melaka,metallic,bauxite,2017-01-01,0
+Melaka,metallic,bauxite,2018-01-01,0
+Melaka,metallic,bauxite,2019-01-01,0
+Melaka,metallic,bauxite,2020-01-01,0
+Melaka,metallic,bauxite,2021-01-01,0
+Melaka,metallic,gold,2016-01-01,0
+Melaka,metallic,gold,2017-01-01,0
+Melaka,metallic,gold,2018-01-01,0
+Melaka,metallic,gold,2019-01-01,0
+Melaka,metallic,gold,2020-01-01,0
+Melaka,metallic,gold,2021-01-01,0
+Melaka,metallic,ilmenite,2016-01-01,0
+Melaka,metallic,ilmenite,2017-01-01,0
+Melaka,metallic,ilmenite,2018-01-01,0
+Melaka,metallic,ilmenite,2019-01-01,0
+Melaka,metallic,ilmenite,2020-01-01,0
+Melaka,metallic,ilmenite,2021-01-01,0
+Melaka,metallic,iron_ore,2016-01-01,0
+Melaka,metallic,iron_ore,2017-01-01,0
+Melaka,metallic,iron_ore,2018-01-01,0
+Melaka,metallic,iron_ore,2019-01-01,0
+Melaka,metallic,iron_ore,2020-01-01,0
+Melaka,metallic,iron_ore,2021-01-01,0
+Melaka,metallic,manganese,2016-01-01,0
+Melaka,metallic,manganese,2017-01-01,0
+Melaka,metallic,manganese,2018-01-01,0
+Melaka,metallic,manganese,2019-01-01,0
+Melaka,metallic,manganese,2020-01-01,0
+Melaka,metallic,manganese,2021-01-01,0
+Melaka,metallic,monazite,2016-01-01,0
+Melaka,metallic,monazite,2017-01-01,0
+Melaka,metallic,monazite,2018-01-01,0
+Melaka,metallic,monazite,2019-01-01,0
+Melaka,metallic,monazite,2020-01-01,0
+Melaka,metallic,monazite,2021-01-01,0
+Melaka,metallic,rutile,2016-01-01,0
+Melaka,metallic,rutile,2017-01-01,0
+Melaka,metallic,rutile,2018-01-01,0
+Melaka,metallic,rutile,2019-01-01,0
+Melaka,metallic,rutile,2020-01-01,0
+Melaka,metallic,rutile,2021-01-01,0
+Melaka,metallic,silver,2016-01-01,0
+Melaka,metallic,silver,2017-01-01,0
+Melaka,metallic,silver,2018-01-01,0
+Melaka,metallic,silver,2019-01-01,0
+Melaka,metallic,silver,2020-01-01,0
+Melaka,metallic,silver,2021-01-01,0
+Melaka,metallic,struverite,2016-01-01,0
+Melaka,metallic,struverite,2017-01-01,0
+Melaka,metallic,struverite,2018-01-01,0
+Melaka,metallic,struverite,2019-01-01,0
+Melaka,metallic,struverite,2020-01-01,0
+Melaka,metallic,struverite,2021-01-01,0
+Melaka,metallic,tin_ore,2016-01-01,0
+Melaka,metallic,tin_ore,2017-01-01,0
+Melaka,metallic,tin_ore,2018-01-01,0
+Melaka,metallic,tin_ore,2019-01-01,0
+Melaka,metallic,tin_ore,2020-01-01,0
+Melaka,metallic,tin_ore,2021-01-01,0
+Melaka,metallic,xenotime,2016-01-01,0
+Melaka,metallic,xenotime,2017-01-01,0
+Melaka,metallic,xenotime,2018-01-01,0
+Melaka,metallic,xenotime,2019-01-01,0
+Melaka,metallic,xenotime,2020-01-01,0
+Melaka,metallic,xenotime,2021-01-01,0
+Melaka,metallic,zircon,2016-01-01,0
+Melaka,metallic,zircon,2017-01-01,0
+Melaka,metallic,zircon,2018-01-01,0
+Melaka,metallic,zircon,2019-01-01,0
+Melaka,metallic,zircon,2020-01-01,0
+Melaka,metallic,zircon,2021-01-01,0
+Melaka,non_metallic,aggregates,2016-01-01,1460332
+Melaka,non_metallic,aggregates,2017-01-01,3602482
+Melaka,non_metallic,aggregates,2018-01-01,3258912
+Melaka,non_metallic,aggregates,2019-01-01,1827500
+Melaka,non_metallic,aggregates,2020-01-01,822500
+Melaka,non_metallic,aggregates,2021-01-01,3157500
+Melaka,non_metallic,clay,2016-01-01,126450
+Melaka,non_metallic,clay,2017-01-01,146575
+Melaka,non_metallic,clay,2018-01-01,156420
+Melaka,non_metallic,clay,2019-01-01,143000
+Melaka,non_metallic,clay,2020-01-01,143100
+Melaka,non_metallic,clay,2021-01-01,66303
+Melaka,non_metallic,earth_materials,2016-01-01,554952
+Melaka,non_metallic,earth_materials,2017-01-01,404460
+Melaka,non_metallic,earth_materials,2018-01-01,299898
+Melaka,non_metallic,earth_materials,2019-01-01,365868
+Melaka,non_metallic,earth_materials,2020-01-01,109260
+Melaka,non_metallic,earth_materials,2021-01-01,297360
+Melaka,non_metallic,feldspar,2016-01-01,0
+Melaka,non_metallic,feldspar,2017-01-01,0
+Melaka,non_metallic,feldspar,2018-01-01,0
+Melaka,non_metallic,feldspar,2019-01-01,0
+Melaka,non_metallic,feldspar,2020-01-01,0
+Melaka,non_metallic,feldspar,2021-01-01,0
+Melaka,non_metallic,kaolin,2016-01-01,0
+Melaka,non_metallic,kaolin,2017-01-01,0
+Melaka,non_metallic,kaolin,2018-01-01,0
+Melaka,non_metallic,kaolin,2019-01-01,0
+Melaka,non_metallic,kaolin,2020-01-01,0
+Melaka,non_metallic,kaolin,2021-01-01,0
+Melaka,non_metallic,limestone,2016-01-01,0
+Melaka,non_metallic,limestone,2017-01-01,0
+Melaka,non_metallic,limestone,2018-01-01,0
+Melaka,non_metallic,limestone,2019-01-01,0
+Melaka,non_metallic,limestone,2020-01-01,0
+Melaka,non_metallic,limestone,2021-01-01,0
+Melaka,non_metallic,mica,2016-01-01,0
+Melaka,non_metallic,mica,2017-01-01,0
+Melaka,non_metallic,mica,2018-01-01,0
+Melaka,non_metallic,mica,2019-01-01,0
+Melaka,non_metallic,mica,2020-01-01,0
+Melaka,non_metallic,mica,2021-01-01,0
+Melaka,non_metallic,sand_and_gravel,2016-01-01,366038
+Melaka,non_metallic,sand_and_gravel,2017-01-01,277722
+Melaka,non_metallic,sand_and_gravel,2018-01-01,573332
+Melaka,non_metallic,sand_and_gravel,2019-01-01,605136
+Melaka,non_metallic,sand_and_gravel,2020-01-01,907810
+Melaka,non_metallic,sand_and_gravel,2021-01-01,798662
+Melaka,non_metallic,silica,2016-01-01,0
+Melaka,non_metallic,silica,2017-01-01,0
+Melaka,non_metallic,silica,2018-01-01,0
+Melaka,non_metallic,silica,2019-01-01,0
+Melaka,non_metallic,silica,2020-01-01,0
+Melaka,non_metallic,silica,2021-01-01,0
+Negeri Sembilan,energy,coal,2016-01-01,0
+Negeri Sembilan,energy,coal,2017-01-01,0
+Negeri Sembilan,energy,coal,2018-01-01,0
+Negeri Sembilan,energy,coal,2019-01-01,0
+Negeri Sembilan,energy,coal,2020-01-01,0
+Negeri Sembilan,energy,coal,2021-01-01,0
+Negeri Sembilan,metallic,bauxite,2016-01-01,0
+Negeri Sembilan,metallic,bauxite,2017-01-01,0
+Negeri Sembilan,metallic,bauxite,2018-01-01,0
+Negeri Sembilan,metallic,bauxite,2019-01-01,0
+Negeri Sembilan,metallic,bauxite,2020-01-01,0
+Negeri Sembilan,metallic,bauxite,2021-01-01,0
+Negeri Sembilan,metallic,gold,2016-01-01,0
+Negeri Sembilan,metallic,gold,2017-01-01,0
+Negeri Sembilan,metallic,gold,2018-01-01,0
+Negeri Sembilan,metallic,gold,2019-01-01,0
+Negeri Sembilan,metallic,gold,2020-01-01,0
+Negeri Sembilan,metallic,gold,2021-01-01,0
+Negeri Sembilan,metallic,ilmenite,2016-01-01,0
+Negeri Sembilan,metallic,ilmenite,2017-01-01,0
+Negeri Sembilan,metallic,ilmenite,2018-01-01,0
+Negeri Sembilan,metallic,ilmenite,2019-01-01,0
+Negeri Sembilan,metallic,ilmenite,2020-01-01,0
+Negeri Sembilan,metallic,ilmenite,2021-01-01,0
+Negeri Sembilan,metallic,iron_ore,2016-01-01,4125
+Negeri Sembilan,metallic,iron_ore,2017-01-01,0
+Negeri Sembilan,metallic,iron_ore,2018-01-01,0
+Negeri Sembilan,metallic,iron_ore,2019-01-01,0
+Negeri Sembilan,metallic,iron_ore,2020-01-01,0
+Negeri Sembilan,metallic,iron_ore,2021-01-01,0
+Negeri Sembilan,metallic,manganese,2016-01-01,0
+Negeri Sembilan,metallic,manganese,2017-01-01,0
+Negeri Sembilan,metallic,manganese,2018-01-01,0
+Negeri Sembilan,metallic,manganese,2019-01-01,0
+Negeri Sembilan,metallic,manganese,2020-01-01,0
+Negeri Sembilan,metallic,manganese,2021-01-01,0
+Negeri Sembilan,metallic,monazite,2016-01-01,0
+Negeri Sembilan,metallic,monazite,2017-01-01,0
+Negeri Sembilan,metallic,monazite,2018-01-01,0
+Negeri Sembilan,metallic,monazite,2019-01-01,0
+Negeri Sembilan,metallic,monazite,2020-01-01,0
+Negeri Sembilan,metallic,monazite,2021-01-01,0
+Negeri Sembilan,metallic,rutile,2016-01-01,0
+Negeri Sembilan,metallic,rutile,2017-01-01,0
+Negeri Sembilan,metallic,rutile,2018-01-01,0
+Negeri Sembilan,metallic,rutile,2019-01-01,0
+Negeri Sembilan,metallic,rutile,2020-01-01,0
+Negeri Sembilan,metallic,rutile,2021-01-01,0
+Negeri Sembilan,metallic,silver,2016-01-01,0
+Negeri Sembilan,metallic,silver,2017-01-01,0
+Negeri Sembilan,metallic,silver,2018-01-01,0
+Negeri Sembilan,metallic,silver,2019-01-01,0
+Negeri Sembilan,metallic,silver,2020-01-01,0
+Negeri Sembilan,metallic,silver,2021-01-01,0
+Negeri Sembilan,metallic,struverite,2016-01-01,0
+Negeri Sembilan,metallic,struverite,2017-01-01,0
+Negeri Sembilan,metallic,struverite,2018-01-01,0
+Negeri Sembilan,metallic,struverite,2019-01-01,0
+Negeri Sembilan,metallic,struverite,2020-01-01,0
+Negeri Sembilan,metallic,struverite,2021-01-01,0
+Negeri Sembilan,metallic,tin_ore,2016-01-01,0
+Negeri Sembilan,metallic,tin_ore,2017-01-01,0
+Negeri Sembilan,metallic,tin_ore,2018-01-01,0
+Negeri Sembilan,metallic,tin_ore,2019-01-01,0
+Negeri Sembilan,metallic,tin_ore,2020-01-01,0
+Negeri Sembilan,metallic,tin_ore,2021-01-01,0
+Negeri Sembilan,metallic,xenotime,2016-01-01,0
+Negeri Sembilan,metallic,xenotime,2017-01-01,0
+Negeri Sembilan,metallic,xenotime,2018-01-01,0
+Negeri Sembilan,metallic,xenotime,2019-01-01,0
+Negeri Sembilan,metallic,xenotime,2020-01-01,0
+Negeri Sembilan,metallic,xenotime,2021-01-01,0
+Negeri Sembilan,metallic,zircon,2016-01-01,0
+Negeri Sembilan,metallic,zircon,2017-01-01,0
+Negeri Sembilan,metallic,zircon,2018-01-01,0
+Negeri Sembilan,metallic,zircon,2019-01-01,0
+Negeri Sembilan,metallic,zircon,2020-01-01,0
+Negeri Sembilan,metallic,zircon,2021-01-01,0
+Negeri Sembilan,non_metallic,aggregates,2016-01-01,8772935
+Negeri Sembilan,non_metallic,aggregates,2017-01-01,9026940
+Negeri Sembilan,non_metallic,aggregates,2018-01-01,8657261
+Negeri Sembilan,non_metallic,aggregates,2019-01-01,8984341
+Negeri Sembilan,non_metallic,aggregates,2020-01-01,8355416
+Negeri Sembilan,non_metallic,aggregates,2021-01-01,7552876
+Negeri Sembilan,non_metallic,clay,2016-01-01,423750
+Negeri Sembilan,non_metallic,clay,2017-01-01,152567
+Negeri Sembilan,non_metallic,clay,2018-01-01,347264
+Negeri Sembilan,non_metallic,clay,2019-01-01,407516
+Negeri Sembilan,non_metallic,clay,2020-01-01,260577
+Negeri Sembilan,non_metallic,clay,2021-01-01,187718
+Negeri Sembilan,non_metallic,earth_materials,2016-01-01,698684
+Negeri Sembilan,non_metallic,earth_materials,2017-01-01,552538
+Negeri Sembilan,non_metallic,earth_materials,2018-01-01,758770
+Negeri Sembilan,non_metallic,earth_materials,2019-01-01,732499
+Negeri Sembilan,non_metallic,earth_materials,2020-01-01,730553
+Negeri Sembilan,non_metallic,earth_materials,2021-01-01,809183
+Negeri Sembilan,non_metallic,feldspar,2016-01-01,26750
+Negeri Sembilan,non_metallic,feldspar,2017-01-01,51107
+Negeri Sembilan,non_metallic,feldspar,2018-01-01,35821
+Negeri Sembilan,non_metallic,feldspar,2019-01-01,21645
+Negeri Sembilan,non_metallic,feldspar,2020-01-01,16200
+Negeri Sembilan,non_metallic,feldspar,2021-01-01,20642
+Negeri Sembilan,non_metallic,kaolin,2016-01-01,0
+Negeri Sembilan,non_metallic,kaolin,2017-01-01,0
+Negeri Sembilan,non_metallic,kaolin,2018-01-01,0
+Negeri Sembilan,non_metallic,kaolin,2019-01-01,0
+Negeri Sembilan,non_metallic,kaolin,2020-01-01,0
+Negeri Sembilan,non_metallic,kaolin,2021-01-01,0
+Negeri Sembilan,non_metallic,limestone,2016-01-01,3428514
+Negeri Sembilan,non_metallic,limestone,2017-01-01,2560511
+Negeri Sembilan,non_metallic,limestone,2018-01-01,4775894
+Negeri Sembilan,non_metallic,limestone,2019-01-01,2667702
+Negeri Sembilan,non_metallic,limestone,2020-01-01,2974607
+Negeri Sembilan,non_metallic,limestone,2021-01-01,2941975
+Negeri Sembilan,non_metallic,mica,2016-01-01,0
+Negeri Sembilan,non_metallic,mica,2017-01-01,0
+Negeri Sembilan,non_metallic,mica,2018-01-01,0
+Negeri Sembilan,non_metallic,mica,2019-01-01,0
+Negeri Sembilan,non_metallic,mica,2020-01-01,0
+Negeri Sembilan,non_metallic,mica,2021-01-01,0
+Negeri Sembilan,non_metallic,sand_and_gravel,2016-01-01,18810870
+Negeri Sembilan,non_metallic,sand_and_gravel,2017-01-01,1037573
+Negeri Sembilan,non_metallic,sand_and_gravel,2018-01-01,757491
+Negeri Sembilan,non_metallic,sand_and_gravel,2019-01-01,960100
+Negeri Sembilan,non_metallic,sand_and_gravel,2020-01-01,499515
+Negeri Sembilan,non_metallic,sand_and_gravel,2021-01-01,605727
+Negeri Sembilan,non_metallic,silica,2016-01-01,0
+Negeri Sembilan,non_metallic,silica,2017-01-01,0
+Negeri Sembilan,non_metallic,silica,2018-01-01,0
+Negeri Sembilan,non_metallic,silica,2019-01-01,0
+Negeri Sembilan,non_metallic,silica,2020-01-01,0
+Negeri Sembilan,non_metallic,silica,2021-01-01,23632
+Pahang,energy,coal,2016-01-01,0
+Pahang,energy,coal,2017-01-01,0
+Pahang,energy,coal,2018-01-01,0
+Pahang,energy,coal,2019-01-01,0
+Pahang,energy,coal,2020-01-01,0
+Pahang,energy,coal,2021-01-01,0
+Pahang,metallic,bauxite,2016-01-01,0
+Pahang,metallic,bauxite,2017-01-01,0
+Pahang,metallic,bauxite,2018-01-01,0
+Pahang,metallic,bauxite,2019-01-01,0
+Pahang,metallic,bauxite,2020-01-01,460000
+Pahang,metallic,bauxite,2021-01-01,47577
+Pahang,metallic,gold,2016-01-01,1220648
+Pahang,metallic,gold,2017-01-01,1549014
+Pahang,metallic,gold,2018-01-01,1593615
+Pahang,metallic,gold,2019-01-01,1553391
+Pahang,metallic,gold,2020-01-01,779813
+Pahang,metallic,gold,2021-01-01,420592
+Pahang,metallic,ilmenite,2016-01-01,0
+Pahang,metallic,ilmenite,2017-01-01,0
+Pahang,metallic,ilmenite,2018-01-01,0
+Pahang,metallic,ilmenite,2019-01-01,0
+Pahang,metallic,ilmenite,2020-01-01,0
+Pahang,metallic,ilmenite,2021-01-01,0
+Pahang,metallic,iron_ore,2016-01-01,1394084
+Pahang,metallic,iron_ore,2017-01-01,1839457
+Pahang,metallic,iron_ore,2018-01-01,1629484
+Pahang,metallic,iron_ore,2019-01-01,2649496
+Pahang,metallic,iron_ore,2020-01-01,3329290
+Pahang,metallic,iron_ore,2021-01-01,2650486
+Pahang,metallic,manganese,2016-01-01,222079
+Pahang,metallic,manganese,2017-01-01,303551
+Pahang,metallic,manganese,2018-01-01,201600
+Pahang,metallic,manganese,2019-01-01,354298
+Pahang,metallic,manganese,2020-01-01,257033
+Pahang,metallic,manganese,2021-01-01,25215
+Pahang,metallic,monazite,2016-01-01,0
+Pahang,metallic,monazite,2017-01-01,0
+Pahang,metallic,monazite,2018-01-01,0
+Pahang,metallic,monazite,2019-01-01,0
+Pahang,metallic,monazite,2020-01-01,0
+Pahang,metallic,monazite,2021-01-01,0
+Pahang,metallic,rutile,2016-01-01,0
+Pahang,metallic,rutile,2017-01-01,0
+Pahang,metallic,rutile,2018-01-01,0
+Pahang,metallic,rutile,2019-01-01,0
+Pahang,metallic,rutile,2020-01-01,0
+Pahang,metallic,rutile,2021-01-01,0
+Pahang,metallic,silver,2016-01-01,1075325
+Pahang,metallic,silver,2017-01-01,129398
+Pahang,metallic,silver,2018-01-01,102162
+Pahang,metallic,silver,2019-01-01,0
+Pahang,metallic,silver,2020-01-01,0
+Pahang,metallic,silver,2021-01-01,0
+Pahang,metallic,struverite,2016-01-01,0
+Pahang,metallic,struverite,2017-01-01,0
+Pahang,metallic,struverite,2018-01-01,0
+Pahang,metallic,struverite,2019-01-01,0
+Pahang,metallic,struverite,2020-01-01,0
+Pahang,metallic,struverite,2021-01-01,0
+Pahang,metallic,tin_ore,2016-01-01,732
+Pahang,metallic,tin_ore,2017-01-01,594
+Pahang,metallic,tin_ore,2018-01-01,635
+Pahang,metallic,tin_ore,2019-01-01,579
+Pahang,metallic,tin_ore,2020-01-01,360
+Pahang,metallic,tin_ore,2021-01-01,292
+Pahang,metallic,xenotime,2016-01-01,0
+Pahang,metallic,xenotime,2017-01-01,0
+Pahang,metallic,xenotime,2018-01-01,0
+Pahang,metallic,xenotime,2019-01-01,0
+Pahang,metallic,xenotime,2020-01-01,0
+Pahang,metallic,xenotime,2021-01-01,0
+Pahang,metallic,zircon,2016-01-01,0
+Pahang,metallic,zircon,2017-01-01,0
+Pahang,metallic,zircon,2018-01-01,0
+Pahang,metallic,zircon,2019-01-01,0
+Pahang,metallic,zircon,2020-01-01,0
+Pahang,metallic,zircon,2021-01-01,0
+Pahang,non_metallic,aggregates,2016-01-01,3344521
+Pahang,non_metallic,aggregates,2017-01-01,4279981
+Pahang,non_metallic,aggregates,2018-01-01,3926512
+Pahang,non_metallic,aggregates,2019-01-01,4333208
+Pahang,non_metallic,aggregates,2020-01-01,4591984
+Pahang,non_metallic,aggregates,2021-01-01,5026191
+Pahang,non_metallic,clay,2016-01-01,438198
+Pahang,non_metallic,clay,2017-01-01,389178
+Pahang,non_metallic,clay,2018-01-01,277051
+Pahang,non_metallic,clay,2019-01-01,318077
+Pahang,non_metallic,clay,2020-01-01,198435
+Pahang,non_metallic,clay,2021-01-01,161528
+Pahang,non_metallic,earth_materials,2016-01-01,893681
+Pahang,non_metallic,earth_materials,2017-01-01,883566
+Pahang,non_metallic,earth_materials,2018-01-01,1458273
+Pahang,non_metallic,earth_materials,2019-01-01,1203572
+Pahang,non_metallic,earth_materials,2020-01-01,399730
+Pahang,non_metallic,earth_materials,2021-01-01,965962
+Pahang,non_metallic,feldspar,2016-01-01,87000
+Pahang,non_metallic,feldspar,2017-01-01,73100
+Pahang,non_metallic,feldspar,2018-01-01,68700
+Pahang,non_metallic,feldspar,2019-01-01,62100
+Pahang,non_metallic,feldspar,2020-01-01,65900
+Pahang,non_metallic,feldspar,2021-01-01,44227
+Pahang,non_metallic,kaolin,2016-01-01,71000
+Pahang,non_metallic,kaolin,2017-01-01,55000
+Pahang,non_metallic,kaolin,2018-01-01,51000
+Pahang,non_metallic,kaolin,2019-01-01,46500
+Pahang,non_metallic,kaolin,2020-01-01,43400
+Pahang,non_metallic,kaolin,2021-01-01,20300
+Pahang,non_metallic,limestone,2016-01-01,2313376
+Pahang,non_metallic,limestone,2017-01-01,2359772
+Pahang,non_metallic,limestone,2018-01-01,520359
+Pahang,non_metallic,limestone,2019-01-01,3631451
+Pahang,non_metallic,limestone,2020-01-01,2321684
+Pahang,non_metallic,limestone,2021-01-01,2876426
+Pahang,non_metallic,mica,2016-01-01,0
+Pahang,non_metallic,mica,2017-01-01,0
+Pahang,non_metallic,mica,2018-01-01,0
+Pahang,non_metallic,mica,2019-01-01,0
+Pahang,non_metallic,mica,2020-01-01,0
+Pahang,non_metallic,mica,2021-01-01,0
+Pahang,non_metallic,sand_and_gravel,2016-01-01,3207755
+Pahang,non_metallic,sand_and_gravel,2017-01-01,3822714
+Pahang,non_metallic,sand_and_gravel,2018-01-01,17614660
+Pahang,non_metallic,sand_and_gravel,2019-01-01,36994595
+Pahang,non_metallic,sand_and_gravel,2020-01-01,10728679
+Pahang,non_metallic,sand_and_gravel,2021-01-01,10055123
+Pahang,non_metallic,silica,2016-01-01,0
+Pahang,non_metallic,silica,2017-01-01,0
+Pahang,non_metallic,silica,2018-01-01,70000
+Pahang,non_metallic,silica,2019-01-01,510000
+Pahang,non_metallic,silica,2020-01-01,1360000
+Pahang,non_metallic,silica,2021-01-01,648000
+Perak,energy,coal,2016-01-01,0
+Perak,energy,coal,2017-01-01,0
+Perak,energy,coal,2018-01-01,0
+Perak,energy,coal,2019-01-01,0
+Perak,energy,coal,2020-01-01,0
+Perak,energy,coal,2021-01-01,0
+Perak,metallic,bauxite,2016-01-01,0
+Perak,metallic,bauxite,2017-01-01,0
+Perak,metallic,bauxite,2018-01-01,0
+Perak,metallic,bauxite,2019-01-01,0
+Perak,metallic,bauxite,2020-01-01,0
+Perak,metallic,bauxite,2021-01-01,0
+Perak,metallic,gold,2016-01-01,0
+Perak,metallic,gold,2017-01-01,0
+Perak,metallic,gold,2018-01-01,0
+Perak,metallic,gold,2019-01-01,0
+Perak,metallic,gold,2020-01-01,0
+Perak,metallic,gold,2021-01-01,0
+Perak,metallic,ilmenite,2016-01-01,4316
+Perak,metallic,ilmenite,2017-01-01,6363
+Perak,metallic,ilmenite,2018-01-01,0
+Perak,metallic,ilmenite,2019-01-01,0
+Perak,metallic,ilmenite,2020-01-01,0
+Perak,metallic,ilmenite,2021-01-01,4598
+Perak,metallic,iron_ore,2016-01-01,0
+Perak,metallic,iron_ore,2017-01-01,0
+Perak,metallic,iron_ore,2018-01-01,0
+Perak,metallic,iron_ore,2019-01-01,0
+Perak,metallic,iron_ore,2020-01-01,93950
+Perak,metallic,iron_ore,2021-01-01,12587
+Perak,metallic,manganese,2016-01-01,0
+Perak,metallic,manganese,2017-01-01,0
+Perak,metallic,manganese,2018-01-01,0
+Perak,metallic,manganese,2019-01-01,0
+Perak,metallic,manganese,2020-01-01,0
+Perak,metallic,manganese,2021-01-01,0
+Perak,metallic,monazite,2016-01-01,1875
+Perak,metallic,monazite,2017-01-01,302
+Perak,metallic,monazite,2018-01-01,0
+Perak,metallic,monazite,2019-01-01,0
+Perak,metallic,monazite,2020-01-01,0
+Perak,metallic,monazite,2021-01-01,23
+Perak,metallic,rutile,2016-01-01,3810
+Perak,metallic,rutile,2017-01-01,5266
+Perak,metallic,rutile,2018-01-01,0
+Perak,metallic,rutile,2019-01-01,0
+Perak,metallic,rutile,2020-01-01,0
+Perak,metallic,rutile,2021-01-01,11513
+Perak,metallic,silver,2016-01-01,0
+Perak,metallic,silver,2017-01-01,0
+Perak,metallic,silver,2018-01-01,0
+Perak,metallic,silver,2019-01-01,15945
+Perak,metallic,silver,2020-01-01,0
+Perak,metallic,silver,2021-01-01,0
+Perak,metallic,struverite,2016-01-01,77
+Perak,metallic,struverite,2017-01-01,61
+Perak,metallic,struverite,2018-01-01,0
+Perak,metallic,struverite,2019-01-01,0
+Perak,metallic,struverite,2020-01-01,0
+Perak,metallic,struverite,2021-01-01,0
+Perak,metallic,tin_ore,2016-01-01,3182
+Perak,metallic,tin_ore,2017-01-01,3198
+Perak,metallic,tin_ore,2018-01-01,3175
+Perak,metallic,tin_ore,2019-01-01,0
+Perak,metallic,tin_ore,2020-01-01,0
+Perak,metallic,tin_ore,2021-01-01,2580
+Perak,metallic,xenotime,2016-01-01,4
+Perak,metallic,xenotime,2017-01-01,0
+Perak,metallic,xenotime,2018-01-01,0
+Perak,metallic,xenotime,2019-01-01,0
+Perak,metallic,xenotime,2020-01-01,0
+Perak,metallic,xenotime,2021-01-01,23
+Perak,metallic,zircon,2016-01-01,653
+Perak,metallic,zircon,2017-01-01,1595
+Perak,metallic,zircon,2018-01-01,0
+Perak,metallic,zircon,2019-01-01,0
+Perak,metallic,zircon,2020-01-01,0
+Perak,metallic,zircon,2021-01-01,1518
+Perak,non_metallic,aggregates,2016-01-01,14391783
+Perak,non_metallic,aggregates,2017-01-01,16955747
+Perak,non_metallic,aggregates,2018-01-01,17316541
+Perak,non_metallic,aggregates,2019-01-01,18064572
+Perak,non_metallic,aggregates,2020-01-01,14476618
+Perak,non_metallic,aggregates,2021-01-01,14857191
+Perak,non_metallic,clay,2016-01-01,274000
+Perak,non_metallic,clay,2017-01-01,150000
+Perak,non_metallic,clay,2018-01-01,323935
+Perak,non_metallic,clay,2019-01-01,651810
+Perak,non_metallic,clay,2020-01-01,635950
+Perak,non_metallic,clay,2021-01-01,718612
+Perak,non_metallic,earth_materials,2016-01-01,8280600
+Perak,non_metallic,earth_materials,2017-01-01,9234701
+Perak,non_metallic,earth_materials,2018-01-01,6464291
+Perak,non_metallic,earth_materials,2019-01-01,6119000
+Perak,non_metallic,earth_materials,2020-01-01,5392277
+Perak,non_metallic,earth_materials,2021-01-01,4113000
+Perak,non_metallic,feldspar,2016-01-01,0
+Perak,non_metallic,feldspar,2017-01-01,0
+Perak,non_metallic,feldspar,2018-01-01,0
+Perak,non_metallic,feldspar,2019-01-01,0
+Perak,non_metallic,feldspar,2020-01-01,0
+Perak,non_metallic,feldspar,2021-01-01,0
+Perak,non_metallic,kaolin,2016-01-01,203720
+Perak,non_metallic,kaolin,2017-01-01,258976
+Perak,non_metallic,kaolin,2018-01-01,305422
+Perak,non_metallic,kaolin,2019-01-01,244758
+Perak,non_metallic,kaolin,2020-01-01,262165
+Perak,non_metallic,kaolin,2021-01-01,200805
+Perak,non_metallic,limestone,2016-01-01,11268085
+Perak,non_metallic,limestone,2017-01-01,19978405
+Perak,non_metallic,limestone,2018-01-01,21472621
+Perak,non_metallic,limestone,2019-01-01,21274376
+Perak,non_metallic,limestone,2020-01-01,13769396
+Perak,non_metallic,limestone,2021-01-01,9846205
+Perak,non_metallic,mica,2016-01-01,4701
+Perak,non_metallic,mica,2017-01-01,4787
+Perak,non_metallic,mica,2018-01-01,5165
+Perak,non_metallic,mica,2019-01-01,4358
+Perak,non_metallic,mica,2020-01-01,4083
+Perak,non_metallic,mica,2021-01-01,3406
+Perak,non_metallic,sand_and_gravel,2016-01-01,7632775
+Perak,non_metallic,sand_and_gravel,2017-01-01,7577400
+Perak,non_metallic,sand_and_gravel,2018-01-01,5447680
+Perak,non_metallic,sand_and_gravel,2019-01-01,5935000
+Perak,non_metallic,sand_and_gravel,2020-01-01,5464000
+Perak,non_metallic,sand_and_gravel,2021-01-01,5091845
+Perak,non_metallic,silica,2016-01-01,3032628
+Perak,non_metallic,silica,2017-01-01,1767702
+Perak,non_metallic,silica,2018-01-01,3012603
+Perak,non_metallic,silica,2019-01-01,1399400
+Perak,non_metallic,silica,2020-01-01,2149787
+Perak,non_metallic,silica,2021-01-01,2460842
+Perlis,energy,coal,2016-01-01,0
+Perlis,energy,coal,2017-01-01,0
+Perlis,energy,coal,2018-01-01,0
+Perlis,energy,coal,2019-01-01,0
+Perlis,energy,coal,2020-01-01,0
+Perlis,energy,coal,2021-01-01,0
+Perlis,metallic,bauxite,2016-01-01,0
+Perlis,metallic,bauxite,2017-01-01,0
+Perlis,metallic,bauxite,2018-01-01,0
+Perlis,metallic,bauxite,2019-01-01,0
+Perlis,metallic,bauxite,2020-01-01,0
+Perlis,metallic,bauxite,2021-01-01,0
+Perlis,metallic,gold,2016-01-01,0
+Perlis,metallic,gold,2017-01-01,0
+Perlis,metallic,gold,2018-01-01,0
+Perlis,metallic,gold,2019-01-01,0
+Perlis,metallic,gold,2020-01-01,0
+Perlis,metallic,gold,2021-01-01,0
+Perlis,metallic,ilmenite,2016-01-01,0
+Perlis,metallic,ilmenite,2017-01-01,0
+Perlis,metallic,ilmenite,2018-01-01,14158
+Perlis,metallic,ilmenite,2019-01-01,2334
+Perlis,metallic,ilmenite,2020-01-01,0
+Perlis,metallic,ilmenite,2021-01-01,0
+Perlis,metallic,iron_ore,2016-01-01,0
+Perlis,metallic,iron_ore,2017-01-01,0
+Perlis,metallic,iron_ore,2018-01-01,0
+Perlis,metallic,iron_ore,2019-01-01,0
+Perlis,metallic,iron_ore,2020-01-01,0
+Perlis,metallic,iron_ore,2021-01-01,0
+Perlis,metallic,manganese,2016-01-01,0
+Perlis,metallic,manganese,2017-01-01,0
+Perlis,metallic,manganese,2018-01-01,0
+Perlis,metallic,manganese,2019-01-01,0
+Perlis,metallic,manganese,2020-01-01,0
+Perlis,metallic,manganese,2021-01-01,0
+Perlis,metallic,monazite,2016-01-01,0
+Perlis,metallic,monazite,2017-01-01,0
+Perlis,metallic,monazite,2018-01-01,86
+Perlis,metallic,monazite,2019-01-01,54
+Perlis,metallic,monazite,2020-01-01,0
+Perlis,metallic,monazite,2021-01-01,0
+Perlis,metallic,rutile,2016-01-01,0
+Perlis,metallic,rutile,2017-01-01,0
+Perlis,metallic,rutile,2018-01-01,5070
+Perlis,metallic,rutile,2019-01-01,5947
+Perlis,metallic,rutile,2020-01-01,0
+Perlis,metallic,rutile,2021-01-01,0
+Perlis,metallic,silver,2016-01-01,0
+Perlis,metallic,silver,2017-01-01,0
+Perlis,metallic,silver,2018-01-01,0
+Perlis,metallic,silver,2019-01-01,0
+Perlis,metallic,silver,2020-01-01,0
+Perlis,metallic,silver,2021-01-01,0
+Perlis,metallic,struverite,2016-01-01,0
+Perlis,metallic,struverite,2017-01-01,0
+Perlis,metallic,struverite,2018-01-01,274
+Perlis,metallic,struverite,2019-01-01,12
+Perlis,metallic,struverite,2020-01-01,0
+Perlis,metallic,struverite,2021-01-01,0
+Perlis,metallic,tin_ore,2016-01-01,0
+Perlis,metallic,tin_ore,2017-01-01,0
+Perlis,metallic,tin_ore,2018-01-01,0
+Perlis,metallic,tin_ore,2019-01-01,0
+Perlis,metallic,tin_ore,2020-01-01,0
+Perlis,metallic,tin_ore,2021-01-01,0
+Perlis,metallic,xenotime,2016-01-01,0
+Perlis,metallic,xenotime,2017-01-01,0
+Perlis,metallic,xenotime,2018-01-01,1568
+Perlis,metallic,xenotime,2019-01-01,60
+Perlis,metallic,xenotime,2020-01-01,0
+Perlis,metallic,xenotime,2021-01-01,0
+Perlis,metallic,zircon,2016-01-01,0
+Perlis,metallic,zircon,2017-01-01,0
+Perlis,metallic,zircon,2018-01-01,509
+Perlis,metallic,zircon,2019-01-01,449
+Perlis,metallic,zircon,2020-01-01,0
+Perlis,metallic,zircon,2021-01-01,0
+Perlis,non_metallic,aggregates,2016-01-01,1175079
+Perlis,non_metallic,aggregates,2017-01-01,1113195
+Perlis,non_metallic,aggregates,2018-01-01,790566
+Perlis,non_metallic,aggregates,2019-01-01,1141818
+Perlis,non_metallic,aggregates,2020-01-01,378219
+Perlis,non_metallic,aggregates,2021-01-01,378219
+Perlis,non_metallic,clay,2016-01-01,225891
+Perlis,non_metallic,clay,2017-01-01,224372
+Perlis,non_metallic,clay,2018-01-01,170488
+Perlis,non_metallic,clay,2019-01-01,111874
+Perlis,non_metallic,clay,2020-01-01,86500
+Perlis,non_metallic,clay,2021-01-01,85698
+Perlis,non_metallic,earth_materials,2016-01-01,442771
+Perlis,non_metallic,earth_materials,2017-01-01,233364
+Perlis,non_metallic,earth_materials,2018-01-01,259912
+Perlis,non_metallic,earth_materials,2019-01-01,195827
+Perlis,non_metallic,earth_materials,2020-01-01,195593
+Perlis,non_metallic,earth_materials,2021-01-01,119415
+Perlis,non_metallic,feldspar,2016-01-01,0
+Perlis,non_metallic,feldspar,2017-01-01,0
+Perlis,non_metallic,feldspar,2018-01-01,0
+Perlis,non_metallic,feldspar,2019-01-01,0
+Perlis,non_metallic,feldspar,2020-01-01,0
+Perlis,non_metallic,feldspar,2021-01-01,0
+Perlis,non_metallic,kaolin,2016-01-01,0
+Perlis,non_metallic,kaolin,2017-01-01,0
+Perlis,non_metallic,kaolin,2018-01-01,0
+Perlis,non_metallic,kaolin,2019-01-01,0
+Perlis,non_metallic,kaolin,2020-01-01,0
+Perlis,non_metallic,kaolin,2021-01-01,0
+Perlis,non_metallic,limestone,2016-01-01,1986431
+Perlis,non_metallic,limestone,2017-01-01,2723855
+Perlis,non_metallic,limestone,2018-01-01,2158363
+Perlis,non_metallic,limestone,2019-01-01,1948444
+Perlis,non_metallic,limestone,2020-01-01,1189056
+Perlis,non_metallic,limestone,2021-01-01,1189056
+Perlis,non_metallic,mica,2016-01-01,0
+Perlis,non_metallic,mica,2017-01-01,0
+Perlis,non_metallic,mica,2018-01-01,0
+Perlis,non_metallic,mica,2019-01-01,0
+Perlis,non_metallic,mica,2020-01-01,0
+Perlis,non_metallic,mica,2021-01-01,0
+Perlis,non_metallic,sand_and_gravel,2016-01-01,0
+Perlis,non_metallic,sand_and_gravel,2017-01-01,0
+Perlis,non_metallic,sand_and_gravel,2018-01-01,0
+Perlis,non_metallic,sand_and_gravel,2019-01-01,0
+Perlis,non_metallic,sand_and_gravel,2020-01-01,0
+Perlis,non_metallic,sand_and_gravel,2021-01-01,0
+Perlis,non_metallic,silica,2016-01-01,0
+Perlis,non_metallic,silica,2017-01-01,0
+Perlis,non_metallic,silica,2018-01-01,0
+Perlis,non_metallic,silica,2019-01-01,0
+Perlis,non_metallic,silica,2020-01-01,0
+Perlis,non_metallic,silica,2021-01-01,0
+Pulau Pinang,energy,coal,2016-01-01,0
+Pulau Pinang,energy,coal,2017-01-01,0
+Pulau Pinang,energy,coal,2018-01-01,0
+Pulau Pinang,energy,coal,2019-01-01,0
+Pulau Pinang,energy,coal,2020-01-01,0
+Pulau Pinang,energy,coal,2021-01-01,0
+Pulau Pinang,metallic,bauxite,2016-01-01,0
+Pulau Pinang,metallic,bauxite,2017-01-01,0
+Pulau Pinang,metallic,bauxite,2018-01-01,0
+Pulau Pinang,metallic,bauxite,2019-01-01,0
+Pulau Pinang,metallic,bauxite,2020-01-01,0
+Pulau Pinang,metallic,bauxite,2021-01-01,0
+Pulau Pinang,metallic,gold,2016-01-01,0
+Pulau Pinang,metallic,gold,2017-01-01,0
+Pulau Pinang,metallic,gold,2018-01-01,0
+Pulau Pinang,metallic,gold,2019-01-01,0
+Pulau Pinang,metallic,gold,2020-01-01,0
+Pulau Pinang,metallic,gold,2021-01-01,0
+Pulau Pinang,metallic,ilmenite,2016-01-01,0
+Pulau Pinang,metallic,ilmenite,2017-01-01,0
+Pulau Pinang,metallic,ilmenite,2018-01-01,0
+Pulau Pinang,metallic,ilmenite,2019-01-01,0
+Pulau Pinang,metallic,ilmenite,2020-01-01,2548
+Pulau Pinang,metallic,ilmenite,2021-01-01,0
+Pulau Pinang,metallic,iron_ore,2016-01-01,0
+Pulau Pinang,metallic,iron_ore,2017-01-01,0
+Pulau Pinang,metallic,iron_ore,2018-01-01,0
+Pulau Pinang,metallic,iron_ore,2019-01-01,0
+Pulau Pinang,metallic,iron_ore,2020-01-01,0
+Pulau Pinang,metallic,iron_ore,2021-01-01,0
+Pulau Pinang,metallic,manganese,2016-01-01,0
+Pulau Pinang,metallic,manganese,2017-01-01,0
+Pulau Pinang,metallic,manganese,2018-01-01,0
+Pulau Pinang,metallic,manganese,2019-01-01,0
+Pulau Pinang,metallic,manganese,2020-01-01,0
+Pulau Pinang,metallic,manganese,2021-01-01,0
+Pulau Pinang,metallic,monazite,2016-01-01,0
+Pulau Pinang,metallic,monazite,2017-01-01,0
+Pulau Pinang,metallic,monazite,2018-01-01,0
+Pulau Pinang,metallic,monazite,2019-01-01,0
+Pulau Pinang,metallic,monazite,2020-01-01,18
+Pulau Pinang,metallic,monazite,2021-01-01,0
+Pulau Pinang,metallic,rutile,2016-01-01,0
+Pulau Pinang,metallic,rutile,2017-01-01,0
+Pulau Pinang,metallic,rutile,2018-01-01,0
+Pulau Pinang,metallic,rutile,2019-01-01,0
+Pulau Pinang,metallic,rutile,2020-01-01,5136
+Pulau Pinang,metallic,rutile,2021-01-01,0
+Pulau Pinang,metallic,silver,2016-01-01,0
+Pulau Pinang,metallic,silver,2017-01-01,0
+Pulau Pinang,metallic,silver,2018-01-01,0
+Pulau Pinang,metallic,silver,2019-01-01,0
+Pulau Pinang,metallic,silver,2020-01-01,0
+Pulau Pinang,metallic,silver,2021-01-01,0
+Pulau Pinang,metallic,struverite,2016-01-01,0
+Pulau Pinang,metallic,struverite,2017-01-01,0
+Pulau Pinang,metallic,struverite,2018-01-01,0
+Pulau Pinang,metallic,struverite,2019-01-01,0
+Pulau Pinang,metallic,struverite,2020-01-01,9
+Pulau Pinang,metallic,struverite,2021-01-01,0
+Pulau Pinang,metallic,tin_ore,2016-01-01,0
+Pulau Pinang,metallic,tin_ore,2017-01-01,0
+Pulau Pinang,metallic,tin_ore,2018-01-01,0
+Pulau Pinang,metallic,tin_ore,2019-01-01,0
+Pulau Pinang,metallic,tin_ore,2020-01-01,0
+Pulau Pinang,metallic,tin_ore,2021-01-01,0
+Pulau Pinang,metallic,xenotime,2016-01-01,0
+Pulau Pinang,metallic,xenotime,2017-01-01,0
+Pulau Pinang,metallic,xenotime,2018-01-01,0
+Pulau Pinang,metallic,xenotime,2019-01-01,0
+Pulau Pinang,metallic,xenotime,2020-01-01,3
+Pulau Pinang,metallic,xenotime,2021-01-01,0
+Pulau Pinang,metallic,zircon,2016-01-01,0
+Pulau Pinang,metallic,zircon,2017-01-01,0
+Pulau Pinang,metallic,zircon,2018-01-01,0
+Pulau Pinang,metallic,zircon,2019-01-01,0
+Pulau Pinang,metallic,zircon,2020-01-01,157
+Pulau Pinang,metallic,zircon,2021-01-01,0
+Pulau Pinang,non_metallic,aggregates,2016-01-01,5330291
+Pulau Pinang,non_metallic,aggregates,2017-01-01,5265652
+Pulau Pinang,non_metallic,aggregates,2018-01-01,6222742
+Pulau Pinang,non_metallic,aggregates,2019-01-01,5554236
+Pulau Pinang,non_metallic,aggregates,2020-01-01,3888753
+Pulau Pinang,non_metallic,aggregates,2021-01-01,3647986
+Pulau Pinang,non_metallic,clay,2016-01-01,87450
+Pulau Pinang,non_metallic,clay,2017-01-01,104895
+Pulau Pinang,non_metallic,clay,2018-01-01,0
+Pulau Pinang,non_metallic,clay,2019-01-01,0
+Pulau Pinang,non_metallic,clay,2020-01-01,0
+Pulau Pinang,non_metallic,clay,2021-01-01,101631
+Pulau Pinang,non_metallic,earth_materials,2016-01-01,108117
+Pulau Pinang,non_metallic,earth_materials,2017-01-01,565150
+Pulau Pinang,non_metallic,earth_materials,2018-01-01,232800
+Pulau Pinang,non_metallic,earth_materials,2019-01-01,345600
+Pulau Pinang,non_metallic,earth_materials,2020-01-01,43200
+Pulau Pinang,non_metallic,earth_materials,2021-01-01,0
+Pulau Pinang,non_metallic,feldspar,2016-01-01,0
+Pulau Pinang,non_metallic,feldspar,2017-01-01,0
+Pulau Pinang,non_metallic,feldspar,2018-01-01,0
+Pulau Pinang,non_metallic,feldspar,2019-01-01,0
+Pulau Pinang,non_metallic,feldspar,2020-01-01,0
+Pulau Pinang,non_metallic,feldspar,2021-01-01,0
+Pulau Pinang,non_metallic,kaolin,2016-01-01,0
+Pulau Pinang,non_metallic,kaolin,2017-01-01,0
+Pulau Pinang,non_metallic,kaolin,2018-01-01,0
+Pulau Pinang,non_metallic,kaolin,2019-01-01,0
+Pulau Pinang,non_metallic,kaolin,2020-01-01,0
+Pulau Pinang,non_metallic,kaolin,2021-01-01,0
+Pulau Pinang,non_metallic,limestone,2016-01-01,0
+Pulau Pinang,non_metallic,limestone,2017-01-01,0
+Pulau Pinang,non_metallic,limestone,2018-01-01,0
+Pulau Pinang,non_metallic,limestone,2019-01-01,0
+Pulau Pinang,non_metallic,limestone,2020-01-01,0
+Pulau Pinang,non_metallic,limestone,2021-01-01,0
+Pulau Pinang,non_metallic,mica,2016-01-01,0
+Pulau Pinang,non_metallic,mica,2017-01-01,0
+Pulau Pinang,non_metallic,mica,2018-01-01,0
+Pulau Pinang,non_metallic,mica,2019-01-01,0
+Pulau Pinang,non_metallic,mica,2020-01-01,0
+Pulau Pinang,non_metallic,mica,2021-01-01,0
+Pulau Pinang,non_metallic,sand_and_gravel,2016-01-01,472000
+Pulau Pinang,non_metallic,sand_and_gravel,2017-01-01,18000
+Pulau Pinang,non_metallic,sand_and_gravel,2018-01-01,18000
+Pulau Pinang,non_metallic,sand_and_gravel,2019-01-01,320830
+Pulau Pinang,non_metallic,sand_and_gravel,2020-01-01,0
+Pulau Pinang,non_metallic,sand_and_gravel,2021-01-01,0
+Pulau Pinang,non_metallic,silica,2016-01-01,0
+Pulau Pinang,non_metallic,silica,2017-01-01,0
+Pulau Pinang,non_metallic,silica,2018-01-01,0
+Pulau Pinang,non_metallic,silica,2019-01-01,0
+Pulau Pinang,non_metallic,silica,2020-01-01,0
+Pulau Pinang,non_metallic,silica,2021-01-01,0
+Sabah,energy,coal,2016-01-01,0
+Sabah,energy,coal,2017-01-01,0
+Sabah,energy,coal,2018-01-01,0
+Sabah,energy,coal,2019-01-01,0
+Sabah,energy,coal,2020-01-01,0
+Sabah,energy,coal,2021-01-01,0
+Sabah,metallic,bauxite,2016-01-01,0
+Sabah,metallic,bauxite,2017-01-01,0
+Sabah,metallic,bauxite,2018-01-01,0
+Sabah,metallic,bauxite,2019-01-01,0
+Sabah,metallic,bauxite,2020-01-01,0
+Sabah,metallic,bauxite,2021-01-01,0
+Sabah,metallic,gold,2016-01-01,0
+Sabah,metallic,gold,2017-01-01,0
+Sabah,metallic,gold,2018-01-01,92954
+Sabah,metallic,gold,2019-01-01,513463
+Sabah,metallic,gold,2020-01-01,347612
+Sabah,metallic,gold,2021-01-01,559822
+Sabah,metallic,ilmenite,2016-01-01,0
+Sabah,metallic,ilmenite,2017-01-01,0
+Sabah,metallic,ilmenite,2018-01-01,0
+Sabah,metallic,ilmenite,2019-01-01,0
+Sabah,metallic,ilmenite,2020-01-01,0
+Sabah,metallic,ilmenite,2021-01-01,0
+Sabah,metallic,iron_ore,2016-01-01,0
+Sabah,metallic,iron_ore,2017-01-01,0
+Sabah,metallic,iron_ore,2018-01-01,0
+Sabah,metallic,iron_ore,2019-01-01,0
+Sabah,metallic,iron_ore,2020-01-01,0
+Sabah,metallic,iron_ore,2021-01-01,0
+Sabah,metallic,manganese,2016-01-01,0
+Sabah,metallic,manganese,2017-01-01,0
+Sabah,metallic,manganese,2018-01-01,0
+Sabah,metallic,manganese,2019-01-01,0
+Sabah,metallic,manganese,2020-01-01,0
+Sabah,metallic,manganese,2021-01-01,0
+Sabah,metallic,monazite,2016-01-01,0
+Sabah,metallic,monazite,2017-01-01,0
+Sabah,metallic,monazite,2018-01-01,0
+Sabah,metallic,monazite,2019-01-01,0
+Sabah,metallic,monazite,2020-01-01,0
+Sabah,metallic,monazite,2021-01-01,0
+Sabah,metallic,rutile,2016-01-01,0
+Sabah,metallic,rutile,2017-01-01,0
+Sabah,metallic,rutile,2018-01-01,0
+Sabah,metallic,rutile,2019-01-01,0
+Sabah,metallic,rutile,2020-01-01,0
+Sabah,metallic,rutile,2021-01-01,0
+Sabah,metallic,silver,2016-01-01,0
+Sabah,metallic,silver,2017-01-01,0
+Sabah,metallic,silver,2018-01-01,0
+Sabah,metallic,silver,2019-01-01,0
+Sabah,metallic,silver,2020-01-01,0
+Sabah,metallic,silver,2021-01-01,0
+Sabah,metallic,struverite,2016-01-01,0
+Sabah,metallic,struverite,2017-01-01,0
+Sabah,metallic,struverite,2018-01-01,0
+Sabah,metallic,struverite,2019-01-01,0
+Sabah,metallic,struverite,2020-01-01,0
+Sabah,metallic,struverite,2021-01-01,0
+Sabah,metallic,tin_ore,2016-01-01,0
+Sabah,metallic,tin_ore,2017-01-01,0
+Sabah,metallic,tin_ore,2018-01-01,0
+Sabah,metallic,tin_ore,2019-01-01,0
+Sabah,metallic,tin_ore,2020-01-01,0
+Sabah,metallic,tin_ore,2021-01-01,0
+Sabah,metallic,xenotime,2016-01-01,0
+Sabah,metallic,xenotime,2017-01-01,0
+Sabah,metallic,xenotime,2018-01-01,0
+Sabah,metallic,xenotime,2019-01-01,0
+Sabah,metallic,xenotime,2020-01-01,0
+Sabah,metallic,xenotime,2021-01-01,0
+Sabah,metallic,zircon,2016-01-01,0
+Sabah,metallic,zircon,2017-01-01,0
+Sabah,metallic,zircon,2018-01-01,0
+Sabah,metallic,zircon,2019-01-01,0
+Sabah,metallic,zircon,2020-01-01,0
+Sabah,metallic,zircon,2021-01-01,0
+Sabah,non_metallic,aggregates,2016-01-01,30556515
+Sabah,non_metallic,aggregates,2017-01-01,6299929
+Sabah,non_metallic,aggregates,2018-01-01,5349649
+Sabah,non_metallic,aggregates,2019-01-01,5700913
+Sabah,non_metallic,aggregates,2020-01-01,5562509
+Sabah,non_metallic,aggregates,2021-01-01,4084314
+Sabah,non_metallic,clay,2016-01-01,794309
+Sabah,non_metallic,clay,2017-01-01,338794
+Sabah,non_metallic,clay,2018-01-01,338967
+Sabah,non_metallic,clay,2019-01-01,282839
+Sabah,non_metallic,clay,2020-01-01,134163
+Sabah,non_metallic,clay,2021-01-01,176676
+Sabah,non_metallic,earth_materials,2016-01-01,2223740
+Sabah,non_metallic,earth_materials,2017-01-01,654854
+Sabah,non_metallic,earth_materials,2018-01-01,2693353
+Sabah,non_metallic,earth_materials,2019-01-01,577094
+Sabah,non_metallic,earth_materials,2020-01-01,5880
+Sabah,non_metallic,earth_materials,2021-01-01,1232710
+Sabah,non_metallic,feldspar,2016-01-01,0
+Sabah,non_metallic,feldspar,2017-01-01,0
+Sabah,non_metallic,feldspar,2018-01-01,0
+Sabah,non_metallic,feldspar,2019-01-01,0
+Sabah,non_metallic,feldspar,2020-01-01,0
+Sabah,non_metallic,feldspar,2021-01-01,0
+Sabah,non_metallic,kaolin,2016-01-01,0
+Sabah,non_metallic,kaolin,2017-01-01,0
+Sabah,non_metallic,kaolin,2018-01-01,0
+Sabah,non_metallic,kaolin,2019-01-01,0
+Sabah,non_metallic,kaolin,2020-01-01,0
+Sabah,non_metallic,kaolin,2021-01-01,0
+Sabah,non_metallic,limestone,2016-01-01,1524027
+Sabah,non_metallic,limestone,2017-01-01,177517
+Sabah,non_metallic,limestone,2018-01-01,0
+Sabah,non_metallic,limestone,2019-01-01,0
+Sabah,non_metallic,limestone,2020-01-01,0
+Sabah,non_metallic,limestone,2021-01-01,0
+Sabah,non_metallic,mica,2016-01-01,0
+Sabah,non_metallic,mica,2017-01-01,0
+Sabah,non_metallic,mica,2018-01-01,0
+Sabah,non_metallic,mica,2019-01-01,0
+Sabah,non_metallic,mica,2020-01-01,0
+Sabah,non_metallic,mica,2021-01-01,0
+Sabah,non_metallic,sand_and_gravel,2016-01-01,5269122
+Sabah,non_metallic,sand_and_gravel,2017-01-01,696298
+Sabah,non_metallic,sand_and_gravel,2018-01-01,1468436
+Sabah,non_metallic,sand_and_gravel,2019-01-01,1190847
+Sabah,non_metallic,sand_and_gravel,2020-01-01,524399
+Sabah,non_metallic,sand_and_gravel,2021-01-01,380143
+Sabah,non_metallic,silica,2016-01-01,0
+Sabah,non_metallic,silica,2017-01-01,0
+Sabah,non_metallic,silica,2018-01-01,0
+Sabah,non_metallic,silica,2019-01-01,0
+Sabah,non_metallic,silica,2020-01-01,0
+Sabah,non_metallic,silica,2021-01-01,0
+Sarawak,energy,coal,2016-01-01,2414765
+Sarawak,energy,coal,2017-01-01,2988212
+Sarawak,energy,coal,2018-01-01,2652813
+Sarawak,energy,coal,2019-01-01,3459122
+Sarawak,energy,coal,2020-01-01,2978248
+Sarawak,energy,coal,2021-01-01,2978248
+Sarawak,metallic,bauxite,2016-01-01,0
+Sarawak,metallic,bauxite,2017-01-01,0
+Sarawak,metallic,bauxite,2018-01-01,0
+Sarawak,metallic,bauxite,2019-01-01,0
+Sarawak,metallic,bauxite,2020-01-01,0
+Sarawak,metallic,bauxite,2021-01-01,0
+Sarawak,metallic,gold,2016-01-01,21682
+Sarawak,metallic,gold,2017-01-01,0
+Sarawak,metallic,gold,2018-01-01,0
+Sarawak,metallic,gold,2019-01-01,0
+Sarawak,metallic,gold,2020-01-01,0
+Sarawak,metallic,gold,2021-01-01,0
+Sarawak,metallic,ilmenite,2016-01-01,0
+Sarawak,metallic,ilmenite,2017-01-01,0
+Sarawak,metallic,ilmenite,2018-01-01,0
+Sarawak,metallic,ilmenite,2019-01-01,0
+Sarawak,metallic,ilmenite,2020-01-01,0
+Sarawak,metallic,ilmenite,2021-01-01,0
+Sarawak,metallic,iron_ore,2016-01-01,193608
+Sarawak,metallic,iron_ore,2017-01-01,0
+Sarawak,metallic,iron_ore,2018-01-01,0
+Sarawak,metallic,iron_ore,2019-01-01,0
+Sarawak,metallic,iron_ore,2020-01-01,0
+Sarawak,metallic,iron_ore,2021-01-01,0
+Sarawak,metallic,manganese,2016-01-01,0
+Sarawak,metallic,manganese,2017-01-01,0
+Sarawak,metallic,manganese,2018-01-01,0
+Sarawak,metallic,manganese,2019-01-01,0
+Sarawak,metallic,manganese,2020-01-01,0
+Sarawak,metallic,manganese,2021-01-01,0
+Sarawak,metallic,monazite,2016-01-01,0
+Sarawak,metallic,monazite,2017-01-01,0
+Sarawak,metallic,monazite,2018-01-01,0
+Sarawak,metallic,monazite,2019-01-01,0
+Sarawak,metallic,monazite,2020-01-01,0
+Sarawak,metallic,monazite,2021-01-01,0
+Sarawak,metallic,rutile,2016-01-01,0
+Sarawak,metallic,rutile,2017-01-01,0
+Sarawak,metallic,rutile,2018-01-01,0
+Sarawak,metallic,rutile,2019-01-01,0
+Sarawak,metallic,rutile,2020-01-01,0
+Sarawak,metallic,rutile,2021-01-01,0
+Sarawak,metallic,silver,2016-01-01,0
+Sarawak,metallic,silver,2017-01-01,0
+Sarawak,metallic,silver,2018-01-01,0
+Sarawak,metallic,silver,2019-01-01,0
+Sarawak,metallic,silver,2020-01-01,0
+Sarawak,metallic,silver,2021-01-01,0
+Sarawak,metallic,struverite,2016-01-01,0
+Sarawak,metallic,struverite,2017-01-01,0
+Sarawak,metallic,struverite,2018-01-01,0
+Sarawak,metallic,struverite,2019-01-01,0
+Sarawak,metallic,struverite,2020-01-01,0
+Sarawak,metallic,struverite,2021-01-01,0
+Sarawak,metallic,tin_ore,2016-01-01,9
+Sarawak,metallic,tin_ore,2017-01-01,0
+Sarawak,metallic,tin_ore,2018-01-01,0
+Sarawak,metallic,tin_ore,2019-01-01,0
+Sarawak,metallic,tin_ore,2020-01-01,0
+Sarawak,metallic,tin_ore,2021-01-01,0
+Sarawak,metallic,xenotime,2016-01-01,0
+Sarawak,metallic,xenotime,2017-01-01,0
+Sarawak,metallic,xenotime,2018-01-01,0
+Sarawak,metallic,xenotime,2019-01-01,0
+Sarawak,metallic,xenotime,2020-01-01,0
+Sarawak,metallic,xenotime,2021-01-01,0
+Sarawak,metallic,zircon,2016-01-01,0
+Sarawak,metallic,zircon,2017-01-01,0
+Sarawak,metallic,zircon,2018-01-01,0
+Sarawak,metallic,zircon,2019-01-01,0
+Sarawak,metallic,zircon,2020-01-01,0
+Sarawak,metallic,zircon,2021-01-01,0
+Sarawak,non_metallic,aggregates,2016-01-01,4631897
+Sarawak,non_metallic,aggregates,2017-01-01,13659129
+Sarawak,non_metallic,aggregates,2018-01-01,19602440
+Sarawak,non_metallic,aggregates,2019-01-01,17361009
+Sarawak,non_metallic,aggregates,2020-01-01,13056224
+Sarawak,non_metallic,aggregates,2021-01-01,16490253
+Sarawak,non_metallic,clay,2016-01-01,26415
+Sarawak,non_metallic,clay,2017-01-01,723010
+Sarawak,non_metallic,clay,2018-01-01,728614
+Sarawak,non_metallic,clay,2019-01-01,689468
+Sarawak,non_metallic,clay,2020-01-01,485939
+Sarawak,non_metallic,clay,2021-01-01,435136
+Sarawak,non_metallic,earth_materials,2016-01-01,1350827
+Sarawak,non_metallic,earth_materials,2017-01-01,1038664
+Sarawak,non_metallic,earth_materials,2018-01-01,1358926
+Sarawak,non_metallic,earth_materials,2019-01-01,1576398
+Sarawak,non_metallic,earth_materials,2020-01-01,2301973
+Sarawak,non_metallic,earth_materials,2021-01-01,500450
+Sarawak,non_metallic,feldspar,2016-01-01,0
+Sarawak,non_metallic,feldspar,2017-01-01,0
+Sarawak,non_metallic,feldspar,2018-01-01,0
+Sarawak,non_metallic,feldspar,2019-01-01,0
+Sarawak,non_metallic,feldspar,2020-01-01,0
+Sarawak,non_metallic,feldspar,2021-01-01,0
+Sarawak,non_metallic,kaolin,2016-01-01,0
+Sarawak,non_metallic,kaolin,2017-01-01,0
+Sarawak,non_metallic,kaolin,2018-01-01,0
+Sarawak,non_metallic,kaolin,2019-01-01,0
+Sarawak,non_metallic,kaolin,2020-01-01,0
+Sarawak,non_metallic,kaolin,2021-01-01,0
+Sarawak,non_metallic,limestone,2016-01-01,0
+Sarawak,non_metallic,limestone,2017-01-01,7897003
+Sarawak,non_metallic,limestone,2018-01-01,9137979
+Sarawak,non_metallic,limestone,2019-01-01,9482764
+Sarawak,non_metallic,limestone,2020-01-01,625960
+Sarawak,non_metallic,limestone,2021-01-01,692791
+Sarawak,non_metallic,mica,2016-01-01,0
+Sarawak,non_metallic,mica,2017-01-01,0
+Sarawak,non_metallic,mica,2018-01-01,0
+Sarawak,non_metallic,mica,2019-01-01,0
+Sarawak,non_metallic,mica,2020-01-01,0
+Sarawak,non_metallic,mica,2021-01-01,0
+Sarawak,non_metallic,sand_and_gravel,2016-01-01,622757
+Sarawak,non_metallic,sand_and_gravel,2017-01-01,2637751
+Sarawak,non_metallic,sand_and_gravel,2018-01-01,2830907
+Sarawak,non_metallic,sand_and_gravel,2019-01-01,2500636
+Sarawak,non_metallic,sand_and_gravel,2020-01-01,2408857
+Sarawak,non_metallic,sand_and_gravel,2021-01-01,3495736
+Sarawak,non_metallic,silica,2016-01-01,82153
+Sarawak,non_metallic,silica,2017-01-01,88875
+Sarawak,non_metallic,silica,2018-01-01,17892
+Sarawak,non_metallic,silica,2019-01-01,0
+Sarawak,non_metallic,silica,2020-01-01,0
+Sarawak,non_metallic,silica,2021-01-01,68
+Selangor,energy,coal,2016-01-01,0
+Selangor,energy,coal,2017-01-01,0
+Selangor,energy,coal,2018-01-01,0
+Selangor,energy,coal,2019-01-01,0
+Selangor,energy,coal,2020-01-01,0
+Selangor,energy,coal,2021-01-01,0
+Selangor,metallic,bauxite,2016-01-01,0
+Selangor,metallic,bauxite,2017-01-01,0
+Selangor,metallic,bauxite,2018-01-01,0
+Selangor,metallic,bauxite,2019-01-01,0
+Selangor,metallic,bauxite,2020-01-01,0
+Selangor,metallic,bauxite,2021-01-01,0
+Selangor,metallic,gold,2016-01-01,0
+Selangor,metallic,gold,2017-01-01,0
+Selangor,metallic,gold,2018-01-01,0
+Selangor,metallic,gold,2019-01-01,0
+Selangor,metallic,gold,2020-01-01,0
+Selangor,metallic,gold,2021-01-01,0
+Selangor,metallic,ilmenite,2016-01-01,0
+Selangor,metallic,ilmenite,2017-01-01,0
+Selangor,metallic,ilmenite,2018-01-01,0
+Selangor,metallic,ilmenite,2019-01-01,0
+Selangor,metallic,ilmenite,2020-01-01,0
+Selangor,metallic,ilmenite,2021-01-01,0
+Selangor,metallic,iron_ore,2016-01-01,0
+Selangor,metallic,iron_ore,2017-01-01,0
+Selangor,metallic,iron_ore,2018-01-01,0
+Selangor,metallic,iron_ore,2019-01-01,0
+Selangor,metallic,iron_ore,2020-01-01,0
+Selangor,metallic,iron_ore,2021-01-01,0
+Selangor,metallic,manganese,2016-01-01,0
+Selangor,metallic,manganese,2017-01-01,0
+Selangor,metallic,manganese,2018-01-01,0
+Selangor,metallic,manganese,2019-01-01,0
+Selangor,metallic,manganese,2020-01-01,0
+Selangor,metallic,manganese,2021-01-01,0
+Selangor,metallic,monazite,2016-01-01,0
+Selangor,metallic,monazite,2017-01-01,0
+Selangor,metallic,monazite,2018-01-01,0
+Selangor,metallic,monazite,2019-01-01,0
+Selangor,metallic,monazite,2020-01-01,0
+Selangor,metallic,monazite,2021-01-01,0
+Selangor,metallic,rutile,2016-01-01,0
+Selangor,metallic,rutile,2017-01-01,0
+Selangor,metallic,rutile,2018-01-01,0
+Selangor,metallic,rutile,2019-01-01,0
+Selangor,metallic,rutile,2020-01-01,0
+Selangor,metallic,rutile,2021-01-01,0
+Selangor,metallic,silver,2016-01-01,0
+Selangor,metallic,silver,2017-01-01,0
+Selangor,metallic,silver,2018-01-01,0
+Selangor,metallic,silver,2019-01-01,0
+Selangor,metallic,silver,2020-01-01,0
+Selangor,metallic,silver,2021-01-01,0
+Selangor,metallic,struverite,2016-01-01,0
+Selangor,metallic,struverite,2017-01-01,0
+Selangor,metallic,struverite,2018-01-01,0
+Selangor,metallic,struverite,2019-01-01,0
+Selangor,metallic,struverite,2020-01-01,0
+Selangor,metallic,struverite,2021-01-01,0
+Selangor,metallic,tin_ore,2016-01-01,0
+Selangor,metallic,tin_ore,2017-01-01,0
+Selangor,metallic,tin_ore,2018-01-01,13
+Selangor,metallic,tin_ore,2019-01-01,4
+Selangor,metallic,tin_ore,2020-01-01,16
+Selangor,metallic,tin_ore,2021-01-01,114
+Selangor,metallic,xenotime,2016-01-01,0
+Selangor,metallic,xenotime,2017-01-01,0
+Selangor,metallic,xenotime,2018-01-01,0
+Selangor,metallic,xenotime,2019-01-01,0
+Selangor,metallic,xenotime,2020-01-01,0
+Selangor,metallic,xenotime,2021-01-01,0
+Selangor,metallic,zircon,2016-01-01,0
+Selangor,metallic,zircon,2017-01-01,0
+Selangor,metallic,zircon,2018-01-01,0
+Selangor,metallic,zircon,2019-01-01,0
+Selangor,metallic,zircon,2020-01-01,0
+Selangor,metallic,zircon,2021-01-01,0
+Selangor,non_metallic,aggregates,2016-01-01,6178722
+Selangor,non_metallic,aggregates,2017-01-01,27612428
+Selangor,non_metallic,aggregates,2018-01-01,31049704
+Selangor,non_metallic,aggregates,2019-01-01,32066318
+Selangor,non_metallic,aggregates,2020-01-01,24937522
+Selangor,non_metallic,aggregates,2021-01-01,23992591
+Selangor,non_metallic,clay,2016-01-01,399857
+Selangor,non_metallic,clay,2017-01-01,948158
+Selangor,non_metallic,clay,2018-01-01,686510
+Selangor,non_metallic,clay,2019-01-01,1467392
+Selangor,non_metallic,clay,2020-01-01,648039
+Selangor,non_metallic,clay,2021-01-01,855259
+Selangor,non_metallic,earth_materials,2016-01-01,3247949
+Selangor,non_metallic,earth_materials,2017-01-01,5375718
+Selangor,non_metallic,earth_materials,2018-01-01,3463350
+Selangor,non_metallic,earth_materials,2019-01-01,2297604
+Selangor,non_metallic,earth_materials,2020-01-01,2148817
+Selangor,non_metallic,earth_materials,2021-01-01,2298827
+Selangor,non_metallic,feldspar,2016-01-01,0
+Selangor,non_metallic,feldspar,2017-01-01,0
+Selangor,non_metallic,feldspar,2018-01-01,0
+Selangor,non_metallic,feldspar,2019-01-01,0
+Selangor,non_metallic,feldspar,2020-01-01,0
+Selangor,non_metallic,feldspar,2021-01-01,0
+Selangor,non_metallic,kaolin,2016-01-01,0
+Selangor,non_metallic,kaolin,2017-01-01,0
+Selangor,non_metallic,kaolin,2018-01-01,0
+Selangor,non_metallic,kaolin,2019-01-01,0
+Selangor,non_metallic,kaolin,2020-01-01,0
+Selangor,non_metallic,kaolin,2021-01-01,0
+Selangor,non_metallic,limestone,2016-01-01,0
+Selangor,non_metallic,limestone,2017-01-01,3165004
+Selangor,non_metallic,limestone,2018-01-01,3216722
+Selangor,non_metallic,limestone,2019-01-01,1590000
+Selangor,non_metallic,limestone,2020-01-01,0
+Selangor,non_metallic,limestone,2021-01-01,0
+Selangor,non_metallic,mica,2016-01-01,0
+Selangor,non_metallic,mica,2017-01-01,0
+Selangor,non_metallic,mica,2018-01-01,0
+Selangor,non_metallic,mica,2019-01-01,0
+Selangor,non_metallic,mica,2020-01-01,0
+Selangor,non_metallic,mica,2021-01-01,0
+Selangor,non_metallic,sand_and_gravel,2016-01-01,421665
+Selangor,non_metallic,sand_and_gravel,2017-01-01,12673624
+Selangor,non_metallic,sand_and_gravel,2018-01-01,7159325
+Selangor,non_metallic,sand_and_gravel,2019-01-01,13613876
+Selangor,non_metallic,sand_and_gravel,2020-01-01,8246297
+Selangor,non_metallic,sand_and_gravel,2021-01-01,10010002
+Selangor,non_metallic,silica,2016-01-01,0
+Selangor,non_metallic,silica,2017-01-01,0
+Selangor,non_metallic,silica,2018-01-01,58324
+Selangor,non_metallic,silica,2019-01-01,113400
+Selangor,non_metallic,silica,2020-01-01,63000
+Selangor,non_metallic,silica,2021-01-01,2207048
+Terengganu,energy,coal,2016-01-01,0
+Terengganu,energy,coal,2017-01-01,0
+Terengganu,energy,coal,2018-01-01,0
+Terengganu,energy,coal,2019-01-01,0
+Terengganu,energy,coal,2020-01-01,0
+Terengganu,energy,coal,2021-01-01,0
+Terengganu,metallic,bauxite,2016-01-01,0
+Terengganu,metallic,bauxite,2017-01-01,0
+Terengganu,metallic,bauxite,2018-01-01,0
+Terengganu,metallic,bauxite,2019-01-01,0
+Terengganu,metallic,bauxite,2020-01-01,0
+Terengganu,metallic,bauxite,2021-01-01,0
+Terengganu,metallic,gold,2016-01-01,0
+Terengganu,metallic,gold,2017-01-01,4382
+Terengganu,metallic,gold,2018-01-01,0
+Terengganu,metallic,gold,2019-01-01,313
+Terengganu,metallic,gold,2020-01-01,97
+Terengganu,metallic,gold,2021-01-01,377
+Terengganu,metallic,ilmenite,2016-01-01,0
+Terengganu,metallic,ilmenite,2017-01-01,0
+Terengganu,metallic,ilmenite,2018-01-01,0
+Terengganu,metallic,ilmenite,2019-01-01,0
+Terengganu,metallic,ilmenite,2020-01-01,0
+Terengganu,metallic,ilmenite,2021-01-01,0
+Terengganu,metallic,iron_ore,2016-01-01,0
+Terengganu,metallic,iron_ore,2017-01-01,734669
+Terengganu,metallic,iron_ore,2018-01-01,717870
+Terengganu,metallic,iron_ore,2019-01-01,779400
+Terengganu,metallic,iron_ore,2020-01-01,1021005
+Terengganu,metallic,iron_ore,2021-01-01,1516052
+Terengganu,metallic,manganese,2016-01-01,0
+Terengganu,metallic,manganese,2017-01-01,0
+Terengganu,metallic,manganese,2018-01-01,0
+Terengganu,metallic,manganese,2019-01-01,0
+Terengganu,metallic,manganese,2020-01-01,0
+Terengganu,metallic,manganese,2021-01-01,0
+Terengganu,metallic,monazite,2016-01-01,0
+Terengganu,metallic,monazite,2017-01-01,0
+Terengganu,metallic,monazite,2018-01-01,0
+Terengganu,metallic,monazite,2019-01-01,0
+Terengganu,metallic,monazite,2020-01-01,0
+Terengganu,metallic,monazite,2021-01-01,0
+Terengganu,metallic,rutile,2016-01-01,0
+Terengganu,metallic,rutile,2017-01-01,0
+Terengganu,metallic,rutile,2018-01-01,0
+Terengganu,metallic,rutile,2019-01-01,0
+Terengganu,metallic,rutile,2020-01-01,0
+Terengganu,metallic,rutile,2021-01-01,0
+Terengganu,metallic,silver,2016-01-01,0
+Terengganu,metallic,silver,2017-01-01,0
+Terengganu,metallic,silver,2018-01-01,0
+Terengganu,metallic,silver,2019-01-01,0
+Terengganu,metallic,silver,2020-01-01,0
+Terengganu,metallic,silver,2021-01-01,0
+Terengganu,metallic,struverite,2016-01-01,0
+Terengganu,metallic,struverite,2017-01-01,0
+Terengganu,metallic,struverite,2018-01-01,0
+Terengganu,metallic,struverite,2019-01-01,0
+Terengganu,metallic,struverite,2020-01-01,0
+Terengganu,metallic,struverite,2021-01-01,0
+Terengganu,metallic,tin_ore,2016-01-01,0
+Terengganu,metallic,tin_ore,2017-01-01,0
+Terengganu,metallic,tin_ore,2018-01-01,0
+Terengganu,metallic,tin_ore,2019-01-01,0
+Terengganu,metallic,tin_ore,2020-01-01,0
+Terengganu,metallic,tin_ore,2021-01-01,184
+Terengganu,metallic,xenotime,2016-01-01,0
+Terengganu,metallic,xenotime,2017-01-01,0
+Terengganu,metallic,xenotime,2018-01-01,0
+Terengganu,metallic,xenotime,2019-01-01,0
+Terengganu,metallic,xenotime,2020-01-01,0
+Terengganu,metallic,xenotime,2021-01-01,0
+Terengganu,metallic,zircon,2016-01-01,0
+Terengganu,metallic,zircon,2017-01-01,0
+Terengganu,metallic,zircon,2018-01-01,0
+Terengganu,metallic,zircon,2019-01-01,0
+Terengganu,metallic,zircon,2020-01-01,0
+Terengganu,metallic,zircon,2021-01-01,0
+Terengganu,non_metallic,aggregates,2016-01-01,13609168
+Terengganu,non_metallic,aggregates,2017-01-01,3854390
+Terengganu,non_metallic,aggregates,2018-01-01,3719975
+Terengganu,non_metallic,aggregates,2019-01-01,3170088
+Terengganu,non_metallic,aggregates,2020-01-01,2577425
+Terengganu,non_metallic,aggregates,2021-01-01,3293559
+Terengganu,non_metallic,clay,2016-01-01,833365
+Terengganu,non_metallic,clay,2017-01-01,17127
+Terengganu,non_metallic,clay,2018-01-01,8706
+Terengganu,non_metallic,clay,2019-01-01,8112
+Terengganu,non_metallic,clay,2020-01-01,9191
+Terengganu,non_metallic,clay,2021-01-01,6467
+Terengganu,non_metallic,earth_materials,2016-01-01,1291383
+Terengganu,non_metallic,earth_materials,2017-01-01,2042710
+Terengganu,non_metallic,earth_materials,2018-01-01,6705172
+Terengganu,non_metallic,earth_materials,2019-01-01,6466661
+Terengganu,non_metallic,earth_materials,2020-01-01,2645670
+Terengganu,non_metallic,earth_materials,2021-01-01,0
+Terengganu,non_metallic,feldspar,2016-01-01,0
+Terengganu,non_metallic,feldspar,2017-01-01,0
+Terengganu,non_metallic,feldspar,2018-01-01,0
+Terengganu,non_metallic,feldspar,2019-01-01,0
+Terengganu,non_metallic,feldspar,2020-01-01,0
+Terengganu,non_metallic,feldspar,2021-01-01,0
+Terengganu,non_metallic,kaolin,2016-01-01,0
+Terengganu,non_metallic,kaolin,2017-01-01,14604
+Terengganu,non_metallic,kaolin,2018-01-01,45098
+Terengganu,non_metallic,kaolin,2019-01-01,19500
+Terengganu,non_metallic,kaolin,2020-01-01,31000
+Terengganu,non_metallic,kaolin,2021-01-01,7500
+Terengganu,non_metallic,limestone,2016-01-01,965059
+Terengganu,non_metallic,limestone,2017-01-01,0
+Terengganu,non_metallic,limestone,2018-01-01,0
+Terengganu,non_metallic,limestone,2019-01-01,0
+Terengganu,non_metallic,limestone,2020-01-01,0
+Terengganu,non_metallic,limestone,2021-01-01,0
+Terengganu,non_metallic,mica,2016-01-01,0
+Terengganu,non_metallic,mica,2017-01-01,0
+Terengganu,non_metallic,mica,2018-01-01,0
+Terengganu,non_metallic,mica,2019-01-01,0
+Terengganu,non_metallic,mica,2020-01-01,0
+Terengganu,non_metallic,mica,2021-01-01,0
+Terengganu,non_metallic,sand_and_gravel,2016-01-01,2337040
+Terengganu,non_metallic,sand_and_gravel,2017-01-01,729792
+Terengganu,non_metallic,sand_and_gravel,2018-01-01,884097
+Terengganu,non_metallic,sand_and_gravel,2019-01-01,723852
+Terengganu,non_metallic,sand_and_gravel,2020-01-01,984182
+Terengganu,non_metallic,sand_and_gravel,2021-01-01,1152249
+Terengganu,non_metallic,silica,2016-01-01,160000
+Terengganu,non_metallic,silica,2017-01-01,259028
+Terengganu,non_metallic,silica,2018-01-01,504093
+Terengganu,non_metallic,silica,2019-01-01,565644
+Terengganu,non_metallic,silica,2020-01-01,998824
+Terengganu,non_metallic,silica,2021-01-01,1131753
+W.P. Kuala Lumpur,energy,coal,2016-01-01,0
+W.P. Kuala Lumpur,energy,coal,2017-01-01,0
+W.P. Kuala Lumpur,energy,coal,2018-01-01,0
+W.P. Kuala Lumpur,energy,coal,2019-01-01,0
+W.P. Kuala Lumpur,energy,coal,2020-01-01,0
+W.P. Kuala Lumpur,energy,coal,2021-01-01,0
+W.P. Kuala Lumpur,metallic,bauxite,2016-01-01,0
+W.P. Kuala Lumpur,metallic,bauxite,2017-01-01,0
+W.P. Kuala Lumpur,metallic,bauxite,2018-01-01,0
+W.P. Kuala Lumpur,metallic,bauxite,2019-01-01,0
+W.P. Kuala Lumpur,metallic,bauxite,2020-01-01,0
+W.P. Kuala Lumpur,metallic,bauxite,2021-01-01,0
+W.P. Kuala Lumpur,metallic,gold,2016-01-01,0
+W.P. Kuala Lumpur,metallic,gold,2017-01-01,0
+W.P. Kuala Lumpur,metallic,gold,2018-01-01,0
+W.P. Kuala Lumpur,metallic,gold,2019-01-01,0
+W.P. Kuala Lumpur,metallic,gold,2020-01-01,0
+W.P. Kuala Lumpur,metallic,gold,2021-01-01,0
+W.P. Kuala Lumpur,metallic,ilmenite,2016-01-01,0
+W.P. Kuala Lumpur,metallic,ilmenite,2017-01-01,0
+W.P. Kuala Lumpur,metallic,ilmenite,2018-01-01,0
+W.P. Kuala Lumpur,metallic,ilmenite,2019-01-01,0
+W.P. Kuala Lumpur,metallic,ilmenite,2020-01-01,0
+W.P. Kuala Lumpur,metallic,ilmenite,2021-01-01,0
+W.P. Kuala Lumpur,metallic,iron_ore,2016-01-01,0
+W.P. Kuala Lumpur,metallic,iron_ore,2017-01-01,0
+W.P. Kuala Lumpur,metallic,iron_ore,2018-01-01,0
+W.P. Kuala Lumpur,metallic,iron_ore,2019-01-01,0
+W.P. Kuala Lumpur,metallic,iron_ore,2020-01-01,0
+W.P. Kuala Lumpur,metallic,iron_ore,2021-01-01,0
+W.P. Kuala Lumpur,metallic,manganese,2016-01-01,0
+W.P. Kuala Lumpur,metallic,manganese,2017-01-01,0
+W.P. Kuala Lumpur,metallic,manganese,2018-01-01,0
+W.P. Kuala Lumpur,metallic,manganese,2019-01-01,0
+W.P. Kuala Lumpur,metallic,manganese,2020-01-01,0
+W.P. Kuala Lumpur,metallic,manganese,2021-01-01,0
+W.P. Kuala Lumpur,metallic,monazite,2016-01-01,0
+W.P. Kuala Lumpur,metallic,monazite,2017-01-01,0
+W.P. Kuala Lumpur,metallic,monazite,2018-01-01,0
+W.P. Kuala Lumpur,metallic,monazite,2019-01-01,0
+W.P. Kuala Lumpur,metallic,monazite,2020-01-01,0
+W.P. Kuala Lumpur,metallic,monazite,2021-01-01,0
+W.P. Kuala Lumpur,metallic,rutile,2016-01-01,0
+W.P. Kuala Lumpur,metallic,rutile,2017-01-01,0
+W.P. Kuala Lumpur,metallic,rutile,2018-01-01,0
+W.P. Kuala Lumpur,metallic,rutile,2019-01-01,0
+W.P. Kuala Lumpur,metallic,rutile,2020-01-01,0
+W.P. Kuala Lumpur,metallic,rutile,2021-01-01,0
+W.P. Kuala Lumpur,metallic,silver,2016-01-01,0
+W.P. Kuala Lumpur,metallic,silver,2017-01-01,0
+W.P. Kuala Lumpur,metallic,silver,2018-01-01,0
+W.P. Kuala Lumpur,metallic,silver,2019-01-01,0
+W.P. Kuala Lumpur,metallic,silver,2020-01-01,0
+W.P. Kuala Lumpur,metallic,silver,2021-01-01,0
+W.P. Kuala Lumpur,metallic,struverite,2016-01-01,0
+W.P. Kuala Lumpur,metallic,struverite,2017-01-01,0
+W.P. Kuala Lumpur,metallic,struverite,2018-01-01,0
+W.P. Kuala Lumpur,metallic,struverite,2019-01-01,0
+W.P. Kuala Lumpur,metallic,struverite,2020-01-01,0
+W.P. Kuala Lumpur,metallic,struverite,2021-01-01,0
+W.P. Kuala Lumpur,metallic,tin_ore,2016-01-01,4
+W.P. Kuala Lumpur,metallic,tin_ore,2017-01-01,0
+W.P. Kuala Lumpur,metallic,tin_ore,2018-01-01,0
+W.P. Kuala Lumpur,metallic,tin_ore,2019-01-01,0
+W.P. Kuala Lumpur,metallic,tin_ore,2020-01-01,0
+W.P. Kuala Lumpur,metallic,tin_ore,2021-01-01,0
+W.P. Kuala Lumpur,metallic,xenotime,2016-01-01,0
+W.P. Kuala Lumpur,metallic,xenotime,2017-01-01,0
+W.P. Kuala Lumpur,metallic,xenotime,2018-01-01,0
+W.P. Kuala Lumpur,metallic,xenotime,2019-01-01,0
+W.P. Kuala Lumpur,metallic,xenotime,2020-01-01,0
+W.P. Kuala Lumpur,metallic,xenotime,2021-01-01,0
+W.P. Kuala Lumpur,metallic,zircon,2016-01-01,0
+W.P. Kuala Lumpur,metallic,zircon,2017-01-01,0
+W.P. Kuala Lumpur,metallic,zircon,2018-01-01,0
+W.P. Kuala Lumpur,metallic,zircon,2019-01-01,0
+W.P. Kuala Lumpur,metallic,zircon,2020-01-01,0
+W.P. Kuala Lumpur,metallic,zircon,2021-01-01,0
+W.P. Kuala Lumpur,non_metallic,aggregates,2016-01-01,0
+W.P. Kuala Lumpur,non_metallic,aggregates,2017-01-01,0
+W.P. Kuala Lumpur,non_metallic,aggregates,2018-01-01,0
+W.P. Kuala Lumpur,non_metallic,aggregates,2019-01-01,0
+W.P. Kuala Lumpur,non_metallic,aggregates,2020-01-01,0
+W.P. Kuala Lumpur,non_metallic,aggregates,2021-01-01,0
+W.P. Kuala Lumpur,non_metallic,clay,2016-01-01,0
+W.P. Kuala Lumpur,non_metallic,clay,2017-01-01,0
+W.P. Kuala Lumpur,non_metallic,clay,2018-01-01,0
+W.P. Kuala Lumpur,non_metallic,clay,2019-01-01,0
+W.P. Kuala Lumpur,non_metallic,clay,2020-01-01,0
+W.P. Kuala Lumpur,non_metallic,clay,2021-01-01,0
+W.P. Kuala Lumpur,non_metallic,earth_materials,2016-01-01,1299276
+W.P. Kuala Lumpur,non_metallic,earth_materials,2017-01-01,6958486
+W.P. Kuala Lumpur,non_metallic,earth_materials,2018-01-01,703555
+W.P. Kuala Lumpur,non_metallic,earth_materials,2019-01-01,471651
+W.P. Kuala Lumpur,non_metallic,earth_materials,2020-01-01,297000
+W.P. Kuala Lumpur,non_metallic,earth_materials,2021-01-01,105840
+W.P. Kuala Lumpur,non_metallic,feldspar,2016-01-01,0
+W.P. Kuala Lumpur,non_metallic,feldspar,2017-01-01,0
+W.P. Kuala Lumpur,non_metallic,feldspar,2018-01-01,0
+W.P. Kuala Lumpur,non_metallic,feldspar,2019-01-01,0
+W.P. Kuala Lumpur,non_metallic,feldspar,2020-01-01,0
+W.P. Kuala Lumpur,non_metallic,feldspar,2021-01-01,0
+W.P. Kuala Lumpur,non_metallic,kaolin,2016-01-01,0
+W.P. Kuala Lumpur,non_metallic,kaolin,2017-01-01,0
+W.P. Kuala Lumpur,non_metallic,kaolin,2018-01-01,0
+W.P. Kuala Lumpur,non_metallic,kaolin,2019-01-01,0
+W.P. Kuala Lumpur,non_metallic,kaolin,2020-01-01,0
+W.P. Kuala Lumpur,non_metallic,kaolin,2021-01-01,0
+W.P. Kuala Lumpur,non_metallic,limestone,2016-01-01,0
+W.P. Kuala Lumpur,non_metallic,limestone,2017-01-01,0
+W.P. Kuala Lumpur,non_metallic,limestone,2018-01-01,0
+W.P. Kuala Lumpur,non_metallic,limestone,2019-01-01,0
+W.P. Kuala Lumpur,non_metallic,limestone,2020-01-01,0
+W.P. Kuala Lumpur,non_metallic,limestone,2021-01-01,0
+W.P. Kuala Lumpur,non_metallic,mica,2016-01-01,0
+W.P. Kuala Lumpur,non_metallic,mica,2017-01-01,0
+W.P. Kuala Lumpur,non_metallic,mica,2018-01-01,0
+W.P. Kuala Lumpur,non_metallic,mica,2019-01-01,0
+W.P. Kuala Lumpur,non_metallic,mica,2020-01-01,0
+W.P. Kuala Lumpur,non_metallic,mica,2021-01-01,0
+W.P. Kuala Lumpur,non_metallic,sand_and_gravel,2016-01-01,0
+W.P. Kuala Lumpur,non_metallic,sand_and_gravel,2017-01-01,0
+W.P. Kuala Lumpur,non_metallic,sand_and_gravel,2018-01-01,0
+W.P. Kuala Lumpur,non_metallic,sand_and_gravel,2019-01-01,0
+W.P. Kuala Lumpur,non_metallic,sand_and_gravel,2020-01-01,0
+W.P. Kuala Lumpur,non_metallic,sand_and_gravel,2021-01-01,0
+W.P. Kuala Lumpur,non_metallic,silica,2016-01-01,0
+W.P. Kuala Lumpur,non_metallic,silica,2017-01-01,0
+W.P. Kuala Lumpur,non_metallic,silica,2018-01-01,0
+W.P. Kuala Lumpur,non_metallic,silica,2019-01-01,0
+W.P. Kuala Lumpur,non_metallic,silica,2020-01-01,0
+W.P. Kuala Lumpur,non_metallic,silica,2021-01-01,0
+W.P. Putrajaya,energy,coal,2016-01-01,0
+W.P. Putrajaya,energy,coal,2017-01-01,0
+W.P. Putrajaya,energy,coal,2018-01-01,0
+W.P. Putrajaya,energy,coal,2019-01-01,0
+W.P. Putrajaya,energy,coal,2020-01-01,0
+W.P. Putrajaya,energy,coal,2021-01-01,0
+W.P. Putrajaya,metallic,bauxite,2016-01-01,0
+W.P. Putrajaya,metallic,bauxite,2017-01-01,0
+W.P. Putrajaya,metallic,bauxite,2018-01-01,0
+W.P. Putrajaya,metallic,bauxite,2019-01-01,0
+W.P. Putrajaya,metallic,bauxite,2020-01-01,0
+W.P. Putrajaya,metallic,bauxite,2021-01-01,0
+W.P. Putrajaya,metallic,gold,2016-01-01,0
+W.P. Putrajaya,metallic,gold,2017-01-01,0
+W.P. Putrajaya,metallic,gold,2018-01-01,0
+W.P. Putrajaya,metallic,gold,2019-01-01,0
+W.P. Putrajaya,metallic,gold,2020-01-01,0
+W.P. Putrajaya,metallic,gold,2021-01-01,0
+W.P. Putrajaya,metallic,ilmenite,2016-01-01,0
+W.P. Putrajaya,metallic,ilmenite,2017-01-01,0
+W.P. Putrajaya,metallic,ilmenite,2018-01-01,0
+W.P. Putrajaya,metallic,ilmenite,2019-01-01,0
+W.P. Putrajaya,metallic,ilmenite,2020-01-01,0
+W.P. Putrajaya,metallic,ilmenite,2021-01-01,0
+W.P. Putrajaya,metallic,iron_ore,2016-01-01,0
+W.P. Putrajaya,metallic,iron_ore,2017-01-01,0
+W.P. Putrajaya,metallic,iron_ore,2018-01-01,0
+W.P. Putrajaya,metallic,iron_ore,2019-01-01,0
+W.P. Putrajaya,metallic,iron_ore,2020-01-01,0
+W.P. Putrajaya,metallic,iron_ore,2021-01-01,0
+W.P. Putrajaya,metallic,manganese,2016-01-01,0
+W.P. Putrajaya,metallic,manganese,2017-01-01,0
+W.P. Putrajaya,metallic,manganese,2018-01-01,0
+W.P. Putrajaya,metallic,manganese,2019-01-01,0
+W.P. Putrajaya,metallic,manganese,2020-01-01,0
+W.P. Putrajaya,metallic,manganese,2021-01-01,0
+W.P. Putrajaya,metallic,monazite,2016-01-01,0
+W.P. Putrajaya,metallic,monazite,2017-01-01,0
+W.P. Putrajaya,metallic,monazite,2018-01-01,0
+W.P. Putrajaya,metallic,monazite,2019-01-01,0
+W.P. Putrajaya,metallic,monazite,2020-01-01,0
+W.P. Putrajaya,metallic,monazite,2021-01-01,0
+W.P. Putrajaya,metallic,rutile,2016-01-01,0
+W.P. Putrajaya,metallic,rutile,2017-01-01,0
+W.P. Putrajaya,metallic,rutile,2018-01-01,0
+W.P. Putrajaya,metallic,rutile,2019-01-01,0
+W.P. Putrajaya,metallic,rutile,2020-01-01,0
+W.P. Putrajaya,metallic,rutile,2021-01-01,0
+W.P. Putrajaya,metallic,silver,2016-01-01,0
+W.P. Putrajaya,metallic,silver,2017-01-01,0
+W.P. Putrajaya,metallic,silver,2018-01-01,0
+W.P. Putrajaya,metallic,silver,2019-01-01,0
+W.P. Putrajaya,metallic,silver,2020-01-01,0
+W.P. Putrajaya,metallic,silver,2021-01-01,0
+W.P. Putrajaya,metallic,struverite,2016-01-01,0
+W.P. Putrajaya,metallic,struverite,2017-01-01,0
+W.P. Putrajaya,metallic,struverite,2018-01-01,0
+W.P. Putrajaya,metallic,struverite,2019-01-01,0
+W.P. Putrajaya,metallic,struverite,2020-01-01,0
+W.P. Putrajaya,metallic,struverite,2021-01-01,0
+W.P. Putrajaya,metallic,tin_ore,2016-01-01,0
+W.P. Putrajaya,metallic,tin_ore,2017-01-01,0
+W.P. Putrajaya,metallic,tin_ore,2018-01-01,0
+W.P. Putrajaya,metallic,tin_ore,2019-01-01,0
+W.P. Putrajaya,metallic,tin_ore,2020-01-01,0
+W.P. Putrajaya,metallic,tin_ore,2021-01-01,0
+W.P. Putrajaya,metallic,xenotime,2016-01-01,0
+W.P. Putrajaya,metallic,xenotime,2017-01-01,0
+W.P. Putrajaya,metallic,xenotime,2018-01-01,0
+W.P. Putrajaya,metallic,xenotime,2019-01-01,0
+W.P. Putrajaya,metallic,xenotime,2020-01-01,0
+W.P. Putrajaya,metallic,xenotime,2021-01-01,0
+W.P. Putrajaya,metallic,zircon,2016-01-01,0
+W.P. Putrajaya,metallic,zircon,2017-01-01,0
+W.P. Putrajaya,metallic,zircon,2018-01-01,0
+W.P. Putrajaya,metallic,zircon,2019-01-01,0
+W.P. Putrajaya,metallic,zircon,2020-01-01,0
+W.P. Putrajaya,metallic,zircon,2021-01-01,0
+W.P. Putrajaya,non_metallic,aggregates,2016-01-01,0
+W.P. Putrajaya,non_metallic,aggregates,2017-01-01,0
+W.P. Putrajaya,non_metallic,aggregates,2018-01-01,0
+W.P. Putrajaya,non_metallic,aggregates,2019-01-01,0
+W.P. Putrajaya,non_metallic,aggregates,2020-01-01,0
+W.P. Putrajaya,non_metallic,aggregates,2021-01-01,0
+W.P. Putrajaya,non_metallic,clay,2016-01-01,0
+W.P. Putrajaya,non_metallic,clay,2017-01-01,0
+W.P. Putrajaya,non_metallic,clay,2018-01-01,0
+W.P. Putrajaya,non_metallic,clay,2019-01-01,0
+W.P. Putrajaya,non_metallic,clay,2020-01-01,0
+W.P. Putrajaya,non_metallic,clay,2021-01-01,0
+W.P. Putrajaya,non_metallic,earth_materials,2016-01-01,0
+W.P. Putrajaya,non_metallic,earth_materials,2017-01-01,0
+W.P. Putrajaya,non_metallic,earth_materials,2018-01-01,311555
+W.P. Putrajaya,non_metallic,earth_materials,2019-01-01,0
+W.P. Putrajaya,non_metallic,earth_materials,2020-01-01,67773
+W.P. Putrajaya,non_metallic,earth_materials,2021-01-01,0
+W.P. Putrajaya,non_metallic,feldspar,2016-01-01,0
+W.P. Putrajaya,non_metallic,feldspar,2017-01-01,0
+W.P. Putrajaya,non_metallic,feldspar,2018-01-01,0
+W.P. Putrajaya,non_metallic,feldspar,2019-01-01,0
+W.P. Putrajaya,non_metallic,feldspar,2020-01-01,0
+W.P. Putrajaya,non_metallic,feldspar,2021-01-01,0
+W.P. Putrajaya,non_metallic,kaolin,2016-01-01,0
+W.P. Putrajaya,non_metallic,kaolin,2017-01-01,0
+W.P. Putrajaya,non_metallic,kaolin,2018-01-01,0
+W.P. Putrajaya,non_metallic,kaolin,2019-01-01,0
+W.P. Putrajaya,non_metallic,kaolin,2020-01-01,0
+W.P. Putrajaya,non_metallic,kaolin,2021-01-01,0
+W.P. Putrajaya,non_metallic,limestone,2016-01-01,0
+W.P. Putrajaya,non_metallic,limestone,2017-01-01,0
+W.P. Putrajaya,non_metallic,limestone,2018-01-01,0
+W.P. Putrajaya,non_metallic,limestone,2019-01-01,0
+W.P. Putrajaya,non_metallic,limestone,2020-01-01,0
+W.P. Putrajaya,non_metallic,limestone,2021-01-01,0
+W.P. Putrajaya,non_metallic,mica,2016-01-01,0
+W.P. Putrajaya,non_metallic,mica,2017-01-01,0
+W.P. Putrajaya,non_metallic,mica,2018-01-01,0
+W.P. Putrajaya,non_metallic,mica,2019-01-01,0
+W.P. Putrajaya,non_metallic,mica,2020-01-01,0
+W.P. Putrajaya,non_metallic,mica,2021-01-01,0
+W.P. Putrajaya,non_metallic,sand_and_gravel,2016-01-01,0
+W.P. Putrajaya,non_metallic,sand_and_gravel,2017-01-01,0
+W.P. Putrajaya,non_metallic,sand_and_gravel,2018-01-01,0
+W.P. Putrajaya,non_metallic,sand_and_gravel,2019-01-01,0
+W.P. Putrajaya,non_metallic,sand_and_gravel,2020-01-01,0
+W.P. Putrajaya,non_metallic,sand_and_gravel,2021-01-01,0
+W.P. Putrajaya,non_metallic,silica,2016-01-01,0
+W.P. Putrajaya,non_metallic,silica,2017-01-01,0
+W.P. Putrajaya,non_metallic,silica,2018-01-01,0
+W.P. Putrajaya,non_metallic,silica,2019-01-01,0
+W.P. Putrajaya,non_metallic,silica,2020-01-01,0
+W.P. Putrajaya,non_metallic,silica,2021-01-01,0

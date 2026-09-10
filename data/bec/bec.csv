@@ -1,0 +1,32 @@
+bec_code,end_use,desc_en,desc_bm
+000,mixed,All uses,Semua kegunaan
+100,mixed,Food and beverages,Makanan dan minuman
+110,mixed,Food and beverages: Primary,Makanan dan minuman: Utama
+111,intermediate,Food and beverages: Primary: Mainly for industry,Makanan dan minuman: Utama: Khusus untuk industri
+112,consumption,Food and beverages: Primary: Mainly for household consumption,Makanan dan minuman: Utama: Khusus untuk penggunaan isi rumah
+120,mixed,Food and beverages: Processed,Makanan dan minuman: Diproses
+121,intermediate,Food and beverages: Processed: Mainly for industry,Makanan dan minuman: Diproses: Khusus untuk industri
+122,consumption,Food and beverages: Processed: Mainly for household consumption,Makanan dan minuman: Diproses: Khusus untuk penggunaan isi rumah
+200,intermediate,Industrial supplies not elsewhere specified,Bekalan perindustrian tidak tersenarai di tempat lain
+210,intermediate,Industrial supplies not elsewhere specified: Primary,Bekalan perindustrian tidak tersenarai di tempat lain: Utama
+220,intermediate,Industrial supplies not elsewhere specified: Processed,Bekalan perindustrian tidak tersenarai di tempat lain: Diproses
+300,mixed,Fuels and lubricants,Bahan api dan pelincir
+310,intermediate,Fuels and lubricants: Primary,Bahan api dan pelincir: Utama
+320,mixed,Fuels and lubricants: Processed,Bahan api dan pelincir: Diproses
+321,dual_use,Fuels and lubricants: Processed: Motor spirit,Bahan api dan pelincir: Diproses: Minyak kenderaan
+322,intermediate,Fuels and lubricants: Processed: Others,Bahan api dan pelincir: Diproses: Lain-lain
+400,mixed,Capital goods (except transport equipment) and parts and accessories thereof,Barangan modal (kecuali alat kelengkapan pengangkutan) dan alat ganti dan aksesori
+410,capital,Capital goods (except transport equipment) and parts and accessories thereof: Capital goods (except transport equipment),Barangan modal (kecuali alat kelengkapan pengangkutan) dan alat ganti dan aksesori: Barangan modal (kecuali alat kelengkapan pengangkutan)
+420,intermediate,Capital goods (except transport equipment) and parts and accessories thereof: Parts and accessories,Barangan modal (kecuali alat kelengkapan pengangkutan) dan alat ganti dan aksesori: Alat ganti dan aksesori
+500,mixed,Transport equipment and parts and accessories thereof,Alat kelengkapan pengangkutan dan alat ganti dan aksesori
+510,dual_use,Transport equipment and parts and accessories thereof: Passenger motor vehicles,Alat kelengkapan pengangkutan dan alat ganti dan aksesori: Motokar penumpang
+520,mixed,Transport equipment and parts and accessories thereof: Other,Alat kelengkapan pengangkutan dan alat ganti dan aksesori: Lain-lain
+521,capital,Transport equipment and parts and accessories thereof: Other: Industrial,Alat kelengkapan pengangkutan dan alat ganti dan aksesori: Lain-lain: Perindustrian
+522,consumption,Transport equipment and parts and accessories thereof: Other: Non-industrial,Alat kelengkapan pengangkutan dan alat ganti dan aksesori: Lain-lain: Bukan perindustrian
+530,intermediate,Transport equipment and parts and accessories thereof: Parts and accessories,Alat kelengkapan pengangkutan dan alat ganti dan aksesori: Alat ganti dan aksesori untuk alat kelengkapan pengangkutan
+600,consumption,Consumer goods not elsewhere specified,Barangan penggunaan tidak tersenarai di tempat lain
+610,consumption,Consumer goods not elsewhere specified: Durable,Barangan penggunaan tidak tersenarai di tempat lain: Barangan tahan lama
+620,consumption,Consumer goods not elsewhere specified: Semi-durable,Barangan penggunaan tidak tersenarai di tempat lain: Barangan separa tahan lama
+630,consumption,Consumer goods not elsewhere specified: Non-durable,Barangan penggunaan tidak tersenarai di tempat lain: Barangan tidak tahan lama
+700,nes,Goods not elsewhere specified,Barangan tidak tersenarai di tempat lain
+800,below_5000,Transactions under RM5000,Transaksi bawah RM5000

@@ -1,0 +1,58 @@
+file,category,variable,variable_en,variable_bm
+main,budget,balance,Overall balance,Imbangan keseluruhan
+main,budget,revenue,Revenue,Hasil
+main,budget,spending_oe,Operating expenditure,Perbelanjaan mengurus
+main,budget,spending_de_gross,Development expenditure (gross),Perbelanjaan pembangunan (kasar)
+main,budget,spending_de_net,Development expenditure (net),Perbelanjaan pembangunan (bersih)
+main,budget,spending_covid19,COVID-19 Fund,Kumpulan Wang COVID-19
+main,financing,domestic_gross,Domestic borrowing (gross),Pinjaman dalam negeri (kasar)
+main,financing,domestic_net,Domestic borrowing (net),Pinjaman dalam negeri (bersih)
+main,financing,foreign_gross,Foreign borrowing (gross),Pinjaman luar negeri (kasar)
+main,financing,foreign_net,Foreign borrowing (net),Pinjaman luar negeri (bersih)
+main,financing,asset_use,Use of assets,Penggunaan harta
+revenue,total,total,Total,Keseluruhan
+revenue,tax_direct,total,Sub-total,Jumlah kecil
+revenue,tax_direct,cita,Companies income tax,Cukai pendapatan syarikat
+revenue,tax_direct,pita,Petroleum income tax,Cukai pendapatan petroleum
+revenue,tax_direct,iita,Individuals income tax,Cukai pendapatan individu
+revenue,tax_direct,stamp,Stamp duties,Duti setem
+revenue,tax_direct,other,Others,Lain-lain
+revenue,tax_indirect,total,Sub-total,Jumlah kecil
+revenue,tax_indirect,duties_export,Export duties,Duti eksport
+revenue,tax_indirect,duties_import,Import duties,Duti import
+revenue,tax_indirect,duties_excise,Excise duties,Duti eksais
+revenue,tax_indirect,gst,Goods and services tax,Cukai barangan dan perkhidmatan
+revenue,tax_indirect,sst_sales,Sales tax,Cukai jualan
+revenue,tax_indirect,sst_service,Service tax,Cukai perkhidmatan
+revenue,tax_indirect,other,Others,Lain-lain
+revenue,non_tax,total,Sub-total,Jumlah kecil
+revenue,non_tax,license_permit,Licences and permits,Lesen dan permit
+revenue,non_tax,petroleum,Petroleum royalty,Royalti petroleum
+revenue,non_tax,interest,Interest and returns on investment,Faedah dan pulangan pelaburan
+revenue,non_tax,other,Others,Lain-lain
+revenue,non_revenue,total,Non-revenue receipts,Terimaan bukan hasil
+oe,,total,Total,Jumlah
+oe,,emoluments,Emoluments,Emolumen
+oe,,retirement_charges,Retirement charges,Bayaraan persaraan
+oe,,debt_service,Debt service,Khidmat hutang
+oe,,debt_service_dom,Debt service (domestic),Khidmat hutang (dalam negeri)
+oe,,debt_service_ext,Debt service (foreign),Khidmat hutang (luar negeri)
+oe,,supplies_services,Supplies and services,Perkhidmatan dan bekalan
+oe,,subsidies_sa,Subsidies and social assistance,Subsidi dan bantuan sosial
+oe,,asset_acquisition,Asset acquisition,Pembelian aset
+oe,,grants_transfers,Grants and transfers,Pemberian dan serahan
+oe,,other,Other expenditure,Lain-lain perbelanjaan
+de,total,total,Total,Keseluruhan
+de,defence,total,Sub-total,Jumlah kecil
+de,economy,total,Sub-total,Jumlah kecil
+de,economy,agriculture,Agriculture and rural development,Pertanian dan pembangunan luar bandar
+de,economy,trade,Trade and industry,Perdagangan dan perindustrian
+de,economy,transport,Transport,Pengangkutan
+de,economy,utilities,Public utilities,Kemudahan awam
+de,economy,other,Others,Lain-lain
+de,social,total,Sub-total,Jumlah  kecil
+de,social,education,Education,Pendidikan
+de,social,health,Health,Kesihatan
+de,social,housing,Housing,Perumahan
+de,social,community,Social and community services,Perkhidmatan sosial dan masyarakat
+de,admin,total,Sub-total,Jumlah kecil

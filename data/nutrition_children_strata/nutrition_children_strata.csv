@@ -1,0 +1,31 @@
+date,strata,indicator,range,description,prevalence
+2019-01-01,all,WAZ,< -2SD,Underweight,14.1
+2019-01-01,all,WAZ,-2SD to 2SD,Normal,82.2
+2019-01-01,all,WAZ,> 2SD,Overweight,3.7
+2019-01-01,urban,WAZ,< -2SD,Underweight,13.6
+2019-01-01,urban,WAZ,-2SD to 2SD,Normal,82.5
+2019-01-01,urban,WAZ,> 2SD,Overweight,3.9
+2019-01-01,rural,WAZ,< -2SD,Underweight,15.6
+2019-01-01,rural,WAZ,-2SD to 2SD,Normal,81.3
+2019-01-01,rural,WAZ,> 2SD,Overweight,3.1
+2019-01-01,all,HAZ,< -2SD,Stunting,21.8
+2019-01-01,all,HAZ,-2SD to 2SD,Normal,73.6
+2019-01-01,all,HAZ,> 2SD,Tall,4.6
+2019-01-01,urban,HAZ,< -2SD,Stunting,21.7
+2019-01-01,urban,HAZ,-2SD to 2SD,Normal,73.1
+2019-01-01,urban,HAZ,> 2SD,Tall,5.3
+2019-01-01,rural,HAZ,< -2SD,Stunting,22.2
+2019-01-01,rural,HAZ,-2SD to 2SD,Normal,75.1
+2019-01-01,rural,HAZ,> 2SD,Tall,2.7
+2019-01-01,all,WHZ,< -2SD,Wasting,9.7
+2019-01-01,all,WHZ,-2SD to 2SD,Normal,85.1
+2019-01-01,all,WHZ,2SD to 2SD,Overweight,2.4
+2019-01-01,all,WHZ,> 3SD,Obese,2.8
+2019-01-01,urban,WHZ,< -2SD,Wasting,10.1
+2019-01-01,urban,WHZ,-2SD to 2SD,Normal,84.7
+2019-01-01,urban,WHZ,2SD to 2SD,Overweight,2.1
+2019-01-01,urban,WHZ,> 3SD,Obese,3.2
+2019-01-01,rural,WHZ,< -2SD,Wasting,8.5
+2019-01-01,rural,WHZ,-2SD to 2SD,Normal,86.4
+2019-01-01,rural,WHZ,2SD to 2SD,Overweight,3.3
+2019-01-01,rural,WHZ,> 3SD,Obese,1.8

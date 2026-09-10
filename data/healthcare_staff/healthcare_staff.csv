@@ -1,0 +1,766 @@
+state,type,date,staff
+Malaysia,all,2014-01-01,121530
+Malaysia,all,2015-01-01,132082
+Malaysia,all,2016-01-01,137743
+Malaysia,all,2017-01-01,143596
+Malaysia,all,2018-01-01,147674
+Malaysia,all,2019-01-01,154177
+Malaysia,all,2020-01-01,156639
+Malaysia,all,2021-01-01,162634
+Malaysia,all,2022-01-01,167690
+Malaysia,dentist,2014-01-01,3763
+Malaysia,dentist,2015-01-01,4021
+Malaysia,dentist,2016-01-01,4591
+Malaysia,dentist,2017-01-01,5736
+Malaysia,dentist,2018-01-01,6455
+Malaysia,dentist,2019-01-01,7087
+Malaysia,dentist,2020-01-01,7443
+Malaysia,dentist,2021-01-01,7785
+Malaysia,dentist,2022-01-01,7828
+Malaysia,doctor,2014-01-01,33275
+Malaysia,doctor,2015-01-01,33545
+Malaysia,doctor,2016-01-01,36403
+Malaysia,doctor,2017-01-01,43348
+Malaysia,doctor,2018-01-01,46509
+Malaysia,doctor,2019-01-01,52129
+Malaysia,doctor,2020-01-01,54338
+Malaysia,doctor,2021-01-01,55918
+Malaysia,doctor,2022-01-01,58193
+Malaysia,nurse,2014-01-01,59364
+Malaysia,nurse,2015-01-01,69590
+Malaysia,nurse,2016-01-01,72025
+Malaysia,nurse,2017-01-01,70888
+Malaysia,nurse,2018-01-01,71499
+Malaysia,nurse,2019-01-01,71778
+Malaysia,nurse,2020-01-01,72826
+Malaysia,nurse,2021-01-01,78426
+Malaysia,nurse,2022-01-01,79397
+Malaysia,nurse_community,2014-01-01,25128
+Malaysia,nurse_community,2015-01-01,24926
+Malaysia,nurse_community,2016-01-01,24724
+Malaysia,nurse_community,2017-01-01,23624
+Malaysia,nurse_community,2018-01-01,23211
+Malaysia,nurse_community,2019-01-01,23183
+Malaysia,nurse_community,2020-01-01,22032
+Malaysia,nurse_community,2021-01-01,20505
+Malaysia,nurse_community,2022-01-01,22272
+Johor,all,2014-01-01,11114
+Johor,all,2015-01-01,11721
+Johor,all,2016-01-01,11987
+Johor,all,2017-01-01,12506
+Johor,all,2018-01-01,12764
+Johor,all,2019-01-01,13553
+Johor,all,2020-01-01,12294
+Johor,all,2021-01-01,14586
+Johor,all,2022-01-01,14634
+Johor,dentist,2014-01-01,321
+Johor,dentist,2015-01-01,331
+Johor,dentist,2016-01-01,384
+Johor,dentist,2017-01-01,546
+Johor,dentist,2018-01-01,613
+Johor,dentist,2019-01-01,656
+Johor,dentist,2020-01-01,677
+Johor,dentist,2021-01-01,701
+Johor,dentist,2022-01-01,686
+Johor,doctor,2014-01-01,2720
+Johor,doctor,2015-01-01,2854
+Johor,doctor,2016-01-01,2887
+Johor,doctor,2017-01-01,3235
+Johor,doctor,2018-01-01,3541
+Johor,doctor,2019-01-01,4154
+Johor,doctor,2020-01-01,4925
+Johor,doctor,2021-01-01,4967
+Johor,doctor,2022-01-01,5023
+Johor,nurse,2014-01-01,5980
+Johor,nurse,2015-01-01,6441
+Johor,nurse,2016-01-01,6688
+Johor,nurse,2017-01-01,6769
+Johor,nurse,2018-01-01,6677
+Johor,nurse,2019-01-01,6814
+Johor,nurse,2020-01-01,4830
+Johor,nurse,2021-01-01,7146
+Johor,nurse,2022-01-01,7055
+Johor,nurse_community,2014-01-01,2093
+Johor,nurse_community,2015-01-01,2095
+Johor,nurse_community,2016-01-01,2028
+Johor,nurse_community,2017-01-01,1956
+Johor,nurse_community,2018-01-01,1933
+Johor,nurse_community,2019-01-01,1929
+Johor,nurse_community,2020-01-01,1862
+Johor,nurse_community,2021-01-01,1772
+Johor,nurse_community,2022-01-01,1870
+Kedah,all,2014-01-01,8018
+Kedah,all,2015-01-01,8540
+Kedah,all,2016-01-01,8762
+Kedah,all,2017-01-01,8985
+Kedah,all,2018-01-01,9229
+Kedah,all,2019-01-01,9666
+Kedah,all,2020-01-01,10652
+Kedah,all,2021-01-01,10486
+Kedah,all,2022-01-01,10372
+Kedah,dentist,2014-01-01,250
+Kedah,dentist,2015-01-01,263
+Kedah,dentist,2016-01-01,292
+Kedah,dentist,2017-01-01,365
+Kedah,dentist,2018-01-01,399
+Kedah,dentist,2019-01-01,433
+Kedah,dentist,2020-01-01,447
+Kedah,dentist,2021-01-01,497
+Kedah,dentist,2022-01-01,507
+Kedah,doctor,2014-01-01,1895
+Kedah,doctor,2015-01-01,2036
+Kedah,doctor,2016-01-01,2166
+Kedah,doctor,2017-01-01,2292
+Kedah,doctor,2018-01-01,2558
+Kedah,doctor,2019-01-01,2919
+Kedah,doctor,2020-01-01,3380
+Kedah,doctor,2021-01-01,3404
+Kedah,doctor,2022-01-01,3179
+Kedah,nurse,2014-01-01,4169
+Kedah,nurse,2015-01-01,4542
+Kedah,nurse,2016-01-01,4613
+Kedah,nurse,2017-01-01,4669
+Kedah,nurse,2018-01-01,4618
+Kedah,nurse,2019-01-01,4640
+Kedah,nurse,2020-01-01,5151
+Kedah,nurse,2021-01-01,5015
+Kedah,nurse,2022-01-01,4981
+Kedah,nurse_community,2014-01-01,1704
+Kedah,nurse_community,2015-01-01,1699
+Kedah,nurse_community,2016-01-01,1691
+Kedah,nurse_community,2017-01-01,1659
+Kedah,nurse_community,2018-01-01,1654
+Kedah,nurse_community,2019-01-01,1674
+Kedah,nurse_community,2020-01-01,1674
+Kedah,nurse_community,2021-01-01,1570
+Kedah,nurse_community,2022-01-01,1705
+Kelantan,all,2014-01-01,6791
+Kelantan,all,2015-01-01,8505
+Kelantan,all,2016-01-01,8683
+Kelantan,all,2017-01-01,8990
+Kelantan,all,2018-01-01,9084
+Kelantan,all,2019-01-01,8683
+Kelantan,all,2020-01-01,7719
+Kelantan,all,2021-01-01,11589
+Kelantan,all,2022-01-01,12097
+Kelantan,dentist,2014-01-01,300
+Kelantan,dentist,2015-01-01,346
+Kelantan,dentist,2016-01-01,403
+Kelantan,dentist,2017-01-01,473
+Kelantan,dentist,2018-01-01,542
+Kelantan,dentist,2019-01-01,632
+Kelantan,dentist,2020-01-01,663
+Kelantan,dentist,2021-01-01,684
+Kelantan,dentist,2022-01-01,664
+Kelantan,doctor,2014-01-01,1580
+Kelantan,doctor,2015-01-01,1658
+Kelantan,doctor,2016-01-01,1732
+Kelantan,doctor,2017-01-01,1945
+Kelantan,doctor,2018-01-01,2144
+Kelantan,doctor,2019-01-01,2763
+Kelantan,doctor,2020-01-01,3076
+Kelantan,doctor,2021-01-01,4006
+Kelantan,doctor,2022-01-01,4056
+Kelantan,nurse,2014-01-01,3235
+Kelantan,nurse,2015-01-01,4818
+Kelantan,nurse,2016-01-01,4861
+Kelantan,nurse,2017-01-01,4901
+Kelantan,nurse,2018-01-01,4726
+Kelantan,nurse,2019-01-01,3606
+Kelantan,nurse,2020-01-01,2403
+Kelantan,nurse,2021-01-01,5323
+Kelantan,nurse,2022-01-01,5688
+Kelantan,nurse_community,2014-01-01,1676
+Kelantan,nurse_community,2015-01-01,1683
+Kelantan,nurse_community,2016-01-01,1687
+Kelantan,nurse_community,2017-01-01,1671
+Kelantan,nurse_community,2018-01-01,1672
+Kelantan,nurse_community,2019-01-01,1682
+Kelantan,nurse_community,2020-01-01,1577
+Kelantan,nurse_community,2021-01-01,1576
+Kelantan,nurse_community,2022-01-01,1689
+Melaka,all,2014-01-01,3829
+Melaka,all,2015-01-01,4056
+Melaka,all,2016-01-01,4342
+Melaka,all,2017-01-01,4503
+Melaka,all,2018-01-01,4480
+Melaka,all,2019-01-01,4947
+Melaka,all,2020-01-01,5286
+Melaka,all,2021-01-01,5463
+Melaka,all,2022-01-01,5624
+Melaka,dentist,2014-01-01,135
+Melaka,dentist,2015-01-01,136
+Melaka,dentist,2016-01-01,173
+Melaka,dentist,2017-01-01,265
+Melaka,dentist,2018-01-01,301
+Melaka,dentist,2019-01-01,328
+Melaka,dentist,2020-01-01,323
+Melaka,dentist,2021-01-01,339
+Melaka,dentist,2022-01-01,369
+Melaka,doctor,2014-01-01,1092
+Melaka,doctor,2015-01-01,1112
+Melaka,doctor,2016-01-01,1175
+Melaka,doctor,2017-01-01,1383
+Melaka,doctor,2018-01-01,1354
+Melaka,doctor,2019-01-01,1636
+Melaka,doctor,2020-01-01,1290
+Melaka,doctor,2021-01-01,2011
+Melaka,doctor,2022-01-01,2121
+Melaka,nurse,2014-01-01,1860
+Melaka,nurse,2015-01-01,2072
+Melaka,nurse,2016-01-01,2252
+Melaka,nurse,2017-01-01,2148
+Melaka,nurse,2018-01-01,2124
+Melaka,nurse,2019-01-01,2264
+Melaka,nurse,2020-01-01,2966
+Melaka,nurse,2021-01-01,2460
+Melaka,nurse,2022-01-01,2426
+Melaka,nurse_community,2014-01-01,742
+Melaka,nurse_community,2015-01-01,736
+Melaka,nurse_community,2016-01-01,742
+Melaka,nurse_community,2017-01-01,707
+Melaka,nurse_community,2018-01-01,701
+Melaka,nurse_community,2019-01-01,719
+Melaka,nurse_community,2020-01-01,707
+Melaka,nurse_community,2021-01-01,653
+Melaka,nurse_community,2022-01-01,708
+Negeri Sembilan,all,2014-01-01,5002
+Negeri Sembilan,all,2015-01-01,5132
+Negeri Sembilan,all,2016-01-01,5329
+Negeri Sembilan,all,2017-01-01,5779
+Negeri Sembilan,all,2018-01-01,6157
+Negeri Sembilan,all,2019-01-01,6479
+Negeri Sembilan,all,2020-01-01,8023
+Negeri Sembilan,all,2021-01-01,7030
+Negeri Sembilan,all,2022-01-01,7248
+Negeri Sembilan,dentist,2014-01-01,203
+Negeri Sembilan,dentist,2015-01-01,223
+Negeri Sembilan,dentist,2016-01-01,209
+Negeri Sembilan,dentist,2017-01-01,285
+Negeri Sembilan,dentist,2018-01-01,359
+Negeri Sembilan,dentist,2019-01-01,417
+Negeri Sembilan,dentist,2020-01-01,463
+Negeri Sembilan,dentist,2021-01-01,476
+Negeri Sembilan,dentist,2022-01-01,463
+Negeri Sembilan,doctor,2014-01-01,1504
+Negeri Sembilan,doctor,2015-01-01,1502
+Negeri Sembilan,doctor,2016-01-01,1619
+Negeri Sembilan,doctor,2017-01-01,1946
+Negeri Sembilan,doctor,2018-01-01,2335
+Negeri Sembilan,doctor,2019-01-01,2444
+Negeri Sembilan,doctor,2020-01-01,2595
+Negeri Sembilan,doctor,2021-01-01,2698
+Negeri Sembilan,doctor,2022-01-01,2876
+Negeri Sembilan,nurse,2014-01-01,2352
+Negeri Sembilan,nurse,2015-01-01,2479
+Negeri Sembilan,nurse,2016-01-01,2585
+Negeri Sembilan,nurse,2017-01-01,2631
+Negeri Sembilan,nurse,2018-01-01,2591
+Negeri Sembilan,nurse,2019-01-01,2736
+Negeri Sembilan,nurse,2020-01-01,4123
+Negeri Sembilan,nurse,2021-01-01,3050
+Negeri Sembilan,nurse,2022-01-01,3037
+Negeri Sembilan,nurse_community,2014-01-01,943
+Negeri Sembilan,nurse_community,2015-01-01,928
+Negeri Sembilan,nurse_community,2016-01-01,916
+Negeri Sembilan,nurse_community,2017-01-01,917
+Negeri Sembilan,nurse_community,2018-01-01,872
+Negeri Sembilan,nurse_community,2019-01-01,882
+Negeri Sembilan,nurse_community,2020-01-01,842
+Negeri Sembilan,nurse_community,2021-01-01,806
+Negeri Sembilan,nurse_community,2022-01-01,872
+Pahang,all,2014-01-01,7356
+Pahang,all,2015-01-01,7655
+Pahang,all,2016-01-01,7925
+Pahang,all,2017-01-01,8026
+Pahang,all,2018-01-01,8347
+Pahang,all,2019-01-01,9050
+Pahang,all,2020-01-01,9042
+Pahang,all,2021-01-01,9427
+Pahang,all,2022-01-01,9586
+Pahang,dentist,2014-01-01,289
+Pahang,dentist,2015-01-01,351
+Pahang,dentist,2016-01-01,419
+Pahang,dentist,2017-01-01,448
+Pahang,dentist,2018-01-01,487
+Pahang,dentist,2019-01-01,551
+Pahang,dentist,2020-01-01,573
+Pahang,dentist,2021-01-01,630
+Pahang,dentist,2022-01-01,624
+Pahang,doctor,2014-01-01,1636
+Pahang,doctor,2015-01-01,1630
+Pahang,doctor,2016-01-01,1691
+Pahang,doctor,2017-01-01,1818
+Pahang,doctor,2018-01-01,2159
+Pahang,doctor,2019-01-01,2790
+Pahang,doctor,2020-01-01,3132
+Pahang,doctor,2021-01-01,2967
+Pahang,doctor,2022-01-01,2927
+Pahang,nurse,2014-01-01,3609
+Pahang,nurse,2015-01-01,3857
+Pahang,nurse,2016-01-01,4015
+Pahang,nurse,2017-01-01,4059
+Pahang,nurse,2018-01-01,3997
+Pahang,nurse,2019-01-01,4019
+Pahang,nurse,2020-01-01,3660
+Pahang,nurse,2021-01-01,4260
+Pahang,nurse,2022-01-01,4336
+Pahang,nurse_community,2014-01-01,1822
+Pahang,nurse_community,2015-01-01,1817
+Pahang,nurse_community,2016-01-01,1800
+Pahang,nurse_community,2017-01-01,1701
+Pahang,nurse_community,2018-01-01,1704
+Pahang,nurse_community,2019-01-01,1690
+Pahang,nurse_community,2020-01-01,1677
+Pahang,nurse_community,2021-01-01,1570
+Pahang,nurse_community,2022-01-01,1699
+Perak,all,2014-01-01,10103
+Perak,all,2015-01-01,10569
+Perak,all,2016-01-01,10867
+Perak,all,2017-01-01,11259
+Perak,all,2018-01-01,11422
+Perak,all,2019-01-01,11995
+Perak,all,2020-01-01,6566
+Perak,all,2021-01-01,13130
+Perak,all,2022-01-01,13561
+Perak,dentist,2014-01-01,285
+Perak,dentist,2015-01-01,278
+Perak,dentist,2016-01-01,318
+Perak,dentist,2017-01-01,420
+Perak,dentist,2018-01-01,458
+Perak,dentist,2019-01-01,521
+Perak,dentist,2020-01-01,548
+Perak,dentist,2021-01-01,564
+Perak,dentist,2022-01-01,599
+Perak,doctor,2014-01-01,2373
+Perak,doctor,2015-01-01,2378
+Perak,doctor,2016-01-01,2544
+Perak,doctor,2017-01-01,2884
+Perak,doctor,2018-01-01,3146
+Perak,doctor,2019-01-01,3578
+Perak,doctor,2020-01-01,3130
+Perak,doctor,2021-01-01,4063
+Perak,doctor,2022-01-01,4214
+Perak,nurse,2014-01-01,5278
+Perak,nurse,2015-01-01,5764
+Perak,nurse,2016-01-01,5872
+Perak,nurse,2017-01-01,5919
+Perak,nurse,2018-01-01,5826
+Perak,nurse,2019-01-01,5903
+Perak,nurse,2020-01-01,981
+Perak,nurse,2021-01-01,6685
+Perak,nurse,2022-01-01,6782
+Perak,nurse_community,2014-01-01,2167
+Perak,nurse_community,2015-01-01,2149
+Perak,nurse_community,2016-01-01,2133
+Perak,nurse_community,2017-01-01,2036
+Perak,nurse_community,2018-01-01,1992
+Perak,nurse_community,2019-01-01,1993
+Perak,nurse_community,2020-01-01,1907
+Perak,nurse_community,2021-01-01,1818
+Perak,nurse_community,2022-01-01,1966
+Perlis,all,2014-01-01,1581
+Perlis,all,2015-01-01,1721
+Perlis,all,2016-01-01,1840
+Perlis,all,2017-01-01,1882
+Perlis,all,2018-01-01,1914
+Perlis,all,2019-01-01,1994
+Perlis,all,2020-01-01,10665
+Perlis,all,2021-01-01,2100
+Perlis,all,2022-01-01,2116
+Perlis,dentist,2014-01-01,67
+Perlis,dentist,2015-01-01,71
+Perlis,dentist,2016-01-01,89
+Perlis,dentist,2017-01-01,109
+Perlis,dentist,2018-01-01,135
+Perlis,dentist,2019-01-01,148
+Perlis,dentist,2020-01-01,134
+Perlis,dentist,2021-01-01,145
+Perlis,dentist,2022-01-01,141
+Perlis,doctor,2014-01-01,419
+Perlis,doctor,2015-01-01,434
+Perlis,doctor,2016-01-01,483
+Perlis,doctor,2017-01-01,525
+Perlis,doctor,2018-01-01,543
+Perlis,doctor,2019-01-01,599
+Perlis,doctor,2020-01-01,749
+Perlis,doctor,2021-01-01,644
+Perlis,doctor,2022-01-01,654
+Perlis,nurse,2014-01-01,746
+Perlis,nurse,2015-01-01,870
+Perlis,nurse,2016-01-01,923
+Perlis,nurse,2017-01-01,913
+Perlis,nurse,2018-01-01,906
+Perlis,nurse,2019-01-01,914
+Perlis,nurse,2020-01-01,9465
+Perlis,nurse,2021-01-01,1013
+Perlis,nurse,2022-01-01,998
+Perlis,nurse_community,2014-01-01,349
+Perlis,nurse_community,2015-01-01,346
+Perlis,nurse_community,2016-01-01,345
+Perlis,nurse_community,2017-01-01,335
+Perlis,nurse_community,2018-01-01,330
+Perlis,nurse_community,2019-01-01,333
+Perlis,nurse_community,2020-01-01,317
+Perlis,nurse_community,2021-01-01,298
+Perlis,nurse_community,2022-01-01,323
+Pulau Pinang,all,2014-01-01,6427
+Pulau Pinang,all,2015-01-01,6505
+Pulau Pinang,all,2016-01-01,6769
+Pulau Pinang,all,2017-01-01,7506
+Pulau Pinang,all,2018-01-01,7651
+Pulau Pinang,all,2019-01-01,7511
+Pulau Pinang,all,2020-01-01,10600
+Pulau Pinang,all,2021-01-01,8137
+Pulau Pinang,all,2022-01-01,8192
+Pulau Pinang,dentist,2014-01-01,228
+Pulau Pinang,dentist,2015-01-01,239
+Pulau Pinang,dentist,2016-01-01,276
+Pulau Pinang,dentist,2017-01-01,357
+Pulau Pinang,dentist,2018-01-01,420
+Pulau Pinang,dentist,2019-01-01,421
+Pulau Pinang,dentist,2020-01-01,437
+Pulau Pinang,dentist,2021-01-01,438
+Pulau Pinang,dentist,2022-01-01,431
+Pulau Pinang,doctor,2014-01-01,2178
+Pulau Pinang,doctor,2015-01-01,1831
+Pulau Pinang,doctor,2016-01-01,1939
+Pulau Pinang,doctor,2017-01-01,2581
+Pulau Pinang,doctor,2018-01-01,2741
+Pulau Pinang,doctor,2019-01-01,2543
+Pulau Pinang,doctor,2020-01-01,3158
+Pulau Pinang,doctor,2021-01-01,3024
+Pulau Pinang,doctor,2022-01-01,2996
+Pulau Pinang,nurse,2014-01-01,2993
+Pulau Pinang,nurse,2015-01-01,3393
+Pulau Pinang,nurse,2016-01-01,3542
+Pulau Pinang,nurse,2017-01-01,3593
+Pulau Pinang,nurse,2018-01-01,3531
+Pulau Pinang,nurse,2019-01-01,3599
+Pulau Pinang,nurse,2020-01-01,6081
+Pulau Pinang,nurse,2021-01-01,3816
+Pulau Pinang,nurse,2022-01-01,3846
+Pulau Pinang,nurse_community,2014-01-01,1028
+Pulau Pinang,nurse_community,2015-01-01,1042
+Pulau Pinang,nurse_community,2016-01-01,1012
+Pulau Pinang,nurse_community,2017-01-01,975
+Pulau Pinang,nurse_community,2018-01-01,959
+Pulau Pinang,nurse_community,2019-01-01,948
+Pulau Pinang,nurse_community,2020-01-01,924
+Pulau Pinang,nurse_community,2021-01-01,859
+Pulau Pinang,nurse_community,2022-01-01,919
+Sabah,all,2014-01-01,12817
+Sabah,all,2015-01-01,13772
+Sabah,all,2016-01-01,14084
+Sabah,all,2017-01-01,14368
+Sabah,all,2018-01-01,15072
+Sabah,all,2019-01-01,15432
+Sabah,all,2020-01-01,13669
+Sabah,all,2021-01-01,16125
+Sabah,all,2022-01-01,16345
+Sabah,dentist,2014-01-01,244
+Sabah,dentist,2015-01-01,280
+Sabah,dentist,2016-01-01,308
+Sabah,dentist,2017-01-01,309
+Sabah,dentist,2018-01-01,327
+Sabah,dentist,2019-01-01,375
+Sabah,dentist,2020-01-01,401
+Sabah,dentist,2021-01-01,453
+Sabah,dentist,2022-01-01,426
+Sabah,doctor,2014-01-01,2112
+Sabah,doctor,2015-01-01,2558
+Sabah,doctor,2016-01-01,2685
+Sabah,doctor,2017-01-01,3205
+Sabah,doctor,2018-01-01,4006
+Sabah,doctor,2019-01-01,4212
+Sabah,doctor,2020-01-01,3916
+Sabah,doctor,2021-01-01,4317
+Sabah,doctor,2022-01-01,4193
+Sabah,nurse,2014-01-01,6547
+Sabah,nurse,2015-01-01,7012
+Sabah,nurse,2016-01-01,7217
+Sabah,nurse,2017-01-01,7187
+Sabah,nurse,2018-01-01,7115
+Sabah,nurse,2019-01-01,7192
+Sabah,nurse,2020-01-01,5888
+Sabah,nurse,2021-01-01,8212
+Sabah,nurse,2022-01-01,8151
+Sabah,nurse_community,2014-01-01,3914
+Sabah,nurse_community,2015-01-01,3922
+Sabah,nurse_community,2016-01-01,3874
+Sabah,nurse_community,2017-01-01,3667
+Sabah,nurse_community,2018-01-01,3624
+Sabah,nurse_community,2019-01-01,3653
+Sabah,nurse_community,2020-01-01,3464
+Sabah,nurse_community,2021-01-01,3143
+Sabah,nurse_community,2022-01-01,3575
+Sarawak,all,2014-01-01,10921
+Sarawak,all,2015-01-01,11090
+Sarawak,all,2016-01-01,12152
+Sarawak,all,2017-01-01,13190
+Sarawak,all,2018-01-01,12446
+Sarawak,all,2019-01-01,12373
+Sarawak,all,2020-01-01,15138
+Sarawak,all,2021-01-01,12725
+Sarawak,all,2022-01-01,13374
+Sarawak,dentist,2014-01-01,302
+Sarawak,dentist,2015-01-01,309
+Sarawak,dentist,2016-01-01,359
+Sarawak,dentist,2017-01-01,404
+Sarawak,dentist,2018-01-01,407
+Sarawak,dentist,2019-01-01,421
+Sarawak,dentist,2020-01-01,439
+Sarawak,dentist,2021-01-01,450
+Sarawak,dentist,2022-01-01,441
+Sarawak,doctor,2014-01-01,2250
+Sarawak,doctor,2015-01-01,2203
+Sarawak,doctor,2016-01-01,3061
+Sarawak,doctor,2017-01-01,4179
+Sarawak,doctor,2018-01-01,3672
+Sarawak,doctor,2019-01-01,3567
+Sarawak,doctor,2020-01-01,4137
+Sarawak,doctor,2021-01-01,3656
+Sarawak,doctor,2022-01-01,4005
+Sarawak,nurse,2014-01-01,5216
+Sarawak,nurse,2015-01-01,5584
+Sarawak,nurse,2016-01-01,5705
+Sarawak,nurse,2017-01-01,5782
+Sarawak,nurse,2018-01-01,5740
+Sarawak,nurse,2019-01-01,5805
+Sarawak,nurse,2020-01-01,8163
+Sarawak,nurse,2021-01-01,6606
+Sarawak,nurse,2022-01-01,6645
+Sarawak,nurse_community,2014-01-01,3153
+Sarawak,nurse_community,2015-01-01,2994
+Sarawak,nurse_community,2016-01-01,3027
+Sarawak,nurse_community,2017-01-01,2825
+Sarawak,nurse_community,2018-01-01,2627
+Sarawak,nurse_community,2019-01-01,2580
+Sarawak,nurse_community,2020-01-01,2399
+Sarawak,nurse_community,2021-01-01,2013
+Sarawak,nurse_community,2022-01-01,2283
+Selangor,all,2014-01-01,15450
+Selangor,all,2015-01-01,16474
+Selangor,all,2016-01-01,17510
+Selangor,all,2017-01-01,19883
+Selangor,all,2018-01-01,20882
+Selangor,all,2019-01-01,20624
+Selangor,all,2020-01-01,16461
+Selangor,all,2021-01-01,23001
+Selangor,all,2022-01-01,24009
+Selangor,dentist,2014-01-01,360
+Selangor,dentist,2015-01-01,401
+Selangor,dentist,2016-01-01,469
+Selangor,dentist,2017-01-01,660
+Selangor,dentist,2018-01-01,776
+Selangor,dentist,2019-01-01,839
+Selangor,dentist,2020-01-01,911
+Selangor,dentist,2021-01-01,940
+Selangor,dentist,2022-01-01,941
+Selangor,doctor,2014-01-01,5040
+Selangor,doctor,2015-01-01,5175
+Selangor,doctor,2016-01-01,5646
+Selangor,doctor,2017-01-01,7587
+Selangor,doctor,2018-01-01,7881
+Selangor,doctor,2019-01-01,8119
+Selangor,doctor,2020-01-01,10063
+Selangor,doctor,2021-01-01,9700
+Selangor,doctor,2022-01-01,10374
+Selangor,nurse,2014-01-01,7327
+Selangor,nurse,2015-01-01,8183
+Selangor,nurse,2016-01-01,8739
+Selangor,nurse,2017-01-01,9086
+Selangor,nurse,2018-01-01,9698
+Selangor,nurse,2019-01-01,9200
+Selangor,nurse,2020-01-01,3093
+Selangor,nurse,2021-01-01,10116
+Selangor,nurse,2022-01-01,10376
+Selangor,nurse_community,2014-01-01,2723
+Selangor,nurse_community,2015-01-01,2715
+Selangor,nurse_community,2016-01-01,2656
+Selangor,nurse_community,2017-01-01,2550
+Selangor,nurse_community,2018-01-01,2527
+Selangor,nurse_community,2019-01-01,2466
+Selangor,nurse_community,2020-01-01,2394
+Selangor,nurse_community,2021-01-01,2245
+Selangor,nurse_community,2022-01-01,2318
+Terengganu,all,2014-01-01,5510
+Terengganu,all,2015-01-01,5719
+Terengganu,all,2016-01-01,5964
+Terengganu,all,2017-01-01,6431
+Terengganu,all,2018-01-01,6582
+Terengganu,all,2019-01-01,6826
+Terengganu,all,2020-01-01,11544
+Terengganu,all,2021-01-01,7140
+Terengganu,all,2022-01-01,7438
+Terengganu,dentist,2014-01-01,232
+Terengganu,dentist,2015-01-01,261
+Terengganu,dentist,2016-01-01,303
+Terengganu,dentist,2017-01-01,370
+Terengganu,dentist,2018-01-01,448
+Terengganu,dentist,2019-01-01,493
+Terengganu,dentist,2020-01-01,521
+Terengganu,dentist,2021-01-01,550
+Terengganu,dentist,2022-01-01,524
+Terengganu,doctor,2014-01-01,1278
+Terengganu,doctor,2015-01-01,1262
+Terengganu,doctor,2016-01-01,1399
+Terengganu,doctor,2017-01-01,1691
+Terengganu,doctor,2018-01-01,1805
+Terengganu,doctor,2019-01-01,1992
+Terengganu,doctor,2020-01-01,2245
+Terengganu,doctor,2021-01-01,2043
+Terengganu,doctor,2022-01-01,2119
+Terengganu,nurse,2014-01-01,2582
+Terengganu,nurse,2015-01-01,2772
+Terengganu,nurse,2016-01-01,2855
+Terengganu,nurse,2017-01-01,2949
+Terengganu,nurse,2018-01-01,2908
+Terengganu,nurse,2019-01-01,2918
+Terengganu,nurse,2020-01-01,7424
+Terengganu,nurse,2021-01-01,3197
+Terengganu,nurse,2022-01-01,3370
+Terengganu,nurse_community,2014-01-01,1418
+Terengganu,nurse_community,2015-01-01,1424
+Terengganu,nurse_community,2016-01-01,1407
+Terengganu,nurse_community,2017-01-01,1421
+Terengganu,nurse_community,2018-01-01,1421
+Terengganu,nurse_community,2019-01-01,1423
+Terengganu,nurse_community,2020-01-01,1354
+Terengganu,nurse_community,2021-01-01,1350
+Terengganu,nurse_community,2022-01-01,1425
+W.P. Kuala Lumpur,all,2014-01-01,8394
+W.P. Kuala Lumpur,all,2015-01-01,12278
+W.P. Kuala Lumpur,all,2016-01-01,13140
+W.P. Kuala Lumpur,all,2017-01-01,12702
+W.P. Kuala Lumpur,all,2018-01-01,15492
+W.P. Kuala Lumpur,all,2019-01-01,17299
+W.P. Kuala Lumpur,all,2020-01-01,15374
+W.P. Kuala Lumpur,all,2021-01-01,18045
+W.P. Kuala Lumpur,all,2022-01-01,18941
+W.P. Kuala Lumpur,dentist,2014-01-01,482
+W.P. Kuala Lumpur,dentist,2015-01-01,453
+W.P. Kuala Lumpur,dentist,2016-01-01,497
+W.P. Kuala Lumpur,dentist,2017-01-01,605
+W.P. Kuala Lumpur,dentist,2018-01-01,650
+W.P. Kuala Lumpur,dentist,2019-01-01,708
+W.P. Kuala Lumpur,dentist,2020-01-01,754
+W.P. Kuala Lumpur,dentist,2021-01-01,772
+W.P. Kuala Lumpur,dentist,2022-01-01,854
+W.P. Kuala Lumpur,doctor,2014-01-01,2772
+W.P. Kuala Lumpur,doctor,2015-01-01,2480
+W.P. Kuala Lumpur,doctor,2016-01-01,2870
+W.P. Kuala Lumpur,doctor,2017-01-01,3745
+W.P. Kuala Lumpur,doctor,2018-01-01,4738
+W.P. Kuala Lumpur,doctor,2019-01-01,5593
+W.P. Kuala Lumpur,doctor,2020-01-01,7054
+W.P. Kuala Lumpur,doctor,2021-01-01,6967
+W.P. Kuala Lumpur,doctor,2022-01-01,7331
+W.P. Kuala Lumpur,nurse,2014-01-01,4392
+W.P. Kuala Lumpur,nurse,2015-01-01,8621
+W.P. Kuala Lumpur,nurse,2016-01-01,9052
+W.P. Kuala Lumpur,nurse,2017-01-01,7740
+W.P. Kuala Lumpur,nurse,2018-01-01,9261
+W.P. Kuala Lumpur,nurse,2019-01-01,10261
+W.P. Kuala Lumpur,nurse,2020-01-01,6959
+W.P. Kuala Lumpur,nurse,2021-01-01,9772
+W.P. Kuala Lumpur,nurse,2022-01-01,10170
+W.P. Kuala Lumpur,nurse_community,2014-01-01,748
+W.P. Kuala Lumpur,nurse_community,2015-01-01,724
+W.P. Kuala Lumpur,nurse_community,2016-01-01,721
+W.P. Kuala Lumpur,nurse_community,2017-01-01,612
+W.P. Kuala Lumpur,nurse_community,2018-01-01,843
+W.P. Kuala Lumpur,nurse_community,2019-01-01,737
+W.P. Kuala Lumpur,nurse_community,2020-01-01,607
+W.P. Kuala Lumpur,nurse_community,2021-01-01,534
+W.P. Kuala Lumpur,nurse_community,2022-01-01,586
+W.P. Labuan,all,2014-01-01,381
+W.P. Labuan,all,2015-01-01,409
+W.P. Labuan,all,2016-01-01,414
+W.P. Labuan,all,2017-01-01,434
+W.P. Labuan,all,2018-01-01,475
+W.P. Labuan,all,2019-01-01,497
+W.P. Labuan,all,2020-01-01,463
+W.P. Labuan,all,2021-01-01,521
+W.P. Labuan,all,2022-01-01,601
+W.P. Labuan,dentist,2014-01-01,6
+W.P. Labuan,dentist,2015-01-01,10
+W.P. Labuan,dentist,2016-01-01,17
+W.P. Labuan,dentist,2017-01-01,22
+W.P. Labuan,dentist,2018-01-01,23
+W.P. Labuan,dentist,2019-01-01,35
+W.P. Labuan,dentist,2020-01-01,29
+W.P. Labuan,dentist,2021-01-01,31
+W.P. Labuan,dentist,2022-01-01,30
+W.P. Labuan,doctor,2014-01-01,53
+W.P. Labuan,doctor,2015-01-01,57
+W.P. Labuan,doctor,2016-01-01,57
+W.P. Labuan,doctor,2017-01-01,71
+W.P. Labuan,doctor,2018-01-01,110
+W.P. Labuan,doctor,2019-01-01,116
+W.P. Labuan,doctor,2020-01-01,105
+W.P. Labuan,doctor,2021-01-01,103
+W.P. Labuan,doctor,2022-01-01,102
+W.P. Labuan,nurse,2014-01-01,211
+W.P. Labuan,nurse,2015-01-01,230
+W.P. Labuan,nurse,2016-01-01,231
+W.P. Labuan,nurse,2017-01-01,230
+W.P. Labuan,nurse,2018-01-01,230
+W.P. Labuan,nurse,2019-01-01,232
+W.P. Labuan,nurse,2020-01-01,225
+W.P. Labuan,nurse,2021-01-01,284
+W.P. Labuan,nurse,2022-01-01,359
+W.P. Labuan,nurse_community,2014-01-01,111
+W.P. Labuan,nurse_community,2015-01-01,112
+W.P. Labuan,nurse_community,2016-01-01,109
+W.P. Labuan,nurse_community,2017-01-01,111
+W.P. Labuan,nurse_community,2018-01-01,112
+W.P. Labuan,nurse_community,2019-01-01,114
+W.P. Labuan,nurse_community,2020-01-01,104
+W.P. Labuan,nurse_community,2021-01-01,103
+W.P. Labuan,nurse_community,2022-01-01,110
+W.P. Putrajaya,all,2014-01-01,7836
+W.P. Putrajaya,all,2015-01-01,7936
+W.P. Putrajaya,all,2016-01-01,7975
+W.P. Putrajaya,all,2017-01-01,7152
+W.P. Putrajaya,all,2018-01-01,5677
+W.P. Putrajaya,all,2019-01-01,7248
+W.P. Putrajaya,all,2020-01-01,3143
+W.P. Putrajaya,all,2021-01-01,3129
+W.P. Putrajaya,all,2022-01-01,3552
+W.P. Putrajaya,dentist,2014-01-01,59
+W.P. Putrajaya,dentist,2015-01-01,69
+W.P. Putrajaya,dentist,2016-01-01,75
+W.P. Putrajaya,dentist,2017-01-01,98
+W.P. Putrajaya,dentist,2018-01-01,110
+W.P. Putrajaya,dentist,2019-01-01,109
+W.P. Putrajaya,dentist,2020-01-01,123
+W.P. Putrajaya,dentist,2021-01-01,115
+W.P. Putrajaya,dentist,2022-01-01,128
+W.P. Putrajaya,doctor,2014-01-01,4373
+W.P. Putrajaya,doctor,2015-01-01,4375
+W.P. Putrajaya,doctor,2016-01-01,4449
+W.P. Putrajaya,doctor,2017-01-01,4261
+W.P. Putrajaya,doctor,2018-01-01,3776
+W.P. Putrajaya,doctor,2019-01-01,5104
+W.P. Putrajaya,doctor,2020-01-01,1383
+W.P. Putrajaya,doctor,2021-01-01,1348
+W.P. Putrajaya,doctor,2022-01-01,2023
+W.P. Putrajaya,nurse,2014-01-01,2867
+W.P. Putrajaya,nurse,2015-01-01,2952
+W.P. Putrajaya,nurse,2016-01-01,2875
+W.P. Putrajaya,nurse,2017-01-01,2312
+W.P. Putrajaya,nurse,2018-01-01,1551
+W.P. Putrajaya,nurse,2019-01-01,1675
+W.P. Putrajaya,nurse,2020-01-01,1414
+W.P. Putrajaya,nurse,2021-01-01,1471
+W.P. Putrajaya,nurse,2022-01-01,1177
+W.P. Putrajaya,nurse_community,2014-01-01,537
+W.P. Putrajaya,nurse_community,2015-01-01,540
+W.P. Putrajaya,nurse_community,2016-01-01,576
+W.P. Putrajaya,nurse_community,2017-01-01,481
+W.P. Putrajaya,nurse_community,2018-01-01,240
+W.P. Putrajaya,nurse_community,2019-01-01,360
+W.P. Putrajaya,nurse_community,2020-01-01,223
+W.P. Putrajaya,nurse_community,2021-01-01,195
+W.P. Putrajaya,nurse_community,2022-01-01,224

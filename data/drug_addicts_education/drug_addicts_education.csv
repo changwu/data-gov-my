@@ -1,0 +1,793 @@
+date,state,education,addicts
+2020-01-01,Malaysia,total,20643
+2021-01-01,Malaysia,total,18205
+2023-01-01,Malaysia,total,24921
+2020-01-01,Malaysia,total,20643
+2019-01-01,Malaysia,total,26080
+2018-01-01,Malaysia,total,25267
+2017-01-01,Malaysia,total,25922
+2016-01-01,Malaysia,total,30844
+2021-01-01,Johor,total,2081
+2022-01-01,Johor,total,2674
+2023-01-01,Johor,total,2847
+2019-01-01,Johor,total,2371
+2020-01-01,Johor,total,2564
+2019-01-01,Kedah,total,3582
+2020-01-01,Kedah,total,2372
+2021-01-01,Kedah,total,2196
+2022-01-01,Kedah,total,2724
+2023-01-01,Kedah,total,2678
+2021-01-01,Kelantan,total,2167
+2022-01-01,Kelantan,total,2339
+2023-01-01,Kelantan,total,2589
+2019-01-01,Kelantan,total,2998
+2020-01-01,Kelantan,total,2271
+2021-01-01,Melaka,total,539
+2022-01-01,Melaka,total,555
+2023-01-01,Melaka,total,467
+2019-01-01,Melaka,total,819
+2020-01-01,Melaka,total,829
+2021-01-01,Negeri Sembilan,total,709
+2022-01-01,Negeri Sembilan,total,969
+2023-01-01,Negeri Sembilan,total,866
+2019-01-01,Negeri Sembilan,total,1244
+2020-01-01,Negeri Sembilan,total,812
+2021-01-01,Pahang,total,977
+2022-01-01,Pahang,total,1392
+2023-01-01,Pahang,total,1947
+2019-01-01,Pahang,total,1672
+2020-01-01,Pahang,total,1395
+2021-01-01,Perak,total,1637
+2022-01-01,Perak,total,2376
+2023-01-01,Perak,total,2222
+2019-01-01,Perak,total,2046
+2020-01-01,Perak,total,1821
+2021-01-01,Perlis,total,213
+2022-01-01,Perlis,total,429
+2023-01-01,Perlis,total,459
+2019-01-01,Perlis,total,316
+2020-01-01,Perlis,total,281
+2021-01-01,Pulau Pinang,total,1358
+2022-01-01,Pulau Pinang,total,2247
+2023-01-01,Pulau Pinang,total,2089
+2019-01-01,Pulau Pinang,total,2893
+2020-01-01,Pulau Pinang,total,1727
+2021-01-01,Sabah,total,644
+2022-01-01,Sabah,total,703
+2023-01-01,Sabah,total,623
+2019-01-01,Sabah,total,1574
+2020-01-01,Sabah,total,834
+2021-01-01,Sarawak,total,712
+2022-01-01,Sarawak,total,1215
+2023-01-01,Sarawak,total,1485
+2019-01-01,Sarawak,total,852
+2020-01-01,Sarawak,total,634
+2021-01-01,Selangor,total,1963
+2022-01-01,Selangor,total,2553
+2023-01-01,Selangor,total,2498
+2019-01-01,Selangor,total,2385
+2020-01-01,Selangor,total,1712
+2021-01-01,Terengganu,total,2033
+2022-01-01,Terengganu,total,2237
+2023-01-01,Terengganu,total,2256
+2019-01-01,Terengganu,total,2123
+2020-01-01,Terengganu,total,2240
+2021-01-01,W.P. Kuala Lumpur,total,857
+2022-01-01,W.P. Kuala Lumpur,total,980
+2023-01-01,W.P. Kuala Lumpur,total,1074
+2019-01-01,W.P. Kuala Lumpur,total,1023
+2020-01-01,W.P. Kuala Lumpur,total,1024
+2021-01-01,W.P. Labuan,total,48
+2022-01-01,W.P. Labuan,total,78
+2023-01-01,W.P. Labuan,total,52
+2019-01-01,W.P. Labuan,total,139
+2020-01-01,W.P. Labuan,total,90
+2021-01-01,W.P. Putrajaya,total,71
+2022-01-01,W.P. Putrajaya,total,46
+2023-01-01,W.P. Putrajaya,total,34
+2019-01-01,W.P. Putrajaya,total,43
+2020-01-01,W.P. Putrajaya,total,37
+2020-01-01,Malaysia,none,2314
+2021-01-01,Malaysia,none,1241
+2023-01-01,Malaysia,none,1175
+2020-01-01,Malaysia,none,2314
+2019-01-01,Malaysia,none,3545
+2018-01-01,Malaysia,none,4044
+2017-01-01,Malaysia,none,3751
+2016-01-01,Malaysia,none,3351
+2021-01-01,Johor,none,113
+2022-01-01,Johor,none,170
+2023-01-01,Johor,none,360
+2019-01-01,Johor,none,442
+2020-01-01,Johor,none,573
+2019-01-01,Kedah,none,722
+2020-01-01,Kedah,none,248
+2021-01-01,Kedah,none,432
+2022-01-01,Kedah,none,111
+2023-01-01,Kedah,none,32
+2021-01-01,Kelantan,none,29
+2022-01-01,Kelantan,none,26
+2023-01-01,Kelantan,none,41
+2019-01-01,Kelantan,none,316
+2020-01-01,Kelantan,none,176
+2021-01-01,Melaka,none,9
+2022-01-01,Melaka,none,10
+2023-01-01,Melaka,none,4
+2019-01-01,Melaka,none,38
+2020-01-01,Melaka,none,40
+2021-01-01,Negeri Sembilan,none,10
+2022-01-01,Negeri Sembilan,none,24
+2023-01-01,Negeri Sembilan,none,10
+2019-01-01,Negeri Sembilan,none,66
+2020-01-01,Negeri Sembilan,none,54
+2021-01-01,Pahang,none,25
+2022-01-01,Pahang,none,26
+2023-01-01,Pahang,none,25
+2019-01-01,Pahang,none,72
+2020-01-01,Pahang,none,67
+2021-01-01,Perak,none,54
+2022-01-01,Perak,none,142
+2023-01-01,Perak,none,52
+2019-01-01,Perak,none,145
+2020-01-01,Perak,none,94
+2021-01-01,Perlis,none,6
+2022-01-01,Perlis,none,3
+2023-01-01,Perlis,none,15
+2019-01-01,Perlis,none,5
+2020-01-01,Perlis,none,13
+2021-01-01,Pulau Pinang,none,232
+2022-01-01,Pulau Pinang,none,296
+2023-01-01,Pulau Pinang,none,66
+2019-01-01,Pulau Pinang,none,885
+2020-01-01,Pulau Pinang,none,355
+2021-01-01,Sabah,none,103
+2022-01-01,Sabah,none,45
+2023-01-01,Sabah,none,31
+2019-01-01,Sabah,none,203
+2020-01-01,Sabah,none,180
+2021-01-01,Sarawak,none,76
+2022-01-01,Sarawak,none,68
+2023-01-01,Sarawak,none,67
+2019-01-01,Sarawak,none,220
+2020-01-01,Sarawak,none,104
+2021-01-01,Selangor,none,57
+2022-01-01,Selangor,none,55
+2023-01-01,Selangor,none,64
+2019-01-01,Selangor,none,299
+2020-01-01,Selangor,none,119
+2021-01-01,Terengganu,none,70
+2022-01-01,Terengganu,none,27
+2023-01-01,Terengganu,none,21
+2019-01-01,Terengganu,none,74
+2020-01-01,Terengganu,none,236
+2021-01-01,W.P. Kuala Lumpur,none,16
+2022-01-01,W.P. Kuala Lumpur,none,22
+2023-01-01,W.P. Kuala Lumpur,none,20
+2019-01-01,W.P. Kuala Lumpur,none,51
+2020-01-01,W.P. Kuala Lumpur,none,54
+2021-01-01,W.P. Labuan,none,5
+2022-01-01,W.P. Labuan,none,2
+2023-01-01,W.P. Labuan,none,5
+2019-01-01,W.P. Labuan,none,7
+2020-01-01,W.P. Labuan,none,1
+2021-01-01,W.P. Putrajaya,none,4
+2022-01-01,W.P. Putrajaya,none,1
+2023-01-01,W.P. Putrajaya,none,
+2019-01-01,W.P. Putrajaya,none,
+2020-01-01,W.P. Putrajaya,none,
+2020-01-01,Malaysia,primary,1871
+2021-01-01,Malaysia,primary,1765
+2023-01-01,Malaysia,primary,2623
+2020-01-01,Malaysia,primary,1871
+2019-01-01,Malaysia,primary,2301
+2018-01-01,Malaysia,primary,2118
+2017-01-01,Malaysia,primary,2370
+2016-01-01,Malaysia,primary,2898
+2021-01-01,Johor,primary,214
+2022-01-01,Johor,primary,319
+2023-01-01,Johor,primary,354
+2019-01-01,Johor,primary,211
+2020-01-01,Johor,primary,191
+2019-01-01,Kedah,primary,297
+2020-01-01,Kedah,primary,203
+2021-01-01,Kedah,primary,163
+2022-01-01,Kedah,primary,287
+2023-01-01,Kedah,primary,283
+2021-01-01,Kelantan,primary,215
+2022-01-01,Kelantan,primary,213
+2023-01-01,Kelantan,primary,228
+2019-01-01,Kelantan,primary,207
+2020-01-01,Kelantan,primary,174
+2021-01-01,Melaka,primary,33
+2022-01-01,Melaka,primary,42
+2023-01-01,Melaka,primary,47
+2019-01-01,Melaka,primary,66
+2020-01-01,Melaka,primary,45
+2021-01-01,Negeri Sembilan,primary,69
+2022-01-01,Negeri Sembilan,primary,111
+2023-01-01,Negeri Sembilan,primary,99
+2019-01-01,Negeri Sembilan,primary,102
+2020-01-01,Negeri Sembilan,primary,74
+2021-01-01,Pahang,primary,102
+2022-01-01,Pahang,primary,141
+2023-01-01,Pahang,primary,221
+2019-01-01,Pahang,primary,147
+2020-01-01,Pahang,primary,161
+2021-01-01,Perak,primary,195
+2022-01-01,Perak,primary,286
+2023-01-01,Perak,primary,289
+2019-01-01,Perak,primary,236
+2020-01-01,Perak,primary,211
+2021-01-01,Perlis,primary,13
+2022-01-01,Perlis,primary,29
+2023-01-01,Perlis,primary,30
+2019-01-01,Perlis,primary,17
+2020-01-01,Perlis,primary,14
+2021-01-01,Pulau Pinang,primary,89
+2022-01-01,Pulau Pinang,primary,154
+2023-01-01,Pulau Pinang,primary,211
+2019-01-01,Pulau Pinang,primary,189
+2020-01-01,Pulau Pinang,primary,152
+2021-01-01,Sabah,primary,63
+2022-01-01,Sabah,primary,61
+2023-01-01,Sabah,primary,63
+2019-01-01,Sabah,primary,181
+2020-01-01,Sabah,primary,83
+2021-01-01,Sarawak,primary,98
+2022-01-01,Sarawak,primary,169
+2023-01-01,Sarawak,primary,175
+2019-01-01,Sarawak,primary,85
+2020-01-01,Sarawak,primary,77
+2021-01-01,Selangor,primary,198
+2022-01-01,Selangor,primary,230
+2023-01-01,Selangor,primary,256
+2019-01-01,Selangor,primary,207
+2020-01-01,Selangor,primary,118
+2021-01-01,Terengganu,primary,238
+2022-01-01,Terengganu,primary,275
+2023-01-01,Terengganu,primary,326
+2019-01-01,Terengganu,primary,235
+2020-01-01,Terengganu,primary,266
+2021-01-01,W.P. Kuala Lumpur,primary,66
+2022-01-01,W.P. Kuala Lumpur,primary,109
+2023-01-01,W.P. Kuala Lumpur,primary,89
+2019-01-01,W.P. Kuala Lumpur,primary,109
+2020-01-01,W.P. Kuala Lumpur,primary,95
+2021-01-01,W.P. Labuan,primary,6
+2022-01-01,W.P. Labuan,primary,11
+2023-01-01,W.P. Labuan,primary,8
+2019-01-01,W.P. Labuan,primary,10
+2020-01-01,W.P. Labuan,primary,7
+2021-01-01,W.P. Putrajaya,primary,3
+2022-01-01,W.P. Putrajaya,primary,1
+2023-01-01,W.P. Putrajaya,primary,1
+2019-01-01,W.P. Putrajaya,primary,2
+2020-01-01,W.P. Putrajaya,primary,
+2020-01-01,Malaysia,pmr,6915
+2021-01-01,Malaysia,pmr,6246
+2023-01-01,Malaysia,pmr,8852
+2020-01-01,Malaysia,pmr,6915
+2019-01-01,Malaysia,pmr,8843
+2018-01-01,Malaysia,pmr,8451
+2017-01-01,Malaysia,pmr,9082
+2016-01-01,Malaysia,pmr,11730
+2021-01-01,Johor,pmr,799
+2022-01-01,Johor,pmr,936
+2023-01-01,Johor,pmr,853
+2019-01-01,Johor,pmr,749
+2020-01-01,Johor,pmr,766
+2019-01-01,Kedah,pmr,1176
+2020-01-01,Kedah,pmr,814
+2021-01-01,Kedah,pmr,639
+2022-01-01,Kedah,pmr,1010
+2023-01-01,Kedah,pmr,989
+2021-01-01,Kelantan,pmr,808
+2022-01-01,Kelantan,pmr,990
+2023-01-01,Kelantan,pmr,992
+2019-01-01,Kelantan,pmr,1100
+2020-01-01,Kelantan,pmr,820
+2021-01-01,Melaka,pmr,197
+2022-01-01,Melaka,pmr,209
+2023-01-01,Melaka,pmr,157
+2019-01-01,Melaka,pmr,329
+2020-01-01,Melaka,pmr,314
+2021-01-01,Negeri Sembilan,pmr,252
+2022-01-01,Negeri Sembilan,pmr,330
+2023-01-01,Negeri Sembilan,pmr,286
+2019-01-01,Negeri Sembilan,pmr,392
+2020-01-01,Negeri Sembilan,pmr,260
+2021-01-01,Pahang,pmr,314
+2022-01-01,Pahang,pmr,494
+2023-01-01,Pahang,pmr,592
+2019-01-01,Pahang,pmr,583
+2020-01-01,Pahang,pmr,446
+2021-01-01,Perak,pmr,581
+2022-01-01,Perak,pmr,886
+2023-01-01,Perak,pmr,812
+2019-01-01,Perak,pmr,750
+2020-01-01,Perak,pmr,634
+2021-01-01,Perlis,pmr,98
+2022-01-01,Perlis,pmr,175
+2023-01-01,Perlis,pmr,178
+2019-01-01,Perlis,pmr,123
+2020-01-01,Perlis,pmr,90
+2021-01-01,Pulau Pinang,pmr,504
+2022-01-01,Pulau Pinang,pmr,916
+2023-01-01,Pulau Pinang,pmr,850
+2019-01-01,Pulau Pinang,pmr,932
+2020-01-01,Pulau Pinang,pmr,600
+2021-01-01,Sabah,pmr,196
+2022-01-01,Sabah,pmr,251
+2023-01-01,Sabah,pmr,233
+2019-01-01,Sabah,pmr,515
+2020-01-01,Sabah,pmr,248
+2021-01-01,Sarawak,pmr,213
+2022-01-01,Sarawak,pmr,411
+2023-01-01,Sarawak,pmr,545
+2019-01-01,Sarawak,pmr,211
+2020-01-01,Sarawak,pmr,165
+2021-01-01,Selangor,pmr,656
+2022-01-01,Selangor,pmr,928
+2023-01-01,Selangor,pmr,853
+2019-01-01,Selangor,pmr,785
+2020-01-01,Selangor,pmr,581
+2021-01-01,Terengganu,pmr,679
+2022-01-01,Terengganu,pmr,812
+2023-01-01,Terengganu,pmr,796
+2019-01-01,Terengganu,pmr,810
+2020-01-01,Terengganu,pmr,729
+2021-01-01,W.P. Kuala Lumpur,pmr,288
+2022-01-01,W.P. Kuala Lumpur,pmr,357
+2023-01-01,W.P. Kuala Lumpur,pmr,365
+2019-01-01,W.P. Kuala Lumpur,pmr,337
+2020-01-01,W.P. Kuala Lumpur,pmr,401
+2021-01-01,W.P. Labuan,pmr,13
+2022-01-01,W.P. Labuan,pmr,29
+2023-01-01,W.P. Labuan,pmr,19
+2019-01-01,W.P. Labuan,pmr,47
+2020-01-01,W.P. Labuan,pmr,40
+2021-01-01,W.P. Putrajaya,pmr,9
+2022-01-01,W.P. Putrajaya,pmr,8
+2023-01-01,W.P. Putrajaya,pmr,9
+2019-01-01,W.P. Putrajaya,pmr,4
+2020-01-01,W.P. Putrajaya,pmr,7
+2020-01-01,Malaysia,spm,8027
+2021-01-01,Malaysia,spm,7468
+2023-01-01,Malaysia,spm,10243
+2020-01-01,Malaysia,spm,8027
+2019-01-01,Malaysia,spm,9678
+2018-01-01,Malaysia,spm,9114
+2017-01-01,Malaysia,spm,9311
+2016-01-01,Malaysia,spm,11314
+2021-01-01,Johor,spm,814
+2022-01-01,Johor,spm,1055
+2023-01-01,Johor,spm,1112
+2019-01-01,Johor,spm,824
+2020-01-01,Johor,spm,887
+2019-01-01,Kedah,spm,1190
+2020-01-01,Kedah,spm,949
+2021-01-01,Kedah,spm,851
+2022-01-01,Kedah,spm,1138
+2023-01-01,Kedah,spm,1163
+2021-01-01,Kelantan,spm,964
+2022-01-01,Kelantan,spm,929
+2023-01-01,Kelantan,spm,1129
+2019-01-01,Kelantan,spm,1213
+2020-01-01,Kelantan,spm,957
+2021-01-01,Melaka,spm,243
+2022-01-01,Melaka,spm,238
+2023-01-01,Melaka,spm,212
+2019-01-01,Melaka,spm,336
+2020-01-01,Melaka,spm,356
+2021-01-01,Negeri Sembilan,spm,309
+2022-01-01,Negeri Sembilan,spm,390
+2023-01-01,Negeri Sembilan,spm,352
+2019-01-01,Negeri Sembilan,spm,562
+2020-01-01,Negeri Sembilan,spm,334
+2021-01-01,Pahang,spm,448
+2022-01-01,Pahang,spm,618
+2023-01-01,Pahang,spm,908
+2019-01-01,Pahang,spm,739
+2020-01-01,Pahang,spm,616
+2021-01-01,Perak,spm,696
+2022-01-01,Perak,spm,915
+2023-01-01,Perak,spm,906
+2019-01-01,Perak,spm,799
+2020-01-01,Perak,spm,750
+2021-01-01,Perlis,spm,82
+2022-01-01,Perlis,spm,197
+2023-01-01,Perlis,spm,205
+2019-01-01,Perlis,spm,145
+2020-01-01,Perlis,spm,130
+2021-01-01,Pulau Pinang,spm,459
+2022-01-01,Pulau Pinang,spm,775
+2023-01-01,Pulau Pinang,spm,819
+2019-01-01,Pulau Pinang,spm,778
+2020-01-01,Pulau Pinang,spm,536
+2021-01-01,Sabah,spm,231
+2022-01-01,Sabah,spm,289
+2023-01-01,Sabah,spm,252
+2019-01-01,Sabah,spm,571
+2020-01-01,Sabah,spm,260
+2021-01-01,Sarawak,spm,276
+2022-01-01,Sarawak,spm,487
+2023-01-01,Sarawak,spm,617
+2019-01-01,Sarawak,spm,272
+2020-01-01,Sarawak,spm,232
+2021-01-01,Selangor,spm,789
+2022-01-01,Selangor,spm,1041
+2023-01-01,Selangor,spm,1054
+2019-01-01,Selangor,spm,869
+2020-01-01,Selangor,spm,693
+2021-01-01,Terengganu,spm,870
+2022-01-01,Terengganu,spm,932
+2023-01-01,Terengganu,spm,965
+2019-01-01,Terengganu,spm,863
+2020-01-01,Terengganu,spm,895
+2021-01-01,W.P. Kuala Lumpur,spm,384
+2022-01-01,W.P. Kuala Lumpur,spm,367
+2023-01-01,W.P. Kuala Lumpur,spm,443
+2019-01-01,W.P. Kuala Lumpur,spm,434
+2020-01-01,W.P. Kuala Lumpur,spm,381
+2021-01-01,W.P. Labuan,spm,20
+2022-01-01,W.P. Labuan,spm,25
+2023-01-01,W.P. Labuan,spm,15
+2019-01-01,W.P. Labuan,spm,62
+2020-01-01,W.P. Labuan,spm,35
+2021-01-01,W.P. Putrajaya,spm,32
+2022-01-01,W.P. Putrajaya,spm,23
+2023-01-01,W.P. Putrajaya,spm,13
+2019-01-01,W.P. Putrajaya,spm,21
+2020-01-01,W.P. Putrajaya,spm,16
+2020-01-01,Malaysia,stpm,137
+2021-01-01,Malaysia,stpm,118
+2023-01-01,Malaysia,stpm,182
+2020-01-01,Malaysia,stpm,137
+2019-01-01,Malaysia,stpm,154
+2018-01-01,Malaysia,stpm,166
+2017-01-01,Malaysia,stpm,166
+2016-01-01,Malaysia,stpm,218
+2021-01-01,Johor,stpm,10
+2022-01-01,Johor,stpm,15
+2023-01-01,Johor,stpm,17
+2019-01-01,Johor,stpm,15
+2020-01-01,Johor,stpm,7
+2019-01-01,Kedah,stpm,29
+2020-01-01,Kedah,stpm,11
+2021-01-01,Kedah,stpm,10
+2022-01-01,Kedah,stpm,14
+2023-01-01,Kedah,stpm,17
+2021-01-01,Kelantan,stpm,26
+2022-01-01,Kelantan,stpm,38
+2023-01-01,Kelantan,stpm,28
+2019-01-01,Kelantan,stpm,19
+2020-01-01,Kelantan,stpm,35
+2021-01-01,Melaka,stpm,3
+2022-01-01,Melaka,stpm,3
+2023-01-01,Melaka,stpm,1
+2019-01-01,Melaka,stpm,6
+2020-01-01,Melaka,stpm,3
+2021-01-01,Negeri Sembilan,stpm,
+2022-01-01,Negeri Sembilan,stpm,7
+2023-01-01,Negeri Sembilan,stpm,3
+2019-01-01,Negeri Sembilan,stpm,2
+2020-01-01,Negeri Sembilan,stpm,4
+2021-01-01,Pahang,stpm,9
+2022-01-01,Pahang,stpm,9
+2023-01-01,Pahang,stpm,13
+2019-01-01,Pahang,stpm,11
+2020-01-01,Pahang,stpm,8
+2021-01-01,Perak,stpm,8
+2022-01-01,Perak,stpm,5
+2023-01-01,Perak,stpm,7
+2019-01-01,Perak,stpm,13
+2020-01-01,Perak,stpm,12
+2021-01-01,Perlis,stpm,
+2022-01-01,Perlis,stpm,1
+2023-01-01,Perlis,stpm,3
+2019-01-01,Perlis,stpm,1
+2020-01-01,Perlis,stpm,3
+2021-01-01,Pulau Pinang,stpm,5
+2022-01-01,Pulau Pinang,stpm,11
+2023-01-01,Pulau Pinang,stpm,17
+2019-01-01,Pulau Pinang,stpm,11
+2020-01-01,Pulau Pinang,stpm,6
+2021-01-01,Sabah,stpm,7
+2022-01-01,Sabah,stpm,5
+2023-01-01,Sabah,stpm,11
+2019-01-01,Sabah,stpm,21
+2020-01-01,Sabah,stpm,16
+2021-01-01,Sarawak,stpm,9
+2022-01-01,Sarawak,stpm,11
+2023-01-01,Sarawak,stpm,8
+2019-01-01,Sarawak,stpm,2
+2020-01-01,Sarawak,stpm,4
+2021-01-01,Selangor,stpm,8
+2022-01-01,Selangor,stpm,21
+2023-01-01,Selangor,stpm,22
+2019-01-01,Selangor,stpm,11
+2020-01-01,Selangor,stpm,8
+2021-01-01,Terengganu,stpm,14
+2022-01-01,Terengganu,stpm,19
+2023-01-01,Terengganu,stpm,16
+2019-01-01,Terengganu,stpm,7
+2020-01-01,Terengganu,stpm,15
+2021-01-01,W.P. Kuala Lumpur,stpm,6
+2022-01-01,W.P. Kuala Lumpur,stpm,7
+2023-01-01,W.P. Kuala Lumpur,stpm,7
+2019-01-01,W.P. Kuala Lumpur,stpm,5
+2020-01-01,W.P. Kuala Lumpur,stpm,5
+2021-01-01,W.P. Labuan,stpm,2
+2022-01-01,W.P. Labuan,stpm,1
+2023-01-01,W.P. Labuan,stpm,
+2019-01-01,W.P. Labuan,stpm,1
+2020-01-01,W.P. Labuan,stpm,
+2021-01-01,W.P. Putrajaya,stpm,1
+2022-01-01,W.P. Putrajaya,stpm,
+2023-01-01,W.P. Putrajaya,stpm,
+2019-01-01,W.P. Putrajaya,stpm,
+2020-01-01,W.P. Putrajaya,stpm,
+2020-01-01,Malaysia,diploma,568
+2021-01-01,Malaysia,diploma,593
+2023-01-01,Malaysia,diploma,690
+2020-01-01,Malaysia,diploma,568
+2019-01-01,Malaysia,diploma,620
+2018-01-01,Malaysia,diploma,540
+2017-01-01,Malaysia,diploma,473
+2016-01-01,Malaysia,diploma,506
+2021-01-01,Johor,diploma,52
+2022-01-01,Johor,diploma,67
+2023-01-01,Johor,diploma,48
+2019-01-01,Johor,diploma,57
+2020-01-01,Johor,diploma,64
+2019-01-01,Kedah,diploma,47
+2020-01-01,Kedah,diploma,48
+2021-01-01,Kedah,diploma,37
+2022-01-01,Kedah,diploma,48
+2023-01-01,Kedah,diploma,64
+2021-01-01,Kelantan,diploma,58
+2022-01-01,Kelantan,diploma,52
+2023-01-01,Kelantan,diploma,67
+2019-01-01,Kelantan,diploma,52
+2020-01-01,Kelantan,diploma,44
+2021-01-01,Melaka,diploma,25
+2022-01-01,Melaka,diploma,20
+2023-01-01,Melaka,diploma,15
+2019-01-01,Melaka,diploma,14
+2020-01-01,Melaka,diploma,29
+2021-01-01,Negeri Sembilan,diploma,30
+2022-01-01,Negeri Sembilan,diploma,39
+2023-01-01,Negeri Sembilan,diploma,45
+2019-01-01,Negeri Sembilan,diploma,58
+2020-01-01,Negeri Sembilan,diploma,38
+2021-01-01,Pahang,diploma,32
+2022-01-01,Pahang,diploma,44
+2023-01-01,Pahang,diploma,63
+2019-01-01,Pahang,diploma,47
+2020-01-01,Pahang,diploma,36
+2021-01-01,Perak,diploma,38
+2022-01-01,Perak,diploma,45
+2023-01-01,Perak,diploma,52
+2019-01-01,Perak,diploma,39
+2020-01-01,Perak,diploma,47
+2021-01-01,Perlis,diploma,3
+2022-01-01,Perlis,diploma,12
+2023-01-01,Perlis,diploma,7
+2019-01-01,Perlis,diploma,5
+2020-01-01,Perlis,diploma,10
+2021-01-01,Pulau Pinang,diploma,30
+2022-01-01,Pulau Pinang,diploma,40
+2023-01-01,Pulau Pinang,diploma,60
+2019-01-01,Pulau Pinang,diploma,43
+2020-01-01,Pulau Pinang,diploma,33
+2021-01-01,Sabah,diploma,27
+2022-01-01,Sabah,diploma,24
+2023-01-01,Sabah,diploma,15
+2019-01-01,Sabah,diploma,41
+2020-01-01,Sabah,diploma,16
+2021-01-01,Sarawak,diploma,21
+2022-01-01,Sarawak,diploma,28
+2023-01-01,Sarawak,diploma,27
+2019-01-01,Sarawak,diploma,23
+2020-01-01,Sarawak,diploma,23
+2021-01-01,Selangor,diploma,116
+2022-01-01,Selangor,diploma,111
+2023-01-01,Selangor,diploma,114
+2019-01-01,Selangor,diploma,80
+2020-01-01,Selangor,diploma,92
+2021-01-01,Terengganu,diploma,65
+2022-01-01,Terengganu,diploma,67
+2023-01-01,Terengganu,diploma,50
+2019-01-01,Terengganu,diploma,57
+2020-01-01,Terengganu,diploma,35
+2021-01-01,W.P. Kuala Lumpur,diploma,54
+2022-01-01,W.P. Kuala Lumpur,diploma,58
+2023-01-01,W.P. Kuala Lumpur,diploma,57
+2019-01-01,W.P. Kuala Lumpur,diploma,48
+2020-01-01,W.P. Kuala Lumpur,diploma,43
+2021-01-01,W.P. Labuan,diploma,
+2022-01-01,W.P. Labuan,diploma,3
+2023-01-01,W.P. Labuan,diploma,2
+2019-01-01,W.P. Labuan,diploma,3
+2020-01-01,W.P. Labuan,diploma,4
+2021-01-01,W.P. Putrajaya,diploma,5
+2022-01-01,W.P. Putrajaya,diploma,6
+2023-01-01,W.P. Putrajaya,diploma,5
+2019-01-01,W.P. Putrajaya,diploma,6
+2020-01-01,W.P. Putrajaya,diploma,6
+2020-01-01,Malaysia,tertiary,94
+2021-01-01,Malaysia,tertiary,116
+2023-01-01,Malaysia,tertiary,160
+2020-01-01,Malaysia,tertiary,94
+2019-01-01,Malaysia,tertiary,129
+2018-01-01,Malaysia,tertiary,114
+2017-01-01,Malaysia,tertiary,113
+2016-01-01,Malaysia,tertiary,96
+2021-01-01,Johor,tertiary,14
+2022-01-01,Johor,tertiary,10
+2023-01-01,Johor,tertiary,12
+2019-01-01,Johor,tertiary,9
+2020-01-01,Johor,tertiary,5
+2019-01-01,Kedah,tertiary,14
+2020-01-01,Kedah,tertiary,7
+2021-01-01,Kedah,tertiary,5
+2022-01-01,Kedah,tertiary,10
+2023-01-01,Kedah,tertiary,8
+2021-01-01,Kelantan,tertiary,6
+2022-01-01,Kelantan,tertiary,11
+2023-01-01,Kelantan,tertiary,10
+2019-01-01,Kelantan,tertiary,7
+2020-01-01,Kelantan,tertiary,10
+2021-01-01,Melaka,tertiary,5
+2022-01-01,Melaka,tertiary,4
+2023-01-01,Melaka,tertiary,3
+2019-01-01,Melaka,tertiary,2
+2020-01-01,Melaka,tertiary,3
+2021-01-01,Negeri Sembilan,tertiary,3
+2022-01-01,Negeri Sembilan,tertiary,6
+2023-01-01,Negeri Sembilan,tertiary,8
+2019-01-01,Negeri Sembilan,tertiary,7
+2020-01-01,Negeri Sembilan,tertiary,6
+2021-01-01,Pahang,tertiary,1
+2022-01-01,Pahang,tertiary,8
+2023-01-01,Pahang,tertiary,9
+2019-01-01,Pahang,tertiary,5
+2020-01-01,Pahang,tertiary,5
+2021-01-01,Perak,tertiary,9
+2022-01-01,Perak,tertiary,15
+2023-01-01,Perak,tertiary,13
+2019-01-01,Perak,tertiary,8
+2020-01-01,Perak,tertiary,6
+2021-01-01,Perlis,tertiary,1
+2022-01-01,Perlis,tertiary,1
+2023-01-01,Perlis,tertiary,1
+2019-01-01,Perlis,tertiary,2
+2020-01-01,Perlis,tertiary,0
+2021-01-01,Pulau Pinang,tertiary,8
+2022-01-01,Pulau Pinang,tertiary,11
+2023-01-01,Pulau Pinang,tertiary,13
+2019-01-01,Pulau Pinang,tertiary,11
+2020-01-01,Pulau Pinang,tertiary,7
+2021-01-01,Sabah,tertiary,4
+2022-01-01,Sabah,tertiary,7
+2023-01-01,Sabah,tertiary,8
+2019-01-01,Sabah,tertiary,14
+2020-01-01,Sabah,tertiary,8
+2021-01-01,Sarawak,tertiary,
+2022-01-01,Sarawak,tertiary,4
+2023-01-01,Sarawak,tertiary,5
+2019-01-01,Sarawak,tertiary,3
+2020-01-01,Sarawak,tertiary,2
+2021-01-01,Selangor,tertiary,38
+2022-01-01,Selangor,tertiary,49
+2023-01-01,Selangor,tertiary,32
+2019-01-01,Selangor,tertiary,24
+2020-01-01,Selangor,tertiary,19
+2021-01-01,Terengganu,tertiary,9
+2022-01-01,Terengganu,tertiary,13
+2023-01-01,Terengganu,tertiary,8
+2019-01-01,Terengganu,tertiary,12
+2020-01-01,Terengganu,tertiary,4
+2021-01-01,W.P. Kuala Lumpur,tertiary,12
+2022-01-01,W.P. Kuala Lumpur,tertiary,19
+2023-01-01,W.P. Kuala Lumpur,tertiary,28
+2019-01-01,W.P. Kuala Lumpur,tertiary,7
+2020-01-01,W.P. Kuala Lumpur,tertiary,10
+2021-01-01,W.P. Labuan,tertiary,1
+2022-01-01,W.P. Labuan,tertiary,
+2023-01-01,W.P. Labuan,tertiary,
+2019-01-01,W.P. Labuan,tertiary,2
+2020-01-01,W.P. Labuan,tertiary,2
+2021-01-01,W.P. Putrajaya,tertiary,
+2022-01-01,W.P. Putrajaya,tertiary,2
+2023-01-01,W.P. Putrajaya,tertiary,
+2019-01-01,W.P. Putrajaya,tertiary,2
+2020-01-01,W.P. Putrajaya,tertiary,
+2020-01-01,Malaysia,others,717
+2021-01-01,Malaysia,others,658
+2023-01-01,Malaysia,others,996
+2020-01-01,Malaysia,others,717
+2019-01-01,Malaysia,others,810
+2018-01-01,Malaysia,others,720
+2017-01-01,Malaysia,others,656
+2016-01-01,Malaysia,others,731
+2021-01-01,Johor,others,65
+2022-01-01,Johor,others,102
+2023-01-01,Johor,others,91
+2019-01-01,Johor,others,64
+2020-01-01,Johor,others,71
+2019-01-01,Kedah,others,107
+2020-01-01,Kedah,others,92
+2021-01-01,Kedah,others,59
+2022-01-01,Kedah,others,106
+2023-01-01,Kedah,others,122
+2021-01-01,Kelantan,others,61
+2022-01-01,Kelantan,others,80
+2023-01-01,Kelantan,others,94
+2019-01-01,Kelantan,others,84
+2020-01-01,Kelantan,others,55
+2021-01-01,Melaka,others,24
+2022-01-01,Melaka,others,29
+2023-01-01,Melaka,others,28
+2019-01-01,Melaka,others,28
+2020-01-01,Melaka,others,39
+2021-01-01,Negeri Sembilan,others,36
+2022-01-01,Negeri Sembilan,others,62
+2023-01-01,Negeri Sembilan,others,63
+2019-01-01,Negeri Sembilan,others,55
+2020-01-01,Negeri Sembilan,others,42
+2021-01-01,Pahang,others,46
+2022-01-01,Pahang,others,52
+2023-01-01,Pahang,others,116
+2019-01-01,Pahang,others,68
+2020-01-01,Pahang,others,56
+2021-01-01,Perak,others,56
+2022-01-01,Perak,others,82
+2023-01-01,Perak,others,91
+2019-01-01,Perak,others,56
+2020-01-01,Perak,others,67
+2021-01-01,Perlis,others,10
+2022-01-01,Perlis,others,11
+2023-01-01,Perlis,others,20
+2019-01-01,Perlis,others,18
+2020-01-01,Perlis,others,21
+2021-01-01,Pulau Pinang,others,31
+2022-01-01,Pulau Pinang,others,44
+2023-01-01,Pulau Pinang,others,53
+2019-01-01,Pulau Pinang,others,44
+2020-01-01,Pulau Pinang,others,38
+2021-01-01,Sabah,others,13
+2022-01-01,Sabah,others,21
+2023-01-01,Sabah,others,10
+2019-01-01,Sabah,others,28
+2020-01-01,Sabah,others,23
+2021-01-01,Sarawak,others,19
+2022-01-01,Sarawak,others,37
+2023-01-01,Sarawak,others,41
+2019-01-01,Sarawak,others,36
+2020-01-01,Sarawak,others,27
+2021-01-01,Selangor,others,101
+2022-01-01,Selangor,others,118
+2023-01-01,Selangor,others,103
+2019-01-01,Selangor,others,110
+2020-01-01,Selangor,others,82
+2021-01-01,Terengganu,others,88
+2022-01-01,Terengganu,others,92
+2023-01-01,Terengganu,others,74
+2019-01-01,Terengganu,others,65
+2020-01-01,Terengganu,others,60
+2021-01-01,W.P. Kuala Lumpur,others,31
+2022-01-01,W.P. Kuala Lumpur,others,41
+2023-01-01,W.P. Kuala Lumpur,others,65
+2019-01-01,W.P. Kuala Lumpur,others,32
+2020-01-01,W.P. Kuala Lumpur,others,35
+2021-01-01,W.P. Labuan,others,1
+2022-01-01,W.P. Labuan,others,7
+2023-01-01,W.P. Labuan,others,3
+2019-01-01,W.P. Labuan,others,7
+2020-01-01,W.P. Labuan,others,1
+2021-01-01,W.P. Putrajaya,others,17
+2022-01-01,W.P. Putrajaya,others,5
+2023-01-01,W.P. Putrajaya,others,6
+2019-01-01,W.P. Putrajaya,others,8
+2020-01-01,W.P. Putrajaya,others,8

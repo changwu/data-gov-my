@@ -1,0 +1,323 @@
+state,local_authority,date,female,male
+Johor,All,2019-01-01,29.45,70.55
+Johor,All,2020-01-01,21.75,78.25
+Johor,All,2021-01-01,21.56,78.44
+Johor,All,2022-01-01,24.33,75.67
+Johor,Majlis Bandaraya Iskandar Puteri,2021-01-01,26.09,73.91
+Johor,Majlis Bandaraya Iskandar Puteri,2022-01-01,39.13,60.87
+Johor,Majlis Bandaraya Johor Bahru,2021-01-01,16.67,83.33
+Johor,Majlis Bandaraya Johor Bahru,2022-01-01,20.83,79.17
+Johor,Majlis Bandaraya Pasir Gudang,2021-01-01,20.83,79.17
+Johor,Majlis Bandaraya Pasir Gudang,2022-01-01,27.27,72.73
+Johor,Majlis Daerah Kota Tinggi,2021-01-01,22.73,77.27
+Johor,Majlis Daerah Kota Tinggi,2022-01-01,20.83,79.17
+Johor,Majlis Daerah Labis,2021-01-01,29.17,70.83
+Johor,Majlis Daerah Labis,2022-01-01,25.0,75.0
+Johor,Majlis Daerah Mersing,2021-01-01,31.82,68.18
+Johor,Majlis Daerah Mersing,2022-01-01,31.82,68.18
+Johor,Majlis Daerah Simpang Renggam,2021-01-01,20.83,79.17
+Johor,Majlis Daerah Simpang Renggam,2022-01-01,26.09,73.91
+Johor,Majlis Daerah Tangkak,2021-01-01,22.73,77.27
+Johor,Majlis Daerah Tangkak,2022-01-01,16.67,83.33
+Johor,Majlis Daerah Yong Peng,2021-01-01,8.33,91.67
+Johor,Majlis Daerah Yong Peng,2022-01-01,25.0,75.0
+Johor,Majlis Perbandaran Batu Pahat,2021-01-01,16.67,83.33
+Johor,Majlis Perbandaran Batu Pahat,2022-01-01,20.83,79.17
+Johor,Majlis Perbandaran Kluang,2021-01-01,41.67,58.33
+Johor,Majlis Perbandaran Kluang,2022-01-01,54.55,45.45
+Johor,Majlis Perbandaran Kulai,2021-01-01,8.33,91.67
+Johor,Majlis Perbandaran Kulai,2022-01-01,4.17,95.83
+Johor,Majlis Perbandaran Muar,2021-01-01,20.83,79.17
+Johor,Majlis Perbandaran Muar,2022-01-01,30.43,69.57
+Johor,Majlis Perbandaran Pengerang,2021-01-01,15.79,84.21
+Johor,Majlis Perbandaran Pengerang,2022-01-01,17.39,82.61
+Johor,Majlis Perbandaran Pontian,2021-01-01,26.09,73.91
+Johor,Majlis Perbandaran Pontian,2022-01-01,16.67,83.33
+Johor,Majlis Perbandaran Segamat,2021-01-01,16.67,83.33
+Johor,Majlis Perbandaran Segamat,2022-01-01,16.67,83.33
+Kedah,All,2019-01-01,16.79,83.21
+Kedah,All,2020-01-01,17.83,82.17
+Kedah,All,2021-01-01,19.62,80.38
+Kedah,All,2022-01-01,17.27,82.73
+Kedah,Majlis Bandaraya Alor Setar,2021-01-01,17.65,82.35
+Kedah,Majlis Bandaraya Alor Setar,2022-01-01,0.0,100.0
+Kedah,Majlis Daerah Baling,2021-01-01,22.22,77.78
+Kedah,Majlis Daerah Baling,2022-01-01,25.0,75.0
+Kedah,Majlis Daerah Bandar Baharu,2021-01-01,16.67,83.33
+Kedah,Majlis Daerah Bandar Baharu,2022-01-01,16.67,83.33
+Kedah,Majlis Daerah Padang Terap,2021-01-01,22.22,77.78
+Kedah,Majlis Daerah Padang Terap,2022-01-01,15.0,85.0
+Kedah,Majlis Daerah Pendang,2021-01-01,11.76,88.24
+Kedah,Majlis Daerah Pendang,2022-01-01,16.0,84.0
+Kedah,Majlis Daerah Sik,2021-01-01,38.89,61.11
+Kedah,Majlis Daerah Sik,2022-01-01,30.43,69.57
+Kedah,Majlis Daerah Yan,2021-01-01,11.76,88.24
+Kedah,Majlis Daerah Yan,2022-01-01,11.11,88.89
+Kedah,Majlis Perbandaran Kubang Pasu,2021-01-01,16.67,83.33
+Kedah,Majlis Perbandaran Kubang Pasu,2022-01-01,26.09,73.91
+Kedah,Majlis Perbandaran Kulim,2021-01-01,16.67,83.33
+Kedah,Majlis Perbandaran Kulim,2022-01-01,12.0,88.0
+Kedah,Majlis Perbandaran Langkawi,2021-01-01,23.53,76.47
+Kedah,Majlis Perbandaran Langkawi,2022-01-01,25.0,75.0
+Kedah,Majlis Perbandaran Sungai Petani,2021-01-01,22.22,77.78
+Kedah,Majlis Perbandaran Sungai Petani,2022-01-01,27.78,72.22
+Kelantan,All,2019-01-01,10.49,89.51
+Kelantan,All,2020-01-01,12.5,87.5
+Kelantan,All,2021-01-01,13.59,86.41
+Kelantan,All,2022-01-01,11.81,88.19
+Kelantan,Majlis Daerah Bachok,2021-01-01,12.5,87.5
+Kelantan,Majlis Daerah Bachok,2022-01-01,17.39,82.61
+Kelantan,Majlis Daerah Dabong,2021-01-01,20.83,79.17
+Kelantan,Majlis Daerah Dabong,2022-01-01,0.0,100.0
+Kelantan,Majlis Daerah Gua Musang,2021-01-01,8.33,91.67
+Kelantan,Majlis Daerah Gua Musang,2022-01-01,8.33,91.67
+Kelantan,Majlis Daerah Jeli,2021-01-01,16.67,83.33
+Kelantan,Majlis Daerah Jeli,2022-01-01,16.67,83.33
+Kelantan,Majlis Daerah Ketereh,2021-01-01,12.5,87.5
+Kelantan,Majlis Daerah Ketereh,2022-01-01,15.0,85.0
+Kelantan,Majlis Daerah Kuala Krai,2021-01-01,29.17,70.83
+Kelantan,Majlis Daerah Kuala Krai,2022-01-01,25.0,75.0
+Kelantan,Majlis Daerah Machang,2021-01-01,12.5,87.5
+Kelantan,Majlis Daerah Machang,2022-01-01,17.39,82.61
+Kelantan,Majlis Daerah Pasir Mas,2021-01-01,8.7,91.3
+Kelantan,Majlis Daerah Pasir Mas,2022-01-01,8.33,91.67
+Kelantan,Majlis Daerah Pasir Puteh,2021-01-01,8.33,91.67
+Kelantan,Majlis Daerah Pasir Puteh,2022-01-01,9.09,90.91
+Kelantan,Majlis Daerah Tanah Merah,2021-01-01,12.5,87.5
+Kelantan,Majlis Daerah Tanah Merah,2022-01-01,0.0,100.0
+Kelantan,Majlis Daerah Tumpat,2021-01-01,8.33,91.67
+Kelantan,Majlis Daerah Tumpat,2022-01-01,12.5,87.5
+Kelantan,Majlis Perbandaran Kota Bharu,2021-01-01,12.5,87.5
+Kelantan,Majlis Perbandaran Kota Bharu,2022-01-01,9.09,90.91
+Melaka,All,2019-01-01,10.99,89.01
+Melaka,All,2020-01-01,10.23,89.77
+Melaka,All,2021-01-01,11.82,88.18
+Melaka,All,2022-01-01,15.45,84.55
+Melaka,Majlis Bandaraya Melaka Bersejarah,2021-01-01,3.57,96.43
+Melaka,Majlis Bandaraya Melaka Bersejarah,2022-01-01,17.86,82.14
+Melaka,Majlis Perbandaran Alor Gajah,2021-01-01,3.57,96.43
+Melaka,Majlis Perbandaran Alor Gajah,2022-01-01,3.85,96.15
+Melaka,Majlis Perbandaran Hang Tuah Jaya,2021-01-01,23.08,76.92
+Melaka,Majlis Perbandaran Hang Tuah Jaya,2022-01-01,25.0,75.0
+Melaka,Majlis Perbandaran Jasin,2021-01-01,17.86,82.14
+Melaka,Majlis Perbandaran Jasin,2022-01-01,14.29,85.71
+Negeri Sembilan,All,2019-01-01,18.1,81.9
+Negeri Sembilan,All,2020-01-01,20.0,80.0
+Negeri Sembilan,All,2021-01-01,20.12,79.88
+Negeri Sembilan,All,2022-01-01,20.99,79.01
+Negeri Sembilan,Majlis Bandaraya Seremban,2021-01-01,16.67,83.33
+Negeri Sembilan,Majlis Bandaraya Seremban,2022-01-01,16.67,83.33
+Negeri Sembilan,Majlis Daerah Jelebu,2021-01-01,25.0,75.0
+Negeri Sembilan,Majlis Daerah Jelebu,2022-01-01,21.74,78.26
+Negeri Sembilan,Majlis Daerah Kuala Pilah,2021-01-01,17.39,82.61
+Negeri Sembilan,Majlis Daerah Kuala Pilah,2022-01-01,22.73,77.27
+Negeri Sembilan,Majlis Daerah Rembau,2021-01-01,26.09,73.91
+Negeri Sembilan,Majlis Daerah Rembau,2022-01-01,28.57,71.43
+Negeri Sembilan,Majlis Daerah Tampin,2021-01-01,13.64,86.36
+Negeri Sembilan,Majlis Daerah Tampin,2022-01-01,16.67,83.33
+Negeri Sembilan,Majlis Perbandaran Jempol,2021-01-01,12.5,87.5
+Negeri Sembilan,Majlis Perbandaran Jempol,2022-01-01,12.5,87.5
+Negeri Sembilan,Majlis Perbandaran Port Dickson,2021-01-01,29.17,70.83
+Negeri Sembilan,Majlis Perbandaran Port Dickson,2022-01-01,29.17,70.83
+Pahang,All,2020-01-01,20.99,79.01
+Pahang,All,2021-01-01,17.41,82.59
+Pahang,All,2022-01-01,19.2,80.8
+Pahang,Majlis Bandaraya Kuantan,2021-01-01,36.0,64.0
+Pahang,Majlis Bandaraya Kuantan,2022-01-01,32.0,68.0
+Pahang,Majlis Daerah Bera,2021-01-01,25.0,75.0
+Pahang,Majlis Daerah Bera,2022-01-01,27.78,72.22
+Pahang,Majlis Daerah Cameron Highlands,2021-01-01,18.18,81.82
+Pahang,Majlis Daerah Cameron Highlands,2022-01-01,28.57,71.43
+Pahang,Majlis Daerah Jerantut,2021-01-01,24.0,76.0
+Pahang,Majlis Daerah Jerantut,2022-01-01,22.22,77.78
+Pahang,Majlis Daerah Lipis,2021-01-01,20.0,80.0
+Pahang,Majlis Daerah Lipis,2022-01-01,20.0,80.0
+Pahang,Majlis Daerah Maran,2021-01-01,12.0,88.0
+Pahang,Majlis Daerah Maran,2022-01-01,12.5,87.5
+Pahang,Majlis Daerah Pekan,2021-01-01,4.0,96.0
+Pahang,Majlis Daerah Pekan,2022-01-01,8.7,91.3
+Pahang,Majlis Daerah Raub,2021-01-01,12.0,88.0
+Pahang,Majlis Daerah Raub,2022-01-01,13.64,86.36
+Pahang,Majlis Daerah Rompin,2021-01-01,4.0,96.0
+Pahang,Majlis Daerah Rompin,2022-01-01,4.17,95.83
+Pahang,Majlis Perbandaran Bentong,2021-01-01,16.67,83.33
+Pahang,Majlis Perbandaran Bentong,2022-01-01,16.67,83.33
+Pahang,Majlis Perbandaran Temerloh,2021-01-01,20.0,80.0
+Pahang,Majlis Perbandaran Temerloh,2022-01-01,22.73,77.27
+Perak,All,2019-01-01,16.84,83.16
+Perak,All,2020-01-01,17.98,82.02
+Perak,All,2021-01-01,17.38,82.62
+Perak,All,2022-01-01,20.06,79.94
+Perak,Majlis Bandaraya Ipoh,2021-01-01,8.0,92.0
+Perak,Majlis Bandaraya Ipoh,2022-01-01,8.33,91.67
+Perak,Majlis Daerah Batu Gajah,2021-01-01,8.0,92.0
+Perak,Majlis Daerah Batu Gajah,2022-01-01,8.33,91.67
+Perak,Majlis Daerah Gerik,2021-01-01,16.0,84.0
+Perak,Majlis Daerah Gerik,2022-01-01,11.76,88.24
+Perak,Majlis Daerah Kampar,2021-01-01,28.0,72.0
+Perak,Majlis Daerah Kampar,2022-01-01,29.17,70.83
+Perak,Majlis Daerah Kerian,2021-01-01,12.0,88.0
+Perak,Majlis Daerah Kerian,2022-01-01,22.73,77.27
+Perak,Majlis Daerah Lenggong,2021-01-01,20.0,80.0
+Perak,Majlis Daerah Lenggong,2022-01-01,41.67,58.33
+Perak,Majlis Daerah Pengkalan Hulu,2021-01-01,20.0,80.0
+Perak,Majlis Daerah Pengkalan Hulu,2022-01-01,18.75,81.25
+Perak,Majlis Daerah Perak Tengah,2021-01-01,12.0,88.0
+Perak,Majlis Daerah Perak Tengah,2022-01-01,26.67,73.33
+Perak,Majlis Daerah Selama,2021-01-01,20.83,79.17
+Perak,Majlis Daerah Selama,2022-01-01,37.5,62.5
+Perak,Majlis Daerah Tanjong Malim,2021-01-01,12.0,88.0
+Perak,Majlis Daerah Tanjong Malim,2022-01-01,17.39,82.61
+Perak,Majlis Daerah Tapah,2021-01-01,36.0,64.0
+Perak,Majlis Daerah Tapah,2022-01-01,26.09,73.91
+Perak,Majlis Perbandaran Kuala Kangsar,2021-01-01,20.0,80.0
+Perak,Majlis Perbandaran Kuala Kangsar,2022-01-01,19.23,80.77
+Perak,Majlis Perbandaran Manjung,2021-01-01,16.0,84.0
+Perak,Majlis Perbandaran Manjung,2022-01-01,16.0,84.0
+Perak,Majlis Perbandaran Taiping,2021-01-01,16.0,84.0
+Perak,Majlis Perbandaran Taiping,2022-01-01,16.67,83.33
+Perak,Majlis Perbandaran Teluk Intan,2021-01-01,16.0,84.0
+Perak,Majlis Perbandaran Teluk Intan,2022-01-01,17.39,82.61
+Perlis,Majlis Perbandaran Kangar,2019-01-01,30.43,69.57
+Perlis,Majlis Perbandaran Kangar,2020-01-01,30.43,69.57
+Perlis,Majlis Perbandaran Kangar,2021-01-01,30.43,69.57
+Perlis,Majlis Perbandaran Kangar,2022-01-01,20.83,79.17
+Pulau Pinang,All,2019-01-01,18.75,81.25
+Pulau Pinang,All,2020-01-01,20.83,79.17
+Pulau Pinang,All,2021-01-01,18.75,81.25
+Pulau Pinang,All,2022-01-01,18.37,81.63
+Pulau Pinang,Majlis Bandaraya Pulau Pinang,2021-01-01,16.67,83.33
+Pulau Pinang,Majlis Bandaraya Pulau Pinang,2022-01-01,16.0,84.0
+Pulau Pinang,Majlis Bandaraya Seberang Perai,2021-01-01,20.83,79.17
+Pulau Pinang,Majlis Bandaraya Seberang Perai,2022-01-01,20.83,79.17
+Sabah,All,2021-01-01,21.52,78.48
+Sabah,All,2022-01-01,20.0,80.0
+Sabah,Dewan Bandaraya Kota Kinabalu,2021-01-01,50.0,50.0
+Sabah,Lembaga Bandaran Kudat,2021-01-01,30.0,70.0
+Sabah,Majlis Daerah Beaufort,2021-01-01,25.0,75.0
+Sabah,Majlis Daerah Beluran,2021-01-01,22.22,77.78
+Sabah,Majlis Daerah Keningau,2021-01-01,10.53,89.47
+Sabah,Majlis Daerah Kinabatangan,2021-01-01,16.67,83.33
+Sabah,Majlis Daerah Kota Belud,2021-01-01,16.67,83.33
+Sabah,Majlis Daerah Kota Belud,2022-01-01,16.67,83.33
+Sabah,Majlis Daerah Kota Marudu,2021-01-01,16.67,83.33
+Sabah,Majlis Daerah Kuala Penyu,2021-01-01,22.22,77.78
+Sabah,Majlis Daerah Kunak,2021-01-01,22.22,77.78
+Sabah,Majlis Daerah Lahad Datu,2021-01-01,20.0,80.0
+Sabah,Majlis Daerah Nabawan,2021-01-01,22.22,77.78
+Sabah,Majlis Daerah Papar,2021-01-01,20.0,80.0
+Sabah,Majlis Daerah Penampang,2021-01-01,25.0,75.0
+Sabah,Majlis Daerah Penampang,2022-01-01,25.0,75.0
+Sabah,Majlis Daerah Pitas,2021-01-01,11.11,88.89
+Sabah,Majlis Daerah Putatan,2021-01-01,27.78,72.22
+Sabah,Majlis Daerah Putatan,2022-01-01,27.78,72.22
+Sabah,Majlis Daerah Ranau,2021-01-01,22.22,77.78
+Sabah,Majlis Daerah Semporna,2021-01-01,27.78,72.22
+Sabah,Majlis Daerah Sipitang,2021-01-01,16.67,83.33
+Sabah,Majlis Daerah Tambunan,2021-01-01,27.78,72.22
+Sabah,Majlis Daerah Telupid,2021-01-01,27.78,72.22
+Sabah,Majlis Daerah Tenom,2021-01-01,11.11,88.89
+Sabah,Majlis Daerah Tongod,2021-01-01,27.78,72.22
+Sabah,Majlis Daerah Tuaran,2021-01-01,20.0,80.0
+Sabah,Majlis Perbandaran Sandakan,2021-01-01,20.0,80.0
+Sabah,Majlis Perbandaran Sandakan,2022-01-01,12.0,88.0
+Sabah,Majlis Perbandaran Tawau,2021-01-01,12.5,87.5
+Sarawak,All,2021-01-01,14.89,85.11
+Sarawak,All,2022-01-01,16.51,83.49
+Sarawak,Dewan Bandaraya Kuching Utara,2022-01-01,20.0,80.0
+Sarawak,Majlis Bandaraya Kuching Selatan,2021-01-01,21.88,78.13
+Sarawak,Majlis Bandaraya Kuching Selatan,2022-01-01,22.58,77.42
+Sarawak,Majlis Bandaraya Miri,2021-01-01,21.88,78.13
+Sarawak,Majlis Bandaraya Miri,2022-01-01,18.75,81.25
+Sarawak,Majlis Daerah Bau,2021-01-01,18.75,81.25
+Sarawak,Majlis Daerah Bau,2022-01-01,18.75,81.25
+Sarawak,Majlis Daerah Betong,2021-01-01,3.45,96.55
+Sarawak,Majlis Daerah Betong,2022-01-01,3.57,96.43
+Sarawak,Majlis Daerah Dalat & Mukah,2021-01-01,21.21,78.79
+Sarawak,Majlis Daerah Kanowit,2021-01-01,16.13,83.87
+Sarawak,Majlis Daerah Kanowit,2022-01-01,16.13,83.87
+Sarawak,Majlis Daerah Kapit,2021-01-01,12.5,87.5
+Sarawak,Majlis Daerah Kapit,2022-01-01,12.5,87.5
+Sarawak,Majlis Daerah Lawas,2021-01-01,18.75,81.25
+Sarawak,Majlis Daerah Lawas,2022-01-01,12.5,87.5
+Sarawak,Majlis Daerah Limbang,2021-01-01,25.0,75.0
+Sarawak,Majlis Daerah Limbang,2022-01-01,28.13,71.88
+Sarawak,Majlis Daerah Luar Bandar Sibu,2021-01-01,6.25,93.75
+Sarawak,Majlis Daerah Luar Bandar Sibu,2022-01-01,3.13,96.88
+Sarawak,Majlis Daerah Lubok Antu,2021-01-01,3.7,96.3
+Sarawak,Majlis Daerah Lubok Antu,2022-01-01,3.13,96.88
+Sarawak,Majlis Daerah Lundu,2021-01-01,6.25,93.75
+Sarawak,Majlis Daerah Lundu,2022-01-01,18.75,81.25
+Sarawak,Majlis Daerah Maradong & Julau,2021-01-01,13.79,86.21
+Sarawak,Majlis Daerah Maradong & Julau,2022-01-01,6.25,93.75
+Sarawak,Majlis Daerah Marudi,2021-01-01,15.63,84.38
+Sarawak,Majlis Daerah Marudi,2022-01-01,15.63,84.38
+Sarawak,Majlis Daerah Matu & Daro,2021-01-01,21.88,78.13
+Sarawak,Majlis Daerah Matu & Daro,2022-01-01,21.88,78.13
+Sarawak,Majlis Daerah Saratok,2021-01-01,9.38,90.63
+Sarawak,Majlis Daerah Saratok,2022-01-01,13.79,86.21
+Sarawak,Majlis Daerah Sarikei,2021-01-01,19.35,80.65
+Sarawak,Majlis Daerah Sarikei,2022-01-01,25.0,75.0
+Sarawak,Majlis Daerah Serian,2021-01-01,12.5,87.5
+Sarawak,Majlis Daerah Serian,2022-01-01,12.5,87.5
+Sarawak,Majlis Daerah Simunjan,2021-01-01,9.68,90.32
+Sarawak,Majlis Daerah Simunjan,2022-01-01,10.0,90.0
+Sarawak,Majlis Daerah Sri Aman,2021-01-01,12.5,87.5
+Sarawak,Majlis Daerah Sri Aman,2022-01-01,25.0,75.0
+Sarawak,Majlis Daerah Subis,2021-01-01,15.63,84.38
+Sarawak,Majlis Daerah Subis,2022-01-01,18.75,81.25
+Sarawak,Majlis Perbandaran Kota Samarahan,2021-01-01,15.63,84.38
+Sarawak,Majlis Perbandaran Kota Samarahan,2022-01-01,21.88,78.13
+Sarawak,Majlis Perbandaran Padawan,2021-01-01,17.24,82.76
+Sarawak,Majlis Perbandaran Padawan,2022-01-01,20.69,79.31
+Sarawak,Majlis Perbandaran Sibu,2021-01-01,15.63,84.38
+Sarawak,Majlis Perbandaran Sibu,2022-01-01,28.13,71.88
+Selangor,All,2019-01-01,20.14,79.86
+Selangor,All,2020-01-01,24.91,75.09
+Selangor,All,2021-01-01,26.16,73.84
+Selangor,All,2022-01-01,25.18,74.82
+Selangor,Majlis Bandaraya Petaling Jaya,2021-01-01,33.33,66.67
+Selangor,Majlis Bandaraya Petaling Jaya,2022-01-01,37.5,62.5
+Selangor,Majlis Bandaraya Shah Alam,2021-01-01,34.78,65.22
+Selangor,Majlis Bandaraya Shah Alam,2022-01-01,29.17,70.83
+Selangor,Majlis Bandaraya Subang Jaya,2021-01-01,16.67,83.33
+Selangor,Majlis Bandaraya Subang Jaya,2022-01-01,16.67,83.33
+Selangor,Majlis Daerah Sabak Bernam,2021-01-01,39.13,60.87
+Selangor,Majlis Daerah Sabak Bernam,2022-01-01,32.0,68.0
+Selangor,Majlis Perbandaran Ampang Jaya,2021-01-01,20.83,79.17
+Selangor,Majlis Perbandaran Ampang Jaya,2022-01-01,20.83,79.17
+Selangor,Majlis Perbandaran Hulu Selangor,2021-01-01,47.83,52.17
+Selangor,Majlis Perbandaran Hulu Selangor,2022-01-01,43.48,56.52
+Selangor,Majlis Perbandaran Kajang,2021-01-01,30.43,69.57
+Selangor,Majlis Perbandaran Kajang,2022-01-01,33.33,66.67
+Selangor,Majlis Perbandaran Klang,2021-01-01,13.04,86.96
+Selangor,Majlis Perbandaran Klang,2022-01-01,12.5,87.5
+Selangor,Majlis Perbandaran Kuala Langat,2021-01-01,21.74,78.26
+Selangor,Majlis Perbandaran Kuala Langat,2022-01-01,26.09,73.91
+Selangor,Majlis Perbandaran Kuala Selangor,2021-01-01,17.39,82.61
+Selangor,Majlis Perbandaran Kuala Selangor,2022-01-01,16.67,83.33
+Selangor,Majlis Perbandaran Selayang,2021-01-01,21.74,78.26
+Selangor,Majlis Perbandaran Selayang,2022-01-01,20.83,79.17
+Selangor,Majlis Perbandaran Sepang,2021-01-01,17.39,82.61
+Selangor,Majlis Perbandaran Sepang,2022-01-01,16.0,84.0
+Terengganu,All,2019-01-01,9.71,90.29
+Terengganu,All,2020-01-01,11.31,88.69
+Terengganu,All,2021-01-01,12.29,87.71
+Terengganu,All,2022-01-01,12.5,87.5
+Terengganu,Majlis Bandaraya Kuala Terengganu,2021-01-01,0.0,100.0
+Terengganu,Majlis Bandaraya Kuala Terengganu,2022-01-01,0.0,100.0
+Terengganu,Majlis Daerah Besut,2021-01-01,8.0,92.0
+Terengganu,Majlis Daerah Besut,2022-01-01,8.0,92.0
+Terengganu,Majlis Daerah Hulu Terengganu,2021-01-01,28.0,72.0
+Terengganu,Majlis Daerah Hulu Terengganu,2022-01-01,24.0,76.0
+Terengganu,Majlis Daerah Marang,2021-01-01,8.0,92.0
+Terengganu,Majlis Daerah Marang,2022-01-01,16.0,84.0
+Terengganu,Majlis Daerah Setiu,2021-01-01,16.0,84.0
+Terengganu,Majlis Daerah Setiu,2022-01-01,20.0,80.0
+Terengganu,Majlis Perbandaran Dungun,2021-01-01,12.0,88.0
+Terengganu,Majlis Perbandaran Dungun,2022-01-01,12.0,88.0
+Terengganu,Majlis Perbandaran Kemaman,2021-01-01,13.79,86.21
+Terengganu,Majlis Perbandaran Kemaman,2022-01-01,8.33,91.67
+W.P. Kuala Lumpur,Dewan Bandaraya Kuala Lumpur,2022-01-01,26.67,73.33
+W.P. Labuan,Perbadanan Labuan,2022-01-01,28.57,71.43
+W.P. Putrajaya,Perbadanan Putrajaya,2022-01-01,0.0,100.0

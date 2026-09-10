@@ -1,0 +1,1369 @@
+date,coast,state,landings
+2018-01-01,all,Malaysia,97405
+2018-02-01,all,Malaysia,97467
+2018-03-01,all,Malaysia,117813
+2018-04-01,all,Malaysia,127202
+2018-05-01,all,Malaysia,129453
+2018-06-01,all,Malaysia,128464
+2018-07-01,all,Malaysia,132056
+2018-08-01,all,Malaysia,132023
+2018-09-01,all,Malaysia,132223
+2018-10-01,all,Malaysia,131884
+2018-11-01,all,Malaysia,120240
+2018-12-01,all,Malaysia,106543
+2019-01-01,all,Malaysia,100462
+2019-02-01,all,Malaysia,104522
+2019-03-01,all,Malaysia,125360
+2019-04-01,all,Malaysia,131565
+2019-05-01,all,Malaysia,129754
+2019-06-01,all,Malaysia,125809
+2019-07-01,all,Malaysia,126728
+2019-08-01,all,Malaysia,125668
+2019-09-01,all,Malaysia,132718
+2019-10-01,all,Malaysia,133859
+2019-11-01,all,Malaysia,122082
+2019-12-01,all,Malaysia,96825
+2020-01-01,all,Malaysia,99867
+2020-02-01,all,Malaysia,121782
+2020-03-01,all,Malaysia,111214
+2020-04-01,all,Malaysia,104408
+2020-05-01,all,Malaysia,108295
+2020-06-01,all,Malaysia,124092
+2020-07-01,all,Malaysia,122060
+2020-08-01,all,Malaysia,126611
+2020-09-01,all,Malaysia,123311
+2020-10-01,all,Malaysia,123181
+2020-11-01,all,Malaysia,116856
+2020-12-01,all,Malaysia,101625
+2021-01-01,all,Malaysia,90179
+2021-02-01,all,Malaysia,92061
+2021-03-01,all,Malaysia,115532
+2021-04-01,all,Malaysia,121013
+2021-05-01,all,Malaysia,116078
+2021-06-01,all,Malaysia,114944
+2021-07-01,all,Malaysia,124343
+2021-08-01,all,Malaysia,125226
+2021-09-01,all,Malaysia,116715
+2021-10-01,all,Malaysia,117695
+2021-11-01,all,Malaysia,103996
+2021-12-01,all,Malaysia,90170
+2022-01-01,all,Malaysia,91102
+2022-02-01,all,Malaysia,98025
+2022-03-01,all,Malaysia,117950
+2022-04-01,all,Malaysia,127996
+2022-05-01,all,Malaysia,114772
+2022-06-01,all,Malaysia,115104
+2022-07-01,all,Malaysia,119858
+2022-08-01,all,Malaysia,120914
+2022-09-01,all,Malaysia,111056
+2022-10-01,all,Malaysia,108029
+2022-11-01,all,Malaysia,97884
+2022-12-01,all,Malaysia,85726
+2023-01-01,all,Malaysia,80422
+2023-02-01,all,Malaysia,85853
+2023-03-01,all,Malaysia,100296
+2023-04-01,all,Malaysia,106361
+2023-05-01,all,Malaysia,112338
+2023-06-01,all,Malaysia,115663
+2023-07-01,all,Malaysia,120006
+2023-08-01,all,Malaysia,111734
+2023-09-01,all,Malaysia,113007
+2023-10-01,all,Malaysia,119579
+2023-11-01,all,Malaysia,114726
+2023-12-01,all,Malaysia,90300
+2018-01-01,east,All States,16564
+2018-02-01,east,All States,17149
+2018-03-01,east,All States,21870
+2018-04-01,east,All States,28292
+2018-05-01,east,All States,28163
+2018-06-01,east,All States,29412
+2018-07-01,east,All States,26357
+2018-08-01,east,All States,26735
+2018-09-01,east,All States,31496
+2018-10-01,east,All States,33155
+2018-11-01,east,All States,25049
+2018-12-01,east,All States,17873
+2019-01-01,east,All States,14858
+2019-02-01,east,All States,17316
+2019-03-01,east,All States,25939
+2019-04-01,east,All States,27381
+2019-05-01,east,All States,24960
+2019-06-01,east,All States,23635
+2019-07-01,east,All States,24643
+2019-08-01,east,All States,23004
+2019-09-01,east,All States,28859
+2019-10-01,east,All States,29108
+2019-11-01,east,All States,20218
+2019-12-01,east,All States,8201
+2020-01-01,east,All States,10751
+2020-02-01,east,All States,14874
+2020-03-01,east,All States,24572
+2020-04-01,east,All States,26362
+2020-05-01,east,All States,24137
+2020-06-01,east,All States,23734
+2020-07-01,east,All States,22533
+2020-08-01,east,All States,29841
+2020-09-01,east,All States,28919
+2020-10-01,east,All States,26364
+2020-11-01,east,All States,15914
+2020-12-01,east,All States,9281
+2021-01-01,east,All States,7235
+2021-02-01,east,All States,12747
+2021-03-01,east,All States,15834
+2021-04-01,east,All States,20347
+2021-05-01,east,All States,18636
+2021-06-01,east,All States,19600
+2021-07-01,east,All States,21293
+2021-08-01,east,All States,22889
+2021-09-01,east,All States,24240
+2021-10-01,east,All States,23007
+2021-11-01,east,All States,13319
+2021-12-01,east,All States,8872
+2022-01-01,east,All States,10225
+2022-02-01,east,All States,13300
+2022-03-01,east,All States,17563
+2022-04-01,east,All States,22757
+2022-05-01,east,All States,22810
+2022-06-01,east,All States,20895
+2022-07-01,east,All States,21808
+2022-08-01,east,All States,22608
+2022-09-01,east,All States,23236
+2022-10-01,east,All States,23342
+2022-11-01,east,All States,18540
+2022-12-01,east,All States,10287
+2023-01-01,east,All States,8944
+2023-02-01,east,All States,12543
+2023-03-01,east,All States,18079
+2023-04-01,east,All States,24129
+2023-05-01,east,All States,22860
+2023-06-01,east,All States,23945
+2023-07-01,east,All States,25164
+2023-08-01,east,All States,22934
+2023-09-01,east,All States,26439
+2023-10-01,east,All States,28408
+2023-11-01,east,All States,18737
+2023-12-01,east,All States,9929
+2018-01-01,west,All States,58199
+2018-02-01,west,All States,56607
+2018-03-01,west,All States,61276
+2018-04-01,west,All States,64012
+2018-05-01,west,All States,67884
+2018-06-01,west,All States,66930
+2018-07-01,west,All States,71930
+2018-08-01,west,All States,72863
+2018-09-01,west,All States,69640
+2018-10-01,west,All States,68071
+2018-11-01,west,All States,66729
+2018-12-01,west,All States,63548
+2019-01-01,west,All States,62018
+2019-02-01,west,All States,61554
+2019-03-01,west,All States,65858
+2019-04-01,west,All States,66550
+2019-05-01,west,All States,68042
+2019-06-01,west,All States,68967
+2019-07-01,west,All States,69511
+2019-08-01,west,All States,69358
+2019-09-01,west,All States,72608
+2019-10-01,west,All States,74902
+2019-11-01,west,All States,72550
+2019-12-01,west,All States,63844
+2020-01-01,west,All States,64392
+2020-02-01,west,All States,79240
+2020-03-01,west,All States,57812
+2020-04-01,west,All States,50356
+2020-05-01,west,All States,53548
+2020-06-01,west,All States,67128
+2020-07-01,west,All States,66800
+2020-08-01,west,All States,64605
+2020-09-01,west,All States,64441
+2020-10-01,west,All States,70037
+2020-11-01,west,All States,73049
+2020-12-01,west,All States,65959
+2021-01-01,west,All States,61320
+2021-02-01,west,All States,56442
+2021-03-01,west,All States,59977
+2021-04-01,west,All States,61719
+2021-05-01,west,All States,60884
+2021-06-01,west,All States,61231
+2021-07-01,west,All States,66608
+2021-08-01,west,All States,64164
+2021-09-01,west,All States,64283
+2021-10-01,west,All States,66390
+2021-11-01,west,All States,65878
+2021-12-01,west,All States,58120
+2022-01-01,west,All States,58335
+2022-02-01,west,All States,60528
+2022-03-01,west,All States,63762
+2022-04-01,west,All States,66129
+2022-05-01,west,All States,55521
+2022-06-01,west,All States,64459
+2022-07-01,west,All States,67507
+2022-08-01,west,All States,66701
+2022-09-01,west,All States,59742
+2022-10-01,west,All States,57370
+2022-11-01,west,All States,54266
+2022-12-01,west,All States,54303
+2023-01-01,west,All States,52007
+2023-02-01,west,All States,53916
+2023-03-01,west,All States,53228
+2023-04-01,west,All States,52783
+2023-05-01,west,All States,57875
+2023-06-01,west,All States,61066
+2023-07-01,west,All States,62614
+2023-08-01,west,All States,60585
+2023-09-01,west,All States,58663
+2023-10-01,west,All States,62969
+2023-11-01,west,All States,69296
+2023-12-01,west,All States,57282
+2018-01-01,borneo,All States,22642
+2018-02-01,borneo,All States,23711
+2018-03-01,borneo,All States,34667
+2018-04-01,borneo,All States,34898
+2018-05-01,borneo,All States,33406
+2018-06-01,borneo,All States,32122
+2018-07-01,borneo,All States,33769
+2018-08-01,borneo,All States,32425
+2018-09-01,borneo,All States,31087
+2018-10-01,borneo,All States,30658
+2018-11-01,borneo,All States,28462
+2018-12-01,borneo,All States,25122
+2019-01-01,borneo,All States,23586
+2019-02-01,borneo,All States,25652
+2019-03-01,borneo,All States,33563
+2019-04-01,borneo,All States,37634
+2019-05-01,borneo,All States,36752
+2019-06-01,borneo,All States,33207
+2019-07-01,borneo,All States,32574
+2019-08-01,borneo,All States,33306
+2019-09-01,borneo,All States,31251
+2019-10-01,borneo,All States,29849
+2019-11-01,borneo,All States,29314
+2019-12-01,borneo,All States,24780
+2020-01-01,borneo,All States,24724
+2020-02-01,borneo,All States,27668
+2020-03-01,borneo,All States,28830
+2020-04-01,borneo,All States,27690
+2020-05-01,borneo,All States,30610
+2020-06-01,borneo,All States,33230
+2020-07-01,borneo,All States,32727
+2020-08-01,borneo,All States,32165
+2020-09-01,borneo,All States,29951
+2020-10-01,borneo,All States,26780
+2020-11-01,borneo,All States,27893
+2020-12-01,borneo,All States,26385
+2021-01-01,borneo,All States,21624
+2021-02-01,borneo,All States,22872
+2021-03-01,borneo,All States,39721
+2021-04-01,borneo,All States,38947
+2021-05-01,borneo,All States,36558
+2021-06-01,borneo,All States,34113
+2021-07-01,borneo,All States,36442
+2021-08-01,borneo,All States,38173
+2021-09-01,borneo,All States,28192
+2021-10-01,borneo,All States,28298
+2021-11-01,borneo,All States,24799
+2021-12-01,borneo,All States,23178
+2022-01-01,borneo,All States,22542
+2022-02-01,borneo,All States,24197
+2022-03-01,borneo,All States,36625
+2022-04-01,borneo,All States,39110
+2022-05-01,borneo,All States,36441
+2022-06-01,borneo,All States,29750
+2022-07-01,borneo,All States,30543
+2022-08-01,borneo,All States,31605
+2022-09-01,borneo,All States,28078
+2022-10-01,borneo,All States,27317
+2022-11-01,borneo,All States,25078
+2022-12-01,borneo,All States,21136
+2023-01-01,borneo,All States,19471
+2023-02-01,borneo,All States,19394
+2023-03-01,borneo,All States,28989
+2023-04-01,borneo,All States,29449
+2023-05-01,borneo,All States,31603
+2023-06-01,borneo,All States,30652
+2023-07-01,borneo,All States,32228
+2023-08-01,borneo,All States,28215
+2023-09-01,borneo,All States,27905
+2023-10-01,borneo,All States,28202
+2023-11-01,borneo,All States,26693
+2023-12-01,borneo,All States,23089
+2018-01-01,west,Perlis,6932
+2018-01-01,west,Kedah,10892
+2018-01-01,west,Pulau Pinang,4883
+2018-01-01,west,Perak,21134
+2018-01-01,west,Selangor,11908
+2018-01-01,west,Negeri Sembilan,47
+2018-01-01,west,Melaka,162
+2018-01-01,west,Johor,2241
+2018-01-01,east,Kelantan,7624
+2018-01-01,east,Terengganu,1977
+2018-01-01,east,Pahang,5642
+2018-01-01,east,Johor,1321
+2018-01-01,borneo,Sarawak,9467
+2018-01-01,borneo,Sabah,12163
+2018-01-01,borneo,W.P. Labuan,1012
+2018-02-01,west,Perlis,7314
+2018-02-01,west,Kedah,12336
+2018-02-01,west,Pulau Pinang,4174
+2018-02-01,west,Perak,18935
+2018-02-01,west,Selangor,11104
+2018-02-01,west,Negeri Sembilan,49
+2018-02-01,west,Melaka,152
+2018-02-01,west,Johor,2543
+2018-02-01,east,Kelantan,6987
+2018-02-01,east,Terengganu,2566
+2018-02-01,east,Pahang,6311
+2018-02-01,east,Johor,1285
+2018-02-01,borneo,Sarawak,10864
+2018-02-01,borneo,Sabah,11840
+2018-02-01,borneo,W.P. Labuan,1007
+2018-03-01,west,Perlis,7538
+2018-03-01,west,Kedah,12646
+2018-03-01,west,Pulau Pinang,4605
+2018-03-01,west,Perak,22277
+2018-03-01,west,Selangor,11359
+2018-03-01,west,Negeri Sembilan,55
+2018-03-01,west,Melaka,180
+2018-03-01,west,Johor,2616
+2018-03-01,east,Kelantan,7571
+2018-03-01,east,Terengganu,4320
+2018-03-01,east,Pahang,7228
+2018-03-01,east,Johor,2751
+2018-03-01,borneo,Sarawak,17903
+2018-03-01,borneo,Sabah,14744
+2018-03-01,borneo,W.P. Labuan,2020
+2018-04-01,west,Perlis,7459
+2018-04-01,west,Kedah,12915
+2018-04-01,west,Pulau Pinang,4587
+2018-04-01,west,Perak,24677
+2018-04-01,west,Selangor,11517
+2018-04-01,west,Negeri Sembilan,60
+2018-04-01,west,Melaka,164
+2018-04-01,west,Johor,2633
+2018-04-01,east,Kelantan,8421
+2018-04-01,east,Terengganu,4642
+2018-04-01,east,Pahang,12457
+2018-04-01,east,Johor,2772
+2018-04-01,borneo,Sarawak,18166
+2018-04-01,borneo,Sabah,14627
+2018-04-01,borneo,W.P. Labuan,2105
+2018-05-01,west,Perlis,8225
+2018-05-01,west,Kedah,12458
+2018-05-01,west,Pulau Pinang,4171
+2018-05-01,west,Perak,28427
+2018-05-01,west,Selangor,11708
+2018-05-01,west,Negeri Sembilan,52
+2018-05-01,west,Melaka,133
+2018-05-01,west,Johor,2710
+2018-05-01,east,Kelantan,10158
+2018-05-01,east,Terengganu,4160
+2018-05-01,east,Pahang,10243
+2018-05-01,east,Johor,3602
+2018-05-01,borneo,Sarawak,16876
+2018-05-01,borneo,Sabah,14293
+2018-05-01,borneo,W.P. Labuan,2237
+2018-06-01,west,Perlis,7628
+2018-06-01,west,Kedah,12843
+2018-06-01,west,Pulau Pinang,4232
+2018-06-01,west,Perak,27733
+2018-06-01,west,Selangor,11837
+2018-06-01,west,Negeri Sembilan,55
+2018-06-01,west,Melaka,137
+2018-06-01,west,Johor,2465
+2018-06-01,east,Kelantan,10940
+2018-06-01,east,Terengganu,2821
+2018-06-01,east,Pahang,11274
+2018-06-01,east,Johor,4377
+2018-06-01,borneo,Sarawak,15261
+2018-06-01,borneo,Sabah,14760
+2018-06-01,borneo,W.P. Labuan,2101
+2018-07-01,west,Perlis,8763
+2018-07-01,west,Kedah,13257
+2018-07-01,west,Pulau Pinang,4912
+2018-07-01,west,Perak,29234
+2018-07-01,west,Selangor,12909
+2018-07-01,west,Negeri Sembilan,53
+2018-07-01,west,Melaka,159
+2018-07-01,west,Johor,2643
+2018-07-01,east,Kelantan,7936
+2018-07-01,east,Terengganu,2869
+2018-07-01,east,Pahang,11784
+2018-07-01,east,Johor,3768
+2018-07-01,borneo,Sarawak,17130
+2018-07-01,borneo,Sabah,14436
+2018-07-01,borneo,W.P. Labuan,2203
+2018-08-01,west,Perlis,8329
+2018-08-01,west,Kedah,12956
+2018-08-01,west,Pulau Pinang,4839
+2018-08-01,west,Perak,31648
+2018-08-01,west,Selangor,12305
+2018-08-01,west,Negeri Sembilan,56
+2018-08-01,west,Melaka,178
+2018-08-01,west,Johor,2552
+2018-08-01,east,Kelantan,8907
+2018-08-01,east,Terengganu,3300
+2018-08-01,east,Pahang,11281
+2018-08-01,east,Johor,3247
+2018-08-01,borneo,Sarawak,16751
+2018-08-01,borneo,Sabah,14141
+2018-08-01,borneo,W.P. Labuan,1533
+2018-09-01,west,Perlis,7751
+2018-09-01,west,Kedah,12755
+2018-09-01,west,Pulau Pinang,4677
+2018-09-01,west,Perak,29848
+2018-09-01,west,Selangor,11830
+2018-09-01,west,Negeri Sembilan,59
+2018-09-01,west,Melaka,150
+2018-09-01,west,Johor,2570
+2018-09-01,east,Kelantan,9482
+2018-09-01,east,Terengganu,4564
+2018-09-01,east,Pahang,13217
+2018-09-01,east,Johor,4233
+2018-09-01,borneo,Sarawak,15374
+2018-09-01,borneo,Sabah,14138
+2018-09-01,borneo,W.P. Labuan,1575
+2018-10-01,west,Perlis,8275
+2018-10-01,west,Kedah,12894
+2018-10-01,west,Pulau Pinang,4854
+2018-10-01,west,Perak,27859
+2018-10-01,west,Selangor,11388
+2018-10-01,west,Negeri Sembilan,63
+2018-10-01,west,Melaka,168
+2018-10-01,west,Johor,2570
+2018-10-01,east,Kelantan,10346
+2018-10-01,east,Terengganu,5650
+2018-10-01,east,Pahang,12711
+2018-10-01,east,Johor,4448
+2018-10-01,borneo,Sarawak,15495
+2018-10-01,borneo,Sabah,13794
+2018-10-01,borneo,W.P. Labuan,1369
+2018-11-01,west,Perlis,8747
+2018-11-01,west,Kedah,11658
+2018-11-01,west,Pulau Pinang,4589
+2018-11-01,west,Perak,27313
+2018-11-01,west,Selangor,11895
+2018-11-01,west,Negeri Sembilan,57
+2018-11-01,west,Melaka,162
+2018-11-01,west,Johor,2308
+2018-11-01,east,Kelantan,6039
+2018-11-01,east,Terengganu,3323
+2018-11-01,east,Pahang,11407
+2018-11-01,east,Johor,4280
+2018-11-01,borneo,Sarawak,14352
+2018-11-01,borneo,Sabah,12826
+2018-11-01,borneo,W.P. Labuan,1284
+2018-12-01,west,Perlis,9029
+2018-12-01,west,Kedah,11662
+2018-12-01,west,Pulau Pinang,4324
+2018-12-01,west,Perak,24767
+2018-12-01,west,Selangor,11505
+2018-12-01,west,Negeri Sembilan,60
+2018-12-01,west,Melaka,161
+2018-12-01,west,Johor,2040
+2018-12-01,east,Kelantan,4998
+2018-12-01,east,Terengganu,1533
+2018-12-01,east,Pahang,7650
+2018-12-01,east,Johor,3692
+2018-12-01,borneo,Sarawak,12960
+2018-12-01,borneo,Sabah,11287
+2018-12-01,borneo,W.P. Labuan,875
+2019-01-01,west,Perlis,8759
+2019-01-01,west,Kedah,12507
+2019-01-01,west,Pulau Pinang,4866
+2019-01-01,west,Perak,21040
+2019-01-01,west,Selangor,12306
+2019-01-01,west,Negeri Sembilan,53
+2019-01-01,west,Melaka,133
+2019-01-01,west,Johor,2354
+2019-01-01,east,Kelantan,5489
+2019-01-01,east,Terengganu,1598
+2019-01-01,east,Pahang,6370
+2019-01-01,east,Johor,1401
+2019-01-01,borneo,Sarawak,10440
+2019-01-01,borneo,Sabah,12153
+2019-01-01,borneo,W.P. Labuan,993
+2019-02-01,west,Perlis,9360
+2019-02-01,west,Kedah,12886
+2019-02-01,west,Pulau Pinang,3755
+2019-02-01,west,Perak,21080
+2019-02-01,west,Selangor,11903
+2019-02-01,west,Negeri Sembilan,47
+2019-02-01,west,Melaka,157
+2019-02-01,west,Johor,2366
+2019-02-01,east,Kelantan,5260
+2019-02-01,east,Terengganu,2682
+2019-02-01,east,Pahang,7771
+2019-02-01,east,Johor,1603
+2019-02-01,borneo,Sarawak,12394
+2019-02-01,borneo,Sabah,12269
+2019-02-01,borneo,W.P. Labuan,989
+2019-03-01,west,Perlis,8257
+2019-03-01,west,Kedah,13097
+2019-03-01,west,Pulau Pinang,3764
+2019-03-01,west,Perak,24904
+2019-03-01,west,Selangor,13212
+2019-03-01,west,Negeri Sembilan,53
+2019-03-01,west,Melaka,151
+2019-03-01,west,Johor,2420
+2019-03-01,east,Kelantan,10039
+2019-03-01,east,Terengganu,3967
+2019-03-01,east,Pahang,8401
+2019-03-01,east,Johor,3532
+2019-03-01,borneo,Sarawak,18058
+2019-03-01,borneo,Sabah,13893
+2019-03-01,borneo,W.P. Labuan,1612
+2019-04-01,west,Perlis,9729
+2019-04-01,west,Kedah,13219
+2019-04-01,west,Pulau Pinang,3701
+2019-04-01,west,Perak,24062
+2019-04-01,west,Selangor,13035
+2019-04-01,west,Negeri Sembilan,55
+2019-04-01,west,Melaka,163
+2019-04-01,west,Johor,2586
+2019-04-01,east,Kelantan,9824
+2019-04-01,east,Terengganu,4547
+2019-04-01,east,Pahang,8788
+2019-04-01,east,Johor,4222
+2019-04-01,borneo,Sarawak,17648
+2019-04-01,borneo,Sabah,17875
+2019-04-01,borneo,W.P. Labuan,2111
+2019-05-01,west,Perlis,9401
+2019-05-01,west,Kedah,13188
+2019-05-01,west,Pulau Pinang,4125
+2019-05-01,west,Perak,26121
+2019-05-01,west,Selangor,12616
+2019-05-01,west,Negeri Sembilan,52
+2019-05-01,west,Melaka,146
+2019-05-01,west,Johor,2393
+2019-05-01,east,Kelantan,8841
+2019-05-01,east,Terengganu,2967
+2019-05-01,east,Pahang,9539
+2019-05-01,east,Johor,3613
+2019-05-01,borneo,Sarawak,15736
+2019-05-01,borneo,Sabah,18804
+2019-05-01,borneo,W.P. Labuan,2212
+2019-06-01,west,Perlis,9556
+2019-06-01,west,Kedah,13048
+2019-06-01,west,Pulau Pinang,4141
+2019-06-01,west,Perak,26425
+2019-06-01,west,Selangor,13330
+2019-06-01,west,Negeri Sembilan,60
+2019-06-01,west,Melaka,150
+2019-06-01,west,Johor,2257
+2019-06-01,east,Kelantan,8054
+2019-06-01,east,Terengganu,3161
+2019-06-01,east,Pahang,8329
+2019-06-01,east,Johor,4091
+2019-06-01,borneo,Sarawak,15691
+2019-06-01,borneo,Sabah,15379
+2019-06-01,borneo,W.P. Labuan,2137
+2019-07-01,west,Perlis,9696
+2019-07-01,west,Kedah,12577
+2019-07-01,west,Pulau Pinang,4509
+2019-07-01,west,Perak,26325
+2019-07-01,west,Selangor,13827
+2019-07-01,west,Negeri Sembilan,56
+2019-07-01,west,Melaka,161
+2019-07-01,west,Johor,2360
+2019-07-01,east,Kelantan,8259
+2019-07-01,east,Terengganu,3250
+2019-07-01,east,Pahang,9559
+2019-07-01,east,Johor,3575
+2019-07-01,borneo,Sarawak,15336
+2019-07-01,borneo,Sabah,15084
+2019-07-01,borneo,W.P. Labuan,2154
+2019-08-01,west,Perlis,9923
+2019-08-01,west,Kedah,11946
+2019-08-01,west,Pulau Pinang,4637
+2019-08-01,west,Perak,26184
+2019-08-01,west,Selangor,14066
+2019-08-01,west,Negeri Sembilan,56
+2019-08-01,west,Melaka,166
+2019-08-01,west,Johor,2380
+2019-08-01,east,Kelantan,7438
+2019-08-01,east,Terengganu,3184
+2019-08-01,east,Pahang,9375
+2019-08-01,east,Johor,3007
+2019-08-01,borneo,Sarawak,16796
+2019-08-01,borneo,Sabah,14598
+2019-08-01,borneo,W.P. Labuan,1912
+2019-09-01,west,Perlis,9047
+2019-09-01,west,Kedah,11746
+2019-09-01,west,Pulau Pinang,4869
+2019-09-01,west,Perak,30426
+2019-09-01,west,Selangor,14002
+2019-09-01,west,Negeri Sembilan,56
+2019-09-01,west,Melaka,154
+2019-09-01,west,Johor,2308
+2019-09-01,east,Kelantan,9151
+2019-09-01,east,Terengganu,4888
+2019-09-01,east,Pahang,11372
+2019-09-01,east,Johor,3448
+2019-09-01,borneo,Sarawak,14054
+2019-09-01,borneo,Sabah,15331
+2019-09-01,borneo,W.P. Labuan,1866
+2019-10-01,west,Perlis,10372
+2019-10-01,west,Kedah,11725
+2019-10-01,west,Pulau Pinang,4754
+2019-10-01,west,Perak,32056
+2019-10-01,west,Selangor,13551
+2019-10-01,west,Negeri Sembilan,62
+2019-10-01,west,Melaka,171
+2019-10-01,west,Johor,2211
+2019-10-01,east,Kelantan,10431
+2019-10-01,east,Terengganu,5790
+2019-10-01,east,Pahang,8697
+2019-10-01,east,Johor,4190
+2019-10-01,borneo,Sarawak,12727
+2019-10-01,borneo,Sabah,15450
+2019-10-01,borneo,W.P. Labuan,1672
+2019-11-01,west,Perlis,9894
+2019-11-01,west,Kedah,11640
+2019-11-01,west,Pulau Pinang,4060
+2019-11-01,west,Perak,32104
+2019-11-01,west,Selangor,12570
+2019-11-01,west,Negeri Sembilan,69
+2019-11-01,west,Melaka,162
+2019-11-01,west,Johor,2051
+2019-11-01,east,Kelantan,5033
+2019-11-01,east,Terengganu,3255
+2019-11-01,east,Pahang,7270
+2019-11-01,east,Johor,4660
+2019-11-01,borneo,Sarawak,12193
+2019-11-01,borneo,Sabah,15675
+2019-11-01,borneo,W.P. Labuan,1446
+2019-12-01,west,Perlis,9525
+2019-12-01,west,Kedah,11672
+2019-12-01,west,Pulau Pinang,4507
+2019-12-01,west,Perak,24225
+2019-12-01,west,Selangor,11998
+2019-12-01,west,Negeri Sembilan,53
+2019-12-01,west,Melaka,158
+2019-12-01,west,Johor,1706
+2019-12-01,east,Kelantan,2381
+2019-12-01,east,Terengganu,1159
+2019-12-01,east,Pahang,4268
+2019-12-01,east,Johor,393
+2019-12-01,borneo,Sarawak,10409
+2019-12-01,borneo,Sabah,13203
+2019-12-01,borneo,W.P. Labuan,1168
+2020-01-01,west,Perlis,9489
+2020-01-01,west,Kedah,13152
+2020-01-01,west,Pulau Pinang,3622
+2020-01-01,west,Perak,24016
+2020-01-01,west,Selangor,11774
+2020-01-01,west,Negeri Sembilan,51
+2020-01-01,west,Melaka,131
+2020-01-01,west,Johor,2157
+2020-01-01,east,Kelantan,2362
+2020-01-01,east,Terengganu,2024
+2020-01-01,east,Pahang,5844
+2020-01-01,east,Johor,521
+2020-01-01,borneo,Sarawak,8832
+2020-01-01,borneo,Sabah,14930
+2020-01-01,borneo,W.P. Labuan,962
+2020-02-01,west,Perlis,8234
+2020-02-01,west,Kedah,13523
+2020-02-01,west,Pulau Pinang,4809
+2020-02-01,west,Perak,36474
+2020-02-01,west,Selangor,13726
+2020-02-01,west,Negeri Sembilan,54
+2020-02-01,west,Melaka,154
+2020-02-01,west,Johor,2266
+2020-02-01,east,Kelantan,3748
+2020-02-01,east,Terengganu,2615
+2020-02-01,east,Pahang,7870
+2020-02-01,east,Johor,641
+2020-02-01,borneo,Sarawak,8856
+2020-02-01,borneo,Sabah,17804
+2020-02-01,borneo,W.P. Labuan,1008
+2020-03-01,west,Perlis,5740
+2020-03-01,west,Kedah,11780
+2020-03-01,west,Pulau Pinang,4134
+2020-03-01,west,Perak,27180
+2020-03-01,west,Selangor,7265
+2020-03-01,west,Negeri Sembilan,59
+2020-03-01,west,Melaka,139
+2020-03-01,west,Johor,1515
+2020-03-01,east,Kelantan,8566
+2020-03-01,east,Terengganu,3226
+2020-03-01,east,Pahang,9083
+2020-03-01,east,Johor,3697
+2020-03-01,borneo,Sarawak,12992
+2020-03-01,borneo,Sabah,14656
+2020-03-01,borneo,W.P. Labuan,1182
+2020-04-01,west,Perlis,4703
+2020-04-01,west,Kedah,7028
+2020-04-01,west,Pulau Pinang,4806
+2020-04-01,west,Perak,22258
+2020-04-01,west,Selangor,9809
+2020-04-01,west,Negeri Sembilan,57
+2020-04-01,west,Melaka,132
+2020-04-01,west,Johor,1563
+2020-04-01,east,Kelantan,7083
+2020-04-01,east,Terengganu,3778
+2020-04-01,east,Pahang,10413
+2020-04-01,east,Johor,5088
+2020-04-01,borneo,Sarawak,12337
+2020-04-01,borneo,Sabah,14071
+2020-04-01,borneo,W.P. Labuan,1282
+2020-05-01,west,Perlis,4189
+2020-05-01,west,Kedah,6702
+2020-05-01,west,Pulau Pinang,4500
+2020-05-01,west,Perak,24497
+2020-05-01,west,Selangor,11401
+2020-05-01,west,Negeri Sembilan,60
+2020-05-01,west,Melaka,131
+2020-05-01,west,Johor,2068
+2020-05-01,east,Kelantan,8747
+2020-05-01,east,Terengganu,2658
+2020-05-01,east,Pahang,8702
+2020-05-01,east,Johor,4030
+2020-05-01,borneo,Sarawak,11623
+2020-05-01,borneo,Sabah,17415
+2020-05-01,borneo,W.P. Labuan,1572
+2020-06-01,west,Perlis,4969
+2020-06-01,west,Kedah,10472
+2020-06-01,west,Pulau Pinang,5396
+2020-06-01,west,Perak,28428
+2020-06-01,west,Selangor,15499
+2020-06-01,west,Negeri Sembilan,76
+2020-06-01,west,Melaka,128
+2020-06-01,west,Johor,2160
+2020-06-01,east,Kelantan,5834
+2020-06-01,east,Terengganu,2506
+2020-06-01,east,Pahang,9277
+2020-06-01,east,Johor,6117
+2020-06-01,borneo,Sarawak,11844
+2020-06-01,borneo,Sabah,19362
+2020-06-01,borneo,W.P. Labuan,2024
+2020-07-01,west,Perlis,5713
+2020-07-01,west,Kedah,11510
+2020-07-01,west,Pulau Pinang,4980
+2020-07-01,west,Perak,26756
+2020-07-01,west,Selangor,15413
+2020-07-01,west,Negeri Sembilan,76
+2020-07-01,west,Melaka,131
+2020-07-01,west,Johor,2221
+2020-07-01,east,Kelantan,6189
+2020-07-01,east,Terengganu,3644
+2020-07-01,east,Pahang,8807
+2020-07-01,east,Johor,3893
+2020-07-01,borneo,Sarawak,11336
+2020-07-01,borneo,Sabah,19398
+2020-07-01,borneo,W.P. Labuan,1993
+2020-08-01,west,Perlis,6393
+2020-08-01,west,Kedah,11518
+2020-08-01,west,Pulau Pinang,5004
+2020-08-01,west,Perak,23654
+2020-08-01,west,Selangor,15583
+2020-08-01,west,Negeri Sembilan,62
+2020-08-01,west,Melaka,135
+2020-08-01,west,Johor,2256
+2020-08-01,east,Kelantan,8087
+2020-08-01,east,Terengganu,3507
+2020-08-01,east,Pahang,11140
+2020-08-01,east,Johor,7107
+2020-08-01,borneo,Sarawak,11104
+2020-08-01,borneo,Sabah,19289
+2020-08-01,borneo,W.P. Labuan,1772
+2020-09-01,west,Perlis,5759
+2020-09-01,west,Kedah,12348
+2020-09-01,west,Pulau Pinang,4547
+2020-09-01,west,Perak,25578
+2020-09-01,west,Selangor,13810
+2020-09-01,west,Negeri Sembilan,58
+2020-09-01,west,Melaka,144
+2020-09-01,west,Johor,2197
+2020-09-01,east,Kelantan,8815
+2020-09-01,east,Terengganu,5100
+2020-09-01,east,Pahang,9589
+2020-09-01,east,Johor,5415
+2020-09-01,borneo,Sarawak,9816
+2020-09-01,borneo,Sabah,18651
+2020-09-01,borneo,W.P. Labuan,1484
+2020-10-01,west,Perlis,5433
+2020-10-01,west,Kedah,11772
+2020-10-01,west,Pulau Pinang,5194
+2020-10-01,west,Perak,29670
+2020-10-01,west,Selangor,15449
+2020-10-01,west,Negeri Sembilan,0
+2020-10-01,west,Melaka,174
+2020-10-01,west,Johor,2345
+2020-10-01,east,Kelantan,7268
+2020-10-01,east,Terengganu,4569
+2020-10-01,east,Pahang,9638
+2020-10-01,east,Johor,4889
+2020-10-01,borneo,Sarawak,9149
+2020-10-01,borneo,Sabah,16011
+2020-10-01,borneo,W.P. Labuan,1620
+2020-11-01,west,Perlis,5001
+2020-11-01,west,Kedah,11970
+2020-11-01,west,Pulau Pinang,5279
+2020-11-01,west,Perak,32647
+2020-11-01,west,Selangor,15765
+2020-11-01,west,Negeri Sembilan,0
+2020-11-01,west,Melaka,204
+2020-11-01,west,Johor,2183
+2020-11-01,east,Kelantan,4001
+2020-11-01,east,Terengganu,2246
+2020-11-01,east,Pahang,6640
+2020-11-01,east,Johor,3027
+2020-11-01,borneo,Sarawak,9210
+2020-11-01,borneo,Sabah,17160
+2020-11-01,borneo,W.P. Labuan,1523
+2020-12-01,west,Perlis,3735
+2020-12-01,west,Kedah,12645
+2020-12-01,west,Pulau Pinang,4578
+2020-12-01,west,Perak,27138
+2020-12-01,west,Selangor,15537
+2020-12-01,west,Negeri Sembilan,44
+2020-12-01,west,Melaka,194
+2020-12-01,west,Johor,2088
+2020-12-01,east,Kelantan,2880
+2020-12-01,east,Terengganu,1354
+2020-12-01,east,Pahang,4314
+2020-12-01,east,Johor,733
+2020-12-01,borneo,Sarawak,7355
+2020-12-01,borneo,Sabah,17955
+2020-12-01,borneo,W.P. Labuan,1075
+2021-01-01,west,Perlis,1973
+2021-01-01,west,Kedah,10799
+2021-01-01,west,Pulau Pinang,2870
+2021-01-01,west,Perak,27089
+2021-01-01,west,Selangor,16045
+2021-01-01,west,Negeri Sembilan,17
+2021-01-01,west,Melaka,152
+2021-01-01,west,Johor,2375
+2021-01-01,east,Kelantan,2074
+2021-01-01,east,Terengganu,1394
+2021-01-01,east,Pahang,3477
+2021-01-01,east,Johor,290
+2021-01-01,borneo,Sarawak,6127
+2021-01-01,borneo,Sabah,14669
+2021-01-01,borneo,W.P. Labuan,828
+2021-02-01,west,Perlis,2549
+2021-02-01,west,Kedah,11059
+2021-02-01,west,Pulau Pinang,2980
+2021-02-01,west,Perak,23802
+2021-02-01,west,Selangor,13616
+2021-02-01,west,Negeri Sembilan,33
+2021-02-01,west,Melaka,126
+2021-02-01,west,Johor,2277
+2021-02-01,east,Kelantan,2557
+2021-02-01,east,Terengganu,1786
+2021-02-01,east,Pahang,7896
+2021-02-01,east,Johor,508
+2021-02-01,borneo,Sarawak,6840
+2021-02-01,borneo,Sabah,15068
+2021-02-01,borneo,W.P. Labuan,964
+2021-03-01,west,Perlis,2479
+2021-03-01,west,Kedah,11118
+2021-03-01,west,Pulau Pinang,3225
+2021-03-01,west,Perak,28895
+2021-03-01,west,Selangor,11804
+2021-03-01,west,Negeri Sembilan,43
+2021-03-01,west,Melaka,163
+2021-03-01,west,Johor,2250
+2021-03-01,east,Kelantan,4443
+2021-03-01,east,Terengganu,2444
+2021-03-01,east,Pahang,8203
+2021-03-01,east,Johor,744
+2021-03-01,borneo,Sarawak,17594
+2021-03-01,borneo,Sabah,21095
+2021-03-01,borneo,W.P. Labuan,1032
+2021-04-01,west,Perlis,2327
+2021-04-01,west,Kedah,11020
+2021-04-01,west,Pulau Pinang,3219
+2021-04-01,west,Perak,28822
+2021-04-01,west,Selangor,13881
+2021-04-01,west,Negeri Sembilan,45
+2021-04-01,west,Melaka,188
+2021-04-01,west,Johor,2217
+2021-04-01,east,Kelantan,6554
+2021-04-01,east,Terengganu,2530
+2021-04-01,east,Pahang,9503
+2021-04-01,east,Johor,1760
+2021-04-01,borneo,Sarawak,17428
+2021-04-01,borneo,Sabah,19740
+2021-04-01,borneo,W.P. Labuan,1779
+2021-05-01,west,Perlis,2089
+2021-05-01,west,Kedah,9158
+2021-05-01,west,Pulau Pinang,3312
+2021-05-01,west,Perak,30448
+2021-05-01,west,Selangor,13187
+2021-05-01,west,Negeri Sembilan,46
+2021-05-01,west,Melaka,195
+2021-05-01,west,Johor,2449
+2021-05-01,east,Kelantan,6173
+2021-05-01,east,Terengganu,2521
+2021-05-01,east,Pahang,8137
+2021-05-01,east,Johor,1805
+2021-05-01,borneo,Sarawak,15288
+2021-05-01,borneo,Sabah,19473
+2021-05-01,borneo,W.P. Labuan,1797
+2021-06-01,west,Perlis,2560
+2021-06-01,west,Kedah,9507
+2021-06-01,west,Pulau Pinang,3598
+2021-06-01,west,Perak,28896
+2021-06-01,west,Selangor,14200
+2021-06-01,west,Negeri Sembilan,43
+2021-06-01,west,Melaka,193
+2021-06-01,west,Johor,2234
+2021-06-01,east,Kelantan,7170
+2021-06-01,east,Terengganu,2745
+2021-06-01,east,Pahang,7903
+2021-06-01,east,Johor,1782
+2021-06-01,borneo,Sarawak,12407
+2021-06-01,borneo,Sabah,19754
+2021-06-01,borneo,W.P. Labuan,1952
+2021-07-01,west,Perlis,2746
+2021-07-01,west,Kedah,9754
+2021-07-01,west,Pulau Pinang,3479
+2021-07-01,west,Perak,33245
+2021-07-01,west,Selangor,14782
+2021-07-01,west,Negeri Sembilan,55
+2021-07-01,west,Melaka,170
+2021-07-01,west,Johor,2377
+2021-07-01,east,Kelantan,6278
+2021-07-01,east,Terengganu,3006
+2021-07-01,east,Pahang,8857
+2021-07-01,east,Johor,3152
+2021-07-01,borneo,Sarawak,15750
+2021-07-01,borneo,Sabah,18753
+2021-07-01,borneo,W.P. Labuan,1939
+2021-08-01,west,Perlis,3883
+2021-08-01,west,Kedah,9336
+2021-08-01,west,Pulau Pinang,3049
+2021-08-01,west,Perak,31784
+2021-08-01,west,Selangor,13684
+2021-08-01,west,Negeri Sembilan,51
+2021-08-01,west,Melaka,192
+2021-08-01,west,Johor,2185
+2021-08-01,east,Kelantan,6592
+2021-08-01,east,Terengganu,3604
+2021-08-01,east,Pahang,8989
+2021-08-01,east,Johor,3704
+2021-08-01,borneo,Sarawak,15973
+2021-08-01,borneo,Sabah,20416
+2021-08-01,borneo,W.P. Labuan,1784
+2021-09-01,west,Perlis,3212
+2021-09-01,west,Kedah,9343
+2021-09-01,west,Pulau Pinang,2871
+2021-09-01,west,Perak,33427
+2021-09-01,west,Selangor,12987
+2021-09-01,west,Negeri Sembilan,64
+2021-09-01,west,Melaka,189
+2021-09-01,west,Johor,2190
+2021-09-01,east,Kelantan,6432
+2021-09-01,east,Terengganu,3430
+2021-09-01,east,Pahang,10008
+2021-09-01,east,Johor,4370
+2021-09-01,borneo,Sarawak,8064
+2021-09-01,borneo,Sabah,18481
+2021-09-01,borneo,W.P. Labuan,1647
+2021-10-01,west,Perlis,3497
+2021-10-01,west,Kedah,10518
+2021-10-01,west,Pulau Pinang,2391
+2021-10-01,west,Perak,33292
+2021-10-01,west,Selangor,14085
+2021-10-01,west,Negeri Sembilan,67
+2021-10-01,west,Melaka,197
+2021-10-01,west,Johor,2343
+2021-10-01,east,Kelantan,5873
+2021-10-01,east,Terengganu,3127
+2021-10-01,east,Pahang,9741
+2021-10-01,east,Johor,4266
+2021-10-01,borneo,Sarawak,9601
+2021-10-01,borneo,Sabah,17146
+2021-10-01,borneo,W.P. Labuan,1551
+2021-11-01,west,Perlis,3369
+2021-11-01,west,Kedah,10507
+2021-11-01,west,Pulau Pinang,2100
+2021-11-01,west,Perak,32054
+2021-11-01,west,Selangor,15432
+2021-11-01,west,Negeri Sembilan,66
+2021-11-01,west,Melaka,174
+2021-11-01,west,Johor,2176
+2021-11-01,east,Kelantan,2452
+2021-11-01,east,Terengganu,2419
+2021-11-01,east,Pahang,7379
+2021-11-01,east,Johor,1069
+2021-11-01,borneo,Sarawak,7225
+2021-11-01,borneo,Sabah,16093
+2021-11-01,borneo,W.P. Labuan,1481
+2021-12-01,west,Perlis,2373
+2021-12-01,west,Kedah,10709
+2021-12-01,west,Pulau Pinang,2275
+2021-12-01,west,Perak,26644
+2021-12-01,west,Selangor,13876
+2021-12-01,west,Negeri Sembilan,37
+2021-12-01,west,Melaka,150
+2021-12-01,west,Johor,2056
+2021-12-01,east,Kelantan,1676
+2021-12-01,east,Terengganu,1635
+2021-12-01,east,Pahang,4722
+2021-12-01,east,Johor,839
+2021-12-01,borneo,Sarawak,6582
+2021-12-01,borneo,Sabah,15626
+2021-12-01,borneo,W.P. Labuan,970
+2022-01-01,west,Perlis,2822
+2022-01-01,west,Kedah,11757
+2022-01-01,west,Pulau Pinang,2711
+2022-01-01,west,Perak,24494
+2022-01-01,west,Selangor,14197
+2022-01-01,west,Negeri Sembilan,56
+2022-01-01,west,Melaka,109
+2022-01-01,west,Johor,2189
+2022-01-01,east,Kelantan,1768
+2022-01-01,east,Terengganu,2088
+2022-01-01,east,Pahang,5510
+2022-01-01,east,Johor,859
+2022-01-01,borneo,Sarawak,4080
+2022-01-01,borneo,Sabah,17700
+2022-01-01,borneo,W.P. Labuan,762
+2022-02-01,west,Perlis,2758
+2022-02-01,west,Kedah,12320
+2022-02-01,west,Pulau Pinang,3268
+2022-02-01,west,Perak,25326
+2022-02-01,west,Selangor,14568
+2022-02-01,west,Negeri Sembilan,57
+2022-02-01,west,Melaka,111
+2022-02-01,west,Johor,2120
+2022-02-01,east,Kelantan,2006
+2022-02-01,east,Terengganu,2302
+2022-02-01,east,Pahang,7905
+2022-02-01,east,Johor,1087
+2022-02-01,borneo,Sarawak,4664
+2022-02-01,borneo,Sabah,18489
+2022-02-01,borneo,W.P. Labuan,1044
+2022-03-01,west,Perlis,2890
+2022-03-01,west,Kedah,12123
+2022-03-01,west,Pulau Pinang,4815
+2022-03-01,west,Perak,25569
+2022-03-01,west,Selangor,15909
+2022-03-01,west,Negeri Sembilan,63
+2022-03-01,west,Melaka,123
+2022-03-01,west,Johor,2270
+2022-03-01,east,Kelantan,4055
+2022-03-01,east,Terengganu,2613
+2022-03-01,east,Pahang,8928
+2022-03-01,east,Johor,1967
+2022-03-01,borneo,Sarawak,14684
+2022-03-01,borneo,Sabah,20837
+2022-03-01,borneo,W.P. Labuan,1104
+2022-04-01,west,Perlis,3568
+2022-04-01,west,Kedah,11800
+2022-04-01,west,Pulau Pinang,4232
+2022-04-01,west,Perak,27252
+2022-04-01,west,Selangor,16727
+2022-04-01,west,Negeri Sembilan,69
+2022-04-01,west,Melaka,133
+2022-04-01,west,Johor,2348
+2022-04-01,east,Kelantan,5328
+2022-04-01,east,Terengganu,3084
+2022-04-01,east,Pahang,10309
+2022-04-01,east,Johor,4036
+2022-04-01,borneo,Sarawak,16270
+2022-04-01,borneo,Sabah,21045
+2022-04-01,borneo,W.P. Labuan,1795
+2022-05-01,west,Perlis,3353
+2022-05-01,west,Kedah,10646
+2022-05-01,west,Pulau Pinang,2769
+2022-05-01,west,Perak,20343
+2022-05-01,west,Selangor,15879
+2022-05-01,west,Negeri Sembilan,51
+2022-05-01,west,Melaka,143
+2022-05-01,west,Johor,2337
+2022-05-01,east,Kelantan,6119
+2022-05-01,east,Terengganu,2888
+2022-05-01,east,Pahang,10672
+2022-05-01,east,Johor,3131
+2022-05-01,borneo,Sarawak,13792
+2022-05-01,borneo,Sabah,20961
+2022-05-01,borneo,W.P. Labuan,1688
+2022-06-01,west,Perlis,4830
+2022-06-01,west,Kedah,11317
+2022-06-01,west,Pulau Pinang,4166
+2022-06-01,west,Perak,25874
+2022-06-01,west,Selangor,15781
+2022-06-01,west,Negeri Sembilan,45
+2022-06-01,west,Melaka,154
+2022-06-01,west,Johor,2292
+2022-06-01,east,Kelantan,5954
+2022-06-01,east,Terengganu,2419
+2022-06-01,east,Pahang,8902
+2022-06-01,east,Johor,3620
+2022-06-01,borneo,Sarawak,8111
+2022-06-01,borneo,Sabah,19899
+2022-06-01,borneo,W.P. Labuan,1740
+2022-07-01,west,Perlis,5284
+2022-07-01,west,Kedah,11554
+2022-07-01,west,Pulau Pinang,4797
+2022-07-01,west,Perak,29249
+2022-07-01,west,Selangor,14049
+2022-07-01,west,Negeri Sembilan,62
+2022-07-01,west,Melaka,176
+2022-07-01,west,Johor,2336
+2022-07-01,east,Kelantan,6419
+2022-07-01,east,Terengganu,2888
+2022-07-01,east,Pahang,9494
+2022-07-01,east,Johor,3007
+2022-07-01,borneo,Sarawak,8142
+2022-07-01,borneo,Sabah,20534
+2022-07-01,borneo,W.P. Labuan,1867
+2022-08-01,west,Perlis,3792
+2022-08-01,west,Kedah,11697
+2022-08-01,west,Pulau Pinang,3576
+2022-08-01,west,Perak,30994
+2022-08-01,west,Selangor,14064
+2022-08-01,west,Negeri Sembilan,55
+2022-08-01,west,Melaka,202
+2022-08-01,west,Johor,2321
+2022-08-01,east,Kelantan,6540
+2022-08-01,east,Terengganu,3599
+2022-08-01,east,Pahang,9935
+2022-08-01,east,Johor,2534
+2022-08-01,borneo,Sarawak,8225
+2022-08-01,borneo,Sabah,21444
+2022-08-01,borneo,W.P. Labuan,1936
+2022-09-01,west,Perlis,3072
+2022-09-01,west,Kedah,11277
+2022-09-01,west,Pulau Pinang,4754
+2022-09-01,west,Perak,25455
+2022-09-01,west,Selangor,12668
+2022-09-01,west,Negeri Sembilan,40
+2022-09-01,west,Melaka,211
+2022-09-01,west,Johor,2265
+2022-09-01,east,Kelantan,6324
+2022-09-01,east,Terengganu,3610
+2022-09-01,east,Pahang,10846
+2022-09-01,east,Johor,2456
+2022-09-01,borneo,Sarawak,7766
+2022-09-01,borneo,Sabah,18368
+2022-09-01,borneo,W.P. Labuan,1944
+2022-10-01,west,Perlis,2673
+2022-10-01,west,Kedah,11415
+2022-10-01,west,Pulau Pinang,4700
+2022-10-01,west,Perak,23812
+2022-10-01,west,Selangor,12144
+2022-10-01,west,Negeri Sembilan,51
+2022-10-01,west,Melaka,212
+2022-10-01,west,Johor,2363
+2022-10-01,east,Kelantan,5599
+2022-10-01,east,Terengganu,3686
+2022-10-01,east,Pahang,10215
+2022-10-01,east,Johor,3842
+2022-10-01,borneo,Sarawak,7180
+2022-10-01,borneo,Sabah,18458
+2022-10-01,borneo,W.P. Labuan,1679
+2022-11-01,west,Perlis,1598
+2022-11-01,west,Kedah,12387
+2022-11-01,west,Pulau Pinang,3465
+2022-11-01,west,Perak,21961
+2022-11-01,west,Selangor,12425
+2022-11-01,west,Negeri Sembilan,33
+2022-11-01,west,Melaka,210
+2022-11-01,west,Johor,2187
+2022-11-01,east,Kelantan,3182
+2022-11-01,east,Terengganu,2949
+2022-11-01,east,Pahang,9053
+2022-11-01,east,Johor,3356
+2022-11-01,borneo,Sarawak,6211
+2022-11-01,borneo,Sabah,17306
+2022-11-01,borneo,W.P. Labuan,1561
+2022-12-01,west,Perlis,1365
+2022-12-01,west,Kedah,12573
+2022-12-01,west,Pulau Pinang,4352
+2022-12-01,west,Perak,21047
+2022-12-01,west,Selangor,12646
+2022-12-01,west,Negeri Sembilan,17
+2022-12-01,west,Melaka,217
+2022-12-01,west,Johor,2086
+2022-12-01,east,Kelantan,1790
+2022-12-01,east,Terengganu,1566
+2022-12-01,east,Pahang,6213
+2022-12-01,east,Johor,718
+2022-12-01,borneo,Sarawak,4714
+2022-12-01,borneo,Sabah,15131
+2022-12-01,borneo,W.P. Labuan,1291
+2023-01-01,west,Perlis,1542
+2023-01-01,west,Kedah,12541
+2023-01-01,west,Pulau Pinang,2756
+2023-01-01,west,Perak,22210
+2023-01-01,west,Selangor,10491
+2023-01-01,west,Negeri Sembilan,55
+2023-01-01,west,Melaka,210
+2023-01-01,west,Johor,2202
+2023-01-01,east,Kelantan,1718
+2023-01-01,east,Terengganu,2219
+2023-01-01,east,Pahang,4619
+2023-01-01,east,Johor,388
+2023-01-01,borneo,Sarawak,3771
+2023-01-01,borneo,Sabah,14724
+2023-01-01,borneo,W.P. Labuan,976
+2023-02-01,west,Perlis,2138
+2023-02-01,west,Kedah,12130
+2023-02-01,west,Pulau Pinang,3742
+2023-02-01,west,Perak,23107
+2023-02-01,west,Selangor,10372
+2023-02-01,west,Negeri Sembilan,55
+2023-02-01,west,Melaka,174
+2023-02-01,west,Johor,2198
+2023-02-01,east,Kelantan,2979
+2023-02-01,east,Terengganu,2998
+2023-02-01,east,Pahang,6193
+2023-02-01,east,Johor,373
+2023-02-01,borneo,Sarawak,4247
+2023-02-01,borneo,Sabah,14145
+2023-02-01,borneo,W.P. Labuan,1002
+2023-03-01,west,Perlis,2829
+2023-03-01,west,Kedah,12365
+2023-03-01,west,Pulau Pinang,3352
+2023-03-01,west,Perak,21898
+2023-03-01,west,Selangor,10310
+2023-03-01,west,Negeri Sembilan,39
+2023-03-01,west,Melaka,156
+2023-03-01,west,Johor,2279
+2023-03-01,east,Kelantan,4839
+2023-03-01,east,Terengganu,3555
+2023-03-01,east,Pahang,8770
+2023-03-01,east,Johor,915
+2023-03-01,borneo,Sarawak,9893
+2023-03-01,borneo,Sabah,17477
+2023-03-01,borneo,W.P. Labuan,1619
+2023-04-01,west,Perlis,2704
+2023-04-01,west,Kedah,11030
+2023-04-01,west,Pulau Pinang,3237
+2023-04-01,west,Perak,23570
+2023-04-01,west,Selangor,9811
+2023-04-01,west,Negeri Sembilan,42
+2023-04-01,west,Melaka,145
+2023-04-01,west,Johor,2244
+2023-04-01,east,Kelantan,7665
+2023-04-01,east,Terengganu,3944
+2023-04-01,east,Pahang,10425
+2023-04-01,east,Johor,2095
+2023-04-01,borneo,Sarawak,9712
+2023-04-01,borneo,Sabah,18071
+2023-04-01,borneo,W.P. Labuan,1666
+2023-05-01,west,Perlis,3078
+2023-05-01,west,Kedah,11898
+2023-05-01,west,Pulau Pinang,2759
+2023-05-01,west,Perak,27980
+2023-05-01,west,Selangor,9151
+2023-05-01,west,Negeri Sembilan,43
+2023-05-01,west,Melaka,130
+2023-05-01,west,Johor,2836
+2023-05-01,east,Kelantan,6193
+2023-05-01,east,Terengganu,4353
+2023-05-01,east,Pahang,9853
+2023-05-01,east,Johor,2461
+2023-05-01,borneo,Sarawak,10394
+2023-05-01,borneo,Sabah,19326
+2023-05-01,borneo,W.P. Labuan,1883
+2023-06-01,west,Perlis,4533
+2023-06-01,west,Kedah,11776
+2023-06-01,west,Pulau Pinang,3364
+2023-06-01,west,Perak,28920
+2023-06-01,west,Selangor,9134
+2023-06-01,west,Negeri Sembilan,48
+2023-06-01,west,Melaka,148
+2023-06-01,west,Johor,3143
+2023-06-01,east,Kelantan,6347
+2023-06-01,east,Terengganu,4194
+2023-06-01,east,Pahang,11298
+2023-06-01,east,Johor,2106
+2023-06-01,borneo,Sarawak,10047
+2023-06-01,borneo,Sabah,18780
+2023-06-01,borneo,W.P. Labuan,1825
+2023-07-01,west,Perlis,3537
+2023-07-01,west,Kedah,12768
+2023-07-01,west,Pulau Pinang,3998
+2023-07-01,west,Perak,29908
+2023-07-01,west,Selangor,9486
+2023-07-01,west,Negeri Sembilan,37
+2023-07-01,west,Melaka,156
+2023-07-01,west,Johor,2724
+2023-07-01,east,Kelantan,6251
+2023-07-01,east,Terengganu,4256
+2023-07-01,east,Pahang,12617
+2023-07-01,east,Johor,2040
+2023-07-01,borneo,Sarawak,10160
+2023-07-01,borneo,Sabah,20170
+2023-07-01,borneo,W.P. Labuan,1898
+2023-08-01,west,Perlis,3178
+2023-08-01,west,Kedah,11148
+2023-08-01,west,Pulau Pinang,3198
+2023-08-01,west,Perak,30378
+2023-08-01,west,Selangor,9977
+2023-08-01,west,Negeri Sembilan,48
+2023-08-01,west,Melaka,172
+2023-08-01,west,Johor,2486
+2023-08-01,east,Kelantan,5579
+2023-08-01,east,Terengganu,4134
+2023-08-01,east,Pahang,11160
+2023-08-01,east,Johor,2061
+2023-08-01,borneo,Sarawak,8075
+2023-08-01,borneo,Sabah,18292
+2023-08-01,borneo,W.P. Labuan,1848
+2023-09-01,west,Perlis,2832
+2023-09-01,west,Kedah,11867
+2023-09-01,west,Pulau Pinang,2700
+2023-09-01,west,Perak,28603
+2023-09-01,west,Selangor,9934
+2023-09-01,west,Negeri Sembilan,37
+2023-09-01,west,Melaka,194
+2023-09-01,west,Johor,2496
+2023-09-01,east,Kelantan,6481
+2023-09-01,east,Terengganu,4836
+2023-09-01,east,Pahang,12971
+2023-09-01,east,Johor,2151
+2023-09-01,borneo,Sarawak,7711
+2023-09-01,borneo,Sabah,18377
+2023-09-01,borneo,W.P. Labuan,1817
+2023-10-01,west,Perlis,3451
+2023-10-01,west,Kedah,10944
+2023-10-01,west,Pulau Pinang,2813
+2023-10-01,west,Perak,32462
+2023-10-01,west,Selangor,10573
+2023-10-01,west,Negeri Sembilan,39
+2023-10-01,west,Melaka,182
+2023-10-01,west,Johor,2505
+2023-10-01,east,Kelantan,5481
+2023-10-01,east,Terengganu,6473
+2023-10-01,east,Pahang,13217
+2023-10-01,east,Johor,3237
+2023-10-01,borneo,Sarawak,7483
+2023-10-01,borneo,Sabah,19052
+2023-10-01,borneo,W.P. Labuan,1667
+2023-11-01,west,Perlis,2831
+2023-11-01,west,Kedah,12730
+2023-11-01,west,Pulau Pinang,3397
+2023-11-01,west,Perak,37326
+2023-11-01,west,Selangor,10432
+2023-11-01,west,Negeri Sembilan,32
+2023-11-01,west,Melaka,174
+2023-11-01,west,Johor,2374
+2023-11-01,east,Kelantan,4035
+2023-11-01,east,Terengganu,3148
+2023-11-01,east,Pahang,9793
+2023-11-01,east,Johor,1761
+2023-11-01,borneo,Sarawak,6915
+2023-11-01,borneo,Sabah,18373
+2023-11-01,borneo,W.P. Labuan,1405
+2023-12-01,west,Perlis,1410
+2023-12-01,west,Kedah,10115
+2023-12-01,west,Pulau Pinang,2911
+2023-12-01,west,Perak,29581
+2023-12-01,west,Selangor,10922
+2023-12-01,west,Negeri Sembilan,28
+2023-12-01,west,Melaka,152
+2023-12-01,west,Johor,2163
+2023-12-01,east,Kelantan,2464
+2023-12-01,east,Terengganu,1591
+2023-12-01,east,Pahang,5288
+2023-12-01,east,Johor,586
+2023-12-01,borneo,Sarawak,5933
+2023-12-01,borneo,Sabah,16000
+2023-12-01,borneo,W.P. Labuan,1156

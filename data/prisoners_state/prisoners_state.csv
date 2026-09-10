@@ -1,0 +1,235 @@
+date,state,sex,prisoners
+2017-01-01,Malaysia,both,120048
+2018-01-01,Malaysia,both,115488
+2019-01-01,Malaysia,both,136145
+2020-01-01,Malaysia,both,100053
+2021-01-01,Malaysia,both,82269
+2022-01-01,Malaysia,both,101809
+2017-01-01,Malaysia,female,14398
+2018-01-01,Malaysia,female,14001
+2019-01-01,Malaysia,female,15399
+2020-01-01,Malaysia,female,9820
+2021-01-01,Malaysia,female,7115
+2022-01-01,Malaysia,female,8672
+2017-01-01,Malaysia,male,105650
+2018-01-01,Malaysia,male,101487
+2019-01-01,Malaysia,male,120746
+2020-01-01,Malaysia,male,90233
+2021-01-01,Malaysia,male,75154
+2022-01-01,Malaysia,male,93137
+2017-01-01,Johor,both,11589
+2018-01-01,Johor,both,11902
+2019-01-01,Johor,both,14312
+2020-01-01,Johor,both,12158
+2021-01-01,Johor,both,8616
+2022-01-01,Johor,both,8635
+2017-01-01,Johor,female,1792
+2018-01-01,Johor,female,1963
+2019-01-01,Johor,female,1949
+2020-01-01,Johor,female,1366
+2021-01-01,Johor,female,722
+2022-01-01,Johor,female,565
+2017-01-01,Johor,male,9797
+2018-01-01,Johor,male,9939
+2019-01-01,Johor,male,12363
+2020-01-01,Johor,male,10792
+2021-01-01,Johor,male,7894
+2022-01-01,Johor,male,8070
+2017-01-01,Kedah,both,7045
+2018-01-01,Kedah,both,6968
+2019-01-01,Kedah,both,7507
+2020-01-01,Kedah,both,6646
+2021-01-01,Kedah,both,6855
+2022-01-01,Kedah,both,8980
+2017-01-01,Kedah,female,617
+2018-01-01,Kedah,female,682
+2019-01-01,Kedah,female,781
+2020-01-01,Kedah,female,437
+2021-01-01,Kedah,female,268
+2022-01-01,Kedah,female,750
+2017-01-01,Kedah,male,6428
+2018-01-01,Kedah,male,6286
+2019-01-01,Kedah,male,6726
+2020-01-01,Kedah,male,6209
+2021-01-01,Kedah,male,6587
+2022-01-01,Kedah,male,8230
+2017-01-01,Kelantan,both,7066
+2018-01-01,Kelantan,both,6994
+2019-01-01,Kelantan,both,7269
+2020-01-01,Kelantan,both,6898
+2021-01-01,Kelantan,both,6025
+2022-01-01,Kelantan,both,7986
+2017-01-01,Kelantan,female,473
+2018-01-01,Kelantan,female,483
+2019-01-01,Kelantan,female,569
+2020-01-01,Kelantan,female,449
+2021-01-01,Kelantan,female,349
+2022-01-01,Kelantan,female,699
+2017-01-01,Kelantan,male,6593
+2018-01-01,Kelantan,male,6511
+2019-01-01,Kelantan,male,6700
+2020-01-01,Kelantan,male,6449
+2021-01-01,Kelantan,male,5676
+2022-01-01,Kelantan,male,7287
+2017-01-01,Melaka,both,6000
+2018-01-01,Melaka,both,5722
+2019-01-01,Melaka,both,7284
+2020-01-01,Melaka,both,6025
+2021-01-01,Melaka,both,3131
+2022-01-01,Melaka,both,5281
+2017-01-01,Melaka,female,588
+2018-01-01,Melaka,female,478
+2019-01-01,Melaka,female,772
+2020-01-01,Melaka,female,928
+2021-01-01,Melaka,female,426
+2022-01-01,Melaka,female,647
+2017-01-01,Melaka,male,5412
+2018-01-01,Melaka,male,5244
+2019-01-01,Melaka,male,6512
+2020-01-01,Melaka,male,5097
+2021-01-01,Melaka,male,2705
+2022-01-01,Melaka,male,4634
+2017-01-01,Negeri Sembilan,both,5115
+2018-01-01,Negeri Sembilan,both,4086
+2019-01-01,Negeri Sembilan,both,4828
+2020-01-01,Negeri Sembilan,both,3399
+2021-01-01,Negeri Sembilan,both,2499
+2022-01-01,Negeri Sembilan,both,2722
+2017-01-01,Negeri Sembilan,female,1
+2018-01-01,Negeri Sembilan,female,3
+2019-01-01,Negeri Sembilan,female,12
+2020-01-01,Negeri Sembilan,female,0
+2021-01-01,Negeri Sembilan,female,1
+2022-01-01,Negeri Sembilan,female,0
+2017-01-01,Negeri Sembilan,male,5114
+2018-01-01,Negeri Sembilan,male,4083
+2019-01-01,Negeri Sembilan,male,4816
+2020-01-01,Negeri Sembilan,male,3399
+2021-01-01,Negeri Sembilan,male,2498
+2022-01-01,Negeri Sembilan,male,2722
+2017-01-01,Pahang,both,7317
+2018-01-01,Pahang,both,7556
+2019-01-01,Pahang,both,7852
+2020-01-01,Pahang,both,6289
+2021-01-01,Pahang,both,4234
+2022-01-01,Pahang,both,5977
+2017-01-01,Pahang,female,575
+2018-01-01,Pahang,female,571
+2019-01-01,Pahang,female,553
+2020-01-01,Pahang,female,425
+2021-01-01,Pahang,female,307
+2022-01-01,Pahang,female,545
+2017-01-01,Pahang,male,6742
+2018-01-01,Pahang,male,6985
+2019-01-01,Pahang,male,7299
+2020-01-01,Pahang,male,5864
+2021-01-01,Pahang,male,3927
+2022-01-01,Pahang,male,5432
+2017-01-01,Perak,both,8565
+2018-01-01,Perak,both,7340
+2019-01-01,Perak,both,9878
+2020-01-01,Perak,both,8558
+2021-01-01,Perak,both,6714
+2022-01-01,Perak,both,8276
+2017-01-01,Perak,female,647
+2018-01-01,Perak,female,415
+2019-01-01,Perak,female,688
+2020-01-01,Perak,female,692
+2021-01-01,Perak,female,391
+2022-01-01,Perak,female,555
+2017-01-01,Perak,male,7918
+2018-01-01,Perak,male,6925
+2019-01-01,Perak,male,9190
+2020-01-01,Perak,male,7866
+2021-01-01,Perak,male,6323
+2022-01-01,Perak,male,7721
+2017-01-01,Pulau Pinang,both,8324
+2018-01-01,Pulau Pinang,both,7933
+2019-01-01,Pulau Pinang,both,10064
+2020-01-01,Pulau Pinang,both,5312
+2021-01-01,Pulau Pinang,both,4727
+2022-01-01,Pulau Pinang,both,6699
+2017-01-01,Pulau Pinang,female,724
+2018-01-01,Pulau Pinang,female,746
+2019-01-01,Pulau Pinang,female,923
+2020-01-01,Pulau Pinang,female,518
+2021-01-01,Pulau Pinang,female,442
+2022-01-01,Pulau Pinang,female,462
+2017-01-01,Pulau Pinang,male,7600
+2018-01-01,Pulau Pinang,male,7187
+2019-01-01,Pulau Pinang,male,9141
+2020-01-01,Pulau Pinang,male,4794
+2021-01-01,Pulau Pinang,male,4285
+2022-01-01,Pulau Pinang,male,6237
+2017-01-01,Sabah,both,12205
+2018-01-01,Sabah,both,13215
+2019-01-01,Sabah,both,15699
+2020-01-01,Sabah,both,8498
+2021-01-01,Sabah,both,5869
+2022-01-01,Sabah,both,8412
+2017-01-01,Sabah,female,1556
+2018-01-01,Sabah,female,1593
+2019-01-01,Sabah,female,1535
+2020-01-01,Sabah,female,740
+2021-01-01,Sabah,female,536
+2022-01-01,Sabah,female,636
+2017-01-01,Sabah,male,10649
+2018-01-01,Sabah,male,11622
+2019-01-01,Sabah,male,14164
+2020-01-01,Sabah,male,7758
+2021-01-01,Sabah,male,5333
+2022-01-01,Sabah,male,7776
+2017-01-01,Sarawak,both,4284
+2018-01-01,Sarawak,both,3850
+2019-01-01,Sarawak,both,5440
+2020-01-01,Sarawak,both,5943
+2021-01-01,Sarawak,both,4588
+2022-01-01,Sarawak,both,6089
+2017-01-01,Sarawak,female,399
+2018-01-01,Sarawak,female,354
+2019-01-01,Sarawak,female,485
+2020-01-01,Sarawak,female,538
+2021-01-01,Sarawak,female,446
+2022-01-01,Sarawak,female,625
+2017-01-01,Sarawak,male,3885
+2018-01-01,Sarawak,male,3496
+2019-01-01,Sarawak,male,4955
+2020-01-01,Sarawak,male,5405
+2021-01-01,Sarawak,male,4142
+2022-01-01,Sarawak,male,5464
+2017-01-01,Selangor,both,37862
+2018-01-01,Selangor,both,34955
+2019-01-01,Selangor,both,40885
+2020-01-01,Selangor,both,25776
+2021-01-01,Selangor,both,24927
+2022-01-01,Selangor,both,27765
+2017-01-01,Selangor,female,7024
+2018-01-01,Selangor,female,6713
+2019-01-01,Selangor,female,7132
+2020-01-01,Selangor,female,3712
+2021-01-01,Selangor,female,3187
+2022-01-01,Selangor,female,3188
+2017-01-01,Selangor,male,30838
+2018-01-01,Selangor,male,28242
+2019-01-01,Selangor,male,33753
+2020-01-01,Selangor,male,22064
+2021-01-01,Selangor,male,21740
+2022-01-01,Selangor,male,24577
+2017-01-01,Terengganu,both,4676
+2018-01-01,Terengganu,both,4967
+2019-01-01,Terengganu,both,5127
+2020-01-01,Terengganu,both,4551
+2021-01-01,Terengganu,both,4084
+2022-01-01,Terengganu,both,4987
+2017-01-01,Terengganu,female,2
+2018-01-01,Terengganu,female,0
+2019-01-01,Terengganu,female,0
+2020-01-01,Terengganu,female,15
+2021-01-01,Terengganu,female,40
+2022-01-01,Terengganu,female,0
+2017-01-01,Terengganu,male,4674
+2018-01-01,Terengganu,male,4967
+2019-01-01,Terengganu,male,5127
+2020-01-01,Terengganu,male,4536
+2021-01-01,Terengganu,male,4044
+2022-01-01,Terengganu,male,4987

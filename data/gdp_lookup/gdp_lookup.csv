@@ -1,0 +1,175 @@
+method,code,desc_en,desc_bm
+production,p0,GDP at purchasers' prices,KDNK pada harga pembeli
+production,p1,Agriculture,Pertanian
+production,p1.1,Crops,Tanaman
+production,p1.1.1,Rubber,Getah
+production,p1.1.2,Oil palm,Kelapa sawit
+production,p1.1.3,Paddy,Padi
+production,p1.1.4,Vegetables,Sayur-sayuran
+production,p1.1.5,Fruits,Buah-buahan
+production,p1.1.6,Food crops,Tanaman makanan
+production,p1.1.7,Others ,Lain-lain
+production,p1.2,Livestock,Ternakan 
+production,p1.2.1,Poultry,Ternakan ayam dan itik 
+production,p1.2.2 ,Cattle,Lembu/ kerbau 
+production,p1.2.3,Other livestocks,Ternakan lain 
+production,p1.3,Forestry and logging,Perhutanan dan pembalakan
+production,p1.4,Fishing,Perikanan
+production,p1.4.1,Marine fishing,Perikanan laut
+production,p1.4.2,Aquaculture,Akuakultur
+production,p2,Mining and quarrying,Perlombongan dan pengkuarian
+production,p2.1,Crude oil and condensate,Minyak mentah dan kondensat
+production,p2.2,Natural gas ,Gas asli
+production,p2.3,Other mining & quarrying and supporting services,Perlombongan lain & pengkuarian dan perkhidmatan sokongan
+production,p3,Manufacturing,Pembuatan
+production,p3.1,"Minyak dan lemak daripada sayuran & haiwan, prosesan makanan, minuman dan produk tembakau","Vegetable and animal oils & fats, food processing, beverages and tobacco products"
+production,p3.1.1,Vegetable and animal oils & fats,Minyak dan lemak daripada sayuran & haiwan
+production,p3.1.2,Food processing,Prosesan makanan
+production,p3.1.3,Beverages,Minuman
+production,p3.1.4,Tobacco products,Produk tembakau
+production,p3.2,"Tekstil, pakaian dan produk kulit","Textiles, wearing apparel and leather products"
+production,p3.2.1,Textile and wearing apparel,Tekstil dan pakaian
+production,p3.2.2,Leather and related products,Kulit dan produk berkaitan
+production,p3.3,"Produk kayu, perabot, keluaran kertas dan percetakan ","Wood products, furniture, paper products and printing "
+production,p3.3.1,Wood products ,Keluaran kayu
+production,p3.3.2,Paper and paper products,Kertas dan produk kertas
+production,p3.3.3,Printing and reproduction of recorded media ,Percetakan dan pengeluaran semula media rakaman
+production,p3.4,"Produk petroleum, kimia, getah dan plastik","Petroleum, chemical, rubber and plastic products"
+production,p3.4.1,Refined petroleum products,Produk petroleum bertapis
+production,p3.4.2,Chemicals & chemical products and pharmaceutical products ,Bahan kimia & produk kimia dan produk farmaseutikal
+production,p3.4.3,Rubber products,Produk getah
+production,p3.4.4,Plastics products,Produk plastik
+production,p3.5,"Produk mineral bukan logam, logam asas dan produk logam yang direka","Non-metallic mineral products, basic metal and fabricated metal products"
+production,p3.5.1,Non-metallic mineral products,Produk mineral bukan logam
+production,p3.5.2,Basic metals,Logam asas
+production,p3.5.3,Fabricated metal products,Produk logam yang direka
+production,p3.6,"Produk elektrik, elektronik dan optikal","Electrical, electronic and optical products"
+production,p3.6.1,Machinery and equipment,Jentera dan peralatan
+production,p3.6.2,Computers and peripheral equipment,Komputer dan kelengkapan peranti
+production,p3.6.3,Electrical equipment,Kelengkapan elektrik
+production,p3.6.4,"Electronic components & boards, communication equipment and consumer electronics","Komponen & papan elektronik, peralatan komunikasi dan elektronik pengguna"
+production,p3.6.5,"Manufacture of medical, precision & optical instrument, watches and clocks","Pembuatan peralatan perubatan, ketepatan & optik, jam tangan dan jam"
+production,p3.7,"Peralatan pengangkutan, pembuatan lain dan pembaikan","Transport equipment, other manufacturing and repair"
+production,p3.7.1,Motor vehicles and transport equipment,Kenderaan bermotor dan peralatan pengangkutan
+production,p3.7.2,Furniture,Perabot
+production,p3.7.3,Other manufacturing and repair & installation of machinery and equipment,Pembuatan lain dan pembaikan & pemasangan mesin dan kelengkapan
+production,p4,Construction,Pembinaan
+production,p4.1,Buildings,Bangunan
+production,p4.1.1,Residential buildings,Bangunan kediaman
+production,p4.1.2,Non-residential buildings,Bangunan bukan kediaman
+production,p4.2,Civil engineering,Kejuruteraan awam
+production,p4.3,Specialised construction activities,Aktiviti pembinaan pertukangan khas
+production,p5,Services,Perkhidmatan
+production,p5.1,"Utilities, transportation & storage and information & communication","Utiliti, pengangkutan & penyimpanan dan maklumat & komunikasi"
+production,p5.1.1,Electricity and gas,Elektrik dan gas
+production,p5.1.2,"Water, sewerage and waste management","Air, pembentungan dan pengurusan sisa"
+production,p5.1.3,Transportation and storage,Pengangkutan dan penyimpanan
+production,p5.1.3.1,Land transport,Pengangkutan darat
+production,p5.1.3.2,Water transport,Pengangkutan air
+production,p5.1.3.3,Air transport,Pengangkutan udara
+production,p5.1.3.4,Port and airport operation,Pelabuhan dan operasi lapangan terbang
+production,p5.1.3.5,Highway operation,Operasi lebuhraya
+production,p5.1.3.6,Support activities for transportation,Aktiviti sokongan untuk pengangkutan
+production,p5.1.3.7,Postal and courier ,Pos dan kurier
+production,p5.1.4,Information and communication,Maklumat dan komunikasi
+production,p5.1.4.1,Publishing and broadcasting activities ,Aktiviti penerbitan dan penyiaran
+production,p5.1.4.2,Telecommunications,Telekomunikasi
+production,p5.1.4.3,Computer and information service activities,Aktiviti komputer dan perkhidmatan maklumat
+production,p5.2,"Wholesale and retail trade, food & beverage and accommodation","Perdagangan borong dan runcit, makanan & minuman dan penginapan"
+production,p5.2.1,Wholesale and retail trade ,Perdagangan borong dan runcit
+production,p5.2.1.1,Wholesale trade,Perdagangan borong
+production,p5.2.1.2,Retail trade,Perdagangan runcit
+production,p5.2.1.3,Motor vehicles,Kenderaan bermotor
+production,p5.2.2,Food and beverage,Makanan dan minuman
+production,p5.2.3,Accommodation,Penginapan
+production,p5.3,"Finance and insurance, real estate and business services","Kewangan dan insurans, hartanah dan perkhidmatan perniagaan"
+production,p5.3.1,Finance,Kewangan
+production,p5.3.1.1,Monetary intermediation,Pengantara kewangan
+production,p5.3.1.2,Other financial intermediation and activities auxiliary to finance,Lain-lain pengantara kewangan dan aktiviti sokongan kewangan
+production,p5.3.2,Insurance,Insurans
+production,p5.3.2.1,Insurance and pension funding,Insurans dan tabungan pencen
+production,p5.3.2.2,Activities auxiliary to insurance,Aktiviti sokongan insurans
+production,p5.3.3,Real estate,Hartanah
+production,p5.3.4,Business services,Perkhidmatan perniagaan
+production,p5.3.4.1,"Professional, scientific and technical ","Profesional, saintifik dan teknikal"
+production,p5.3.4.2,Administrative and support services,Pentadbiran dan khidmat sokongan
+production,p5.4,Other services,Perkhidmatan-perkhidmatan lain
+production,p5.4.1,Private health services,Perkhidmatan kesihatan swasta
+production,p5.4.2,Private education services,Perkhidmatan pendidikan swasta
+production,p5.4.3,Owner-occupied dwellings,Kediaman yang didiami oleh pemilik
+production,p5.4.4,Non-profit institutions serving households,Institusi bukan keuntungan yang berkhidmat kepada isi rumah
+production,p5.4.5,Domestic services of households,Perkhidmatan domestik bagi isi rumah
+production,p5.4.6,Other services not elsewhere classified,Perkhidmatan yang tidak terkelas di tempat lain
+production,p5.5,Government services,Perkhidmatan kerajaan
+production,p5.5.01,General public services,Perkhidmatan awam am
+production,p5.5.02,Defence,Pertahanan
+production,p5.5.03,Public order and safety,Ketenteraman dan keselamatan awam
+production,p5.5.04,Economic affairs,Perkhidmatan ekonomi
+production,p5.5.05,Environmental protection,Perlindungan alam sekitar
+production,p5.5.06,Housing and community amenities,Kemudahan perumahan dan kemasyarakatan
+production,p5.5.07,Health,Kesihatan
+production,p5.5.08,"Recreation, culture and religion","Rekreasi, kebudayaan dan keagamaan"
+production,p5.5.09,Education,Pendidikan
+production,p5.5.10,Social protection,Perlindungan sosial
+production,p6,(plus) Import duties,(tambah) Duti import
+expenditure,e0,GDP at purchasers' prices,KDNK pada harga pembeli
+expenditure,e1,Private final consumption expenditure,Perbelanjaan penggunaan akhir swasta
+expenditure,e1.1,Private final consumption expenditure by purpose,Perbelanjaan penggunaan akhir swasta mengikut tujuan
+expenditure,e1.1.01,Food and non-alcoholic beverages,Makanan dan minuman bukan alkohol
+expenditure,e1.1.02,Alcoholic beverages and tobacco,Minuman alkohol dan tembakau
+expenditure,e1.1.03,Clothing and footwear,Pakaian dan kasut
+expenditure,e1.1.04,"Housing, water, electricity, gas and other fuels","Perumahan, air, elektrik, gas dan bahan api lain"
+expenditure,e1.1.05,"Furnishings, household equipment and routine household maintenance","Hiasan, perkakasan dan penyelenggaraan isi rumah"
+expenditure,e1.1.06,Health,Kesihatan
+expenditure,e1.1.07,Transport,Pengangkutan
+expenditure,e1.1.08,Communication,Komunikasi
+expenditure,e1.1.09,Recreation services and culture,Perkhidmatan rekreasi dan kebudayaan
+expenditure,e1.1.10,Education,Pendidikan
+expenditure,e1.1.11,Restaurants and hotels,Restoran dan hotel
+expenditure,e1.1.12,Miscellaneous goods and services,Pelbagai barangan dan perkhidmatan
+expenditure,e1.1.13,Resident household purchase abroad,Pembelian oleh residen di luar negeri
+expenditure,e1.1.14,(less) Non-resident household purchase in domestic market,(tolak) Pembelian oleh isi rumah bukan residen dalam pasaran domestik
+expenditure,e1.1.15,Final consumption expenditure of non-profit institutions serving households,Perbelanjaan penggunaan akhir institusi bukan keuntungan yang berkhidmat kepada isi rumah
+expenditure,e1.2,Individual consumption of general government,Penggunaan perseorangan kerajaan am
+expenditure,e1.2.1,Health services,Perkhidmatan kesihatan
+expenditure,e1.2.2,Education services,Perkhidmatan pendidikan
+expenditure,e1.2.3,Social services,Perkhidmatan sosial
+expenditure,e1.3,Actual final consumption of household,Penggunaan akhir sebenar isi rumah
+expenditure,e1.4,Household final consumption expenditure by consumption category,Perbelanjaan penggunaan akhir isi rumah mengikut kategori penggunaan
+expenditure,e1.4.1,Goods,Barangan
+expenditure,e1.4.1.1,Non-durable goods,Barangan tidak tahan lama
+expenditure,e1.4.1.2,Semi-durable goods,Barangan separa tahan lama
+expenditure,e1.4.1.3,Durable goods,Barangan tahan lama
+expenditure,e1.4.2,Services,Perkhidmatan
+expenditure,e2,Government final consumption expenditure,Perbelanjaan penggunaan akhir kerajaan
+expenditure,e2.01,General public services,Perkhidmatan awam am
+expenditure,e2.02,Defence,Pertahanan
+expenditure,e2.03,Public order and safety,Ketenteraman dan keselamatan awam
+expenditure,e2.04,Economic affairs,Perkhidmatan ekonomi
+expenditure,e2.05,Environmental protection,Perlindungan alam sekitar
+expenditure,e2.06,Housing and community amenities,Kemudahan perumahan dan kemasyarakatan
+expenditure,e2.07,Health,Kesihatan
+expenditure,e2.08,"Recreation, culture and religion","Rekreasi, kebudayaan dan keagamaan"
+expenditure,e2.09,Education,Pendidikan
+expenditure,e2.10,Social protection,Perlindungan sosial
+expenditure,e3,Gross fixed capital formation,Pembentukan modal tetap kasar
+expenditure,e3.1,Gross fixed capital formation by type of assets,Pembentukan modal tetap kasar mengikut jenis aset
+expenditure,e3.1.1,Structure,Struktur
+expenditure,e3.1.2,Machinery and equipment,Jentera dan peralatan
+expenditure,e3.1.3,Other asset,Aset lain
+expenditure,e3.2,Gross fixed capital formation by sectors,Pembentukan modal tetap kasar mengikut sektor
+expenditure,e3.2.1,Public,Awam
+expenditure,e3.2.2,Private,Swasta
+expenditure,e4,Changes in inventories and valuables,Perubahan inventori dan barangan berharga
+expenditure,e5,Exports of goods and services,Eksport barangan dan perkhidmatan
+expenditure,e5.1,Exports of goods,Eksport barangan
+expenditure,e5.2,Exports of services,Eksport perkhidmatan
+expenditure,e6,(less) Imports of goods and services,(tolak) Import barangan dan perkhidmatan
+expenditure,e6.1,(less) Imports of goods,(tolak) Import barangan
+expenditure,e6.2,(less) Imports of services,(tolak) Import perkhidmatan
+income,i0,GDP at purchasers' prices,KDNK pada harga pembeli
+income,i1,Compensation of employees,Pampasan pekerja
+income,i2,Gross operating surplus,Lebihan kendalian kasar
+income,i3,Taxes less subsidies on production and imports,Cukai tolak subsidi ke atas pengeluaran dan import
+income,i3.1,Taxes on production and imports,Cukai ke atas pengeluaran dan import
+income,i3.2,(less) subsidies,(tolak) subsidi

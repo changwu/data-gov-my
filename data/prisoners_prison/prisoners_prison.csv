@@ -1,0 +1,649 @@
+date,state,prison,sex,prisoners
+2017-01-01,Johor,Penjara Kluang,both,10003
+2018-01-01,Johor,Penjara Kluang,both,1070
+2019-01-01,Johor,Penjara Kluang,both,2138
+2020-01-01,Johor,Penjara Kluang,both,10802
+2021-01-01,Johor,Penjara Kluang,both,7486
+2022-01-01,Johor,Penjara Kluang,both,5923
+2017-01-01,Johor,Penjara Kluang,female,1792
+2018-01-01,Johor,Penjara Kluang,female,0
+2019-01-01,Johor,Penjara Kluang,female,1
+2020-01-01,Johor,Penjara Kluang,female,1356
+2021-01-01,Johor,Penjara Kluang,female,717
+2022-01-01,Johor,Penjara Kluang,female,547
+2017-01-01,Johor,Penjara Kluang,male,8211
+2018-01-01,Johor,Penjara Kluang,male,1070
+2019-01-01,Johor,Penjara Kluang,male,2137
+2020-01-01,Johor,Penjara Kluang,male,9446
+2021-01-01,Johor,Penjara Kluang,male,6769
+2022-01-01,Johor,Penjara Kluang,male,5376
+2017-01-01,Johor,Penjara Simpang Renggam,both,1290
+2018-01-01,Johor,Penjara Simpang Renggam,both,270
+2019-01-01,Johor,Penjara Simpang Renggam,both,321
+2020-01-01,Johor,Penjara Simpang Renggam,both,792
+2021-01-01,Johor,Penjara Simpang Renggam,both,439
+2022-01-01,Johor,Penjara Simpang Renggam,both,576
+2017-01-01,Johor,Penjara Simpang Renggam,female,0
+2018-01-01,Johor,Penjara Simpang Renggam,female,0
+2019-01-01,Johor,Penjara Simpang Renggam,female,0
+2020-01-01,Johor,Penjara Simpang Renggam,female,10
+2021-01-01,Johor,Penjara Simpang Renggam,female,5
+2022-01-01,Johor,Penjara Simpang Renggam,female,2
+2017-01-01,Johor,Penjara Simpang Renggam,male,1290
+2018-01-01,Johor,Penjara Simpang Renggam,male,270
+2019-01-01,Johor,Penjara Simpang Renggam,male,321
+2020-01-01,Johor,Penjara Simpang Renggam,male,782
+2021-01-01,Johor,Penjara Simpang Renggam,male,434
+2022-01-01,Johor,Penjara Simpang Renggam,male,574
+2017-01-01,Johor,Pusat Koreksional Johor Bahru,both,290
+2018-01-01,Johor,Pusat Koreksional Johor Bahru,both,10549
+2019-01-01,Johor,Pusat Koreksional Johor Bahru,both,11817
+2020-01-01,Johor,Pusat Koreksional Johor Bahru,both,297
+2021-01-01,Johor,Pusat Koreksional Johor Bahru,both,112
+2022-01-01,Johor,Pusat Koreksional Johor Bahru,both,229
+2017-01-01,Johor,Pusat Koreksional Johor Bahru,female,0
+2018-01-01,Johor,Pusat Koreksional Johor Bahru,female,1963
+2019-01-01,Johor,Pusat Koreksional Johor Bahru,female,1948
+2020-01-01,Johor,Pusat Koreksional Johor Bahru,female,0
+2021-01-01,Johor,Pusat Koreksional Johor Bahru,female,0
+2022-01-01,Johor,Pusat Koreksional Johor Bahru,female,16
+2017-01-01,Johor,Pusat Koreksional Johor Bahru,male,290
+2018-01-01,Johor,Pusat Koreksional Johor Bahru,male,8586
+2019-01-01,Johor,Pusat Koreksional Johor Bahru,male,9869
+2020-01-01,Johor,Pusat Koreksional Johor Bahru,male,297
+2021-01-01,Johor,Pusat Koreksional Johor Bahru,male,112
+2022-01-01,Johor,Pusat Koreksional Johor Bahru,male,213
+2017-01-01,Johor,Pusat Koreksional Muar,both,6
+2018-01-01,Johor,Pusat Koreksional Muar,both,13
+2019-01-01,Johor,Pusat Koreksional Muar,both,36
+2020-01-01,Johor,Pusat Koreksional Muar,both,267
+2021-01-01,Johor,Pusat Koreksional Muar,both,579
+2022-01-01,Johor,Pusat Koreksional Muar,both,1907
+2017-01-01,Johor,Pusat Koreksional Muar,female,0
+2018-01-01,Johor,Pusat Koreksional Muar,female,0
+2019-01-01,Johor,Pusat Koreksional Muar,female,0
+2020-01-01,Johor,Pusat Koreksional Muar,female,0
+2021-01-01,Johor,Pusat Koreksional Muar,female,0
+2022-01-01,Johor,Pusat Koreksional Muar,female,0
+2017-01-01,Johor,Pusat Koreksional Muar,male,6
+2018-01-01,Johor,Pusat Koreksional Muar,male,13
+2019-01-01,Johor,Pusat Koreksional Muar,male,36
+2020-01-01,Johor,Pusat Koreksional Muar,male,267
+2021-01-01,Johor,Pusat Koreksional Muar,male,579
+2022-01-01,Johor,Pusat Koreksional Muar,male,1907
+2017-01-01,Kedah,Penjara Alor Setar,both,136
+2018-01-01,Kedah,Penjara Alor Setar,both,5856
+2019-01-01,Kedah,Penjara Alor Setar,both,6251
+2020-01-01,Kedah,Penjara Alor Setar,both,60
+2021-01-01,Kedah,Penjara Alor Setar,both,468
+2022-01-01,Kedah,Penjara Alor Setar,both,482
+2017-01-01,Kedah,Penjara Alor Setar,female,67
+2018-01-01,Kedah,Penjara Alor Setar,female,588
+2019-01-01,Kedah,Penjara Alor Setar,female,631
+2020-01-01,Kedah,Penjara Alor Setar,female,23
+2021-01-01,Kedah,Penjara Alor Setar,female,0
+2022-01-01,Kedah,Penjara Alor Setar,female,0
+2017-01-01,Kedah,Penjara Alor Setar,male,69
+2018-01-01,Kedah,Penjara Alor Setar,male,5268
+2019-01-01,Kedah,Penjara Alor Setar,male,5620
+2020-01-01,Kedah,Penjara Alor Setar,male,37
+2021-01-01,Kedah,Penjara Alor Setar,male,468
+2022-01-01,Kedah,Penjara Alor Setar,male,482
+2017-01-01,Kedah,Penjara Pokok Sena,both,5726
+2018-01-01,Kedah,Penjara Pokok Sena,both,154
+2019-01-01,Kedah,Penjara Pokok Sena,both,178
+2020-01-01,Kedah,Penjara Pokok Sena,both,5405
+2021-01-01,Kedah,Penjara Pokok Sena,both,4820
+2022-01-01,Kedah,Penjara Pokok Sena,both,7572
+2017-01-01,Kedah,Penjara Pokok Sena,female,550
+2018-01-01,Kedah,Penjara Pokok Sena,female,94
+2019-01-01,Kedah,Penjara Pokok Sena,female,149
+2020-01-01,Kedah,Penjara Pokok Sena,female,414
+2021-01-01,Kedah,Penjara Pokok Sena,female,158
+2022-01-01,Kedah,Penjara Pokok Sena,female,571
+2017-01-01,Kedah,Penjara Pokok Sena,male,5176
+2018-01-01,Kedah,Penjara Pokok Sena,male,60
+2019-01-01,Kedah,Penjara Pokok Sena,male,29
+2020-01-01,Kedah,Penjara Pokok Sena,male,4991
+2021-01-01,Kedah,Penjara Pokok Sena,male,4662
+2022-01-01,Kedah,Penjara Pokok Sena,male,7001
+2017-01-01,Kedah,Penjara Sungai Petani,both,1183
+2018-01-01,Kedah,Penjara Sungai Petani,both,958
+2019-01-01,Kedah,Penjara Sungai Petani,both,1078
+2020-01-01,Kedah,Penjara Sungai Petani,both,1181
+2021-01-01,Kedah,Penjara Sungai Petani,both,1567
+2022-01-01,Kedah,Penjara Sungai Petani,both,926
+2017-01-01,Kedah,Penjara Sungai Petani,female,0
+2018-01-01,Kedah,Penjara Sungai Petani,female,0
+2019-01-01,Kedah,Penjara Sungai Petani,female,1
+2020-01-01,Kedah,Penjara Sungai Petani,female,0
+2021-01-01,Kedah,Penjara Sungai Petani,female,110
+2022-01-01,Kedah,Penjara Sungai Petani,female,179
+2017-01-01,Kedah,Penjara Sungai Petani,male,1183
+2018-01-01,Kedah,Penjara Sungai Petani,male,958
+2019-01-01,Kedah,Penjara Sungai Petani,male,1077
+2020-01-01,Kedah,Penjara Sungai Petani,male,1181
+2021-01-01,Kedah,Penjara Sungai Petani,male,1457
+2022-01-01,Kedah,Penjara Sungai Petani,male,747
+2017-01-01,Kelantan,Penjara Pengkalan Chepa,both,3461
+2018-01-01,Kelantan,Penjara Pengkalan Chepa,both,3599
+2019-01-01,Kelantan,Penjara Pengkalan Chepa,both,3490
+2020-01-01,Kelantan,Penjara Pengkalan Chepa,both,3247
+2021-01-01,Kelantan,Penjara Pengkalan Chepa,both,2707
+2022-01-01,Kelantan,Penjara Pengkalan Chepa,both,1351
+2017-01-01,Kelantan,Penjara Pengkalan Chepa,female,473
+2018-01-01,Kelantan,Penjara Pengkalan Chepa,female,482
+2019-01-01,Kelantan,Penjara Pengkalan Chepa,female,569
+2020-01-01,Kelantan,Penjara Pengkalan Chepa,female,449
+2021-01-01,Kelantan,Penjara Pengkalan Chepa,female,349
+2022-01-01,Kelantan,Penjara Pengkalan Chepa,female,699
+2017-01-01,Kelantan,Penjara Pengkalan Chepa,male,2988
+2018-01-01,Kelantan,Penjara Pengkalan Chepa,male,3117
+2019-01-01,Kelantan,Penjara Pengkalan Chepa,male,2921
+2020-01-01,Kelantan,Penjara Pengkalan Chepa,male,2798
+2021-01-01,Kelantan,Penjara Pengkalan Chepa,male,2358
+2022-01-01,Kelantan,Penjara Pengkalan Chepa,male,652
+2017-01-01,Kelantan,Pusat Koreksional Machang,both,3605
+2018-01-01,Kelantan,Pusat Koreksional Machang,both,3395
+2019-01-01,Kelantan,Pusat Koreksional Machang,both,3779
+2020-01-01,Kelantan,Pusat Koreksional Machang,both,3651
+2021-01-01,Kelantan,Pusat Koreksional Machang,both,3318
+2022-01-01,Kelantan,Pusat Koreksional Machang,both,6635
+2017-01-01,Kelantan,Pusat Koreksional Machang,female,0
+2018-01-01,Kelantan,Pusat Koreksional Machang,female,1
+2019-01-01,Kelantan,Pusat Koreksional Machang,female,0
+2020-01-01,Kelantan,Pusat Koreksional Machang,female,0
+2021-01-01,Kelantan,Pusat Koreksional Machang,female,0
+2022-01-01,Kelantan,Pusat Koreksional Machang,female,0
+2017-01-01,Kelantan,Pusat Koreksional Machang,male,3605
+2018-01-01,Kelantan,Pusat Koreksional Machang,male,3394
+2019-01-01,Kelantan,Pusat Koreksional Machang,male,3779
+2020-01-01,Kelantan,Pusat Koreksional Machang,male,3651
+2021-01-01,Kelantan,Pusat Koreksional Machang,male,3318
+2022-01-01,Kelantan,Pusat Koreksional Machang,male,6635
+2017-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,both,460
+2018-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,both,5398
+2019-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,both,6869
+2020-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,both,21
+2021-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,both,62
+2022-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,both,77
+2017-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,female,0
+2018-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,female,478
+2019-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,female,772
+2020-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,female,0
+2021-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,female,0
+2022-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,female,0
+2017-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,male,460
+2018-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,male,4920
+2019-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,male,6097
+2020-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,male,21
+2021-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,male,62
+2022-01-01,Melaka,Penjara Pra Bebas Dusun Dato Murad,male,77
+2017-01-01,Melaka,Penjara Sungai Udang,both,5458
+2018-01-01,Melaka,Penjara Sungai Udang,both,205
+2019-01-01,Melaka,Penjara Sungai Udang,both,114
+2020-01-01,Melaka,Penjara Sungai Udang,both,5868
+2021-01-01,Melaka,Penjara Sungai Udang,both,2982
+2022-01-01,Melaka,Penjara Sungai Udang,both,5130
+2017-01-01,Melaka,Penjara Sungai Udang,female,588
+2018-01-01,Melaka,Penjara Sungai Udang,female,0
+2019-01-01,Melaka,Penjara Sungai Udang,female,0
+2020-01-01,Melaka,Penjara Sungai Udang,female,928
+2021-01-01,Melaka,Penjara Sungai Udang,female,426
+2022-01-01,Melaka,Penjara Sungai Udang,female,647
+2017-01-01,Melaka,Penjara Sungai Udang,male,4870
+2018-01-01,Melaka,Penjara Sungai Udang,male,205
+2019-01-01,Melaka,Penjara Sungai Udang,male,114
+2020-01-01,Melaka,Penjara Sungai Udang,male,4940
+2021-01-01,Melaka,Penjara Sungai Udang,male,2556
+2022-01-01,Melaka,Penjara Sungai Udang,male,4483
+2017-01-01,Melaka,Pusat Koreksional Jasin,both,82
+2018-01-01,Melaka,Pusat Koreksional Jasin,both,119
+2019-01-01,Melaka,Pusat Koreksional Jasin,both,301
+2020-01-01,Melaka,Pusat Koreksional Jasin,both,136
+2021-01-01,Melaka,Pusat Koreksional Jasin,both,87
+2022-01-01,Melaka,Pusat Koreksional Jasin,both,74
+2017-01-01,Melaka,Pusat Koreksional Jasin,female,0
+2018-01-01,Melaka,Pusat Koreksional Jasin,female,0
+2019-01-01,Melaka,Pusat Koreksional Jasin,female,0
+2020-01-01,Melaka,Pusat Koreksional Jasin,female,0
+2021-01-01,Melaka,Pusat Koreksional Jasin,female,0
+2022-01-01,Melaka,Pusat Koreksional Jasin,female,0
+2017-01-01,Melaka,Pusat Koreksional Jasin,male,82
+2018-01-01,Melaka,Pusat Koreksional Jasin,male,119
+2019-01-01,Melaka,Pusat Koreksional Jasin,male,301
+2020-01-01,Melaka,Pusat Koreksional Jasin,male,136
+2021-01-01,Melaka,Pusat Koreksional Jasin,male,87
+2022-01-01,Melaka,Pusat Koreksional Jasin,male,74
+2017-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,both,1746
+2018-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,both,1618
+2019-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,both,2441
+2020-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,both,1650
+2021-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,both,1752
+2022-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,both,2484
+2017-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,female,1
+2018-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,female,0
+2019-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,female,1
+2020-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,female,0
+2021-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,female,1
+2022-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,female,0
+2017-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,male,1745
+2018-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,male,1618
+2019-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,male,2440
+2020-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,male,1650
+2021-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,male,1751
+2022-01-01,Negeri Sembilan,Institut Pemulihan Dadah Jelebu,male,2484
+2017-01-01,Negeri Sembilan,Penjara Seremban,both,3369
+2018-01-01,Negeri Sembilan,Penjara Seremban,both,2468
+2019-01-01,Negeri Sembilan,Penjara Seremban,both,2387
+2020-01-01,Negeri Sembilan,Penjara Seremban,both,1749
+2021-01-01,Negeri Sembilan,Penjara Seremban,both,747
+2022-01-01,Negeri Sembilan,Penjara Seremban,both,238
+2017-01-01,Negeri Sembilan,Penjara Seremban,female,0
+2018-01-01,Negeri Sembilan,Penjara Seremban,female,3
+2019-01-01,Negeri Sembilan,Penjara Seremban,female,11
+2020-01-01,Negeri Sembilan,Penjara Seremban,female,0
+2021-01-01,Negeri Sembilan,Penjara Seremban,female,0
+2022-01-01,Negeri Sembilan,Penjara Seremban,female,0
+2017-01-01,Negeri Sembilan,Penjara Seremban,male,3369
+2018-01-01,Negeri Sembilan,Penjara Seremban,male,2465
+2019-01-01,Negeri Sembilan,Penjara Seremban,male,2376
+2020-01-01,Negeri Sembilan,Penjara Seremban,male,1749
+2021-01-01,Negeri Sembilan,Penjara Seremban,male,747
+2022-01-01,Negeri Sembilan,Penjara Seremban,male,238
+2017-01-01,Pahang,Penjara Bentong,both,2947
+2018-01-01,Pahang,Penjara Bentong,both,3051
+2019-01-01,Pahang,Penjara Bentong,both,3035
+2020-01-01,Pahang,Penjara Bentong,both,3797
+2021-01-01,Pahang,Penjara Bentong,both,2450
+2022-01-01,Pahang,Penjara Bentong,both,3656
+2017-01-01,Pahang,Penjara Bentong,female,0
+2018-01-01,Pahang,Penjara Bentong,female,0
+2019-01-01,Pahang,Penjara Bentong,female,0
+2020-01-01,Pahang,Penjara Bentong,female,425
+2021-01-01,Pahang,Penjara Bentong,female,307
+2022-01-01,Pahang,Penjara Bentong,female,545
+2017-01-01,Pahang,Penjara Bentong,male,2947
+2018-01-01,Pahang,Penjara Bentong,male,3051
+2019-01-01,Pahang,Penjara Bentong,male,3035
+2020-01-01,Pahang,Penjara Bentong,male,3372
+2021-01-01,Pahang,Penjara Bentong,male,2143
+2022-01-01,Pahang,Penjara Bentong,male,3111
+2017-01-01,Pahang,Penjara Penor,both,4370
+2018-01-01,Pahang,Penjara Penor,both,4505
+2019-01-01,Pahang,Penjara Penor,both,4817
+2020-01-01,Pahang,Penjara Penor,both,2492
+2021-01-01,Pahang,Penjara Penor,both,1784
+2022-01-01,Pahang,Penjara Penor,both,2321
+2017-01-01,Pahang,Penjara Penor,female,575
+2018-01-01,Pahang,Penjara Penor,female,571
+2019-01-01,Pahang,Penjara Penor,female,553
+2020-01-01,Pahang,Penjara Penor,female,0
+2021-01-01,Pahang,Penjara Penor,female,0
+2022-01-01,Pahang,Penjara Penor,female,0
+2017-01-01,Pahang,Penjara Penor,male,3795
+2018-01-01,Pahang,Penjara Penor,male,3934
+2019-01-01,Pahang,Penjara Penor,male,4264
+2020-01-01,Pahang,Penjara Penor,male,2492
+2021-01-01,Pahang,Penjara Penor,male,1784
+2022-01-01,Pahang,Penjara Penor,male,2321
+2017-01-01,Perak,Penjara Taiping,both,707
+2018-01-01,Perak,Penjara Taiping,both,797
+2019-01-01,Perak,Penjara Taiping,both,1755
+2020-01-01,Perak,Penjara Taiping,both,1485
+2021-01-01,Perak,Penjara Taiping,both,1786
+2022-01-01,Perak,Penjara Taiping,both,2305
+2017-01-01,Perak,Penjara Taiping,female,0
+2018-01-01,Perak,Penjara Taiping,female,0
+2019-01-01,Perak,Penjara Taiping,female,0
+2020-01-01,Perak,Penjara Taiping,female,0
+2021-01-01,Perak,Penjara Taiping,female,0
+2022-01-01,Perak,Penjara Taiping,female,0
+2017-01-01,Perak,Penjara Taiping,male,707
+2018-01-01,Perak,Penjara Taiping,male,797
+2019-01-01,Perak,Penjara Taiping,male,1755
+2020-01-01,Perak,Penjara Taiping,male,1485
+2021-01-01,Perak,Penjara Taiping,male,1786
+2022-01-01,Perak,Penjara Taiping,male,2305
+2017-01-01,Perak,Penjara Tapah,both,6575
+2018-01-01,Perak,Penjara Tapah,both,5871
+2019-01-01,Perak,Penjara Tapah,both,7528
+2020-01-01,Perak,Penjara Tapah,both,6187
+2021-01-01,Perak,Penjara Tapah,both,3210
+2022-01-01,Perak,Penjara Tapah,both,4938
+2017-01-01,Perak,Penjara Tapah,female,645
+2018-01-01,Perak,Penjara Tapah,female,415
+2019-01-01,Perak,Penjara Tapah,female,687
+2020-01-01,Perak,Penjara Tapah,female,682
+2021-01-01,Perak,Penjara Tapah,female,379
+2022-01-01,Perak,Penjara Tapah,female,554
+2017-01-01,Perak,Penjara Tapah,male,5930
+2018-01-01,Perak,Penjara Tapah,male,5456
+2019-01-01,Perak,Penjara Tapah,male,6841
+2020-01-01,Perak,Penjara Tapah,male,5505
+2021-01-01,Perak,Penjara Tapah,male,2831
+2022-01-01,Perak,Penjara Tapah,male,4384
+2017-01-01,Perak,Pusat Koreksional Kamunting,both,1283
+2018-01-01,Perak,Pusat Koreksional Kamunting,both,672
+2019-01-01,Perak,Pusat Koreksional Kamunting,both,595
+2020-01-01,Perak,Pusat Koreksional Kamunting,both,886
+2021-01-01,Perak,Pusat Koreksional Kamunting,both,1718
+2022-01-01,Perak,Pusat Koreksional Kamunting,both,1033
+2017-01-01,Perak,Pusat Koreksional Kamunting,female,2
+2018-01-01,Perak,Pusat Koreksional Kamunting,female,0
+2019-01-01,Perak,Pusat Koreksional Kamunting,female,1
+2020-01-01,Perak,Pusat Koreksional Kamunting,female,10
+2021-01-01,Perak,Pusat Koreksional Kamunting,female,12
+2022-01-01,Perak,Pusat Koreksional Kamunting,female,1
+2017-01-01,Perak,Pusat Koreksional Kamunting,male,1281
+2018-01-01,Perak,Pusat Koreksional Kamunting,male,672
+2019-01-01,Perak,Pusat Koreksional Kamunting,male,594
+2020-01-01,Perak,Pusat Koreksional Kamunting,male,876
+2021-01-01,Perak,Pusat Koreksional Kamunting,male,1706
+2022-01-01,Perak,Pusat Koreksional Kamunting,male,1032
+2017-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,both,81
+2018-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,both,73
+2019-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,both,60
+2020-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,both,61
+2021-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,both,161
+2022-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,both,1113
+2017-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,female,0
+2018-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,female,0
+2019-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,female,0
+2020-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,female,0
+2021-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,female,11
+2022-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,female,3
+2017-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,male,81
+2018-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,male,73
+2019-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,male,60
+2020-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,male,61
+2021-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,male,150
+2022-01-01,Pulau Pinang,Penjara Reman Pulau Pinang,male,1110
+2017-01-01,Pulau Pinang,Penjara Seberang Perai,both,8243
+2018-01-01,Pulau Pinang,Penjara Seberang Perai,both,7860
+2019-01-01,Pulau Pinang,Penjara Seberang Perai,both,10004
+2020-01-01,Pulau Pinang,Penjara Seberang Perai,both,5251
+2021-01-01,Pulau Pinang,Penjara Seberang Perai,both,4566
+2022-01-01,Pulau Pinang,Penjara Seberang Perai,both,5586
+2017-01-01,Pulau Pinang,Penjara Seberang Perai,female,724
+2018-01-01,Pulau Pinang,Penjara Seberang Perai,female,746
+2019-01-01,Pulau Pinang,Penjara Seberang Perai,female,923
+2020-01-01,Pulau Pinang,Penjara Seberang Perai,female,518
+2021-01-01,Pulau Pinang,Penjara Seberang Perai,female,431
+2022-01-01,Pulau Pinang,Penjara Seberang Perai,female,459
+2017-01-01,Pulau Pinang,Penjara Seberang Perai,male,7519
+2018-01-01,Pulau Pinang,Penjara Seberang Perai,male,7114
+2019-01-01,Pulau Pinang,Penjara Seberang Perai,male,9081
+2020-01-01,Pulau Pinang,Penjara Seberang Perai,male,4733
+2021-01-01,Pulau Pinang,Penjara Seberang Perai,male,4135
+2022-01-01,Pulau Pinang,Penjara Seberang Perai,male,5127
+2017-01-01,Sabah,Penjara Kota Kinabalu,both,5827
+2018-01-01,Sabah,Penjara Kota Kinabalu,both,6142
+2019-01-01,Sabah,Penjara Kota Kinabalu,both,6625
+2020-01-01,Sabah,Penjara Kota Kinabalu,both,3691
+2021-01-01,Sabah,Penjara Kota Kinabalu,both,2240
+2022-01-01,Sabah,Penjara Kota Kinabalu,both,3972
+2017-01-01,Sabah,Penjara Kota Kinabalu,female,1003
+2018-01-01,Sabah,Penjara Kota Kinabalu,female,989
+2019-01-01,Sabah,Penjara Kota Kinabalu,female,731
+2020-01-01,Sabah,Penjara Kota Kinabalu,female,396
+2021-01-01,Sabah,Penjara Kota Kinabalu,female,270
+2022-01-01,Sabah,Penjara Kota Kinabalu,female,322
+2017-01-01,Sabah,Penjara Kota Kinabalu,male,4824
+2018-01-01,Sabah,Penjara Kota Kinabalu,male,5153
+2019-01-01,Sabah,Penjara Kota Kinabalu,male,5894
+2020-01-01,Sabah,Penjara Kota Kinabalu,male,3295
+2021-01-01,Sabah,Penjara Kota Kinabalu,male,1970
+2022-01-01,Sabah,Penjara Kota Kinabalu,male,3650
+2017-01-01,Sabah,Penjara Sandakan,both,1800
+2018-01-01,Sabah,Penjara Sandakan,both,2078
+2019-01-01,Sabah,Penjara Sandakan,both,2640
+2020-01-01,Sabah,Penjara Sandakan,both,1699
+2021-01-01,Sabah,Penjara Sandakan,both,1230
+2022-01-01,Sabah,Penjara Sandakan,both,1427
+2017-01-01,Sabah,Penjara Sandakan,female,225
+2018-01-01,Sabah,Penjara Sandakan,female,264
+2019-01-01,Sabah,Penjara Sandakan,female,300
+2020-01-01,Sabah,Penjara Sandakan,female,144
+2021-01-01,Sabah,Penjara Sandakan,female,122
+2022-01-01,Sabah,Penjara Sandakan,female,110
+2017-01-01,Sabah,Penjara Sandakan,male,1575
+2018-01-01,Sabah,Penjara Sandakan,male,1814
+2019-01-01,Sabah,Penjara Sandakan,male,2340
+2020-01-01,Sabah,Penjara Sandakan,male,1555
+2021-01-01,Sabah,Penjara Sandakan,male,1108
+2022-01-01,Sabah,Penjara Sandakan,male,1317
+2017-01-01,Sabah,Penjara Tawau,both,4077
+2018-01-01,Sabah,Penjara Tawau,both,4279
+2019-01-01,Sabah,Penjara Tawau,both,5780
+2020-01-01,Sabah,Penjara Tawau,both,2826
+2021-01-01,Sabah,Penjara Tawau,both,2194
+2022-01-01,Sabah,Penjara Tawau,both,2686
+2017-01-01,Sabah,Penjara Tawau,female,326
+2018-01-01,Sabah,Penjara Tawau,female,340
+2019-01-01,Sabah,Penjara Tawau,female,503
+2020-01-01,Sabah,Penjara Tawau,female,200
+2021-01-01,Sabah,Penjara Tawau,female,144
+2022-01-01,Sabah,Penjara Tawau,female,204
+2017-01-01,Sabah,Penjara Tawau,male,3751
+2018-01-01,Sabah,Penjara Tawau,male,3939
+2019-01-01,Sabah,Penjara Tawau,male,5277
+2020-01-01,Sabah,Penjara Tawau,male,2626
+2021-01-01,Sabah,Penjara Tawau,male,2050
+2022-01-01,Sabah,Penjara Tawau,male,2482
+2017-01-01,Sabah,Pusat Koreksional Labuan,both,501
+2018-01-01,Sabah,Pusat Koreksional Labuan,both,716
+2019-01-01,Sabah,Pusat Koreksional Labuan,both,654
+2020-01-01,Sabah,Pusat Koreksional Labuan,both,282
+2021-01-01,Sabah,Pusat Koreksional Labuan,both,205
+2022-01-01,Sabah,Pusat Koreksional Labuan,both,327
+2017-01-01,Sabah,Pusat Koreksional Labuan,female,2
+2018-01-01,Sabah,Pusat Koreksional Labuan,female,0
+2019-01-01,Sabah,Pusat Koreksional Labuan,female,1
+2020-01-01,Sabah,Pusat Koreksional Labuan,female,0
+2021-01-01,Sabah,Pusat Koreksional Labuan,female,0
+2022-01-01,Sabah,Pusat Koreksional Labuan,female,0
+2017-01-01,Sabah,Pusat Koreksional Labuan,male,499
+2018-01-01,Sabah,Pusat Koreksional Labuan,male,716
+2019-01-01,Sabah,Pusat Koreksional Labuan,male,653
+2020-01-01,Sabah,Pusat Koreksional Labuan,male,282
+2021-01-01,Sabah,Pusat Koreksional Labuan,male,205
+2022-01-01,Sabah,Pusat Koreksional Labuan,male,327
+2017-01-01,Sarawak,Penjara Limbang,both,219
+2018-01-01,Sarawak,Penjara Limbang,both,324
+2019-01-01,Sarawak,Penjara Limbang,both,370
+2020-01-01,Sarawak,Penjara Limbang,both,195
+2021-01-01,Sarawak,Penjara Limbang,both,148
+2022-01-01,Sarawak,Penjara Limbang,both,179
+2017-01-01,Sarawak,Penjara Limbang,female,19
+2018-01-01,Sarawak,Penjara Limbang,female,11
+2019-01-01,Sarawak,Penjara Limbang,female,10
+2020-01-01,Sarawak,Penjara Limbang,female,0
+2021-01-01,Sarawak,Penjara Limbang,female,0
+2022-01-01,Sarawak,Penjara Limbang,female,0
+2017-01-01,Sarawak,Penjara Limbang,male,200
+2018-01-01,Sarawak,Penjara Limbang,male,313
+2019-01-01,Sarawak,Penjara Limbang,male,360
+2020-01-01,Sarawak,Penjara Limbang,male,195
+2021-01-01,Sarawak,Penjara Limbang,male,148
+2022-01-01,Sarawak,Penjara Limbang,male,179
+2017-01-01,Sarawak,Penjara Miri,both,616
+2018-01-01,Sarawak,Penjara Miri,both,656
+2019-01-01,Sarawak,Penjara Miri,both,825
+2020-01-01,Sarawak,Penjara Miri,both,990
+2021-01-01,Sarawak,Penjara Miri,both,671
+2022-01-01,Sarawak,Penjara Miri,both,1025
+2017-01-01,Sarawak,Penjara Miri,female,86
+2018-01-01,Sarawak,Penjara Miri,female,120
+2019-01-01,Sarawak,Penjara Miri,female,142
+2020-01-01,Sarawak,Penjara Miri,female,191
+2021-01-01,Sarawak,Penjara Miri,female,77
+2022-01-01,Sarawak,Penjara Miri,female,196
+2017-01-01,Sarawak,Penjara Miri,male,530
+2018-01-01,Sarawak,Penjara Miri,male,536
+2019-01-01,Sarawak,Penjara Miri,male,683
+2020-01-01,Sarawak,Penjara Miri,male,799
+2021-01-01,Sarawak,Penjara Miri,male,594
+2022-01-01,Sarawak,Penjara Miri,male,829
+2017-01-01,Sarawak,Penjara Puncak Borneo,both,1148
+2018-01-01,Sarawak,Penjara Puncak Borneo,both,1021
+2019-01-01,Sarawak,Penjara Puncak Borneo,both,1434
+2020-01-01,Sarawak,Penjara Puncak Borneo,both,1668
+2021-01-01,Sarawak,Penjara Puncak Borneo,both,1496
+2022-01-01,Sarawak,Penjara Puncak Borneo,both,1691
+2017-01-01,Sarawak,Penjara Puncak Borneo,female,233
+2018-01-01,Sarawak,Penjara Puncak Borneo,female,143
+2019-01-01,Sarawak,Penjara Puncak Borneo,female,215
+2020-01-01,Sarawak,Penjara Puncak Borneo,female,222
+2021-01-01,Sarawak,Penjara Puncak Borneo,female,291
+2022-01-01,Sarawak,Penjara Puncak Borneo,female,308
+2017-01-01,Sarawak,Penjara Puncak Borneo,male,915
+2018-01-01,Sarawak,Penjara Puncak Borneo,male,878
+2019-01-01,Sarawak,Penjara Puncak Borneo,male,1219
+2020-01-01,Sarawak,Penjara Puncak Borneo,male,1446
+2021-01-01,Sarawak,Penjara Puncak Borneo,male,1205
+2022-01-01,Sarawak,Penjara Puncak Borneo,male,1383
+2017-01-01,Sarawak,Penjara Sibu,both,749
+2018-01-01,Sarawak,Penjara Sibu,both,779
+2019-01-01,Sarawak,Penjara Sibu,both,1124
+2020-01-01,Sarawak,Penjara Sibu,both,1306
+2021-01-01,Sarawak,Penjara Sibu,both,934
+2022-01-01,Sarawak,Penjara Sibu,both,1114
+2017-01-01,Sarawak,Penjara Sibu,female,60
+2018-01-01,Sarawak,Penjara Sibu,female,79
+2019-01-01,Sarawak,Penjara Sibu,female,118
+2020-01-01,Sarawak,Penjara Sibu,female,125
+2021-01-01,Sarawak,Penjara Sibu,female,76
+2022-01-01,Sarawak,Penjara Sibu,female,121
+2017-01-01,Sarawak,Penjara Sibu,male,689
+2018-01-01,Sarawak,Penjara Sibu,male,700
+2019-01-01,Sarawak,Penjara Sibu,male,1006
+2020-01-01,Sarawak,Penjara Sibu,male,1181
+2021-01-01,Sarawak,Penjara Sibu,male,858
+2022-01-01,Sarawak,Penjara Sibu,male,993
+2017-01-01,Sarawak,Penjara Sri Aman,both,1043
+2018-01-01,Sarawak,Penjara Sri Aman,both,635
+2019-01-01,Sarawak,Penjara Sri Aman,both,932
+2020-01-01,Sarawak,Penjara Sri Aman,both,875
+2021-01-01,Sarawak,Penjara Sri Aman,both,878
+2022-01-01,Sarawak,Penjara Sri Aman,both,1236
+2017-01-01,Sarawak,Penjara Sri Aman,female,0
+2018-01-01,Sarawak,Penjara Sri Aman,female,0
+2019-01-01,Sarawak,Penjara Sri Aman,female,0
+2020-01-01,Sarawak,Penjara Sri Aman,female,0
+2021-01-01,Sarawak,Penjara Sri Aman,female,0
+2022-01-01,Sarawak,Penjara Sri Aman,female,0
+2017-01-01,Sarawak,Penjara Sri Aman,male,1043
+2018-01-01,Sarawak,Penjara Sri Aman,male,635
+2019-01-01,Sarawak,Penjara Sri Aman,male,932
+2020-01-01,Sarawak,Penjara Sri Aman,male,875
+2021-01-01,Sarawak,Penjara Sri Aman,male,878
+2022-01-01,Sarawak,Penjara Sri Aman,male,1236
+2017-01-01,Sarawak,Pusat Koreksional Bintulu,both,509
+2018-01-01,Sarawak,Pusat Koreksional Bintulu,both,435
+2019-01-01,Sarawak,Pusat Koreksional Bintulu,both,755
+2020-01-01,Sarawak,Pusat Koreksional Bintulu,both,909
+2021-01-01,Sarawak,Pusat Koreksional Bintulu,both,461
+2022-01-01,Sarawak,Pusat Koreksional Bintulu,both,844
+2017-01-01,Sarawak,Pusat Koreksional Bintulu,female,1
+2018-01-01,Sarawak,Pusat Koreksional Bintulu,female,1
+2019-01-01,Sarawak,Pusat Koreksional Bintulu,female,0
+2020-01-01,Sarawak,Pusat Koreksional Bintulu,female,0
+2021-01-01,Sarawak,Pusat Koreksional Bintulu,female,2
+2022-01-01,Sarawak,Pusat Koreksional Bintulu,female,0
+2017-01-01,Sarawak,Pusat Koreksional Bintulu,male,508
+2018-01-01,Sarawak,Pusat Koreksional Bintulu,male,434
+2019-01-01,Sarawak,Pusat Koreksional Bintulu,male,755
+2020-01-01,Sarawak,Pusat Koreksional Bintulu,male,909
+2021-01-01,Sarawak,Pusat Koreksional Bintulu,male,459
+2022-01-01,Sarawak,Pusat Koreksional Bintulu,male,844
+2017-01-01,Selangor,Penjara Kajang,both,35706
+2018-01-01,Selangor,Penjara Kajang,both,26863
+2019-01-01,Selangor,Penjara Kajang,both,31875
+2020-01-01,Selangor,Penjara Kajang,both,24444
+2021-01-01,Selangor,Penjara Kajang,both,24082
+2022-01-01,Selangor,Penjara Kajang,both,27252
+2017-01-01,Selangor,Penjara Kajang,female,7024
+2018-01-01,Selangor,Penjara Kajang,female,4
+2019-01-01,Selangor,Penjara Kajang,female,1
+2020-01-01,Selangor,Penjara Kajang,female,3712
+2021-01-01,Selangor,Penjara Kajang,female,3186
+2022-01-01,Selangor,Penjara Kajang,female,3188
+2017-01-01,Selangor,Penjara Kajang,male,28682
+2018-01-01,Selangor,Penjara Kajang,male,26859
+2019-01-01,Selangor,Penjara Kajang,male,31874
+2020-01-01,Selangor,Penjara Kajang,male,20732
+2021-01-01,Selangor,Penjara Kajang,male,20896
+2022-01-01,Selangor,Penjara Kajang,male,24064
+2017-01-01,Selangor,Penjara Sungai Buloh,both,2098
+2018-01-01,Selangor,Penjara Sungai Buloh,both,1377
+2019-01-01,Selangor,Penjara Sungai Buloh,both,1873
+2020-01-01,Selangor,Penjara Sungai Buloh,both,312
+2021-01-01,Selangor,Penjara Sungai Buloh,both,673
+2022-01-01,Selangor,Penjara Sungai Buloh,both,306
+2017-01-01,Selangor,Penjara Sungai Buloh,female,0
+2018-01-01,Selangor,Penjara Sungai Buloh,female,0
+2019-01-01,Selangor,Penjara Sungai Buloh,female,0
+2020-01-01,Selangor,Penjara Sungai Buloh,female,0
+2021-01-01,Selangor,Penjara Sungai Buloh,female,0
+2022-01-01,Selangor,Penjara Sungai Buloh,female,0
+2017-01-01,Selangor,Penjara Sungai Buloh,male,2098
+2018-01-01,Selangor,Penjara Sungai Buloh,male,1377
+2019-01-01,Selangor,Penjara Sungai Buloh,male,1873
+2020-01-01,Selangor,Penjara Sungai Buloh,male,312
+2021-01-01,Selangor,Penjara Sungai Buloh,male,673
+2022-01-01,Selangor,Penjara Sungai Buloh,male,306
+2017-01-01,Selangor,Pusat Koreksional Puncak Alam,both,58
+2018-01-01,Selangor,Pusat Koreksional Puncak Alam,both,6715
+2019-01-01,Selangor,Pusat Koreksional Puncak Alam,both,7137
+2020-01-01,Selangor,Pusat Koreksional Puncak Alam,both,1020
+2021-01-01,Selangor,Pusat Koreksional Puncak Alam,both,172
+2022-01-01,Selangor,Pusat Koreksional Puncak Alam,both,207
+2017-01-01,Selangor,Pusat Koreksional Puncak Alam,female,0
+2018-01-01,Selangor,Pusat Koreksional Puncak Alam,female,6709
+2019-01-01,Selangor,Pusat Koreksional Puncak Alam,female,7131
+2020-01-01,Selangor,Pusat Koreksional Puncak Alam,female,0
+2021-01-01,Selangor,Pusat Koreksional Puncak Alam,female,1
+2022-01-01,Selangor,Pusat Koreksional Puncak Alam,female,0
+2017-01-01,Selangor,Pusat Koreksional Puncak Alam,male,58
+2018-01-01,Selangor,Pusat Koreksional Puncak Alam,male,6
+2019-01-01,Selangor,Pusat Koreksional Puncak Alam,male,6
+2020-01-01,Selangor,Pusat Koreksional Puncak Alam,male,1020
+2021-01-01,Selangor,Pusat Koreksional Puncak Alam,male,171
+2022-01-01,Selangor,Pusat Koreksional Puncak Alam,male,207
+2017-01-01,Terengganu,Penjara Marang,both,3327
+2018-01-01,Terengganu,Penjara Marang,both,3718
+2019-01-01,Terengganu,Penjara Marang,both,3961
+2020-01-01,Terengganu,Penjara Marang,both,3793
+2021-01-01,Terengganu,Penjara Marang,both,2983
+2022-01-01,Terengganu,Penjara Marang,both,4258
+2017-01-01,Terengganu,Penjara Marang,female,2
+2018-01-01,Terengganu,Penjara Marang,female,0
+2019-01-01,Terengganu,Penjara Marang,female,0
+2020-01-01,Terengganu,Penjara Marang,female,15
+2021-01-01,Terengganu,Penjara Marang,female,40
+2022-01-01,Terengganu,Penjara Marang,female,0
+2017-01-01,Terengganu,Penjara Marang,male,3325
+2018-01-01,Terengganu,Penjara Marang,male,3718
+2019-01-01,Terengganu,Penjara Marang,male,3961
+2020-01-01,Terengganu,Penjara Marang,male,3778
+2021-01-01,Terengganu,Penjara Marang,male,2943
+2022-01-01,Terengganu,Penjara Marang,male,4258
+2017-01-01,Terengganu,Pusat Koreksional Dungun,both,1349
+2018-01-01,Terengganu,Pusat Koreksional Dungun,both,1249
+2019-01-01,Terengganu,Pusat Koreksional Dungun,both,1166
+2020-01-01,Terengganu,Pusat Koreksional Dungun,both,758
+2021-01-01,Terengganu,Pusat Koreksional Dungun,both,1101
+2022-01-01,Terengganu,Pusat Koreksional Dungun,both,729
+2017-01-01,Terengganu,Pusat Koreksional Dungun,female,0
+2018-01-01,Terengganu,Pusat Koreksional Dungun,female,0
+2019-01-01,Terengganu,Pusat Koreksional Dungun,female,0
+2020-01-01,Terengganu,Pusat Koreksional Dungun,female,0
+2021-01-01,Terengganu,Pusat Koreksional Dungun,female,0
+2022-01-01,Terengganu,Pusat Koreksional Dungun,female,0
+2017-01-01,Terengganu,Pusat Koreksional Dungun,male,1349
+2018-01-01,Terengganu,Pusat Koreksional Dungun,male,1249
+2019-01-01,Terengganu,Pusat Koreksional Dungun,male,1166
+2020-01-01,Terengganu,Pusat Koreksional Dungun,male,758
+2021-01-01,Terengganu,Pusat Koreksional Dungun,male,1101
+2022-01-01,Terengganu,Pusat Koreksional Dungun,male,729

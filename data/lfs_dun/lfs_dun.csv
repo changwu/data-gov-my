@@ -1,0 +1,1801 @@
+date,state,parlimen,dun,lf,lf_employed,lf_unemployed,lf_outside,u_rate,p_rate,ep_ratio
+2021-01-01,Perlis,P.001 Padang Besar,N.01 Titi Tinggi,9.2,8.6,0.5,4.4,5.9,67.5,63.2
+2022-01-01,Perlis,P.001 Padang Besar,N.01 Titi Tinggi,9.2,8.7,0.6,4.3,6.1,68.0,64.4
+2023-01-01,Perlis,P.001 Padang Besar,N.01 Titi Tinggi,8.9,8.3,0.6,4.9,7.0,64.4,60.1
+2021-01-01,Perlis,P.001 Padang Besar,N.02 Beseri,6.1,5.9,0.2,3.9,3.4,61.1,59.0
+2022-01-01,Perlis,P.001 Padang Besar,N.02 Beseri,6.1,5.9,0.2,3.8,3.5,61.6,59.6
+2023-01-01,Perlis,P.001 Padang Besar,N.02 Beseri,7.8,7.5,0.2,5.6,3.2,58.0,56.0
+2021-01-01,Perlis,P.001 Padang Besar,N.03 Chuping,8.4,8.1,0.3,4.7,3.6,64.0,61.8
+2022-01-01,Perlis,P.001 Padang Besar,N.03 Chuping,8.5,8.2,0.3,4.7,3.7,64.5,62.1
+2023-01-01,Perlis,P.001 Padang Besar,N.03 Chuping,11.4,10.9,0.4,5.9,3.9,66.0,63.0
+2021-01-01,Perlis,P.001 Padang Besar,N.04 Mata Ayer,4.1,3.9,0.2,2.5,5.6,62.1,59.1
+2022-01-01,Perlis,P.001 Padang Besar,N.04 Mata Ayer,4.2,3.9,0.2,2.5,5.7,62.6,58.2
+2023-01-01,Perlis,P.001 Padang Besar,N.04 Mata Ayer,5.5,5.2,0.3,3.1,5.4,63.8,60.5
+2021-01-01,Perlis,P.001 Padang Besar,N.05 Santan,4.9,4.7,0.2,2.5,4.4,65.9,63.5
+2022-01-01,Perlis,P.001 Padang Besar,N.05 Santan,4.9,4.7,0.2,2.5,4.5,66.5,63.5
+2023-01-01,Perlis,P.001 Padang Besar,N.05 Santan,6.6,6.3,0.3,3.3,4.2,66.7,63.6
+2021-01-01,Perlis,P.002 Kangar,N.06 Bintong,11.7,11.6,0.2,6.6,1.6,64.1,63.4
+2022-01-01,Perlis,P.002 Kangar,N.06 Bintong,11.8,11.6,0.2,6.5,1.4,64.3,63.4
+2023-01-01,Perlis,P.002 Kangar,N.06 Bintong,12.4,12.2,0.2,8.2,1.6,60.1,59.2
+2021-01-01,Perlis,P.002 Kangar,N.07 Sena,9.1,8.7,0.5,4.4,5.0,67.2,64.4
+2022-01-01,Perlis,P.002 Kangar,N.07 Sena,9.1,8.7,0.4,4.4,4.5,67.4,64.4
+2023-01-01,Perlis,P.002 Kangar,N.07 Sena,9.3,9.1,0.2,5.3,2.2,63.6,62.3
+2021-01-01,Perlis,P.002 Kangar,N.08 Indera Kayangan,6.5,6.2,0.3,4.0,4.2,61.8,59.0
+2022-01-01,Perlis,P.002 Kangar,N.08 Indera Kayangan,6.5,6.3,0.2,4.0,3.7,62.0,60.0
+2023-01-01,Perlis,P.002 Kangar,N.08 Indera Kayangan,7.3,7.1,0.2,4.3,3.4,62.9,61.2
+2021-01-01,Perlis,P.002 Kangar,N.09 Kuala Perlis,7.7,7.5,0.3,4.4,3.5,63.5,62.0
+2022-01-01,Perlis,P.002 Kangar,N.09 Kuala Perlis,7.7,7.5,0.2,4.4,3.1,63.8,62.0
+2023-01-01,Perlis,P.002 Kangar,N.09 Kuala Perlis,9.1,8.9,0.3,5.7,2.9,61.6,60.1
+2021-01-01,Perlis,P.002 Kangar,N.10 Kayang,6.2,5.8,0.4,3.2,6.6,66.0,61.7
+2022-01-01,Perlis,P.002 Kangar,N.10 Kayang,6.2,5.8,0.4,3.2,5.8,66.3,61.7
+2023-01-01,Perlis,P.002 Kangar,N.10 Kayang,7.2,6.8,0.4,4.3,5.4,62.7,59.1
+2021-01-01,Perlis,P.003 Arau,N.11 Pauh,18.8,17.7,1.1,11.5,6.0,62.1,58.4
+2022-01-01,Perlis,P.003 Arau,N.11 Pauh,18.9,18.0,1.0,11.2,5.0,62.7,59.8
+2023-01-01,Perlis,P.003 Arau,N.11 Pauh,18.7,17.3,1.4,15.3,7.4,54.9,50.9
+2021-01-01,Perlis,P.003 Arau,N.12 Tambun Tulang,6.9,6.8,0.2,3.8,2.6,64.7,63.6
+2022-01-01,Perlis,P.003 Arau,N.12 Tambun Tulang,7.0,6.8,0.2,3.7,2.2,65.3,63.6
+2023-01-01,Perlis,P.003 Arau,N.12 Tambun Tulang,9.9,9.7,0.2,5.4,1.9,64.6,63.4
+2021-01-01,Perlis,P.003 Arau,N.13 Guar Sanji,4.4,4.4,0.1,2.9,1.6,60.4,60.3
+2022-01-01,Perlis,P.003 Arau,N.13 Guar Sanji,4.5,4.4,0.1,2.8,1.3,61.1,60.3
+2023-01-01,Perlis,P.003 Arau,N.13 Guar Sanji,5.2,5.1,0.1,3.3,1.0,61.0,60.0
+2021-01-01,Perlis,P.003 Arau,N.14 Simpang Empat,5.1,5.0,0.1,3.6,1.9,58.8,57.5
+2022-01-01,Perlis,P.003 Arau,N.14 Simpang Empat,5.2,5.1,0.1,3.6,1.6,59.1,58.0
+2023-01-01,Perlis,P.003 Arau,N.14 Simpang Empat,6.8,6.4,0.4,3.9,5.8,63.2,59.8
+2021-01-01,Perlis,P.003 Arau,N.15 Sanglang,4.0,3.7,0.3,2.0,6.6,66.9,61.7
+2022-01-01,Perlis,P.003 Arau,N.15 Sanglang,4.0,3.8,0.2,1.9,5.5,67.6,64.4
+2023-01-01,Perlis,P.003 Arau,N.15 Sanglang,4.7,4.1,0.5,2.5,11.3,64.9,56.9
+2021-01-01,Kedah,P.004 Langkawi,N.01 Ayer Hangat,22.8,21.2,1.6,10.1,6.9,69.2,64.4
+2022-01-01,Kedah,P.004 Langkawi,N.01 Ayer Hangat,23.3,22.0,1.3,10.3,5.7,69.4,65.5
+2023-01-01,Kedah,P.004 Langkawi,N.01 Ayer Hangat,22.8,21.6,1.2,9.2,5.3,71.3,67.5
+2021-01-01,Kedah,P.004 Langkawi,N.02 Kuah,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.004 Langkawi,N.02 Kuah,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.004 Langkawi,N.02 Kuah,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2021-01-01,Kedah,P.005 Jerlun,N.03 Kota Siputeh,38.2,24.3,1.5,9.9,5.7,72.2,50.5
+2022-01-01,Kedah,P.005 Jerlun,N.03 Kota Siputeh,40.8,13.6,0.5,7.8,3.8,64.5,28.0
+2023-01-01,Kedah,P.005 Jerlun,N.03 Kota Siputeh,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2021-01-01,Kedah,P.005 Jerlun,N.04 Ayer Hitam,14.6,24.3,1.5,9.9,5.7,72.2,99.2
+2022-01-01,Kedah,P.005 Jerlun,N.04 Ayer Hitam,22.6,13.6,0.5,7.8,3.8,64.5,44.7
+2023-01-01,Kedah,P.005 Jerlun,N.04 Ayer Hitam,14.1,14.0,0.1,8.0,1.0,63.8,63.3
+2021-01-01,Kedah,P.006 Kubang Pasu,N.05 Bukit Kayu Hitam,18.7,24.3,1.5,9.9,5.7,72.2,85.0
+2022-01-01,Kedah,P.006 Kubang Pasu,N.05 Bukit Kayu Hitam,25.7,13.6,0.5,7.8,3.8,64.5,40.6
+2023-01-01,Kedah,P.006 Kubang Pasu,N.05 Bukit Kayu Hitam,38.2,36.8,1.3,17.9,3.5,68.0,65.6
+2021-01-01,Kedah,P.006 Kubang Pasu,N.06 Jitra,21.2,24.3,1.5,9.9,5.7,72.2,78.1
+2022-01-01,Kedah,P.006 Kubang Pasu,N.06 Jitra,18.5,13.6,0.5,7.8,3.8,64.5,51.7
+2023-01-01,Kedah,P.006 Kubang Pasu,N.06 Jitra,40.8,40.1,0.8,25.3,1.9,61.8,60.7
+2021-01-01,Kedah,P.007 Padang Terap,N.07 Kuala Nerang,26.7,24.3,1.5,9.9,5.7,72.2,66.4
+2022-01-01,Kedah,P.007 Padang Terap,N.07 Kuala Nerang,18.8,13.6,0.5,7.8,3.8,64.5,51.1
+2023-01-01,Kedah,P.007 Padang Terap,N.07 Kuala Nerang,15.8,15.3,0.5,7.2,3.3,68.9,66.5
+2021-01-01,Kedah,P.007 Padang Terap,N.08 Pedu,13.0,24.3,1.5,9.9,5.7,72.2,106.1
+2022-01-01,Kedah,P.007 Padang Terap,N.08 Pedu,15.0,13.6,0.5,7.8,3.8,64.5,59.6
+2023-01-01,Kedah,P.007 Padang Terap,N.08 Pedu,14.6,14.1,0.4,7.1,2.9,67.2,65.0
+2021-01-01,Kedah,P.008 Pokok Sena,N.09 Bukit Lada,12.4,24.3,1.5,9.9,5.7,72.2,109.0
+2022-01-01,Kedah,P.008 Pokok Sena,N.09 Bukit Lada,15.3,13.6,0.5,7.8,3.8,64.5,58.9
+2023-01-01,Kedah,P.008 Pokok Sena,N.09 Bukit Lada,22.6,21.9,0.7,10.3,3.1,68.8,66.6
+2021-01-01,Kedah,P.008 Pokok Sena,N.10 Bukit Pinang,28.4,24.3,1.5,9.9,5.7,72.2,63.4
+2022-01-01,Kedah,P.008 Pokok Sena,N.10 Bukit Pinang,28.0,13.6,0.5,7.8,3.8,64.5,38.0
+2023-01-01,Kedah,P.008 Pokok Sena,N.10 Bukit Pinang,18.4,17.8,0.6,9.9,3.3,65.0,62.9
+2021-01-01,Kedah,P.008 Pokok Sena,N.11 Derga,54.0,24.3,1.5,9.9,5.7,72.2,38.0
+2022-01-01,Kedah,P.008 Pokok Sena,N.11 Derga,19.2,13.6,0.5,7.8,3.8,64.5,50.4
+2023-01-01,Kedah,P.008 Pokok Sena,N.11 Derga,18.7,18.0,0.7,9.5,3.9,66.4,63.8
+2021-01-01,Kedah,P.009 Alor Setar,N.12 Suka Menanti,25.5,24.3,1.5,9.9,5.7,72.2,68.6
+2022-01-01,Kedah,P.009 Alor Setar,N.12 Suka Menanti,48.7,13.6,0.5,7.8,3.8,64.5,24.1
+2023-01-01,Kedah,P.009 Alor Setar,N.12 Suka Menanti,25.7,24.6,1.1,13.6,4.3,65.4,62.6
+2021-01-01,Kedah,P.009 Alor Setar,N.13 Kota Darul Aman,38.0,24.3,1.5,9.9,5.7,72.2,50.7
+2022-01-01,Kedah,P.009 Alor Setar,N.13 Kota Darul Aman,20.4,13.6,0.5,7.8,3.8,64.5,48.2
+2023-01-01,Kedah,P.009 Alor Setar,N.13 Kota Darul Aman,6.5,6.1,0.4,3.0,6.1,68.3,64.2
+2021-01-01,Kedah,P.009 Alor Setar,N.14 Alor Mengkudu,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.009 Alor Setar,N.14 Alor Mengkudu,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.009 Alor Setar,N.14 Alor Mengkudu,21.2,20.5,0.6,11.7,3.0,64.4,62.3
+2021-01-01,Kedah,P.010 Kuala Kedah,N.15 Anak Bukit,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.010 Kuala Kedah,N.15 Anak Bukit,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.010 Kuala Kedah,N.15 Anak Bukit,18.5,17.6,0.8,10.5,4.4,63.8,60.7
+2021-01-01,Kedah,P.010 Kuala Kedah,N.16 Kubang Rotan,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.010 Kuala Kedah,N.16 Kubang Rotan,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.010 Kuala Kedah,N.16 Kubang Rotan,27.6,26.6,0.9,14.3,3.3,65.9,63.5
+2021-01-01,Kedah,P.010 Kuala Kedah,N.17 Pengkalan Kundor,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.010 Kuala Kedah,N.17 Pengkalan Kundor,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.010 Kuala Kedah,N.17 Pengkalan Kundor,26.7,25.6,1.1,16.3,4.1,62.1,59.5
+2021-01-01,Kedah,P.011 Pendang,N.18 Tokai,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.011 Pendang,N.18 Tokai,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.011 Pendang,N.18 Tokai,18.8,17.6,1.2,9.7,6.2,66.0,61.8
+2021-01-01,Kedah,P.011 Pendang,N.19 Sungai Tiang,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.011 Pendang,N.19 Sungai Tiang,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.011 Pendang,N.19 Sungai Tiang,22.8,22.5,0.3,12.3,1.4,64.9,64.1
+2021-01-01,Kedah,P.012 Jerai,N.20 Sungai Limau,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.012 Jerai,N.20 Sungai Limau,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.012 Jerai,N.20 Sungai Limau,13.0,12.6,0.4,9.0,3.3,59.1,57.3
+2021-01-01,Kedah,P.012 Jerai,N.21 Guar Chempedak,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.012 Jerai,N.21 Guar Chempedak,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.012 Jerai,N.21 Guar Chempedak,15.0,14.6,0.4,8.9,2.9,62.7,61.1
+2021-01-01,Kedah,P.012 Jerai,N.22 Gurun,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.012 Jerai,N.22 Gurun,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.012 Jerai,N.22 Gurun,22.3,22.1,0.2,12.7,1.0,63.7,63.1
+2021-01-01,Kedah,P.013 Sik,N.23 Belantek,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.013 Sik,N.23 Belantek,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.013 Sik,N.23 Belantek,12.4,12.2,0.2,8.4,1.7,59.5,58.7
+2021-01-01,Kedah,P.013 Sik,N.24 Jeneri,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.013 Sik,N.24 Jeneri,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.013 Sik,N.24 Jeneri,15.3,15.0,0.3,8.7,1.8,63.9,62.5
+2021-01-01,Kedah,P.014 Merbok,N.25 Bukit Selambau,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.014 Merbok,N.25 Bukit Selambau,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.014 Merbok,N.25 Bukit Selambau,65.0,62.9,2.1,39.5,3.2,62.2,60.2
+2021-01-01,Kedah,P.014 Merbok,N.26 Tanjong Dawai,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.014 Merbok,N.26 Tanjong Dawai,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.014 Merbok,N.26 Tanjong Dawai,28.4,27.8,0.6,19.5,2.2,59.3,58.0
+2021-01-01,Kedah,P.015 Sungai Petani,N.27 Pantai Merdeka,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.015 Sungai Petani,N.27 Pantai Merdeka,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.015 Sungai Petani,N.27 Pantai Merdeka,28.0,27.1,0.9,15.8,3.2,63.8,61.9
+2021-01-01,Kedah,P.015 Sungai Petani,N.28 Bakar Arang,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.015 Sungai Petani,N.28 Bakar Arang,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.015 Sungai Petani,N.28 Bakar Arang,39.9,38.6,1.3,24.9,3.2,61.6,59.6
+2021-01-01,Kedah,P.015 Sungai Petani,N.29 Sidam,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.015 Sungai Petani,N.29 Sidam,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.015 Sungai Petani,N.29 Sidam,54.0,52.7,1.3,31.3,2.5,63.3,61.8
+2021-01-01,Kedah,P.016 Baling,N.30 Bayu,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.016 Baling,N.30 Bayu,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.016 Baling,N.30 Bayu,19.2,18.7,0.5,8.8,2.6,68.5,66.8
+2021-01-01,Kedah,P.016 Baling,N.31 Kupang,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.016 Baling,N.31 Kupang,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.016 Baling,N.31 Kupang,22.1,21.8,0.3,9.6,1.5,69.7,68.8
+2021-01-01,Kedah,P.016 Baling,N.32 Kuala Ketil,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.016 Baling,N.32 Kuala Ketil,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.016 Baling,N.32 Kuala Ketil,25.5,24.9,0.6,11.8,2.3,68.4,66.8
+2021-01-01,Kedah,P.017 Padang Serai,N.33 Merbau Pulas,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.017 Padang Serai,N.33 Merbau Pulas,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.017 Padang Serai,N.33 Merbau Pulas,48.7,47.6,1.1,25.1,2.2,66.0,64.5
+2021-01-01,Kedah,P.017 Padang Serai,N.34 Lunas,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.017 Padang Serai,N.34 Lunas,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.017 Padang Serai,N.34 Lunas,74.3,72.7,1.5,36.3,2.1,67.2,65.7
+2021-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.35 Kulim,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.35 Kulim,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.35 Kulim,38.0,37.5,0.5,15.1,1.3,71.5,70.6
+2021-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.36 Bandar Baharu,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.36 Bandar Baharu,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kedah,P.018 Kulim-Bandar Baharu,N.36 Bandar Baharu,20.4,20.0,0.4,9.8,2.1,67.7,66.2
+2021-01-01,Kelantan,P.019 Tumpat,N.01 Pengkalan Kubor,25.7,24.3,1.5,9.9,5.7,72.2,68.3
+2022-01-01,Kelantan,P.019 Tumpat,N.01 Pengkalan Kubor,14.1,13.6,0.5,7.8,3.8,64.5,62.1
+2023-01-01,Kelantan,P.019 Tumpat,N.01 Pengkalan Kubor,15.3,14.7,0.6,11.1,4.1,57.8,55.7
+2021-01-01,Kelantan,P.019 Tumpat,N.02 Kelaboran,38.2,36.8,1.3,17.9,3.5,68.0,65.6
+2022-01-01,Kelantan,P.019 Tumpat,N.02 Kelaboran,40.8,40.1,0.8,25.3,1.9,61.8,60.7
+2023-01-01,Kelantan,P.019 Tumpat,N.02 Kelaboran,13.6,13.4,0.2,12.9,1.1,51.3,50.6
+2021-01-01,Kelantan,P.019 Tumpat,N.03 Pasir Pekan,14.6,14.1,0.4,7.1,2.9,67.2,65.0
+2022-01-01,Kelantan,P.019 Tumpat,N.03 Pasir Pekan,22.6,21.9,0.7,10.3,3.1,68.8,66.6
+2023-01-01,Kelantan,P.019 Tumpat,N.03 Pasir Pekan,16.8,16.5,0.3,14.1,1.9,54.3,53.4
+2021-01-01,Kelantan,P.019 Tumpat,N.04 Wakaf Bharu,18.7,18.0,0.7,9.5,3.9,66.4,63.8
+2022-01-01,Kelantan,P.019 Tumpat,N.04 Wakaf Bharu,25.7,24.6,1.1,13.6,4.3,65.4,62.6
+2023-01-01,Kelantan,P.019 Tumpat,N.04 Wakaf Bharu,16.5,15.9,0.5,12.1,3.1,57.7,55.6
+2021-01-01,Kelantan,P.020 Pengkalan Chepa,N.05 Kijang,21.2,20.5,0.6,11.7,3.0,64.4,62.3
+2022-01-01,Kelantan,P.020 Pengkalan Chepa,N.05 Kijang,18.5,17.6,0.8,10.5,4.4,63.8,60.7
+2023-01-01,Kelantan,P.020 Pengkalan Chepa,N.05 Kijang,14.5,14.0,0.6,9.4,3.8,60.7,58.6
+2021-01-01,Kelantan,P.020 Pengkalan Chepa,N.06 Chempaka,26.7,25.6,1.1,16.3,4.1,62.1,59.5
+2022-01-01,Kelantan,P.020 Pengkalan Chepa,N.06 Chempaka,18.8,17.6,1.2,9.7,6.2,66.0,61.8
+2023-01-01,Kelantan,P.020 Pengkalan Chepa,N.06 Chempaka,21.8,20.6,1.2,14.1,5.5,60.8,57.4
+2021-01-01,Kelantan,P.020 Pengkalan Chepa,N.07 Panchor,13.0,12.6,0.4,9.0,3.3,59.1,57.3
+2022-01-01,Kelantan,P.020 Pengkalan Chepa,N.07 Panchor,15.0,14.6,0.4,8.9,2.9,62.7,61.1
+2023-01-01,Kelantan,P.020 Pengkalan Chepa,N.07 Panchor,30.0,28.5,1.5,23.5,4.8,56.0,53.3
+2021-01-01,Kelantan,P.021 Kota Bharu,N.08 Tanjong Mas,12.4,12.2,0.2,8.4,1.7,59.5,58.7
+2022-01-01,Kelantan,P.021 Kota Bharu,N.08 Tanjong Mas,15.3,15.0,0.3,8.7,1.8,63.9,62.5
+2023-01-01,Kelantan,P.021 Kota Bharu,N.08 Tanjong Mas,29.3,27.8,1.5,16.5,5.0,63.9,60.7
+2021-01-01,Kelantan,P.021 Kota Bharu,N.09 Kota Lama,28.4,27.8,0.6,19.5,2.2,59.3,58.0
+2022-01-01,Kelantan,P.021 Kota Bharu,N.09 Kota Lama,28.0,27.1,0.9,15.8,3.2,63.8,61.9
+2023-01-01,Kelantan,P.021 Kota Bharu,N.09 Kota Lama,8.6,8.5,0.1,4.7,1.4,64.7,63.9
+2021-01-01,Kelantan,P.021 Kota Bharu,N.10 Bunut Payong,54.0,52.7,1.3,31.3,2.5,63.3,61.8
+2022-01-01,Kelantan,P.021 Kota Bharu,N.10 Bunut Payong,19.2,18.7,0.5,8.8,2.6,68.5,66.8
+2023-01-01,Kelantan,P.021 Kota Bharu,N.10 Bunut Payong,18.3,17.6,0.7,12.6,3.9,59.2,57.0
+2021-01-01,Kelantan,P.022 Pasir Mas,N.11 Tendong,25.5,24.9,0.6,11.8,2.3,68.4,66.8
+2022-01-01,Kelantan,P.022 Pasir Mas,N.11 Tendong,48.7,47.6,1.1,25.1,2.2,66.0,64.5
+2023-01-01,Kelantan,P.022 Pasir Mas,N.11 Tendong,15.6,14.9,0.7,12.7,4.2,55.1,52.7
+2021-01-01,Kelantan,P.022 Pasir Mas,N.12 Pengkalan Pasir,38.0,37.5,0.5,15.1,1.3,71.5,70.6
+2022-01-01,Kelantan,P.022 Pasir Mas,N.12 Pengkalan Pasir,20.4,20.0,0.4,9.8,2.1,67.7,66.2
+2023-01-01,Kelantan,P.022 Pasir Mas,N.12 Pengkalan Pasir,11.9,11.5,0.5,11.4,4.0,51.2,49.4
+2021-01-01,Kelantan,P.022 Pasir Mas,N.13 Meranti,11.0,10.4,0.6,10.3,5.7,51.6,48.8
+2022-01-01,Kelantan,P.022 Pasir Mas,N.13 Meranti,11.2,10.7,0.6,10.3,5.1,52.2,49.8
+2023-01-01,Kelantan,P.022 Pasir Mas,N.13 Meranti,11.5,10.9,0.6,10.7,4.9,51.6,49.1
+2021-01-01,Kelantan,P.023 Rantau Panjang,N.14 Chetok,12.4,11.7,0.8,9.2,6.2,57.4,54.2
+2022-01-01,Kelantan,P.023 Rantau Panjang,N.14 Chetok,12.9,12.2,0.7,8.9,5.5,59.3,56.0
+2023-01-01,Kelantan,P.023 Rantau Panjang,N.14 Chetok,12.2,11.6,0.6,8.8,5.2,58.1,55.2
+2021-01-01,Kelantan,P.023 Rantau Panjang,N.15 Gual Periok,16.1,15.1,1.0,11.6,6.4,58.2,54.5
+2022-01-01,Kelantan,P.023 Rantau Panjang,N.15 Gual Periok,16.7,15.7,1.0,11.1,5.9,60.0,56.5
+2023-01-01,Kelantan,P.023 Rantau Panjang,N.15 Gual Periok,15.9,15.0,0.9,11.0,5.7,59.1,55.8
+2021-01-01,Kelantan,P.023 Rantau Panjang,N.16 Apam Putra,14.4,13.9,0.4,12.7,2.9,53.0,51.3
+2022-01-01,Kelantan,P.023 Rantau Panjang,N.16 Apam Putra,15.0,14.7,0.3,12.8,2.3,54.0,52.9
+2023-01-01,Kelantan,P.023 Rantau Panjang,N.16 Apam Putra,14.7,14.4,0.3,12.8,2.2,53.4,52.4
+2021-01-01,Kelantan,P.024 Kubang Kerian,N.17 Salor,18.0,17.5,0.6,12.2,3.1,59.6,57.9
+2022-01-01,Kelantan,P.024 Kubang Kerian,N.17 Salor,18.8,18.3,0.5,12.1,2.6,60.9,59.2
+2023-01-01,Kelantan,P.024 Kubang Kerian,N.17 Salor,18.1,17.7,0.4,11.7,2.4,60.8,59.4
+2021-01-01,Kelantan,P.024 Kubang Kerian,N.18 Pasir Tumboh,27.3,25.9,1.4,16.4,5.0,62.5,59.3
+2022-01-01,Kelantan,P.024 Kubang Kerian,N.18 Pasir Tumboh,28.5,27.2,1.3,16.2,4.6,63.8,60.9
+2023-01-01,Kelantan,P.024 Kubang Kerian,N.18 Pasir Tumboh,27.4,26.1,1.2,15.7,4.5,63.6,60.6
+2021-01-01,Kelantan,P.024 Kubang Kerian,N.19 Demit,28.6,27.4,1.2,15.4,4.1,65.1,62.3
+2022-01-01,Kelantan,P.024 Kubang Kerian,N.19 Demit,29.9,28.8,1.1,14.7,3.7,67.0,64.6
+2023-01-01,Kelantan,P.024 Kubang Kerian,N.19 Demit,25.0,24.1,0.9,12.3,3.5,67.0,64.6
+2021-01-01,Kelantan,P.025 Bachok,N.20 Tawang,22.0,21.2,0.8,18.1,3.6,54.8,52.9
+2022-01-01,Kelantan,P.025 Bachok,N.20 Tawang,22.6,21.8,0.7,18.4,3.3,55.1,53.2
+2023-01-01,Kelantan,P.025 Bachok,N.20 Tawang,21.1,20.4,0.7,17.4,3.1,54.8,53.0
+2021-01-01,Kelantan,P.025 Bachok,N.21 Pantai Irama,20.6,20.0,0.6,20.4,3.0,50.3,48.8
+2022-01-01,Kelantan,P.025 Bachok,N.21 Pantai Irama,21.0,20.5,0.5,20.8,2.5,50.3,49.0
+2023-01-01,Kelantan,P.025 Bachok,N.21 Pantai Irama,20.6,20.1,0.5,19.0,2.2,52.1,50.8
+2021-01-01,Kelantan,P.025 Bachok,N.22 Jelawat,17.0,16.1,0.9,15.3,5.3,52.7,49.8
+2022-01-01,Kelantan,P.025 Bachok,N.22 Jelawat,17.4,16.5,0.9,15.5,5.0,52.8,50.2
+2023-01-01,Kelantan,P.025 Bachok,N.22 Jelawat,16.3,15.5,0.8,15.0,4.7,52.0,49.5
+2021-01-01,Kelantan,P.026 Ketereh,N.23 Melor,14.3,13.7,0.7,9.4,4.7,60.4,57.8
+2022-01-01,Kelantan,P.026 Ketereh,N.23 Melor,14.6,14.0,0.6,9.5,4.2,60.7,58.1
+2023-01-01,Kelantan,P.026 Ketereh,N.23 Melor,13.8,13.2,0.5,9.2,3.9,60.0,57.4
+2021-01-01,Kelantan,P.026 Ketereh,N.24 Kadok,11.2,10.9,0.3,6.7,2.3,62.5,60.9
+2022-01-01,Kelantan,P.026 Ketereh,N.24 Kadok,11.4,11.2,0.2,6.7,1.5,62.9,61.9
+2023-01-01,Kelantan,P.026 Ketereh,N.24 Kadok,10.4,10.3,0.1,6.6,1.3,61.1,60.6
+2021-01-01,Kelantan,P.026 Ketereh,N.25 Kok Lanas,21.7,20.5,1.2,15.5,5.7,58.3,55.1
+2022-01-01,Kelantan,P.026 Ketereh,N.25 Kok Lanas,22.2,21.0,1.2,15.5,5.3,58.8,55.7
+2023-01-01,Kelantan,P.026 Ketereh,N.25 Kok Lanas,21.0,19.9,1.1,14.6,5.1,59.0,55.9
+2021-01-01,Kelantan,P.027 Tanah Merah,N.26 Bukit Panau,26.3,25.5,0.8,19.3,3.2,57.7,55.9
+2022-01-01,Kelantan,P.027 Tanah Merah,N.26 Bukit Panau,26.8,26.1,0.8,19.8,2.8,57.5,56.0
+2023-01-01,Kelantan,P.027 Tanah Merah,N.26 Bukit Panau,26.4,25.7,0.7,19.8,2.5,57.1,55.6
+2021-01-01,Kelantan,P.027 Tanah Merah,N.27 Gual Ipoh,10.9,10.9,0.1,9.7,0.7,52.9,52.9
+2022-01-01,Kelantan,P.027 Tanah Merah,N.27 Gual Ipoh,11.3,11.2,0.1,9.8,0.5,53.5,53.1
+2023-01-01,Kelantan,P.027 Tanah Merah,N.27 Gual Ipoh,10.5,10.4,0.0,9.5,0.5,52.6,52.0
+2021-01-01,Kelantan,P.027 Tanah Merah,N.28 Kemahang,9.8,9.6,0.2,8.2,1.7,54.5,53.3
+2022-01-01,Kelantan,P.027 Tanah Merah,N.28 Kemahang,10.1,10.0,0.1,8.3,0.7,54.8,54.3
+2023-01-01,Kelantan,P.027 Tanah Merah,N.28 Kemahang,9.4,9.3,0.1,8.2,0.6,53.3,52.8
+2021-01-01,Kelantan,P.028 Pasir Puteh,N.29 Selising,13.3,13.0,0.3,10.5,2.2,55.9,54.6
+2022-01-01,Kelantan,P.028 Pasir Puteh,N.29 Selising,13.4,13.2,0.3,10.6,1.9,55.8,55.0
+2023-01-01,Kelantan,P.028 Pasir Puteh,N.29 Selising,12.5,12.2,0.2,10.1,1.8,55.2,54.0
+2021-01-01,Kelantan,P.028 Pasir Puteh,N.30 Limbongan,16.0,15.3,0.7,12.2,4.6,56.7,54.3
+2022-01-01,Kelantan,P.028 Pasir Puteh,N.30 Limbongan,16.3,15.6,0.7,12.2,4.3,57.3,54.7
+2023-01-01,Kelantan,P.028 Pasir Puteh,N.30 Limbongan,15.5,14.8,0.7,11.9,4.4,56.4,54.0
+2021-01-01,Kelantan,P.028 Pasir Puteh,N.31 Semerak,12.9,12.5,0.3,8.8,2.6,59.3,57.6
+2022-01-01,Kelantan,P.028 Pasir Puteh,N.31 Semerak,13.1,12.8,0.3,9.0,2.1,59.3,57.9
+2023-01-01,Kelantan,P.028 Pasir Puteh,N.31 Semerak,11.9,11.7,0.2,8.8,1.9,57.6,56.5
+2021-01-01,Kelantan,P.028 Pasir Puteh,N.32 Gaal,9.0,8.6,0.4,6.3,4.3,58.6,56.2
+2022-01-01,Kelantan,P.028 Pasir Puteh,N.32 Gaal,9.1,8.7,0.3,6.5,3.5,58.3,55.8
+2023-01-01,Kelantan,P.028 Pasir Puteh,N.32 Gaal,8.6,8.3,0.3,6.3,3.4,57.6,55.7
+2021-01-01,Kelantan,P.029 Machang,N.33 Pulai Chondong,12.0,11.5,0.5,10.1,4.2,54.1,52.0
+2022-01-01,Kelantan,P.029 Machang,N.33 Pulai Chondong,12.3,11.9,0.4,10.1,3.3,54.8,53.1
+2023-01-01,Kelantan,P.029 Machang,N.33 Pulai Chondong,10.9,10.6,0.3,9.6,3.0,53.1,51.7
+2021-01-01,Kelantan,P.029 Machang,N.34 Temangan,11.6,11.0,0.6,8.0,5.2,59.1,56.1
+2022-01-01,Kelantan,P.029 Machang,N.34 Temangan,11.8,11.2,0.5,8.1,4.6,59.3,56.3
+2023-01-01,Kelantan,P.029 Machang,N.34 Temangan,10.8,10.3,0.5,7.8,4.5,58.2,55.4
+2021-01-01,Kelantan,P.029 Machang,N.35 Kemuning,20.3,18.9,1.4,14.8,7.1,57.8,53.8
+2022-01-01,Kelantan,P.029 Machang,N.35 Kemuning,20.9,19.5,1.4,14.6,6.6,58.8,54.9
+2023-01-01,Kelantan,P.029 Machang,N.35 Kemuning,17.9,16.7,1.2,13.1,6.6,57.8,53.9
+2021-01-01,Kelantan,P.030 Jeli,N.36 Bukit Bunga,8.5,8.3,0.2,7.7,2.1,52.2,51.2
+2022-01-01,Kelantan,P.030 Jeli,N.36 Bukit Bunga,8.7,8.6,0.1,7.6,1.3,53.2,52.8
+2023-01-01,Kelantan,P.030 Jeli,N.36 Bukit Bunga,7.8,7.7,0.1,7.3,1.2,51.5,51.0
+2021-01-01,Kelantan,P.030 Jeli,N.37 Air Lanas,14.6,14.0,0.5,11.7,3.7,55.4,53.2
+2022-01-01,Kelantan,P.030 Jeli,N.37 Air Lanas,15.1,14.7,0.4,11.5,3.0,56.8,55.3
+2023-01-01,Kelantan,P.030 Jeli,N.37 Air Lanas,14.9,14.5,0.4,11.7,2.8,56.0,54.5
+2021-01-01,Kelantan,P.030 Jeli,N.38 Kuala Balah,7.5,7.1,0.3,5.5,4.4,57.4,54.6
+2022-01-01,Kelantan,P.030 Jeli,N.38 Kuala Balah,7.7,7.4,0.3,5.6,3.8,57.7,55.6
+2023-01-01,Kelantan,P.030 Jeli,N.38 Kuala Balah,7.2,6.9,0.3,5.4,3.6,57.0,54.8
+2021-01-01,Kelantan,P.031 Kuala Krai,N.39 Mengkebang,13.2,12.9,0.2,8.5,1.7,60.7,59.4
+2022-01-01,Kelantan,P.031 Kuala Krai,N.39 Mengkebang,13.6,13.5,0.1,8.5,0.9,61.4,61.1
+2023-01-01,Kelantan,P.031 Kuala Krai,N.39 Mengkebang,12.6,12.5,0.1,8.2,0.7,60.6,60.1
+2021-01-01,Kelantan,P.031 Kuala Krai,N.40 Guchil,12.9,12.4,0.5,9.0,4.1,58.9,56.6
+2022-01-01,Kelantan,P.031 Kuala Krai,N.40 Guchil,13.3,12.8,0.5,8.9,3.8,59.9,57.7
+2023-01-01,Kelantan,P.031 Kuala Krai,N.40 Guchil,12.2,11.7,0.4,8.5,3.5,58.9,56.5
+2021-01-01,Kelantan,P.031 Kuala Krai,N.41 Manek Urai,10.3,10.0,0.3,8.1,2.7,56.0,54.3
+2022-01-01,Kelantan,P.031 Kuala Krai,N.41 Manek Urai,10.5,10.3,0.2,8.1,2.3,56.6,55.4
+2023-01-01,Kelantan,P.031 Kuala Krai,N.41 Manek Urai,9.7,9.5,0.2,7.9,2.1,55.2,54.0
+2021-01-01,Kelantan,P.031 Kuala Krai,N.42 Dabong,8.1,8.0,0.1,5.0,1.3,61.6,61.1
+2022-01-01,Kelantan,P.031 Kuala Krai,N.42 Dabong,8.2,8.1,0.1,5.0,1.1,62.2,61.4
+2023-01-01,Kelantan,P.031 Kuala Krai,N.42 Dabong,7.3,7.2,0.1,4.7,1.1,61.0,60.0
+2021-01-01,Kelantan,P.032 Gua Musang,N.43 Nenggiri,10.9,10.2,0.7,8.7,6.8,55.6,52.0
+2022-01-01,Kelantan,P.032 Gua Musang,N.43 Nenggiri,11.1,10.4,0.7,8.9,6.4,55.4,52.0
+2023-01-01,Kelantan,P.032 Gua Musang,N.43 Nenggiri,10.0,9.4,0.6,8.4,6.2,54.4,51.1
+2021-01-01,Kelantan,P.032 Gua Musang,N.44 Paloh,12.2,11.9,0.3,9.5,2.3,56.1,54.8
+2022-01-01,Kelantan,P.032 Gua Musang,N.44 Paloh,12.5,12.2,0.2,9.6,1.9,56.4,55.2
+2023-01-01,Kelantan,P.032 Gua Musang,N.44 Paloh,18.5,17.9,0.6,5.8,3.4,76.1,73.7
+2021-01-01,Kelantan,P.032 Gua Musang,N.45 Galas,21.9,20.9,1.0,16.5,4.7,57.1,54.4
+2022-01-01,Kelantan,P.032 Gua Musang,N.45 Galas,22.3,21.3,1.0,16.6,4.3,57.3,54.8
+2023-01-01,Kelantan,P.032 Gua Musang,N.45 Galas,18.1,17.4,0.7,13.8,4.1,56.8,54.5
+2021-01-01,Terengganu,P.033 Besut,N.01 Kuala Besut,13.7,13.0,0.7,8.5,5.1,61.7,58.6
+2022-01-01,Terengganu,P.033 Besut,N.01 Kuala Besut,14.0,13.3,0.7,8.6,5.0,61.9,58.8
+2023-01-01,Terengganu,P.033 Besut,N.01 Kuala Besut,13.2,12.6,0.6,7.8,4.8,62.8,60.0
+2021-01-01,Terengganu,P.033 Besut,N.02 Kota Putera,17.6,16.7,0.9,13.5,5.1,56.6,53.7
+2022-01-01,Terengganu,P.033 Besut,N.02 Kota Putera,18.0,17.1,0.9,13.7,5.0,56.8,53.9
+2023-01-01,Terengganu,P.033 Besut,N.02 Kota Putera,16.9,16.1,0.8,12.5,4.8,57.6,54.8
+2021-01-01,Terengganu,P.033 Besut,N.03 Jertih,12.9,12.6,0.4,8.8,2.7,59.5,58.1
+2022-01-01,Terengganu,P.033 Besut,N.03 Jertih,13.2,12.9,0.4,8.9,2.7,59.7,58.4
+2023-01-01,Terengganu,P.033 Besut,N.03 Jertih,12.4,12.1,0.3,8.1,2.6,60.5,59.0
+2021-01-01,Terengganu,P.033 Besut,N.04 Hulu Besut,9.9,9.5,0.4,6.6,4.3,59.9,57.6
+2022-01-01,Terengganu,P.033 Besut,N.04 Hulu Besut,10.1,9.7,0.4,6.7,4.2,60.1,57.7
+2023-01-01,Terengganu,P.033 Besut,N.04 Hulu Besut,9.5,9.2,0.4,6.1,4.0,60.9,59.0
+2021-01-01,Terengganu,P.034 Setiu,N.05 Jabi,11.5,11.1,0.4,6.6,3.9,63.7,61.3
+2022-01-01,Terengganu,P.034 Setiu,N.05 Jabi,11.7,11.3,0.4,6.6,3.4,64.0,61.7
+2023-01-01,Terengganu,P.034 Setiu,N.05 Jabi,11.3,10.9,0.4,6.1,3.1,64.8,62.6
+2021-01-01,Terengganu,P.034 Setiu,N.06 Permaisuri,15.7,14.8,0.9,9.8,5.7,61.7,58.0
+2022-01-01,Terengganu,P.034 Setiu,N.06 Permaisuri,16.0,15.2,0.8,9.8,5.0,62.1,58.9
+2023-01-01,Terengganu,P.034 Setiu,N.06 Permaisuri,15.4,14.7,0.7,9.1,4.6,62.9,60.0
+2021-01-01,Terengganu,P.034 Setiu,N.07 Langkap,9.8,9.3,0.5,5.5,5.1,63.9,60.8
+2022-01-01,Terengganu,P.034 Setiu,N.07 Langkap,10.0,9.6,0.4,5.7,4.5,63.6,61.1
+2023-01-01,Terengganu,P.034 Setiu,N.07 Langkap,9.6,9.2,0.4,5.3,4.1,64.4,61.7
+2021-01-01,Terengganu,P.034 Setiu,N.08 Batu Rakit,17.9,17.4,0.5,9.5,2.9,65.4,63.5
+2022-01-01,Terengganu,P.034 Setiu,N.08 Batu Rakit,18.3,17.8,0.5,9.5,2.6,65.9,64.0
+2023-01-01,Terengganu,P.034 Setiu,N.08 Batu Rakit,17.6,17.2,0.4,8.8,2.4,66.7,65.2
+2021-01-01,Terengganu,P.035 Kuala Nerus,N.09 Tepuh,21.6,20.5,1.1,17.3,5.1,55.6,52.7
+2022-01-01,Terengganu,P.035 Kuala Nerus,N.09 Tepuh,22.1,21.1,1.0,17.5,4.6,55.8,53.3
+2023-01-01,Terengganu,P.035 Kuala Nerus,N.09 Tepuh,20.8,19.8,1.0,15.8,4.7,56.8,54.1
+2021-01-01,Terengganu,P.035 Kuala Nerus,N.10 Buluh Gading,11.7,11.1,0.6,10.2,5.2,53.4,50.7
+2022-01-01,Terengganu,P.035 Kuala Nerus,N.10 Buluh Gading,11.9,11.3,0.6,10.4,4.7,53.3,50.7
+2023-01-01,Terengganu,P.035 Kuala Nerus,N.10 Buluh Gading,11.2,10.7,0.5,9.4,4.8,54.3,51.9
+2021-01-01,Terengganu,P.035 Kuala Nerus,N.11 Seberang Takir,19.0,18.3,0.7,15.4,3.9,55.3,53.2
+2022-01-01,Terengganu,P.035 Kuala Nerus,N.11 Seberang Takir,19.4,18.7,0.7,15.5,3.6,55.7,53.6
+2023-01-01,Terengganu,P.035 Kuala Nerus,N.11 Seberang Takir,18.3,17.6,0.7,13.9,3.6,56.7,54.7
+2021-01-01,Terengganu,P.035 Kuala Nerus,N.12 Bukit Tunggal,8.6,8.0,0.6,7.4,6.5,53.8,50.0
+2022-01-01,Terengganu,P.035 Kuala Nerus,N.12 Bukit Tunggal,8.7,8.2,0.5,7.5,5.9,53.9,50.6
+2023-01-01,Terengganu,P.035 Kuala Nerus,N.12 Bukit Tunggal,8.2,7.7,0.5,6.8,6.0,54.9,51.3
+2021-01-01,Terengganu,P.036 Kuala Terengganu,N.13 Wakaf Mempelam,15.7,15.1,0.7,11.4,4.1,58.0,55.7
+2022-01-01,Terengganu,P.036 Kuala Terengganu,N.13 Wakaf Mempelam,16.0,15.4,0.6,11.5,3.8,58.3,56.0
+2023-01-01,Terengganu,P.036 Kuala Terengganu,N.13 Wakaf Mempelam,16.0,15.4,0.6,10.7,3.5,59.8,57.7
+2021-01-01,Terengganu,P.036 Kuala Terengganu,N.14 Bandar,7.5,7.2,0.3,5.1,3.6,59.5,57.1
+2022-01-01,Terengganu,P.036 Kuala Terengganu,N.14 Bandar,7.6,7.4,0.2,5.1,3.3,59.8,58.3
+2023-01-01,Terengganu,P.036 Kuala Terengganu,N.14 Bandar,7.6,7.4,0.2,4.8,3.0,61.4,59.7
+2021-01-01,Terengganu,P.036 Kuala Terengganu,N.15 Ladang,11.7,11.2,0.5,7.0,4.2,62.5,59.9
+2022-01-01,Terengganu,P.036 Kuala Terengganu,N.15 Ladang,11.9,11.5,0.5,7.1,3.8,62.7,60.5
+2023-01-01,Terengganu,P.036 Kuala Terengganu,N.15 Ladang,11.9,11.5,0.4,6.6,3.5,64.4,62.2
+2021-01-01,Terengganu,P.036 Kuala Terengganu,N.16 Batu Buruk,21.3,19.9,1.4,13.7,6.7,61.0,56.9
+2022-01-01,Terengganu,P.036 Kuala Terengganu,N.16 Batu Buruk,21.8,20.4,1.3,13.8,6.1,61.2,57.3
+2023-01-01,Terengganu,P.036 Kuala Terengganu,N.16 Batu Buruk,21.7,20.5,1.2,12.8,5.7,62.9,59.4
+2021-01-01,Terengganu,P.037 Marang,N.17 Alur Limbat,17.0,16.6,0.4,14.7,2.4,53.6,52.4
+2022-01-01,Terengganu,P.037 Marang,N.17 Alur Limbat,17.4,17.0,0.4,14.9,2.2,53.8,52.6
+2023-01-01,Terengganu,P.037 Marang,N.17 Alur Limbat,16.5,16.2,0.3,13.7,2.0,54.7,53.6
+2021-01-01,Terengganu,P.037 Marang,N.18 Bukit Payung,14.3,14.0,0.3,11.3,2.0,55.9,54.7
+2022-01-01,Terengganu,P.037 Marang,N.18 Bukit Payung,14.6,14.3,0.3,11.4,1.8,56.2,55.0
+2023-01-01,Terengganu,P.037 Marang,N.18 Bukit Payung,13.9,13.7,0.2,10.4,1.6,57.1,56.4
+2021-01-01,Terengganu,P.037 Marang,N.19 Ru Rendang,16.1,15.5,0.6,13.8,3.8,53.8,51.8
+2022-01-01,Terengganu,P.037 Marang,N.19 Ru Rendang,16.4,15.9,0.6,13.8,3.4,54.3,52.6
+2023-01-01,Terengganu,P.037 Marang,N.19 Ru Rendang,15.7,15.2,0.5,12.7,3.1,55.2,53.5
+2021-01-01,Terengganu,P.037 Marang,N.20 Pengkalan Berangan,17.0,16.2,0.8,12.8,4.5,57.0,54.4
+2022-01-01,Terengganu,P.037 Marang,N.20 Pengkalan Berangan,17.3,16.6,0.7,13.0,4.0,57.0,54.8
+2023-01-01,Terengganu,P.037 Marang,N.20 Pengkalan Berangan,16.5,15.9,0.6,11.9,3.6,58.0,56.0
+2021-01-01,Terengganu,P.038 Hulu Terengganu,N.21 Telemung,9.0,8.9,0.2,6.8,2.0,57.0,56.3
+2022-01-01,Terengganu,P.038 Hulu Terengganu,N.21 Telemung,9.2,9.0,0.2,6.9,1.9,57.1,55.9
+2023-01-01,Terengganu,P.038 Hulu Terengganu,N.21 Telemung,8.5,8.3,0.1,6.1,1.7,58.2,56.8
+2021-01-01,Terengganu,P.038 Hulu Terengganu,N.22 Manir,7.8,7.3,0.4,6.7,5.6,53.6,50.3
+2022-01-01,Terengganu,P.038 Hulu Terengganu,N.22 Manir,7.9,7.5,0.4,6.9,5.2,53.3,50.7
+2023-01-01,Terengganu,P.038 Hulu Terengganu,N.22 Manir,7.3,7.0,0.3,6.1,4.7,54.4,52.2
+2021-01-01,Terengganu,P.038 Hulu Terengganu,N.23 Kuala Berang,11.1,10.4,0.7,9.1,6.6,54.9,51.5
+2022-01-01,Terengganu,P.038 Hulu Terengganu,N.23 Kuala Berang,11.3,10.6,0.7,9.1,6.1,55.4,52.0
+2023-01-01,Terengganu,P.038 Hulu Terengganu,N.23 Kuala Berang,10.4,9.9,0.6,8.1,5.5,56.4,53.5
+2021-01-01,Terengganu,P.038 Hulu Terengganu,N.24 Ajil,10.5,10.2,0.3,8.6,2.6,54.9,53.4
+2022-01-01,Terengganu,P.038 Hulu Terengganu,N.24 Ajil,10.7,10.5,0.3,8.7,2.4,55.0,54.1
+2023-01-01,Terengganu,P.038 Hulu Terengganu,N.24 Ajil,9.8,9.6,0.2,7.7,2.1,56.1,54.9
+2021-01-01,Terengganu,P.039 Dungun,N.25 Bukit Besi,9.1,8.8,0.3,8.2,3.0,52.4,50.9
+2022-01-01,Terengganu,P.039 Dungun,N.25 Bukit Besi,9.2,9.0,0.2,8.5,2.6,52.0,50.8
+2023-01-01,Terengganu,P.039 Dungun,N.25 Bukit Besi,8.7,8.5,0.2,7.7,2.4,53.1,51.8
+2021-01-01,Terengganu,P.039 Dungun,N.26 Rantau Abang,17.9,17.5,0.4,13.5,2.1,57.0,55.7
+2022-01-01,Terengganu,P.039 Dungun,N.26 Rantau Abang,18.3,17.9,0.3,13.7,1.8,57.1,55.9
+2023-01-01,Terengganu,P.039 Dungun,N.26 Rantau Abang,17.2,16.9,0.3,12.2,1.7,58.4,57.5
+2021-01-01,Terengganu,P.039 Dungun,N.27 Sura,14.5,13.9,0.6,11.9,4.1,54.8,52.7
+2022-01-01,Terengganu,P.039 Dungun,N.27 Sura,14.8,14.3,0.5,12.1,3.5,55.0,53.2
+2023-01-01,Terengganu,P.039 Dungun,N.27 Sura,13.9,13.4,0.5,10.8,3.3,56.2,54.3
+2021-01-01,Terengganu,P.039 Dungun,N.28 Paka,23.0,22.0,1.0,19.2,4.2,54.5,52.1
+2022-01-01,Terengganu,P.039 Dungun,N.28 Paka,23.4,22.6,0.8,19.3,3.6,54.8,52.9
+2023-01-01,Terengganu,P.039 Dungun,N.28 Paka,22.0,21.3,0.7,17.3,3.3,56.0,54.2
+2021-01-01,Terengganu,P.040 Kemaman,N.29 Kemasik,16.1,15.5,0.6,9.5,3.5,63.0,60.5
+2022-01-01,Terengganu,P.040 Kemaman,N.29 Kemasik,16.4,15.9,0.5,9.5,3.1,63.3,61.4
+2023-01-01,Terengganu,P.040 Kemaman,N.29 Kemasik,16.4,15.9,0.5,9.2,2.9,64.1,62.1
+2021-01-01,Terengganu,P.040 Kemaman,N.30 Kijal,23.2,22.4,0.8,12.8,3.4,64.4,62.2
+2022-01-01,Terengganu,P.040 Kemaman,N.30 Kijal,23.7,22.9,0.7,12.9,3.0,64.8,62.6
+2023-01-01,Terengganu,P.040 Kemaman,N.30 Kijal,23.6,22.9,0.7,12.4,2.8,65.6,63.6
+2021-01-01,Terengganu,P.040 Kemaman,N.31 Cukai,22.2,21.3,0.9,11.8,4.0,65.3,62.6
+2022-01-01,Terengganu,P.040 Kemaman,N.31 Cukai,22.6,21.8,0.8,11.9,3.5,65.6,63.2
+2023-01-01,Terengganu,P.040 Kemaman,N.31 Cukai,22.6,21.8,0.7,11.4,3.3,66.4,64.1
+2021-01-01,Terengganu,P.040 Kemaman,N.32 Air Putih,33.4,32.5,0.9,17.8,2.8,65.2,63.5
+2022-01-01,Terengganu,P.040 Kemaman,N.32 Air Putih,34.1,33.3,0.8,18.0,2.4,65.4,63.9
+2023-01-01,Terengganu,P.040 Kemaman,N.32 Air Putih,7.7,7.5,0.1,3.0,1.7,72.2,70.1
+2021-01-01,Pulau Pinang,P.041 Kepala Batas,N.01 Penaga,12.5,11.9,0.6,7.8,5.0,61.6,58.6
+2022-01-01,Pulau Pinang,P.041 Kepala Batas,N.01 Penaga,12.5,12.0,0.4,7.1,3.5,63.8,61.2
+2023-01-01,Pulau Pinang,P.041 Kepala Batas,N.01 Penaga,12.8,12.4,0.3,7.0,2.7,64.5,62.6
+2021-01-01,Pulau Pinang,P.041 Kepala Batas,N.02 Bertam,11.2,10.7,0.5,6.1,4.2,64.8,61.8
+2022-01-01,Pulau Pinang,P.041 Kepala Batas,N.02 Bertam,11.2,10.8,0.3,6.2,3.1,64.2,62.1
+2023-01-01,Pulau Pinang,P.041 Kepala Batas,N.02 Bertam,11.4,11.2,0.3,6.2,2.4,64.9,63.6
+2021-01-01,Pulau Pinang,P.041 Kepala Batas,N.03 Pinang Tunggal,30.9,29.7,1.2,15.2,3.8,67.0,64.4
+2022-01-01,Pulau Pinang,P.041 Kepala Batas,N.03 Pinang Tunggal,30.8,29.9,0.9,14.3,2.8,68.2,66.3
+2023-01-01,Pulau Pinang,P.041 Kepala Batas,N.03 Pinang Tunggal,31.5,30.9,0.7,14.2,2.2,68.9,67.6
+2021-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.04 Permatang Berangan,19.0,18.1,0.8,9.7,4.4,66.2,63.1
+2022-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.04 Permatang Berangan,19.3,18.6,0.7,9.2,3.5,67.7,65.3
+2023-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.04 Permatang Berangan,19.2,18.7,0.5,8.9,2.7,68.4,66.5
+2021-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.05 Sungai Dua,18.2,17.6,0.6,8.6,3.5,67.9,65.7
+2022-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.05 Sungai Dua,18.5,18.0,0.5,8.3,2.7,69.1,67.2
+2023-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.05 Sungai Dua,18.4,18.0,0.4,8.0,2.1,69.8,68.2
+2021-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.06 Telok Ayer Tawar,12.9,12.7,0.3,8.6,2.0,60.1,59.1
+2022-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.06 Telok Ayer Tawar,13.1,12.8,0.2,8.1,1.6,61.6,60.4
+2023-01-01,Pulau Pinang,P.042 Tasek Gelugor,N.06 Telok Ayer Tawar,13.0,12.8,0.2,7.9,1.2,62.2,61.2
+2021-01-01,Pulau Pinang,P.043 Bagan,N.07 Sungai Puyu,22.4,21.6,0.8,12.6,3.4,64.0,61.7
+2022-01-01,Pulau Pinang,P.043 Bagan,N.07 Sungai Puyu,22.6,22.1,0.5,12.6,2.3,64.3,62.8
+2023-01-01,Pulau Pinang,P.043 Bagan,N.07 Sungai Puyu,23.6,23.2,0.4,12.8,1.7,64.8,63.7
+2021-01-01,Pulau Pinang,P.043 Bagan,N.08 Bagan Jermal,15.8,15.3,0.5,8.1,3.3,66.2,64.0
+2022-01-01,Pulau Pinang,P.043 Bagan,N.08 Bagan Jermal,16.1,15.7,0.4,8.0,2.3,66.8,65.1
+2023-01-01,Pulau Pinang,P.043 Bagan,N.08 Bagan Jermal,16.7,16.5,0.3,8.1,1.6,67.4,66.5
+2021-01-01,Pulau Pinang,P.043 Bagan,N.09 Bagan Dalam,13.2,12.9,0.3,8.2,2.1,61.8,60.3
+2022-01-01,Pulau Pinang,P.043 Bagan,N.09 Bagan Dalam,13.4,13.2,0.2,8.1,1.4,62.4,61.4
+2023-01-01,Pulau Pinang,P.043 Bagan,N.09 Bagan Dalam,14.0,13.8,0.1,8.2,1.0,62.9,62.2
+2021-01-01,Pulau Pinang,P.044 Permatang Pauh,N.10 Seberang Jaya,45.2,43.1,2.1,23.4,4.7,65.9,62.8
+2022-01-01,Pulau Pinang,P.044 Permatang Pauh,N.10 Seberang Jaya,45.5,43.8,1.7,22.7,3.7,66.7,64.2
+2023-01-01,Pulau Pinang,P.044 Permatang Pauh,N.10 Seberang Jaya,47.0,45.6,1.5,23.0,3.2,67.1,65.1
+2021-01-01,Pulau Pinang,P.044 Permatang Pauh,N.11 Permatang Pasir,16.2,15.2,1.0,9.1,6.1,64.0,60.1
+2022-01-01,Pulau Pinang,P.044 Permatang Pauh,N.11 Permatang Pasir,16.3,15.5,0.8,9.0,5.0,64.5,61.3
+2023-01-01,Pulau Pinang,P.044 Permatang Pauh,N.11 Permatang Pasir,16.8,16.1,0.7,9.1,4.3,64.9,62.2
+2021-01-01,Pulau Pinang,P.044 Permatang Pauh,N.12 Penanti,14.5,13.7,0.8,9.1,5.2,61.3,58.1
+2022-01-01,Pulau Pinang,P.044 Permatang Pauh,N.12 Penanti,14.6,13.9,0.6,9.0,4.3,61.7,58.9
+2023-01-01,Pulau Pinang,P.044 Permatang Pauh,N.12 Penanti,15.1,14.5,0.6,9.2,3.7,62.2,59.7
+2021-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.13 Berapit,14.1,13.6,0.5,5.3,3.7,72.9,70.1
+2022-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.13 Berapit,14.2,13.8,0.4,5.4,2.8,72.5,70.4
+2023-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.13 Berapit,15.0,14.7,0.3,5.4,2.2,73.6,72.1
+2021-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.14 Machang Bubuk,48.7,47.0,1.6,20.2,3.3,70.7,68.2
+2022-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.14 Machang Bubuk,49.1,47.8,1.2,20.2,2.5,70.8,69.0
+2023-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.14 Machang Bubuk,51.8,50.8,1.0,20.3,2.0,71.9,70.5
+2021-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.15 Padang Lalang,20.2,19.7,0.5,8.6,2.3,70.0,68.4
+2022-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.15 Padang Lalang,20.4,20.1,0.3,8.6,1.7,70.3,69.3
+2023-01-01,Pulau Pinang,P.045 Bukit Mertajam,N.15 Padang Lalang,21.6,21.3,0.3,8.7,1.3,71.3,70.3
+2021-01-01,Pulau Pinang,P.046 Batu Kawan,N.16 Perai,15.6,14.8,0.8,5.4,5.3,74.2,70.5
+2022-01-01,Pulau Pinang,P.046 Batu Kawan,N.16 Perai,15.8,15.2,0.6,5.2,3.9,75.0,72.4
+2023-01-01,Pulau Pinang,P.046 Batu Kawan,N.16 Perai,17.4,16.9,0.6,5.3,3.2,76.8,74.4
+2021-01-01,Pulau Pinang,P.046 Batu Kawan,N.17 Bukit Tengah,46.3,44.5,1.8,12.5,3.8,78.8,75.7
+2022-01-01,Pulau Pinang,P.046 Batu Kawan,N.17 Bukit Tengah,46.8,45.3,1.5,11.9,3.2,79.7,77.2
+2023-01-01,Pulau Pinang,P.046 Batu Kawan,N.17 Bukit Tengah,51.7,50.3,1.3,11.7,2.6,81.6,79.3
+2021-01-01,Pulau Pinang,P.046 Batu Kawan,N.18 Bukit Tambun,32.6,30.8,1.8,10.5,5.5,75.6,71.5
+2022-01-01,Pulau Pinang,P.046 Batu Kawan,N.18 Bukit Tambun,32.9,31.5,1.3,10.0,4.1,76.7,73.4
+2023-01-01,Pulau Pinang,P.046 Batu Kawan,N.18 Bukit Tambun,36.3,35.1,1.2,9.9,3.3,78.5,76.0
+2021-01-01,Pulau Pinang,P.047 Nibong Tebal,N.19 Jawi,22.8,22.0,0.8,6.6,3.4,77.7,74.8
+2022-01-01,Pulau Pinang,P.047 Nibong Tebal,N.19 Jawi,22.9,22.3,0.6,6.6,2.7,77.7,75.6
+2023-01-01,Pulau Pinang,P.047 Nibong Tebal,N.19 Jawi,22.9,22.4,0.5,5.9,2.3,79.4,77.8
+2021-01-01,Pulau Pinang,P.047 Nibong Tebal,N.20 Sungai Bakap,35.2,33.9,1.3,9.2,3.6,79.2,76.4
+2022-01-01,Pulau Pinang,P.047 Nibong Tebal,N.20 Sungai Bakap,35.5,34.5,1.0,9.2,2.8,79.4,77.2
+2023-01-01,Pulau Pinang,P.047 Nibong Tebal,N.20 Sungai Bakap,35.4,34.6,0.8,8.2,2.4,81.2,79.4
+2021-01-01,Pulau Pinang,P.047 Nibong Tebal,N.21 Sungai Acheh,15.5,14.5,1.0,4.6,6.5,77.0,72.1
+2022-01-01,Pulau Pinang,P.047 Nibong Tebal,N.21 Sungai Acheh,15.6,14.9,0.7,4.6,4.5,77.1,73.8
+2023-01-01,Pulau Pinang,P.047 Nibong Tebal,N.21 Sungai Acheh,15.6,15.0,0.6,4.2,3.7,78.7,75.8
+2021-01-01,Pulau Pinang,P.048 Bukit Bendera,N.22 Tanjong Bunga,22.9,22.1,0.8,12.6,3.6,64.5,62.3
+2022-01-01,Pulau Pinang,P.048 Bukit Bendera,N.22 Tanjong Bunga,23.2,22.6,0.6,12.3,2.7,65.3,63.7
+2023-01-01,Pulau Pinang,P.048 Bukit Bendera,N.22 Tanjong Bunga,24.0,23.5,0.5,12.3,2.1,66.0,64.7
+2021-01-01,Pulau Pinang,P.048 Bukit Bendera,N.23 Air Putih,7.3,7.1,0.2,3.0,3.2,70.9,68.9
+2022-01-01,Pulau Pinang,P.048 Bukit Bendera,N.23 Air Putih,7.4,7.3,0.2,3.0,2.2,71.4,70.2
+2023-01-01,Pulau Pinang,P.048 Bukit Bendera,N.23 Air Putih,7.7,7.5,0.1,3.0,1.7,72.2,70.1
+2021-01-01,Pulau Pinang,P.048 Bukit Bendera,N.24 Kebun Bunga,14.6,13.8,0.9,6.2,6.0,70.4,66.3
+2022-01-01,Pulau Pinang,P.048 Bukit Bendera,N.24 Kebun Bunga,14.9,14.2,0.7,6.0,4.5,71.2,67.9
+2023-01-01,Pulau Pinang,P.048 Bukit Bendera,N.24 Kebun Bunga,15.3,14.8,0.5,6.0,3.5,72.0,69.5
+2021-01-01,Pulau Pinang,P.048 Bukit Bendera,N.25 Pulau Tikus,14.1,13.6,0.5,6.5,3.5,68.5,66.0
+2022-01-01,Pulau Pinang,P.048 Bukit Bendera,N.25 Pulau Tikus,14.3,13.9,0.3,6.7,2.4,68.2,66.2
+2023-01-01,Pulau Pinang,P.048 Bukit Bendera,N.25 Pulau Tikus,14.7,14.5,0.3,6.6,1.9,69.0,68.1
+2021-01-01,Pulau Pinang,P.049 Tanjong,N.26 Padang Kota,2.3,2.2,0.1,1.1,3.4,66.9,64.7
+2022-01-01,Pulau Pinang,P.049 Tanjong,N.26 Padang Kota,2.3,2.3,0.1,1.1,2.4,67.2,67.6
+2023-01-01,Pulau Pinang,P.049 Tanjong,N.26 Padang Kota,3.2,3.1,0.0,1.5,1.3,68.1,66.0
+2021-01-01,Pulau Pinang,P.049 Tanjong,N.27 Pengkalan Kota,8.8,8.4,0.3,4.1,3.9,68.2,65.1
+2022-01-01,Pulau Pinang,P.049 Tanjong,N.27 Pengkalan Kota,8.9,8.7,0.2,4.1,2.5,68.5,66.9
+2023-01-01,Pulau Pinang,P.049 Tanjong,N.27 Pengkalan Kota,12.1,12.0,0.2,5.3,1.3,69.4,69.0
+2021-01-01,Pulau Pinang,P.049 Tanjong,N.28 Komtar,2.8,2.7,0.1,1.2,3.1,70.6,67.5
+2022-01-01,Pulau Pinang,P.049 Tanjong,N.28 Komtar,2.9,2.8,0.1,1.2,2.2,71.0,68.3
+2023-01-01,Pulau Pinang,P.049 Tanjong,N.28 Komtar,3.9,3.9,0.0,1.5,1.2,71.9,72.2
+2021-01-01,Pulau Pinang,P.050 Jelutong,N.29 Datok Keramat,11.4,10.7,0.7,4.9,6.4,70.1,65.6
+2022-01-01,Pulau Pinang,P.050 Jelutong,N.29 Datok Keramat,11.7,11.2,0.5,4.8,4.4,71.1,67.9
+2023-01-01,Pulau Pinang,P.050 Jelutong,N.29 Datok Keramat,11.3,10.9,0.4,4.4,3.6,72.1,69.4
+2021-01-01,Pulau Pinang,P.050 Jelutong,N.30 Sungai Pinang,28.9,28.0,0.9,12.4,3.2,69.9,67.8
+2022-01-01,Pulau Pinang,P.050 Jelutong,N.30 Sungai Pinang,29.5,28.8,0.7,12.1,2.3,70.9,69.2
+2023-01-01,Pulau Pinang,P.050 Jelutong,N.30 Sungai Pinang,28.5,28.0,0.5,11.2,1.9,71.8,70.5
+2021-01-01,Pulau Pinang,P.050 Jelutong,N.31 Batu Lancang,17.6,17.0,0.7,8.1,3.8,68.4,66.1
+2022-01-01,Pulau Pinang,P.050 Jelutong,N.31 Batu Lancang,17.9,17.4,0.5,8.1,2.7,68.9,66.9
+2023-01-01,Pulau Pinang,P.050 Jelutong,N.31 Batu Lancang,17.3,16.9,0.4,7.5,2.2,69.8,68.1
+2021-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.32 Seri Delima,17.9,17.2,0.7,9.0,3.8,66.4,63.9
+2022-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.32 Seri Delima,18.1,17.5,0.5,9.0,2.9,66.7,64.6
+2023-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.32 Seri Delima,18.8,18.4,0.4,9.1,2.3,67.4,65.9
+2021-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.33 Air Itam,12.5,12.2,0.3,5.9,2.3,67.9,66.3
+2022-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.33 Air Itam,12.7,12.4,0.2,6.4,1.8,66.4,64.9
+2023-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.33 Air Itam,13.2,13.0,0.2,6.5,1.5,67.1,66.0
+2021-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.34 Paya Terubong,68.9,66.8,2.1,31.0,3.1,69.0,66.9
+2022-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.34 Paya Terubong,70.0,68.4,1.6,30.9,2.3,69.4,67.8
+2023-01-01,Pulau Pinang,P.051 Bukit Gelugor,N.34 Paya Terubong,72.9,71.5,1.3,31.0,1.8,70.2,68.8
+2021-01-01,Pulau Pinang,P.052 Bayan Baru,N.35 Batu Uban,45.5,44.1,1.4,19.0,3.0,70.5,68.4
+2022-01-01,Pulau Pinang,P.052 Bayan Baru,N.35 Batu Uban,45.9,44.8,1.1,18.6,2.4,71.1,69.5
+2023-01-01,Pulau Pinang,P.052 Bayan Baru,N.35 Batu Uban,46.0,45.1,0.9,17.6,2.0,72.3,70.9
+2021-01-01,Pulau Pinang,P.052 Bayan Baru,N.36 Pantai Jerejak,22.0,21.6,0.4,9.4,2.0,70.0,68.8
+2022-01-01,Pulau Pinang,P.052 Bayan Baru,N.36 Pantai Jerejak,22.2,21.8,0.4,9.5,1.6,70.0,68.8
+2023-01-01,Pulau Pinang,P.052 Bayan Baru,N.36 Pantai Jerejak,22.2,21.9,0.3,9.0,1.3,71.1,70.2
+2021-01-01,Pulau Pinang,P.052 Bayan Baru,N.37 Batu Maung,37.3,36.3,1.0,13.0,2.6,74.1,72.2
+2022-01-01,Pulau Pinang,P.052 Bayan Baru,N.37 Batu Maung,37.5,36.8,0.7,12.8,1.9,74.6,73.2
+2023-01-01,Pulau Pinang,P.052 Bayan Baru,N.37 Batu Maung,37.6,37.0,0.6,12.0,1.6,75.8,74.6
+2021-01-01,Pulau Pinang,P.053 Balik Pulau,N.38 Bayan Lepas,48.2,47.2,1.0,18.1,2.0,72.7,71.2
+2022-01-01,Pulau Pinang,P.053 Balik Pulau,N.38 Bayan Lepas,48.7,47.9,0.8,18.0,1.7,73.0,71.8
+2023-01-01,Pulau Pinang,P.053 Balik Pulau,N.38 Bayan Lepas,47.1,46.4,0.6,16.4,1.4,74.1,73.1
+2021-01-01,Pulau Pinang,P.053 Balik Pulau,N.39 Pulau Betong,13.9,13.6,0.3,6.7,2.2,67.4,66.0
+2022-01-01,Pulau Pinang,P.053 Balik Pulau,N.39 Pulau Betong,14.0,13.8,0.3,6.4,1.8,68.7,67.6
+2023-01-01,Pulau Pinang,P.053 Balik Pulau,N.39 Pulau Betong,13.6,13.4,0.2,5.9,1.5,69.8,68.7
+2021-01-01,Pulau Pinang,P.053 Balik Pulau,N.40 Telok Bahang,9.8,9.4,0.4,4.6,4.1,68.2,65.3
+2022-01-01,Pulau Pinang,P.053 Balik Pulau,N.40 Telok Bahang,9.9,9.5,0.3,4.4,3.5,69.1,66.4
+2023-01-01,Pulau Pinang,P.053 Balik Pulau,N.40 Telok Bahang,9.5,9.3,0.3,4.1,2.8,70.1,68.4
+2021-01-01,Perak,P.054 Gerik,N.01 Pengkalan Hulu,10.2,9.7,0.5,5.3,5.2,65.9,62.6
+2022-01-01,Perak,P.054 Gerik,N.01 Pengkalan Hulu,10.4,9.9,0.5,5.3,4.5,66.0,63.1
+2023-01-01,Perak,P.054 Gerik,N.01 Pengkalan Hulu,10.2,9.9,0.4,5.1,3.6,66.9,64.7
+2021-01-01,Perak,P.054 Gerik,N.02 Temengor,14.8,14.2,0.6,9.6,4.3,60.7,58.2
+2022-01-01,Perak,P.054 Gerik,N.02 Temengor,15.1,14.6,0.6,9.5,3.7,61.5,59.3
+2023-01-01,Perak,P.054 Gerik,N.02 Temengor,14.0,13.6,0.4,8.2,3.2,63.0,61.3
+2021-01-01,Perak,P.055 Lenggong,N.03 Kenering,10.7,10.3,0.3,5.8,3.0,64.6,62.4
+2022-01-01,Perak,P.055 Lenggong,N.03 Kenering,10.9,10.6,0.3,5.8,2.6,65.2,63.5
+2023-01-01,Perak,P.055 Lenggong,N.03 Kenering,10.0,9.8,0.2,5.2,1.7,65.9,64.5
+2021-01-01,Perak,P.055 Lenggong,N.04 Kota Tampan,5.7,5.3,0.4,3.6,6.6,61.2,57.0
+2022-01-01,Perak,P.055 Lenggong,N.04 Kota Tampan,5.7,5.4,0.3,3.6,5.8,61.4,58.1
+2023-01-01,Perak,P.055 Lenggong,N.04 Kota Tampan,6.1,5.7,0.3,3.7,5.2,62.0,58.2
+2021-01-01,Perak,P.056 Larut,N.05 Selama,11.2,10.4,0.7,5.3,6.6,67.7,63.0
+2022-01-01,Perak,P.056 Larut,N.05 Selama,11.4,10.7,0.7,5.2,5.8,68.6,64.5
+2023-01-01,Perak,P.056 Larut,N.05 Selama,10.6,10.0,0.6,4.7,5.2,69.5,65.4
+2021-01-01,Perak,P.056 Larut,N.06 Kubu Gajah,8.8,8.2,0.6,4.5,6.9,66.2,61.7
+2022-01-01,Perak,P.056 Larut,N.06 Kubu Gajah,8.8,8.3,0.5,4.5,6.2,66.0,62.4
+2023-01-01,Perak,P.056 Larut,N.06 Kubu Gajah,8.6,8.1,0.5,4.2,5.3,67.3,63.3
+2021-01-01,Perak,P.056 Larut,N.07 Batu Kurau,11.1,10.4,0.7,6.1,6.0,64.6,60.5
+2022-01-01,Perak,P.056 Larut,N.07 Batu Kurau,11.3,10.7,0.6,5.9,5.3,65.6,62.2
+2023-01-01,Perak,P.056 Larut,N.07 Batu Kurau,11.0,10.4,0.6,5.7,5.2,66.1,62.3
+2021-01-01,Perak,P.057 Parit Buntar,N.08 Titi Serong,19.0,17.8,1.2,12.1,6.5,61.1,57.2
+2022-01-01,Perak,P.057 Parit Buntar,N.08 Titi Serong,19.4,18.3,1.1,11.9,5.7,61.9,58.5
+2023-01-01,Perak,P.057 Parit Buntar,N.08 Titi Serong,19.0,18.0,1.0,11.4,5.3,62.5,59.2
+2021-01-01,Perak,P.057 Parit Buntar,N.09 Kuala Kurau,12.9,12.1,0.8,8.7,5.9,59.6,56.0
+2022-01-01,Perak,P.057 Parit Buntar,N.09 Kuala Kurau,13.1,12.4,0.7,8.7,5.2,60.1,56.9
+2023-01-01,Perak,P.057 Parit Buntar,N.09 Kuala Kurau,12.8,12.2,0.6,8.3,4.6,60.7,57.8
+2021-01-01,Perak,P.058 Bagan Serai,N.10 Alor Pongsu,14.4,13.9,0.6,9.7,3.9,59.9,57.7
+2022-01-01,Perak,P.058 Bagan Serai,N.10 Alor Pongsu,14.7,14.2,0.5,9.7,3.5,60.3,58.2
+2023-01-01,Perak,P.058 Bagan Serai,N.10 Alor Pongsu,14.3,13.8,0.5,9.3,3.2,60.5,58.5
+2021-01-01,Perak,P.058 Bagan Serai,N.11 Gunong Semanggol,13.4,13.1,0.3,8.5,2.2,61.2,59.8
+2022-01-01,Perak,P.058 Bagan Serai,N.11 Gunong Semanggol,13.6,13.4,0.3,8.4,1.9,61.7,60.9
+2023-01-01,Perak,P.058 Bagan Serai,N.11 Gunong Semanggol,13.0,12.8,0.2,8.1,1.6,61.7,60.7
+2021-01-01,Perak,P.058 Bagan Serai,N.12 Selinsing,13.1,12.4,0.7,7.6,5.4,63.3,59.9
+2022-01-01,Perak,P.058 Bagan Serai,N.12 Selinsing,13.3,12.7,0.6,7.5,4.8,63.9,61.1
+2023-01-01,Perak,P.058 Bagan Serai,N.12 Selinsing,12.9,12.4,0.5,7.4,3.9,63.7,61.1
+2021-01-01,Perak,P.059 Bukit Gantang,N.13 Kuala Sepetang,24.0,22.7,1.3,10.2,5.2,70.2,66.4
+2022-01-01,Perak,P.059 Bukit Gantang,N.13 Kuala Sepetang,24.4,23.3,1.1,10.0,4.6,70.8,67.7
+2023-01-01,Perak,P.059 Bukit Gantang,N.13 Kuala Sepetang,23.7,22.7,0.9,9.3,4.0,71.9,68.8
+2021-01-01,Perak,P.059 Bukit Gantang,N.14 Changkat Jering,20.0,18.6,1.5,10.7,7.3,65.2,60.6
+2022-01-01,Perak,P.059 Bukit Gantang,N.14 Changkat Jering,20.3,19.0,1.3,10.7,6.5,65.6,61.3
+2023-01-01,Perak,P.059 Bukit Gantang,N.14 Changkat Jering,20.1,19.0,1.1,10.3,5.3,66.0,62.5
+2021-01-01,Perak,P.059 Bukit Gantang,N.15 Trong,7.2,6.6,0.6,4.2,8.4,63.0,57.9
+2022-01-01,Perak,P.059 Bukit Gantang,N.15 Trong,7.4,6.8,0.5,4.2,7.4,63.8,58.6
+2023-01-01,Perak,P.059 Bukit Gantang,N.15 Trong,7.3,6.8,0.5,4.0,7.0,64.6,60.2
+2021-01-01,Perak,P.060 Taiping,N.16 Kamunting,18.8,18.3,0.4,9.6,2.3,66.0,64.4
+2022-01-01,Perak,P.060 Taiping,N.16 Kamunting,19.1,18.7,0.4,9.5,2.1,66.8,65.4
+2023-01-01,Perak,P.060 Taiping,N.16 Kamunting,18.8,18.4,0.3,9.2,1.8,67.2,65.7
+2021-01-01,Perak,P.060 Taiping,N.17 Pokok Assam,15.9,14.8,1.2,7.4,7.5,68.3,63.5
+2022-01-01,Perak,P.060 Taiping,N.17 Pokok Assam,16.2,15.1,1.1,7.4,6.6,68.6,64.0
+2023-01-01,Perak,P.060 Taiping,N.17 Pokok Assam,16.3,15.4,0.9,7.3,5.3,69.1,65.3
+2021-01-01,Perak,P.060 Taiping,N.18 Aulong,22.5,21.1,1.4,12.3,6.0,64.7,60.6
+2022-01-01,Perak,P.060 Taiping,N.18 Aulong,22.8,21.6,1.2,12.3,5.3,65.1,61.5
+2023-01-01,Perak,P.060 Taiping,N.18 Aulong,22.8,21.7,1.1,12.1,4.7,65.4,62.2
+2021-01-01,Perak,P.061 Padang Rengas,N.19 Chenderoh,6.5,6.1,0.4,4.6,6.0,58.5,55.0
+2022-01-01,Perak,P.061 Padang Rengas,N.19 Chenderoh,6.7,6.3,0.3,4.6,5.2,58.9,55.8
+2023-01-01,Perak,P.061 Padang Rengas,N.19 Chenderoh,6.5,6.2,0.3,4.4,4.1,59.5,56.9
+2021-01-01,Perak,P.061 Padang Rengas,N.20 Lubok Merbau,9.1,8.6,0.5,5.5,5.5,62.2,58.9
+2022-01-01,Perak,P.061 Padang Rengas,N.20 Lubok Merbau,9.3,8.9,0.5,5.5,4.9,62.9,60.1
+2023-01-01,Perak,P.061 Padang Rengas,N.20 Lubok Merbau,8.9,8.6,0.4,5.2,4.0,63.3,61.0
+2021-01-01,Perak,P.062 Sungai Siput,N.21 Lintang,15.9,15.3,0.5,10.6,3.5,60.1,57.7
+2022-01-01,Perak,P.062 Sungai Siput,N.21 Lintang,16.2,15.7,0.5,10.5,3.1,60.7,58.8
+2023-01-01,Perak,P.062 Sungai Siput,N.21 Lintang,16.3,16.0,0.4,10.3,2.2,61.3,60.2
+2021-01-01,Perak,P.062 Sungai Siput,N.22 Jalong,17.6,16.0,1.5,10.9,8.6,61.7,56.1
+2022-01-01,Perak,P.062 Sungai Siput,N.22 Jalong,17.9,16.5,1.4,10.8,7.6,62.3,57.5
+2023-01-01,Perak,P.062 Sungai Siput,N.22 Jalong,20.5,19.0,1.5,12.0,7.4,63.2,58.5
+2021-01-01,Perak,P.063 Tambun,N.23 Manjoi,59.4,57.0,2.4,33.9,4.0,63.7,61.1
+2022-01-01,Perak,P.063 Tambun,N.23 Manjoi,60.4,58.3,2.1,33.3,3.5,64.5,62.2
+2023-01-01,Perak,P.063 Tambun,N.23 Manjoi,67.2,65.3,2.0,35.7,2.9,65.3,63.5
+2021-01-01,Perak,P.063 Tambun,N.24 Hulu Kinta,49.7,47.5,2.3,25.6,4.6,66.0,63.1
+2022-01-01,Perak,P.063 Tambun,N.24 Hulu Kinta,50.6,48.6,2.0,25.3,4.0,66.7,64.0
+2023-01-01,Perak,P.063 Tambun,N.24 Hulu Kinta,54.2,52.3,1.9,26.1,3.5,67.5,65.1
+2021-01-01,Perak,P.064 Ipoh Timor,N.25 Canning,20.8,20.2,0.7,10.9,3.3,65.7,63.7
+2022-01-01,Perak,P.064 Ipoh Timor,N.25 Canning,21.0,20.4,0.6,9.5,2.9,68.8,66.9
+2023-01-01,Perak,P.064 Ipoh Timor,N.25 Canning,22.1,21.7,0.4,9.6,1.9,69.8,68.5
+2021-01-01,Perak,P.064 Ipoh Timor,N.26 Tebing Tinggi,22.3,20.7,1.6,11.8,7.1,65.4,60.7
+2022-01-01,Perak,P.064 Ipoh Timor,N.26 Tebing Tinggi,22.5,21.1,1.4,9.9,6.3,69.4,65.1
+2023-01-01,Perak,P.064 Ipoh Timor,N.26 Tebing Tinggi,25.9,24.5,1.4,11.1,5.3,70.0,66.2
+2021-01-01,Perak,P.064 Ipoh Timor,N.27 Pasir Pinji,12.0,11.2,0.7,5.7,6.1,67.9,63.3
+2022-01-01,Perak,P.064 Ipoh Timor,N.27 Pasir Pinji,12.1,11.4,0.7,5.7,5.4,68.0,64.0
+2023-01-01,Perak,P.064 Ipoh Timor,N.27 Pasir Pinji,13.5,12.9,0.7,6.1,4.9,68.8,65.8
+2021-01-01,Perak,P.065 Ipoh Barat,N.28 Bercham,30.6,29.0,1.6,17.5,5.1,63.6,60.3
+2022-01-01,Perak,P.065 Ipoh Barat,N.28 Bercham,31.1,29.7,1.4,17.4,4.6,64.2,61.2
+2023-01-01,Perak,P.065 Ipoh Barat,N.28 Bercham,32.5,31.2,1.3,17.8,4.1,64.7,62.0
+2021-01-01,Perak,P.065 Ipoh Barat,N.29 Kepayang,9.7,9.2,0.5,6.0,4.8,61.6,58.6
+2022-01-01,Perak,P.065 Ipoh Barat,N.29 Kepayang,9.8,9.4,0.4,6.0,4.3,61.8,59.5
+2023-01-01,Perak,P.065 Ipoh Barat,N.29 Kepayang,10.2,9.8,0.4,6.1,3.6,62.5,60.1
+2021-01-01,Perak,P.065 Ipoh Barat,N.30 Buntong,18.4,17.6,0.8,8.4,4.2,68.7,65.7
+2022-01-01,Perak,P.065 Ipoh Barat,N.30 Buntong,18.7,18.0,0.7,8.3,3.8,69.3,66.7
+2023-01-01,Perak,P.065 Ipoh Barat,N.30 Buntong,20.0,19.3,0.7,8.5,3.4,70.2,67.7
+2021-01-01,Perak,P.066 Batu Gajah,N.31 Jelapang,19.3,18.2,1.2,11.2,6.0,63.4,59.7
+2022-01-01,Perak,P.066 Batu Gajah,N.31 Jelapang,19.6,18.6,1.0,11.0,5.3,64.0,60.8
+2023-01-01,Perak,P.066 Batu Gajah,N.31 Jelapang,20.2,19.3,0.8,11.5,4.1,63.7,60.9
+2021-01-01,Perak,P.066 Batu Gajah,N.32 Menglembu,20.0,18.3,1.7,9.0,8.3,69.0,63.1
+2022-01-01,Perak,P.066 Batu Gajah,N.32 Menglembu,20.2,18.7,1.5,8.9,7.4,69.5,64.3
+2023-01-01,Perak,P.066 Batu Gajah,N.32 Menglembu,22.3,20.9,1.4,9.7,6.4,69.6,65.3
+2021-01-01,Perak,P.066 Batu Gajah,N.33 Tronoh,18.7,18.0,0.7,11.0,3.7,63.0,60.6
+2022-01-01,Perak,P.066 Batu Gajah,N.33 Tronoh,19.0,18.4,0.6,10.9,3.3,63.4,61.5
+2023-01-01,Perak,P.066 Batu Gajah,N.33 Tronoh,19.9,19.3,0.6,11.5,2.9,63.4,61.5
+2021-01-01,Perak,P.067 Kuala Kangsar,N.34 Bukit Chandan,12.0,11.3,0.7,8.9,5.9,57.4,54.1
+2022-01-01,Perak,P.067 Kuala Kangsar,N.34 Bukit Chandan,12.2,11.6,0.6,8.9,5.2,58.0,55.0
+2023-01-01,Perak,P.067 Kuala Kangsar,N.34 Bukit Chandan,11.6,11.1,0.5,7.9,4.1,59.6,56.9
+2021-01-01,Perak,P.067 Kuala Kangsar,N.35 Manong,10.3,9.8,0.5,5.9,4.9,63.5,60.5
+2022-01-01,Perak,P.067 Kuala Kangsar,N.35 Manong,10.5,10.0,0.5,5.9,4.3,64.1,61.0
+2023-01-01,Perak,P.067 Kuala Kangsar,N.35 Manong,10.8,10.4,0.4,5.8,3.5,65.0,62.7
+2021-01-01,Perak,P.068 Beruas,N.36 Pengkalan Baharu,9.7,8.9,0.7,6.2,7.6,61.1,56.0
+2022-01-01,Perak,P.068 Beruas,N.36 Pengkalan Baharu,9.9,9.2,0.7,6.0,6.6,62.2,57.9
+2023-01-01,Perak,P.068 Beruas,N.36 Pengkalan Baharu,10.0,9.4,0.6,5.9,5.6,63.0,59.1
+2021-01-01,Perak,P.068 Beruas,N.37 Pantai Remis,22.1,21.2,0.9,11.0,3.9,66.8,64.0
+2022-01-01,Perak,P.068 Beruas,N.37 Pantai Remis,22.4,21.6,0.8,10.8,3.4,67.5,65.1
+2023-01-01,Perak,P.068 Beruas,N.37 Pantai Remis,22.6,22.0,0.6,10.7,2.5,67.8,66.1
+2021-01-01,Perak,P.068 Beruas,N.38 Astaka,22.2,20.8,1.5,11.9,6.7,65.1,61.0
+2022-01-01,Perak,P.068 Beruas,N.38 Astaka,22.6,21.2,1.3,11.9,5.9,65.6,61.4
+2023-01-01,Perak,P.068 Beruas,N.38 Astaka,23.0,21.9,1.1,11.7,4.7,66.2,63.1
+2021-01-01,Perak,P.069 Parit,N.39 Belanja,5.2,4.8,0.4,2.9,7.8,64.4,59.3
+2022-01-01,Perak,P.069 Parit,N.39 Belanja,5.3,4.9,0.4,2.8,6.8,65.2,60.5
+2023-01-01,Perak,P.069 Parit,N.39 Belanja,5.1,4.9,0.3,2.6,5.7,66.6,63.6
+2021-01-01,Perak,P.069 Parit,N.40 Bota,26.0,24.8,1.3,17.0,4.9,60.5,57.7
+2022-01-01,Perak,P.069 Parit,N.40 Bota,26.5,25.4,1.1,16.7,4.3,61.3,58.8
+2023-01-01,Perak,P.069 Parit,N.40 Bota,23.7,22.9,0.9,14.2,3.6,62.5,60.4
+2021-01-01,Perak,P.070 Kampar,N.41 Malim Nawar,14.1,13.1,1.0,6.4,6.8,68.7,63.9
+2022-01-01,Perak,P.070 Kampar,N.41 Malim Nawar,14.4,13.5,0.9,6.3,6.0,69.6,65.2
+2023-01-01,Perak,P.070 Kampar,N.41 Malim Nawar,14.3,13.6,0.8,6.0,5.3,70.3,67.0
+2021-01-01,Perak,P.070 Kampar,N.42 Keranji,20.9,19.9,0.9,11.0,4.4,65.4,62.4
+2022-01-01,Perak,P.070 Kampar,N.42 Keranji,21.2,20.4,0.8,10.8,3.9,66.2,63.7
+2023-01-01,Perak,P.070 Kampar,N.42 Keranji,19.1,18.6,0.6,9.3,3.1,67.3,65.5
+2021-01-01,Perak,P.070 Kampar,N.43 Tualang Sekah,15.8,15.2,0.6,8.7,3.9,64.4,62.0
+2022-01-01,Perak,P.070 Kampar,N.43 Tualang Sekah,16.0,15.5,0.6,8.7,3.4,64.9,62.8
+2023-01-01,Perak,P.070 Kampar,N.43 Tualang Sekah,16.4,16.0,0.5,8.7,2.9,65.3,63.7
+2021-01-01,Perak,P.071 Gopeng,N.44 Sungai Rapat,28.0,27.1,0.9,20.6,3.2,57.6,55.8
+2022-01-01,Perak,P.071 Gopeng,N.44 Sungai Rapat,28.5,27.7,0.8,20.4,2.9,58.3,56.6
+2023-01-01,Perak,P.071 Gopeng,N.44 Sungai Rapat,31.4,30.7,0.7,20.8,2.2,60.2,58.8
+2021-01-01,Perak,P.071 Gopeng,N.45 Simpang Pulai,41.0,39.1,1.9,21.7,4.6,65.3,62.4
+2022-01-01,Perak,P.071 Gopeng,N.45 Simpang Pulai,41.6,40.0,1.7,21.5,4.0,65.9,63.4
+2023-01-01,Perak,P.071 Gopeng,N.45 Simpang Pulai,46.1,44.5,1.6,23.0,3.4,66.7,64.4
+2021-01-01,Perak,P.071 Gopeng,N.46 Teja,15.2,14.3,0.9,10.3,5.9,59.7,56.1
+2022-01-01,Perak,P.071 Gopeng,N.46 Teja,15.5,14.7,0.8,10.2,5.2,60.4,57.2
+2023-01-01,Perak,P.071 Gopeng,N.46 Teja,17.6,16.9,0.7,11.2,4.0,61.0,58.7
+2021-01-01,Perak,P.072 Tapah,N.47 Chenderiang,17.1,16.5,0.6,8.0,3.7,68.0,65.7
+2022-01-01,Perak,P.072 Tapah,N.47 Chenderiang,17.4,16.8,0.6,8.0,3.3,68.5,66.1
+2023-01-01,Perak,P.072 Tapah,N.47 Chenderiang,16.1,15.7,0.4,7.1,2.4,69.5,67.7
+2021-01-01,Perak,P.072 Tapah,N.48 Ayer Kuning,23.1,21.8,1.3,10.6,5.8,68.6,64.7
+2022-01-01,Perak,P.072 Tapah,N.48 Ayer Kuning,23.6,22.4,1.2,10.3,5.1,69.7,66.1
+2023-01-01,Perak,P.072 Tapah,N.48 Ayer Kuning,23.0,22.0,1.0,9.2,4.2,71.4,68.3
+2021-01-01,Perak,P.073 Pasir Salak,N.49 Sungai Manik,18.4,16.9,1.5,8.4,8.3,68.6,63.1
+2022-01-01,Perak,P.073 Pasir Salak,N.49 Sungai Manik,18.7,17.3,1.4,8.3,7.4,69.4,64.1
+2023-01-01,Perak,P.073 Pasir Salak,N.49 Sungai Manik,19.6,18.3,1.3,8.2,6.5,70.4,65.8
+2021-01-01,Perak,P.073 Pasir Salak,N.50 Kampong Gajah,18.6,17.9,0.7,10.8,3.8,63.3,60.9
+2022-01-01,Perak,P.073 Pasir Salak,N.50 Kampong Gajah,18.8,18.2,0.6,10.7,3.4,63.7,61.7
+2023-01-01,Perak,P.073 Pasir Salak,N.50 Kampong Gajah,18.1,17.7,0.4,10.3,2.3,63.8,62.3
+2021-01-01,Perak,P.074 Lumut,N.51 Pasir Panjang,44.9,42.0,2.8,25.3,6.3,63.9,59.8
+2022-01-01,Perak,P.074 Lumut,N.51 Pasir Panjang,45.7,43.1,2.6,24.7,5.6,64.9,61.2
+2023-01-01,Perak,P.074 Lumut,N.51 Pasir Panjang,45.3,43.3,2.0,22.8,4.4,66.5,63.6
+2021-01-01,Perak,P.074 Lumut,N.52 Pangkor,13.0,12.3,0.6,6.4,5.0,67.0,63.4
+2022-01-01,Perak,P.074 Lumut,N.52 Pangkor,13.2,12.6,0.6,6.3,4.4,67.7,64.6
+2023-01-01,Perak,P.074 Lumut,N.52 Pangkor,13.5,13.0,0.5,6.4,3.9,68.0,65.3
+2021-01-01,Perak,P.075 Bagan Datuk,N.53 Rungkup,7.8,7.5,0.3,4.3,3.5,64.3,62.0
+2022-01-01,Perak,P.075 Bagan Datuk,N.53 Rungkup,7.9,7.7,0.2,4.3,3.1,65.0,63.1
+2023-01-01,Perak,P.075 Bagan Datuk,N.53 Rungkup,10.2,10.0,0.3,5.0,2.5,67.2,65.8
+2021-01-01,Perak,P.075 Bagan Datuk,N.54 Hutan Melintang,20.4,19.4,1.0,11.8,4.9,63.3,60.2
+2022-01-01,Perak,P.075 Bagan Datuk,N.54 Hutan Melintang,20.8,19.9,0.9,11.7,4.4,64.0,61.2
+2023-01-01,Perak,P.075 Bagan Datuk,N.54 Hutan Melintang,27.8,26.7,1.1,15.3,3.9,64.6,61.9
+2021-01-01,Perak,P.076 Teluk Intan,N.55 Pasir Bedamar,16.2,15.6,0.5,8.6,3.2,65.3,62.9
+2022-01-01,Perak,P.076 Teluk Intan,N.55 Pasir Bedamar,16.3,15.9,0.5,8.8,2.8,64.9,63.3
+2023-01-01,Perak,P.076 Teluk Intan,N.55 Pasir Bedamar,17.3,17.0,0.3,8.8,1.9,66.3,65.1
+2021-01-01,Perak,P.076 Teluk Intan,N.56 Changkat Jong,28.1,25.9,2.3,16.2,8.0,63.4,58.5
+2022-01-01,Perak,P.076 Teluk Intan,N.56 Changkat Jong,28.7,26.6,2.0,16.0,7.0,64.2,59.5
+2023-01-01,Perak,P.076 Teluk Intan,N.56 Changkat Jong,31.4,29.7,1.7,16.6,5.5,65.4,61.9
+2021-01-01,Perak,P.077 Tanjong Malim,N.57 Sungkai,12.2,11.6,0.6,5.2,4.9,70.4,66.7
+2022-01-01,Perak,P.077 Tanjong Malim,N.57 Sungkai,12.4,11.9,0.5,5.1,4.4,71.0,68.0
+2023-01-01,Perak,P.077 Tanjong Malim,N.57 Sungkai,12.5,12.0,0.5,4.8,3.8,72.2,69.4
+2021-01-01,Perak,P.077 Tanjong Malim,N.58 Slim,12.4,11.9,0.5,6.2,4.1,66.6,64.0
+2022-01-01,Perak,P.077 Tanjong Malim,N.58 Slim,12.5,12.1,0.5,6.2,3.7,66.8,64.7
+2023-01-01,Perak,P.077 Tanjong Malim,N.58 Slim,13.0,12.6,0.4,6.1,2.9,68.0,66.0
+2021-01-01,Perak,P.077 Tanjong Malim,N.59 Behrang,42.4,40.2,2.2,18.6,5.3,69.5,65.9
+2022-01-01,Perak,P.077 Tanjong Malim,N.59 Behrang,43.1,41.1,2.0,18.2,4.7,70.4,67.0
+2023-01-01,Perak,P.077 Tanjong Malim,N.59 Behrang,37.7,36.3,1.4,15.8,3.6,70.5,67.9
+2021-01-01,Pahang,P.078 Cameron Highlands,N.01 Tanah Rata,20.8,20.6,0.2,7.3,1.0,73.9,73.3
+2022-01-01,Pahang,P.078 Cameron Highlands,N.01 Tanah Rata,20.9,20.8,0.1,7.9,0.7,72.7,72.2
+2023-01-01,Pahang,P.078 Cameron Highlands,N.01 Tanah Rata,20.9,20.8,0.1,7.5,0.5,73.5,73.2
+2021-01-01,Pahang,P.078 Cameron Highlands,N.02 Jelai,14.1,13.9,0.3,6.6,1.8,68.1,67.1
+2022-01-01,Pahang,P.078 Cameron Highlands,N.02 Jelai,14.2,13.9,0.2,6.0,1.5,70.2,68.8
+2023-01-01,Pahang,P.078 Cameron Highlands,N.02 Jelai,14.1,14.0,0.1,5.8,1.0,70.9,70.4
+2021-01-01,Pahang,P.079 Lipis,N.03 Padang Tengku,12.1,11.7,0.4,8.3,3.3,59.3,57.4
+2022-01-01,Pahang,P.079 Lipis,N.03 Padang Tengku,12.3,12.0,0.3,8.3,2.6,59.7,58.3
+2023-01-01,Pahang,P.079 Lipis,N.03 Padang Tengku,12.2,12.0,0.2,8.3,1.9,59.5,58.5
+2021-01-01,Pahang,P.079 Lipis,N.04 Cheka,10.4,10.1,0.3,7.0,3.0,59.9,58.0
+2022-01-01,Pahang,P.079 Lipis,N.04 Cheka,10.5,10.3,0.2,6.7,2.2,61.2,59.9
+2023-01-01,Pahang,P.079 Lipis,N.04 Cheka,10.4,10.3,0.2,6.7,1.7,61.0,60.2
+2021-01-01,Pahang,P.079 Lipis,N.05 Benta,6.8,6.5,0.3,4.4,4.2,60.9,58.0
+2022-01-01,Pahang,P.079 Lipis,N.05 Benta,7.0,6.7,0.2,4.4,3.0,61.4,58.8
+2023-01-01,Pahang,P.079 Lipis,N.05 Benta,6.9,6.8,0.2,4.4,2.2,61.1,60.2
+2021-01-01,Pahang,P.080 Raub,N.06 Batu Talam,10.3,9.9,0.4,6.4,3.6,61.5,59.3
+2022-01-01,Pahang,P.080 Raub,N.06 Batu Talam,10.3,10.0,0.3,6.3,2.9,62.2,60.2
+2023-01-01,Pahang,P.080 Raub,N.06 Batu Talam,10.1,9.9,0.2,6.2,2.3,62.1,60.7
+2021-01-01,Pahang,P.080 Raub,N.07 Tras,22.1,21.2,0.9,13.2,4.3,62.6,60.1
+2022-01-01,Pahang,P.080 Raub,N.07 Tras,22.3,21.5,0.8,13.4,3.7,62.5,60.2
+2023-01-01,Pahang,P.080 Raub,N.07 Tras,21.9,21.3,0.7,13.2,3.0,62.4,60.7
+2021-01-01,Pahang,P.080 Raub,N.08 Dong,10.5,10.1,0.4,5.8,3.5,64.5,62.0
+2022-01-01,Pahang,P.080 Raub,N.08 Dong,10.6,10.3,0.2,5.6,2.0,65.5,63.6
+2023-01-01,Pahang,P.080 Raub,N.08 Dong,10.4,10.2,0.2,5.5,1.6,65.4,64.2
+2021-01-01,Pahang,P.081 Jerantut,N.09 Tahan,12.6,12.2,0.4,6.2,2.9,66.9,64.9
+2022-01-01,Pahang,P.081 Jerantut,N.09 Tahan,12.5,12.3,0.2,6.2,1.7,66.8,65.8
+2023-01-01,Pahang,P.081 Jerantut,N.09 Tahan,12.5,12.3,0.2,6.2,1.3,66.9,65.8
+2021-01-01,Pahang,P.081 Jerantut,N.10 Damak,21.0,20.3,0.7,12.0,3.2,63.5,61.5
+2022-01-01,Pahang,P.081 Jerantut,N.10 Damak,20.9,20.4,0.5,11.8,2.5,64.0,62.4
+2023-01-01,Pahang,P.081 Jerantut,N.10 Damak,20.9,20.5,0.4,11.7,2.0,64.1,62.9
+2021-01-01,Pahang,P.081 Jerantut,N.11 Pulau Tawar,13.2,12.6,0.6,6.7,4.4,66.4,63.3
+2022-01-01,Pahang,P.081 Jerantut,N.11 Pulau Tawar,13.1,12.6,0.5,7.2,3.9,64.4,62.1
+2023-01-01,Pahang,P.081 Jerantut,N.11 Pulau Tawar,13.1,12.7,0.4,7.2,3.0,64.6,62.6
+2021-01-01,Pahang,P.082 Indera Mahkota,N.12 Beserah,53.4,52.1,1.3,25.8,2.5,67.4,65.8
+2022-01-01,Pahang,P.082 Indera Mahkota,N.12 Beserah,53.7,52.8,0.9,25.6,1.7,67.7,66.6
+2023-01-01,Pahang,P.082 Indera Mahkota,N.12 Beserah,57.9,57.1,0.8,26.4,1.3,68.6,67.7
+2021-01-01,Pahang,P.082 Indera Mahkota,N.13 Semambu,61.8,60.2,1.6,30.2,2.6,67.2,65.4
+2022-01-01,Pahang,P.082 Indera Mahkota,N.13 Semambu,62.2,61.1,1.1,30.0,1.8,67.4,66.3
+2023-01-01,Pahang,P.082 Indera Mahkota,N.13 Semambu,67.0,66.1,0.9,31.0,1.4,68.4,67.4
+2021-01-01,Pahang,P.083 Kuantan,N.14 Teruntum,12.1,11.8,0.3,6.1,2.3,66.5,64.8
+2022-01-01,Pahang,P.083 Kuantan,N.14 Teruntum,13.0,12.7,0.3,7.0,2.0,65.0,63.5
+2023-01-01,Pahang,P.083 Kuantan,N.14 Teruntum,14.2,14.0,0.2,7.5,1.4,65.6,64.5
+2021-01-01,Pahang,P.083 Kuantan,N.15 Tanjung Lumpur,29.9,29.1,0.8,15.4,2.8,66.1,64.2
+2022-01-01,Pahang,P.083 Kuantan,N.15 Tanjung Lumpur,30.2,29.5,0.6,14.4,2.0,67.7,66.1
+2023-01-01,Pahang,P.083 Kuantan,N.15 Tanjung Lumpur,33.0,32.5,0.5,15.3,1.4,68.2,67.3
+2021-01-01,Pahang,P.083 Kuantan,N.16 Inderapura,14.7,14.2,0.5,6.7,3.6,68.7,66.4
+2022-01-01,Pahang,P.083 Kuantan,N.16 Inderapura,14.4,13.9,0.4,6.0,3.0,70.4,68.1
+2023-01-01,Pahang,P.083 Kuantan,N.16 Inderapura,15.7,15.4,0.3,6.4,2.1,71.0,69.7
+2021-01-01,Pahang,P.084 Paya Besar,N.17 Sungai Lembing,8.9,8.6,0.3,4.2,2.9,67.9,65.6
+2022-01-01,Pahang,P.084 Paya Besar,N.17 Sungai Lembing,9.0,8.8,0.2,4.1,1.9,68.8,67.2
+2023-01-01,Pahang,P.084 Paya Besar,N.17 Sungai Lembing,9.2,9.1,0.1,4.1,1.5,69.4,68.4
+2021-01-01,Pahang,P.084 Paya Besar,N.18 Lepar,25.2,24.4,0.8,12.2,3.0,67.4,65.2
+2022-01-01,Pahang,P.084 Paya Besar,N.18 Lepar,25.3,24.7,0.6,12.0,2.4,67.7,66.2
+2023-01-01,Pahang,P.084 Paya Besar,N.18 Lepar,26.0,25.5,0.5,12.0,1.8,68.3,67.1
+2021-01-01,Pahang,P.084 Paya Besar,N.19 Panching,26.6,25.7,0.9,13.7,3.2,66.0,63.8
+2022-01-01,Pahang,P.084 Paya Besar,N.19 Panching,26.9,26.2,0.7,13.4,2.7,66.8,65.0
+2023-01-01,Pahang,P.084 Paya Besar,N.19 Panching,27.6,27.1,0.6,13.4,2.1,67.3,66.1
+2021-01-01,Pahang,P.085 Pekan,N.20 Pulau Manis,23.4,22.7,0.7,11.9,3.0,66.2,64.3
+2022-01-01,Pahang,P.085 Pekan,N.20 Pulau Manis,23.4,22.9,0.5,12.0,2.3,66.1,64.7
+2023-01-01,Pahang,P.085 Pekan,N.20 Pulau Manis,23.8,23.4,0.4,11.9,1.8,66.7,65.5
+2021-01-01,Pahang,P.085 Pekan,N.21 Peramu Jaya,31.2,30.3,0.9,15.4,2.8,67.0,65.0
+2022-01-01,Pahang,P.085 Pekan,N.21 Peramu Jaya,30.7,30.1,0.7,13.9,2.2,68.9,67.5
+2023-01-01,Pahang,P.085 Pekan,N.21 Peramu Jaya,31.2,30.7,0.6,13.6,1.8,69.6,68.5
+2021-01-01,Pahang,P.085 Pekan,N.22 Bebar,13.8,13.2,0.5,6.0,3.7,69.6,66.7
+2022-01-01,Pahang,P.085 Pekan,N.22 Bebar,14.6,14.3,0.4,7.2,2.4,67.1,65.6
+2023-01-01,Pahang,P.085 Pekan,N.22 Bebar,14.9,14.6,0.3,7.1,2.0,67.8,66.4
+2021-01-01,Pahang,P.085 Pekan,N.23 Chini,9.9,9.6,0.3,4.7,3.2,67.8,65.8
+2022-01-01,Pahang,P.085 Pekan,N.23 Chini,9.8,9.6,0.2,4.8,2.3,67.3,65.8
+2023-01-01,Pahang,P.085 Pekan,N.23 Chini,10.0,9.8,0.2,4.7,1.9,67.9,66.7
+2021-01-01,Pahang,P.086 Maran,N.24 Luit,10.3,10.0,0.2,5.3,2.1,65.9,64.1
+2022-01-01,Pahang,P.086 Maran,N.24 Luit,10.3,10.1,0.1,5.3,1.4,65.9,64.7
+2023-01-01,Pahang,P.086 Maran,N.24 Luit,10.4,10.3,0.1,5.3,1.0,66.0,65.6
+2021-01-01,Pahang,P.086 Maran,N.25 Kuala Sentul,7.8,7.6,0.2,4.3,2.5,64.5,62.8
+2022-01-01,Pahang,P.086 Maran,N.25 Kuala Sentul,7.7,7.6,0.1,4.3,1.7,64.2,63.3
+2023-01-01,Pahang,P.086 Maran,N.25 Kuala Sentul,7.8,7.7,0.1,4.3,1.2,64.3,63.6
+2021-01-01,Pahang,P.086 Maran,N.26 Chenor,8.8,8.5,0.3,5.0,3.8,64.0,61.6
+2022-01-01,Pahang,P.086 Maran,N.26 Chenor,8.8,8.6,0.2,5.0,2.6,64.0,62.3
+2023-01-01,Pahang,P.086 Maran,N.26 Chenor,8.9,8.8,0.2,5.0,1.8,64.2,63.3
+2021-01-01,Pahang,P.087 Kuala Krau,N.27 Jenderak,6.5,6.1,0.4,4.1,5.7,61.0,57.5
+2022-01-01,Pahang,P.087 Kuala Krau,N.27 Jenderak,6.2,5.9,0.3,3.9,4.5,61.3,58.4
+2023-01-01,Pahang,P.087 Kuala Krau,N.27 Jenderak,5.8,5.6,0.2,3.7,3.7,61.4,58.9
+2021-01-01,Pahang,P.087 Kuala Krau,N.28 Kerdau,5.0,4.8,0.2,3.2,4.9,60.7,58.5
+2022-01-01,Pahang,P.087 Kuala Krau,N.28 Kerdau,5.4,5.2,0.2,3.4,3.6,61.3,59.1
+2023-01-01,Pahang,P.087 Kuala Krau,N.28 Kerdau,5.0,4.9,0.1,3.2,2.9,61.3,59.8
+2021-01-01,Pahang,P.087 Kuala Krau,N.29 Jengka,19.5,18.7,0.8,10.3,4.1,65.6,62.8
+2022-01-01,Pahang,P.087 Kuala Krau,N.29 Jengka,19.6,18.9,0.7,10.2,3.5,65.9,63.4
+2023-01-01,Pahang,P.087 Kuala Krau,N.29 Jengka,18.4,17.9,0.5,9.5,2.9,66.0,64.2
+2021-01-01,Pahang,P.088 Temerloh,N.30 Mentakab,21.4,20.3,1.1,14.4,5.0,59.8,56.7
+2022-01-01,Pahang,P.088 Temerloh,N.30 Mentakab,21.5,20.7,0.8,14.5,3.9,59.7,57.5
+2023-01-01,Pahang,P.088 Temerloh,N.30 Mentakab,21.0,20.3,0.7,14.4,3.4,59.3,57.3
+2021-01-01,Pahang,P.088 Temerloh,N.31 Lanchang,17.3,16.5,0.9,9.7,5.0,64.2,61.1
+2022-01-01,Pahang,P.088 Temerloh,N.31 Lanchang,17.4,16.8,0.7,9.8,3.8,64.0,61.8
+2023-01-01,Pahang,P.088 Temerloh,N.31 Lanchang,17.0,16.5,0.6,9.8,3.3,63.6,61.6
+2021-01-01,Pahang,P.088 Temerloh,N.32 Kuala Semantan,21.8,21.2,0.6,14.0,2.8,60.9,59.2
+2022-01-01,Pahang,P.088 Temerloh,N.32 Kuala Semantan,22.0,21.4,0.5,13.4,2.4,62.1,60.5
+2023-01-01,Pahang,P.088 Temerloh,N.32 Kuala Semantan,21.5,21.0,0.5,13.3,2.1,61.7,60.3
+2021-01-01,Pahang,P.089 Bentong,N.33 Bilut,13.2,12.8,0.4,7.9,3.4,62.7,60.7
+2022-01-01,Pahang,P.089 Bentong,N.33 Bilut,13.9,13.5,0.4,8.3,2.6,62.5,60.8
+2023-01-01,Pahang,P.089 Bentong,N.33 Bilut,12.4,12.1,0.3,7.6,2.4,62.1,60.5
+2021-01-01,Pahang,P.089 Bentong,N.34 Ketari,28.6,27.7,0.9,17.5,3.0,62.1,60.1
+2022-01-01,Pahang,P.089 Bentong,N.34 Ketari,27.1,26.4,0.7,16.5,2.5,62.2,60.6
+2023-01-01,Pahang,P.089 Bentong,N.34 Ketari,24.3,23.8,0.5,15.0,2.2,61.8,60.6
+2021-01-01,Pahang,P.089 Bentong,N.35 Sabai,9.9,9.4,0.5,6.4,5.0,60.8,57.7
+2022-01-01,Pahang,P.089 Bentong,N.35 Sabai,10.3,9.8,0.4,7.0,4.3,59.5,56.6
+2023-01-01,Pahang,P.089 Bentong,N.35 Sabai,9.2,8.8,0.4,6.4,3.9,59.1,56.4
+2021-01-01,Pahang,P.089 Bentong,N.36 Pelangai,6.1,5.9,0.2,4.1,3.7,59.8,57.8
+2022-01-01,Pahang,P.089 Bentong,N.36 Pelangai,6.3,6.1,0.2,4.3,2.9,59.3,57.5
+2023-01-01,Pahang,P.089 Bentong,N.36 Pelangai,5.6,5.5,0.1,3.9,2.6,58.9,57.9
+2021-01-01,Pahang,P.090 Bera,N.37 Guai,9.1,8.7,0.4,7.6,4.4,54.4,52.1
+2022-01-01,Pahang,P.090 Bera,N.37 Guai,8.8,8.5,0.3,7.4,3.5,54.3,52.5
+2023-01-01,Pahang,P.090 Bera,N.37 Guai,8.5,8.3,0.2,7.4,2.8,53.6,52.2
+2021-01-01,Pahang,P.090 Bera,N.38 Triang,15.5,14.9,0.6,12.6,4.0,55.2,53.0
+2022-01-01,Pahang,P.090 Bera,N.38 Triang,16.6,16.0,0.5,13.1,3.1,55.8,53.9
+2023-01-01,Pahang,P.090 Bera,N.38 Triang,16.0,15.6,0.4,13.1,2.5,55.0,53.6
+2021-01-01,Pahang,P.090 Bera,N.39 Kemayan,13.9,13.4,0.5,10.5,3.5,57.0,54.9
+2022-01-01,Pahang,P.090 Bera,N.39 Kemayan,13.8,13.5,0.4,9.5,2.6,59.3,57.9
+2023-01-01,Pahang,P.090 Bera,N.39 Kemayan,13.4,13.1,0.3,9.5,2.1,58.5,57.2
+2021-01-01,Pahang,P.091 Rompin,N.40 Bukit Ibam,13.3,12.7,0.6,8.8,4.4,60.0,57.5
+2022-01-01,Pahang,P.091 Rompin,N.40 Bukit Ibam,14.0,13.5,0.5,9.0,3.4,61.0,58.7
+2023-01-01,Pahang,P.091 Rompin,N.40 Bukit Ibam,12.7,12.3,0.4,8.1,3.1,61.0,59.1
+2021-01-01,Pahang,P.091 Rompin,N.41 Muadzam Shah,18.7,17.8,0.8,9.9,4.4,65.2,62.2
+2022-01-01,Pahang,P.091 Rompin,N.41 Muadzam Shah,18.7,18.1,0.6,10.0,3.3,65.3,63.1
+2023-01-01,Pahang,P.091 Rompin,N.41 Muadzam Shah,17.0,16.5,0.5,9.0,2.9,65.3,63.5
+2021-01-01,Pahang,P.091 Rompin,N.42 Tioman,18.4,17.8,0.6,10.9,3.3,62.8,60.8
+2022-01-01,Pahang,P.091 Rompin,N.42 Tioman,18.5,17.9,0.5,10.0,2.9,64.8,62.8
+2023-01-01,Pahang,P.091 Rompin,N.42 Tioman,16.7,16.3,0.4,9.1,2.6,64.8,63.2
+2021-01-01,Selangor,P.092 Sabak Bernam,N.01 Sungai Air Tawar,10.1,9.7,0.5,3.7,4.5,73.0,70.3
+2022-01-01,Selangor,P.092 Sabak Bernam,N.01 Sungai Air Tawar,10.3,9.9,0.4,3.7,3.5,73.5,70.7
+2023-01-01,Selangor,P.092 Sabak Bernam,N.01 Sungai Air Tawar,9.3,9.0,0.3,3.3,2.8,74.0,71.4
+2021-01-01,Selangor,P.092 Sabak Bernam,N.02 Sabak,13.1,12.8,0.4,6.0,2.8,68.7,67.0
+2022-01-01,Selangor,P.092 Sabak Bernam,N.02 Sabak,13.4,13.1,0.3,5.9,2.0,69.3,67.9
+2023-01-01,Selangor,P.092 Sabak Bernam,N.02 Sabak,12.1,11.9,0.2,5.2,1.6,69.7,68.8
+2021-01-01,Selangor,P.093 Sungai Besar,N.03 Sungai Panjang,18.2,17.6,0.6,7.1,3.1,71.8,69.6
+2022-01-01,Selangor,P.093 Sungai Besar,N.03 Sungai Panjang,18.4,17.9,0.5,7.1,2.8,72.1,70.2
+2023-01-01,Selangor,P.093 Sungai Besar,N.03 Sungai Panjang,17.2,16.8,0.4,6.6,2.1,72.4,70.6
+2021-01-01,Selangor,P.093 Sungai Besar,N.04 Sekinchan,11.1,10.9,0.3,3.8,2.3,74.4,73.2
+2022-01-01,Selangor,P.093 Sungai Besar,N.04 Sekinchan,11.3,11.1,0.2,3.8,2.0,74.7,73.5
+2023-01-01,Selangor,P.093 Sungai Besar,N.04 Sekinchan,10.5,10.4,0.2,3.5,1.6,75.1,74.3
+2021-01-01,Selangor,P.094 Hulu Selangor,N.05 Hulu Bernam,18.5,17.8,0.7,6.8,3.8,73.0,70.4
+2022-01-01,Selangor,P.094 Hulu Selangor,N.05 Hulu Bernam,18.7,18.2,0.5,6.7,2.8,73.5,71.7
+2023-01-01,Selangor,P.094 Hulu Selangor,N.05 Hulu Bernam,18.7,18.3,0.4,6.6,2.1,73.9,72.3
+2021-01-01,Selangor,P.094 Hulu Selangor,N.06 Kuala Kubu Baharu,24.4,23.5,0.9,8.6,3.5,74.0,71.2
+2022-01-01,Selangor,P.094 Hulu Selangor,N.06 Kuala Kubu Baharu,24.6,24.0,0.6,8.5,2.5,74.3,72.5
+2023-01-01,Selangor,P.094 Hulu Selangor,N.06 Kuala Kubu Baharu,24.6,24.2,0.5,8.3,1.9,74.7,73.6
+2021-01-01,Selangor,P.094 Hulu Selangor,N.07 Batang Kali,86.2,84.6,1.6,27.4,1.8,75.9,74.5
+2022-01-01,Selangor,P.094 Hulu Selangor,N.07 Batang Kali,86.7,85.8,0.9,27.5,1.0,75.9,75.1
+2023-01-01,Selangor,P.094 Hulu Selangor,N.07 Batang Kali,86.7,86.1,0.6,26.8,0.7,76.4,75.9
+2021-01-01,Selangor,P.095 Tanjong Karang,N.08 Sungai Burong,13.1,13.0,0.1,3.6,0.9,78.2,77.8
+2022-01-01,Selangor,P.095 Tanjong Karang,N.08 Sungai Burong,13.3,13.3,0.0,3.6,0.2,78.7,78.7
+2023-01-01,Selangor,P.095 Tanjong Karang,N.08 Sungai Burong,12.9,12.9,0.0,3.4,0.2,79.1,79.1
+2021-01-01,Selangor,P.095 Tanjong Karang,N.09 Permatang,18.1,17.4,0.6,5.7,3.6,76.1,73.1
+2022-01-01,Selangor,P.095 Tanjong Karang,N.09 Permatang,18.4,17.9,0.5,5.7,2.6,76.4,74.3
+2023-01-01,Selangor,P.095 Tanjong Karang,N.09 Permatang,17.9,17.5,0.4,5.4,2.0,76.9,75.1
+2021-01-01,Selangor,P.096 Kuala Selangor,N.10 Bukit Melawati,23.2,22.2,1.1,6.4,4.6,78.3,75.0
+2022-01-01,Selangor,P.096 Kuala Selangor,N.10 Bukit Melawati,23.6,22.7,0.9,6.4,3.8,78.7,75.7
+2023-01-01,Selangor,P.096 Kuala Selangor,N.10 Bukit Melawati,25.0,24.4,0.7,6.6,2.7,79.1,77.2
+2021-01-01,Selangor,P.096 Kuala Selangor,N.11 Ijok,20.0,19.4,0.6,6.1,2.8,76.7,74.3
+2022-01-01,Selangor,P.096 Kuala Selangor,N.11 Ijok,20.3,19.8,0.5,6.0,2.2,77.1,75.3
+2023-01-01,Selangor,P.096 Kuala Selangor,N.11 Ijok,21.6,21.2,0.3,6.3,1.6,77.5,76.0
+2021-01-01,Selangor,P.096 Kuala Selangor,N.12 Jeram,44.9,42.7,2.2,12.7,4.9,77.9,74.1
+2022-01-01,Selangor,P.096 Kuala Selangor,N.12 Jeram,45.6,43.8,1.9,12.6,4.1,78.4,75.3
+2023-01-01,Selangor,P.096 Kuala Selangor,N.12 Jeram,48.5,47.1,1.4,13.1,2.9,78.8,76.5
+2021-01-01,Selangor,P.097 Selayang,N.13 Kuang,50.5,47.8,2.7,13.3,5.3,79.1,74.9
+2022-01-01,Selangor,P.097 Selayang,N.13 Kuang,51.5,49.2,2.3,12.7,4.4,80.3,76.6
+2023-01-01,Selangor,P.097 Selayang,N.13 Kuang,56.7,54.9,1.8,13.4,3.1,80.9,78.3
+2021-01-01,Selangor,P.097 Selayang,N.14 Rawang,76.5,73.8,2.7,19.8,3.6,79.4,76.6
+2022-01-01,Selangor,P.097 Selayang,N.14 Rawang,77.9,75.6,2.2,18.8,2.9,80.5,78.2
+2023-01-01,Selangor,P.097 Selayang,N.14 Rawang,85.8,84.0,1.8,19.9,2.0,81.2,79.5
+2021-01-01,Selangor,P.097 Selayang,N.15 Taman Templer,56.0,53.9,2.1,17.8,3.7,75.9,73.0
+2022-01-01,Selangor,P.097 Selayang,N.15 Taman Templer,56.9,55.2,1.7,17.2,3.0,76.8,74.5
+2023-01-01,Selangor,P.097 Selayang,N.15 Taman Templer,62.7,61.3,1.3,18.3,2.1,77.4,75.7
+2021-01-01,Selangor,P.098 Gombak,N.16 Sungai Tua,36.7,35.5,1.1,9.3,3.1,79.7,77.2
+2022-01-01,Selangor,P.098 Gombak,N.16 Sungai Tua,38.5,37.6,0.9,9.2,2.4,80.7,78.8
+2023-01-01,Selangor,P.098 Gombak,N.16 Sungai Tua,42.2,41.5,0.7,10.2,1.7,80.5,79.2
+2021-01-01,Selangor,P.098 Gombak,N.17 Gombak Setia,88.3,83.7,4.6,25.2,5.2,77.8,73.7
+2022-01-01,Selangor,P.098 Gombak,N.17 Gombak Setia,87.9,84.1,3.8,25.1,4.3,77.8,74.4
+2023-01-01,Selangor,P.098 Gombak,N.17 Gombak Setia,96.2,93.3,2.9,27.8,3.1,77.6,75.2
+2021-01-01,Selangor,P.098 Gombak,N.18 Hulu Kelang,48.7,47.4,1.3,11.7,2.7,80.6,78.5
+2022-01-01,Selangor,P.098 Gombak,N.18 Hulu Kelang,47.6,46.6,1.1,11.3,2.2,80.9,79.1
+2023-01-01,Selangor,P.098 Gombak,N.18 Hulu Kelang,52.2,51.4,0.8,12.5,1.6,80.7,79.4
+2021-01-01,Selangor,P.099 Ampang,N.19 Bukit Antarabangsa,60.8,56.7,4.1,17.8,6.7,77.4,72.1
+2022-01-01,Selangor,P.099 Ampang,N.19 Bukit Antarabangsa,61.7,57.7,4.0,17.6,6.5,77.9,72.8
+2023-01-01,Selangor,P.099 Ampang,N.19 Bukit Antarabangsa,66.9,63.8,3.1,18.4,4.7,78.4,74.8
+2021-01-01,Selangor,P.099 Ampang,N.20 Lembah Jaya,38.8,37.2,1.6,14.7,4.1,72.5,69.5
+2022-01-01,Selangor,P.099 Ampang,N.20 Lembah Jaya,39.5,38.0,1.5,14.5,3.7,73.2,70.4
+2023-01-01,Selangor,P.099 Ampang,N.20 Lembah Jaya,42.8,41.7,1.2,15.3,2.7,73.7,71.8
+2021-01-01,Selangor,P.100 Pandan,N.21 Pandan Indah,59.2,55.1,4.1,16.7,6.9,78.0,72.6
+2022-01-01,Selangor,P.100 Pandan,N.21 Pandan Indah,60.3,56.5,3.8,16.1,6.3,78.9,74.0
+2023-01-01,Selangor,P.100 Pandan,N.21 Pandan Indah,61.8,58.8,3.0,16.1,4.8,79.3,75.5
+2021-01-01,Selangor,P.100 Pandan,N.22 Teratai,70.0,67.7,2.3,18.2,3.2,79.4,76.8
+2022-01-01,Selangor,P.100 Pandan,N.22 Teratai,71.4,69.7,1.8,17.3,2.5,80.5,78.6
+2023-01-01,Selangor,P.100 Pandan,N.22 Teratai,73.2,71.8,1.4,17.3,1.9,80.9,79.3
+2021-01-01,Selangor,P.101 Hulu Langat,N.23 Dusun Tua,60.9,56.5,4.3,18.7,7.1,76.5,71.0
+2022-01-01,Selangor,P.101 Hulu Langat,N.23 Dusun Tua,62.1,58.0,4.0,18.4,6.5,77.1,72.0
+2023-01-01,Selangor,P.101 Hulu Langat,N.23 Dusun Tua,67.5,64.2,3.3,19.3,4.9,77.8,74.0
+2021-01-01,Selangor,P.101 Hulu Langat,N.24 Semenyih,120.6,114.8,5.8,36.3,4.8,76.8,73.2
+2022-01-01,Selangor,P.101 Hulu Langat,N.24 Semenyih,122.8,117.9,4.9,35.4,4.0,77.6,74.5
+2023-01-01,Selangor,P.101 Hulu Langat,N.24 Semenyih,133.6,129.6,4.0,37.1,3.0,78.3,75.9
+2021-01-01,Selangor,P.102 Bangi,N.25 Kajang,122.7,119.0,3.6,41.0,3.0,74.9,72.7
+2022-01-01,Selangor,P.102 Bangi,N.25 Kajang,123.9,120.7,3.2,40.2,2.6,75.5,73.6
+2023-01-01,Selangor,P.102 Bangi,N.25 Kajang,132.9,130.1,2.9,41.8,2.1,76.1,74.5
+2021-01-01,Selangor,P.102 Bangi,N.26 Sungai Ramal,154.6,145.7,8.9,43.9,5.7,77.9,73.4
+2022-01-01,Selangor,P.102 Bangi,N.26 Sungai Ramal,155.7,148.1,7.6,43.4,4.9,78.2,74.4
+2023-01-01,Selangor,P.102 Bangi,N.26 Sungai Ramal,167.1,160.3,6.8,44.9,4.1,78.8,75.6
+2021-01-01,Selangor,P.102 Bangi,N.27 Balakong,101.9,97.2,4.8,26.4,4.7,79.4,75.8
+2022-01-01,Selangor,P.102 Bangi,N.27 Balakong,103.8,99.7,4.2,25.2,4.0,80.5,77.3
+2023-01-01,Selangor,P.102 Bangi,N.27 Balakong,111.4,107.7,3.7,26.0,3.3,81.1,78.4
+2021-01-01,Selangor,P.103 Puchong,N.28 Seri Kembangan,60.0,56.9,3.1,27.7,5.1,68.4,64.9
+2022-01-01,Selangor,P.103 Puchong,N.28 Seri Kembangan,60.9,58.4,2.6,27.6,4.2,68.8,66.0
+2023-01-01,Selangor,P.103 Puchong,N.28 Seri Kembangan,68.2,66.2,2.0,30.5,3.0,69.1,67.1
+2021-01-01,Selangor,P.103 Puchong,N.29 Seri Serdang,112.2,107.4,4.8,41.1,4.2,73.2,70.1
+2022-01-01,Selangor,P.103 Puchong,N.29 Seri Serdang,114.5,110.6,3.9,40.3,3.4,74.0,71.4
+2023-01-01,Selangor,P.103 Puchong,N.29 Seri Serdang,128.2,125.2,3.1,44.3,2.4,74.3,72.6
+2021-01-01,Selangor,P.104 Subang,N.30 Kinrara,150.7,143.0,7.7,51.8,5.1,74.4,70.6
+2022-01-01,Selangor,P.104 Subang,N.30 Kinrara,152.3,145.8,6.5,50.2,4.3,75.2,72.0
+2023-01-01,Selangor,P.104 Subang,N.30 Kinrara,152.7,147.2,5.5,48.3,3.6,76.0,73.2
+2021-01-01,Selangor,P.104 Subang,N.31 Subang Jaya,120.5,115.3,5.3,35.9,4.4,77.0,73.7
+2022-01-01,Selangor,P.104 Subang,N.31 Subang Jaya,122.1,117.5,4.7,34.9,3.8,77.8,74.8
+2023-01-01,Selangor,P.104 Subang,N.31 Subang Jaya,122.4,118.5,3.9,33.4,3.2,78.6,76.1
+2021-01-01,Selangor,P.105 Petaling Jaya,N.32 Seri Setia,118.2,113.1,5.1,33.7,4.3,77.8,74.5
+2022-01-01,Selangor,P.105 Petaling Jaya,N.32 Seri Setia,119.8,115.7,4.2,33.2,3.5,78.3,75.6
+2023-01-01,Selangor,P.105 Petaling Jaya,N.32 Seri Setia,121.2,117.8,3.4,32.3,2.8,79.0,76.7
+2021-01-01,Selangor,P.105 Petaling Jaya,N.33 Taman Medan,45.6,43.8,1.8,15.6,4.0,74.4,71.6
+2022-01-01,Selangor,P.105 Petaling Jaya,N.33 Taman Medan,46.3,44.8,1.5,15.5,3.2,74.9,72.5
+2023-01-01,Selangor,P.105 Petaling Jaya,N.33 Taman Medan,46.8,45.6,1.2,15.2,2.6,75.5,73.5
+2021-01-01,Selangor,P.105 Petaling Jaya,N.34 Bukit Gasing,40.0,37.1,2.9,14.8,7.2,73.0,67.7
+2022-01-01,Selangor,P.105 Petaling Jaya,N.34 Bukit Gasing,40.5,37.8,2.7,14.7,6.8,73.4,68.5
+2023-01-01,Selangor,P.105 Petaling Jaya,N.34 Bukit Gasing,41.0,38.7,2.2,14.4,5.5,74.0,69.9
+2021-01-01,Selangor,P.106 Damansara,N.35 Kampung Tunku,25.6,24.7,0.9,7.5,3.6,77.5,74.6
+2022-01-01,Selangor,P.106 Damansara,N.35 Kampung Tunku,26.0,25.2,0.8,7.4,3.0,77.8,75.4
+2023-01-01,Selangor,P.106 Damansara,N.35 Kampung Tunku,27.6,26.9,0.6,7.7,2.3,78.2,76.2
+2021-01-01,Selangor,P.106 Damansara,N.36 Bandar Utama,58.8,55.1,3.7,21.8,6.3,73.0,68.4
+2022-01-01,Selangor,P.106 Damansara,N.36 Bandar Utama,59.9,56.6,3.3,21.3,5.4,73.8,69.7
+2023-01-01,Selangor,P.106 Damansara,N.36 Bandar Utama,63.6,60.9,2.7,22.2,4.3,74.2,71.0
+2021-01-01,Selangor,P.106 Damansara,N.37 Bukit Lanjan,152.0,145.0,7.0,40.9,4.6,78.8,75.2
+2022-01-01,Selangor,P.106 Damansara,N.37 Bukit Lanjan,154.8,148.7,6.1,39.6,3.9,79.6,76.5
+2023-01-01,Selangor,P.106 Damansara,N.37 Bukit Lanjan,164.5,159.4,5.1,40.9,3.1,80.1,77.6
+2021-01-01,Selangor,P.107 Sungai Buloh,N.38 Paya Jaras,86.0,81.5,4.4,26.0,5.2,76.8,72.8
+2022-01-01,Selangor,P.107 Sungai Buloh,N.38 Paya Jaras,88.0,84.3,3.7,25.6,4.2,77.4,74.2
+2023-01-01,Selangor,P.107 Sungai Buloh,N.38 Paya Jaras,97.3,94.4,2.9,27.4,3.0,78.0,75.7
+2021-01-01,Selangor,P.107 Sungai Buloh,N.39 Kota Damansara,89.5,86.6,2.9,33.2,3.3,72.9,70.6
+2022-01-01,Selangor,P.107 Sungai Buloh,N.39 Kota Damansara,91.0,88.6,2.4,33.3,2.7,73.2,71.3
+2023-01-01,Selangor,P.107 Sungai Buloh,N.39 Kota Damansara,100.6,98.7,1.9,35.8,1.9,73.7,72.4
+2021-01-01,Selangor,P.108 Shah Alam,N.40 Kota Anggerik,148.7,143.0,5.7,52.6,3.8,73.9,71.0
+2022-01-01,Selangor,P.108 Shah Alam,N.40 Kota Anggerik,149.5,144.8,4.6,52.9,3.1,73.9,71.5
+2023-01-01,Selangor,P.108 Shah Alam,N.40 Kota Anggerik,163.0,159.3,3.7,55.7,2.3,74.5,72.8
+2021-01-01,Selangor,P.108 Shah Alam,N.41 Batu Tiga,83.3,80.1,3.2,21.9,3.8,79.2,76.1
+2022-01-01,Selangor,P.108 Shah Alam,N.41 Batu Tiga,86.4,83.8,2.6,21.7,3.0,79.9,77.5
+2023-01-01,Selangor,P.108 Shah Alam,N.41 Batu Tiga,94.2,92.1,2.1,22.6,2.2,80.6,78.9
+2021-01-01,Selangor,P.109 Kapar,N.42 Meru,65.2,63.3,2.0,18.6,3.0,77.8,75.5
+2022-01-01,Selangor,P.109 Kapar,N.42 Meru,65.7,64.1,1.6,18.4,2.4,78.1,76.2
+2023-01-01,Selangor,P.109 Kapar,N.42 Meru,69.4,68.1,1.3,18.8,1.8,78.7,77.2
+2021-01-01,Selangor,P.109 Kapar,N.43 Sementa,63.5,60.5,3.0,17.3,4.8,78.6,74.9
+2022-01-01,Selangor,P.109 Kapar,N.43 Sementa,64.1,61.7,2.5,17.0,3.8,79.0,76.1
+2023-01-01,Selangor,P.109 Kapar,N.43 Sementa,67.7,65.8,1.9,17.3,2.9,79.6,77.4
+2021-01-01,Selangor,P.109 Kapar,N.44 Selat Klang,43.0,40.3,2.7,15.5,6.2,73.5,68.9
+2022-01-01,Selangor,P.109 Kapar,N.44 Selat Klang,43.3,41.0,2.3,15.4,5.3,73.8,69.8
+2023-01-01,Selangor,P.109 Kapar,N.44 Selat Klang,45.7,43.9,1.8,15.8,4.0,74.3,71.4
+2021-01-01,Selangor,P.110 Klang,N.45 Bandar Baru Klang,62.2,59.6,2.5,17.0,4.1,78.5,75.3
+2022-01-01,Selangor,P.110 Klang,N.45 Bandar Baru Klang,63.6,61.5,2.1,16.2,3.4,79.7,77.1
+2023-01-01,Selangor,P.110 Klang,N.45 Bandar Baru Klang,66.2,64.5,1.7,16.3,2.5,80.3,78.2
+2021-01-01,Selangor,P.110 Klang,N.46 Pelabuhan Klang,52.0,50.1,1.9,16.6,3.6,75.8,73.0
+2022-01-01,Selangor,P.110 Klang,N.46 Pelabuhan Klang,53.1,51.6,1.5,16.1,2.8,76.7,74.6
+2023-01-01,Selangor,P.110 Klang,N.46 Pelabuhan Klang,55.2,54.1,1.2,16.2,2.1,77.3,75.8
+2021-01-01,Selangor,P.110 Klang,N.47 Pandamaran,47.7,44.5,3.2,11.4,6.7,80.7,75.3
+2022-01-01,Selangor,P.110 Klang,N.47 Pandamaran,48.7,45.9,2.8,10.9,5.8,81.8,77.0
+2023-01-01,Selangor,P.110 Klang,N.47 Pandamaran,50.7,48.5,2.2,10.8,4.4,82.4,78.9
+2021-01-01,Selangor,P.111 Kota Raja,N.48 Sentosa,98.7,94.2,4.5,27.2,4.6,78.4,74.8
+2022-01-01,Selangor,P.111 Kota Raja,N.48 Sentosa,100.6,96.9,3.7,26.7,3.7,79.0,76.1
+2023-01-01,Selangor,P.111 Kota Raja,N.48 Sentosa,107.4,104.4,3.0,27.1,2.8,79.9,77.6
+2021-01-01,Selangor,P.111 Kota Raja,N.49 Sungai Kandis,75.8,73.1,2.7,23.1,3.6,76.6,73.9
+2022-01-01,Selangor,P.111 Kota Raja,N.49 Sungai Kandis,77.3,75.1,2.2,23.4,2.9,76.8,74.6
+2023-01-01,Selangor,P.111 Kota Raja,N.49 Sungai Kandis,82.6,80.8,1.8,23.8,2.2,77.6,75.9
+2021-01-01,Selangor,P.111 Kota Raja,N.50 Kota Kemuning,96.0,93.3,2.8,34.8,2.9,73.4,71.3
+2022-01-01,Selangor,P.111 Kota Raja,N.50 Kota Kemuning,97.7,95.5,2.2,34.6,2.3,73.9,72.2
+2023-01-01,Selangor,P.111 Kota Raja,N.50 Kota Kemuning,104.3,102.5,1.8,35.4,1.7,74.6,73.4
+2021-01-01,Selangor,P.112 Kuala Langat,N.51 Sijangkang,71.5,69.7,1.8,18.9,2.5,79.1,77.1
+2022-01-01,Selangor,P.112 Kuala Langat,N.51 Sijangkang,72.7,71.1,1.6,18.6,2.2,79.6,77.9
+2023-01-01,Selangor,P.112 Kuala Langat,N.51 Sijangkang,77.6,76.4,1.2,19.4,1.6,80.0,78.8
+2021-01-01,Selangor,P.112 Kuala Langat,N.52 Banting,30.0,28.8,1.2,10.0,4.1,75.0,72.0
+2022-01-01,Selangor,P.112 Kuala Langat,N.52 Banting,30.5,29.4,1.1,9.9,3.6,75.5,72.8
+2023-01-01,Selangor,P.112 Kuala Langat,N.52 Banting,32.6,31.7,0.8,10.4,2.6,75.9,73.7
+2021-01-01,Selangor,P.112 Kuala Langat,N.53 Morib,31.7,30.7,1.0,9.6,3.0,76.8,74.3
+2022-01-01,Selangor,P.112 Kuala Langat,N.53 Morib,32.2,31.4,0.9,9.3,2.7,77.7,75.7
+2023-01-01,Selangor,P.112 Kuala Langat,N.53 Morib,34.4,33.8,0.7,9.7,1.9,78.0,76.6
+2021-01-01,Selangor,P.113 Sepang,N.54 Tanjong Sepat,14.4,13.9,0.5,6.1,3.2,70.2,67.8
+2022-01-01,Selangor,P.113 Sepang,N.54 Tanjong Sepat,14.6,14.2,0.4,6.0,2.6,70.8,68.9
+2023-01-01,Selangor,P.113 Sepang,N.54 Tanjong Sepat,16.0,15.7,0.3,6.6,1.9,70.7,69.5
+2021-01-01,Selangor,P.113 Sepang,N.55 Dengkil,152.0,146.0,6.0,46.7,3.9,76.5,73.5
+2022-01-01,Selangor,P.113 Sepang,N.55 Dengkil,154.1,149.2,4.9,46.2,3.2,77.0,74.5
+2023-01-01,Selangor,P.113 Sepang,N.55 Dengkil,169.1,165.2,3.9,51.0,2.3,76.8,75.1
+2021-01-01,Selangor,P.113 Sepang,N.56 Sungai Pelek,35.2,34.1,1.1,12.5,3.2,73.8,71.5
+2022-01-01,Selangor,P.113 Sepang,N.56 Sungai Pelek,35.7,34.8,0.9,12.6,2.6,73.9,72.0
+2023-01-01,Selangor,P.113 Sepang,N.56 Sungai Pelek,39.1,38.4,0.7,13.9,1.8,73.8,72.5
+2021-01-01,Negeri Sembilan,P.126 Jelebu,N.01 Chennah,5.7,5.6,0.2,3.6,3.1,61.7,60.2
+2022-01-01,Negeri Sembilan,P.126 Jelebu,N.01 Chennah,6.1,6.0,0.1,3.6,2.2,62.9,61.9
+2023-01-01,Negeri Sembilan,P.126 Jelebu,N.01 Chennah,7.0,6.8,0.1,7.0,1.9,65.3,48.6
+2021-01-01,Negeri Sembilan,P.126 Jelebu,N.02 Pertang,3.8,3.7,0.1,2.3,2.9,62.7,60.7
+2022-01-01,Negeri Sembilan,P.126 Jelebu,N.02 Pertang,3.9,3.8,0.1,2.1,2.3,64.5,63.3
+2023-01-01,Negeri Sembilan,P.126 Jelebu,N.02 Pertang,4.3,4.3,0.1,4.3,1.9,66.5,50.0
+2021-01-01,Negeri Sembilan,P.126 Jelebu,N.03 Sungai Lui,7.2,6.9,0.2,3.3,3.2,68.2,65.7
+2022-01-01,Negeri Sembilan,P.126 Jelebu,N.03 Sungai Lui,7.2,7.1,0.2,3.1,2.4,70.1,68.9
+2023-01-01,Negeri Sembilan,P.126 Jelebu,N.03 Sungai Lui,8.1,7.9,0.2,8.1,2.2,72.0,48.8
+2021-01-01,Negeri Sembilan,P.126 Jelebu,N.04 Klawang,6.4,6.2,0.2,3.9,2.9,62.1,60.2
+2022-01-01,Negeri Sembilan,P.126 Jelebu,N.04 Klawang,6.7,6.5,0.1,3.9,2.1,63.3,61.3
+2023-01-01,Negeri Sembilan,P.126 Jelebu,N.04 Klawang,7.6,7.5,0.1,7.6,1.8,65.9,49.3
+2021-01-01,Negeri Sembilan,P.127 Jempol,N.05 Serting,10.9,10.4,0.5,7.4,4.5,59.7,56.8
+2022-01-01,Negeri Sembilan,P.127 Jempol,N.05 Serting,10.9,10.5,0.4,7.3,3.9,60.1,57.7
+2023-01-01,Negeri Sembilan,P.127 Jempol,N.05 Serting,12.7,12.2,0.5,12.7,3.6,63.3,48.0
+2021-01-01,Negeri Sembilan,P.127 Jempol,N.06 Palong,8.5,8.1,0.4,4.6,4.5,64.6,61.8
+2022-01-01,Negeri Sembilan,P.127 Jempol,N.06 Palong,8.5,8.2,0.3,4.6,3.9,65.1,62.6
+2023-01-01,Negeri Sembilan,P.127 Jempol,N.06 Palong,9.8,9.4,0.3,9.8,3.4,67.8,48.0
+2021-01-01,Negeri Sembilan,P.127 Jempol,N.07 Jeram Padang,9.5,9.0,0.4,5.7,4.6,62.4,59.2
+2022-01-01,Negeri Sembilan,P.127 Jempol,N.07 Jeram Padang,9.4,9.0,0.4,5.4,4.1,63.4,60.8
+2023-01-01,Negeri Sembilan,P.127 Jempol,N.07 Jeram Padang,10.8,10.4,0.4,10.8,3.7,66.0,48.1
+2021-01-01,Negeri Sembilan,P.127 Jempol,N.08 Bahau,11.5,11.1,0.4,8.1,3.4,58.5,56.6
+2022-01-01,Negeri Sembilan,P.127 Jempol,N.08 Bahau,11.6,11.2,0.3,8.2,2.9,58.7,56.6
+2023-01-01,Negeri Sembilan,P.127 Jempol,N.08 Bahau,13.3,13.0,0.3,13.3,2.6,61.5,48.9
+2021-01-01,Negeri Sembilan,P.128 Seremban,N.09 Lenggeng,16.5,15.7,0.8,9.6,4.9,63.3,60.2
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.09 Lenggeng,15.6,14.9,0.7,8.8,4.6,63.9,61.1
+2023-01-01,Negeri Sembilan,P.128 Seremban,N.09 Lenggeng,18.0,17.3,0.7,18.0,4.0,66.0,48.1
+2021-01-01,Negeri Sembilan,P.128 Seremban,N.10 Nilai,49.5,47.3,2.1,26.9,4.3,64.8,61.9
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.10 Nilai,50.6,48.7,1.9,27.4,3.8,64.9,62.4
+2023-01-01,Negeri Sembilan,P.128 Seremban,N.10 Nilai,58.2,56.3,1.8,58.2,3.1,66.6,48.4
+2021-01-01,Negeri Sembilan,P.128 Seremban,N.11 Lobak,10.6,10.0,0.6,5.9,5.9,64.2,60.6
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.11 Lobak,10.6,10.1,0.6,5.7,5.3,65.1,62.0
+2023-01-01,Negeri Sembilan,P.128 Seremban,N.11 Lobak,12.4,11.7,0.6,12.4,5.0,67.5,47.2
+2021-01-01,Negeri Sembilan,P.128 Seremban,N.12 Temiang,6.8,6.4,0.4,4.8,5.6,58.7,55.2
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.12 Temiang,6.6,6.2,0.3,4.4,5.2,59.7,56.4
+2023-01-01,Negeri Sembilan,P.128 Seremban,N.12 Temiang,7.7,7.3,0.4,7.7,4.8,62.8,47.4
+2021-01-01,Negeri Sembilan,P.128 Seremban,N.13 Sikamat,17.1,16.2,0.8,11.8,4.9,59.2,56.1
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.13 Sikamat,16.9,16.2,0.8,10.9,4.4,60.9,58.3
+2023-01-01,Negeri Sembilan,P.128 Seremban,N.13 Sikamat,19.6,18.9,0.8,19.6,3.9,63.0,48.2
+2021-01-01,Negeri Sembilan,P.128 Seremban,N.14 Ampangan,10.7,10.1,0.6,4.9,5.7,68.5,64.7
+2022-01-01,Negeri Sembilan,P.128 Seremban,N.14 Ampangan,11.2,10.6,0.5,5.1,4.9,68.6,65.0
+2023-01-01,Negeri Sembilan,P.128 Seremban,N.14 Ampangan,12.9,12.3,0.6,12.9,4.5,70.8,47.7
+2021-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.15 Juasseh,8.8,8.4,0.4,5.3,4.7,62.6,59.6
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.15 Juasseh,8.8,8.4,0.4,4.9,4.7,64.3,61.3
+2023-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.15 Juasseh,9.2,8.8,0.4,9.2,4.4,66.2,47.8
+2021-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.16 Seri Menanti,3.4,3.2,0.2,2.1,5.0,61.1,58.2
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.16 Seri Menanti,3.7,3.5,0.2,2.3,4.5,61.9,58.3
+2023-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.16 Seri Menanti,3.9,3.7,0.2,3.9,3.9,64.0,47.4
+2021-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.17 Senaling,2.9,2.8,0.1,2.0,4.3,58.9,57.1
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.17 Senaling,3.2,3.1,0.1,2.2,3.9,59.2,57.4
+2023-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.17 Senaling,3.5,3.4,0.1,3.5,3.4,63.1,48.6
+2021-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.18 Pilah,9.1,8.7,0.4,6.0,4.5,60.4,57.6
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.18 Pilah,9.4,9.0,0.4,5.7,4.4,62.2,59.6
+2023-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.18 Pilah,9.9,9.5,0.4,9.9,4.1,64.4,48.0
+2021-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.19 Johol,5.5,5.2,0.3,3.6,5.0,60.1,57.1
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.19 Johol,5.4,5.2,0.3,3.3,5.0,62.5,59.8
+2023-01-01,Negeri Sembilan,P.129 Kuala Pilah,N.19 Johol,5.8,5.6,0.3,5.8,4.8,65.9,48.3
+2021-01-01,Negeri Sembilan,P.130 Rasah,N.20 Labu,25.8,25.0,0.9,13.4,3.3,65.8,63.8
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.20 Labu,25.1,24.3,0.8,13.0,3.2,65.9,63.8
+2023-01-01,Negeri Sembilan,P.130 Rasah,N.20 Labu,28.7,27.9,0.8,28.7,2.9,68.2,48.6
+2021-01-01,Negeri Sembilan,P.130 Rasah,N.21 Bukit Kepayang,34.5,32.8,1.7,21.5,4.9,61.6,58.6
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.21 Bukit Kepayang,33.9,32.4,1.6,20.9,4.7,61.9,59.1
+2023-01-01,Negeri Sembilan,P.130 Rasah,N.21 Bukit Kepayang,38.4,36.9,1.6,38.4,4.0,63.3,48.0
+2021-01-01,Negeri Sembilan,P.130 Rasah,N.22 Rahang,5.3,5.1,0.2,4.0,4.1,57.3,54.8
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.22 Rahang,5.0,4.8,0.2,3.7,4.0,57.7,55.2
+2023-01-01,Negeri Sembilan,P.130 Rasah,N.22 Rahang,5.9,5.7,0.2,5.9,3.6,61.7,48.3
+2021-01-01,Negeri Sembilan,P.130 Rasah,N.23 Mambau,19.2,18.7,0.5,9.7,2.8,66.5,64.7
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.23 Mambau,20.2,19.7,0.5,9.8,2.5,67.3,65.7
+2023-01-01,Negeri Sembilan,P.130 Rasah,N.23 Mambau,22.9,22.4,0.5,22.9,2.3,69.1,48.9
+2021-01-01,Negeri Sembilan,P.130 Rasah,N.24 Seremban Jaya,21.0,20.1,0.9,11.6,4.2,64.3,61.7
+2022-01-01,Negeri Sembilan,P.130 Rasah,N.24 Seremban Jaya,21.8,20.9,0.8,11.8,3.8,64.8,62.2
+2023-01-01,Negeri Sembilan,P.130 Rasah,N.24 Seremban Jaya,24.7,24.0,0.7,24.7,2.9,66.5,48.6
+2021-01-01,Negeri Sembilan,P.131 Rembau,N.25 Paroi,46.0,44.4,1.6,25.0,3.4,64.8,62.5
+2022-01-01,Negeri Sembilan,P.131 Rembau,N.25 Paroi,47.5,46.3,1.2,25.8,2.5,64.8,63.2
+2023-01-01,Negeri Sembilan,P.131 Rembau,N.25 Paroi,52.7,51.6,1.1,52.7,2.1,66.4,49.0
+2021-01-01,Negeri Sembilan,P.131 Rembau,N.26 Chembong,14.3,13.8,0.5,10.0,3.5,58.9,56.8
+2022-01-01,Negeri Sembilan,P.131 Rembau,N.26 Chembong,13.7,13.4,0.4,8.8,2.7,60.9,59.6
+2023-01-01,Negeri Sembilan,P.131 Rembau,N.26 Chembong,15.5,15.1,0.4,15.5,2.5,63.0,48.7
+2021-01-01,Negeri Sembilan,P.131 Rembau,N.27 Rantau,20.8,20.1,0.7,13.4,3.3,60.8,58.8
+2022-01-01,Negeri Sembilan,P.131 Rembau,N.27 Rantau,20.6,20.1,0.5,13.3,2.5,60.8,59.3
+2023-01-01,Negeri Sembilan,P.131 Rembau,N.27 Rantau,23.3,22.9,0.5,23.3,2.1,63.1,49.1
+2021-01-01,Negeri Sembilan,P.131 Rembau,N.28 Kota,6.2,6.0,0.2,3.2,3.0,65.7,63.8
+2022-01-01,Negeri Sembilan,P.131 Rembau,N.28 Kota,5.7,5.5,0.1,2.9,2.4,66.0,64.0
+2023-01-01,Negeri Sembilan,P.131 Rembau,N.28 Kota,6.4,6.3,0.1,6.4,2.0,68.5,49.2
+2021-01-01,Negeri Sembilan,P.132 Port Dickson,N.29 Chuah,6.4,6.0,0.4,3.8,6.0,62.6,58.8
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.29 Chuah,6.1,5.8,0.4,3.6,6.0,63.1,59.8
+2023-01-01,Negeri Sembilan,P.132 Port Dickson,N.29 Chuah,6.8,6.4,0.4,6.8,5.4,66.0,47.1
+2021-01-01,Negeri Sembilan,P.132 Port Dickson,N.30 Lukut,13.9,13.4,0.5,9.5,3.7,59.5,57.3
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.30 Lukut,14.8,14.3,0.5,10.0,3.4,59.6,57.7
+2023-01-01,Negeri Sembilan,P.132 Port Dickson,N.30 Lukut,16.3,15.8,0.5,16.3,3.0,62.3,48.5
+2021-01-01,Negeri Sembilan,P.132 Port Dickson,N.31 Bagan Pinang,17.7,17.0,0.7,7.8,3.8,69.5,66.7
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.31 Bagan Pinang,17.7,17.0,0.7,6.9,3.7,72.0,69.1
+2023-01-01,Negeri Sembilan,P.132 Port Dickson,N.31 Bagan Pinang,18.9,18.4,0.5,18.9,2.8,72.9,48.7
+2021-01-01,Negeri Sembilan,P.132 Port Dickson,N.32 Linggi,9.4,8.9,0.5,4.5,4.9,67.8,64.0
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.32 Linggi,9.5,9.0,0.4,4.3,4.7,68.7,65.2
+2023-01-01,Negeri Sembilan,P.132 Port Dickson,N.32 Linggi,10.4,10.0,0.4,10.4,4.1,71.4,48.1
+2021-01-01,Negeri Sembilan,P.132 Port Dickson,N.33 Sri Tanjung,7.7,7.4,0.3,5.1,3.8,60.1,57.8
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,N.33 Sri Tanjung,7.8,7.5,0.3,4.7,3.7,62.3,60.0
+2023-01-01,Negeri Sembilan,P.132 Port Dickson,N.33 Sri Tanjung,8.6,8.3,0.3,8.6,3.4,65.3,48.3
+2021-01-01,Negeri Sembilan,P.133 Tampin,N.34 Gemas,12.1,11.6,0.5,5.9,4.5,67.1,64.4
+2022-01-01,Negeri Sembilan,P.133 Tampin,N.34 Gemas,12.5,12.0,0.5,5.7,4.0,68.6,65.9
+2023-01-01,Negeri Sembilan,P.133 Tampin,N.34 Gemas,13.8,13.3,0.5,13.8,3.6,70.9,48.2
+2021-01-01,Negeri Sembilan,P.133 Tampin,N.35 Gemencheh,10.6,10.1,0.5,6.2,4.3,63.1,60.1
+2022-01-01,Negeri Sembilan,P.133 Tampin,N.35 Gemencheh,10.5,10.1,0.4,5.7,4.0,64.6,62.3
+2023-01-01,Negeri Sembilan,P.133 Tampin,N.35 Gemencheh,11.6,11.2,0.4,11.6,3.4,66.8,48.3
+2021-01-01,Negeri Sembilan,P.133 Tampin,N.36 Repah,12.5,11.9,0.6,6.7,4.6,65.2,62.0
+2022-01-01,Negeri Sembilan,P.133 Tampin,N.36 Repah,13.0,12.4,0.5,6.4,4.2,67.1,63.9
+2023-01-01,Negeri Sembilan,P.133 Tampin,N.36 Repah,14.2,13.7,0.5,14.2,3.5,69.0,48.2
+2021-01-01,Melaka,P.134 Masjid Tanah,N.01 Kuala Linggi,10.2,10.0,0.1,4.3,1.4,70.3,69.0
+2022-01-01,Melaka,P.134 Masjid Tanah,N.01 Kuala Linggi,10.4,10.2,0.1,4.2,1.1,70.9,69.9
+2023-01-01,Melaka,P.134 Masjid Tanah,N.01 Kuala Linggi,10.3,10.1,0.2,10.3,1.6,72.1,49.0
+2021-01-01,Melaka,P.134 Masjid Tanah,N.02 Tanjung Bidara,12.4,12.1,0.4,4.5,2.9,73.4,71.6
+2022-01-01,Melaka,P.134 Masjid Tanah,N.02 Tanjung Bidara,12.7,12.4,0.3,4.5,2.4,74.0,72.1
+2023-01-01,Melaka,P.134 Masjid Tanah,N.02 Tanjung Bidara,13.3,13.0,0.3,13.3,2.3,74.9,48.9
+2021-01-01,Melaka,P.134 Masjid Tanah,N.03 Ayer Limau,8.3,8.1,0.2,3.6,2.4,69.6,68.1
+2022-01-01,Melaka,P.134 Masjid Tanah,N.03 Ayer Limau,8.5,8.3,0.2,3.6,1.9,70.4,68.6
+2023-01-01,Melaka,P.134 Masjid Tanah,N.03 Ayer Limau,8.6,8.4,0.2,8.6,2.5,74.1,48.8
+2021-01-01,Melaka,P.134 Masjid Tanah,N.04 Lendu,10.1,9.9,0.2,3.8,2.3,72.7,71.2
+2022-01-01,Melaka,P.134 Masjid Tanah,N.04 Lendu,10.3,10.1,0.2,3.7,1.9,73.4,72.1
+2023-01-01,Melaka,P.134 Masjid Tanah,N.04 Lendu,10.6,10.4,0.2,10.6,1.7,74.5,49.1
+2021-01-01,Melaka,P.134 Masjid Tanah,N.05 Taboh Naning,7.2,7.0,0.2,3.1,2.6,69.5,68.0
+2022-01-01,Melaka,P.134 Masjid Tanah,N.05 Taboh Naning,7.3,7.1,0.2,3.1,2.1,70.2,68.3
+2023-01-01,Melaka,P.134 Masjid Tanah,N.05 Taboh Naning,9.2,9.0,0.2,9.2,1.9,71.0,48.9
+2021-01-01,Melaka,P.135 Alor Gajah,N.06 Rembia,18.8,18.4,0.4,7.2,2.0,72.2,70.8
+2022-01-01,Melaka,P.135 Alor Gajah,N.06 Rembia,19.1,18.8,0.3,7.2,1.5,72.7,71.5
+2023-01-01,Melaka,P.135 Alor Gajah,N.06 Rembia,27.6,27.1,0.5,27.6,1.8,73.3,49.1
+2021-01-01,Melaka,P.135 Alor Gajah,N.07 Gadek,10.3,10.0,0.3,4.9,3.1,67.9,65.8
+2022-01-01,Melaka,P.135 Alor Gajah,N.07 Gadek,10.5,10.2,0.2,4.8,2.4,68.5,66.7
+2023-01-01,Melaka,P.135 Alor Gajah,N.07 Gadek,15.2,14.8,0.4,15.2,2.6,69.4,48.7
+2021-01-01,Melaka,P.135 Alor Gajah,N.08 Machap Jaya,9.8,9.6,0.2,4.7,2.3,67.8,66.2
+2022-01-01,Melaka,P.135 Alor Gajah,N.08 Machap Jaya,10.0,9.8,0.2,4.6,1.8,68.4,67.1
+2023-01-01,Melaka,P.135 Alor Gajah,N.08 Machap Jaya,13.6,13.4,0.2,13.6,1.6,68.9,49.3
+2021-01-01,Melaka,P.135 Alor Gajah,N.09 Durian Tunggal,23.3,22.8,0.4,10.4,1.9,69.0,67.7
+2022-01-01,Melaka,P.135 Alor Gajah,N.09 Durian Tunggal,23.7,23.3,0.3,10.3,1.5,69.6,68.5
+2023-01-01,Melaka,P.135 Alor Gajah,N.09 Durian Tunggal,29.6,29.3,0.4,29.6,1.2,70.4,49.5
+2021-01-01,Melaka,P.135 Alor Gajah,N.10 Asahan,9.1,8.8,0.3,3.4,3.8,73.1,70.4
+2022-01-01,Melaka,P.135 Alor Gajah,N.10 Asahan,9.3,9.0,0.3,3.3,2.9,73.9,71.4
+2023-01-01,Melaka,P.135 Alor Gajah,N.10 Asahan,9.4,9.2,0.2,9.4,2.5,75.3,48.9
+2021-01-01,Melaka,P.136 Tangga Batu,N.11 Sungai Udang,19.9,19.6,0.2,10.8,1.2,64.8,63.8
+2022-01-01,Melaka,P.136 Tangga Batu,N.11 Sungai Udang,20.1,20.0,0.2,10.8,0.9,65.1,64.7
+2023-01-01,Melaka,P.136 Tangga Batu,N.11 Sungai Udang,20.4,20.2,0.2,20.4,0.9,65.1,49.5
+2021-01-01,Melaka,P.136 Tangga Batu,N.12 Pantai Kundor,11.9,11.8,0.2,6.0,1.4,66.4,65.9
+2022-01-01,Melaka,P.136 Tangga Batu,N.12 Pantai Kundor,12.1,12.0,0.1,6.0,1.0,66.8,66.3
+2023-01-01,Melaka,P.136 Tangga Batu,N.12 Pantai Kundor,12.7,12.6,0.1,12.7,1.0,67.2,49.6
+2021-01-01,Melaka,P.136 Tangga Batu,N.13 Paya Rumput,45.7,44.9,0.7,19.4,1.6,70.1,69.0
+2022-01-01,Melaka,P.136 Tangga Batu,N.13 Paya Rumput,46.3,45.8,0.5,19.4,1.1,70.5,69.7
+2023-01-01,Melaka,P.136 Tangga Batu,N.13 Paya Rumput,46.0,45.5,0.5,46.0,1.0,70.6,49.5
+2021-01-01,Melaka,P.136 Tangga Batu,N.14 Kelebang,16.8,16.4,0.4,9.3,2.5,64.5,62.8
+2022-01-01,Melaka,P.136 Tangga Batu,N.14 Kelebang,17.1,16.8,0.3,9.2,1.8,64.9,63.9
+2023-01-01,Melaka,P.136 Tangga Batu,N.14 Kelebang,18.2,17.9,0.3,18.2,1.8,65.6,49.2
+2021-01-01,Melaka,P.137 Hang Tuah Jaya,N.15 Pengkalan Batu,16.2,16.0,0.2,6.5,1.4,71.5,70.5
+2022-01-01,Melaka,P.137 Hang Tuah Jaya,N.15 Pengkalan Batu,16.6,16.4,0.2,6.2,1.1,72.7,71.9
+2023-01-01,Melaka,P.137 Hang Tuah Jaya,N.15 Pengkalan Batu,17.3,17.1,0.2,17.3,1.2,73.1,49.4
+2021-01-01,Melaka,P.137 Hang Tuah Jaya,N.16 Ayer Keroh,26.6,25.7,0.8,12.9,3.1,67.3,65.1
+2022-01-01,Melaka,P.137 Hang Tuah Jaya,N.16 Ayer Keroh,27.2,26.5,0.7,12.6,2.5,68.4,66.6
+2023-01-01,Melaka,P.137 Hang Tuah Jaya,N.16 Ayer Keroh,33.9,33.1,0.8,33.9,2.4,69.3,48.8
+2021-01-01,Melaka,P.137 Hang Tuah Jaya,N.17 Bukit Katil,16.0,15.7,0.3,8.1,1.8,66.4,65.1
+2022-01-01,Melaka,P.137 Hang Tuah Jaya,N.17 Bukit Katil,16.4,16.1,0.2,7.9,1.4,67.5,66.3
+2023-01-01,Melaka,P.137 Hang Tuah Jaya,N.17 Bukit Katil,17.8,17.6,0.3,17.8,1.5,68.1,49.4
+2021-01-01,Melaka,P.137 Hang Tuah Jaya,N.18 Ayer Molek,10.6,10.4,0.2,4.7,1.5,69.4,68.0
+2022-01-01,Melaka,P.137 Hang Tuah Jaya,N.18 Ayer Molek,10.8,10.7,0.1,4.5,1.2,70.5,69.9
+2023-01-01,Melaka,P.137 Hang Tuah Jaya,N.18 Ayer Molek,13.0,12.8,0.2,13.0,1.5,71.8,49.2
+2021-01-01,Melaka,P.138 Kota Melaka,N.19 Kesidang,38.1,37.5,0.6,15.0,1.6,71.8,70.6
+2022-01-01,Melaka,P.138 Kota Melaka,N.19 Kesidang,39.5,39.0,0.5,14.1,1.2,73.7,72.8
+2023-01-01,Melaka,P.138 Kota Melaka,N.19 Kesidang,46.8,46.2,0.6,46.8,1.3,74.2,49.4
+2021-01-01,Melaka,P.138 Kota Melaka,N.20 Kota Laksamana,17.0,16.6,0.4,8.6,2.5,66.4,64.8
+2022-01-01,Melaka,P.138 Kota Melaka,N.20 Kota Laksamana,17.6,17.3,0.3,8.2,1.8,68.3,67.1
+2023-01-01,Melaka,P.138 Kota Melaka,N.20 Kota Laksamana,18.6,18.2,0.3,18.6,1.9,68.9,48.9
+2021-01-01,Melaka,P.138 Kota Melaka,N.21 Duyong,17.2,16.7,0.5,8.0,3.1,68.3,66.3
+2022-01-01,Melaka,P.138 Kota Melaka,N.21 Duyong,17.8,17.4,0.4,7.6,2.3,70.1,68.5
+2023-01-01,Melaka,P.138 Kota Melaka,N.21 Duyong,18.5,18.0,0.5,18.5,2.5,71.7,48.6
+2021-01-01,Melaka,P.138 Kota Melaka,N.22 Bandar Hilir,8.2,7.9,0.3,4.0,3.7,67.0,64.8
+2022-01-01,Melaka,P.138 Kota Melaka,N.22 Bandar Hilir,8.5,8.3,0.2,3.8,2.6,69.0,67.5
+2023-01-01,Melaka,P.138 Kota Melaka,N.22 Bandar Hilir,10.1,9.8,0.3,10.1,2.9,70.0,48.5
+2021-01-01,Melaka,P.138 Kota Melaka,N.23 Telok Mas,19.0,18.7,0.2,9.2,1.3,67.4,66.3
+2022-01-01,Melaka,P.138 Kota Melaka,N.23 Telok Mas,19.6,19.4,0.2,8.7,1.0,69.3,68.6
+2023-01-01,Melaka,P.138 Kota Melaka,N.23 Telok Mas,20.7,20.5,0.2,20.7,1.0,70.5,49.5
+2021-01-01,Melaka,P.139 Jasin,N.24 Bemban,16.5,16.3,0.2,9.0,1.1,64.7,63.9
+2022-01-01,Melaka,P.139 Jasin,N.24 Bemban,17.1,16.9,0.2,8.6,0.9,66.5,65.8
+2023-01-01,Melaka,P.139 Jasin,N.24 Bemban,18.1,17.9,0.2,18.1,1.2,66.5,49.4
+2021-01-01,Melaka,P.139 Jasin,N.25 Rim,9.8,9.6,0.2,4.9,1.7,66.5,65.3
+2022-01-01,Melaka,P.139 Jasin,N.25 Rim,10.1,9.9,0.1,4.7,1.4,68.3,66.9
+2023-01-01,Melaka,P.139 Jasin,N.25 Rim,11.2,11.0,0.2,11.2,2.0,69.1,49.1
+2021-01-01,Melaka,P.139 Jasin,N.26 Serkam,12.0,11.9,0.2,7.2,1.4,62.7,62.0
+2022-01-01,Melaka,P.139 Jasin,N.26 Serkam,12.5,12.3,0.1,6.9,1.2,64.4,63.4
+2023-01-01,Melaka,P.139 Jasin,N.26 Serkam,12.5,12.3,0.2,12.5,1.7,64.7,49.2
+2021-01-01,Melaka,P.139 Jasin,N.27 Merlimau,13.2,12.9,0.3,7.3,2.0,64.2,62.9
+2022-01-01,Melaka,P.139 Jasin,N.27 Merlimau,13.6,13.4,0.2,7.1,1.7,65.9,64.7
+2023-01-01,Melaka,P.139 Jasin,N.27 Merlimau,13.6,13.3,0.3,13.6,1.9,66.4,48.9
+2021-01-01,Melaka,P.139 Jasin,N.28 Sungai Rambai,9.9,9.7,0.2,6.0,2.0,62.3,61.0
+2022-01-01,Melaka,P.139 Jasin,N.28 Sungai Rambai,10.3,10.1,0.2,5.8,1.7,63.9,62.7
+2023-01-01,Melaka,P.139 Jasin,N.28 Sungai Rambai,11.4,11.2,0.2,11.4,1.9,64.1,49.1
+2021-01-01,Johor,P.140 Segamat,N.01 Buloh Kasap,14.6,13.7,0.9,7.4,6.3,66.4,62.3
+2022-01-01,Johor,P.140 Segamat,N.01 Buloh Kasap,14.9,14.0,0.9,7.1,6.0,67.7,63.6
+2023-01-01,Johor,P.140 Segamat,N.01 Buloh Kasap,16.2,7.7,0.7,8.4,4.3,67.7,31.3
+2021-01-01,Johor,P.140 Segamat,N.02 Jementah,22.6,22.1,0.5,8.7,2.3,72.1,70.6
+2022-01-01,Johor,P.140 Segamat,N.02 Jementah,23.3,22.9,0.4,8.2,1.8,73.9,72.7
+2023-01-01,Johor,P.140 Segamat,N.02 Jementah,24.2,8.1,0.4,8.5,1.8,75.0,24.8
+2021-01-01,Johor,P.141 Sekijang,N.03 Pemanis,14.8,14.4,0.3,6.3,2.2,70.2,68.2
+2022-01-01,Johor,P.141 Sekijang,N.03 Pemanis,15.1,14.9,0.2,5.9,1.6,71.8,71.0
+2023-01-01,Johor,P.141 Sekijang,N.03 Pemanis,15.7,6.0,0.2,6.2,1.3,72.5,27.4
+2021-01-01,Johor,P.141 Sekijang,N.04 Kemelah,21.6,20.3,1.4,9.8,6.3,68.9,64.6
+2022-01-01,Johor,P.141 Sekijang,N.04 Kemelah,22.3,21.0,1.3,9.3,5.6,70.7,66.5
+2023-01-01,Johor,P.141 Sekijang,N.04 Kemelah,23.3,9.5,1.0,10.6,4.5,71.0,28.0
+2021-01-01,Johor,P.142 Labis,N.05 Tenang,9.5,9.2,0.3,4.1,3.6,69.8,67.6
+2022-01-01,Johor,P.142 Labis,N.05 Tenang,9.9,9.7,0.3,3.9,2.7,71.8,70.3
+2023-01-01,Johor,P.142 Labis,N.05 Tenang,10.3,4.0,0.2,4.3,2.3,71.9,27.4
+2021-01-01,Johor,P.142 Labis,N.06 Bekok,9.8,9.2,0.6,4.4,6.1,68.9,64.8
+2022-01-01,Johor,P.142 Labis,N.06 Bekok,10.2,9.6,0.5,4.3,5.3,70.5,66.2
+2023-01-01,Johor,P.142 Labis,N.06 Bekok,10.6,4.4,0.5,4.9,4.6,70.6,28.4
+2021-01-01,Johor,P.143 Pagoh,N.07 Bukit Kepong,15.9,15.4,0.5,7.4,3.1,68.2,66.1
+2022-01-01,Johor,P.143 Pagoh,N.07 Bukit Kepong,16.3,15.8,0.4,7.5,2.5,68.4,66.4
+2023-01-01,Johor,P.143 Pagoh,N.07 Bukit Kepong,16.7,7.6,0.3,7.9,1.9,68.7,30.9
+2021-01-01,Johor,P.143 Pagoh,N.08 Bukit Pasir,30.4,29.8,0.6,16.4,2.0,65.0,63.7
+2022-01-01,Johor,P.143 Pagoh,N.08 Bukit Pasir,30.7,30.3,0.4,16.5,1.4,65.0,64.2
+2023-01-01,Johor,P.143 Pagoh,N.08 Bukit Pasir,30.7,16.2,0.3,16.5,1.1,65.4,34.3
+2021-01-01,Johor,P.144 Ledang,N.09 Gambir,16.0,15.7,0.3,8.2,1.8,66.1,64.9
+2022-01-01,Johor,P.144 Ledang,N.09 Gambir,16.2,16.0,0.2,8.2,1.0,66.4,65.6
+2023-01-01,Johor,P.144 Ledang,N.09 Gambir,18.2,9.1,0.2,9.3,0.9,66.6,33.1
+2021-01-01,Johor,P.144 Ledang,N.10 Tangkak,23.2,22.0,1.2,13.0,5.1,64.1,60.8
+2022-01-01,Johor,P.144 Ledang,N.10 Tangkak,23.8,22.8,1.0,12.6,4.1,65.4,62.6
+2023-01-01,Johor,P.144 Ledang,N.10 Tangkak,26.3,13.8,0.8,14.6,2.9,65.6,33.7
+2021-01-01,Johor,P.144 Ledang,N.11 Serom,20.4,19.9,0.5,12.2,2.4,62.5,61.0
+2022-01-01,Johor,P.144 Ledang,N.11 Serom,20.6,20.3,0.3,12.2,1.6,62.8,61.9
+2023-01-01,Johor,P.144 Ledang,N.11 Serom,23.6,13.8,0.4,15.2,1.5,63.2,35.6
+2021-01-01,Johor,P.145 Bakri,N.12 Bentayan,15.7,15.0,0.7,7.0,4.3,69.2,66.1
+2022-01-01,Johor,P.145 Bakri,N.12 Bentayan,16.0,15.5,0.5,7.1,3.2,69.4,67.1
+2023-01-01,Johor,P.145 Bakri,N.12 Bentayan,17.7,7.5,0.4,7.9,2.3,70.1,29.3
+2021-01-01,Johor,P.145 Bakri,N.13 Simpang Jeram,28.7,28.1,0.6,13.3,2.0,68.3,66.9
+2022-01-01,Johor,P.145 Bakri,N.13 Simpang Jeram,29.2,28.8,0.4,13.3,1.5,68.7,67.8
+2023-01-01,Johor,P.145 Bakri,N.13 Simpang Jeram,32.2,14.9,0.3,15.2,1.1,68.4,31.4
+2021-01-01,Johor,P.145 Bakri,N.14 Bukit Naning,15.1,14.5,0.7,8.5,4.5,64.0,61.4
+2022-01-01,Johor,P.145 Bakri,N.14 Bukit Naning,15.2,14.7,0.5,8.5,3.2,64.1,62.0
+2023-01-01,Johor,P.145 Bakri,N.14 Bukit Naning,16.7,8.9,0.4,9.3,2.3,65.2,34.2
+2021-01-01,Johor,P.146 Muar,N.15 Maharani,24.3,23.6,0.7,11.8,2.8,67.3,65.4
+2022-01-01,Johor,P.146 Muar,N.15 Maharani,24.8,24.2,0.6,11.9,2.3,67.6,65.9
+2023-01-01,Johor,P.146 Muar,N.15 Maharani,28.3,13.1,0.6,13.7,2.1,68.3,31.2
+2021-01-01,Johor,P.146 Muar,N.16 Sungai Balang,18.5,18.1,0.4,9.2,2.1,66.8,65.3
+2022-01-01,Johor,P.146 Muar,N.16 Sungai Balang,18.8,18.5,0.3,9.2,1.5,67.1,66.1
+2023-01-01,Johor,P.146 Muar,N.16 Sungai Balang,19.9,9.5,0.2,9.8,1.2,67.6,32.0
+2021-01-01,Johor,P.147 Parit Sulong,N.17 Semerah,20.8,20.1,0.7,9.1,3.4,69.5,67.2
+2022-01-01,Johor,P.147 Parit Sulong,N.17 Semerah,21.1,20.6,0.6,8.9,2.7,70.3,68.7
+2023-01-01,Johor,P.147 Parit Sulong,N.17 Semerah,23.0,9.5,0.5,10.0,2.1,70.9,28.8
+2021-01-01,Johor,P.147 Parit Sulong,N.18 Sri Medan,15.8,15.4,0.4,7.2,2.6,68.5,67.0
+2022-01-01,Johor,P.147 Parit Sulong,N.18 Sri Medan,16.4,16.1,0.3,7.4,1.7,68.9,67.6
+2023-01-01,Johor,P.147 Parit Sulong,N.18 Sri Medan,18.4,7.7,0.2,7.9,1.2,70.4,29.3
+2021-01-01,Johor,P.148 Ayer Hitam,N.19 Yong Peng,18.6,18.0,0.6,9.0,3.4,67.4,65.2
+2022-01-01,Johor,P.148 Ayer Hitam,N.19 Yong Peng,19.2,18.7,0.5,8.8,2.6,68.5,66.8
+2023-01-01,Johor,P.148 Ayer Hitam,N.19 Yong Peng,21.0,9.3,0.4,9.8,2.1,69.2,30.2
+2021-01-01,Johor,P.148 Ayer Hitam,N.20 Semarang,13.6,13.3,0.3,5.4,2.2,71.7,70.0
+2022-01-01,Johor,P.148 Ayer Hitam,N.20 Semarang,14.1,13.9,0.2,5.3,1.6,72.8,71.6
+2023-01-01,Johor,P.148 Ayer Hitam,N.20 Semarang,15.1,5.8,0.2,6.0,1.2,72.2,27.5
+2021-01-01,Johor,P.149 Sri Gading,N.21 Parit Yaani,37.5,36.5,1.0,15.3,2.8,71.0,69.1
+2022-01-01,Johor,P.149 Sri Gading,N.21 Parit Yaani,39.0,38.1,0.9,14.8,2.3,72.5,70.8
+2023-01-01,Johor,P.149 Sri Gading,N.21 Parit Yaani,44.0,16.2,0.8,17.1,1.9,73.0,26.5
+2021-01-01,Johor,P.149 Sri Gading,N.22 Parit Raja,38.5,37.6,0.9,18.4,2.3,67.6,66.1
+2022-01-01,Johor,P.149 Sri Gading,N.22 Parit Raja,40.3,39.7,0.6,18.5,1.5,68.5,67.5
+2023-01-01,Johor,P.149 Sri Gading,N.22 Parit Raja,53.1,24.2,0.6,24.8,1.1,68.7,31.1
+2021-01-01,Johor,P.150 Batu Pahat,N.23 Penggaram,40.7,39.7,1.0,16.6,2.5,71.0,69.3
+2022-01-01,Johor,P.150 Batu Pahat,N.23 Penggaram,42.0,41.3,0.7,15.7,1.6,72.8,71.6
+2023-01-01,Johor,P.150 Batu Pahat,N.23 Penggaram,47.3,17.9,0.6,18.5,1.2,72.5,27.2
+2021-01-01,Johor,P.150 Batu Pahat,N.24 Senggarang,20.6,20.2,0.4,9.7,1.8,68.0,66.7
+2022-01-01,Johor,P.150 Batu Pahat,N.24 Senggarang,21.1,20.9,0.2,9.5,1.0,68.9,68.3
+2023-01-01,Johor,P.150 Batu Pahat,N.24 Senggarang,24.0,10.5,0.2,10.7,1.0,69.6,30.3
+2021-01-01,Johor,P.150 Batu Pahat,N.25 Rengit,10.8,10.6,0.2,4.7,1.5,69.8,68.4
+2022-01-01,Johor,P.150 Batu Pahat,N.25 Rengit,11.2,11.1,0.1,4.5,0.8,71.4,70.7
+2023-01-01,Johor,P.150 Batu Pahat,N.25 Rengit,12.5,4.8,0.1,5.0,0.9,72.1,27.4
+2021-01-01,Johor,P.151 Simpang Renggam,N.26 Machap,22.4,21.1,1.3,8.9,5.7,71.4,67.4
+2022-01-01,Johor,P.151 Simpang Renggam,N.26 Machap,22.9,21.8,1.2,8.6,5.2,72.8,69.2
+2023-01-01,Johor,P.151 Simpang Renggam,N.26 Machap,25.2,8.9,1.0,9.9,4.0,74.0,25.4
+2021-01-01,Johor,P.151 Simpang Renggam,N.27 Layang-Layang,13.5,12.8,0.7,6.1,5.0,68.9,65.3
+2022-01-01,Johor,P.151 Simpang Renggam,N.27 Layang-Layang,14.2,13.6,0.6,5.8,3.9,70.9,68.0
+2023-01-01,Johor,P.151 Simpang Renggam,N.27 Layang-Layang,14.6,6.1,0.4,6.5,2.6,70.4,28.9
+2021-01-01,Johor,P.152 Kluang,N.28 Mengkibol,46.9,44.2,2.7,19.5,5.7,70.6,66.6
+2022-01-01,Johor,P.152 Kluang,N.28 Mengkibol,48.0,45.5,2.5,18.8,5.2,71.8,68.1
+2023-01-01,Johor,P.152 Kluang,N.28 Mengkibol,52.2,20.5,2.1,22.6,4.1,71.8,27.4
+2021-01-01,Johor,P.152 Kluang,N.29 Mahkota,37.6,35.9,1.7,14.6,4.5,72.1,68.8
+2022-01-01,Johor,P.152 Kluang,N.29 Mahkota,38.9,37.3,1.6,14.1,4.1,73.4,70.4
+2023-01-01,Johor,P.152 Kluang,N.29 Mahkota,41.2,15.2,1.4,16.6,3.4,73.1,26.3
+2021-01-01,Johor,P.153 Sembrong,N.30 Paloh,15.3,14.5,0.8,5.4,5.4,74.1,70.0
+2022-01-01,Johor,P.153 Sembrong,N.30 Paloh,16.4,15.7,0.7,5.2,4.3,75.9,72.7
+2023-01-01,Johor,P.153 Sembrong,N.30 Paloh,18.5,5.8,0.6,6.5,3.4,76.1,23.2
+2021-01-01,Johor,P.153 Sembrong,N.31 Kahang,12.6,11.8,0.8,6.5,6.1,65.9,61.8
+2022-01-01,Johor,P.153 Sembrong,N.31 Kahang,13.0,12.3,0.7,6.5,5.4,66.8,63.1
+2023-01-01,Johor,P.153 Sembrong,N.31 Kahang,14.3,7.2,0.5,7.7,3.6,66.5,32.7
+2021-01-01,Johor,P.154 Mersing,N.32 Endau,12.7,12.1,0.6,9.1,4.8,58.2,55.5
+2022-01-01,Johor,P.154 Mersing,N.32 Endau,12.9,12.3,0.6,9.1,4.3,58.6,55.9
+2023-01-01,Johor,P.154 Mersing,N.32 Endau,13.6,9.2,0.5,9.7,3.4,59.6,39.5
+2021-01-01,Johor,P.154 Mersing,N.33 Tenggaroh,17.6,17.1,0.5,11.6,2.8,60.2,58.6
+2022-01-01,Johor,P.154 Mersing,N.33 Tenggaroh,18.5,18.1,0.4,12.1,2.2,60.5,59.2
+2023-01-01,Johor,P.154 Mersing,N.33 Tenggaroh,19.3,12.7,0.3,13.1,1.8,60.3,39.2
+2021-01-01,Johor,P.155 Tenggara,N.34 Panti,24.3,23.6,0.7,11.4,2.9,68.0,66.1
+2022-01-01,Johor,P.155 Tenggara,N.34 Panti,24.9,24.5,0.5,11.6,1.9,68.3,67.1
+2023-01-01,Johor,P.155 Tenggara,N.34 Panti,26.0,11.7,0.5,12.2,1.8,69.0,30.6
+2021-01-01,Johor,P.155 Tenggara,N.35 Pasir Raja,18.9,18.1,0.8,8.6,4.3,68.6,65.8
+2022-01-01,Johor,P.155 Tenggara,N.35 Pasir Raja,19.6,18.9,0.7,8.3,3.5,70.1,67.7
+2023-01-01,Johor,P.155 Tenggara,N.35 Pasir Raja,20.4,8.4,0.6,9.0,2.8,70.7,28.6
+2021-01-01,Johor,P.156 Kota Tinggi,N.36 Sedili,11.3,10.9,0.4,5.8,3.2,66.1,63.7
+2022-01-01,Johor,P.156 Kota Tinggi,N.36 Sedili,11.7,11.5,0.3,5.7,2.4,67.5,66.1
+2023-01-01,Johor,P.156 Kota Tinggi,N.36 Sedili,12.4,6.1,0.2,6.3,2.0,67.1,32.6
+2021-01-01,Johor,P.156 Kota Tinggi,N.37 Johor Lama,13.3,12.8,0.5,5.6,3.9,70.2,67.7
+2022-01-01,Johor,P.156 Kota Tinggi,N.37 Johor Lama,13.7,13.3,0.4,5.5,3.1,71.6,69.3
+2023-01-01,Johor,P.156 Kota Tinggi,N.37 Johor Lama,14.6,5.7,0.3,6.0,2.3,72.0,27.7
+2021-01-01,Johor,P.157 Pengerang,N.38 Penawar,16.8,16.0,0.9,8.6,5.1,66.3,63.0
+2022-01-01,Johor,P.157 Pengerang,N.38 Penawar,17.8,17.0,0.8,8.3,4.3,68.2,65.1
+2023-01-01,Johor,P.157 Pengerang,N.38 Penawar,18.9,8.6,0.7,9.2,3.5,68.8,30.6
+2021-01-01,Johor,P.157 Pengerang,N.39 Tanjung Surat,14.7,14.2,0.5,5.4,3.6,73.1,70.6
+2022-01-01,Johor,P.157 Pengerang,N.39 Tanjung Surat,15.4,14.9,0.4,5.3,2.8,74.4,72.0
+2023-01-01,Johor,P.157 Pengerang,N.39 Tanjung Surat,16.2,5.5,0.4,5.9,2.4,74.7,24.9
+2021-01-01,Johor,P.158 Tebrau,N.40 Tiram,98.0,94.8,3.2,38.5,3.2,71.8,69.5
+2022-01-01,Johor,P.158 Tebrau,N.40 Tiram,100.4,97.7,2.7,37.0,2.7,73.0,71.1
+2023-01-01,Johor,P.158 Tebrau,N.40 Tiram,110.1,39.4,2.3,41.8,2.1,73.6,25.9
+2021-01-01,Johor,P.158 Tebrau,N.41 Puteri Wangsa,133.1,127.8,5.3,48.7,4.0,73.2,70.3
+2022-01-01,Johor,P.158 Tebrau,N.41 Puteri Wangsa,136.2,131.2,5.0,47.5,3.7,74.1,71.4
+2023-01-01,Johor,P.158 Tebrau,N.41 Puteri Wangsa,151.4,48.3,4.1,52.4,2.7,75.8,23.7
+2021-01-01,Johor,P.159 Pasir Gudang,N.42 Johor Jaya,77.1,72.9,4.2,27.1,5.4,74.0,70.0
+2022-01-01,Johor,P.159 Pasir Gudang,N.42 Johor Jaya,78.5,74.4,4.1,26.2,5.2,74.9,71.1
+2023-01-01,Johor,P.159 Pasir Gudang,N.42 Johor Jaya,84.5,29.2,3.5,32.7,4.2,74.4,24.9
+2021-01-01,Johor,P.159 Pasir Gudang,N.43 Permas,99.7,95.1,4.6,39.2,4.6,71.8,68.5
+2022-01-01,Johor,P.159 Pasir Gudang,N.43 Permas,101.7,97.4,4.3,38.0,4.3,72.8,69.7
+2023-01-01,Johor,P.159 Pasir Gudang,N.43 Permas,109.5,42.5,3.5,46.0,3.2,72.1,27.3
+2021-01-01,Johor,P.160 Johor Bahru,N.44 Larkin,48.9,46.5,2.3,17.1,4.8,74.1,70.5
+2022-01-01,Johor,P.160 Johor Bahru,N.44 Larkin,50.0,48.0,2.0,16.7,4.1,75.0,72.0
+2023-01-01,Johor,P.160 Johor Bahru,N.44 Larkin,55.0,17.8,1.8,19.6,3.3,75.6,23.9
+2021-01-01,Johor,P.160 Johor Bahru,N.45 Stulang,38.3,37.5,0.8,14.4,2.1,72.7,71.2
+2022-01-01,Johor,P.160 Johor Bahru,N.45 Stulang,39.8,39.2,0.6,13.5,1.6,74.6,73.5
+2023-01-01,Johor,P.160 Johor Bahru,N.45 Stulang,43.9,14.5,0.5,15.0,1.2,75.2,24.6
+2021-01-01,Johor,P.161 Pulai,N.46 Perling,87.5,85.0,2.5,34.5,2.9,71.7,69.7
+2022-01-01,Johor,P.161 Pulai,N.46 Perling,88.9,86.7,2.3,34.5,2.5,72.1,70.3
+2023-01-01,Johor,P.161 Pulai,N.46 Perling,98.5,36.6,2.0,38.6,2.0,72.9,26.7
+2021-01-01,Johor,P.161 Pulai,N.47 Kempas,49.7,47.1,2.6,17.4,5.2,74.1,70.2
+2022-01-01,Johor,P.161 Pulai,N.47 Kempas,50.8,48.3,2.5,16.4,4.9,75.6,71.9
+2023-01-01,Johor,P.161 Pulai,N.47 Kempas,56.4,18.0,2.1,20.1,3.7,75.8,23.5
+2021-01-01,Johor,P.162 Iskandar Puteri,N.48 Skudai,62.3,59.0,3.3,24.6,5.3,71.7,67.9
+2022-01-01,Johor,P.162 Iskandar Puteri,N.48 Skudai,63.9,60.7,3.2,23.8,5.0,72.8,69.2
+2023-01-01,Johor,P.162 Iskandar Puteri,N.48 Skudai,69.6,25.7,2.8,28.6,4.0,73.0,26.2
+2021-01-01,Johor,P.162 Iskandar Puteri,N.49 Kota Iskandar,145.5,140.5,5.0,51.9,3.4,73.7,71.2
+2022-01-01,Johor,P.162 Iskandar Puteri,N.49 Kota Iskandar,148.5,144.2,4.4,51.2,2.9,74.4,72.2
+2023-01-01,Johor,P.162 Iskandar Puteri,N.49 Kota Iskandar,168.3,54.8,3.8,58.6,2.2,75.4,24.2
+2021-01-01,Johor,P.163 Kulai,N.50 Bukit Permai,30.6,29.1,1.4,17.7,4.7,63.3,60.2
+2022-01-01,Johor,P.163 Kulai,N.50 Bukit Permai,31.2,29.9,1.3,18.0,4.1,63.4,60.8
+2023-01-01,Johor,P.163 Kulai,N.50 Bukit Permai,36.1,21.0,1.2,22.2,3.4,63.3,36.0
+2021-01-01,Johor,P.163 Kulai,N.51 Bukit Batu,33.8,32.5,1.3,16.9,3.8,66.6,64.1
+2022-01-01,Johor,P.163 Kulai,N.51 Bukit Batu,34.4,33.2,1.3,17.1,3.6,66.8,64.5
+2023-01-01,Johor,P.163 Kulai,N.51 Bukit Batu,39.0,19.6,1.1,20.7,2.8,66.5,32.8
+2021-01-01,Johor,P.163 Kulai,N.52 Senai,62.6,60.5,2.1,29.5,3.3,67.9,65.7
+2022-01-01,Johor,P.163 Kulai,N.52 Senai,63.5,61.6,1.9,29.6,3.0,68.2,66.2
+2023-01-01,Johor,P.163 Kulai,N.52 Senai,72.2,34.0,1.8,35.8,2.5,68.0,31.5
+2021-01-01,Johor,P.164 Pontian,N.53 Benut,12.1,11.4,0.6,6.2,5.4,66.1,62.3
+2022-01-01,Johor,P.164 Pontian,N.53 Benut,12.6,12.0,0.6,6.2,4.7,67.0,63.8
+2023-01-01,Johor,P.164 Pontian,N.53 Benut,13.5,6.4,0.5,6.9,3.9,67.7,31.4
+2021-01-01,Johor,P.164 Pontian,N.54 Pulai Sebatang,21.2,20.2,1.0,12.1,4.7,63.7,60.7
+2022-01-01,Johor,P.164 Pontian,N.54 Pulai Sebatang,22.0,21.2,0.9,11.9,3.9,65.0,62.5
+2023-01-01,Johor,P.164 Pontian,N.54 Pulai Sebatang,23.6,12.2,0.7,13.0,3.1,65.8,33.3
+2021-01-01,Johor,P.165 Tanjung Piai,N.55 Pekan Nanas,23.2,22.1,1.1,10.8,4.9,68.3,65.0
+2022-01-01,Johor,P.165 Tanjung Piai,N.55 Pekan Nanas,23.4,22.4,1.0,10.7,4.2,68.7,65.7
+2023-01-01,Johor,P.165 Tanjung Piai,N.55 Pekan Nanas,25.6,11.7,0.9,12.6,3.5,68.6,30.6
+2021-01-01,Johor,P.165 Tanjung Piai,N.56 Kukup,15.8,15.3,0.5,9.7,3.3,62.0,60.0
+2022-01-01,Johor,P.165 Tanjung Piai,N.56 Kukup,15.9,15.5,0.4,9.6,2.7,62.3,60.8
+2023-01-01,Johor,P.165 Tanjung Piai,N.56 Kukup,17.8,10.1,0.4,10.5,2.3,63.8,35.7
+2021-01-01,Sabah,P.167 Kudat,N.01 Banggi,7.0,6.4,0.7,2.7,9.6,72.5,66.0
+2022-01-01,Sabah,P.167 Kudat,N.01 Banggi,6.5,5.9,0.6,2.4,9.2,73.2,66.3
+2023-01-01,Sabah,P.167 Kudat,N.01 Banggi,4.6,4.1,0.4,1.8,9.5,72.1,64.1
+2021-01-01,Sabah,P.167 Kudat,N.02 Bengkoka,13.3,12.1,1.2,5.0,8.7,72.7,66.1
+2022-01-01,Sabah,P.167 Kudat,N.02 Bengkoka,13.3,12.2,1.1,4.9,8.1,73.3,67.0
+2023-01-01,Sabah,P.167 Kudat,N.02 Bengkoka,8.8,8.2,0.7,3.4,7.5,72.0,67.2
+2021-01-01,Sabah,P.167 Kudat,N.03 Pitas,13.7,12.2,1.4,5.8,10.5,70.2,62.6
+2022-01-01,Sabah,P.167 Kudat,N.03 Pitas,13.7,12.4,1.4,5.6,9.8,71.0,64.2
+2023-01-01,Sabah,P.167 Kudat,N.03 Pitas,9.0,8.2,0.8,4.1,9.2,68.9,62.6
+2021-01-01,Sabah,P.167 Kudat,N.04 Tanjong Kapor,23.6,21.4,2.2,7.7,9.3,75.4,68.4
+2022-01-01,Sabah,P.167 Kudat,N.04 Tanjong Kapor,23.8,21.8,2.1,7.6,8.8,75.8,69.4
+2023-01-01,Sabah,P.167 Kudat,N.04 Tanjong Kapor,22.9,21.0,1.9,8.6,8.3,72.8,66.7
+2021-01-01,Sabah,P.168 Kota Marudu,N.05 Matunggong,20.5,18.8,1.6,8.7,8.0,70.1,64.4
+2022-01-01,Sabah,P.168 Kota Marudu,N.05 Matunggong,20.6,19.1,1.5,8.7,7.1,70.4,65.2
+2023-01-01,Sabah,P.168 Kota Marudu,N.05 Matunggong,15.8,14.7,1.1,6.8,6.8,69.8,65.0
+2021-01-01,Sabah,P.168 Kota Marudu,N.06 Bandau,18.8,17.4,1.4,6.6,7.3,73.9,68.5
+2022-01-01,Sabah,P.168 Kota Marudu,N.06 Bandau,19.0,17.7,1.3,6.7,6.8,74.0,68.9
+2023-01-01,Sabah,P.168 Kota Marudu,N.06 Bandau,16.9,15.8,1.1,6.5,6.6,72.1,67.5
+2021-01-01,Sabah,P.168 Kota Marudu,N.07 Tandek,17.2,15.6,1.6,5.3,9.4,76.5,69.3
+2022-01-01,Sabah,P.168 Kota Marudu,N.07 Tandek,17.4,15.8,1.5,5.3,8.9,76.6,69.6
+2023-01-01,Sabah,P.168 Kota Marudu,N.07 Tandek,15.4,14.1,1.3,5.3,8.3,74.3,68.1
+2021-01-01,Sabah,P.169 Kota Belud,N.08 Pintasan,9.1,8.0,1.0,5.6,11.4,61.9,54.4
+2022-01-01,Sabah,P.169 Kota Belud,N.08 Pintasan,9.2,8.3,1.0,5.5,10.4,62.6,56.5
+2023-01-01,Sabah,P.169 Kota Belud,N.08 Pintasan,8.1,7.3,0.8,4.8,9.6,62.7,56.6
+2021-01-01,Sabah,P.169 Kota Belud,N.09 Tempasuk,9.4,8.4,0.9,6.3,9.8,59.9,53.5
+2022-01-01,Sabah,P.169 Kota Belud,N.09 Tempasuk,9.6,8.7,0.8,6.2,8.9,60.8,55.1
+2023-01-01,Sabah,P.169 Kota Belud,N.09 Tempasuk,8.3,7.6,0.7,5.3,8.3,61.2,55.9
+2021-01-01,Sabah,P.169 Kota Belud,N.10 Usukan,16.6,14.6,2.0,10.8,12.0,60.4,53.3
+2022-01-01,Sabah,P.169 Kota Belud,N.10 Usukan,16.9,15.0,1.9,10.7,11.0,61.3,54.3
+2023-01-01,Sabah,P.169 Kota Belud,N.10 Usukan,14.9,13.4,1.6,9.3,10.5,61.6,55.4
+2021-01-01,Sabah,P.169 Kota Belud,N.11 Kadamaian,17.6,16.3,1.3,9.3,7.3,65.4,60.6
+2022-01-01,Sabah,P.169 Kota Belud,N.11 Kadamaian,17.8,16.6,1.2,9.1,6.6,66.1,61.7
+2023-01-01,Sabah,P.169 Kota Belud,N.11 Kadamaian,14.5,13.4,1.1,7.8,7.3,64.9,60.1
+2021-01-01,Sabah,P.170 Tuaran,N.12 Sulaman,14.8,13.8,0.9,8.7,6.4,63.0,58.7
+2022-01-01,Sabah,P.170 Tuaran,N.12 Sulaman,14.9,14.0,0.9,8.6,6.2,63.5,59.6
+2023-01-01,Sabah,P.170 Tuaran,N.12 Sulaman,13.6,12.8,0.8,8.0,6.2,63.1,59.3
+2021-01-01,Sabah,P.170 Tuaran,N.13 Pantai Dalit,24.9,23.4,1.5,12.6,6.1,66.4,62.4
+2022-01-01,Sabah,P.170 Tuaran,N.13 Pantai Dalit,25.1,23.7,1.4,12.6,5.5,66.6,62.9
+2023-01-01,Sabah,P.170 Tuaran,N.13 Pantai Dalit,22.2,21.0,1.2,12.1,5.3,64.6,61.2
+2021-01-01,Sabah,P.170 Tuaran,N.14 Tamparuli,21.6,19.8,1.8,10.5,8.2,67.2,61.7
+2022-01-01,Sabah,P.170 Tuaran,N.14 Tamparuli,21.9,20.3,1.6,10.4,7.3,67.7,62.8
+2023-01-01,Sabah,P.170 Tuaran,N.14 Tamparuli,19.5,18.1,1.4,9.3,7.2,67.8,62.8
+2021-01-01,Sabah,P.170 Tuaran,N.15 Kiulu,10.4,9.9,0.5,6.0,4.7,63.3,60.4
+2022-01-01,Sabah,P.170 Tuaran,N.15 Kiulu,10.5,10.0,0.5,6.0,4.3,63.6,60.6
+2023-01-01,Sabah,P.170 Tuaran,N.15 Kiulu,8.0,7.7,0.3,4.7,4.3,63.3,60.6
+2021-01-01,Sabah,P.171 Sepanggar,N.16 Karambunai,97.5,90.5,7.0,40.8,7.2,70.5,65.4
+2022-01-01,Sabah,P.171 Sepanggar,N.16 Karambunai,98.3,91.9,6.4,40.5,6.5,70.8,66.2
+2023-01-01,Sabah,P.171 Sepanggar,N.16 Karambunai,87.1,81.7,5.4,35.5,6.2,71.1,66.6
+2021-01-01,Sabah,P.171 Sepanggar,N.17 Darau,37.1,34.9,2.2,17.5,6.0,68.0,63.9
+2022-01-01,Sabah,P.171 Sepanggar,N.17 Darau,37.3,35.4,1.9,17.5,5.0,68.1,64.6
+2023-01-01,Sabah,P.171 Sepanggar,N.17 Darau,33.0,31.2,1.7,15.4,5.3,68.2,64.5
+2021-01-01,Sabah,P.171 Sepanggar,N.18 Inanam,72.7,68.7,3.9,21.1,5.4,77.5,73.2
+2022-01-01,Sabah,P.171 Sepanggar,N.18 Inanam,73.1,69.8,3.3,21.1,4.5,77.6,74.1
+2023-01-01,Sabah,P.171 Sepanggar,N.18 Inanam,63.3,60.5,2.8,19.4,4.5,76.5,73.2
+2021-01-01,Sabah,P.172 Kota Kinabalu,N.19 Likas,25.1,23.1,2.0,9.6,8.0,72.3,66.6
+2022-01-01,Sabah,P.172 Kota Kinabalu,N.19 Likas,24.9,23.1,1.8,9.3,7.3,72.9,67.5
+2023-01-01,Sabah,P.172 Kota Kinabalu,N.19 Likas,21.8,20.3,1.5,9.6,7.0,69.5,64.6
+2021-01-01,Sabah,P.172 Kota Kinabalu,N.20 Api-Api,16.7,15.6,1.1,4.8,6.7,77.7,72.6
+2022-01-01,Sabah,P.172 Kota Kinabalu,N.20 Api-Api,16.1,15.1,1.0,4.5,6.3,78.1,73.3
+2023-01-01,Sabah,P.172 Kota Kinabalu,N.20 Api-Api,12.6,11.8,0.8,4.0,6.3,76.1,71.1
+2021-01-01,Sabah,P.172 Kota Kinabalu,N.21 Luyang,37.2,34.9,2.3,12.4,6.2,75.0,70.4
+2022-01-01,Sabah,P.172 Kota Kinabalu,N.21 Luyang,37.2,35.1,2.1,12.1,5.7,75.4,71.2
+2023-01-01,Sabah,P.172 Kota Kinabalu,N.21 Luyang,28.7,26.9,1.8,10.8,6.3,72.6,68.1
+2021-01-01,Sabah,P.173 Putatan,N.22 Tanjung Aru,22.6,21.3,1.4,7.5,6.0,75.2,70.8
+2022-01-01,Sabah,P.173 Putatan,N.22 Tanjung Aru,23.0,21.8,1.2,7.4,5.4,75.6,71.7
+2023-01-01,Sabah,P.173 Putatan,N.22 Tanjung Aru,19.5,18.4,1.2,7.1,6.0,73.4,69.2
+2021-01-01,Sabah,P.173 Putatan,N.23 Petagas,23.4,21.7,1.8,7.0,7.6,77.1,71.4
+2022-01-01,Sabah,P.173 Putatan,N.23 Petagas,23.8,22.1,1.7,6.9,7.1,77.5,72.0
+2023-01-01,Sabah,P.173 Putatan,N.23 Petagas,20.4,18.9,1.5,6.5,7.2,75.8,70.3
+2021-01-01,Sabah,P.173 Putatan,N.24 Tanjung Keramat,25.3,22.9,2.3,10.1,9.3,71.4,64.7
+2022-01-01,Sabah,P.173 Putatan,N.24 Tanjung Keramat,25.6,23.4,2.2,10.1,8.6,71.7,65.5
+2023-01-01,Sabah,P.173 Putatan,N.24 Tanjung Keramat,22.0,20.1,1.9,9.4,8.8,70.2,64.0
+2021-01-01,Sabah,P.174 Penampang,N.25 Kapayan,68.5,63.0,5.5,34.0,8.0,66.8,61.5
+2022-01-01,Sabah,P.174 Penampang,N.25 Kapayan,69.2,63.9,5.2,34.1,7.6,67.0,61.9
+2023-01-01,Sabah,P.174 Penampang,N.25 Kapayan,62.1,57.3,4.9,29.2,7.8,68.0,62.8
+2021-01-01,Sabah,P.174 Penampang,N.26 Moyog,36.2,31.9,4.3,15.5,11.8,70.0,61.7
+2022-01-01,Sabah,P.174 Penampang,N.26 Moyog,36.6,32.6,4.0,15.5,11.0,70.3,62.6
+2023-01-01,Sabah,P.174 Penampang,N.26 Moyog,32.3,28.7,3.6,13.7,11.1,70.2,62.4
+2021-01-01,Sabah,P.175 Papar,N.27 Limbahau,18.3,16.4,1.9,9.5,10.3,65.8,59.0
+2022-01-01,Sabah,P.175 Papar,N.27 Limbahau,18.1,16.3,1.7,9.1,9.6,66.5,59.9
+2023-01-01,Sabah,P.175 Papar,N.27 Limbahau,15.9,14.4,1.5,8.4,9.4,65.6,59.3
+2021-01-01,Sabah,P.175 Papar,N.28 Kawang,30.1,28.2,1.9,14.9,6.4,66.9,62.7
+2022-01-01,Sabah,P.175 Papar,N.28 Kawang,29.9,28.2,1.7,14.5,5.7,67.3,63.5
+2023-01-01,Sabah,P.175 Papar,N.28 Kawang,25.9,24.4,1.5,12.9,5.9,66.7,62.9
+2021-01-01,Sabah,P.175 Papar,N.29 Pantai Manis,15.7,14.5,1.2,6.6,7.7,70.2,65.0
+2022-01-01,Sabah,P.175 Papar,N.29 Pantai Manis,15.3,14.2,1.1,6.2,6.9,71.2,66.0
+2023-01-01,Sabah,P.175 Papar,N.29 Pantai Manis,12.7,11.8,0.9,5.5,7.2,69.7,64.8
+2021-01-01,Sabah,P.176 Kimanis,N.30 Bongawan,19.4,17.7,1.7,10.5,8.8,64.9,59.2
+2022-01-01,Sabah,P.176 Kimanis,N.30 Bongawan,19.4,17.8,1.6,10.2,8.2,65.7,60.1
+2023-01-01,Sabah,P.176 Kimanis,N.30 Bongawan,16.2,14.9,1.3,9.3,8.2,63.6,58.4
+2021-01-01,Sabah,P.176 Kimanis,N.31 Membakut,12.3,11.8,0.5,5.0,4.4,71.1,68.2
+2022-01-01,Sabah,P.176 Kimanis,N.31 Membakut,11.8,11.4,0.4,4.6,3.7,72.0,69.5
+2023-01-01,Sabah,P.176 Kimanis,N.31 Membakut,9.3,8.9,0.4,3.7,3.9,71.6,68.5
+2021-01-01,Sabah,P.177 Beaufort,N.32 Klias,18.0,16.7,1.4,7.8,7.5,69.7,64.7
+2022-01-01,Sabah,P.177 Beaufort,N.32 Klias,17.8,16.6,1.2,7.4,6.8,70.5,65.9
+2023-01-01,Sabah,P.177 Beaufort,N.32 Klias,14.4,13.5,1.0,6.1,6.8,70.2,65.9
+2021-01-01,Sabah,P.177 Beaufort,N.33 Kuala Penyu,12.7,12.1,0.6,7.4,4.9,63.3,60.2
+2022-01-01,Sabah,P.177 Beaufort,N.33 Kuala Penyu,12.4,11.8,0.6,7.1,4.8,63.5,60.5
+2023-01-01,Sabah,P.177 Beaufort,N.33 Kuala Penyu,10.7,10.2,0.5,6.0,5.1,64.2,61.1
+2021-01-01,Sabah,P.178 Sipitang,N.34 Lumadan,16.1,15.1,1.0,8.8,5.9,64.6,60.6
+2022-01-01,Sabah,P.178 Sipitang,N.34 Lumadan,15.5,14.6,0.9,8.4,5.5,64.8,61.1
+2023-01-01,Sabah,P.178 Sipitang,N.34 Lumadan,13.2,12.4,0.7,6.9,5.6,65.5,61.7
+2021-01-01,Sabah,P.178 Sipitang,N.35 Sindumin,20.9,19.4,1.5,10.0,7.2,67.7,62.8
+2022-01-01,Sabah,P.178 Sipitang,N.35 Sindumin,20.4,19.1,1.3,9.5,6.6,68.2,63.9
+2023-01-01,Sabah,P.178 Sipitang,N.35 Sindumin,18.4,17.1,1.2,8.5,6.8,68.3,63.6
+2021-01-01,Sabah,P.179 Ranau,N.36 Kundasang,26.2,23.4,2.8,8.3,10.8,76.0,67.8
+2022-01-01,Sabah,P.179 Ranau,N.36 Kundasang,25.7,23.2,2.5,7.8,9.7,76.7,69.3
+2023-01-01,Sabah,P.179 Ranau,N.36 Kundasang,17.4,15.8,1.7,5.6,9.6,75.7,68.7
+2021-01-01,Sabah,P.179 Ranau,N.37 Karanaan,17.6,16.6,1.0,5.5,5.8,76.4,71.9
+2022-01-01,Sabah,P.179 Ranau,N.37 Karanaan,16.9,16.0,0.9,5.0,5.4,77.1,73.1
+2023-01-01,Sabah,P.179 Ranau,N.37 Karanaan,12.1,11.5,0.7,4.0,5.5,75.0,71.4
+2021-01-01,Sabah,P.179 Ranau,N.38 Paginatan,26.8,24.6,2.1,9.9,8.0,73.1,67.0
+2022-01-01,Sabah,P.179 Ranau,N.38 Paginatan,26.2,24.4,1.8,9.4,7.0,73.5,68.5
+2023-01-01,Sabah,P.179 Ranau,N.38 Paginatan,18.4,17.1,1.3,7.1,7.0,72.2,67.1
+2021-01-01,Sabah,P.180 Keningau,N.39 Tambunan,16.3,15.3,1.0,9.4,6.2,63.4,59.5
+2022-01-01,Sabah,P.180 Keningau,N.39 Tambunan,15.6,14.7,0.9,8.9,5.9,63.7,60.0
+2023-01-01,Sabah,P.180 Keningau,N.39 Tambunan,13.8,12.9,0.8,7.9,6.0,63.6,59.4
+2021-01-01,Sabah,P.180 Keningau,N.40 Bingkor,20.7,18.8,1.9,11.8,9.0,63.8,57.8
+2022-01-01,Sabah,P.180 Keningau,N.40 Bingkor,20.3,18.6,1.7,11.1,8.3,64.7,59.2
+2023-01-01,Sabah,P.180 Keningau,N.40 Bingkor,17.6,16.1,1.5,9.8,8.3,64.1,58.8
+2021-01-01,Sabah,P.180 Keningau,N.41 Liawan,31.5,29.6,1.9,20.2,5.9,60.9,57.3
+2022-01-01,Sabah,P.180 Keningau,N.41 Liawan,31.5,29.8,1.7,19.6,5.5,61.6,58.3
+2023-01-01,Sabah,P.180 Keningau,N.41 Liawan,27.4,25.8,1.5,16.2,5.6,62.8,59.2
+2021-01-01,Sabah,P.181 Tenom,N.42 Melalap,14.7,13.8,0.9,8.3,5.9,63.9,60.0
+2022-01-01,Sabah,P.181 Tenom,N.42 Melalap,14.1,13.4,0.8,7.6,5.4,64.9,61.8
+2023-01-01,Sabah,P.181 Tenom,N.42 Melalap,11.9,11.2,0.7,6.3,5.6,65.5,61.5
+2021-01-01,Sabah,P.181 Tenom,N.43 Kemabong,14.0,13.0,1.0,9.0,7.4,60.9,56.5
+2022-01-01,Sabah,P.181 Tenom,N.43 Kemabong,13.4,12.5,0.9,8.3,6.9,61.7,57.6
+2023-01-01,Sabah,P.181 Tenom,N.43 Kemabong,11.3,10.5,0.8,6.9,7.1,61.9,57.7
+2021-01-01,Sabah,P.182 Pensiangan,N.44 Tulid,13.0,12.1,0.9,6.7,7.1,65.8,61.4
+2022-01-01,Sabah,P.182 Pensiangan,N.44 Tulid,12.8,11.9,0.8,6.4,6.5,66.6,62.0
+2023-01-01,Sabah,P.182 Pensiangan,N.44 Tulid,9.5,8.9,0.6,4.9,6.7,65.9,61.8
+2021-01-01,Sabah,P.182 Pensiangan,N.45 Sook,24.6,22.7,1.9,8.5,7.6,74.3,68.6
+2022-01-01,Sabah,P.182 Pensiangan,N.45 Sook,24.0,22.4,1.7,8.2,7.0,74.6,69.6
+2023-01-01,Sabah,P.182 Pensiangan,N.45 Sook,17.8,16.5,1.3,6.6,7.1,72.9,67.6
+2021-01-01,Sabah,P.182 Pensiangan,N.46 Nabawan,20.5,18.8,1.7,9.2,8.1,69.0,63.3
+2022-01-01,Sabah,P.182 Pensiangan,N.46 Nabawan,20.1,18.6,1.5,8.8,7.5,69.6,64.4
+2023-01-01,Sabah,P.182 Pensiangan,N.46 Nabawan,15.2,14.1,1.1,6.5,7.4,70.0,65.0
+2021-01-01,Sabah,P.183 Beluran,N.47 Telupid,21.5,19.7,1.8,6.7,8.2,76.2,69.9
+2022-01-01,Sabah,P.183 Beluran,N.47 Telupid,21.9,20.3,1.6,6.8,7.3,76.4,70.7
+2023-01-01,Sabah,P.183 Beluran,N.47 Telupid,19.2,17.9,1.4,6.8,7.2,73.8,68.8
+2021-01-01,Sabah,P.183 Beluran,N.48 Sugut,26.6,24.6,1.9,10.2,7.2,72.3,66.8
+2022-01-01,Sabah,P.183 Beluran,N.48 Sugut,27.0,25.3,1.7,10.2,6.3,72.5,68.0
+2023-01-01,Sabah,P.183 Beluran,N.48 Sugut,20.6,19.3,1.3,8.4,6.3,71.0,66.6
+2021-01-01,Sabah,P.183 Beluran,N.49 Labuk,18.2,16.4,1.7,6.8,9.6,72.8,65.6
+2022-01-01,Sabah,P.183 Beluran,N.49 Labuk,18.5,16.9,1.6,6.8,8.7,73.1,66.8
+2023-01-01,Sabah,P.183 Beluran,N.49 Labuk,14.5,13.3,1.3,5.5,8.6,72.5,66.5
+2021-01-01,Sabah,P.184 Libaran,N.50 Gum-Gum,47.6,43.9,3.6,13.3,7.6,78.2,72.1
+2022-01-01,Sabah,P.184 Libaran,N.50 Gum-Gum,48.3,44.9,3.4,13.3,7.1,78.4,72.9
+2023-01-01,Sabah,P.184 Libaran,N.50 Gum-Gum,40.1,37.3,2.9,12.6,7.2,76.1,70.8
+2021-01-01,Sabah,P.184 Libaran,N.51 Sungai Manila,13.2,12.4,0.8,5.0,6.2,72.7,68.1
+2022-01-01,Sabah,P.184 Libaran,N.51 Sungai Manila,13.5,12.7,0.7,5.0,5.4,73.0,68.6
+2023-01-01,Sabah,P.184 Libaran,N.51 Sungai Manila,12.5,11.7,0.7,4.7,5.8,72.7,68.0
+2021-01-01,Sabah,P.184 Libaran,N.52 Sungai Sibuga,42.5,39.1,3.5,17.2,8.1,71.2,65.5
+2022-01-01,Sabah,P.184 Libaran,N.52 Sungai Sibuga,43.3,40.1,3.3,17.2,7.5,71.6,66.3
+2023-01-01,Sabah,P.184 Libaran,N.52 Sungai Sibuga,39.0,36.1,2.9,15.2,7.5,71.9,66.6
+2021-01-01,Sabah,P.185 Batu Sapi,N.53 Sekong,59.9,55.3,4.6,19.4,7.7,75.5,69.7
+2022-01-01,Sabah,P.185 Batu Sapi,N.53 Sekong,60.3,56.0,4.3,19.1,7.1,75.9,70.5
+2023-01-01,Sabah,P.185 Batu Sapi,N.53 Sekong,49.3,45.7,3.5,18.0,7.2,73.3,67.9
+2021-01-01,Sabah,P.185 Batu Sapi,N.54 Karamunting,18.0,16.9,1.1,7.4,6.3,70.9,66.5
+2022-01-01,Sabah,P.185 Batu Sapi,N.54 Karamunting,18.1,17.0,1.1,7.4,6.1,71.2,66.7
+2023-01-01,Sabah,P.185 Batu Sapi,N.54 Karamunting,16.9,15.9,1.0,7.0,6.0,70.8,66.5
+2021-01-01,Sabah,P.186 Sandakan,N.55 Elopura,66.7,61.2,5.6,23.5,8.3,74.0,67.8
+2022-01-01,Sabah,P.186 Sandakan,N.55 Elopura,66.0,61.1,4.9,22.6,7.4,74.5,69.0
+2023-01-01,Sabah,P.186 Sandakan,N.55 Elopura,55.6,51.6,4.0,19.8,7.2,73.7,68.4
+2021-01-01,Sabah,P.186 Sandakan,N.56 Tanjong Papat,15.0,14.0,1.0,4.1,6.8,78.6,73.3
+2022-01-01,Sabah,P.186 Sandakan,N.56 Tanjong Papat,13.6,12.8,0.8,3.6,6.0,79.3,74.4
+2023-01-01,Sabah,P.186 Sandakan,N.56 Tanjong Papat,11.7,10.9,0.8,3.5,6.6,77.0,71.7
+2021-01-01,Sabah,P.187 Kinabatangan,N.57 Kuamut,30.2,26.6,3.6,14.6,11.8,67.4,59.4
+2022-01-01,Sabah,P.187 Kinabatangan,N.57 Kuamut,29.5,26.3,3.2,13.8,10.8,68.1,60.7
+2023-01-01,Sabah,P.187 Kinabatangan,N.57 Kuamut,22.4,20.0,2.4,10.7,10.6,67.7,60.4
+2021-01-01,Sabah,P.187 Kinabatangan,N.58 Lamag,35.3,31.0,4.2,14.5,12.0,70.9,62.2
+2022-01-01,Sabah,P.187 Kinabatangan,N.58 Lamag,35.1,31.2,3.9,13.9,11.1,71.6,63.7
+2023-01-01,Sabah,P.187 Kinabatangan,N.58 Lamag,30.7,27.1,3.5,12.6,11.5,70.9,62.6
+2021-01-01,Sabah,P.187 Kinabatangan,N.59 Sukau,67.4,61.7,5.7,30.1,8.5,69.1,63.3
+2022-01-01,Sabah,P.187 Kinabatangan,N.59 Sukau,67.8,62.4,5.4,30.0,8.0,69.3,63.8
+2023-01-01,Sabah,P.187 Kinabatangan,N.59 Sukau,58.3,53.4,5.0,25.2,8.5,69.8,64.0
+2021-01-01,Sabah,P.188 Lahad Datu,N.60 Tungku,46.3,42.3,3.9,16.5,8.5,73.7,67.4
+2022-01-01,Sabah,P.188 Lahad Datu,N.60 Tungku,47.0,43.4,3.6,16.3,7.6,74.3,68.6
+2023-01-01,Sabah,P.188 Lahad Datu,N.60 Tungku,43.9,40.2,3.7,16.7,8.4,72.4,66.3
+2021-01-01,Sabah,P.188 Lahad Datu,N.61 Segama,52.9,47.5,5.4,24.2,10.1,68.6,61.6
+2022-01-01,Sabah,P.188 Lahad Datu,N.61 Segama,53.5,48.5,5.0,24.2,9.3,68.9,62.4
+2023-01-01,Sabah,P.188 Lahad Datu,N.61 Segama,54.0,49.1,4.9,24.2,9.0,69.0,62.8
+2021-01-01,Sabah,P.188 Lahad Datu,N.62 Silam,23.3,21.1,2.2,8.5,9.4,73.2,66.4
+2022-01-01,Sabah,P.188 Lahad Datu,N.62 Silam,23.8,21.8,2.0,8.4,8.4,73.9,67.7
+2023-01-01,Sabah,P.188 Lahad Datu,N.62 Silam,24.2,22.2,2.0,9.3,8.3,72.2,66.3
+2021-01-01,Sabah,P.188 Lahad Datu,N.63 Kunak,30.6,26.9,3.7,14.0,12.0,68.6,60.3
+2022-01-01,Sabah,P.188 Lahad Datu,N.63 Kunak,30.9,27.5,3.4,14.0,10.9,68.8,61.2
+2023-01-01,Sabah,P.188 Lahad Datu,N.63 Kunak,33.4,29.8,3.5,15.2,10.5,68.7,61.3
+2021-01-01,Sabah,P.189 Semporna,N.64 Sulabayan,13.7,12.4,1.4,9.4,9.9,59.4,53.7
+2022-01-01,Sabah,P.189 Semporna,N.64 Sulabayan,13.9,12.7,1.3,9.4,9.0,59.6,54.5
+2023-01-01,Sabah,P.189 Semporna,N.64 Sulabayan,13.5,12.3,1.2,9.0,8.7,60.1,54.7
+2021-01-01,Sabah,P.189 Semporna,N.65 Senallang,25.2,22.0,3.2,16.7,12.6,60.2,52.5
+2022-01-01,Sabah,P.189 Semporna,N.65 Senallang,25.5,22.6,2.9,16.8,11.5,60.3,53.4
+2023-01-01,Sabah,P.189 Semporna,N.65 Senallang,23.6,20.9,2.7,14.7,11.4,61.7,54.6
+2021-01-01,Sabah,P.189 Semporna,N.66 Bugaya,33.0,30.3,2.7,16.1,8.2,67.2,61.7
+2022-01-01,Sabah,P.189 Semporna,N.66 Bugaya,33.5,31.0,2.5,16.2,7.4,67.4,62.4
+2023-01-01,Sabah,P.189 Semporna,N.66 Bugaya,34.5,31.8,2.7,16.4,7.9,67.8,62.5
+2021-01-01,Sabah,P.190 Tawau,N.67 Balung,44.8,41.0,3.7,13.9,8.3,76.3,69.8
+2022-01-01,Sabah,P.190 Tawau,N.67 Balung,45.5,42.0,3.5,13.8,7.8,76.7,70.8
+2023-01-01,Sabah,P.190 Tawau,N.67 Balung,38.7,35.8,2.9,13.3,7.5,74.4,68.8
+2021-01-01,Sabah,P.190 Tawau,N.68 Apas,56.5,52.3,4.2,18.4,7.5,75.4,69.8
+2022-01-01,Sabah,P.190 Tawau,N.68 Apas,58.0,54.1,3.9,17.9,6.7,76.4,71.3
+2023-01-01,Sabah,P.190 Tawau,N.68 Apas,53.3,49.8,3.5,18.9,6.6,73.8,69.0
+2021-01-01,Sabah,P.190 Tawau,N.69 Sri Tanjong,41.8,39.3,2.5,12.9,6.0,76.5,71.8
+2022-01-01,Sabah,P.190 Tawau,N.69 Sri Tanjong,42.6,40.2,2.4,12.4,5.6,77.4,73.1
+2023-01-01,Sabah,P.190 Tawau,N.69 Sri Tanjong,32.9,31.1,1.8,10.8,5.5,75.4,71.2
+2021-01-01,Sabah,P.191 Kalabakan,N.70 Kukusan,17.6,15.3,2.3,7.9,12.9,69.0,60.0
+2022-01-01,Sabah,P.191 Kalabakan,N.70 Kukusan,17.8,15.7,2.1,7.9,11.7,69.2,61.1
+2023-01-01,Sabah,P.191 Kalabakan,N.70 Kukusan,15.2,13.5,1.7,6.6,11.0,69.8,61.9
+2021-01-01,Sabah,P.191 Kalabakan,N.71 Tanjung Batu,20.7,18.0,2.7,10.5,13.1,66.3,57.7
+2022-01-01,Sabah,P.191 Kalabakan,N.71 Tanjung Batu,21.0,18.5,2.5,10.5,12.0,66.8,58.7
+2023-01-01,Sabah,P.191 Kalabakan,N.71 Tanjung Batu,20.6,18.1,2.5,9.7,12.1,68.0,59.7
+2021-01-01,Sabah,P.191 Kalabakan,N.72 Merotai,33.0,29.8,3.1,16.2,9.5,67.1,60.6
+2022-01-01,Sabah,P.191 Kalabakan,N.72 Merotai,33.7,30.9,2.8,15.9,8.4,68.0,62.3
+2023-01-01,Sabah,P.191 Kalabakan,N.72 Merotai,32.1,29.5,2.6,14.8,8.1,68.4,62.9
+2021-01-01,Sabah,P.191 Kalabakan,N.73 Sebatik,30.6,27.9,2.7,11.4,8.7,72.8,66.4
+2022-01-01,Sabah,P.191 Kalabakan,N.73 Sebatik,31.2,28.8,2.4,11.2,7.6,73.5,67.9
+2023-01-01,Sabah,P.191 Kalabakan,N.73 Sebatik,28.8,26.7,2.1,10.6,7.2,73.0,67.8
+2021-01-01,Sarawak,P.192 Mas Gading,N.01 Opar,12.2,11.9,0.4,5.6,2.9,68.5,66.9
+2022-01-01,Sarawak,P.192 Mas Gading,N.01 Opar,12.3,11.9,0.3,5.5,2.7,69.0,66.9
+2023-01-01,Sarawak,P.192 Mas Gading,N.01 Opar,10.9,10.6,0.3,4.7,3.1,70.0,67.9
+2021-01-01,Sarawak,P.192 Mas Gading,N.02 Tasik Biru,16.1,15.6,0.6,8.5,3.5,65.4,63.4
+2022-01-01,Sarawak,P.192 Mas Gading,N.02 Tasik Biru,16.4,15.9,0.5,8.5,3.3,65.8,63.9
+2023-01-01,Sarawak,P.192 Mas Gading,N.02 Tasik Biru,14.4,13.8,0.6,7.2,3.9,66.6,63.9
+2021-01-01,Sarawak,P.193 Santubong,N.03 Tanjong Datu,8.0,7.8,0.2,4.6,2.5,63.7,61.9
+2022-01-01,Sarawak,P.193 Santubong,N.03 Tanjong Datu,8.3,8.1,0.2,4.4,2.3,65.5,63.8
+2023-01-01,Sarawak,P.193 Santubong,N.03 Tanjong Datu,7.4,7.2,0.2,3.7,3.2,66.7,64.9
+2021-01-01,Sarawak,P.193 Santubong,N.04 Pantai Damai,28.6,27.2,1.3,16.7,4.7,63.1,60.0
+2022-01-01,Sarawak,P.193 Santubong,N.04 Pantai Damai,29.2,28.1,1.2,16.5,4.0,63.9,61.5
+2023-01-01,Sarawak,P.193 Santubong,N.04 Pantai Damai,26.3,25.4,0.9,14.2,3.5,65.0,62.7
+2021-01-01,Sarawak,P.193 Santubong,N.05 Demak Laut,25.1,24.1,1.1,11.8,4.2,68.1,65.3
+2022-01-01,Sarawak,P.193 Santubong,N.05 Demak Laut,25.6,24.6,1.0,11.2,4.0,69.7,66.8
+2023-01-01,Sarawak,P.193 Santubong,N.05 Demak Laut,23.6,22.8,0.9,9.7,3.6,70.9,68.5
+2021-01-01,Sarawak,P.194 Petra Jaya,N.06 Tupong,48.4,46.7,1.7,26.7,3.5,64.4,62.2
+2022-01-01,Sarawak,P.194 Petra Jaya,N.06 Tupong,49.1,47.8,1.3,25.6,2.7,65.7,64.0
+2023-01-01,Sarawak,P.194 Petra Jaya,N.06 Tupong,45.6,44.4,1.2,22.1,2.7,67.4,65.6
+2021-01-01,Sarawak,P.194 Petra Jaya,N.07 Samariang,24.0,22.5,1.5,12.6,6.2,65.6,61.5
+2022-01-01,Sarawak,P.194 Petra Jaya,N.07 Samariang,24.7,23.1,1.6,12.5,6.6,66.5,62.1
+2023-01-01,Sarawak,P.194 Petra Jaya,N.07 Samariang,21.9,20.9,1.0,10.4,4.6,67.8,64.7
+2021-01-01,Sarawak,P.194 Petra Jaya,N.08 Satok,7.9,7.6,0.3,3.7,3.2,67.9,65.5
+2022-01-01,Sarawak,P.194 Petra Jaya,N.08 Satok,8.5,8.3,0.2,3.7,2.3,69.6,68.0
+2023-01-01,Sarawak,P.194 Petra Jaya,N.08 Satok,7.4,7.2,0.2,3.1,2.5,70.6,68.6
+2021-01-01,Sarawak,P.195 Bandar Kuching,N.09 Padungan,7.4,7.1,0.2,3.8,3.2,65.9,63.4
+2022-01-01,Sarawak,P.195 Bandar Kuching,N.09 Padungan,7.6,7.4,0.2,3.7,2.8,67.4,65.5
+2023-01-01,Sarawak,P.195 Bandar Kuching,N.09 Padungan,7.1,6.9,0.2,3.3,2.6,68.4,66.3
+2021-01-01,Sarawak,P.195 Bandar Kuching,N.10 Pending,20.0,19.3,0.7,9.9,3.5,66.9,64.5
+2022-01-01,Sarawak,P.195 Bandar Kuching,N.10 Pending,20.4,19.7,0.7,9.7,3.3,67.9,65.4
+2023-01-01,Sarawak,P.195 Bandar Kuching,N.10 Pending,18.4,17.8,0.6,8.2,3.1,69.2,66.9
+2021-01-01,Sarawak,P.195 Bandar Kuching,N.11 Batu Lintang,31.8,30.0,1.8,18.2,5.6,63.7,60.0
+2022-01-01,Sarawak,P.195 Bandar Kuching,N.11 Batu Lintang,32.2,30.5,1.6,17.9,5.1,64.3,60.9
+2023-01-01,Sarawak,P.195 Bandar Kuching,N.11 Batu Lintang,29.8,28.5,1.3,15.5,4.5,65.8,62.9
+2021-01-01,Sarawak,P.196 Stampin,N.12 Kota Sentosa,37.1,35.3,1.7,15.6,4.7,70.4,67.0
+2022-01-01,Sarawak,P.196 Stampin,N.12 Kota Sentosa,37.6,36.2,1.4,15.3,3.7,71.1,68.4
+2023-01-01,Sarawak,P.196 Stampin,N.12 Kota Sentosa,35.0,33.8,1.2,13.3,3.5,72.5,70.0
+2021-01-01,Sarawak,P.196 Stampin,N.13 Batu Kitang,32.1,30.0,2.1,15.0,6.5,68.1,63.7
+2022-01-01,Sarawak,P.196 Stampin,N.13 Batu Kitang,32.6,30.7,1.9,14.6,5.9,69.1,65.0
+2023-01-01,Sarawak,P.196 Stampin,N.13 Batu Kitang,30.1,28.6,1.5,12.6,5.1,70.6,67.0
+2021-01-01,Sarawak,P.196 Stampin,N.14 Batu Kawah,44.9,42.4,2.5,25.6,5.5,63.7,60.1
+2022-01-01,Sarawak,P.196 Stampin,N.14 Batu Kawah,45.5,43.2,2.3,25.6,5.0,63.9,60.8
+2023-01-01,Sarawak,P.196 Stampin,N.14 Batu Kawah,42.2,40.2,2.0,22.2,4.6,65.5,62.4
+2021-01-01,Sarawak,P.197 Kota Samarahan,N.15 Asajaya,9.0,8.8,0.3,6.0,3.0,60.1,58.7
+2022-01-01,Sarawak,P.197 Kota Samarahan,N.15 Asajaya,9.6,9.3,0.2,5.7,2.5,62.5,60.8
+2023-01-01,Sarawak,P.197 Kota Samarahan,N.15 Asajaya,8.7,8.5,0.2,4.9,2.4,63.7,62.5
+2021-01-01,Sarawak,P.197 Kota Samarahan,N.16 Muara Tuang,37.0,34.7,2.3,17.2,6.2,68.3,64.0
+2022-01-01,Sarawak,P.197 Kota Samarahan,N.16 Muara Tuang,37.8,35.7,2.0,16.5,5.4,69.5,65.7
+2023-01-01,Sarawak,P.197 Kota Samarahan,N.16 Muara Tuang,36.2,34.6,1.6,15.4,4.5,70.1,67.1
+2021-01-01,Sarawak,P.197 Kota Samarahan,N.17 Stakan,37.0,35.5,1.5,21.2,4.0,63.5,61.0
+2022-01-01,Sarawak,P.197 Kota Samarahan,N.17 Stakan,37.7,36.5,1.3,20.9,3.3,64.4,62.3
+2023-01-01,Sarawak,P.197 Kota Samarahan,N.17 Stakan,34.7,33.8,0.9,18.4,2.7,65.3,63.7
+2021-01-01,Sarawak,P.198 Puncak Borneo,N.18 Serembu,9.3,8.8,0.5,4.8,5.0,65.9,62.4
+2022-01-01,Sarawak,P.198 Puncak Borneo,N.18 Serembu,9.5,9.1,0.4,4.9,4.1,66.1,63.2
+2023-01-01,Sarawak,P.198 Puncak Borneo,N.18 Serembu,8.3,8.0,0.3,4.0,3.7,67.5,65.0
+2021-01-01,Sarawak,P.198 Puncak Borneo,N.19 Mambong,20.4,18.9,1.5,10.9,7.5,65.1,60.4
+2022-01-01,Sarawak,P.198 Puncak Borneo,N.19 Mambong,20.5,19.2,1.4,10.9,6.6,65.2,61.1
+2023-01-01,Sarawak,P.198 Puncak Borneo,N.19 Mambong,18.0,17.0,1.0,9.1,5.8,66.4,62.7
+2021-01-01,Sarawak,P.198 Puncak Borneo,N.20 Tarat,13.3,12.7,0.5,7.4,4.0,64.2,61.4
+2022-01-01,Sarawak,P.198 Puncak Borneo,N.20 Tarat,13.4,12.9,0.5,7.3,4.0,64.9,62.3
+2023-01-01,Sarawak,P.198 Puncak Borneo,N.20 Tarat,11.8,11.4,0.5,6.1,3.8,65.9,63.7
+2021-01-01,Sarawak,P.199 Serian,N.21 Tebedu,13.3,12.4,0.9,7.1,6.4,65.1,60.8
+2022-01-01,Sarawak,P.199 Serian,N.21 Tebedu,13.4,12.7,0.7,7.1,5.2,65.5,62.0
+2023-01-01,Sarawak,P.199 Serian,N.21 Tebedu,10.3,9.8,0.6,5.2,5.6,66.4,63.2
+2021-01-01,Sarawak,P.199 Serian,N.22 Kedup,10.3,9.6,0.7,5.6,6.8,64.6,60.4
+2022-01-01,Sarawak,P.199 Serian,N.22 Kedup,10.4,9.8,0.6,5.5,5.7,65.5,61.6
+2023-01-01,Sarawak,P.199 Serian,N.22 Kedup,8.7,8.3,0.4,4.3,5.1,66.8,63.8
+2021-01-01,Sarawak,P.199 Serian,N.23 Bukit Semuja,11.0,10.6,0.5,6.4,4.3,63.2,60.9
+2022-01-01,Sarawak,P.199 Serian,N.23 Bukit Semuja,11.2,10.8,0.4,6.4,3.4,63.6,61.4
+2023-01-01,Sarawak,P.199 Serian,N.23 Bukit Semuja,9.9,9.6,0.3,5.4,3.4,64.7,62.7
+2021-01-01,Sarawak,P.200 Batang Sadong,N.24 Sadong Jaya,5.6,5.5,0.1,2.6,2.5,68.4,67.1
+2022-01-01,Sarawak,P.200 Batang Sadong,N.24 Sadong Jaya,5.7,5.7,0.1,2.5,1.4,69.3,69.5
+2023-01-01,Sarawak,P.200 Batang Sadong,N.24 Sadong Jaya,5.2,5.1,0.1,2.2,1.2,70.2,68.9
+2021-01-01,Sarawak,P.200 Batang Sadong,N.25 Simunjan,6.9,6.6,0.2,3.0,3.6,69.9,66.7
+2022-01-01,Sarawak,P.200 Batang Sadong,N.25 Simunjan,7.0,6.8,0.2,2.9,2.3,70.6,68.7
+2023-01-01,Sarawak,P.200 Batang Sadong,N.25 Simunjan,6.1,6.0,0.1,2.5,1.7,71.1,69.8
+2021-01-01,Sarawak,P.200 Batang Sadong,N.26 Gedong,6.3,6.0,0.4,2.5,6.1,71.4,68.2
+2022-01-01,Sarawak,P.200 Batang Sadong,N.26 Gedong,6.3,5.9,0.3,2.7,5.1,70.0,65.6
+2023-01-01,Sarawak,P.200 Batang Sadong,N.26 Gedong,5.3,5.1,0.3,2.2,4.7,70.9,68.0
+2021-01-01,Sarawak,P.201 Batang Lupar,N.27 Sebuyau,6.3,6.1,0.3,2.7,3.9,69.8,67.8
+2022-01-01,Sarawak,P.201 Batang Lupar,N.27 Sebuyau,6.1,6.0,0.2,2.7,2.8,69.5,68.2
+2023-01-01,Sarawak,P.201 Batang Lupar,N.27 Sebuyau,5.5,5.4,0.1,2.5,2.6,69.0,67.5
+2021-01-01,Sarawak,P.201 Batang Lupar,N.28 Lingga,5.7,5.3,0.3,2.5,5.9,69.3,64.6
+2022-01-01,Sarawak,P.201 Batang Lupar,N.28 Lingga,5.5,5.3,0.3,2.3,4.7,70.4,67.9
+2023-01-01,Sarawak,P.201 Batang Lupar,N.28 Lingga,4.9,4.7,0.2,2.1,4.4,70.3,67.1
+2021-01-01,Sarawak,P.201 Batang Lupar,N.29 Beting Maro,8.2,8.0,0.2,3.7,2.9,68.9,67.2
+2022-01-01,Sarawak,P.201 Batang Lupar,N.29 Beting Maro,8.0,7.8,0.2,3.6,2.0,68.9,67.2
+2023-01-01,Sarawak,P.201 Batang Lupar,N.29 Beting Maro,7.0,6.9,0.1,3.3,1.6,68.2,67.0
+2021-01-01,Sarawak,P.202 Sri Aman,N.30 Balai Ringin,8.7,8.4,0.3,3.8,3.2,69.5,67.2
+2022-01-01,Sarawak,P.202 Sri Aman,N.30 Balai Ringin,8.9,8.6,0.2,3.7,2.6,70.5,68.3
+2023-01-01,Sarawak,P.202 Sri Aman,N.30 Balai Ringin,7.4,7.2,0.2,3.0,2.5,71.1,69.2
+2021-01-01,Sarawak,P.202 Sri Aman,N.31 Bukit Begunan,10.0,9.6,0.4,4.1,3.9,70.9,68.1
+2022-01-01,Sarawak,P.202 Sri Aman,N.31 Bukit Begunan,10.2,9.9,0.4,4.0,3.6,72.1,69.7
+2023-01-01,Sarawak,P.202 Sri Aman,N.31 Bukit Begunan,9.2,8.9,0.3,3.4,3.2,73.1,70.6
+2021-01-01,Sarawak,P.202 Sri Aman,N.32 Simanggang,17.1,16.2,0.9,7.3,5.0,70.1,66.4
+2022-01-01,Sarawak,P.202 Sri Aman,N.32 Simanggang,17.3,16.6,0.7,7.1,4.3,70.8,68.0
+2023-01-01,Sarawak,P.202 Sri Aman,N.32 Simanggang,14.9,14.4,0.5,5.9,3.5,71.8,69.2
+2021-01-01,Sarawak,P.203 Lubok Antu,N.33 Engkilili,6.9,6.6,0.2,3.2,3.3,67.9,65.3
+2022-01-01,Sarawak,P.203 Lubok Antu,N.33 Engkilili,7.0,6.8,0.2,3.1,2.3,69.1,67.3
+2023-01-01,Sarawak,P.203 Lubok Antu,N.33 Engkilili,6.1,6.0,0.1,2.6,2.0,70.2,69.0
+2021-01-01,Sarawak,P.203 Lubok Antu,N.34 Batang Ai,7.8,7.5,0.3,3.6,4.0,68.4,65.8
+2022-01-01,Sarawak,P.203 Lubok Antu,N.34 Batang Ai,8.0,7.7,0.3,3.6,3.3,69.1,66.4
+2023-01-01,Sarawak,P.203 Lubok Antu,N.34 Batang Ai,6.9,6.8,0.2,2.9,2.7,70.6,69.4
+2021-01-01,Sarawak,P.204 Betong,N.35 Saribas,6.3,6.1,0.3,3.1,4.3,67.1,64.9
+2022-01-01,Sarawak,P.204 Betong,N.35 Saribas,6.4,6.1,0.2,3.1,3.6,67.0,64.2
+2023-01-01,Sarawak,P.204 Betong,N.35 Saribas,5.2,5.1,0.2,2.7,3.3,66.4,64.6
+2021-01-01,Sarawak,P.204 Betong,N.36 Layar,6.6,6.2,0.5,4.4,7.1,60.2,56.4
+2022-01-01,Sarawak,P.204 Betong,N.36 Layar,6.6,6.1,0.5,4.4,7.5,60.0,55.5
+2023-01-01,Sarawak,P.204 Betong,N.36 Layar,5.7,5.5,0.3,3.6,4.9,61.3,59.1
+2021-01-01,Sarawak,P.204 Betong,N.37 Bukit Saban,4.9,4.7,0.2,3.3,4.2,59.8,57.3
+2022-01-01,Sarawak,P.204 Betong,N.37 Bukit Saban,5.0,4.8,0.2,3.2,4.3,60.8,58.5
+2023-01-01,Sarawak,P.204 Betong,N.37 Bukit Saban,4.5,4.3,0.2,2.8,3.7,62.1,58.9
+2021-01-01,Sarawak,P.205 Saratok,N.38 Kalaka,8.1,7.7,0.4,3.4,5.3,70.5,67.0
+2022-01-01,Sarawak,P.205 Saratok,N.38 Kalaka,8.2,7.9,0.4,3.3,4.6,71.3,68.7
+2023-01-01,Sarawak,P.205 Saratok,N.38 Kalaka,6.8,6.5,0.3,2.6,3.7,72.3,69.1
+2021-01-01,Sarawak,P.205 Saratok,N.39 Krian,9.1,8.8,0.3,5.1,3.4,63.9,62.0
+2022-01-01,Sarawak,P.205 Saratok,N.39 Krian,9.3,9.0,0.2,5.0,2.6,64.8,62.9
+2023-01-01,Sarawak,P.205 Saratok,N.39 Krian,7.6,7.4,0.2,3.9,2.3,66.0,64.3
+2021-01-01,Sarawak,P.205 Saratok,N.40 Kabong,7.6,7.2,0.4,3.1,4.8,71.0,67.3
+2022-01-01,Sarawak,P.205 Saratok,N.40 Kabong,7.7,7.4,0.3,3.0,4.0,71.9,69.2
+2023-01-01,Sarawak,P.205 Saratok,N.40 Kabong,6.7,6.5,0.2,2.5,3.2,72.6,70.7
+2021-01-01,Sarawak,P.206 Tanjong Manis,N.41 Kuala Rajang,10.1,9.7,0.4,5.2,3.6,65.9,63.4
+2022-01-01,Sarawak,P.206 Tanjong Manis,N.41 Kuala Rajang,10.2,10.0,0.3,5.2,2.6,66.3,64.9
+2023-01-01,Sarawak,P.206 Tanjong Manis,N.41 Kuala Rajang,9.1,8.9,0.2,4.3,2.4,67.8,66.4
+2021-01-01,Sarawak,P.206 Tanjong Manis,N.42 Semop,7.6,7.3,0.3,3.8,4.4,66.7,64.0
+2022-01-01,Sarawak,P.206 Tanjong Manis,N.42 Semop,7.7,7.5,0.2,3.8,3.0,67.1,65.2
+2023-01-01,Sarawak,P.206 Tanjong Manis,N.42 Semop,6.8,6.6,0.2,3.1,2.5,68.4,66.7
+2021-01-01,Sarawak,P.207 Igan,N.43 Daro,8.0,7.5,0.5,4.0,6.5,66.9,62.5
+2022-01-01,Sarawak,P.207 Igan,N.43 Daro,8.1,7.6,0.4,4.0,5.3,66.7,62.8
+2023-01-01,Sarawak,P.207 Igan,N.43 Daro,7.1,6.7,0.3,3.3,4.9,68.0,64.4
+2021-01-01,Sarawak,P.207 Igan,N.44 Jemoreng,6.9,6.4,0.5,3.7,6.9,65.5,60.4
+2022-01-01,Sarawak,P.207 Igan,N.44 Jemoreng,7.1,6.6,0.4,3.6,5.8,66.4,61.7
+2023-01-01,Sarawak,P.207 Igan,N.44 Jemoreng,6.1,5.8,0.3,2.9,5.3,67.4,64.4
+2021-01-01,Sarawak,P.208 Sarikei,N.45 Repok,13.3,12.2,1.0,6.4,7.7,67.3,61.9
+2022-01-01,Sarawak,P.208 Sarikei,N.45 Repok,13.4,12.5,0.9,6.3,6.6,67.9,63.5
+2023-01-01,Sarawak,P.208 Sarikei,N.45 Repok,11.5,10.8,0.7,5.6,5.8,67.3,63.2
+2021-01-01,Sarawak,P.208 Sarikei,N.46 Meradong,9.7,9.4,0.4,5.1,3.6,65.5,63.5
+2022-01-01,Sarawak,P.208 Sarikei,N.46 Meradong,9.8,9.6,0.3,5.1,2.7,65.8,64.4
+2023-01-01,Sarawak,P.208 Sarikei,N.46 Meradong,8.6,8.4,0.2,4.5,2.6,65.6,64.1
+2021-01-01,Sarawak,P.209 Julau,N.47 Pakan,9.9,9.4,0.5,3.0,5.0,77.0,72.9
+2022-01-01,Sarawak,P.209 Julau,N.47 Pakan,10.1,9.7,0.4,3.0,3.7,77.1,74.0
+2023-01-01,Sarawak,P.209 Julau,N.47 Pakan,8.9,8.6,0.3,3.3,3.1,73.0,70.5
+2021-01-01,Sarawak,P.209 Julau,N.48 Meluan,9.4,8.8,0.6,4.4,6.6,68.0,63.8
+2022-01-01,Sarawak,P.209 Julau,N.48 Meluan,9.6,9.1,0.5,4.3,5.2,69.0,65.5
+2023-01-01,Sarawak,P.209 Julau,N.48 Meluan,8.5,8.1,0.4,3.9,4.9,68.7,65.3
+2021-01-01,Sarawak,P.210 Kanowit,N.49 Ngemah,5.5,5.3,0.2,2.1,3.7,72.5,69.7
+2022-01-01,Sarawak,P.210 Kanowit,N.49 Ngemah,5.6,5.5,0.1,2.0,2.6,73.9,72.4
+2023-01-01,Sarawak,P.210 Kanowit,N.49 Ngemah,4.9,4.8,0.1,1.8,1.9,73.2,71.6
+2021-01-01,Sarawak,P.210 Kanowit,N.50 Machan,7.1,6.6,0.5,3.8,6.8,65.2,60.6
+2022-01-01,Sarawak,P.210 Kanowit,N.50 Machan,7.2,6.8,0.4,3.7,5.8,66.1,62.4
+2023-01-01,Sarawak,P.210 Kanowit,N.50 Machan,6.5,6.1,0.3,3.4,5.1,65.5,61.6
+2021-01-01,Sarawak,P.211 Lanang,N.51 Bukit Assek,18.2,17.0,1.3,10.9,7.0,62.5,58.4
+2022-01-01,Sarawak,P.211 Lanang,N.51 Bukit Assek,18.7,17.5,1.2,10.8,6.2,63.3,59.3
+2023-01-01,Sarawak,P.211 Lanang,N.51 Bukit Assek,17.7,16.8,0.9,9.6,5.3,64.8,61.5
+2021-01-01,Sarawak,P.211 Lanang,N.52 Dudong,36.2,34.1,2.0,17.2,5.7,67.8,63.9
+2022-01-01,Sarawak,P.211 Lanang,N.52 Dudong,36.6,34.9,1.7,17.0,4.6,68.3,65.1
+2023-01-01,Sarawak,P.211 Lanang,N.52 Dudong,34.0,32.7,1.3,14.8,3.7,69.7,67.0
+2021-01-01,Sarawak,P.212 Sibu,N.53 Bawang Assan,14.0,13.6,0.4,5.7,2.7,71.0,69.0
+2022-01-01,Sarawak,P.212 Sibu,N.53 Bawang Assan,14.5,14.3,0.2,5.5,1.4,72.5,71.5
+2023-01-01,Sarawak,P.212 Sibu,N.53 Bawang Assan,16.0,15.6,0.4,5.7,2.4,73.8,71.9
+2021-01-01,Sarawak,P.212 Sibu,N.54 Pelawan,21.7,21.0,0.6,11.1,2.9,66.0,64.0
+2022-01-01,Sarawak,P.212 Sibu,N.54 Pelawan,22.1,21.8,0.4,10.9,1.6,67.1,66.1
+2023-01-01,Sarawak,P.212 Sibu,N.54 Pelawan,20.7,20.2,0.6,9.5,2.8,68.5,66.9
+2021-01-01,Sarawak,P.212 Sibu,N.55 Nangka,40.8,39.1,1.7,18.8,4.3,68.4,65.6
+2022-01-01,Sarawak,P.212 Sibu,N.55 Nangka,41.3,40.0,1.3,18.5,3.2,69.1,66.9
+2023-01-01,Sarawak,P.212 Sibu,N.55 Nangka,37.9,36.9,1.0,15.6,2.6,70.9,69.0
+2021-01-01,Sarawak,P.213 Mukah,N.56 Dalat,7.4,7.0,0.5,5.2,6.2,58.8,55.6
+2022-01-01,Sarawak,P.213 Mukah,N.56 Dalat,7.6,7.2,0.4,5.1,5.0,59.7,56.7
+2023-01-01,Sarawak,P.213 Mukah,N.56 Dalat,6.9,6.7,0.3,4.4,4.1,61.2,59.3
+2021-01-01,Sarawak,P.213 Mukah,N.57 Tellian,17.2,16.7,0.5,6.4,2.8,72.8,70.8
+2022-01-01,Sarawak,P.213 Mukah,N.57 Tellian,17.4,16.9,0.5,6.3,2.9,73.3,71.3
+2023-01-01,Sarawak,P.213 Mukah,N.57 Tellian,14.9,14.4,0.5,5.1,3.2,74.5,72.0
+2021-01-01,Sarawak,P.213 Mukah,N.58 Balingian,9.1,8.8,0.3,5.1,3.3,63.9,62.0
+2022-01-01,Sarawak,P.213 Mukah,N.58 Balingian,9.3,8.9,0.3,5.1,3.5,64.5,61.8
+2023-01-01,Sarawak,P.213 Mukah,N.58 Balingian,8.1,7.8,0.3,4.2,3.9,65.6,63.4
+2021-01-01,Sarawak,P.214 Selangau,N.59 Tamin,9.4,8.8,0.6,4.4,5.9,67.9,63.8
+2022-01-01,Sarawak,P.214 Selangau,N.59 Tamin,9.6,9.2,0.4,4.4,4.5,68.7,65.7
+2023-01-01,Sarawak,P.214 Selangau,N.59 Tamin,8.4,8.1,0.3,3.6,3.1,69.6,67.5
+2021-01-01,Sarawak,P.214 Selangau,N.60 Kakus,18.5,18.0,0.5,9.6,2.9,65.9,64.1
+2022-01-01,Sarawak,P.214 Selangau,N.60 Kakus,18.7,18.4,0.3,9.5,1.8,66.3,65.2
+2023-01-01,Sarawak,P.214 Selangau,N.60 Kakus,17.0,16.7,0.4,8.4,2.1,66.9,65.7
+2021-01-01,Sarawak,P.215 Kapit,N.61 Pelagus,6.3,5.9,0.4,3.0,5.8,67.5,63.4
+2022-01-01,Sarawak,P.215 Kapit,N.61 Pelagus,6.4,6.1,0.3,3.0,4.5,68.2,64.9
+2023-01-01,Sarawak,P.215 Kapit,N.61 Pelagus,5.4,5.2,0.2,2.6,4.4,67.7,65.0
+2021-01-01,Sarawak,P.215 Kapit,N.62 Katibas,5.2,4.9,0.2,2.1,4.4,70.7,67.1
+2022-01-01,Sarawak,P.215 Kapit,N.62 Katibas,5.3,5.1,0.2,2.1,3.1,71.7,68.9
+2023-01-01,Sarawak,P.215 Kapit,N.62 Katibas,4.4,4.2,0.2,1.8,3.5,70.9,67.7
+2021-01-01,Sarawak,P.215 Kapit,N.63 Bukit Goram,12.0,11.1,0.9,6.5,7.6,64.8,60.0
+2022-01-01,Sarawak,P.215 Kapit,N.63 Bukit Goram,12.1,11.3,0.8,6.5,6.4,65.0,60.8
+2023-01-01,Sarawak,P.215 Kapit,N.63 Bukit Goram,10.1,9.5,0.6,5.6,5.6,64.5,60.5
+2021-01-01,Sarawak,P.216 Hulu Rajang,N.64 Baleh,6.8,6.5,0.3,2.7,4.1,71.8,68.4
+2022-01-01,Sarawak,P.216 Hulu Rajang,N.64 Baleh,7.0,6.8,0.2,2.5,2.8,73.3,71.6
+2023-01-01,Sarawak,P.216 Hulu Rajang,N.64 Baleh,4.9,4.8,0.2,1.7,3.5,74.6,72.7
+2021-01-01,Sarawak,P.216 Hulu Rajang,N.65 Belaga,8.0,7.6,0.5,3.5,5.7,69.8,66.1
+2022-01-01,Sarawak,P.216 Hulu Rajang,N.65 Belaga,8.2,7.8,0.4,3.4,4.3,70.8,67.2
+2023-01-01,Sarawak,P.216 Hulu Rajang,N.65 Belaga,7.3,7.0,0.2,2.8,3.3,72.2,69.3
+2021-01-01,Sarawak,P.216 Hulu Rajang,N.66 Murum,12.6,12.2,0.5,6.5,3.6,66.0,63.9
+2022-01-01,Sarawak,P.216 Hulu Rajang,N.66 Murum,12.8,12.5,0.3,6.4,2.4,66.5,65.1
+2023-01-01,Sarawak,P.216 Hulu Rajang,N.66 Murum,11.4,11.2,0.3,5.4,2.5,67.9,66.7
+2021-01-01,Sarawak,P.217 Bintulu,N.67 Jepak,18.8,18.0,0.8,8.9,4.3,67.9,65.0
+2022-01-01,Sarawak,P.217 Bintulu,N.67 Jepak,19.3,18.6,0.7,8.6,3.7,69.2,66.7
+2023-01-01,Sarawak,P.217 Bintulu,N.67 Jepak,17.8,17.2,0.6,7.6,3.4,70.0,67.7
+2021-01-01,Sarawak,P.217 Bintulu,N.68 Tanjong Batu,41.2,39.7,1.5,18.7,3.6,68.8,66.3
+2022-01-01,Sarawak,P.217 Bintulu,N.68 Tanjong Batu,42.0,40.6,1.4,18.2,3.4,69.8,67.4
+2023-01-01,Sarawak,P.217 Bintulu,N.68 Tanjong Batu,39.3,38.3,1.0,16.4,2.6,70.6,68.8
+2021-01-01,Sarawak,P.217 Bintulu,N.69 Kemena,29.2,28.4,0.8,12.7,2.6,69.7,67.8
+2022-01-01,Sarawak,P.217 Bintulu,N.69 Kemena,30.0,29.3,0.7,12.2,2.3,71.0,69.4
+2023-01-01,Sarawak,P.217 Bintulu,N.69 Kemena,27.6,26.9,0.6,10.4,2.3,72.5,70.8
+2021-01-01,Sarawak,P.217 Bintulu,N.70 Samalaju,48.4,46.9,1.5,17.7,3.1,73.2,71.0
+2022-01-01,Sarawak,P.217 Bintulu,N.70 Samalaju,49.3,47.9,1.4,17.0,2.8,74.3,72.2
+2023-01-01,Sarawak,P.217 Bintulu,N.70 Samalaju,46.9,45.9,1.0,15.1,2.1,75.7,74.0
+2021-01-01,Sarawak,P.218 Sibuti,N.71 Bekenu,11.2,10.6,0.6,7.2,5.7,61.0,57.6
+2022-01-01,Sarawak,P.218 Sibuti,N.71 Bekenu,11.6,11.0,0.5,7.0,4.7,62.4,59.1
+2023-01-01,Sarawak,P.218 Sibuti,N.71 Bekenu,10.3,9.8,0.5,5.9,4.4,63.3,60.5
+2021-01-01,Sarawak,P.218 Sibuti,N.72 Lambir,25.1,24.5,0.6,13.7,2.5,64.8,63.1
+2022-01-01,Sarawak,P.218 Sibuti,N.72 Lambir,25.5,25.3,0.3,13.4,1.1,65.6,65.0
+2023-01-01,Sarawak,P.218 Sibuti,N.72 Lambir,24.4,23.6,0.9,12.1,3.5,66.8,64.7
+2021-01-01,Sarawak,P.219 Miri,N.73 Piasau,19.3,19.0,0.3,10.1,1.4,65.6,64.6
+2022-01-01,Sarawak,P.219 Miri,N.73 Piasau,20.0,20.0,0.0,9.6,0.0,67.6,67.6
+2023-01-01,Sarawak,P.219 Miri,N.73 Piasau,18.2,17.8,0.5,8.2,2.6,69.1,67.4
+2021-01-01,Sarawak,P.219 Miri,N.74 Pujut,22.1,21.1,1.0,9.8,4.7,69.2,66.1
+2022-01-01,Sarawak,P.219 Miri,N.74 Pujut,23.0,22.2,0.8,9.3,3.5,71.1,68.7
+2023-01-01,Sarawak,P.219 Miri,N.74 Pujut,20.7,20.1,0.6,7.7,2.8,72.8,70.8
+2021-01-01,Sarawak,P.219 Miri,N.75 Senadin,75.1,72.7,2.4,35.4,3.2,68.0,65.8
+2022-01-01,Sarawak,P.219 Miri,N.75 Senadin,76.6,74.9,1.6,34.3,2.1,69.1,67.5
+2023-01-01,Sarawak,P.219 Miri,N.75 Senadin,72.8,71.3,1.5,30.1,2.1,70.7,69.3
+2021-01-01,Sarawak,P.220 Baram,N.76 Marudi,19.2,18.2,1.0,10.3,5.2,65.0,61.7
+2022-01-01,Sarawak,P.220 Baram,N.76 Marudi,19.6,18.8,0.8,10.1,3.9,65.9,63.3
+2023-01-01,Sarawak,P.220 Baram,N.76 Marudi,16.3,15.7,0.6,7.9,3.4,67.3,64.9
+2021-01-01,Sarawak,P.220 Baram,N.77 Telang Usan,8.7,8.3,0.4,5.0,4.3,63.6,60.6
+2022-01-01,Sarawak,P.220 Baram,N.77 Telang Usan,9.0,8.7,0.3,4.8,3.5,65.3,63.0
+2023-01-01,Sarawak,P.220 Baram,N.77 Telang Usan,7.7,7.4,0.3,3.9,3.3,66.5,63.8
+2021-01-01,Sarawak,P.220 Baram,N.78 Mulu,8.6,8.0,0.6,4.2,7.2,67.3,62.5
+2022-01-01,Sarawak,P.220 Baram,N.78 Mulu,8.9,8.3,0.6,3.9,6.4,69.3,64.8
+2023-01-01,Sarawak,P.220 Baram,N.78 Mulu,7.2,6.8,0.4,3.1,5.3,69.9,66.0
+2021-01-01,Sarawak,P.221 Limbang,N.79 Bukit Kota,17.2,16.0,1.2,8.2,7.0,67.7,63.0
+2022-01-01,Sarawak,P.221 Limbang,N.79 Bukit Kota,17.5,16.5,1.0,8.0,5.7,68.6,64.7
+2023-01-01,Sarawak,P.221 Limbang,N.79 Bukit Kota,15.6,15.0,0.6,6.8,3.8,69.6,67.0
+2021-01-01,Sarawak,P.221 Limbang,N.80 Batu Danau,7.3,7.0,0.4,3.2,4.9,69.4,66.7
+2022-01-01,Sarawak,P.221 Limbang,N.80 Batu Danau,7.5,7.2,0.3,3.2,3.9,70.4,67.3
+2023-01-01,Sarawak,P.221 Limbang,N.80 Batu Danau,6.6,6.3,0.2,2.7,3.6,71.1,67.7
+2021-01-01,Sarawak,P.222 Lawas,N.81 Ba'kelalan,5.3,5.1,0.2,2.1,3.3,72.0,68.9
+2022-01-01,Sarawak,P.222 Lawas,N.81 Ba'kelalan,5.4,5.3,0.1,2.0,1.9,73.5,71.6
+2023-01-01,Sarawak,P.222 Lawas,N.81 Ba'kelalan,4.8,4.6,0.2,1.6,4.7,74.4,71.9
+2021-01-01,Sarawak,P.222 Lawas,N.82 Bukit Sari,14.7,13.7,1.0,6.1,6.8,70.5,65.9
+2022-01-01,Sarawak,P.222 Lawas,N.82 Bukit Sari,15.1,14.2,0.9,5.9,6.1,72.1,67.6
+2023-01-01,Sarawak,P.222 Lawas,N.82 Bukit Sari,13.6,12.9,0.7,5.1,5.0,72.8,69.0

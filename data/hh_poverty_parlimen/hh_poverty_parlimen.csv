@@ -1,0 +1,667 @@
+date,state,parlimen,poverty_absolute
+2019-01-01,Perlis,P.001 Padang Besar,5.7
+2022-01-01,Perlis,P.001 Padang Besar,3.7
+2024-01-01,Perlis,P.001 Padang Besar,3.5
+2019-01-01,Perlis,P.002 Kangar,4.2
+2022-01-01,Perlis,P.002 Kangar,4.3
+2024-01-01,Perlis,P.002 Kangar,3.0
+2019-01-01,Perlis,P.003 Arau,1.4
+2022-01-01,Perlis,P.003 Arau,3.9
+2024-01-01,Perlis,P.003 Arau,4.4
+2019-01-01,Kedah,P.004 Langkawi,0.9
+2022-01-01,Kedah,P.004 Langkawi,5.7
+2024-01-01,Kedah,P.004 Langkawi,6.1
+2019-01-01,Kedah,P.005 Jerlun,6.7
+2022-01-01,Kedah,P.005 Jerlun,3.8
+2024-01-01,Kedah,P.005 Jerlun,5.8
+2019-01-01,Kedah,P.006 Kubang Pasu,4.3
+2022-01-01,Kedah,P.006 Kubang Pasu,3.2
+2024-01-01,Kedah,P.006 Kubang Pasu,3.3
+2019-01-01,Kedah,P.007 Padang Terap,9.1
+2022-01-01,Kedah,P.007 Padang Terap,8.9
+2024-01-01,Kedah,P.007 Padang Terap,8.0
+2019-01-01,Kedah,P.008 Pokok Sena,6.8
+2022-01-01,Kedah,P.008 Pokok Sena,4.7
+2024-01-01,Kedah,P.008 Pokok Sena,6.0
+2019-01-01,Kedah,P.009 Alor Setar,4.9
+2022-01-01,Kedah,P.009 Alor Setar,8.3
+2024-01-01,Kedah,P.009 Alor Setar,4.8
+2019-01-01,Kedah,P.010 Kuala Kedah,7.3
+2022-01-01,Kedah,P.010 Kuala Kedah,4.3
+2024-01-01,Kedah,P.010 Kuala Kedah,6.1
+2019-01-01,Kedah,P.011 Pendang,8.1
+2022-01-01,Kedah,P.011 Pendang,7.3
+2024-01-01,Kedah,P.011 Pendang,7.3
+2019-01-01,Kedah,P.012 Jerai,14.9
+2022-01-01,Kedah,P.012 Jerai,13.8
+2024-01-01,Kedah,P.012 Jerai,11.9
+2019-01-01,Kedah,P.013 Sik,7.6
+2022-01-01,Kedah,P.013 Sik,4.0
+2024-01-01,Kedah,P.013 Sik,8.7
+2019-01-01,Kedah,P.014 Merbok,11.1
+2022-01-01,Kedah,P.014 Merbok,14.9
+2024-01-01,Kedah,P.014 Merbok,12.4
+2019-01-01,Kedah,P.015 Sungai Petani,9.2
+2022-01-01,Kedah,P.015 Sungai Petani,11.1
+2024-01-01,Kedah,P.015 Sungai Petani,10.2
+2019-01-01,Kedah,P.016 Baling,17.9
+2022-01-01,Kedah,P.016 Baling,14.4
+2024-01-01,Kedah,P.016 Baling,14.7
+2019-01-01,Kedah,P.017 Padang Serai,9.5
+2022-01-01,Kedah,P.017 Padang Serai,11.1
+2024-01-01,Kedah,P.017 Padang Serai,7.8
+2019-01-01,Kedah,P.018 Kulim-Bandar Baharu,9.8
+2022-01-01,Kedah,P.018 Kulim-Bandar Baharu,9.7
+2024-01-01,Kedah,P.018 Kulim-Bandar Baharu,8.9
+2019-01-01,Kelantan,P.019 Tumpat,12.5
+2022-01-01,Kelantan,P.019 Tumpat,13.5
+2024-01-01,Kelantan,P.019 Tumpat,12.7
+2019-01-01,Kelantan,P.020 Pengkalan Chepa,8.6
+2022-01-01,Kelantan,P.020 Pengkalan Chepa,10.2
+2024-01-01,Kelantan,P.020 Pengkalan Chepa,10.8
+2019-01-01,Kelantan,P.021 Kota Bharu,7.4
+2022-01-01,Kelantan,P.021 Kota Bharu,10.9
+2024-01-01,Kelantan,P.021 Kota Bharu,7.8
+2019-01-01,Kelantan,P.022 Pasir Mas,10.0
+2022-01-01,Kelantan,P.022 Pasir Mas,8.3
+2024-01-01,Kelantan,P.022 Pasir Mas,5.9
+2019-01-01,Kelantan,P.023 Rantau Panjang,16.2
+2022-01-01,Kelantan,P.023 Rantau Panjang,9.5
+2024-01-01,Kelantan,P.023 Rantau Panjang,11.0
+2019-01-01,Kelantan,P.024 Kubang Kerian,10.1
+2022-01-01,Kelantan,P.024 Kubang Kerian,9.6
+2024-01-01,Kelantan,P.024 Kubang Kerian,11.1
+2019-01-01,Kelantan,P.025 Bachok,13.1
+2022-01-01,Kelantan,P.025 Bachok,12.1
+2024-01-01,Kelantan,P.025 Bachok,11.3
+2019-01-01,Kelantan,P.026 Ketereh,11.2
+2022-01-01,Kelantan,P.026 Ketereh,11.3
+2024-01-01,Kelantan,P.026 Ketereh,9.9
+2019-01-01,Kelantan,P.027 Tanah Merah,10.6
+2022-01-01,Kelantan,P.027 Tanah Merah,16.6
+2024-01-01,Kelantan,P.027 Tanah Merah,16.1
+2019-01-01,Kelantan,P.028 Pasir Puteh,12.7
+2022-01-01,Kelantan,P.028 Pasir Puteh,15.9
+2024-01-01,Kelantan,P.028 Pasir Puteh,11.1
+2019-01-01,Kelantan,P.029 Machang,7.1
+2022-01-01,Kelantan,P.029 Machang,12.0
+2024-01-01,Kelantan,P.029 Machang,7.3
+2019-01-01,Kelantan,P.030 Jeli,18.9
+2022-01-01,Kelantan,P.030 Jeli,15.5
+2024-01-01,Kelantan,P.030 Jeli,9.6
+2019-01-01,Kelantan,P.031 Kuala Krai,22.4
+2022-01-01,Kelantan,P.031 Kuala Krai,22.4
+2024-01-01,Kelantan,P.031 Kuala Krai,20.2
+2019-01-01,Kelantan,P.032 Gua Musang,18.7
+2022-01-01,Kelantan,P.032 Gua Musang,21.0
+2024-01-01,Kelantan,P.032 Gua Musang,16.6
+2019-01-01,Terengganu,P.033 Besut,9.5
+2022-01-01,Terengganu,P.033 Besut,12.7
+2024-01-01,Terengganu,P.033 Besut,10.2
+2019-01-01,Terengganu,P.034 Setiu,9.3
+2022-01-01,Terengganu,P.034 Setiu,6.3
+2024-01-01,Terengganu,P.034 Setiu,5.8
+2019-01-01,Terengganu,P.035 Kuala Nerus,3.8
+2022-01-01,Terengganu,P.035 Kuala Nerus,3.0
+2024-01-01,Terengganu,P.035 Kuala Nerus,2.5
+2019-01-01,Terengganu,P.036 Kuala Terengganu,3.3
+2022-01-01,Terengganu,P.036 Kuala Terengganu,4.7
+2024-01-01,Terengganu,P.036 Kuala Terengganu,2.9
+2019-01-01,Terengganu,P.037 Marang,7.5
+2022-01-01,Terengganu,P.037 Marang,8.2
+2024-01-01,Terengganu,P.037 Marang,6.1
+2019-01-01,Terengganu,P.038 Hulu Terengganu,7.8
+2022-01-01,Terengganu,P.038 Hulu Terengganu,11.1
+2024-01-01,Terengganu,P.038 Hulu Terengganu,6.0
+2019-01-01,Terengganu,P.039 Dungun,5.2
+2022-01-01,Terengganu,P.039 Dungun,2.2
+2024-01-01,Terengganu,P.039 Dungun,3.2
+2019-01-01,Terengganu,P.040 Kemaman,4.6
+2022-01-01,Terengganu,P.040 Kemaman,4.1
+2024-01-01,Terengganu,P.040 Kemaman,3.5
+2019-01-01,Pulau Pinang,P.041 Kepala Batas,5.0
+2022-01-01,Pulau Pinang,P.041 Kepala Batas,5.2
+2024-01-01,Pulau Pinang,P.041 Kepala Batas,4.6
+2019-01-01,Pulau Pinang,P.042 Tasek Gelugor,4.1
+2022-01-01,Pulau Pinang,P.042 Tasek Gelugor,4.7
+2024-01-01,Pulau Pinang,P.042 Tasek Gelugor,5.7
+2019-01-01,Pulau Pinang,P.043 Bagan,3.4
+2022-01-01,Pulau Pinang,P.043 Bagan,1.3
+2024-01-01,Pulau Pinang,P.043 Bagan,1.5
+2019-01-01,Pulau Pinang,P.044 Permatang Pauh,6.1
+2022-01-01,Pulau Pinang,P.044 Permatang Pauh,3.9
+2024-01-01,Pulau Pinang,P.044 Permatang Pauh,4.4
+2019-01-01,Pulau Pinang,P.045 Bukit Mertajam,1.3
+2022-01-01,Pulau Pinang,P.045 Bukit Mertajam,2.2
+2024-01-01,Pulau Pinang,P.045 Bukit Mertajam,2.1
+2019-01-01,Pulau Pinang,P.046 Batu Kawan,0.6
+2022-01-01,Pulau Pinang,P.046 Batu Kawan,1.5
+2024-01-01,Pulau Pinang,P.046 Batu Kawan,3.5
+2019-01-01,Pulau Pinang,P.047 Nibong Tebal,2.5
+2022-01-01,Pulau Pinang,P.047 Nibong Tebal,3.2
+2024-01-01,Pulau Pinang,P.047 Nibong Tebal,2.3
+2019-01-01,Pulau Pinang,P.048 Bukit Bendera,0.0
+2022-01-01,Pulau Pinang,P.048 Bukit Bendera,0.3
+2024-01-01,Pulau Pinang,P.048 Bukit Bendera,0.3
+2019-01-01,Pulau Pinang,P.049 Tanjong,1.5
+2022-01-01,Pulau Pinang,P.049 Tanjong,0.0
+2024-01-01,Pulau Pinang,P.049 Tanjong,0.0
+2019-01-01,Pulau Pinang,P.050 Jelutong,1.3
+2022-01-01,Pulau Pinang,P.050 Jelutong,1.6
+2024-01-01,Pulau Pinang,P.050 Jelutong,0.0
+2019-01-01,Pulau Pinang,P.051 Bukit Gelugor,0.2
+2022-01-01,Pulau Pinang,P.051 Bukit Gelugor,0.6
+2024-01-01,Pulau Pinang,P.051 Bukit Gelugor,0.4
+2019-01-01,Pulau Pinang,P.052 Bayan Baru,0.8
+2022-01-01,Pulau Pinang,P.052 Bayan Baru,1.4
+2024-01-01,Pulau Pinang,P.052 Bayan Baru,0.5
+2019-01-01,Pulau Pinang,P.053 Balik Pulau,0.7
+2022-01-01,Pulau Pinang,P.053 Balik Pulau,1.4
+2024-01-01,Pulau Pinang,P.053 Balik Pulau,0.8
+2019-01-01,Perak,P.054 Gerik,8.9
+2022-01-01,Perak,P.054 Gerik,13.1
+2024-01-01,Perak,P.054 Gerik,9.3
+2019-01-01,Perak,P.055 Lenggong,17.5
+2022-01-01,Perak,P.055 Lenggong,19.4
+2024-01-01,Perak,P.055 Lenggong,18.4
+2019-01-01,Perak,P.056 Larut,7.4
+2022-01-01,Perak,P.056 Larut,9.7
+2024-01-01,Perak,P.056 Larut,10.0
+2019-01-01,Perak,P.057 Parit Buntar,8.0
+2022-01-01,Perak,P.057 Parit Buntar,9.9
+2024-01-01,Perak,P.057 Parit Buntar,6.0
+2019-01-01,Perak,P.058 Bagan Serai,4.3
+2022-01-01,Perak,P.058 Bagan Serai,8.0
+2024-01-01,Perak,P.058 Bagan Serai,8.2
+2019-01-01,Perak,P.059 Bukit Gantang,12.9
+2022-01-01,Perak,P.059 Bukit Gantang,7.2
+2024-01-01,Perak,P.059 Bukit Gantang,12.1
+2019-01-01,Perak,P.060 Taiping,4.9
+2022-01-01,Perak,P.060 Taiping,9.3
+2024-01-01,Perak,P.060 Taiping,6.7
+2019-01-01,Perak,P.061 Padang Rengas,5.9
+2022-01-01,Perak,P.061 Padang Rengas,7.1
+2024-01-01,Perak,P.061 Padang Rengas,8.4
+2019-01-01,Perak,P.062 Sungai Siput,16.7
+2022-01-01,Perak,P.062 Sungai Siput,19.7
+2024-01-01,Perak,P.062 Sungai Siput,13.1
+2019-01-01,Perak,P.063 Tambun,5.6
+2022-01-01,Perak,P.063 Tambun,3.9
+2024-01-01,Perak,P.063 Tambun,3.9
+2019-01-01,Perak,P.064 Ipoh Timor,1.9
+2022-01-01,Perak,P.064 Ipoh Timor,3.4
+2024-01-01,Perak,P.064 Ipoh Timor,3.1
+2019-01-01,Perak,P.065 Ipoh Barat,5.6
+2022-01-01,Perak,P.065 Ipoh Barat,3.5
+2024-01-01,Perak,P.065 Ipoh Barat,2.2
+2019-01-01,Perak,P.066 Batu Gajah,7.3
+2022-01-01,Perak,P.066 Batu Gajah,3.3
+2024-01-01,Perak,P.066 Batu Gajah,5.5
+2019-01-01,Perak,P.067 Kuala Kangsar,7.3
+2022-01-01,Perak,P.067 Kuala Kangsar,9.5
+2024-01-01,Perak,P.067 Kuala Kangsar,10.9
+2019-01-01,Perak,P.068 Beruas,8.9
+2022-01-01,Perak,P.068 Beruas,4.4
+2024-01-01,Perak,P.068 Beruas,4.6
+2019-01-01,Perak,P.069 Parit,6.2
+2022-01-01,Perak,P.069 Parit,11.4
+2024-01-01,Perak,P.069 Parit,10.2
+2019-01-01,Perak,P.070 Kampar,7.6
+2022-01-01,Perak,P.070 Kampar,5.6
+2024-01-01,Perak,P.070 Kampar,4.8
+2019-01-01,Perak,P.071 Gopeng,4.4
+2022-01-01,Perak,P.071 Gopeng,4.1
+2024-01-01,Perak,P.071 Gopeng,4.0
+2019-01-01,Perak,P.072 Tapah,9.0
+2022-01-01,Perak,P.072 Tapah,15.0
+2024-01-01,Perak,P.072 Tapah,13.5
+2019-01-01,Perak,P.073 Pasir Salak,18.9
+2022-01-01,Perak,P.073 Pasir Salak,10.3
+2024-01-01,Perak,P.073 Pasir Salak,14.0
+2019-01-01,Perak,P.074 Lumut,4.7
+2022-01-01,Perak,P.074 Lumut,3.1
+2024-01-01,Perak,P.074 Lumut,3.2
+2019-01-01,Perak,P.075 Bagan Datuk,6.3
+2022-01-01,Perak,P.075 Bagan Datuk,12.2
+2024-01-01,Perak,P.075 Bagan Datuk,10.3
+2019-01-01,Perak,P.076 Teluk Intan,10.3
+2022-01-01,Perak,P.076 Teluk Intan,16.3
+2024-01-01,Perak,P.076 Teluk Intan,10.9
+2019-01-01,Perak,P.077 Tanjong Malim,8.3
+2022-01-01,Perak,P.077 Tanjong Malim,9.6
+2024-01-01,Perak,P.077 Tanjong Malim,7.5
+2019-01-01,Pahang,P.078 Cameron Highlands,1.7
+2022-01-01,Pahang,P.078 Cameron Highlands,12.9
+2024-01-01,Pahang,P.078 Cameron Highlands,10.4
+2019-01-01,Pahang,P.079 Lipis,5.6
+2022-01-01,Pahang,P.079 Lipis,2.1
+2024-01-01,Pahang,P.079 Lipis,6.1
+2019-01-01,Pahang,P.080 Raub,4.4
+2022-01-01,Pahang,P.080 Raub,2.3
+2024-01-01,Pahang,P.080 Raub,3.4
+2019-01-01,Pahang,P.081 Jerantut,9.6
+2022-01-01,Pahang,P.081 Jerantut,8.8
+2024-01-01,Pahang,P.081 Jerantut,9.4
+2019-01-01,Pahang,P.082 Indera Mahkota,2.0
+2022-01-01,Pahang,P.082 Indera Mahkota,2.9
+2024-01-01,Pahang,P.082 Indera Mahkota,4.0
+2019-01-01,Pahang,P.083 Kuantan,1.1
+2022-01-01,Pahang,P.083 Kuantan,6.9
+2024-01-01,Pahang,P.083 Kuantan,3.7
+2019-01-01,Pahang,P.084 Paya Besar,1.2
+2022-01-01,Pahang,P.084 Paya Besar,3.3
+2024-01-01,Pahang,P.084 Paya Besar,3.2
+2019-01-01,Pahang,P.085 Pekan,6.5
+2022-01-01,Pahang,P.085 Pekan,9.4
+2024-01-01,Pahang,P.085 Pekan,9.2
+2019-01-01,Pahang,P.086 Maran,8.6
+2022-01-01,Pahang,P.086 Maran,10.8
+2024-01-01,Pahang,P.086 Maran,7.3
+2019-01-01,Pahang,P.087 Kuala Krau,4.9
+2022-01-01,Pahang,P.087 Kuala Krau,6.6
+2024-01-01,Pahang,P.087 Kuala Krau,8.4
+2019-01-01,Pahang,P.088 Temerloh,6.1
+2022-01-01,Pahang,P.088 Temerloh,6.4
+2024-01-01,Pahang,P.088 Temerloh,5.3
+2019-01-01,Pahang,P.089 Bentong,3.4
+2022-01-01,Pahang,P.089 Bentong,2.8
+2024-01-01,Pahang,P.089 Bentong,2.0
+2019-01-01,Pahang,P.090 Bera,2.8
+2022-01-01,Pahang,P.090 Bera,8.5
+2024-01-01,Pahang,P.090 Bera,9.0
+2019-01-01,Pahang,P.091 Rompin,6.7
+2022-01-01,Pahang,P.091 Rompin,12.0
+2024-01-01,Pahang,P.091 Rompin,8.2
+2019-01-01,Selangor,P.092 Sabak Bernam,7.7
+2022-01-01,Selangor,P.092 Sabak Bernam,7.2
+2024-01-01,Selangor,P.092 Sabak Bernam,0.0
+2019-01-01,Selangor,P.093 Sungai Besar,2.7
+2022-01-01,Selangor,P.093 Sungai Besar,3.9
+2024-01-01,Selangor,P.093 Sungai Besar,4.9
+2019-01-01,Selangor,P.094 Hulu Selangor,1.5
+2022-01-01,Selangor,P.094 Hulu Selangor,1.3
+2024-01-01,Selangor,P.094 Hulu Selangor,0.4
+2019-01-01,Selangor,P.095 Tanjong Karang,7.2
+2022-01-01,Selangor,P.095 Tanjong Karang,3.3
+2024-01-01,Selangor,P.095 Tanjong Karang,1.9
+2019-01-01,Selangor,P.096 Kuala Selangor,3.1
+2022-01-01,Selangor,P.096 Kuala Selangor,2.7
+2024-01-01,Selangor,P.096 Kuala Selangor,2.1
+2019-01-01,Selangor,P.097 Selayang,0.6
+2022-01-01,Selangor,P.097 Selayang,3.7
+2024-01-01,Selangor,P.097 Selayang,2.8
+2019-01-01,Selangor,P.098 Gombak,0.3
+2022-01-01,Selangor,P.098 Gombak,1.7
+2024-01-01,Selangor,P.098 Gombak,1.2
+2019-01-01,Selangor,P.099 Ampang,1.1
+2022-01-01,Selangor,P.099 Ampang,0.3
+2024-01-01,Selangor,P.099 Ampang,0.0
+2019-01-01,Selangor,P.100 Pandan,0.3
+2022-01-01,Selangor,P.100 Pandan,0.7
+2024-01-01,Selangor,P.100 Pandan,0.0
+2019-01-01,Selangor,P.101 Hulu Langat,0.9
+2022-01-01,Selangor,P.101 Hulu Langat,0.3
+2024-01-01,Selangor,P.101 Hulu Langat,0.1
+2019-01-01,Selangor,P.102 Bangi,0.4
+2022-01-01,Selangor,P.102 Bangi,0.8
+2024-01-01,Selangor,P.102 Bangi,0.0
+2019-01-01,Selangor,P.103 Puchong,2.1
+2022-01-01,Selangor,P.103 Puchong,2.1
+2024-01-01,Selangor,P.103 Puchong,0.7
+2019-01-01,Selangor,P.104 Subang,0.3
+2022-01-01,Selangor,P.104 Subang,1.3
+2024-01-01,Selangor,P.104 Subang,0.3
+2019-01-01,Selangor,P.105 Petaling Jaya,1.1
+2022-01-01,Selangor,P.105 Petaling Jaya,1.1
+2024-01-01,Selangor,P.105 Petaling Jaya,0.0
+2019-01-01,Selangor,P.106 Damansara,0.6
+2022-01-01,Selangor,P.106 Damansara,0.9
+2024-01-01,Selangor,P.106 Damansara,1.9
+2019-01-01,Selangor,P.107 Sungai Buloh,1.6
+2022-01-01,Selangor,P.107 Sungai Buloh,3.3
+2024-01-01,Selangor,P.107 Sungai Buloh,2.0
+2019-01-01,Selangor,P.108 Shah Alam,0.3
+2022-01-01,Selangor,P.108 Shah Alam,1.9
+2024-01-01,Selangor,P.108 Shah Alam,0.9
+2019-01-01,Selangor,P.109 Kapar,2.8
+2022-01-01,Selangor,P.109 Kapar,2.6
+2024-01-01,Selangor,P.109 Kapar,1.0
+2019-01-01,Selangor,P.110 Klang,1.4
+2022-01-01,Selangor,P.110 Klang,1.7
+2024-01-01,Selangor,P.110 Klang,0.0
+2019-01-01,Selangor,P.111 Kota Raja,1.7
+2022-01-01,Selangor,P.111 Kota Raja,2.5
+2024-01-01,Selangor,P.111 Kota Raja,2.1
+2019-01-01,Selangor,P.112 Kuala Langat,2.6
+2022-01-01,Selangor,P.112 Kuala Langat,0.3
+2024-01-01,Selangor,P.112 Kuala Langat,0.4
+2019-01-01,Selangor,P.113 Sepang,0.7
+2022-01-01,Selangor,P.113 Sepang,0.0
+2024-01-01,Selangor,P.113 Sepang,0.0
+2019-01-01,W.P. Kuala Lumpur,P.114 Kepong,0.0
+2022-01-01,W.P. Kuala Lumpur,P.114 Kepong,1.4
+2024-01-01,W.P. Kuala Lumpur,P.114 Kepong,2.1
+2019-01-01,W.P. Kuala Lumpur,P.115 Batu,0.3
+2022-01-01,W.P. Kuala Lumpur,P.115 Batu,1.8
+2024-01-01,W.P. Kuala Lumpur,P.115 Batu,1.4
+2019-01-01,W.P. Kuala Lumpur,P.116 Wangsa Maju,0.0
+2022-01-01,W.P. Kuala Lumpur,P.116 Wangsa Maju,1.6
+2024-01-01,W.P. Kuala Lumpur,P.116 Wangsa Maju,0.6
+2019-01-01,W.P. Kuala Lumpur,P.117 Segambut,0.0
+2022-01-01,W.P. Kuala Lumpur,P.117 Segambut,0.3
+2024-01-01,W.P. Kuala Lumpur,P.117 Segambut,0.3
+2019-01-01,W.P. Kuala Lumpur,P.118 Setiawangsa,0.3
+2022-01-01,W.P. Kuala Lumpur,P.118 Setiawangsa,1.4
+2024-01-01,W.P. Kuala Lumpur,P.118 Setiawangsa,0.0
+2019-01-01,W.P. Kuala Lumpur,P.119 Titiwangsa,0.5
+2022-01-01,W.P. Kuala Lumpur,P.119 Titiwangsa,0.5
+2024-01-01,W.P. Kuala Lumpur,P.119 Titiwangsa,0.0
+2019-01-01,W.P. Kuala Lumpur,P.120 Bukit Bintang,0.0
+2022-01-01,W.P. Kuala Lumpur,P.120 Bukit Bintang,1.1
+2024-01-01,W.P. Kuala Lumpur,P.120 Bukit Bintang,0.4
+2019-01-01,W.P. Kuala Lumpur,P.121 Lembah Pantai,0.0
+2022-01-01,W.P. Kuala Lumpur,P.121 Lembah Pantai,2.6
+2024-01-01,W.P. Kuala Lumpur,P.121 Lembah Pantai,0.0
+2019-01-01,W.P. Kuala Lumpur,P.122 Seputeh,0.5
+2022-01-01,W.P. Kuala Lumpur,P.122 Seputeh,1.0
+2024-01-01,W.P. Kuala Lumpur,P.122 Seputeh,0.5
+2019-01-01,W.P. Kuala Lumpur,P.123 Cheras,0.2
+2022-01-01,W.P. Kuala Lumpur,P.123 Cheras,1.8
+2024-01-01,W.P. Kuala Lumpur,P.123 Cheras,2.4
+2019-01-01,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,0.0
+2022-01-01,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,2.0
+2024-01-01,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,2.6
+2019-01-01,W.P. Putrajaya,P.125 Putrajaya,0.4
+2022-01-01,W.P. Putrajaya,P.125 Putrajaya,0.1
+2024-01-01,W.P. Putrajaya,P.125 Putrajaya,0.2
+2019-01-01,Negeri Sembilan,P.126 Jelebu,6.2
+2022-01-01,Negeri Sembilan,P.126 Jelebu,6.0
+2024-01-01,Negeri Sembilan,P.126 Jelebu,5.5
+2019-01-01,Negeri Sembilan,P.127 Jempol,5.8
+2022-01-01,Negeri Sembilan,P.127 Jempol,8.9
+2024-01-01,Negeri Sembilan,P.127 Jempol,7.7
+2019-01-01,Negeri Sembilan,P.128 Seremban,4.5
+2022-01-01,Negeri Sembilan,P.128 Seremban,3.3
+2024-01-01,Negeri Sembilan,P.128 Seremban,2.1
+2019-01-01,Negeri Sembilan,P.129 Kuala Pilah,8.3
+2022-01-01,Negeri Sembilan,P.129 Kuala Pilah,6.8
+2024-01-01,Negeri Sembilan,P.129 Kuala Pilah,6.2
+2019-01-01,Negeri Sembilan,P.130 Rasah,1.8
+2022-01-01,Negeri Sembilan,P.130 Rasah,1.9
+2024-01-01,Negeri Sembilan,P.130 Rasah,2.9
+2019-01-01,Negeri Sembilan,P.131 Rembau,4.2
+2022-01-01,Negeri Sembilan,P.131 Rembau,3.9
+2024-01-01,Negeri Sembilan,P.131 Rembau,3.6
+2019-01-01,Negeri Sembilan,P.132 Port Dickson,4.3
+2022-01-01,Negeri Sembilan,P.132 Port Dickson,4.9
+2024-01-01,Negeri Sembilan,P.132 Port Dickson,4.4
+2019-01-01,Negeri Sembilan,P.133 Tampin,4.8
+2022-01-01,Negeri Sembilan,P.133 Tampin,7.3
+2024-01-01,Negeri Sembilan,P.133 Tampin,7.0
+2019-01-01,Melaka,P.134 Masjid Tanah,5.2
+2022-01-01,Melaka,P.134 Masjid Tanah,7.1
+2024-01-01,Melaka,P.134 Masjid Tanah,5.8
+2019-01-01,Melaka,P.135 Alor Gajah,2.9
+2022-01-01,Melaka,P.135 Alor Gajah,3.3
+2024-01-01,Melaka,P.135 Alor Gajah,3.3
+2019-01-01,Melaka,P.136 Tangga Batu,5.9
+2022-01-01,Melaka,P.136 Tangga Batu,4.1
+2024-01-01,Melaka,P.136 Tangga Batu,3.9
+2019-01-01,Melaka,P.137 Hang Tuah Jaya,4.3
+2022-01-01,Melaka,P.137 Hang Tuah Jaya,3.1
+2024-01-01,Melaka,P.137 Hang Tuah Jaya,1.7
+2019-01-01,Melaka,P.138 Kota Melaka,2.9
+2022-01-01,Melaka,P.138 Kota Melaka,3.9
+2024-01-01,Melaka,P.138 Kota Melaka,2.8
+2019-01-01,Melaka,P.139 Jasin,2.7
+2022-01-01,Melaka,P.139 Jasin,5.5
+2024-01-01,Melaka,P.139 Jasin,1.1
+2019-01-01,Johor,P.140 Segamat,2.6
+2022-01-01,Johor,P.140 Segamat,5.1
+2024-01-01,Johor,P.140 Segamat,1.7
+2019-01-01,Johor,P.141 Sekijang,3.4
+2022-01-01,Johor,P.141 Sekijang,9.2
+2024-01-01,Johor,P.141 Sekijang,4.1
+2019-01-01,Johor,P.142 Labis,2.4
+2022-01-01,Johor,P.142 Labis,8.0
+2024-01-01,Johor,P.142 Labis,4.3
+2019-01-01,Johor,P.143 Pagoh,6.9
+2022-01-01,Johor,P.143 Pagoh,8.2
+2024-01-01,Johor,P.143 Pagoh,1.3
+2019-01-01,Johor,P.144 Ledang,3.2
+2022-01-01,Johor,P.144 Ledang,7.0
+2024-01-01,Johor,P.144 Ledang,4.5
+2019-01-01,Johor,P.145 Bakri,3.4
+2022-01-01,Johor,P.145 Bakri,4.4
+2024-01-01,Johor,P.145 Bakri,2.7
+2019-01-01,Johor,P.146 Muar,4.2
+2022-01-01,Johor,P.146 Muar,6.0
+2024-01-01,Johor,P.146 Muar,1.9
+2019-01-01,Johor,P.147 Parit Sulong,5.2
+2022-01-01,Johor,P.147 Parit Sulong,6.4
+2024-01-01,Johor,P.147 Parit Sulong,0.0
+2019-01-01,Johor,P.148 Ayer Hitam,2.7
+2022-01-01,Johor,P.148 Ayer Hitam,4.5
+2024-01-01,Johor,P.148 Ayer Hitam,1.2
+2019-01-01,Johor,P.149 Sri Gading,2.3
+2022-01-01,Johor,P.149 Sri Gading,7.8
+2024-01-01,Johor,P.149 Sri Gading,4.2
+2019-01-01,Johor,P.150 Batu Pahat,2.5
+2022-01-01,Johor,P.150 Batu Pahat,2.9
+2024-01-01,Johor,P.150 Batu Pahat,2.7
+2019-01-01,Johor,P.151 Simpang Renggam,9.9
+2022-01-01,Johor,P.151 Simpang Renggam,8.2
+2024-01-01,Johor,P.151 Simpang Renggam,5.0
+2019-01-01,Johor,P.152 Kluang,3.6
+2022-01-01,Johor,P.152 Kluang,7.4
+2024-01-01,Johor,P.152 Kluang,4.4
+2019-01-01,Johor,P.153 Sembrong,5.4
+2022-01-01,Johor,P.153 Sembrong,5.0
+2024-01-01,Johor,P.153 Sembrong,11.1
+2019-01-01,Johor,P.154 Mersing,12.1
+2022-01-01,Johor,P.154 Mersing,12.7
+2024-01-01,Johor,P.154 Mersing,6.7
+2019-01-01,Johor,P.155 Tenggara,5.1
+2022-01-01,Johor,P.155 Tenggara,4.3
+2024-01-01,Johor,P.155 Tenggara,5.4
+2019-01-01,Johor,P.156 Kota Tinggi,9.7
+2022-01-01,Johor,P.156 Kota Tinggi,4.3
+2024-01-01,Johor,P.156 Kota Tinggi,2.1
+2019-01-01,Johor,P.157 Pengerang,4.4
+2022-01-01,Johor,P.157 Pengerang,6.1
+2024-01-01,Johor,P.157 Pengerang,4.2
+2019-01-01,Johor,P.158 Tebrau,3.7
+2022-01-01,Johor,P.158 Tebrau,5.6
+2024-01-01,Johor,P.158 Tebrau,2.4
+2019-01-01,Johor,P.159 Pasir Gudang,4.9
+2022-01-01,Johor,P.159 Pasir Gudang,5.6
+2024-01-01,Johor,P.159 Pasir Gudang,2.8
+2019-01-01,Johor,P.160 Johor Bahru,3.4
+2022-01-01,Johor,P.160 Johor Bahru,4.9
+2024-01-01,Johor,P.160 Johor Bahru,1.1
+2019-01-01,Johor,P.161 Pulai,1.1
+2022-01-01,Johor,P.161 Pulai,1.3
+2024-01-01,Johor,P.161 Pulai,2.1
+2019-01-01,Johor,P.162 Iskandar Puteri,2.4
+2022-01-01,Johor,P.162 Iskandar Puteri,1.2
+2024-01-01,Johor,P.162 Iskandar Puteri,0.3
+2019-01-01,Johor,P.163 Kulai,4.2
+2022-01-01,Johor,P.163 Kulai,0.2
+2024-01-01,Johor,P.163 Kulai,0.2
+2019-01-01,Johor,P.164 Pontian,4.9
+2022-01-01,Johor,P.164 Pontian,5.2
+2024-01-01,Johor,P.164 Pontian,2.7
+2019-01-01,Johor,P.165 Tanjung Piai,6.6
+2022-01-01,Johor,P.165 Tanjung Piai,4.9
+2024-01-01,Johor,P.165 Tanjung Piai,1.3
+2019-01-01,W.P. Labuan,P.166 Labuan,3.1
+2022-01-01,W.P. Labuan,P.166 Labuan,2.5
+2024-01-01,W.P. Labuan,P.166 Labuan,2.0
+2019-01-01,Sabah,P.167 Kudat,47.0
+2022-01-01,Sabah,P.167 Kudat,40.4
+2024-01-01,Sabah,P.167 Kudat,41.9
+2019-01-01,Sabah,P.168 Kota Marudu,44.2
+2022-01-01,Sabah,P.168 Kota Marudu,47.5
+2024-01-01,Sabah,P.168 Kota Marudu,38.1
+2019-01-01,Sabah,P.169 Kota Belud,34.1
+2022-01-01,Sabah,P.169 Kota Belud,27.8
+2024-01-01,Sabah,P.169 Kota Belud,26.1
+2019-01-01,Sabah,P.170 Tuaran,16.3
+2022-01-01,Sabah,P.170 Tuaran,25.6
+2024-01-01,Sabah,P.170 Tuaran,24.0
+2019-01-01,Sabah,P.171 Sepanggar,9.8
+2022-01-01,Sabah,P.171 Sepanggar,12.2
+2024-01-01,Sabah,P.171 Sepanggar,14.3
+2019-01-01,Sabah,P.172 Kota Kinabalu,1.6
+2022-01-01,Sabah,P.172 Kota Kinabalu,2.8
+2024-01-01,Sabah,P.172 Kota Kinabalu,2.0
+2019-01-01,Sabah,P.173 Putatan,11.7
+2022-01-01,Sabah,P.173 Putatan,14.6
+2024-01-01,Sabah,P.173 Putatan,9.7
+2019-01-01,Sabah,P.174 Penampang,4.2
+2022-01-01,Sabah,P.174 Penampang,7.1
+2024-01-01,Sabah,P.174 Penampang,6.7
+2019-01-01,Sabah,P.175 Papar,12.1
+2022-01-01,Sabah,P.175 Papar,14.6
+2024-01-01,Sabah,P.175 Papar,13.4
+2019-01-01,Sabah,P.176 Kimanis,18.4
+2022-01-01,Sabah,P.176 Kimanis,25.7
+2024-01-01,Sabah,P.176 Kimanis,27.3
+2019-01-01,Sabah,P.177 Beaufort,28.0
+2022-01-01,Sabah,P.177 Beaufort,20.7
+2024-01-01,Sabah,P.177 Beaufort,15.4
+2019-01-01,Sabah,P.178 Sipitang,10.4
+2022-01-01,Sabah,P.178 Sipitang,17.3
+2024-01-01,Sabah,P.178 Sipitang,19.6
+2019-01-01,Sabah,P.179 Ranau,26.8
+2022-01-01,Sabah,P.179 Ranau,25.4
+2024-01-01,Sabah,P.179 Ranau,23.5
+2019-01-01,Sabah,P.180 Keningau,14.7
+2022-01-01,Sabah,P.180 Keningau,12.4
+2024-01-01,Sabah,P.180 Keningau,11.9
+2019-01-01,Sabah,P.181 Tenom,17.2
+2022-01-01,Sabah,P.181 Tenom,14.7
+2024-01-01,Sabah,P.181 Tenom,12.1
+2019-01-01,Sabah,P.182 Pensiangan,31.1
+2022-01-01,Sabah,P.182 Pensiangan,29.4
+2024-01-01,Sabah,P.182 Pensiangan,16.8
+2019-01-01,Sabah,P.183 Beluran,43.3
+2022-01-01,Sabah,P.183 Beluran,33.0
+2024-01-01,Sabah,P.183 Beluran,29.7
+2019-01-01,Sabah,P.184 Libaran,20.2
+2022-01-01,Sabah,P.184 Libaran,17.0
+2024-01-01,Sabah,P.184 Libaran,14.6
+2019-01-01,Sabah,P.185 Batu Sapi,13.7
+2022-01-01,Sabah,P.185 Batu Sapi,16.8
+2024-01-01,Sabah,P.185 Batu Sapi,9.8
+2019-01-01,Sabah,P.186 Sandakan,16.8
+2022-01-01,Sabah,P.186 Sandakan,20.3
+2024-01-01,Sabah,P.186 Sandakan,18.1
+2019-01-01,Sabah,P.187 Kinabatangan,41.7
+2022-01-01,Sabah,P.187 Kinabatangan,37.0
+2024-01-01,Sabah,P.187 Kinabatangan,32.0
+2019-01-01,Sabah,P.188 Lahad Datu,19.9
+2022-01-01,Sabah,P.188 Lahad Datu,23.8
+2024-01-01,Sabah,P.188 Lahad Datu,16.1
+2019-01-01,Sabah,P.189 Semporna,31.5
+2022-01-01,Sabah,P.189 Semporna,28.0
+2024-01-01,Sabah,P.189 Semporna,30.4
+2019-01-01,Sabah,P.190 Tawau,13.5
+2022-01-01,Sabah,P.190 Tawau,14.2
+2024-01-01,Sabah,P.190 Tawau,13.7
+2019-01-01,Sabah,P.191 Kalabakan,14.8
+2022-01-01,Sabah,P.191 Kalabakan,17.3
+2024-01-01,Sabah,P.191 Kalabakan,14.8
+2019-01-01,Sarawak,P.192 Mas Gading,9.5
+2022-01-01,Sarawak,P.192 Mas Gading,11.1
+2024-01-01,Sarawak,P.192 Mas Gading,9.4
+2019-01-01,Sarawak,P.193 Santubong,11.7
+2022-01-01,Sarawak,P.193 Santubong,13.0
+2024-01-01,Sarawak,P.193 Santubong,13.0
+2019-01-01,Sarawak,P.194 Petra Jaya,6.1
+2022-01-01,Sarawak,P.194 Petra Jaya,12.2
+2024-01-01,Sarawak,P.194 Petra Jaya,9.9
+2019-01-01,Sarawak,P.195 Bandar Kuching,4.3
+2022-01-01,Sarawak,P.195 Bandar Kuching,7.7
+2024-01-01,Sarawak,P.195 Bandar Kuching,6.3
+2019-01-01,Sarawak,P.196 Stampin,3.0
+2022-01-01,Sarawak,P.196 Stampin,5.5
+2024-01-01,Sarawak,P.196 Stampin,5.2
+2019-01-01,Sarawak,P.197 Kota Samarahan,7.7
+2022-01-01,Sarawak,P.197 Kota Samarahan,8.8
+2024-01-01,Sarawak,P.197 Kota Samarahan,6.3
+2019-01-01,Sarawak,P.198 Puncak Borneo,11.0
+2022-01-01,Sarawak,P.198 Puncak Borneo,12.5
+2024-01-01,Sarawak,P.198 Puncak Borneo,7.5
+2019-01-01,Sarawak,P.199 Serian,20.8
+2022-01-01,Sarawak,P.199 Serian,20.6
+2024-01-01,Sarawak,P.199 Serian,19.8
+2019-01-01,Sarawak,P.200 Batang Sadong,18.4
+2022-01-01,Sarawak,P.200 Batang Sadong,17.0
+2024-01-01,Sarawak,P.200 Batang Sadong,11.5
+2019-01-01,Sarawak,P.201 Batang Lupar,28.4
+2022-01-01,Sarawak,P.201 Batang Lupar,15.9
+2024-01-01,Sarawak,P.201 Batang Lupar,14.1
+2019-01-01,Sarawak,P.202 Sri Aman,9.3
+2022-01-01,Sarawak,P.202 Sri Aman,12.4
+2024-01-01,Sarawak,P.202 Sri Aman,8.0
+2019-01-01,Sarawak,P.203 Lubok Antu,8.8
+2022-01-01,Sarawak,P.203 Lubok Antu,15.1
+2024-01-01,Sarawak,P.203 Lubok Antu,13.0
+2019-01-01,Sarawak,P.204 Betong,23.0
+2022-01-01,Sarawak,P.204 Betong,8.3
+2024-01-01,Sarawak,P.204 Betong,8.3
+2019-01-01,Sarawak,P.205 Saratok,17.6
+2022-01-01,Sarawak,P.205 Saratok,7.9
+2024-01-01,Sarawak,P.205 Saratok,4.5
+2019-01-01,Sarawak,P.206 Tanjong Manis,14.8
+2022-01-01,Sarawak,P.206 Tanjong Manis,29.5
+2024-01-01,Sarawak,P.206 Tanjong Manis,21.4
+2019-01-01,Sarawak,P.207 Igan,21.8
+2022-01-01,Sarawak,P.207 Igan,23.5
+2024-01-01,Sarawak,P.207 Igan,16.7
+2019-01-01,Sarawak,P.208 Sarikei,9.1
+2022-01-01,Sarawak,P.208 Sarikei,17.2
+2024-01-01,Sarawak,P.208 Sarikei,16.6
+2019-01-01,Sarawak,P.209 Julau,18.1
+2022-01-01,Sarawak,P.209 Julau,22.9
+2024-01-01,Sarawak,P.209 Julau,21.5
+2019-01-01,Sarawak,P.210 Kanowit,21.9
+2022-01-01,Sarawak,P.210 Kanowit,24.9
+2024-01-01,Sarawak,P.210 Kanowit,21.8
+2019-01-01,Sarawak,P.211 Lanang,10.8
+2022-01-01,Sarawak,P.211 Lanang,13.9
+2024-01-01,Sarawak,P.211 Lanang,11.3
+2019-01-01,Sarawak,P.212 Sibu,4.0
+2022-01-01,Sarawak,P.212 Sibu,7.8
+2024-01-01,Sarawak,P.212 Sibu,2.1
+2019-01-01,Sarawak,P.213 Mukah,10.3
+2022-01-01,Sarawak,P.213 Mukah,13.0
+2024-01-01,Sarawak,P.213 Mukah,13.0
+2019-01-01,Sarawak,P.214 Selangau,11.1
+2022-01-01,Sarawak,P.214 Selangau,12.0
+2024-01-01,Sarawak,P.214 Selangau,7.1
+2019-01-01,Sarawak,P.215 Kapit,4.7
+2022-01-01,Sarawak,P.215 Kapit,19.1
+2024-01-01,Sarawak,P.215 Kapit,14.9
+2019-01-01,Sarawak,P.216 Hulu Rajang,6.1
+2022-01-01,Sarawak,P.216 Hulu Rajang,14.1
+2024-01-01,Sarawak,P.216 Hulu Rajang,8.9
+2019-01-01,Sarawak,P.217 Bintulu,2.4
+2022-01-01,Sarawak,P.217 Bintulu,3.7
+2024-01-01,Sarawak,P.217 Bintulu,3.4
+2019-01-01,Sarawak,P.218 Sibuti,7.9
+2022-01-01,Sarawak,P.218 Sibuti,6.9
+2024-01-01,Sarawak,P.218 Sibuti,5.4
+2019-01-01,Sarawak,P.219 Miri,4.0
+2022-01-01,Sarawak,P.219 Miri,6.5
+2024-01-01,Sarawak,P.219 Miri,3.5
+2019-01-01,Sarawak,P.220 Baram,14.4
+2022-01-01,Sarawak,P.220 Baram,10.3
+2024-01-01,Sarawak,P.220 Baram,4.5
+2019-01-01,Sarawak,P.221 Limbang,11.0
+2022-01-01,Sarawak,P.221 Limbang,14.6
+2024-01-01,Sarawak,P.221 Limbang,14.4
+2019-01-01,Sarawak,P.222 Lawas,14.6
+2022-01-01,Sarawak,P.222 Lawas,18.1
+2024-01-01,Sarawak,P.222 Lawas,14.6

@@ -1,0 +1,1036 @@
+state,strata,date,proportion
+Malaysia,overall,2000-01-01,92.0
+Malaysia,overall,2001-01-01,92.7
+Malaysia,overall,2002-01-01,93.2
+Malaysia,overall,2003-01-01,93.7
+Malaysia,overall,2004-01-01,94.0
+Malaysia,overall,2005-01-01,95.0
+Malaysia,overall,2006-01-01,94.8
+Malaysia,overall,2007-01-01,90.5
+Malaysia,overall,2008-01-01,90.9
+Malaysia,overall,2009-01-01,93.0
+Malaysia,overall,2010-01-01,94.2
+Malaysia,overall,2011-01-01,94.4
+Malaysia,overall,2012-01-01,94.7
+Malaysia,overall,2013-01-01,95.1
+Malaysia,overall,2014-01-01,95.3
+Malaysia,overall,2015-01-01,95.5
+Malaysia,overall,2016-01-01,95.3
+Malaysia,overall,2017-01-01,95.5
+Malaysia,overall,2018-01-01,95.6
+Malaysia,overall,2019-01-01,95.2
+Malaysia,overall,2020-01-01,94.5
+Malaysia,overall,2021-01-01,94.7
+Malaysia,overall,2022-01-01,94.9
+Malaysia,rural,2000-01-01,85.0
+Malaysia,rural,2001-01-01,86.0
+Malaysia,rural,2002-01-01,86.0
+Malaysia,rural,2003-01-01,86.2
+Malaysia,rural,2004-01-01,87.0
+Malaysia,rural,2005-01-01,92.0
+Malaysia,rural,2006-01-01,91.0
+Malaysia,rural,2007-01-01,84.6
+Malaysia,rural,2008-01-01,85.3
+Malaysia,rural,2009-01-01,88.4
+Malaysia,rural,2010-01-01,89.7
+Malaysia,rural,2011-01-01,90.1
+Malaysia,rural,2012-01-01,90.7
+Malaysia,rural,2013-01-01,92.5
+Malaysia,rural,2014-01-01,92.6
+Malaysia,rural,2015-01-01,93.0
+Malaysia,rural,2016-01-01,93.4
+Malaysia,rural,2017-01-01,93.9
+Malaysia,rural,2018-01-01,94.0
+Malaysia,rural,2019-01-01,93.1
+Malaysia,rural,2020-01-01,91.6
+Malaysia,rural,2021-01-01,91.9
+Malaysia,rural,2022-01-01,92.3
+Malaysia,urban,2000-01-01,97.0
+Malaysia,urban,2001-01-01,97.0
+Malaysia,urban,2002-01-01,97.0
+Malaysia,urban,2003-01-01,98.2
+Malaysia,urban,2004-01-01,97.0
+Malaysia,urban,2005-01-01,98.0
+Malaysia,urban,2006-01-01,97.8
+Malaysia,urban,2007-01-01,96.5
+Malaysia,urban,2008-01-01,96.5
+Malaysia,urban,2009-01-01,96.8
+Malaysia,urban,2010-01-01,96.7
+Malaysia,urban,2011-01-01,96.8
+Malaysia,urban,2012-01-01,96.9
+Malaysia,urban,2013-01-01,97.0
+Malaysia,urban,2014-01-01,97.1
+Malaysia,urban,2015-01-01,97.2
+Malaysia,urban,2016-01-01,97.2
+Malaysia,urban,2017-01-01,97.2
+Malaysia,urban,2018-01-01,97.2
+Malaysia,urban,2019-01-01,97.3
+Malaysia,urban,2020-01-01,97.3
+Malaysia,urban,2021-01-01,97.5
+Malaysia,urban,2022-01-01,97.4
+Johor,overall,2000-01-01,99.0
+Johor,overall,2001-01-01,99.7
+Johor,overall,2002-01-01,99.6
+Johor,overall,2003-01-01,99.7
+Johor,overall,2004-01-01,99.4
+Johor,overall,2005-01-01,99.5
+Johor,overall,2006-01-01,99.5
+Johor,overall,2007-01-01,99.8
+Johor,overall,2008-01-01,99.8
+Johor,overall,2009-01-01,99.8
+Johor,overall,2010-01-01,99.8
+Johor,overall,2011-01-01,99.8
+Johor,overall,2012-01-01,99.8
+Johor,overall,2013-01-01,99.8
+Johor,overall,2014-01-01,99.8
+Johor,overall,2015-01-01,99.8
+Johor,overall,2016-01-01,99.8
+Johor,overall,2017-01-01,99.8
+Johor,overall,2018-01-01,99.8
+Johor,overall,2019-01-01,99.8
+Johor,overall,2020-01-01,99.9
+Johor,overall,2021-01-01,99.9
+Johor,overall,2022-01-01,99.9
+Johor,rural,2000-01-01,98.0
+Johor,rural,2001-01-01,99.0
+Johor,rural,2002-01-01,99.0
+Johor,rural,2003-01-01,99.0
+Johor,rural,2004-01-01,98.0
+Johor,rural,2005-01-01,99.0
+Johor,rural,2006-01-01,99.0
+Johor,rural,2007-01-01,99.5
+Johor,rural,2008-01-01,99.5
+Johor,rural,2009-01-01,99.5
+Johor,rural,2010-01-01,99.5
+Johor,rural,2011-01-01,99.5
+Johor,rural,2012-01-01,99.5
+Johor,rural,2013-01-01,99.5
+Johor,rural,2014-01-01,99.5
+Johor,rural,2015-01-01,99.5
+Johor,rural,2016-01-01,99.5
+Johor,rural,2017-01-01,99.5
+Johor,rural,2018-01-01,99.5
+Johor,rural,2019-01-01,99.5
+Johor,rural,2020-01-01,99.8
+Johor,rural,2021-01-01,99.8
+Johor,rural,2022-01-01,99.8
+Johor,urban,2000-01-01,100.0
+Johor,urban,2001-01-01,100.0
+Johor,urban,2002-01-01,100.0
+Johor,urban,2003-01-01,100.0
+Johor,urban,2004-01-01,100.0
+Johor,urban,2005-01-01,100.0
+Johor,urban,2006-01-01,100.0
+Johor,urban,2007-01-01,100.0
+Johor,urban,2008-01-01,100.0
+Johor,urban,2009-01-01,100.0
+Johor,urban,2010-01-01,100.0
+Johor,urban,2011-01-01,100.0
+Johor,urban,2012-01-01,100.0
+Johor,urban,2013-01-01,100.0
+Johor,urban,2014-01-01,100.0
+Johor,urban,2015-01-01,100.0
+Johor,urban,2016-01-01,100.0
+Johor,urban,2017-01-01,100.0
+Johor,urban,2018-01-01,100.0
+Johor,urban,2019-01-01,100.0
+Johor,urban,2020-01-01,100.0
+Johor,urban,2021-01-01,100.0
+Johor,urban,2022-01-01,100.0
+Kedah,overall,2000-01-01,96.0
+Kedah,overall,2001-01-01,98.2
+Kedah,overall,2002-01-01,98.7
+Kedah,overall,2003-01-01,99.4
+Kedah,overall,2004-01-01,99.3
+Kedah,overall,2005-01-01,99.5
+Kedah,overall,2006-01-01,99.0
+Kedah,overall,2007-01-01,96.0
+Kedah,overall,2008-01-01,97.0
+Kedah,overall,2009-01-01,98.0
+Kedah,overall,2010-01-01,98.2
+Kedah,overall,2011-01-01,98.2
+Kedah,overall,2012-01-01,98.2
+Kedah,overall,2013-01-01,98.3
+Kedah,overall,2014-01-01,98.3
+Kedah,overall,2015-01-01,98.3
+Kedah,overall,2016-01-01,98.3
+Kedah,overall,2017-01-01,98.3
+Kedah,overall,2018-01-01,98.3
+Kedah,overall,2019-01-01,98.3
+Kedah,overall,2020-01-01,98.3
+Kedah,overall,2021-01-01,98.3
+Kedah,overall,2022-01-01,98.3
+Kedah,rural,2000-01-01,97.0
+Kedah,rural,2001-01-01,97.0
+Kedah,rural,2002-01-01,98.0
+Kedah,rural,2003-01-01,99.0
+Kedah,rural,2004-01-01,98.0
+Kedah,rural,2005-01-01,99.0
+Kedah,rural,2006-01-01,99.0
+Kedah,rural,2007-01-01,92.5
+Kedah,rural,2008-01-01,95.0
+Kedah,rural,2009-01-01,96.3
+Kedah,rural,2010-01-01,96.3
+Kedah,rural,2011-01-01,96.3
+Kedah,rural,2012-01-01,96.3
+Kedah,rural,2013-01-01,96.5
+Kedah,rural,2014-01-01,96.5
+Kedah,rural,2015-01-01,96.5
+Kedah,rural,2016-01-01,96.5
+Kedah,rural,2017-01-01,96.5
+Kedah,rural,2018-01-01,96.5
+Kedah,rural,2019-01-01,96.5
+Kedah,rural,2020-01-01,96.5
+Kedah,rural,2021-01-01,96.5
+Kedah,rural,2022-01-01,96.5
+Kedah,urban,2000-01-01,100.0
+Kedah,urban,2001-01-01,100.0
+Kedah,urban,2002-01-01,100.0
+Kedah,urban,2003-01-01,100.0
+Kedah,urban,2004-01-01,100.0
+Kedah,urban,2005-01-01,100.0
+Kedah,urban,2006-01-01,100.0
+Kedah,urban,2007-01-01,100.0
+Kedah,urban,2008-01-01,100.0
+Kedah,urban,2009-01-01,100.0
+Kedah,urban,2010-01-01,100.0
+Kedah,urban,2011-01-01,100.0
+Kedah,urban,2012-01-01,100.0
+Kedah,urban,2013-01-01,100.0
+Kedah,urban,2014-01-01,100.0
+Kedah,urban,2015-01-01,100.0
+Kedah,urban,2016-01-01,100.0
+Kedah,urban,2017-01-01,100.0
+Kedah,urban,2018-01-01,100.0
+Kedah,urban,2019-01-01,100.0
+Kedah,urban,2020-01-01,100.0
+Kedah,urban,2021-01-01,100.0
+Kedah,urban,2022-01-01,100.0
+Kelantan,overall,2000-01-01,53.0
+Kelantan,overall,2001-01-01,57.5
+Kelantan,overall,2002-01-01,61.7
+Kelantan,overall,2003-01-01,62.1
+Kelantan,overall,2004-01-01,63.8
+Kelantan,overall,2005-01-01,70.0
+Kelantan,overall,2006-01-01,72.0
+Kelantan,overall,2007-01-01,53.0
+Kelantan,overall,2008-01-01,54.2
+Kelantan,overall,2009-01-01,55.7
+Kelantan,overall,2010-01-01,55.5
+Kelantan,overall,2011-01-01,57.3
+Kelantan,overall,2012-01-01,59.9
+Kelantan,overall,2013-01-01,61.5
+Kelantan,overall,2014-01-01,63.2
+Kelantan,overall,2015-01-01,64.0
+Kelantan,overall,2016-01-01,64.7
+Kelantan,overall,2017-01-01,68.0
+Kelantan,overall,2018-01-01,69.3
+Kelantan,overall,2019-01-01,70.7
+Kelantan,overall,2020-01-01,70.7
+Kelantan,overall,2021-01-01,73.1
+Kelantan,overall,2022-01-01,73.9
+Kelantan,rural,2000-01-01,48.0
+Kelantan,rural,2001-01-01,52.0
+Kelantan,rural,2002-01-01,57.0
+Kelantan,rural,2003-01-01,57.0
+Kelantan,rural,2004-01-01,56.0
+Kelantan,rural,2005-01-01,60.0
+Kelantan,rural,2006-01-01,65.0
+Kelantan,rural,2007-01-01,52.1
+Kelantan,rural,2008-01-01,53.2
+Kelantan,rural,2009-01-01,54.7
+Kelantan,rural,2010-01-01,55.2
+Kelantan,rural,2011-01-01,57.4
+Kelantan,rural,2012-01-01,60.8
+Kelantan,rural,2013-01-01,63.4
+Kelantan,rural,2014-01-01,65.1
+Kelantan,rural,2015-01-01,66.4
+Kelantan,rural,2016-01-01,67.7
+Kelantan,rural,2017-01-01,74.4
+Kelantan,rural,2018-01-01,76.2
+Kelantan,rural,2019-01-01,77.8
+Kelantan,rural,2020-01-01,78.9
+Kelantan,rural,2021-01-01,80.8
+Kelantan,rural,2022-01-01,82.0
+Kelantan,urban,2000-01-01,63.0
+Kelantan,urban,2001-01-01,68.0
+Kelantan,urban,2002-01-01,71.0
+Kelantan,urban,2003-01-01,72.0
+Kelantan,urban,2004-01-01,71.0
+Kelantan,urban,2005-01-01,80.0
+Kelantan,urban,2006-01-01,79.0
+Kelantan,urban,2007-01-01,55.5
+Kelantan,urban,2008-01-01,56.3
+Kelantan,urban,2009-01-01,57.7
+Kelantan,urban,2010-01-01,56.2
+Kelantan,urban,2011-01-01,56.9
+Kelantan,urban,2012-01-01,57.9
+Kelantan,urban,2013-01-01,59.5
+Kelantan,urban,2014-01-01,61.3
+Kelantan,urban,2015-01-01,61.5
+Kelantan,urban,2016-01-01,61.7
+Kelantan,urban,2017-01-01,61.5
+Kelantan,urban,2018-01-01,62.4
+Kelantan,urban,2019-01-01,63.5
+Kelantan,urban,2020-01-01,64.5
+Kelantan,urban,2021-01-01,65.4
+Kelantan,urban,2022-01-01,65.8
+Melaka,overall,2000-01-01,99.0
+Melaka,overall,2001-01-01,99.7
+Melaka,overall,2002-01-01,99.6
+Melaka,overall,2003-01-01,99.7
+Melaka,overall,2004-01-01,99.6
+Melaka,overall,2005-01-01,99.8
+Melaka,overall,2006-01-01,100.0
+Melaka,overall,2007-01-01,100.0
+Melaka,overall,2008-01-01,100.0
+Melaka,overall,2009-01-01,100.0
+Melaka,overall,2010-01-01,100.0
+Melaka,overall,2011-01-01,100.0
+Melaka,overall,2012-01-01,100.0
+Melaka,overall,2013-01-01,100.0
+Melaka,overall,2014-01-01,100.0
+Melaka,overall,2015-01-01,100.0
+Melaka,overall,2016-01-01,100.0
+Melaka,overall,2017-01-01,100.0
+Melaka,overall,2018-01-01,100.0
+Melaka,overall,2019-01-01,100.0
+Melaka,overall,2020-01-01,100.0
+Melaka,overall,2021-01-01,100.0
+Melaka,overall,2022-01-01,100.0
+Melaka,rural,2000-01-01,99.0
+Melaka,rural,2001-01-01,99.0
+Melaka,rural,2002-01-01,99.0
+Melaka,rural,2003-01-01,99.0
+Melaka,rural,2004-01-01,99.0
+Melaka,rural,2005-01-01,99.0
+Melaka,rural,2006-01-01,100.0
+Melaka,rural,2007-01-01,100.0
+Melaka,rural,2008-01-01,100.0
+Melaka,rural,2009-01-01,100.0
+Melaka,rural,2010-01-01,100.0
+Melaka,rural,2011-01-01,100.0
+Melaka,rural,2012-01-01,100.0
+Melaka,rural,2013-01-01,100.0
+Melaka,rural,2014-01-01,100.0
+Melaka,rural,2015-01-01,100.0
+Melaka,rural,2016-01-01,100.0
+Melaka,rural,2017-01-01,100.0
+Melaka,rural,2018-01-01,100.0
+Melaka,rural,2019-01-01,100.0
+Melaka,rural,2020-01-01,100.0
+Melaka,rural,2021-01-01,100.0
+Melaka,rural,2022-01-01,100.0
+Melaka,urban,2000-01-01,100.0
+Melaka,urban,2001-01-01,100.0
+Melaka,urban,2002-01-01,100.0
+Melaka,urban,2003-01-01,100.0
+Melaka,urban,2004-01-01,100.0
+Melaka,urban,2005-01-01,100.0
+Melaka,urban,2006-01-01,100.0
+Melaka,urban,2007-01-01,100.0
+Melaka,urban,2008-01-01,100.0
+Melaka,urban,2009-01-01,100.0
+Melaka,urban,2010-01-01,100.0
+Melaka,urban,2011-01-01,100.0
+Melaka,urban,2012-01-01,100.0
+Melaka,urban,2013-01-01,100.0
+Melaka,urban,2014-01-01,100.0
+Melaka,urban,2015-01-01,100.0
+Melaka,urban,2016-01-01,100.0
+Melaka,urban,2017-01-01,100.0
+Melaka,urban,2018-01-01,100.0
+Melaka,urban,2019-01-01,100.0
+Melaka,urban,2020-01-01,100.0
+Melaka,urban,2021-01-01,100.0
+Melaka,urban,2022-01-01,100.0
+Negeri Sembilan,overall,2000-01-01,99.0
+Negeri Sembilan,overall,2001-01-01,99.5
+Negeri Sembilan,overall,2002-01-01,99.5
+Negeri Sembilan,overall,2003-01-01,99.5
+Negeri Sembilan,overall,2004-01-01,99.6
+Negeri Sembilan,overall,2005-01-01,99.8
+Negeri Sembilan,overall,2006-01-01,100.0
+Negeri Sembilan,overall,2007-01-01,99.8
+Negeri Sembilan,overall,2008-01-01,99.8
+Negeri Sembilan,overall,2009-01-01,99.8
+Negeri Sembilan,overall,2010-01-01,99.8
+Negeri Sembilan,overall,2011-01-01,99.9
+Negeri Sembilan,overall,2012-01-01,99.9
+Negeri Sembilan,overall,2013-01-01,99.9
+Negeri Sembilan,overall,2014-01-01,99.9
+Negeri Sembilan,overall,2015-01-01,99.9
+Negeri Sembilan,overall,2016-01-01,99.9
+Negeri Sembilan,overall,2017-01-01,99.9
+Negeri Sembilan,overall,2018-01-01,99.9
+Negeri Sembilan,overall,2019-01-01,99.9
+Negeri Sembilan,overall,2020-01-01,99.9
+Negeri Sembilan,overall,2021-01-01,99.9
+Negeri Sembilan,overall,2022-01-01,99.9
+Negeri Sembilan,rural,2000-01-01,99.0
+Negeri Sembilan,rural,2001-01-01,99.0
+Negeri Sembilan,rural,2002-01-01,99.0
+Negeri Sembilan,rural,2003-01-01,99.0
+Negeri Sembilan,rural,2004-01-01,99.0
+Negeri Sembilan,rural,2005-01-01,99.0
+Negeri Sembilan,rural,2006-01-01,100.0
+Negeri Sembilan,rural,2007-01-01,99.5
+Negeri Sembilan,rural,2008-01-01,99.5
+Negeri Sembilan,rural,2009-01-01,99.5
+Negeri Sembilan,rural,2010-01-01,99.5
+Negeri Sembilan,rural,2011-01-01,99.8
+Negeri Sembilan,rural,2012-01-01,99.8
+Negeri Sembilan,rural,2013-01-01,99.8
+Negeri Sembilan,rural,2014-01-01,99.8
+Negeri Sembilan,rural,2015-01-01,99.8
+Negeri Sembilan,rural,2016-01-01,99.8
+Negeri Sembilan,rural,2017-01-01,99.8
+Negeri Sembilan,rural,2018-01-01,99.8
+Negeri Sembilan,rural,2019-01-01,99.8
+Negeri Sembilan,rural,2020-01-01,99.8
+Negeri Sembilan,rural,2021-01-01,99.8
+Negeri Sembilan,rural,2022-01-01,99.8
+Negeri Sembilan,urban,2000-01-01,100.0
+Negeri Sembilan,urban,2001-01-01,100.0
+Negeri Sembilan,urban,2002-01-01,100.0
+Negeri Sembilan,urban,2003-01-01,100.0
+Negeri Sembilan,urban,2004-01-01,100.0
+Negeri Sembilan,urban,2005-01-01,100.0
+Negeri Sembilan,urban,2006-01-01,100.0
+Negeri Sembilan,urban,2007-01-01,100.0
+Negeri Sembilan,urban,2008-01-01,100.0
+Negeri Sembilan,urban,2009-01-01,100.0
+Negeri Sembilan,urban,2010-01-01,100.0
+Negeri Sembilan,urban,2011-01-01,100.0
+Negeri Sembilan,urban,2012-01-01,100.0
+Negeri Sembilan,urban,2013-01-01,100.0
+Negeri Sembilan,urban,2014-01-01,100.0
+Negeri Sembilan,urban,2015-01-01,100.0
+Negeri Sembilan,urban,2016-01-01,100.0
+Negeri Sembilan,urban,2017-01-01,100.0
+Negeri Sembilan,urban,2018-01-01,100.0
+Negeri Sembilan,urban,2019-01-01,100.0
+Negeri Sembilan,urban,2020-01-01,100.0
+Negeri Sembilan,urban,2021-01-01,100.0
+Negeri Sembilan,urban,2022-01-01,100.0
+Pahang,overall,2000-01-01,93.0
+Pahang,overall,2001-01-01,92.8
+Pahang,overall,2002-01-01,92.7
+Pahang,overall,2003-01-01,92.8
+Pahang,overall,2004-01-01,94.5
+Pahang,overall,2005-01-01,95.5
+Pahang,overall,2006-01-01,93.5
+Pahang,overall,2007-01-01,93.0
+Pahang,overall,2008-01-01,93.0
+Pahang,overall,2009-01-01,97.8
+Pahang,overall,2010-01-01,98.0
+Pahang,overall,2011-01-01,98.0
+Pahang,overall,2012-01-01,98.0
+Pahang,overall,2013-01-01,98.0
+Pahang,overall,2014-01-01,98.0
+Pahang,overall,2015-01-01,98.0
+Pahang,overall,2016-01-01,98.0
+Pahang,overall,2017-01-01,98.0
+Pahang,overall,2018-01-01,98.0
+Pahang,overall,2019-01-01,98.0
+Pahang,overall,2020-01-01,98.0
+Pahang,overall,2021-01-01,98.0
+Pahang,overall,2022-01-01,98.0
+Pahang,rural,2000-01-01,93.0
+Pahang,rural,2001-01-01,89.0
+Pahang,rural,2002-01-01,89.0
+Pahang,rural,2003-01-01,89.0
+Pahang,rural,2004-01-01,90.0
+Pahang,rural,2005-01-01,92.0
+Pahang,rural,2006-01-01,89.0
+Pahang,rural,2007-01-01,89.0
+Pahang,rural,2008-01-01,89.0
+Pahang,rural,2009-01-01,96.0
+Pahang,rural,2010-01-01,96.0
+Pahang,rural,2011-01-01,96.0
+Pahang,rural,2012-01-01,96.0
+Pahang,rural,2013-01-01,96.0
+Pahang,rural,2014-01-01,96.0
+Pahang,rural,2015-01-01,96.0
+Pahang,rural,2016-01-01,96.0
+Pahang,rural,2017-01-01,96.0
+Pahang,rural,2018-01-01,96.0
+Pahang,rural,2019-01-01,96.0
+Pahang,rural,2020-01-01,96.0
+Pahang,rural,2021-01-01,96.0
+Pahang,rural,2022-01-01,96.0
+Pahang,urban,2000-01-01,98.0
+Pahang,urban,2001-01-01,98.0
+Pahang,urban,2002-01-01,98.0
+Pahang,urban,2003-01-01,98.0
+Pahang,urban,2004-01-01,99.0
+Pahang,urban,2005-01-01,99.0
+Pahang,urban,2006-01-01,98.0
+Pahang,urban,2007-01-01,98.0
+Pahang,urban,2008-01-01,98.0
+Pahang,urban,2009-01-01,100.0
+Pahang,urban,2010-01-01,100.0
+Pahang,urban,2011-01-01,100.0
+Pahang,urban,2012-01-01,100.0
+Pahang,urban,2013-01-01,100.0
+Pahang,urban,2014-01-01,100.0
+Pahang,urban,2015-01-01,100.0
+Pahang,urban,2016-01-01,100.0
+Pahang,urban,2017-01-01,100.0
+Pahang,urban,2018-01-01,100.0
+Pahang,urban,2019-01-01,100.0
+Pahang,urban,2020-01-01,100.0
+Pahang,urban,2021-01-01,100.0
+Pahang,urban,2022-01-01,100.0
+Perak,overall,2000-01-01,99.0
+Perak,overall,2001-01-01,99.6
+Perak,overall,2002-01-01,99.5
+Perak,overall,2003-01-01,99.6
+Perak,overall,2004-01-01,99.6
+Perak,overall,2005-01-01,99.8
+Perak,overall,2006-01-01,99.8
+Perak,overall,2007-01-01,99.0
+Perak,overall,2008-01-01,99.5
+Perak,overall,2009-01-01,99.2
+Perak,overall,2010-01-01,99.2
+Perak,overall,2011-01-01,99.6
+Perak,overall,2012-01-01,99.6
+Perak,overall,2013-01-01,99.6
+Perak,overall,2014-01-01,99.6
+Perak,overall,2015-01-01,99.6
+Perak,overall,2016-01-01,99.6
+Perak,overall,2017-01-01,99.6
+Perak,overall,2018-01-01,99.6
+Perak,overall,2019-01-01,99.6
+Perak,overall,2020-01-01,99.6
+Perak,overall,2021-01-01,99.6
+Perak,overall,2022-01-01,99.6
+Perak,rural,2000-01-01,99.0
+Perak,rural,2001-01-01,99.0
+Perak,rural,2002-01-01,99.0
+Perak,rural,2003-01-01,99.0
+Perak,rural,2004-01-01,99.0
+Perak,rural,2005-01-01,99.0
+Perak,rural,2006-01-01,99.5
+Perak,rural,2007-01-01,97.2
+Perak,rural,2008-01-01,98.9
+Perak,rural,2009-01-01,98.0
+Perak,rural,2010-01-01,98.0
+Perak,rural,2011-01-01,99.2
+Perak,rural,2012-01-01,99.2
+Perak,rural,2013-01-01,99.2
+Perak,rural,2014-01-01,99.2
+Perak,rural,2015-01-01,99.2
+Perak,rural,2016-01-01,99.2
+Perak,rural,2017-01-01,99.2
+Perak,rural,2018-01-01,99.2
+Perak,rural,2019-01-01,99.2
+Perak,rural,2020-01-01,99.2
+Perak,rural,2021-01-01,99.2
+Perak,rural,2022-01-01,99.2
+Perak,urban,2000-01-01,100.0
+Perak,urban,2001-01-01,100.0
+Perak,urban,2002-01-01,100.0
+Perak,urban,2003-01-01,100.0
+Perak,urban,2004-01-01,100.0
+Perak,urban,2005-01-01,100.0
+Perak,urban,2006-01-01,100.0
+Perak,urban,2007-01-01,100.0
+Perak,urban,2008-01-01,100.0
+Perak,urban,2009-01-01,100.0
+Perak,urban,2010-01-01,100.0
+Perak,urban,2011-01-01,100.0
+Perak,urban,2012-01-01,100.0
+Perak,urban,2013-01-01,100.0
+Perak,urban,2014-01-01,100.0
+Perak,urban,2015-01-01,100.0
+Perak,urban,2016-01-01,100.0
+Perak,urban,2017-01-01,100.0
+Perak,urban,2018-01-01,100.0
+Perak,urban,2019-01-01,100.0
+Perak,urban,2020-01-01,100.0
+Perak,urban,2021-01-01,100.0
+Perak,urban,2022-01-01,100.0
+Perlis,overall,2000-01-01,98.0
+Perlis,overall,2001-01-01,98.0
+Perlis,overall,2002-01-01,99.2
+Perlis,overall,2003-01-01,99.3
+Perlis,overall,2004-01-01,99.3
+Perlis,overall,2005-01-01,99.5
+Perlis,overall,2006-01-01,99.5
+Perlis,overall,2007-01-01,99.0
+Perlis,overall,2008-01-01,99.4
+Perlis,overall,2009-01-01,99.4
+Perlis,overall,2010-01-01,99.4
+Perlis,overall,2011-01-01,99.5
+Perlis,overall,2012-01-01,99.5
+Perlis,overall,2013-01-01,99.5
+Perlis,overall,2014-01-01,99.5
+Perlis,overall,2015-01-01,99.5
+Perlis,overall,2016-01-01,99.5
+Perlis,overall,2017-01-01,99.5
+Perlis,overall,2018-01-01,99.5
+Perlis,overall,2019-01-01,99.5
+Perlis,overall,2020-01-01,99.5
+Perlis,overall,2021-01-01,99.5
+Perlis,overall,2022-01-01,99.5
+Perlis,rural,2000-01-01,98.0
+Perlis,rural,2001-01-01,97.0
+Perlis,rural,2002-01-01,98.0
+Perlis,rural,2003-01-01,99.0
+Perlis,rural,2004-01-01,98.0
+Perlis,rural,2005-01-01,99.0
+Perlis,rural,2006-01-01,99.0
+Perlis,rural,2007-01-01,99.0
+Perlis,rural,2008-01-01,99.0
+Perlis,rural,2009-01-01,99.0
+Perlis,rural,2010-01-01,99.0
+Perlis,rural,2011-01-01,99.0
+Perlis,rural,2012-01-01,99.0
+Perlis,rural,2013-01-01,99.0
+Perlis,rural,2014-01-01,99.0
+Perlis,rural,2015-01-01,99.0
+Perlis,rural,2016-01-01,99.0
+Perlis,rural,2017-01-01,99.0
+Perlis,rural,2018-01-01,99.0
+Perlis,rural,2019-01-01,99.0
+Perlis,rural,2020-01-01,99.0
+Perlis,rural,2021-01-01,99.0
+Perlis,rural,2022-01-01,99.0
+Perlis,urban,2000-01-01,100.0
+Perlis,urban,2001-01-01,100.0
+Perlis,urban,2002-01-01,100.0
+Perlis,urban,2003-01-01,100.0
+Perlis,urban,2004-01-01,100.0
+Perlis,urban,2005-01-01,100.0
+Perlis,urban,2006-01-01,100.0
+Perlis,urban,2007-01-01,100.0
+Perlis,urban,2008-01-01,100.0
+Perlis,urban,2009-01-01,100.0
+Perlis,urban,2010-01-01,100.0
+Perlis,urban,2011-01-01,100.0
+Perlis,urban,2012-01-01,100.0
+Perlis,urban,2013-01-01,100.0
+Perlis,urban,2014-01-01,100.0
+Perlis,urban,2015-01-01,100.0
+Perlis,urban,2016-01-01,100.0
+Perlis,urban,2017-01-01,100.0
+Perlis,urban,2018-01-01,100.0
+Perlis,urban,2019-01-01,100.0
+Perlis,urban,2020-01-01,100.0
+Perlis,urban,2021-01-01,100.0
+Perlis,urban,2022-01-01,100.0
+Pulau Pinang,overall,2000-01-01,99.0
+Pulau Pinang,overall,2001-01-01,99.8
+Pulau Pinang,overall,2002-01-01,99.8
+Pulau Pinang,overall,2003-01-01,99.8
+Pulau Pinang,overall,2004-01-01,99.6
+Pulau Pinang,overall,2005-01-01,99.8
+Pulau Pinang,overall,2006-01-01,99.5
+Pulau Pinang,overall,2007-01-01,99.9
+Pulau Pinang,overall,2008-01-01,99.9
+Pulau Pinang,overall,2009-01-01,99.9
+Pulau Pinang,overall,2010-01-01,99.9
+Pulau Pinang,overall,2011-01-01,99.8
+Pulau Pinang,overall,2012-01-01,99.9
+Pulau Pinang,overall,2013-01-01,99.9
+Pulau Pinang,overall,2014-01-01,99.9
+Pulau Pinang,overall,2015-01-01,99.9
+Pulau Pinang,overall,2016-01-01,99.9
+Pulau Pinang,overall,2017-01-01,99.9
+Pulau Pinang,overall,2018-01-01,99.9
+Pulau Pinang,overall,2019-01-01,99.9
+Pulau Pinang,overall,2020-01-01,99.9
+Pulau Pinang,overall,2021-01-01,99.9
+Pulau Pinang,overall,2022-01-01,99.9
+Pulau Pinang,rural,2000-01-01,99.0
+Pulau Pinang,rural,2001-01-01,99.0
+Pulau Pinang,rural,2002-01-01,99.0
+Pulau Pinang,rural,2003-01-01,99.0
+Pulau Pinang,rural,2004-01-01,99.0
+Pulau Pinang,rural,2005-01-01,99.0
+Pulau Pinang,rural,2006-01-01,99.0
+Pulau Pinang,rural,2007-01-01,99.5
+Pulau Pinang,rural,2008-01-01,99.6
+Pulau Pinang,rural,2009-01-01,99.6
+Pulau Pinang,rural,2010-01-01,99.7
+Pulau Pinang,rural,2011-01-01,99.7
+Pulau Pinang,rural,2012-01-01,99.7
+Pulau Pinang,rural,2013-01-01,99.7
+Pulau Pinang,rural,2014-01-01,99.7
+Pulau Pinang,rural,2015-01-01,99.7
+Pulau Pinang,rural,2016-01-01,99.7
+Pulau Pinang,rural,2017-01-01,99.8
+Pulau Pinang,rural,2018-01-01,99.8
+Pulau Pinang,rural,2019-01-01,99.8
+Pulau Pinang,rural,2020-01-01,99.8
+Pulau Pinang,rural,2021-01-01,99.8
+Pulau Pinang,rural,2022-01-01,99.8
+Pulau Pinang,urban,2000-01-01,100.0
+Pulau Pinang,urban,2001-01-01,100.0
+Pulau Pinang,urban,2002-01-01,100.0
+Pulau Pinang,urban,2003-01-01,100.0
+Pulau Pinang,urban,2004-01-01,100.0
+Pulau Pinang,urban,2005-01-01,100.0
+Pulau Pinang,urban,2006-01-01,100.0
+Pulau Pinang,urban,2007-01-01,100.0
+Pulau Pinang,urban,2008-01-01,100.0
+Pulau Pinang,urban,2009-01-01,100.0
+Pulau Pinang,urban,2010-01-01,100.0
+Pulau Pinang,urban,2011-01-01,100.0
+Pulau Pinang,urban,2012-01-01,100.0
+Pulau Pinang,urban,2013-01-01,100.0
+Pulau Pinang,urban,2014-01-01,100.0
+Pulau Pinang,urban,2015-01-01,100.0
+Pulau Pinang,urban,2016-01-01,100.0
+Pulau Pinang,urban,2017-01-01,100.0
+Pulau Pinang,urban,2018-01-01,100.0
+Pulau Pinang,urban,2019-01-01,100.0
+Pulau Pinang,urban,2020-01-01,100.0
+Pulau Pinang,urban,2021-01-01,100.0
+Pulau Pinang,urban,2022-01-01,100.0
+Sabah,overall,2000-01-01,73.0
+Sabah,overall,2001-01-01,72.9
+Sabah,overall,2002-01-01,72.9
+Sabah,overall,2003-01-01,73.9
+Sabah,overall,2004-01-01,75.8
+Sabah,overall,2005-01-01,75.5
+Sabah,overall,2006-01-01,77.0
+Sabah,overall,2007-01-01,76.0
+Sabah,overall,2008-01-01,76.0
+Sabah,overall,2009-01-01,76.3
+Sabah,overall,2010-01-01,79.7
+Sabah,overall,2011-01-01,80.0
+Sabah,overall,2012-01-01,82.0
+Sabah,overall,2013-01-01,86.0
+Sabah,overall,2014-01-01,86.5
+Sabah,overall,2015-01-01,87.9
+Sabah,overall,2016-01-01,89.4
+Sabah,overall,2017-01-01,89.0
+Sabah,overall,2018-01-01,89.0
+Sabah,overall,2019-01-01,89.0
+Sabah,overall,2020-01-01,77.0
+Sabah,overall,2021-01-01,78.0
+Sabah,overall,2022-01-01,80.5
+Sabah,rural,2000-01-01,73.0
+Sabah,rural,2001-01-01,59.0
+Sabah,rural,2002-01-01,59.0
+Sabah,rural,2003-01-01,59.0
+Sabah,rural,2004-01-01,62.0
+Sabah,rural,2005-01-01,61.0
+Sabah,rural,2006-01-01,64.0
+Sabah,rural,2007-01-01,52.0
+Sabah,rural,2008-01-01,52.0
+Sabah,rural,2009-01-01,52.3
+Sabah,rural,2010-01-01,58.6
+Sabah,rural,2011-01-01,59.0
+Sabah,rural,2012-01-01,64.2
+Sabah,rural,2013-01-01,73.1
+Sabah,rural,2014-01-01,73.1
+Sabah,rural,2015-01-01,76.0
+Sabah,rural,2016-01-01,79.0
+Sabah,rural,2017-01-01,78.0
+Sabah,rural,2018-01-01,78.0
+Sabah,rural,2019-01-01,78.0
+Sabah,rural,2020-01-01,54.0
+Sabah,rural,2021-01-01,56.0
+Sabah,rural,2022-01-01,61.0
+Sabah,urban,2000-01-01,88.0
+Sabah,urban,2001-01-01,88.0
+Sabah,urban,2002-01-01,88.0
+Sabah,urban,2003-01-01,90.0
+Sabah,urban,2004-01-01,89.0
+Sabah,urban,2005-01-01,90.0
+Sabah,urban,2006-01-01,94.0
+Sabah,urban,2007-01-01,99.0
+Sabah,urban,2008-01-01,99.0
+Sabah,urban,2009-01-01,99.2
+Sabah,urban,2010-01-01,99.5
+Sabah,urban,2011-01-01,99.5
+Sabah,urban,2012-01-01,99.8
+Sabah,urban,2013-01-01,99.8
+Sabah,urban,2014-01-01,99.8
+Sabah,urban,2015-01-01,99.8
+Sabah,urban,2016-01-01,99.8
+Sabah,urban,2017-01-01,100.0
+Sabah,urban,2018-01-01,100.0
+Sabah,urban,2019-01-01,100.0
+Sabah,urban,2020-01-01,100.0
+Sabah,urban,2021-01-01,100.0
+Sabah,urban,2022-01-01,100.0
+Sarawak,overall,2000-01-01,96.0
+Sarawak,overall,2001-01-01,95.8
+Sarawak,overall,2002-01-01,95.8
+Sarawak,overall,2003-01-01,95.8
+Sarawak,overall,2004-01-01,96.0
+Sarawak,overall,2005-01-01,96.0
+Sarawak,overall,2006-01-01,96.0
+Sarawak,overall,2007-01-01,77.0
+Sarawak,overall,2008-01-01,78.0
+Sarawak,overall,2009-01-01,86.2
+Sarawak,overall,2010-01-01,93.7
+Sarawak,overall,2011-01-01,93.7
+Sarawak,overall,2012-01-01,93.8
+Sarawak,overall,2013-01-01,93.8
+Sarawak,overall,2014-01-01,94.0
+Sarawak,overall,2015-01-01,87.9
+Sarawak,overall,2016-01-01,89.2
+Sarawak,overall,2017-01-01,89.6
+Sarawak,overall,2018-01-01,89.8
+Sarawak,overall,2019-01-01,81.9
+Sarawak,overall,2020-01-01,83.4
+Sarawak,overall,2021-01-01,83.6
+Sarawak,overall,2022-01-01,83.7
+Sarawak,rural,2000-01-01,92.0
+Sarawak,rural,2001-01-01,92.0
+Sarawak,rural,2002-01-01,92.0
+Sarawak,rural,2003-01-01,92.0
+Sarawak,rural,2004-01-01,92.0
+Sarawak,rural,2005-01-01,92.0
+Sarawak,rural,2006-01-01,92.0
+Sarawak,rural,2007-01-01,54.1
+Sarawak,rural,2008-01-01,56.5
+Sarawak,rural,2009-01-01,61.5
+Sarawak,rural,2010-01-01,61.7
+Sarawak,rural,2011-01-01,63.0
+Sarawak,rural,2012-01-01,63.5
+Sarawak,rural,2013-01-01,76.0
+Sarawak,rural,2014-01-01,76.6
+Sarawak,rural,2015-01-01,78.0
+Sarawak,rural,2016-01-01,78.7
+Sarawak,rural,2017-01-01,79.5
+Sarawak,rural,2018-01-01,79.7
+Sarawak,rural,2019-01-01,64.8
+Sarawak,rural,2020-01-01,66.5
+Sarawak,rural,2021-01-01,66.9
+Sarawak,rural,2022-01-01,67.2
+Sarawak,urban,2000-01-01,100.0
+Sarawak,urban,2001-01-01,100.0
+Sarawak,urban,2002-01-01,100.0
+Sarawak,urban,2003-01-01,100.0
+Sarawak,urban,2004-01-01,100.0
+Sarawak,urban,2005-01-01,100.0
+Sarawak,urban,2006-01-01,100.0
+Sarawak,urban,2007-01-01,100.0
+Sarawak,urban,2008-01-01,99.0
+Sarawak,urban,2009-01-01,99.5
+Sarawak,urban,2010-01-01,99.5
+Sarawak,urban,2011-01-01,99.5
+Sarawak,urban,2012-01-01,99.6
+Sarawak,urban,2013-01-01,99.7
+Sarawak,urban,2014-01-01,99.8
+Sarawak,urban,2015-01-01,99.8
+Sarawak,urban,2016-01-01,99.8
+Sarawak,urban,2017-01-01,99.8
+Sarawak,urban,2018-01-01,99.9
+Sarawak,urban,2019-01-01,99.9
+Sarawak,urban,2020-01-01,99.0
+Sarawak,urban,2021-01-01,99.0
+Sarawak,urban,2022-01-01,99.0
+Selangor,overall,2000-01-01,99.0
+Selangor,overall,2001-01-01,99.8
+Selangor,overall,2002-01-01,99.7
+Selangor,overall,2003-01-01,99.9
+Selangor,overall,2004-01-01,99.6
+Selangor,overall,2005-01-01,99.5
+Selangor,overall,2006-01-01,99.9
+Selangor,overall,2007-01-01,99.9
+Selangor,overall,2008-01-01,99.9
+Selangor,overall,2009-01-01,99.9
+Selangor,overall,2010-01-01,99.5
+Selangor,overall,2011-01-01,99.8
+Selangor,overall,2012-01-01,99.8
+Selangor,overall,2013-01-01,99.8
+Selangor,overall,2014-01-01,99.8
+Selangor,overall,2015-01-01,99.8
+Selangor,overall,2016-01-01,99.8
+Selangor,overall,2017-01-01,99.8
+Selangor,overall,2018-01-01,99.8
+Selangor,overall,2019-01-01,99.8
+Selangor,overall,2020-01-01,99.8
+Selangor,overall,2021-01-01,99.8
+Selangor,overall,2022-01-01,99.8
+Selangor,rural,2000-01-01,98.0
+Selangor,rural,2001-01-01,98.0
+Selangor,rural,2002-01-01,98.0
+Selangor,rural,2003-01-01,99.0
+Selangor,rural,2004-01-01,99.0
+Selangor,rural,2005-01-01,99.0
+Selangor,rural,2006-01-01,99.0
+Selangor,rural,2007-01-01,99.0
+Selangor,rural,2008-01-01,99.0
+Selangor,rural,2009-01-01,99.0
+Selangor,rural,2010-01-01,99.0
+Selangor,rural,2011-01-01,99.5
+Selangor,rural,2012-01-01,99.5
+Selangor,rural,2013-01-01,99.5
+Selangor,rural,2014-01-01,99.5
+Selangor,rural,2015-01-01,99.5
+Selangor,rural,2016-01-01,99.5
+Selangor,rural,2017-01-01,99.5
+Selangor,rural,2018-01-01,99.5
+Selangor,rural,2019-01-01,99.5
+Selangor,rural,2020-01-01,99.5
+Selangor,rural,2021-01-01,99.5
+Selangor,rural,2022-01-01,99.5
+Selangor,urban,2000-01-01,100.0
+Selangor,urban,2001-01-01,100.0
+Selangor,urban,2002-01-01,100.0
+Selangor,urban,2003-01-01,100.0
+Selangor,urban,2004-01-01,100.0
+Selangor,urban,2005-01-01,100.0
+Selangor,urban,2006-01-01,100.0
+Selangor,urban,2007-01-01,100.0
+Selangor,urban,2008-01-01,100.0
+Selangor,urban,2009-01-01,100.0
+Selangor,urban,2010-01-01,100.0
+Selangor,urban,2011-01-01,100.0
+Selangor,urban,2012-01-01,100.0
+Selangor,urban,2013-01-01,100.0
+Selangor,urban,2014-01-01,100.0
+Selangor,urban,2015-01-01,100.0
+Selangor,urban,2016-01-01,100.0
+Selangor,urban,2017-01-01,100.0
+Selangor,urban,2018-01-01,100.0
+Selangor,urban,2019-01-01,100.0
+Selangor,urban,2020-01-01,100.0
+Selangor,urban,2021-01-01,100.0
+Selangor,urban,2022-01-01,100.0
+Terengganu,overall,2000-01-01,81.0
+Terengganu,overall,2001-01-01,82.4
+Terengganu,overall,2002-01-01,87.7
+Terengganu,overall,2003-01-01,87.8
+Terengganu,overall,2004-01-01,84.8
+Terengganu,overall,2005-01-01,96.0
+Terengganu,overall,2006-01-01,91.0
+Terengganu,overall,2007-01-01,90.0
+Terengganu,overall,2008-01-01,90.4
+Terengganu,overall,2009-01-01,90.7
+Terengganu,overall,2010-01-01,95.7
+Terengganu,overall,2011-01-01,95.8
+Terengganu,overall,2012-01-01,96.0
+Terengganu,overall,2013-01-01,96.0
+Terengganu,overall,2014-01-01,96.0
+Terengganu,overall,2015-01-01,96.0
+Terengganu,overall,2016-01-01,96.0
+Terengganu,overall,2017-01-01,96.0
+Terengganu,overall,2018-01-01,96.0
+Terengganu,overall,2019-01-01,96.0
+Terengganu,overall,2020-01-01,96.0
+Terengganu,overall,2021-01-01,96.0
+Terengganu,overall,2022-01-01,96.0
+Terengganu,rural,2000-01-01,78.0
+Terengganu,rural,2001-01-01,79.0
+Terengganu,rural,2002-01-01,79.0
+Terengganu,rural,2003-01-01,79.0
+Terengganu,rural,2004-01-01,81.0
+Terengganu,rural,2005-01-01,83.0
+Terengganu,rural,2006-01-01,83.0
+Terengganu,rural,2007-01-01,81.5
+Terengganu,rural,2008-01-01,82.0
+Terengganu,rural,2009-01-01,82.5
+Terengganu,rural,2010-01-01,92.7
+Terengganu,rural,2011-01-01,92.8
+Terengganu,rural,2012-01-01,92.9
+Terengganu,rural,2013-01-01,92.9
+Terengganu,rural,2014-01-01,92.9
+Terengganu,rural,2015-01-01,92.9
+Terengganu,rural,2016-01-01,92.9
+Terengganu,rural,2017-01-01,92.9
+Terengganu,rural,2018-01-01,92.9
+Terengganu,rural,2019-01-01,92.9
+Terengganu,rural,2020-01-01,92.9
+Terengganu,rural,2021-01-01,92.9
+Terengganu,rural,2022-01-01,92.9
+Terengganu,urban,2000-01-01,84.0
+Terengganu,urban,2001-01-01,86.0
+Terengganu,urban,2002-01-01,97.0
+Terengganu,urban,2003-01-01,97.0
+Terengganu,urban,2004-01-01,88.0
+Terengganu,urban,2005-01-01,100.0
+Terengganu,urban,2006-01-01,98.0
+Terengganu,urban,2007-01-01,98.0
+Terengganu,urban,2008-01-01,98.5
+Terengganu,urban,2009-01-01,98.6
+Terengganu,urban,2010-01-01,98.6
+Terengganu,urban,2011-01-01,98.8
+Terengganu,urban,2012-01-01,99.1
+Terengganu,urban,2013-01-01,99.1
+Terengganu,urban,2014-01-01,99.1
+Terengganu,urban,2015-01-01,99.1
+Terengganu,urban,2016-01-01,99.1
+Terengganu,urban,2017-01-01,99.1
+Terengganu,urban,2018-01-01,99.1
+Terengganu,urban,2019-01-01,99.1
+Terengganu,urban,2020-01-01,99.1
+Terengganu,urban,2021-01-01,99.1
+Terengganu,urban,2022-01-01,99.1
+W.P. Labuan,overall,2000-01-01,100.0
+W.P. Labuan,overall,2001-01-01,100.0
+W.P. Labuan,overall,2002-01-01,100.0
+W.P. Labuan,overall,2003-01-01,100.0
+W.P. Labuan,overall,2004-01-01,100.0
+W.P. Labuan,overall,2005-01-01,100.0
+W.P. Labuan,overall,2006-01-01,100.0
+W.P. Labuan,overall,2007-01-01,100.0
+W.P. Labuan,overall,2008-01-01,100.0
+W.P. Labuan,overall,2009-01-01,100.0
+W.P. Labuan,overall,2010-01-01,100.0
+W.P. Labuan,overall,2011-01-01,100.0
+W.P. Labuan,overall,2012-01-01,100.0
+W.P. Labuan,overall,2013-01-01,100.0
+W.P. Labuan,overall,2014-01-01,100.0
+W.P. Labuan,overall,2015-01-01,100.0
+W.P. Labuan,overall,2016-01-01,100.0
+W.P. Labuan,overall,2017-01-01,100.0
+W.P. Labuan,overall,2018-01-01,100.0
+W.P. Labuan,overall,2019-01-01,100.0
+W.P. Labuan,overall,2020-01-01,100.0
+W.P. Labuan,overall,2021-01-01,100.0
+W.P. Labuan,overall,2022-01-01,100.0
+W.P. Labuan,rural,2000-01-01,100.0
+W.P. Labuan,rural,2001-01-01,100.0
+W.P. Labuan,rural,2002-01-01,100.0
+W.P. Labuan,rural,2003-01-01,100.0
+W.P. Labuan,rural,2004-01-01,100.0
+W.P. Labuan,rural,2005-01-01,100.0
+W.P. Labuan,rural,2006-01-01,100.0
+W.P. Labuan,rural,2007-01-01,100.0
+W.P. Labuan,rural,2008-01-01,100.0
+W.P. Labuan,rural,2009-01-01,100.0
+W.P. Labuan,rural,2010-01-01,100.0
+W.P. Labuan,rural,2011-01-01,100.0
+W.P. Labuan,rural,2012-01-01,100.0
+W.P. Labuan,rural,2013-01-01,100.0
+W.P. Labuan,rural,2014-01-01,100.0
+W.P. Labuan,rural,2015-01-01,100.0
+W.P. Labuan,rural,2016-01-01,100.0
+W.P. Labuan,rural,2017-01-01,100.0
+W.P. Labuan,rural,2018-01-01,100.0
+W.P. Labuan,rural,2019-01-01,100.0
+W.P. Labuan,rural,2020-01-01,100.0
+W.P. Labuan,rural,2021-01-01,100.0
+W.P. Labuan,rural,2022-01-01,100.0
+W.P. Labuan,urban,2000-01-01,100.0
+W.P. Labuan,urban,2001-01-01,100.0
+W.P. Labuan,urban,2002-01-01,100.0
+W.P. Labuan,urban,2003-01-01,100.0
+W.P. Labuan,urban,2004-01-01,100.0
+W.P. Labuan,urban,2005-01-01,100.0
+W.P. Labuan,urban,2006-01-01,100.0
+W.P. Labuan,urban,2007-01-01,100.0
+W.P. Labuan,urban,2008-01-01,100.0
+W.P. Labuan,urban,2009-01-01,100.0
+W.P. Labuan,urban,2010-01-01,100.0
+W.P. Labuan,urban,2011-01-01,100.0
+W.P. Labuan,urban,2012-01-01,100.0
+W.P. Labuan,urban,2013-01-01,100.0
+W.P. Labuan,urban,2014-01-01,100.0
+W.P. Labuan,urban,2015-01-01,100.0
+W.P. Labuan,urban,2016-01-01,100.0
+W.P. Labuan,urban,2017-01-01,100.0
+W.P. Labuan,urban,2018-01-01,100.0
+W.P. Labuan,urban,2019-01-01,100.0
+W.P. Labuan,urban,2020-01-01,100.0
+W.P. Labuan,urban,2021-01-01,100.0
+W.P. Labuan,urban,2022-01-01,100.0

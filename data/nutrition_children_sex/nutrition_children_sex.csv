@@ -1,0 +1,31 @@
+date,sex,indicator,range,description,prevalence
+2019-01-01,both,WAZ,< -2SD,Underweight,14.1
+2019-01-01,both,WAZ,-2SD to 2SD,Normal,82.2
+2019-01-01,both,WAZ,> 2SD,Overweight,3.7
+2019-01-01,male,WAZ,< -2SD,Underweight,15.5
+2019-01-01,male,WAZ,-2SD to 2SD,Normal,80.4
+2019-01-01,male,WAZ,> 2SD,Overweight,4.1
+2019-01-01,female,WAZ,< -2SD,Underweight,12.6
+2019-01-01,female,WAZ,-2SD to 2SD,Normal,84.1
+2019-01-01,female,WAZ,> 2SD,Overweight,3.3
+2019-01-01,both,HAZ,< -2SD,Stunting,21.8
+2019-01-01,both,HAZ,-2SD to 2SD,Normal,73.6
+2019-01-01,both,HAZ,> 2SD,Tall,4.6
+2019-01-01,male,HAZ,< -2SD,Stunting,20.2
+2019-01-01,male,HAZ,-2SD to 2SD,Normal,74.7
+2019-01-01,male,HAZ,> 2SD,Tall,5.1
+2019-01-01,female,HAZ,< -2SD,Stunting,23.5
+2019-01-01,female,HAZ,-2SD to 2SD,Normal,72.5
+2019-01-01,female,HAZ,> 2SD,Tall,4.0
+2019-01-01,both,WHZ,< -2SD,Wasting,9.7
+2019-01-01,both,WHZ,-2SD to 2SD,Normal,85.1
+2019-01-01,both,WHZ,2SD to 2SD,Overweight,2.4
+2019-01-01,both,WHZ,> 3SD,Obese,2.8
+2019-01-01,male,WHZ,< -2SD,Wasting,11.3
+2019-01-01,male,WHZ,-2SD to 2SD,Normal,82.9
+2019-01-01,male,WHZ,2SD to 2SD,Overweight,2.4
+2019-01-01,male,WHZ,> 3SD,Obese,3.4
+2019-01-01,female,WHZ,< -2SD,Wasting,7.9
+2019-01-01,female,WHZ,-2SD to 2SD,Normal,87.5
+2019-01-01,female,WHZ,2SD to 2SD,Overweight,2.4
+2019-01-01,female,WHZ,> 3SD,Obese,2.2

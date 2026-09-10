@@ -1,0 +1,1951 @@
+state,type,date,abs,rate
+Johor,total,2000-01-01,541,8.1
+Johor,total,2001-01-01,593,9.7
+Johor,total,2002-01-01,554,9.3
+Johor,total,2003-01-01,528,9.1
+Johor,total,2004-01-01,491,8.6
+Johor,total,2005-01-01,508,9.0
+Johor,total,2006-01-01,449,7.9
+Johor,total,2007-01-01,429,7.4
+Johor,total,2008-01-01,515,8.9
+Johor,total,2009-01-01,464,8.0
+Johor,total,2010-01-01,483,8.6
+Johor,total,2011-01-01,456,7.8
+Johor,total,2012-01-01,512,8.5
+Johor,total,2013-01-01,442,7.7
+Johor,total,2014-01-01,445,7.4
+Johor,total,2015-01-01,517,8.5
+Johor,total,2016-01-01,534,9.0
+Johor,total,2017-01-01,503,8.2
+Johor,total,2018-01-01,515,8.4
+Johor,total,2019-01-01,473,7.8
+Johor,total,2020-01-01,412,7.2
+Johor,total,2021-01-01,402,8.0
+Johor,total,2022-01-01,409,8.5
+Johor,total,2023-01-01,412,7.3
+Johor,total,2024-01-01,434,8.5
+Johor,perinatal,2000-01-01,193,2.9
+Johor,perinatal,2001-01-01,366,5.9
+Johor,perinatal,2002-01-01,378,6.3
+Johor,perinatal,2003-01-01,416,7.1
+Johor,perinatal,2004-01-01,362,6.3
+Johor,perinatal,2005-01-01,389,6.9
+Johor,perinatal,2006-01-01,397,7.0
+Johor,perinatal,2007-01-01,421,7.3
+Johor,perinatal,2008-01-01,394,6.8
+Johor,perinatal,2009-01-01,423,7.3
+Johor,perinatal,2010-01-01,402,7.1
+Johor,perinatal,2011-01-01,404,6.9
+Johor,perinatal,2012-01-01,429,7.1
+Johor,perinatal,2013-01-01,441,7.6
+Johor,perinatal,2014-01-01,414,6.8
+Johor,perinatal,2015-01-01,540,8.9
+Johor,perinatal,2016-01-01,543,9.1
+Johor,perinatal,2017-01-01,504,8.2
+Johor,perinatal,2018-01-01,576,9.4
+Johor,perinatal,2019-01-01,499,8.2
+Johor,perinatal,2020-01-01,456,8.0
+Johor,perinatal,2021-01-01,431,8.6
+Johor,perinatal,2022-01-01,382,7.9
+Johor,perinatal,2023-01-01,383,6.8
+Johor,perinatal,2024-01-01,363,7.1
+Johor,neonatal,2000-01-01,239,3.6
+Johor,neonatal,2001-01-01,281,4.6
+Johor,neonatal,2002-01-01,257,4.3
+Johor,neonatal,2003-01-01,247,4.2
+Johor,neonatal,2004-01-01,235,4.1
+Johor,neonatal,2005-01-01,237,4.2
+Johor,neonatal,2006-01-01,228,4.0
+Johor,neonatal,2007-01-01,223,3.9
+Johor,neonatal,2008-01-01,252,4.4
+Johor,neonatal,2009-01-01,235,4.1
+Johor,neonatal,2010-01-01,248,4.4
+Johor,neonatal,2011-01-01,228,3.9
+Johor,neonatal,2012-01-01,267,4.4
+Johor,neonatal,2013-01-01,235,4.1
+Johor,neonatal,2014-01-01,242,4.0
+Johor,neonatal,2015-01-01,285,4.7
+Johor,neonatal,2016-01-01,287,4.8
+Johor,neonatal,2017-01-01,274,4.5
+Johor,neonatal,2018-01-01,265,4.3
+Johor,neonatal,2019-01-01,238,3.9
+Johor,neonatal,2020-01-01,239,4.2
+Johor,neonatal,2021-01-01,221,4.4
+Johor,neonatal,2022-01-01,202,4.2
+Johor,neonatal,2023-01-01,206,3.7
+Johor,neonatal,2024-01-01,219,4.3
+Johor,infant,2000-01-01,419,6.2
+Johor,infant,2001-01-01,471,7.7
+Johor,infant,2002-01-01,425,7.1
+Johor,infant,2003-01-01,411,7.1
+Johor,infant,2004-01-01,389,6.8
+Johor,infant,2005-01-01,411,7.3
+Johor,infant,2006-01-01,370,6.5
+Johor,infant,2007-01-01,355,6.1
+Johor,infant,2008-01-01,401,6.9
+Johor,infant,2009-01-01,387,6.7
+Johor,infant,2010-01-01,396,7.1
+Johor,infant,2011-01-01,374,6.4
+Johor,infant,2012-01-01,424,7.0
+Johor,infant,2013-01-01,364,6.3
+Johor,infant,2014-01-01,368,6.1
+Johor,infant,2015-01-01,440,7.3
+Johor,infant,2016-01-01,443,7.4
+Johor,infant,2017-01-01,413,6.8
+Johor,infant,2018-01-01,422,6.9
+Johor,infant,2019-01-01,386,6.4
+Johor,infant,2020-01-01,354,6.2
+Johor,infant,2021-01-01,343,6.9
+Johor,infant,2022-01-01,323,6.7
+Johor,infant,2023-01-01,341,6.1
+Johor,infant,2024-01-01,360,7.1
+Johor,toddler,2000-01-01,122,0.5
+Johor,toddler,2001-01-01,122,0.5
+Johor,toddler,2002-01-01,129,0.5
+Johor,toddler,2003-01-01,117,0.5
+Johor,toddler,2004-01-01,102,0.4
+Johor,toddler,2005-01-01,97,0.4
+Johor,toddler,2006-01-01,79,0.3
+Johor,toddler,2007-01-01,74,0.3
+Johor,toddler,2008-01-01,114,0.5
+Johor,toddler,2009-01-01,77,0.3
+Johor,toddler,2010-01-01,87,0.4
+Johor,toddler,2011-01-01,82,0.4
+Johor,toddler,2012-01-01,88,0.4
+Johor,toddler,2013-01-01,78,0.3
+Johor,toddler,2014-01-01,77,0.3
+Johor,toddler,2015-01-01,77,0.3
+Johor,toddler,2016-01-01,91,0.4
+Johor,toddler,2017-01-01,90,0.4
+Johor,toddler,2018-01-01,93,0.4
+Johor,toddler,2019-01-01,87,0.4
+Johor,toddler,2020-01-01,58,0.2
+Johor,toddler,2021-01-01,59,0.2
+Johor,toddler,2022-01-01,86,0.4
+Johor,toddler,2023-01-01,71,0.3
+Johor,toddler,2024-01-01,74,0.4
+Kedah,total,2000-01-01,321,7.8
+Kedah,total,2001-01-01,427,11.2
+Kedah,total,2002-01-01,366,10.0
+Kedah,total,2003-01-01,356,10.1
+Kedah,total,2004-01-01,335,9.6
+Kedah,total,2005-01-01,334,9.8
+Kedah,total,2006-01-01,293,8.7
+Kedah,total,2007-01-01,329,9.7
+Kedah,total,2008-01-01,353,10.0
+Kedah,total,2009-01-01,340,9.4
+Kedah,total,2010-01-01,324,9.2
+Kedah,total,2011-01-01,282,7.8
+Kedah,total,2012-01-01,311,8.5
+Kedah,total,2013-01-01,292,8.3
+Kedah,total,2014-01-01,287,7.9
+Kedah,total,2015-01-01,288,7.8
+Kedah,total,2016-01-01,308,8.6
+Kedah,total,2017-01-01,268,7.3
+Kedah,total,2018-01-01,286,8.0
+Kedah,total,2019-01-01,279,8.1
+Kedah,total,2020-01-01,218,6.4
+Kedah,total,2021-01-01,231,7.0
+Kedah,total,2022-01-01,244,7.9
+Kedah,total,2023-01-01,249,7.4
+Kedah,total,2024-01-01,269,8.8
+Kedah,perinatal,2000-01-01,188,4.6
+Kedah,perinatal,2001-01-01,373,9.7
+Kedah,perinatal,2002-01-01,342,9.3
+Kedah,perinatal,2003-01-01,362,10.2
+Kedah,perinatal,2004-01-01,331,9.4
+Kedah,perinatal,2005-01-01,355,10.3
+Kedah,perinatal,2006-01-01,315,9.2
+Kedah,perinatal,2007-01-01,324,9.5
+Kedah,perinatal,2008-01-01,343,9.6
+Kedah,perinatal,2009-01-01,353,9.7
+Kedah,perinatal,2010-01-01,333,9.4
+Kedah,perinatal,2011-01-01,321,8.9
+Kedah,perinatal,2012-01-01,323,8.8
+Kedah,perinatal,2013-01-01,295,8.4
+Kedah,perinatal,2014-01-01,315,8.6
+Kedah,perinatal,2015-01-01,296,8.0
+Kedah,perinatal,2016-01-01,294,8.1
+Kedah,perinatal,2017-01-01,301,8.2
+Kedah,perinatal,2018-01-01,283,7.9
+Kedah,perinatal,2019-01-01,293,8.4
+Kedah,perinatal,2020-01-01,252,7.4
+Kedah,perinatal,2021-01-01,256,7.7
+Kedah,perinatal,2022-01-01,237,7.7
+Kedah,perinatal,2023-01-01,243,7.2
+Kedah,perinatal,2024-01-01,254,8.3
+Kedah,neonatal,2000-01-01,123,3.0
+Kedah,neonatal,2001-01-01,199,5.2
+Kedah,neonatal,2002-01-01,151,4.1
+Kedah,neonatal,2003-01-01,176,5.0
+Kedah,neonatal,2004-01-01,163,4.6
+Kedah,neonatal,2005-01-01,170,5.0
+Kedah,neonatal,2006-01-01,151,4.5
+Kedah,neonatal,2007-01-01,178,5.2
+Kedah,neonatal,2008-01-01,197,5.6
+Kedah,neonatal,2009-01-01,199,5.5
+Kedah,neonatal,2010-01-01,191,5.4
+Kedah,neonatal,2011-01-01,162,4.5
+Kedah,neonatal,2012-01-01,179,4.9
+Kedah,neonatal,2013-01-01,154,4.4
+Kedah,neonatal,2014-01-01,164,4.5
+Kedah,neonatal,2015-01-01,151,4.1
+Kedah,neonatal,2016-01-01,171,4.8
+Kedah,neonatal,2017-01-01,140,3.8
+Kedah,neonatal,2018-01-01,151,4.2
+Kedah,neonatal,2019-01-01,137,4.0
+Kedah,neonatal,2020-01-01,126,3.7
+Kedah,neonatal,2021-01-01,146,4.4
+Kedah,neonatal,2022-01-01,114,3.7
+Kedah,neonatal,2023-01-01,123,3.6
+Kedah,neonatal,2024-01-01,151,4.9
+Kedah,infant,2000-01-01,240,5.9
+Kedah,infant,2001-01-01,322,8.5
+Kedah,infant,2002-01-01,266,7.3
+Kedah,infant,2003-01-01,273,7.7
+Kedah,infant,2004-01-01,258,7.4
+Kedah,infant,2005-01-01,270,7.9
+Kedah,infant,2006-01-01,231,6.8
+Kedah,infant,2007-01-01,262,7.7
+Kedah,infant,2008-01-01,286,8.1
+Kedah,infant,2009-01-01,280,7.8
+Kedah,infant,2010-01-01,274,7.8
+Kedah,infant,2011-01-01,237,6.6
+Kedah,infant,2012-01-01,262,7.2
+Kedah,infant,2013-01-01,233,6.7
+Kedah,infant,2014-01-01,230,6.3
+Kedah,infant,2015-01-01,241,6.6
+Kedah,infant,2016-01-01,254,7.1
+Kedah,infant,2017-01-01,215,5.9
+Kedah,infant,2018-01-01,229,6.4
+Kedah,infant,2019-01-01,222,6.4
+Kedah,infant,2020-01-01,173,5.1
+Kedah,infant,2021-01-01,203,6.1
+Kedah,infant,2022-01-01,193,6.3
+Kedah,infant,2023-01-01,200,5.9
+Kedah,infant,2024-01-01,225,7.3
+Kedah,toddler,2000-01-01,81,0.5
+Kedah,toddler,2001-01-01,105,0.6
+Kedah,toddler,2002-01-01,100,0.6
+Kedah,toddler,2003-01-01,83,0.5
+Kedah,toddler,2004-01-01,77,0.5
+Kedah,toddler,2005-01-01,64,0.4
+Kedah,toddler,2006-01-01,62,0.4
+Kedah,toddler,2007-01-01,67,0.5
+Kedah,toddler,2008-01-01,67,0.5
+Kedah,toddler,2009-01-01,60,0.4
+Kedah,toddler,2010-01-01,50,0.4
+Kedah,toddler,2011-01-01,45,0.3
+Kedah,toddler,2012-01-01,49,0.3
+Kedah,toddler,2013-01-01,59,0.4
+Kedah,toddler,2014-01-01,57,0.4
+Kedah,toddler,2015-01-01,47,0.3
+Kedah,toddler,2016-01-01,54,0.4
+Kedah,toddler,2017-01-01,53,0.4
+Kedah,toddler,2018-01-01,57,0.4
+Kedah,toddler,2019-01-01,57,0.4
+Kedah,toddler,2020-01-01,45,0.3
+Kedah,toddler,2021-01-01,28,0.2
+Kedah,toddler,2022-01-01,51,0.4
+Kedah,toddler,2023-01-01,49,0.4
+Kedah,toddler,2024-01-01,44,0.3
+Kelantan,total,2000-01-01,544,13.5
+Kelantan,total,2001-01-01,466,12.2
+Kelantan,total,2002-01-01,454,12.2
+Kelantan,total,2003-01-01,454,12.7
+Kelantan,total,2004-01-01,401,11.4
+Kelantan,total,2005-01-01,429,12.6
+Kelantan,total,2006-01-01,372,11.1
+Kelantan,total,2007-01-01,386,11.4
+Kelantan,total,2008-01-01,385,11.0
+Kelantan,total,2009-01-01,437,12.2
+Kelantan,total,2010-01-01,384,10.7
+Kelantan,total,2011-01-01,364,9.7
+Kelantan,total,2012-01-01,366,9.9
+Kelantan,total,2013-01-01,338,9.3
+Kelantan,total,2014-01-01,395,10.1
+Kelantan,total,2015-01-01,315,8.1
+Kelantan,total,2016-01-01,367,9.5
+Kelantan,total,2017-01-01,363,9.3
+Kelantan,total,2018-01-01,343,8.9
+Kelantan,total,2019-01-01,336,9.1
+Kelantan,total,2020-01-01,265,7.3
+Kelantan,total,2021-01-01,285,8.2
+Kelantan,total,2022-01-01,319,9.4
+Kelantan,total,2023-01-01,308,8.6
+Kelantan,total,2024-01-01,256,8.0
+Kelantan,perinatal,2000-01-01,269,6.6
+Kelantan,perinatal,2001-01-01,285,7.4
+Kelantan,perinatal,2002-01-01,333,8.9
+Kelantan,perinatal,2003-01-01,365,10.1
+Kelantan,perinatal,2004-01-01,327,9.2
+Kelantan,perinatal,2005-01-01,310,9.0
+Kelantan,perinatal,2006-01-01,298,8.8
+Kelantan,perinatal,2007-01-01,338,9.9
+Kelantan,perinatal,2008-01-01,341,9.7
+Kelantan,perinatal,2009-01-01,368,10.2
+Kelantan,perinatal,2010-01-01,362,10.0
+Kelantan,perinatal,2011-01-01,377,9.9
+Kelantan,perinatal,2012-01-01,391,10.5
+Kelantan,perinatal,2013-01-01,335,9.1
+Kelantan,perinatal,2014-01-01,374,9.5
+Kelantan,perinatal,2015-01-01,321,8.2
+Kelantan,perinatal,2016-01-01,366,9.5
+Kelantan,perinatal,2017-01-01,363,9.2
+Kelantan,perinatal,2018-01-01,335,8.7
+Kelantan,perinatal,2019-01-01,344,9.3
+Kelantan,perinatal,2020-01-01,302,8.3
+Kelantan,perinatal,2021-01-01,331,9.5
+Kelantan,perinatal,2022-01-01,282,8.3
+Kelantan,perinatal,2023-01-01,289,8.1
+Kelantan,perinatal,2024-01-01,232,7.3
+Kelantan,neonatal,2000-01-01,183,4.5
+Kelantan,neonatal,2001-01-01,156,4.1
+Kelantan,neonatal,2002-01-01,128,3.4
+Kelantan,neonatal,2003-01-01,136,3.8
+Kelantan,neonatal,2004-01-01,116,3.3
+Kelantan,neonatal,2005-01-01,137,4.0
+Kelantan,neonatal,2006-01-01,125,3.7
+Kelantan,neonatal,2007-01-01,155,4.6
+Kelantan,neonatal,2008-01-01,171,4.9
+Kelantan,neonatal,2009-01-01,210,5.9
+Kelantan,neonatal,2010-01-01,193,5.4
+Kelantan,neonatal,2011-01-01,184,4.9
+Kelantan,neonatal,2012-01-01,192,5.2
+Kelantan,neonatal,2013-01-01,175,4.8
+Kelantan,neonatal,2014-01-01,216,5.5
+Kelantan,neonatal,2015-01-01,169,4.3
+Kelantan,neonatal,2016-01-01,193,5.0
+Kelantan,neonatal,2017-01-01,198,5.1
+Kelantan,neonatal,2018-01-01,195,5.1
+Kelantan,neonatal,2019-01-01,183,5.0
+Kelantan,neonatal,2020-01-01,145,4.0
+Kelantan,neonatal,2021-01-01,181,5.2
+Kelantan,neonatal,2022-01-01,168,5.0
+Kelantan,neonatal,2023-01-01,173,4.8
+Kelantan,neonatal,2024-01-01,131,4.1
+Kelantan,infant,2000-01-01,407,10.1
+Kelantan,infant,2001-01-01,334,8.7
+Kelantan,infant,2002-01-01,319,8.6
+Kelantan,infant,2003-01-01,329,9.2
+Kelantan,infant,2004-01-01,278,7.9
+Kelantan,infant,2005-01-01,304,8.9
+Kelantan,infant,2006-01-01,255,7.6
+Kelantan,infant,2007-01-01,278,8.2
+Kelantan,infant,2008-01-01,274,7.9
+Kelantan,infant,2009-01-01,340,9.5
+Kelantan,infant,2010-01-01,301,8.4
+Kelantan,infant,2011-01-01,291,7.7
+Kelantan,infant,2012-01-01,299,8.1
+Kelantan,infant,2013-01-01,269,7.4
+Kelantan,infant,2014-01-01,319,8.1
+Kelantan,infant,2015-01-01,261,6.7
+Kelantan,infant,2016-01-01,298,7.7
+Kelantan,infant,2017-01-01,302,7.7
+Kelantan,infant,2018-01-01,288,7.5
+Kelantan,infant,2019-01-01,271,7.4
+Kelantan,infant,2020-01-01,215,5.9
+Kelantan,infant,2021-01-01,249,7.2
+Kelantan,infant,2022-01-01,264,7.8
+Kelantan,infant,2023-01-01,251,7.0
+Kelantan,infant,2024-01-01,202,6.3
+Kelantan,toddler,2000-01-01,137,0.8
+Kelantan,toddler,2001-01-01,132,0.8
+Kelantan,toddler,2002-01-01,135,0.8
+Kelantan,toddler,2003-01-01,125,0.8
+Kelantan,toddler,2004-01-01,123,0.8
+Kelantan,toddler,2005-01-01,125,0.8
+Kelantan,toddler,2006-01-01,117,0.8
+Kelantan,toddler,2007-01-01,108,0.8
+Kelantan,toddler,2008-01-01,111,0.8
+Kelantan,toddler,2009-01-01,97,0.7
+Kelantan,toddler,2010-01-01,83,0.6
+Kelantan,toddler,2011-01-01,73,0.5
+Kelantan,toddler,2012-01-01,67,0.5
+Kelantan,toddler,2013-01-01,69,0.5
+Kelantan,toddler,2014-01-01,76,0.5
+Kelantan,toddler,2015-01-01,54,0.4
+Kelantan,toddler,2016-01-01,69,0.4
+Kelantan,toddler,2017-01-01,61,0.4
+Kelantan,toddler,2018-01-01,55,0.3
+Kelantan,toddler,2019-01-01,65,0.4
+Kelantan,toddler,2020-01-01,50,0.4
+Kelantan,toddler,2021-01-01,36,0.3
+Kelantan,toddler,2022-01-01,55,0.4
+Kelantan,toddler,2023-01-01,57,0.4
+Kelantan,toddler,2024-01-01,54,0.4
+Melaka,total,2000-01-01,150,9.8
+Melaka,total,2001-01-01,140,9.8
+Melaka,total,2002-01-01,149,10.8
+Melaka,total,2003-01-01,146,10.5
+Melaka,total,2004-01-01,150,11.1
+Melaka,total,2005-01-01,137,10.3
+Melaka,total,2006-01-01,115,8.9
+Melaka,total,2007-01-01,129,9.6
+Melaka,total,2008-01-01,130,9.5
+Melaka,total,2009-01-01,143,10.6
+Melaka,total,2010-01-01,123,9.5
+Melaka,total,2011-01-01,142,10.2
+Melaka,total,2012-01-01,119,8.3
+Melaka,total,2013-01-01,107,7.8
+Melaka,total,2014-01-01,104,7.1
+Melaka,total,2015-01-01,102,7.0
+Melaka,total,2016-01-01,114,7.9
+Melaka,total,2017-01-01,114,7.9
+Melaka,total,2018-01-01,120,8.3
+Melaka,total,2019-01-01,109,7.7
+Melaka,total,2020-01-01,110,7.9
+Melaka,total,2021-01-01,108,8.2
+Melaka,total,2022-01-01,115,8.8
+Melaka,total,2023-01-01,110,8.1
+Melaka,total,2024-01-01,121,9.6
+Melaka,perinatal,2000-01-01,155,10.1
+Melaka,perinatal,2001-01-01,143,9.9
+Melaka,perinatal,2002-01-01,146,10.5
+Melaka,perinatal,2003-01-01,137,9.8
+Melaka,perinatal,2004-01-01,113,8.3
+Melaka,perinatal,2005-01-01,126,9.4
+Melaka,perinatal,2006-01-01,152,11.7
+Melaka,perinatal,2007-01-01,122,9.0
+Melaka,perinatal,2008-01-01,138,10.1
+Melaka,perinatal,2009-01-01,130,9.6
+Melaka,perinatal,2010-01-01,112,8.6
+Melaka,perinatal,2011-01-01,131,9.3
+Melaka,perinatal,2012-01-01,132,9.2
+Melaka,perinatal,2013-01-01,97,7.1
+Melaka,perinatal,2014-01-01,113,7.7
+Melaka,perinatal,2015-01-01,101,6.9
+Melaka,perinatal,2016-01-01,115,7.9
+Melaka,perinatal,2017-01-01,121,8.4
+Melaka,perinatal,2018-01-01,137,9.5
+Melaka,perinatal,2019-01-01,120,8.4
+Melaka,perinatal,2020-01-01,119,8.5
+Melaka,perinatal,2021-01-01,107,8.1
+Melaka,perinatal,2022-01-01,101,7.7
+Melaka,perinatal,2023-01-01,106,7.8
+Melaka,perinatal,2024-01-01,104,8.3
+Melaka,neonatal,2000-01-01,87,5.7
+Melaka,neonatal,2001-01-01,79,5.5
+Melaka,neonatal,2002-01-01,79,5.7
+Melaka,neonatal,2003-01-01,70,5.0
+Melaka,neonatal,2004-01-01,72,5.3
+Melaka,neonatal,2005-01-01,75,5.6
+Melaka,neonatal,2006-01-01,69,5.3
+Melaka,neonatal,2007-01-01,65,4.8
+Melaka,neonatal,2008-01-01,77,5.7
+Melaka,neonatal,2009-01-01,75,5.6
+Melaka,neonatal,2010-01-01,68,5.2
+Melaka,neonatal,2011-01-01,80,5.7
+Melaka,neonatal,2012-01-01,67,4.7
+Melaka,neonatal,2013-01-01,49,3.6
+Melaka,neonatal,2014-01-01,54,3.7
+Melaka,neonatal,2015-01-01,46,3.2
+Melaka,neonatal,2016-01-01,60,4.2
+Melaka,neonatal,2017-01-01,60,4.2
+Melaka,neonatal,2018-01-01,71,4.9
+Melaka,neonatal,2019-01-01,64,4.5
+Melaka,neonatal,2020-01-01,66,4.8
+Melaka,neonatal,2021-01-01,62,4.7
+Melaka,neonatal,2022-01-01,64,4.9
+Melaka,neonatal,2023-01-01,60,4.4
+Melaka,neonatal,2024-01-01,74,5.9
+Melaka,infant,2000-01-01,120,7.8
+Melaka,infant,2001-01-01,107,7.5
+Melaka,infant,2002-01-01,128,9.3
+Melaka,infant,2003-01-01,113,8.1
+Melaka,infant,2004-01-01,121,8.9
+Melaka,infant,2005-01-01,112,8.4
+Melaka,infant,2006-01-01,104,8.0
+Melaka,infant,2007-01-01,105,7.8
+Melaka,infant,2008-01-01,112,8.2
+Melaka,infant,2009-01-01,120,8.9
+Melaka,infant,2010-01-01,105,8.1
+Melaka,infant,2011-01-01,120,8.6
+Melaka,infant,2012-01-01,105,7.4
+Melaka,infant,2013-01-01,90,6.6
+Melaka,infant,2014-01-01,84,5.8
+Melaka,infant,2015-01-01,80,5.5
+Melaka,infant,2016-01-01,100,6.9
+Melaka,infant,2017-01-01,95,6.6
+Melaka,infant,2018-01-01,110,7.6
+Melaka,infant,2019-01-01,91,6.4
+Melaka,infant,2020-01-01,89,6.4
+Melaka,infant,2021-01-01,94,7.1
+Melaka,infant,2022-01-01,88,6.7
+Melaka,infant,2023-01-01,90,6.6
+Melaka,infant,2024-01-01,103,8.2
+Melaka,toddler,2000-01-01,30,0.5
+Melaka,toddler,2001-01-01,33,0.5
+Melaka,toddler,2002-01-01,21,0.3
+Melaka,toddler,2003-01-01,33,0.5
+Melaka,toddler,2004-01-01,29,0.5
+Melaka,toddler,2005-01-01,25,0.4
+Melaka,toddler,2006-01-01,11,0.2
+Melaka,toddler,2007-01-01,24,0.4
+Melaka,toddler,2008-01-01,18,0.3
+Melaka,toddler,2009-01-01,23,0.4
+Melaka,toddler,2010-01-01,18,0.3
+Melaka,toddler,2011-01-01,22,0.4
+Melaka,toddler,2012-01-01,14,0.3
+Melaka,toddler,2013-01-01,17,0.3
+Melaka,toddler,2014-01-01,20,0.4
+Melaka,toddler,2015-01-01,22,0.4
+Melaka,toddler,2016-01-01,14,0.2
+Melaka,toddler,2017-01-01,19,0.3
+Melaka,toddler,2018-01-01,10,0.2
+Melaka,toddler,2019-01-01,18,0.3
+Melaka,toddler,2020-01-01,21,0.3
+Melaka,toddler,2021-01-01,14,0.2
+Melaka,toddler,2022-01-01,27,0.4
+Melaka,toddler,2023-01-01,20,0.4
+Melaka,toddler,2024-01-01,18,0.3
+Negeri Sembilan,total,2000-01-01,145,7.5
+Negeri Sembilan,total,2001-01-01,175,9.9
+Negeri Sembilan,total,2002-01-01,162,9.2
+Negeri Sembilan,total,2003-01-01,175,10.1
+Negeri Sembilan,total,2004-01-01,133,7.8
+Negeri Sembilan,total,2005-01-01,165,9.8
+Negeri Sembilan,total,2006-01-01,179,10.8
+Negeri Sembilan,total,2007-01-01,138,8.0
+Negeri Sembilan,total,2008-01-01,146,8.4
+Negeri Sembilan,total,2009-01-01,177,10.2
+Negeri Sembilan,total,2010-01-01,155,9.2
+Negeri Sembilan,total,2011-01-01,150,8.5
+Negeri Sembilan,total,2012-01-01,151,8.4
+Negeri Sembilan,total,2013-01-01,157,9.0
+Negeri Sembilan,total,2014-01-01,150,8.0
+Negeri Sembilan,total,2015-01-01,154,8.4
+Negeri Sembilan,total,2016-01-01,135,7.5
+Negeri Sembilan,total,2017-01-01,179,9.9
+Negeri Sembilan,total,2018-01-01,189,10.4
+Negeri Sembilan,total,2019-01-01,160,9.2
+Negeri Sembilan,total,2020-01-01,128,7.5
+Negeri Sembilan,total,2021-01-01,125,7.5
+Negeri Sembilan,total,2022-01-01,127,7.9
+Negeri Sembilan,total,2023-01-01,148,8.9
+Negeri Sembilan,total,2024-01-01,159,10.8
+Negeri Sembilan,perinatal,2000-01-01,93,4.8
+Negeri Sembilan,perinatal,2001-01-01,131,7.4
+Negeri Sembilan,perinatal,2002-01-01,134,7.6
+Negeri Sembilan,perinatal,2003-01-01,155,8.9
+Negeri Sembilan,perinatal,2004-01-01,144,8.4
+Negeri Sembilan,perinatal,2005-01-01,144,8.5
+Negeri Sembilan,perinatal,2006-01-01,145,8.7
+Negeri Sembilan,perinatal,2007-01-01,130,7.5
+Negeri Sembilan,perinatal,2008-01-01,146,8.4
+Negeri Sembilan,perinatal,2009-01-01,165,9.5
+Negeri Sembilan,perinatal,2010-01-01,147,8.6
+Negeri Sembilan,perinatal,2011-01-01,137,7.7
+Negeri Sembilan,perinatal,2012-01-01,148,8.2
+Negeri Sembilan,perinatal,2013-01-01,144,8.2
+Negeri Sembilan,perinatal,2014-01-01,131,7.0
+Negeri Sembilan,perinatal,2015-01-01,146,7.9
+Negeri Sembilan,perinatal,2016-01-01,135,7.5
+Negeri Sembilan,perinatal,2017-01-01,177,9.7
+Negeri Sembilan,perinatal,2018-01-01,172,9.4
+Negeri Sembilan,perinatal,2019-01-01,154,8.8
+Negeri Sembilan,perinatal,2020-01-01,139,8.1
+Negeri Sembilan,perinatal,2021-01-01,114,6.8
+Negeri Sembilan,perinatal,2022-01-01,111,6.9
+Negeri Sembilan,perinatal,2023-01-01,115,6.9
+Negeri Sembilan,perinatal,2024-01-01,130,8.8
+Negeri Sembilan,neonatal,2000-01-01,70,3.6
+Negeri Sembilan,neonatal,2001-01-01,74,4.2
+Negeri Sembilan,neonatal,2002-01-01,71,4.0
+Negeri Sembilan,neonatal,2003-01-01,91,5.3
+Negeri Sembilan,neonatal,2004-01-01,57,3.3
+Negeri Sembilan,neonatal,2005-01-01,73,4.3
+Negeri Sembilan,neonatal,2006-01-01,91,5.5
+Negeri Sembilan,neonatal,2007-01-01,70,4.1
+Negeri Sembilan,neonatal,2008-01-01,75,4.3
+Negeri Sembilan,neonatal,2009-01-01,100,5.8
+Negeri Sembilan,neonatal,2010-01-01,78,4.6
+Negeri Sembilan,neonatal,2011-01-01,73,4.1
+Negeri Sembilan,neonatal,2012-01-01,86,4.8
+Negeri Sembilan,neonatal,2013-01-01,82,4.7
+Negeri Sembilan,neonatal,2014-01-01,83,4.4
+Negeri Sembilan,neonatal,2015-01-01,88,4.8
+Negeri Sembilan,neonatal,2016-01-01,78,4.3
+Negeri Sembilan,neonatal,2017-01-01,103,5.7
+Negeri Sembilan,neonatal,2018-01-01,111,6.1
+Negeri Sembilan,neonatal,2019-01-01,91,5.2
+Negeri Sembilan,neonatal,2020-01-01,70,4.1
+Negeri Sembilan,neonatal,2021-01-01,72,4.3
+Negeri Sembilan,neonatal,2022-01-01,63,3.9
+Negeri Sembilan,neonatal,2023-01-01,74,4.5
+Negeri Sembilan,neonatal,2024-01-01,90,6.1
+Negeri Sembilan,infant,2000-01-01,110,5.7
+Negeri Sembilan,infant,2001-01-01,133,7.5
+Negeri Sembilan,infant,2002-01-01,132,7.5
+Negeri Sembilan,infant,2003-01-01,142,8.2
+Negeri Sembilan,infant,2004-01-01,101,5.9
+Negeri Sembilan,infant,2005-01-01,140,8.3
+Negeri Sembilan,infant,2006-01-01,142,8.5
+Negeri Sembilan,infant,2007-01-01,107,6.2
+Negeri Sembilan,infant,2008-01-01,119,6.9
+Negeri Sembilan,infant,2009-01-01,154,8.9
+Negeri Sembilan,infant,2010-01-01,122,7.2
+Negeri Sembilan,infant,2011-01-01,126,7.1
+Negeri Sembilan,infant,2012-01-01,135,7.5
+Negeri Sembilan,infant,2013-01-01,129,7.4
+Negeri Sembilan,infant,2014-01-01,129,6.9
+Negeri Sembilan,infant,2015-01-01,128,6.9
+Negeri Sembilan,infant,2016-01-01,116,6.4
+Negeri Sembilan,infant,2017-01-01,148,8.2
+Negeri Sembilan,infant,2018-01-01,162,8.9
+Negeri Sembilan,infant,2019-01-01,134,7.7
+Negeri Sembilan,infant,2020-01-01,104,6.1
+Negeri Sembilan,infant,2021-01-01,111,6.6
+Negeri Sembilan,infant,2022-01-01,99,6.2
+Negeri Sembilan,infant,2023-01-01,115,6.9
+Negeri Sembilan,infant,2024-01-01,138,9.4
+Negeri Sembilan,toddler,2000-01-01,35,0.5
+Negeri Sembilan,toddler,2001-01-01,42,0.5
+Negeri Sembilan,toddler,2002-01-01,30,0.4
+Negeri Sembilan,toddler,2003-01-01,33,0.4
+Negeri Sembilan,toddler,2004-01-01,32,0.4
+Negeri Sembilan,toddler,2005-01-01,25,0.3
+Negeri Sembilan,toddler,2006-01-01,37,0.5
+Negeri Sembilan,toddler,2007-01-01,31,0.4
+Negeri Sembilan,toddler,2008-01-01,27,0.4
+Negeri Sembilan,toddler,2009-01-01,23,0.3
+Negeri Sembilan,toddler,2010-01-01,33,0.5
+Negeri Sembilan,toddler,2011-01-01,24,0.4
+Negeri Sembilan,toddler,2012-01-01,16,0.2
+Negeri Sembilan,toddler,2013-01-01,28,0.4
+Negeri Sembilan,toddler,2014-01-01,21,0.3
+Negeri Sembilan,toddler,2015-01-01,26,0.4
+Negeri Sembilan,toddler,2016-01-01,19,0.3
+Negeri Sembilan,toddler,2017-01-01,31,0.4
+Negeri Sembilan,toddler,2018-01-01,27,0.4
+Negeri Sembilan,toddler,2019-01-01,26,0.4
+Negeri Sembilan,toddler,2020-01-01,24,0.3
+Negeri Sembilan,toddler,2021-01-01,14,0.2
+Negeri Sembilan,toddler,2022-01-01,28,0.4
+Negeri Sembilan,toddler,2023-01-01,33,0.5
+Negeri Sembilan,toddler,2024-01-01,21,0.3
+Pahang,total,2000-01-01,336,11.4
+Pahang,total,2001-01-01,325,11.8
+Pahang,total,2002-01-01,345,12.9
+Pahang,total,2003-01-01,319,12.2
+Pahang,total,2004-01-01,334,12.9
+Pahang,total,2005-01-01,325,12.6
+Pahang,total,2006-01-01,303,12.2
+Pahang,total,2007-01-01,277,11.1
+Pahang,total,2008-01-01,268,10.4
+Pahang,total,2009-01-01,307,11.8
+Pahang,total,2010-01-01,263,10.1
+Pahang,total,2011-01-01,318,11.7
+Pahang,total,2012-01-01,292,10.7
+Pahang,total,2013-01-01,310,11.5
+Pahang,total,2014-01-01,270,9.4
+Pahang,total,2015-01-01,273,9.7
+Pahang,total,2016-01-01,254,9.2
+Pahang,total,2017-01-01,257,9.3
+Pahang,total,2018-01-01,244,9.0
+Pahang,total,2019-01-01,238,9.2
+Pahang,total,2020-01-01,179,7.1
+Pahang,total,2021-01-01,173,7.1
+Pahang,total,2022-01-01,227,9.6
+Pahang,total,2023-01-01,233,9.6
+Pahang,total,2024-01-01,173,8.0
+Pahang,perinatal,2000-01-01,220,7.4
+Pahang,perinatal,2001-01-01,246,8.9
+Pahang,perinatal,2002-01-01,253,9.4
+Pahang,perinatal,2003-01-01,227,8.6
+Pahang,perinatal,2004-01-01,254,9.7
+Pahang,perinatal,2005-01-01,234,9.1
+Pahang,perinatal,2006-01-01,225,9.0
+Pahang,perinatal,2007-01-01,221,8.8
+Pahang,perinatal,2008-01-01,204,7.9
+Pahang,perinatal,2009-01-01,214,8.2
+Pahang,perinatal,2010-01-01,198,7.6
+Pahang,perinatal,2011-01-01,255,9.4
+Pahang,perinatal,2012-01-01,233,8.5
+Pahang,perinatal,2013-01-01,247,9.1
+Pahang,perinatal,2014-01-01,255,8.8
+Pahang,perinatal,2015-01-01,253,9.0
+Pahang,perinatal,2016-01-01,239,8.6
+Pahang,perinatal,2017-01-01,254,9.2
+Pahang,perinatal,2018-01-01,258,9.5
+Pahang,perinatal,2019-01-01,228,8.8
+Pahang,perinatal,2020-01-01,175,6.9
+Pahang,perinatal,2021-01-01,192,7.8
+Pahang,perinatal,2022-01-01,193,8.1
+Pahang,perinatal,2023-01-01,208,8.6
+Pahang,perinatal,2024-01-01,194,9.0
+Pahang,neonatal,2000-01-01,142,4.8
+Pahang,neonatal,2001-01-01,116,4.2
+Pahang,neonatal,2002-01-01,132,4.9
+Pahang,neonatal,2003-01-01,112,4.3
+Pahang,neonatal,2004-01-01,126,4.9
+Pahang,neonatal,2005-01-01,141,5.5
+Pahang,neonatal,2006-01-01,120,4.8
+Pahang,neonatal,2007-01-01,96,3.8
+Pahang,neonatal,2008-01-01,112,4.4
+Pahang,neonatal,2009-01-01,127,4.9
+Pahang,neonatal,2010-01-01,111,4.3
+Pahang,neonatal,2011-01-01,152,5.6
+Pahang,neonatal,2012-01-01,130,4.7
+Pahang,neonatal,2013-01-01,165,6.1
+Pahang,neonatal,2014-01-01,118,4.1
+Pahang,neonatal,2015-01-01,131,4.7
+Pahang,neonatal,2016-01-01,119,4.3
+Pahang,neonatal,2017-01-01,130,4.7
+Pahang,neonatal,2018-01-01,125,4.6
+Pahang,neonatal,2019-01-01,119,4.6
+Pahang,neonatal,2020-01-01,88,3.5
+Pahang,neonatal,2021-01-01,109,4.4
+Pahang,neonatal,2022-01-01,94,4.0
+Pahang,neonatal,2023-01-01,125,5.2
+Pahang,neonatal,2024-01-01,89,4.1
+Pahang,infant,2000-01-01,256,8.7
+Pahang,infant,2001-01-01,221,8.0
+Pahang,infant,2002-01-01,247,9.2
+Pahang,infant,2003-01-01,228,8.7
+Pahang,infant,2004-01-01,247,9.5
+Pahang,infant,2005-01-01,245,9.5
+Pahang,infant,2006-01-01,217,8.7
+Pahang,infant,2007-01-01,201,8.1
+Pahang,infant,2008-01-01,197,7.7
+Pahang,infant,2009-01-01,229,8.8
+Pahang,infant,2010-01-01,197,7.6
+Pahang,infant,2011-01-01,256,9.5
+Pahang,infant,2012-01-01,219,8.0
+Pahang,infant,2013-01-01,253,9.4
+Pahang,infant,2014-01-01,213,7.4
+Pahang,infant,2015-01-01,216,7.7
+Pahang,infant,2016-01-01,204,7.4
+Pahang,infant,2017-01-01,205,7.4
+Pahang,infant,2018-01-01,197,7.3
+Pahang,infant,2019-01-01,187,7.2
+Pahang,infant,2020-01-01,148,5.8
+Pahang,infant,2021-01-01,148,6.0
+Pahang,infant,2022-01-01,164,7.0
+Pahang,infant,2023-01-01,198,8.2
+Pahang,infant,2024-01-01,138,6.4
+Pahang,toddler,2000-01-01,80,0.7
+Pahang,toddler,2001-01-01,104,0.9
+Pahang,toddler,2002-01-01,98,0.8
+Pahang,toddler,2003-01-01,91,0.8
+Pahang,toddler,2004-01-01,87,0.8
+Pahang,toddler,2005-01-01,80,0.7
+Pahang,toddler,2006-01-01,86,0.8
+Pahang,toddler,2007-01-01,76,0.7
+Pahang,toddler,2008-01-01,71,0.6
+Pahang,toddler,2009-01-01,78,0.7
+Pahang,toddler,2010-01-01,66,0.6
+Pahang,toddler,2011-01-01,62,0.5
+Pahang,toddler,2012-01-01,73,0.6
+Pahang,toddler,2013-01-01,57,0.5
+Pahang,toddler,2014-01-01,57,0.5
+Pahang,toddler,2015-01-01,57,0.5
+Pahang,toddler,2016-01-01,50,0.4
+Pahang,toddler,2017-01-01,52,0.5
+Pahang,toddler,2018-01-01,47,0.4
+Pahang,toddler,2019-01-01,51,0.5
+Pahang,toddler,2020-01-01,31,0.3
+Pahang,toddler,2021-01-01,25,0.2
+Pahang,toddler,2022-01-01,63,0.6
+Pahang,toddler,2023-01-01,35,0.4
+Pahang,toddler,2024-01-01,35,0.4
+Perak,total,2000-01-01,463,9.5
+Perak,total,2001-01-01,393,9.0
+Perak,total,2002-01-01,448,10.6
+Perak,total,2003-01-01,391,9.8
+Perak,total,2004-01-01,411,10.5
+Perak,total,2005-01-01,386,10.3
+Perak,total,2006-01-01,315,8.6
+Perak,total,2007-01-01,347,9.5
+Perak,total,2008-01-01,306,8.2
+Perak,total,2009-01-01,387,10.4
+Perak,total,2010-01-01,381,10.6
+Perak,total,2011-01-01,306,8.2
+Perak,total,2012-01-01,316,8.4
+Perak,total,2013-01-01,320,9.0
+Perak,total,2014-01-01,284,7.8
+Perak,total,2015-01-01,295,8.1
+Perak,total,2016-01-01,308,8.6
+Perak,total,2017-01-01,296,8.5
+Perak,total,2018-01-01,284,8.4
+Perak,total,2019-01-01,294,8.9
+Perak,total,2020-01-01,246,7.8
+Perak,total,2021-01-01,220,7.1
+Perak,total,2022-01-01,265,9.0
+Perak,total,2023-01-01,260,8.5
+Perak,total,2024-01-01,248,9.0
+Perak,perinatal,2000-01-01,134,2.8
+Perak,perinatal,2001-01-01,332,7.6
+Perak,perinatal,2002-01-01,327,7.7
+Perak,perinatal,2003-01-01,316,7.9
+Perak,perinatal,2004-01-01,306,7.8
+Perak,perinatal,2005-01-01,277,7.4
+Perak,perinatal,2006-01-01,278,7.5
+Perak,perinatal,2007-01-01,281,7.6
+Perak,perinatal,2008-01-01,285,7.6
+Perak,perinatal,2009-01-01,287,7.7
+Perak,perinatal,2010-01-01,305,8.4
+Perak,perinatal,2011-01-01,300,8.0
+Perak,perinatal,2012-01-01,256,6.8
+Perak,perinatal,2013-01-01,286,8.0
+Perak,perinatal,2014-01-01,250,6.8
+Perak,perinatal,2015-01-01,260,7.1
+Perak,perinatal,2016-01-01,331,9.2
+Perak,perinatal,2017-01-01,297,8.5
+Perak,perinatal,2018-01-01,265,7.8
+Perak,perinatal,2019-01-01,309,9.3
+Perak,perinatal,2020-01-01,275,8.7
+Perak,perinatal,2021-01-01,244,7.9
+Perak,perinatal,2022-01-01,227,7.7
+Perak,perinatal,2023-01-01,268,8.7
+Perak,perinatal,2024-01-01,241,8.7
+Perak,neonatal,2000-01-01,157,3.2
+Perak,neonatal,2001-01-01,151,3.5
+Perak,neonatal,2002-01-01,161,3.8
+Perak,neonatal,2003-01-01,139,3.5
+Perak,neonatal,2004-01-01,159,4.1
+Perak,neonatal,2005-01-01,143,3.8
+Perak,neonatal,2006-01-01,132,3.6
+Perak,neonatal,2007-01-01,148,4.0
+Perak,neonatal,2008-01-01,134,3.6
+Perak,neonatal,2009-01-01,165,4.4
+Perak,neonatal,2010-01-01,177,4.9
+Perak,neonatal,2011-01-01,149,4.0
+Perak,neonatal,2012-01-01,158,4.2
+Perak,neonatal,2013-01-01,159,4.5
+Perak,neonatal,2014-01-01,143,3.9
+Perak,neonatal,2015-01-01,143,3.9
+Perak,neonatal,2016-01-01,157,4.4
+Perak,neonatal,2017-01-01,161,4.6
+Perak,neonatal,2018-01-01,150,4.4
+Perak,neonatal,2019-01-01,147,4.5
+Perak,neonatal,2020-01-01,145,4.6
+Perak,neonatal,2021-01-01,130,4.2
+Perak,neonatal,2022-01-01,139,4.7
+Perak,neonatal,2023-01-01,141,4.6
+Perak,neonatal,2024-01-01,139,5.0
+Perak,infant,2000-01-01,347,7.1
+Perak,infant,2001-01-01,282,6.5
+Perak,infant,2002-01-01,302,7.1
+Perak,infant,2003-01-01,270,6.8
+Perak,infant,2004-01-01,301,7.7
+Perak,infant,2005-01-01,277,7.4
+Perak,infant,2006-01-01,216,5.9
+Perak,infant,2007-01-01,253,6.9
+Perak,infant,2008-01-01,232,6.2
+Perak,infant,2009-01-01,269,7.2
+Perak,infant,2010-01-01,289,8.0
+Perak,infant,2011-01-01,233,6.2
+Perak,infant,2012-01-01,249,6.6
+Perak,infant,2013-01-01,237,6.7
+Perak,infant,2014-01-01,227,6.2
+Perak,infant,2015-01-01,234,6.4
+Perak,infant,2016-01-01,245,6.9
+Perak,infant,2017-01-01,242,6.9
+Perak,infant,2018-01-01,223,6.6
+Perak,infant,2019-01-01,231,7.0
+Perak,infant,2020-01-01,203,6.4
+Perak,infant,2021-01-01,192,6.2
+Perak,infant,2022-01-01,216,7.3
+Perak,infant,2023-01-01,220,7.2
+Perak,infant,2024-01-01,210,7.6
+Perak,toddler,2000-01-01,116,0.6
+Perak,toddler,2001-01-01,111,0.6
+Perak,toddler,2002-01-01,146,0.7
+Perak,toddler,2003-01-01,121,0.6
+Perak,toddler,2004-01-01,110,0.6
+Perak,toddler,2005-01-01,109,0.6
+Perak,toddler,2006-01-01,99,0.6
+Perak,toddler,2007-01-01,94,0.6
+Perak,toddler,2008-01-01,74,0.5
+Perak,toddler,2009-01-01,118,0.8
+Perak,toddler,2010-01-01,92,0.6
+Perak,toddler,2011-01-01,73,0.5
+Perak,toddler,2012-01-01,67,0.5
+Perak,toddler,2013-01-01,83,0.6
+Perak,toddler,2014-01-01,57,0.4
+Perak,toddler,2015-01-01,61,0.4
+Perak,toddler,2016-01-01,63,0.4
+Perak,toddler,2017-01-01,54,0.4
+Perak,toddler,2018-01-01,61,0.4
+Perak,toddler,2019-01-01,63,0.5
+Perak,toddler,2020-01-01,43,0.3
+Perak,toddler,2021-01-01,28,0.2
+Perak,toddler,2022-01-01,49,0.4
+Perak,toddler,2023-01-01,40,0.3
+Perak,toddler,2024-01-01,38,0.3
+Perlis,total,2000-01-01,51,11.0
+Perlis,total,2001-01-01,41,9.4
+Perlis,total,2002-01-01,43,10.2
+Perlis,total,2003-01-01,38,9.4
+Perlis,total,2004-01-01,33,8.3
+Perlis,total,2005-01-01,41,10.4
+Perlis,total,2006-01-01,39,10.0
+Perlis,total,2007-01-01,38,9.6
+Perlis,total,2008-01-01,45,10.8
+Perlis,total,2009-01-01,40,9.4
+Perlis,total,2010-01-01,41,10.0
+Perlis,total,2011-01-01,53,12.7
+Perlis,total,2012-01-01,37,8.9
+Perlis,total,2013-01-01,41,10.1
+Perlis,total,2014-01-01,36,8.0
+Perlis,total,2015-01-01,38,8.8
+Perlis,total,2016-01-01,30,6.8
+Perlis,total,2017-01-01,30,6.7
+Perlis,total,2018-01-01,45,10.3
+Perlis,total,2019-01-01,30,7.4
+Perlis,total,2020-01-01,43,10.5
+Perlis,total,2021-01-01,39,9.6
+Perlis,total,2022-01-01,44,11.7
+Perlis,total,2023-01-01,28,7.2
+Perlis,total,2024-01-01,36,10.1
+Perlis,perinatal,2000-01-01,52,11.1
+Perlis,perinatal,2001-01-01,42,9.6
+Perlis,perinatal,2002-01-01,48,11.3
+Perlis,perinatal,2003-01-01,42,10.3
+Perlis,perinatal,2004-01-01,44,11.0
+Perlis,perinatal,2005-01-01,37,9.3
+Perlis,perinatal,2006-01-01,43,11.0
+Perlis,perinatal,2007-01-01,36,9.1
+Perlis,perinatal,2008-01-01,37,8.8
+Perlis,perinatal,2009-01-01,31,7.3
+Perlis,perinatal,2010-01-01,44,10.6
+Perlis,perinatal,2011-01-01,43,10.3
+Perlis,perinatal,2012-01-01,34,8.2
+Perlis,perinatal,2013-01-01,36,8.9
+Perlis,perinatal,2014-01-01,40,8.8
+Perlis,perinatal,2015-01-01,42,9.7
+Perlis,perinatal,2016-01-01,33,7.5
+Perlis,perinatal,2017-01-01,36,8.1
+Perlis,perinatal,2018-01-01,40,9.1
+Perlis,perinatal,2019-01-01,45,11.0
+Perlis,perinatal,2020-01-01,43,10.4
+Perlis,perinatal,2021-01-01,29,7.1
+Perlis,perinatal,2022-01-01,35,9.3
+Perlis,perinatal,2023-01-01,41,10.5
+Perlis,perinatal,2024-01-01,31,8.7
+Perlis,neonatal,2000-01-01,26,5.6
+Perlis,neonatal,2001-01-01,23,5.3
+Perlis,neonatal,2002-01-01,22,5.2
+Perlis,neonatal,2003-01-01,20,4.9
+Perlis,neonatal,2004-01-01,17,4.3
+Perlis,neonatal,2005-01-01,13,3.3
+Perlis,neonatal,2006-01-01,21,5.4
+Perlis,neonatal,2007-01-01,23,5.8
+Perlis,neonatal,2008-01-01,25,6.0
+Perlis,neonatal,2009-01-01,20,4.7
+Perlis,neonatal,2010-01-01,24,5.8
+Perlis,neonatal,2011-01-01,26,6.2
+Perlis,neonatal,2012-01-01,17,4.1
+Perlis,neonatal,2013-01-01,31,7.7
+Perlis,neonatal,2014-01-01,22,4.9
+Perlis,neonatal,2015-01-01,23,5.3
+Perlis,neonatal,2016-01-01,17,3.9
+Perlis,neonatal,2017-01-01,11,2.5
+Perlis,neonatal,2018-01-01,28,6.4
+Perlis,neonatal,2019-01-01,18,4.4
+Perlis,neonatal,2020-01-01,27,6.6
+Perlis,neonatal,2021-01-01,21,5.2
+Perlis,neonatal,2022-01-01,24,6.4
+Perlis,neonatal,2023-01-01,20,5.2
+Perlis,neonatal,2024-01-01,23,6.4
+Perlis,infant,2000-01-01,41,8.8
+Perlis,infant,2001-01-01,34,7.8
+Perlis,infant,2002-01-01,34,8.0
+Perlis,infant,2003-01-01,32,7.9
+Perlis,infant,2004-01-01,27,6.8
+Perlis,infant,2005-01-01,31,7.9
+Perlis,infant,2006-01-01,31,8.0
+Perlis,infant,2007-01-01,29,7.3
+Perlis,infant,2008-01-01,34,8.1
+Perlis,infant,2009-01-01,32,7.6
+Perlis,infant,2010-01-01,33,8.0
+Perlis,infant,2011-01-01,40,9.6
+Perlis,infant,2012-01-01,27,6.5
+Perlis,infant,2013-01-01,36,8.9
+Perlis,infant,2014-01-01,34,7.5
+Perlis,infant,2015-01-01,35,8.1
+Perlis,infant,2016-01-01,26,5.9
+Perlis,infant,2017-01-01,25,5.6
+Perlis,infant,2018-01-01,39,8.9
+Perlis,infant,2019-01-01,24,5.9
+Perlis,infant,2020-01-01,35,8.5
+Perlis,infant,2021-01-01,31,7.6
+Perlis,infant,2022-01-01,35,9.3
+Perlis,infant,2023-01-01,24,6.2
+Perlis,infant,2024-01-01,31,8.7
+Perlis,toddler,2000-01-01,10,0.5
+Perlis,toddler,2001-01-01,7,0.4
+Perlis,toddler,2002-01-01,9,0.5
+Perlis,toddler,2003-01-01,6,0.3
+Perlis,toddler,2004-01-01,6,0.3
+Perlis,toddler,2005-01-01,10,0.6
+Perlis,toddler,2006-01-01,8,0.5
+Perlis,toddler,2007-01-01,9,0.6
+Perlis,toddler,2008-01-01,11,0.7
+Perlis,toddler,2009-01-01,8,0.5
+Perlis,toddler,2010-01-01,8,0.5
+Perlis,toddler,2011-01-01,13,0.8
+Perlis,toddler,2012-01-01,10,0.6
+Perlis,toddler,2013-01-01,5,0.3
+Perlis,toddler,2014-01-01,2,0.1
+Perlis,toddler,2015-01-01,3,0.2
+Perlis,toddler,2016-01-01,4,0.2
+Perlis,toddler,2017-01-01,5,0.3
+Perlis,toddler,2018-01-01,6,0.3
+Perlis,toddler,2019-01-01,6,0.3
+Perlis,toddler,2020-01-01,8,0.5
+Perlis,toddler,2021-01-01,8,0.5
+Perlis,toddler,2022-01-01,9,0.6
+Perlis,toddler,2023-01-01,4,0.2
+Perlis,toddler,2024-01-01,5,0.3
+Pulau Pinang,total,2000-01-01,230,8.4
+Pulau Pinang,total,2001-01-01,188,7.6
+Pulau Pinang,total,2002-01-01,236,9.5
+Pulau Pinang,total,2003-01-01,199,8.5
+Pulau Pinang,total,2004-01-01,231,10.1
+Pulau Pinang,total,2005-01-01,179,7.9
+Pulau Pinang,total,2006-01-01,195,8.9
+Pulau Pinang,total,2007-01-01,169,7.5
+Pulau Pinang,total,2008-01-01,164,7.1
+Pulau Pinang,total,2009-01-01,170,7.5
+Pulau Pinang,total,2010-01-01,179,8.5
+Pulau Pinang,total,2011-01-01,189,8.5
+Pulau Pinang,total,2012-01-01,184,7.7
+Pulau Pinang,total,2013-01-01,157,7.3
+Pulau Pinang,total,2014-01-01,160,7.0
+Pulau Pinang,total,2015-01-01,166,7.5
+Pulau Pinang,total,2016-01-01,174,8.0
+Pulau Pinang,total,2017-01-01,150,7.0
+Pulau Pinang,total,2018-01-01,158,7.6
+Pulau Pinang,total,2019-01-01,132,6.5
+Pulau Pinang,total,2020-01-01,122,6.2
+Pulau Pinang,total,2021-01-01,115,6.2
+Pulau Pinang,total,2022-01-01,125,7.0
+Pulau Pinang,total,2023-01-01,134,6.8
+Pulau Pinang,total,2024-01-01,130,7.2
+Pulau Pinang,perinatal,2000-01-01,122,4.5
+Pulau Pinang,perinatal,2001-01-01,159,6.4
+Pulau Pinang,perinatal,2002-01-01,193,7.8
+Pulau Pinang,perinatal,2003-01-01,176,7.5
+Pulau Pinang,perinatal,2004-01-01,200,8.7
+Pulau Pinang,perinatal,2005-01-01,166,7.3
+Pulau Pinang,perinatal,2006-01-01,198,8.9
+Pulau Pinang,perinatal,2007-01-01,168,7.5
+Pulau Pinang,perinatal,2008-01-01,170,7.4
+Pulau Pinang,perinatal,2009-01-01,171,7.5
+Pulau Pinang,perinatal,2010-01-01,159,7.5
+Pulau Pinang,perinatal,2011-01-01,187,8.3
+Pulau Pinang,perinatal,2012-01-01,172,7.2
+Pulau Pinang,perinatal,2013-01-01,150,6.9
+Pulau Pinang,perinatal,2014-01-01,144,6.3
+Pulau Pinang,perinatal,2015-01-01,182,8.1
+Pulau Pinang,perinatal,2016-01-01,205,9.4
+Pulau Pinang,perinatal,2017-01-01,169,7.8
+Pulau Pinang,perinatal,2018-01-01,191,9.2
+Pulau Pinang,perinatal,2019-01-01,175,8.6
+Pulau Pinang,perinatal,2020-01-01,154,7.8
+Pulau Pinang,perinatal,2021-01-01,149,8.0
+Pulau Pinang,perinatal,2022-01-01,144,8.1
+Pulau Pinang,perinatal,2023-01-01,132,6.7
+Pulau Pinang,perinatal,2024-01-01,130,7.1
+Pulau Pinang,neonatal,2000-01-01,122,4.5
+Pulau Pinang,neonatal,2001-01-01,99,4.0
+Pulau Pinang,neonatal,2002-01-01,116,4.7
+Pulau Pinang,neonatal,2003-01-01,102,4.3
+Pulau Pinang,neonatal,2004-01-01,112,4.9
+Pulau Pinang,neonatal,2005-01-01,92,4.1
+Pulau Pinang,neonatal,2006-01-01,101,4.6
+Pulau Pinang,neonatal,2007-01-01,86,3.8
+Pulau Pinang,neonatal,2008-01-01,84,3.7
+Pulau Pinang,neonatal,2009-01-01,99,4.3
+Pulau Pinang,neonatal,2010-01-01,98,4.6
+Pulau Pinang,neonatal,2011-01-01,110,4.9
+Pulau Pinang,neonatal,2012-01-01,105,4.4
+Pulau Pinang,neonatal,2013-01-01,85,4.0
+Pulau Pinang,neonatal,2014-01-01,80,3.5
+Pulau Pinang,neonatal,2015-01-01,103,4.6
+Pulau Pinang,neonatal,2016-01-01,101,4.6
+Pulau Pinang,neonatal,2017-01-01,83,3.9
+Pulau Pinang,neonatal,2018-01-01,89,4.3
+Pulau Pinang,neonatal,2019-01-01,80,4.0
+Pulau Pinang,neonatal,2020-01-01,70,3.6
+Pulau Pinang,neonatal,2021-01-01,66,3.6
+Pulau Pinang,neonatal,2022-01-01,63,3.6
+Pulau Pinang,neonatal,2023-01-01,70,3.6
+Pulau Pinang,neonatal,2024-01-01,67,3.7
+Pulau Pinang,infant,2000-01-01,192,7.0
+Pulau Pinang,infant,2001-01-01,160,6.5
+Pulau Pinang,infant,2002-01-01,200,8.1
+Pulau Pinang,infant,2003-01-01,149,6.3
+Pulau Pinang,infant,2004-01-01,185,8.1
+Pulau Pinang,infant,2005-01-01,144,6.4
+Pulau Pinang,infant,2006-01-01,163,7.4
+Pulau Pinang,infant,2007-01-01,129,5.8
+Pulau Pinang,infant,2008-01-01,137,6.0
+Pulau Pinang,infant,2009-01-01,145,6.4
+Pulau Pinang,infant,2010-01-01,145,6.8
+Pulau Pinang,infant,2011-01-01,161,7.2
+Pulau Pinang,infant,2012-01-01,156,6.6
+Pulau Pinang,infant,2013-01-01,130,6.0
+Pulau Pinang,infant,2014-01-01,128,5.6
+Pulau Pinang,infant,2015-01-01,140,6.3
+Pulau Pinang,infant,2016-01-01,141,6.5
+Pulau Pinang,infant,2017-01-01,125,5.8
+Pulau Pinang,infant,2018-01-01,133,6.4
+Pulau Pinang,infant,2019-01-01,112,5.5
+Pulau Pinang,infant,2020-01-01,102,5.2
+Pulau Pinang,infant,2021-01-01,100,5.4
+Pulau Pinang,infant,2022-01-01,102,5.8
+Pulau Pinang,infant,2023-01-01,110,5.6
+Pulau Pinang,infant,2024-01-01,111,6.1
+Pulau Pinang,toddler,2000-01-01,38,0.3
+Pulau Pinang,toddler,2001-01-01,28,0.2
+Pulau Pinang,toddler,2002-01-01,36,0.3
+Pulau Pinang,toddler,2003-01-01,50,0.5
+Pulau Pinang,toddler,2004-01-01,46,0.4
+Pulau Pinang,toddler,2005-01-01,35,0.4
+Pulau Pinang,toddler,2006-01-01,32,0.3
+Pulau Pinang,toddler,2007-01-01,40,0.4
+Pulau Pinang,toddler,2008-01-01,27,0.3
+Pulau Pinang,toddler,2009-01-01,25,0.3
+Pulau Pinang,toddler,2010-01-01,34,0.4
+Pulau Pinang,toddler,2011-01-01,28,0.3
+Pulau Pinang,toddler,2012-01-01,28,0.3
+Pulau Pinang,toddler,2013-01-01,27,0.3
+Pulau Pinang,toddler,2014-01-01,32,0.4
+Pulau Pinang,toddler,2015-01-01,26,0.3
+Pulau Pinang,toddler,2016-01-01,33,0.4
+Pulau Pinang,toddler,2017-01-01,25,0.3
+Pulau Pinang,toddler,2018-01-01,25,0.3
+Pulau Pinang,toddler,2019-01-01,20,0.2
+Pulau Pinang,toddler,2020-01-01,20,0.2
+Pulau Pinang,toddler,2021-01-01,15,0.2
+Pulau Pinang,toddler,2022-01-01,23,0.3
+Pulau Pinang,toddler,2023-01-01,24,0.3
+Pulau Pinang,toddler,2024-01-01,19,0.2
+Sabah,total,2000-01-01,57,1.2
+Sabah,total,2001-01-01,121,2.5
+Sabah,total,2002-01-01,160,3.5
+Sabah,total,2003-01-01,149,3.4
+Sabah,total,2004-01-01,147,3.2
+Sabah,total,2005-01-01,177,3.8
+Sabah,total,2006-01-01,165,3.6
+Sabah,total,2007-01-01,184,3.9
+Sabah,total,2008-01-01,230,4.6
+Sabah,total,2009-01-01,251,4.8
+Sabah,total,2010-01-01,273,5.0
+Sabah,total,2011-01-01,255,4.6
+Sabah,total,2012-01-01,244,4.2
+Sabah,total,2013-01-01,267,4.7
+Sabah,total,2014-01-01,740,12.9
+Sabah,total,2015-01-01,766,14.0
+Sabah,total,2016-01-01,377,7.2
+Sabah,total,2017-01-01,652,12.4
+Sabah,total,2018-01-01,671,12.7
+Sabah,total,2019-01-01,516,9.7
+Sabah,total,2020-01-01,610,12.3
+Sabah,total,2021-01-01,499,12.0
+Sabah,total,2022-01-01,522,12.0
+Sabah,total,2023-01-01,494,10.6
+Sabah,total,2024-01-01,509,12.1
+Sabah,perinatal,2000-01-01,39,0.8
+Sabah,perinatal,2001-01-01,106,2.2
+Sabah,perinatal,2002-01-01,117,2.5
+Sabah,perinatal,2003-01-01,98,2.2
+Sabah,perinatal,2004-01-01,118,2.6
+Sabah,perinatal,2005-01-01,145,3.1
+Sabah,perinatal,2006-01-01,113,2.4
+Sabah,perinatal,2007-01-01,145,3.1
+Sabah,perinatal,2008-01-01,191,3.8
+Sabah,perinatal,2009-01-01,237,4.5
+Sabah,perinatal,2010-01-01,287,5.3
+Sabah,perinatal,2011-01-01,272,4.9
+Sabah,perinatal,2012-01-01,311,5.3
+Sabah,perinatal,2013-01-01,263,4.6
+Sabah,perinatal,2014-01-01,438,7.6
+Sabah,perinatal,2015-01-01,478,8.7
+Sabah,perinatal,2016-01-01,464,8.9
+Sabah,perinatal,2017-01-01,630,11.9
+Sabah,perinatal,2018-01-01,714,13.4
+Sabah,perinatal,2019-01-01,450,8.4
+Sabah,perinatal,2020-01-01,572,11.5
+Sabah,perinatal,2021-01-01,510,12.2
+Sabah,perinatal,2022-01-01,471,10.7
+Sabah,perinatal,2023-01-01,466,10.0
+Sabah,perinatal,2024-01-01,383,9.1
+Sabah,neonatal,2000-01-01,11,0.2
+Sabah,neonatal,2001-01-01,40,0.8
+Sabah,neonatal,2002-01-01,53,1.1
+Sabah,neonatal,2003-01-01,53,1.2
+Sabah,neonatal,2004-01-01,50,1.1
+Sabah,neonatal,2005-01-01,70,1.5
+Sabah,neonatal,2006-01-01,64,1.4
+Sabah,neonatal,2007-01-01,71,1.5
+Sabah,neonatal,2008-01-01,104,2.1
+Sabah,neonatal,2009-01-01,132,2.5
+Sabah,neonatal,2010-01-01,142,2.6
+Sabah,neonatal,2011-01-01,112,2.0
+Sabah,neonatal,2012-01-01,125,2.1
+Sabah,neonatal,2013-01-01,113,2.0
+Sabah,neonatal,2014-01-01,308,5.4
+Sabah,neonatal,2015-01-01,391,7.1
+Sabah,neonatal,2016-01-01,171,3.3
+Sabah,neonatal,2017-01-01,322,6.1
+Sabah,neonatal,2018-01-01,335,6.3
+Sabah,neonatal,2019-01-01,213,4.0
+Sabah,neonatal,2020-01-01,282,5.7
+Sabah,neonatal,2021-01-01,232,5.6
+Sabah,neonatal,2022-01-01,227,5.2
+Sabah,neonatal,2023-01-01,221,4.8
+Sabah,neonatal,2024-01-01,224,5.3
+Sabah,infant,2000-01-01,34,0.7
+Sabah,infant,2001-01-01,85,1.7
+Sabah,infant,2002-01-01,114,2.5
+Sabah,infant,2003-01-01,105,2.4
+Sabah,infant,2004-01-01,105,2.3
+Sabah,infant,2005-01-01,128,2.7
+Sabah,infant,2006-01-01,111,2.4
+Sabah,infant,2007-01-01,135,2.9
+Sabah,infant,2008-01-01,189,3.8
+Sabah,infant,2009-01-01,211,4.0
+Sabah,infant,2010-01-01,225,4.2
+Sabah,infant,2011-01-01,209,3.8
+Sabah,infant,2012-01-01,191,3.3
+Sabah,infant,2013-01-01,206,3.6
+Sabah,infant,2014-01-01,576,10.0
+Sabah,infant,2015-01-01,614,11.2
+Sabah,infant,2016-01-01,298,5.7
+Sabah,infant,2017-01-01,502,9.6
+Sabah,infant,2018-01-01,534,10.1
+Sabah,infant,2019-01-01,401,7.6
+Sabah,infant,2020-01-01,471,9.5
+Sabah,infant,2021-01-01,374,9.0
+Sabah,infant,2022-01-01,392,9.0
+Sabah,infant,2023-01-01,382,8.2
+Sabah,infant,2024-01-01,405,9.6
+Sabah,toddler,2000-01-01,23,0.1
+Sabah,toddler,2001-01-01,36,0.1
+Sabah,toddler,2002-01-01,46,0.2
+Sabah,toddler,2003-01-01,44,0.2
+Sabah,toddler,2004-01-01,42,0.2
+Sabah,toddler,2005-01-01,49,0.2
+Sabah,toddler,2006-01-01,54,0.2
+Sabah,toddler,2007-01-01,49,0.2
+Sabah,toddler,2008-01-01,41,0.2
+Sabah,toddler,2009-01-01,40,0.2
+Sabah,toddler,2010-01-01,48,0.2
+Sabah,toddler,2011-01-01,46,0.2
+Sabah,toddler,2012-01-01,53,0.2
+Sabah,toddler,2013-01-01,61,0.2
+Sabah,toddler,2014-01-01,164,0.7
+Sabah,toddler,2015-01-01,152,0.6
+Sabah,toddler,2016-01-01,79,0.3
+Sabah,toddler,2017-01-01,150,0.6
+Sabah,toddler,2018-01-01,137,0.6
+Sabah,toddler,2019-01-01,115,0.5
+Sabah,toddler,2020-01-01,139,0.6
+Sabah,toddler,2021-01-01,125,0.5
+Sabah,toddler,2022-01-01,130,0.6
+Sabah,toddler,2023-01-01,112,0.5
+Sabah,toddler,2024-01-01,104,0.4
+Sarawak,total,2000-01-01,374,7.8
+Sarawak,total,2001-01-01,339,7.4
+Sarawak,total,2002-01-01,341,7.6
+Sarawak,total,2003-01-01,340,7.7
+Sarawak,total,2004-01-01,309,7.1
+Sarawak,total,2005-01-01,354,8.2
+Sarawak,total,2006-01-01,376,8.8
+Sarawak,total,2007-01-01,366,8.6
+Sarawak,total,2008-01-01,349,8.0
+Sarawak,total,2009-01-01,408,9.3
+Sarawak,total,2010-01-01,346,8.3
+Sarawak,total,2011-01-01,344,7.9
+Sarawak,total,2012-01-01,334,7.7
+Sarawak,total,2013-01-01,304,7.5
+Sarawak,total,2014-01-01,303,7.4
+Sarawak,total,2015-01-01,276,6.9
+Sarawak,total,2016-01-01,284,7.5
+Sarawak,total,2017-01-01,296,7.9
+Sarawak,total,2018-01-01,347,9.5
+Sarawak,total,2019-01-01,265,7.2
+Sarawak,total,2020-01-01,257,7.2
+Sarawak,total,2021-01-01,195,6.2
+Sarawak,total,2022-01-01,244,7.9
+Sarawak,total,2023-01-01,269,7.9
+Sarawak,total,2024-01-01,263,8.7
+Sarawak,perinatal,2000-01-01,117,2.4
+Sarawak,perinatal,2001-01-01,221,4.8
+Sarawak,perinatal,2002-01-01,188,4.2
+Sarawak,perinatal,2003-01-01,185,4.2
+Sarawak,perinatal,2004-01-01,221,5.1
+Sarawak,perinatal,2005-01-01,266,6.1
+Sarawak,perinatal,2006-01-01,278,6.5
+Sarawak,perinatal,2007-01-01,275,6.4
+Sarawak,perinatal,2008-01-01,307,7.0
+Sarawak,perinatal,2009-01-01,361,8.2
+Sarawak,perinatal,2010-01-01,299,7.2
+Sarawak,perinatal,2011-01-01,319,7.3
+Sarawak,perinatal,2012-01-01,282,6.5
+Sarawak,perinatal,2013-01-01,284,7.0
+Sarawak,perinatal,2014-01-01,286,6.9
+Sarawak,perinatal,2015-01-01,254,6.4
+Sarawak,perinatal,2016-01-01,271,7.1
+Sarawak,perinatal,2017-01-01,310,8.2
+Sarawak,perinatal,2018-01-01,290,7.9
+Sarawak,perinatal,2019-01-01,278,7.5
+Sarawak,perinatal,2020-01-01,271,7.6
+Sarawak,perinatal,2021-01-01,213,6.8
+Sarawak,perinatal,2022-01-01,257,8.3
+Sarawak,perinatal,2023-01-01,235,6.9
+Sarawak,perinatal,2024-01-01,246,8.1
+Sarawak,neonatal,2000-01-01,92,1.9
+Sarawak,neonatal,2001-01-01,143,3.1
+Sarawak,neonatal,2002-01-01,148,3.3
+Sarawak,neonatal,2003-01-01,127,2.9
+Sarawak,neonatal,2004-01-01,141,3.2
+Sarawak,neonatal,2005-01-01,154,3.6
+Sarawak,neonatal,2006-01-01,165,3.8
+Sarawak,neonatal,2007-01-01,171,4.0
+Sarawak,neonatal,2008-01-01,168,3.9
+Sarawak,neonatal,2009-01-01,207,4.7
+Sarawak,neonatal,2010-01-01,176,4.2
+Sarawak,neonatal,2011-01-01,181,4.2
+Sarawak,neonatal,2012-01-01,162,3.8
+Sarawak,neonatal,2013-01-01,138,3.4
+Sarawak,neonatal,2014-01-01,151,3.7
+Sarawak,neonatal,2015-01-01,136,3.4
+Sarawak,neonatal,2016-01-01,132,3.5
+Sarawak,neonatal,2017-01-01,158,4.2
+Sarawak,neonatal,2018-01-01,139,3.8
+Sarawak,neonatal,2019-01-01,119,3.2
+Sarawak,neonatal,2020-01-01,122,3.4
+Sarawak,neonatal,2021-01-01,97,3.1
+Sarawak,neonatal,2022-01-01,131,4.2
+Sarawak,neonatal,2023-01-01,133,3.9
+Sarawak,neonatal,2024-01-01,134,4.4
+Sarawak,infant,2000-01-01,248,5.2
+Sarawak,infant,2001-01-01,251,5.4
+Sarawak,infant,2002-01-01,256,5.7
+Sarawak,infant,2003-01-01,249,5.7
+Sarawak,infant,2004-01-01,237,5.4
+Sarawak,infant,2005-01-01,265,6.1
+Sarawak,infant,2006-01-01,291,6.8
+Sarawak,infant,2007-01-01,275,6.5
+Sarawak,infant,2008-01-01,272,6.3
+Sarawak,infant,2009-01-01,325,7.4
+Sarawak,infant,2010-01-01,281,6.8
+Sarawak,infant,2011-01-01,281,6.5
+Sarawak,infant,2012-01-01,275,6.4
+Sarawak,infant,2013-01-01,230,5.7
+Sarawak,infant,2014-01-01,236,5.7
+Sarawak,infant,2015-01-01,223,5.6
+Sarawak,infant,2016-01-01,229,6.0
+Sarawak,infant,2017-01-01,238,6.3
+Sarawak,infant,2018-01-01,262,7.2
+Sarawak,infant,2019-01-01,211,5.8
+Sarawak,infant,2020-01-01,204,5.8
+Sarawak,infant,2021-01-01,152,4.9
+Sarawak,infant,2022-01-01,183,5.9
+Sarawak,infant,2023-01-01,217,6.4
+Sarawak,infant,2024-01-01,221,7.3
+Sarawak,toddler,2000-01-01,126,0.6
+Sarawak,toddler,2001-01-01,88,0.4
+Sarawak,toddler,2002-01-01,85,0.4
+Sarawak,toddler,2003-01-01,91,0.4
+Sarawak,toddler,2004-01-01,72,0.4
+Sarawak,toddler,2005-01-01,89,0.5
+Sarawak,toddler,2006-01-01,85,0.4
+Sarawak,toddler,2007-01-01,91,0.5
+Sarawak,toddler,2008-01-01,77,0.4
+Sarawak,toddler,2009-01-01,83,0.4
+Sarawak,toddler,2010-01-01,65,0.4
+Sarawak,toddler,2011-01-01,63,0.4
+Sarawak,toddler,2012-01-01,59,0.3
+Sarawak,toddler,2013-01-01,74,0.4
+Sarawak,toddler,2014-01-01,67,0.4
+Sarawak,toddler,2015-01-01,53,0.3
+Sarawak,toddler,2016-01-01,55,0.3
+Sarawak,toddler,2017-01-01,58,0.4
+Sarawak,toddler,2018-01-01,85,0.5
+Sarawak,toddler,2019-01-01,54,0.4
+Sarawak,toddler,2020-01-01,53,0.4
+Sarawak,toddler,2021-01-01,43,0.4
+Sarawak,toddler,2022-01-01,61,0.5
+Sarawak,toddler,2023-01-01,52,0.4
+Sarawak,toddler,2024-01-01,42,0.3
+Selangor,total,2000-01-01,590,6.4
+Selangor,total,2001-01-01,581,6.6
+Selangor,total,2002-01-01,689,7.7
+Selangor,total,2003-01-01,670,7.4
+Selangor,total,2004-01-01,653,7.0
+Selangor,total,2005-01-01,613,6.6
+Selangor,total,2006-01-01,588,6.2
+Selangor,total,2007-01-01,618,6.4
+Selangor,total,2008-01-01,680,6.8
+Selangor,total,2009-01-01,725,7.0
+Selangor,total,2010-01-01,688,7.0
+Selangor,total,2011-01-01,727,7.0
+Selangor,total,2012-01-01,703,6.5
+Selangor,total,2013-01-01,765,7.4
+Selangor,total,2014-01-01,703,6.5
+Selangor,total,2015-01-01,700,6.5
+Selangor,total,2016-01-01,776,7.4
+Selangor,total,2017-01-01,752,7.2
+Selangor,total,2018-01-01,797,7.8
+Selangor,total,2019-01-01,739,7.5
+Selangor,total,2020-01-01,521,5.6
+Selangor,total,2021-01-01,496,5.5
+Selangor,total,2022-01-01,611,7.3
+Selangor,total,2023-01-01,683,7.5
+Selangor,total,2024-01-01,628,7.6
+Selangor,perinatal,2000-01-01,362,3.9
+Selangor,perinatal,2001-01-01,414,4.7
+Selangor,perinatal,2002-01-01,453,5.0
+Selangor,perinatal,2003-01-01,548,6.1
+Selangor,perinatal,2004-01-01,536,5.7
+Selangor,perinatal,2005-01-01,528,5.7
+Selangor,perinatal,2006-01-01,547,5.8
+Selangor,perinatal,2007-01-01,546,5.6
+Selangor,perinatal,2008-01-01,586,5.8
+Selangor,perinatal,2009-01-01,643,6.2
+Selangor,perinatal,2010-01-01,632,6.4
+Selangor,perinatal,2011-01-01,667,6.4
+Selangor,perinatal,2012-01-01,677,6.2
+Selangor,perinatal,2013-01-01,674,6.5
+Selangor,perinatal,2014-01-01,687,6.3
+Selangor,perinatal,2015-01-01,683,6.3
+Selangor,perinatal,2016-01-01,773,7.4
+Selangor,perinatal,2017-01-01,797,7.6
+Selangor,perinatal,2018-01-01,811,7.9
+Selangor,perinatal,2019-01-01,778,7.8
+Selangor,perinatal,2020-01-01,663,7.1
+Selangor,perinatal,2021-01-01,634,7.0
+Selangor,perinatal,2022-01-01,631,7.5
+Selangor,perinatal,2023-01-01,667,7.3
+Selangor,perinatal,2024-01-01,628,7.5
+Selangor,neonatal,2000-01-01,290,3.2
+Selangor,neonatal,2001-01-01,255,2.9
+Selangor,neonatal,2002-01-01,290,3.2
+Selangor,neonatal,2003-01-01,327,3.6
+Selangor,neonatal,2004-01-01,311,3.3
+Selangor,neonatal,2005-01-01,297,3.2
+Selangor,neonatal,2006-01-01,278,2.9
+Selangor,neonatal,2007-01-01,296,3.0
+Selangor,neonatal,2008-01-01,339,3.4
+Selangor,neonatal,2009-01-01,381,3.7
+Selangor,neonatal,2010-01-01,350,3.6
+Selangor,neonatal,2011-01-01,395,3.8
+Selangor,neonatal,2012-01-01,360,3.3
+Selangor,neonatal,2013-01-01,376,3.6
+Selangor,neonatal,2014-01-01,342,3.1
+Selangor,neonatal,2015-01-01,354,3.3
+Selangor,neonatal,2016-01-01,380,3.6
+Selangor,neonatal,2017-01-01,386,3.7
+Selangor,neonatal,2018-01-01,422,4.1
+Selangor,neonatal,2019-01-01,366,3.7
+Selangor,neonatal,2020-01-01,280,3.0
+Selangor,neonatal,2021-01-01,264,2.9
+Selangor,neonatal,2022-01-01,286,3.4
+Selangor,neonatal,2023-01-01,348,3.8
+Selangor,neonatal,2024-01-01,326,3.9
+Selangor,infant,2000-01-01,473,5.2
+Selangor,infant,2001-01-01,454,5.2
+Selangor,infant,2002-01-01,534,6.0
+Selangor,infant,2003-01-01,537,6.0
+Selangor,infant,2004-01-01,527,5.7
+Selangor,infant,2005-01-01,491,5.3
+Selangor,infant,2006-01-01,475,5.0
+Selangor,infant,2007-01-01,511,5.3
+Selangor,infant,2008-01-01,541,5.4
+Selangor,infant,2009-01-01,607,5.9
+Selangor,infant,2010-01-01,557,5.7
+Selangor,infant,2011-01-01,580,5.6
+Selangor,infant,2012-01-01,570,5.3
+Selangor,infant,2013-01-01,624,6.0
+Selangor,infant,2014-01-01,573,5.3
+Selangor,infant,2015-01-01,572,5.3
+Selangor,infant,2016-01-01,643,6.1
+Selangor,infant,2017-01-01,620,6.0
+Selangor,infant,2018-01-01,662,6.5
+Selangor,infant,2019-01-01,596,6.0
+Selangor,infant,2020-01-01,427,4.6
+Selangor,infant,2021-01-01,402,4.5
+Selangor,infant,2022-01-01,495,5.9
+Selangor,infant,2023-01-01,558,6.2
+Selangor,infant,2024-01-01,519,6.2
+Selangor,toddler,2000-01-01,117,0.3
+Selangor,toddler,2001-01-01,127,0.3
+Selangor,toddler,2002-01-01,155,0.4
+Selangor,toddler,2003-01-01,133,0.4
+Selangor,toddler,2004-01-01,126,0.4
+Selangor,toddler,2005-01-01,122,0.3
+Selangor,toddler,2006-01-01,113,0.3
+Selangor,toddler,2007-01-01,107,0.3
+Selangor,toddler,2008-01-01,139,0.4
+Selangor,toddler,2009-01-01,118,0.3
+Selangor,toddler,2010-01-01,131,0.3
+Selangor,toddler,2011-01-01,147,0.4
+Selangor,toddler,2012-01-01,133,0.4
+Selangor,toddler,2013-01-01,141,0.4
+Selangor,toddler,2014-01-01,130,0.3
+Selangor,toddler,2015-01-01,128,0.3
+Selangor,toddler,2016-01-01,133,0.3
+Selangor,toddler,2017-01-01,132,0.3
+Selangor,toddler,2018-01-01,135,0.3
+Selangor,toddler,2019-01-01,143,0.3
+Selangor,toddler,2020-01-01,94,0.2
+Selangor,toddler,2021-01-01,94,0.2
+Selangor,toddler,2022-01-01,116,0.3
+Selangor,toddler,2023-01-01,125,0.3
+Selangor,toddler,2024-01-01,109,0.3
+Terengganu,total,2000-01-01,237,9.5
+Terengganu,total,2001-01-01,286,11.9
+Terengganu,total,2002-01-01,304,13.1
+Terengganu,total,2003-01-01,258,11.6
+Terengganu,total,2004-01-01,274,12.2
+Terengganu,total,2005-01-01,272,12.4
+Terengganu,total,2006-01-01,255,11.6
+Terengganu,total,2007-01-01,274,12.3
+Terengganu,total,2008-01-01,267,11.4
+Terengganu,total,2009-01-01,253,10.6
+Terengganu,total,2010-01-01,251,10.3
+Terengganu,total,2011-01-01,270,10.9
+Terengganu,total,2012-01-01,240,9.3
+Terengganu,total,2013-01-01,280,11.0
+Terengganu,total,2014-01-01,259,9.6
+Terengganu,total,2015-01-01,265,9.6
+Terengganu,total,2016-01-01,236,8.6
+Terengganu,total,2017-01-01,210,7.5
+Terengganu,total,2018-01-01,207,7.3
+Terengganu,total,2019-01-01,223,8.2
+Terengganu,total,2020-01-01,188,6.9
+Terengganu,total,2021-01-01,199,7.6
+Terengganu,total,2022-01-01,217,8.6
+Terengganu,total,2023-01-01,250,9.6
+Terengganu,total,2024-01-01,202,8.5
+Terengganu,perinatal,2000-01-01,144,5.8
+Terengganu,perinatal,2001-01-01,242,10.0
+Terengganu,perinatal,2002-01-01,265,11.3
+Terengganu,perinatal,2003-01-01,219,9.8
+Terengganu,perinatal,2004-01-01,257,11.3
+Terengganu,perinatal,2005-01-01,258,11.7
+Terengganu,perinatal,2006-01-01,256,11.6
+Terengganu,perinatal,2007-01-01,268,11.9
+Terengganu,perinatal,2008-01-01,246,10.5
+Terengganu,perinatal,2009-01-01,283,11.8
+Terengganu,perinatal,2010-01-01,304,12.4
+Terengganu,perinatal,2011-01-01,276,11.1
+Terengganu,perinatal,2012-01-01,269,10.4
+Terengganu,perinatal,2013-01-01,265,10.3
+Terengganu,perinatal,2014-01-01,291,10.7
+Terengganu,perinatal,2015-01-01,279,10.0
+Terengganu,perinatal,2016-01-01,227,8.2
+Terengganu,perinatal,2017-01-01,236,8.4
+Terengganu,perinatal,2018-01-01,208,7.3
+Terengganu,perinatal,2019-01-01,250,9.2
+Terengganu,perinatal,2020-01-01,209,7.7
+Terengganu,perinatal,2021-01-01,221,8.4
+Terengganu,perinatal,2022-01-01,209,8.2
+Terengganu,perinatal,2023-01-01,244,9.3
+Terengganu,perinatal,2024-01-01,196,8.2
+Terengganu,neonatal,2000-01-01,54,2.2
+Terengganu,neonatal,2001-01-01,123,5.1
+Terengganu,neonatal,2002-01-01,141,6.1
+Terengganu,neonatal,2003-01-01,125,5.6
+Terengganu,neonatal,2004-01-01,134,5.9
+Terengganu,neonatal,2005-01-01,153,7.0
+Terengganu,neonatal,2006-01-01,139,6.3
+Terengganu,neonatal,2007-01-01,145,6.5
+Terengganu,neonatal,2008-01-01,152,6.5
+Terengganu,neonatal,2009-01-01,140,5.9
+Terengganu,neonatal,2010-01-01,149,6.1
+Terengganu,neonatal,2011-01-01,148,6.0
+Terengganu,neonatal,2012-01-01,138,5.4
+Terengganu,neonatal,2013-01-01,158,6.2
+Terengganu,neonatal,2014-01-01,156,5.8
+Terengganu,neonatal,2015-01-01,142,5.1
+Terengganu,neonatal,2016-01-01,120,4.4
+Terengganu,neonatal,2017-01-01,114,4.1
+Terengganu,neonatal,2018-01-01,118,4.2
+Terengganu,neonatal,2019-01-01,129,4.8
+Terengganu,neonatal,2020-01-01,107,3.9
+Terengganu,neonatal,2021-01-01,127,4.8
+Terengganu,neonatal,2022-01-01,126,5.0
+Terengganu,neonatal,2023-01-01,151,5.8
+Terengganu,neonatal,2024-01-01,113,4.8
+Terengganu,infant,2000-01-01,179,7.2
+Terengganu,infant,2001-01-01,226,9.4
+Terengganu,infant,2002-01-01,233,10.0
+Terengganu,infant,2003-01-01,194,8.7
+Terengganu,infant,2004-01-01,218,9.7
+Terengganu,infant,2005-01-01,227,10.3
+Terengganu,infant,2006-01-01,217,9.9
+Terengganu,infant,2007-01-01,226,10.1
+Terengganu,infant,2008-01-01,219,9.4
+Terengganu,infant,2009-01-01,207,8.7
+Terengganu,infant,2010-01-01,202,8.3
+Terengganu,infant,2011-01-01,220,8.9
+Terengganu,infant,2012-01-01,196,7.6
+Terengganu,infant,2013-01-01,231,9.1
+Terengganu,infant,2014-01-01,213,7.9
+Terengganu,infant,2015-01-01,218,7.9
+Terengganu,infant,2016-01-01,199,7.2
+Terengganu,infant,2017-01-01,173,6.2
+Terengganu,infant,2018-01-01,173,6.1
+Terengganu,infant,2019-01-01,198,7.3
+Terengganu,infant,2020-01-01,157,5.8
+Terengganu,infant,2021-01-01,167,6.3
+Terengganu,infant,2022-01-01,167,6.6
+Terengganu,infant,2023-01-01,202,7.7
+Terengganu,infant,2024-01-01,170,7.2
+Terengganu,toddler,2000-01-01,58,0.6
+Terengganu,toddler,2001-01-01,60,0.7
+Terengganu,toddler,2002-01-01,71,0.8
+Terengganu,toddler,2003-01-01,64,0.7
+Terengganu,toddler,2004-01-01,56,0.6
+Terengganu,toddler,2005-01-01,45,0.5
+Terengganu,toddler,2006-01-01,38,0.4
+Terengganu,toddler,2007-01-01,48,0.5
+Terengganu,toddler,2008-01-01,48,0.5
+Terengganu,toddler,2009-01-01,46,0.5
+Terengganu,toddler,2010-01-01,49,0.5
+Terengganu,toddler,2011-01-01,50,0.5
+Terengganu,toddler,2012-01-01,44,0.5
+Terengganu,toddler,2013-01-01,49,0.5
+Terengganu,toddler,2014-01-01,46,0.5
+Terengganu,toddler,2015-01-01,47,0.5
+Terengganu,toddler,2016-01-01,37,0.4
+Terengganu,toddler,2017-01-01,37,0.4
+Terengganu,toddler,2018-01-01,34,0.3
+Terengganu,toddler,2019-01-01,25,0.2
+Terengganu,toddler,2020-01-01,31,0.4
+Terengganu,toddler,2021-01-01,32,0.4
+Terengganu,toddler,2022-01-01,50,0.6
+Terengganu,toddler,2023-01-01,48,0.5
+Terengganu,toddler,2024-01-01,32,0.3
+W.P. Kuala Lumpur,total,2000-01-01,205,7.0
+W.P. Kuala Lumpur,total,2001-01-01,217,8.0
+W.P. Kuala Lumpur,total,2002-01-01,229,8.8
+W.P. Kuala Lumpur,total,2003-01-01,183,7.3
+W.P. Kuala Lumpur,total,2004-01-01,158,6.3
+W.P. Kuala Lumpur,total,2005-01-01,153,6.5
+W.P. Kuala Lumpur,total,2006-01-01,148,6.1
+W.P. Kuala Lumpur,total,2007-01-01,184,7.4
+W.P. Kuala Lumpur,total,2008-01-01,163,6.5
+W.P. Kuala Lumpur,total,2009-01-01,170,6.6
+W.P. Kuala Lumpur,total,2010-01-01,176,7.2
+W.P. Kuala Lumpur,total,2011-01-01,193,7.6
+W.P. Kuala Lumpur,total,2012-01-01,150,5.6
+W.P. Kuala Lumpur,total,2013-01-01,153,6.0
+W.P. Kuala Lumpur,total,2014-01-01,192,7.1
+W.P. Kuala Lumpur,total,2015-01-01,167,6.5
+W.P. Kuala Lumpur,total,2016-01-01,191,7.4
+W.P. Kuala Lumpur,total,2017-01-01,190,7.7
+W.P. Kuala Lumpur,total,2018-01-01,177,7.3
+W.P. Kuala Lumpur,total,2019-01-01,144,6.0
+W.P. Kuala Lumpur,total,2020-01-01,111,4.8
+W.P. Kuala Lumpur,total,2021-01-01,130,6.2
+W.P. Kuala Lumpur,total,2022-01-01,153,7.7
+W.P. Kuala Lumpur,total,2023-01-01,145,6.8
+W.P. Kuala Lumpur,total,2024-01-01,130,6.1
+W.P. Kuala Lumpur,perinatal,2000-01-01,141,4.8
+W.P. Kuala Lumpur,perinatal,2001-01-01,139,5.1
+W.P. Kuala Lumpur,perinatal,2002-01-01,157,6.0
+W.P. Kuala Lumpur,perinatal,2003-01-01,153,6.1
+W.P. Kuala Lumpur,perinatal,2004-01-01,128,5.1
+W.P. Kuala Lumpur,perinatal,2005-01-01,138,5.8
+W.P. Kuala Lumpur,perinatal,2006-01-01,154,6.4
+W.P. Kuala Lumpur,perinatal,2007-01-01,155,6.2
+W.P. Kuala Lumpur,perinatal,2008-01-01,159,6.3
+W.P. Kuala Lumpur,perinatal,2009-01-01,162,6.2
+W.P. Kuala Lumpur,perinatal,2010-01-01,174,7.1
+W.P. Kuala Lumpur,perinatal,2011-01-01,172,6.7
+W.P. Kuala Lumpur,perinatal,2012-01-01,152,5.6
+W.P. Kuala Lumpur,perinatal,2013-01-01,126,5.0
+W.P. Kuala Lumpur,perinatal,2014-01-01,164,6.0
+W.P. Kuala Lumpur,perinatal,2015-01-01,159,6.1
+W.P. Kuala Lumpur,perinatal,2016-01-01,219,8.5
+W.P. Kuala Lumpur,perinatal,2017-01-01,223,9.0
+W.P. Kuala Lumpur,perinatal,2018-01-01,194,8.0
+W.P. Kuala Lumpur,perinatal,2019-01-01,176,7.3
+W.P. Kuala Lumpur,perinatal,2020-01-01,148,6.4
+W.P. Kuala Lumpur,perinatal,2021-01-01,164,7.8
+W.P. Kuala Lumpur,perinatal,2022-01-01,153,7.7
+W.P. Kuala Lumpur,perinatal,2023-01-01,169,7.8
+W.P. Kuala Lumpur,perinatal,2024-01-01,126,5.9
+W.P. Kuala Lumpur,neonatal,2000-01-01,91,3.1
+W.P. Kuala Lumpur,neonatal,2001-01-01,104,3.8
+W.P. Kuala Lumpur,neonatal,2002-01-01,107,4.1
+W.P. Kuala Lumpur,neonatal,2003-01-01,70,2.8
+W.P. Kuala Lumpur,neonatal,2004-01-01,69,2.8
+W.P. Kuala Lumpur,neonatal,2005-01-01,73,3.1
+W.P. Kuala Lumpur,neonatal,2006-01-01,75,3.1
+W.P. Kuala Lumpur,neonatal,2007-01-01,98,3.9
+W.P. Kuala Lumpur,neonatal,2008-01-01,83,3.3
+W.P. Kuala Lumpur,neonatal,2009-01-01,80,3.1
+W.P. Kuala Lumpur,neonatal,2010-01-01,78,3.2
+W.P. Kuala Lumpur,neonatal,2011-01-01,105,4.1
+W.P. Kuala Lumpur,neonatal,2012-01-01,78,2.9
+W.P. Kuala Lumpur,neonatal,2013-01-01,76,3.0
+W.P. Kuala Lumpur,neonatal,2014-01-01,99,3.7
+W.P. Kuala Lumpur,neonatal,2015-01-01,79,3.1
+W.P. Kuala Lumpur,neonatal,2016-01-01,105,4.1
+W.P. Kuala Lumpur,neonatal,2017-01-01,94,3.8
+W.P. Kuala Lumpur,neonatal,2018-01-01,98,4.0
+W.P. Kuala Lumpur,neonatal,2019-01-01,76,3.2
+W.P. Kuala Lumpur,neonatal,2020-01-01,57,2.5
+W.P. Kuala Lumpur,neonatal,2021-01-01,74,3.5
+W.P. Kuala Lumpur,neonatal,2022-01-01,70,3.5
+W.P. Kuala Lumpur,neonatal,2023-01-01,72,3.4
+W.P. Kuala Lumpur,neonatal,2024-01-01,62,2.9
+W.P. Kuala Lumpur,infant,2000-01-01,161,5.5
+W.P. Kuala Lumpur,infant,2001-01-01,181,6.7
+W.P. Kuala Lumpur,infant,2002-01-01,184,7.1
+W.P. Kuala Lumpur,infant,2003-01-01,135,5.4
+W.P. Kuala Lumpur,infant,2004-01-01,120,4.8
+W.P. Kuala Lumpur,infant,2005-01-01,121,5.1
+W.P. Kuala Lumpur,infant,2006-01-01,128,5.3
+W.P. Kuala Lumpur,infant,2007-01-01,153,6.1
+W.P. Kuala Lumpur,infant,2008-01-01,124,4.9
+W.P. Kuala Lumpur,infant,2009-01-01,139,5.4
+W.P. Kuala Lumpur,infant,2010-01-01,135,5.5
+W.P. Kuala Lumpur,infant,2011-01-01,163,6.4
+W.P. Kuala Lumpur,infant,2012-01-01,126,4.7
+W.P. Kuala Lumpur,infant,2013-01-01,123,4.9
+W.P. Kuala Lumpur,infant,2014-01-01,167,6.2
+W.P. Kuala Lumpur,infant,2015-01-01,140,5.4
+W.P. Kuala Lumpur,infant,2016-01-01,159,6.2
+W.P. Kuala Lumpur,infant,2017-01-01,160,6.5
+W.P. Kuala Lumpur,infant,2018-01-01,150,6.2
+W.P. Kuala Lumpur,infant,2019-01-01,124,5.2
+W.P. Kuala Lumpur,infant,2020-01-01,92,4.0
+W.P. Kuala Lumpur,infant,2021-01-01,116,5.5
+W.P. Kuala Lumpur,infant,2022-01-01,122,6.1
+W.P. Kuala Lumpur,infant,2023-01-01,112,5.2
+W.P. Kuala Lumpur,infant,2024-01-01,104,4.9
+W.P. Kuala Lumpur,toddler,2000-01-01,44,0.3
+W.P. Kuala Lumpur,toddler,2001-01-01,36,0.3
+W.P. Kuala Lumpur,toddler,2002-01-01,45,0.3
+W.P. Kuala Lumpur,toddler,2003-01-01,48,0.4
+W.P. Kuala Lumpur,toddler,2004-01-01,38,0.3
+W.P. Kuala Lumpur,toddler,2005-01-01,32,0.3
+W.P. Kuala Lumpur,toddler,2006-01-01,20,0.2
+W.P. Kuala Lumpur,toddler,2007-01-01,31,0.3
+W.P. Kuala Lumpur,toddler,2008-01-01,39,0.4
+W.P. Kuala Lumpur,toddler,2009-01-01,31,0.3
+W.P. Kuala Lumpur,toddler,2010-01-01,41,0.4
+W.P. Kuala Lumpur,toddler,2011-01-01,30,0.3
+W.P. Kuala Lumpur,toddler,2012-01-01,24,0.2
+W.P. Kuala Lumpur,toddler,2013-01-01,30,0.3
+W.P. Kuala Lumpur,toddler,2014-01-01,25,0.3
+W.P. Kuala Lumpur,toddler,2015-01-01,27,0.3
+W.P. Kuala Lumpur,toddler,2016-01-01,32,0.3
+W.P. Kuala Lumpur,toddler,2017-01-01,30,0.3
+W.P. Kuala Lumpur,toddler,2018-01-01,27,0.3
+W.P. Kuala Lumpur,toddler,2019-01-01,20,0.2
+W.P. Kuala Lumpur,toddler,2020-01-01,19,0.2
+W.P. Kuala Lumpur,toddler,2021-01-01,14,0.1
+W.P. Kuala Lumpur,toddler,2022-01-01,31,0.3
+W.P. Kuala Lumpur,toddler,2023-01-01,33,0.4
+W.P. Kuala Lumpur,toddler,2024-01-01,26,0.3
+W.P. Labuan,total,2000-01-01,12,8.0
+W.P. Labuan,total,2001-01-01,7,4.7
+W.P. Labuan,total,2002-01-01,19,13.0
+W.P. Labuan,total,2003-01-01,14,8.8
+W.P. Labuan,total,2004-01-01,15,9.9
+W.P. Labuan,total,2005-01-01,16,10.6
+W.P. Labuan,total,2006-01-01,23,14.5
+W.P. Labuan,total,2007-01-01,18,11.4
+W.P. Labuan,total,2008-01-01,18,10.7
+W.P. Labuan,total,2009-01-01,21,12.7
+W.P. Labuan,total,2010-01-01,20,12.3
+W.P. Labuan,total,2011-01-01,16,9.2
+W.P. Labuan,total,2012-01-01,16,9.0
+W.P. Labuan,total,2013-01-01,16,9.2
+W.P. Labuan,total,2014-01-01,17,9.1
+W.P. Labuan,total,2015-01-01,19,9.7
+W.P. Labuan,total,2016-01-01,17,9.7
+W.P. Labuan,total,2017-01-01,12,7.1
+W.P. Labuan,total,2018-01-01,17,10.1
+W.P. Labuan,total,2019-01-01,18,10.7
+W.P. Labuan,total,2020-01-01,16,9.3
+W.P. Labuan,total,2021-01-01,15,9.9
+W.P. Labuan,total,2022-01-01,16,11.6
+W.P. Labuan,total,2023-01-01,13,9.2
+W.P. Labuan,total,2024-01-01,23,17.6
+W.P. Labuan,perinatal,2000-01-01,6,4.0
+W.P. Labuan,perinatal,2001-01-01,19,12.6
+W.P. Labuan,perinatal,2002-01-01,27,18.2
+W.P. Labuan,perinatal,2003-01-01,17,10.7
+W.P. Labuan,perinatal,2004-01-01,14,9.2
+W.P. Labuan,perinatal,2005-01-01,17,11.2
+W.P. Labuan,perinatal,2006-01-01,16,10.0
+W.P. Labuan,perinatal,2007-01-01,17,10.7
+W.P. Labuan,perinatal,2008-01-01,20,11.8
+W.P. Labuan,perinatal,2009-01-01,18,10.8
+W.P. Labuan,perinatal,2010-01-01,16,9.8
+W.P. Labuan,perinatal,2011-01-01,19,10.9
+W.P. Labuan,perinatal,2012-01-01,17,9.5
+W.P. Labuan,perinatal,2013-01-01,16,9.2
+W.P. Labuan,perinatal,2014-01-01,9,4.8
+W.P. Labuan,perinatal,2015-01-01,19,9.7
+W.P. Labuan,perinatal,2016-01-01,14,8.0
+W.P. Labuan,perinatal,2017-01-01,15,8.8
+W.P. Labuan,perinatal,2018-01-01,17,10.0
+W.P. Labuan,perinatal,2019-01-01,9,5.4
+W.P. Labuan,perinatal,2020-01-01,16,9.3
+W.P. Labuan,perinatal,2021-01-01,11,7.2
+W.P. Labuan,perinatal,2022-01-01,19,13.7
+W.P. Labuan,perinatal,2023-01-01,18,12.7
+W.P. Labuan,perinatal,2024-01-01,18,13.7
+W.P. Labuan,neonatal,2000-01-01,3,2.0
+W.P. Labuan,neonatal,2001-01-01,2,1.3
+W.P. Labuan,neonatal,2002-01-01,15,10.2
+W.P. Labuan,neonatal,2003-01-01,9,5.7
+W.P. Labuan,neonatal,2004-01-01,9,5.9
+W.P. Labuan,neonatal,2005-01-01,8,5.3
+W.P. Labuan,neonatal,2006-01-01,15,9.5
+W.P. Labuan,neonatal,2007-01-01,12,7.6
+W.P. Labuan,neonatal,2008-01-01,8,4.8
+W.P. Labuan,neonatal,2009-01-01,12,7.2
+W.P. Labuan,neonatal,2010-01-01,12,7.4
+W.P. Labuan,neonatal,2011-01-01,12,6.9
+W.P. Labuan,neonatal,2012-01-01,9,5.1
+W.P. Labuan,neonatal,2013-01-01,11,6.3
+W.P. Labuan,neonatal,2014-01-01,10,5.3
+W.P. Labuan,neonatal,2015-01-01,11,5.6
+W.P. Labuan,neonatal,2016-01-01,9,5.1
+W.P. Labuan,neonatal,2017-01-01,7,4.2
+W.P. Labuan,neonatal,2018-01-01,12,7.1
+W.P. Labuan,neonatal,2019-01-01,7,4.2
+W.P. Labuan,neonatal,2020-01-01,9,5.3
+W.P. Labuan,neonatal,2021-01-01,8,5.3
+W.P. Labuan,neonatal,2022-01-01,10,7.3
+W.P. Labuan,neonatal,2023-01-01,8,5.7
+W.P. Labuan,neonatal,2024-01-01,15,11.5
+W.P. Labuan,infant,2000-01-01,8,5.4
+W.P. Labuan,infant,2001-01-01,5,3.4
+W.P. Labuan,infant,2002-01-01,19,13.0
+W.P. Labuan,infant,2003-01-01,12,7.6
+W.P. Labuan,infant,2004-01-01,12,7.9
+W.P. Labuan,infant,2005-01-01,15,9.9
+W.P. Labuan,infant,2006-01-01,23,14.5
+W.P. Labuan,infant,2007-01-01,17,10.8
+W.P. Labuan,infant,2008-01-01,15,8.9
+W.P. Labuan,infant,2009-01-01,16,9.7
+W.P. Labuan,infant,2010-01-01,15,9.2
+W.P. Labuan,infant,2011-01-01,14,8.1
+W.P. Labuan,infant,2012-01-01,14,7.9
+W.P. Labuan,infant,2013-01-01,13,7.5
+W.P. Labuan,infant,2014-01-01,15,8.0
+W.P. Labuan,infant,2015-01-01,18,9.2
+W.P. Labuan,infant,2016-01-01,14,8.0
+W.P. Labuan,infant,2017-01-01,12,7.1
+W.P. Labuan,infant,2018-01-01,16,9.5
+W.P. Labuan,infant,2019-01-01,12,7.2
+W.P. Labuan,infant,2020-01-01,13,7.6
+W.P. Labuan,infant,2021-01-01,9,5.9
+W.P. Labuan,infant,2022-01-01,13,9.5
+W.P. Labuan,infant,2023-01-01,10,7.1
+W.P. Labuan,infant,2024-01-01,21,16.0
+W.P. Labuan,toddler,2000-01-01,4,0.5
+W.P. Labuan,toddler,2001-01-01,2,0.2
+W.P. Labuan,toddler,2002-01-01,0,0.0
+W.P. Labuan,toddler,2003-01-01,2,0.3
+W.P. Labuan,toddler,2004-01-01,3,0.4
+W.P. Labuan,toddler,2005-01-01,1,0.2
+W.P. Labuan,toddler,2006-01-01,0,0.0
+W.P. Labuan,toddler,2007-01-01,1,0.1
+W.P. Labuan,toddler,2008-01-01,3,0.4
+W.P. Labuan,toddler,2009-01-01,5,0.7
+W.P. Labuan,toddler,2010-01-01,5,0.7
+W.P. Labuan,toddler,2011-01-01,2,0.3
+W.P. Labuan,toddler,2012-01-01,2,0.3
+W.P. Labuan,toddler,2013-01-01,3,0.4
+W.P. Labuan,toddler,2014-01-01,2,0.3
+W.P. Labuan,toddler,2015-01-01,1,0.1
+W.P. Labuan,toddler,2016-01-01,3,0.4
+W.P. Labuan,toddler,2017-01-01,0,0.0
+W.P. Labuan,toddler,2018-01-01,1,0.1
+W.P. Labuan,toddler,2019-01-01,6,0.8
+W.P. Labuan,toddler,2020-01-01,3,0.4
+W.P. Labuan,toddler,2021-01-01,6,0.7
+W.P. Labuan,toddler,2022-01-01,3,0.4
+W.P. Labuan,toddler,2023-01-01,3,0.5
+W.P. Labuan,toddler,2024-01-01,2,0.3
+W.P. Putrajaya,total,2010-01-01,21,8.6
+W.P. Putrajaya,total,2011-01-01,27,9.1
+W.P. Putrajaya,total,2012-01-01,34,10.8
+W.P. Putrajaya,total,2013-01-01,33,11.1
+W.P. Putrajaya,total,2014-01-01,39,12.7
+W.P. Putrajaya,total,2015-01-01,27,9.4
+W.P. Putrajaya,total,2016-01-01,28,10.9
+W.P. Putrajaya,total,2017-01-01,23,9.1
+W.P. Putrajaya,total,2018-01-01,27,11.3
+W.P. Putrajaya,total,2019-01-01,22,9.5
+W.P. Putrajaya,total,2020-01-01,16,7.5
+W.P. Putrajaya,total,2021-01-01,13,6.2
+W.P. Putrajaya,total,2022-01-01,17,9.2
+W.P. Putrajaya,total,2023-01-01,27,15.8
+W.P. Putrajaya,total,2024-01-01,21,13.6
+W.P. Putrajaya,perinatal,2010-01-01,17,7.0
+W.P. Putrajaya,perinatal,2011-01-01,16,5.4
+W.P. Putrajaya,perinatal,2012-01-01,21,6.6
+W.P. Putrajaya,perinatal,2013-01-01,25,8.4
+W.P. Putrajaya,perinatal,2014-01-01,23,7.5
+W.P. Putrajaya,perinatal,2015-01-01,22,7.636237417563346
+W.P. Putrajaya,perinatal,2016-01-01,17,6.6
+W.P. Putrajaya,perinatal,2017-01-01,16,6.3
+W.P. Putrajaya,perinatal,2018-01-01,23,9.5
+W.P. Putrajaya,perinatal,2019-01-01,19,8.2
+W.P. Putrajaya,perinatal,2020-01-01,16,7.4
+W.P. Putrajaya,perinatal,2021-01-01,22,10.4
+W.P. Putrajaya,perinatal,2022-01-01,16,8.6
+W.P. Putrajaya,perinatal,2023-01-01,19,11.0
+W.P. Putrajaya,perinatal,2024-01-01,17,10.9
+W.P. Putrajaya,neonatal,2010-01-01,11,4.5
+W.P. Putrajaya,neonatal,2011-01-01,16,5.4
+W.P. Putrajaya,neonatal,2012-01-01,15,4.8
+W.P. Putrajaya,neonatal,2013-01-01,18,6.1
+W.P. Putrajaya,neonatal,2014-01-01,14,4.6
+W.P. Putrajaya,neonatal,2015-01-01,12,4.2
+W.P. Putrajaya,neonatal,2016-01-01,14,5.4
+W.P. Putrajaya,neonatal,2017-01-01,12,4.8
+W.P. Putrajaya,neonatal,2018-01-01,12,5.0
+W.P. Putrajaya,neonatal,2019-01-01,8,3.5
+W.P. Putrajaya,neonatal,2020-01-01,9,4.2
+W.P. Putrajaya,neonatal,2021-01-01,8,3.8
+W.P. Putrajaya,neonatal,2022-01-01,8,4.4
+W.P. Putrajaya,neonatal,2023-01-01,16,9.3
+W.P. Putrajaya,neonatal,2024-01-01,6,3.9
+W.P. Putrajaya,infant,2010-01-01,18,7.4
+W.P. Putrajaya,infant,2011-01-01,25,8.5
+W.P. Putrajaya,infant,2012-01-01,29,9.2
+W.P. Putrajaya,infant,2013-01-01,31,10.4
+W.P. Putrajaya,infant,2014-01-01,31,10.1
+W.P. Putrajaya,infant,2015-01-01,22,7.7
+W.P. Putrajaya,infant,2016-01-01,21,8.2
+W.P. Putrajaya,infant,2017-01-01,21,8.3
+W.P. Putrajaya,infant,2018-01-01,22,9.2
+W.P. Putrajaya,infant,2019-01-01,20,8.6
+W.P. Putrajaya,infant,2020-01-01,14,6.5
+W.P. Putrajaya,infant,2021-01-01,13,6.2
+W.P. Putrajaya,infant,2022-01-01,15,8.2
+W.P. Putrajaya,infant,2023-01-01,24,14.0
+W.P. Putrajaya,infant,2024-01-01,16,10.3
+W.P. Putrajaya,toddler,2010-01-01,3,0.4
+W.P. Putrajaya,toddler,2011-01-01,2,0.2
+W.P. Putrajaya,toddler,2012-01-01,5,0.5
+W.P. Putrajaya,toddler,2013-01-01,2,0.2
+W.P. Putrajaya,toddler,2014-01-01,8,0.7
+W.P. Putrajaya,toddler,2015-01-01,5,0.4
+W.P. Putrajaya,toddler,2016-01-01,7,0.6
+W.P. Putrajaya,toddler,2017-01-01,2,0.2
+W.P. Putrajaya,toddler,2018-01-01,5,0.4
+W.P. Putrajaya,toddler,2019-01-01,2,0.2
+W.P. Putrajaya,toddler,2020-01-01,2,0.2
+W.P. Putrajaya,toddler,2021-01-01,0,0.0
+W.P. Putrajaya,toddler,2022-01-01,2,0.2
+W.P. Putrajaya,toddler,2023-01-01,3,0.3
+W.P. Putrajaya,toddler,2024-01-01,5,0.6

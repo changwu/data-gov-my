@@ -1,0 +1,193 @@
+state,date,sex,abs,rate
+Johor,2017-01-01,female,27308,27.59
+Johor,2017-01-01,male,27626,25.82
+Johor,2018-01-01,female,26806,26.7
+Johor,2018-01-01,male,27153,25.2
+Johor,2019-01-01,female,26574,26.4
+Johor,2019-01-01,male,26872,25.1
+Johor,2020-01-01,female,22917,22.7
+Johor,2020-01-01,male,22865,21.5
+Johor,2021-01-01,female,24936,24.2
+Johor,2021-01-01,male,24384,22.9
+Johor,2022-01-01,female,26539,25.8
+Johor,2022-01-01,male,26166,21.1
+Kedah,2017-01-01,female,13612,23.08
+Kedah,2017-01-01,male,12577,20.83
+Kedah,2018-01-01,female,16123,27.2
+Kedah,2018-01-01,male,14257,23.5
+Kedah,2019-01-01,female,16420,27.7
+Kedah,2019-01-01,male,14384,23.8
+Kedah,2020-01-01,female,16809,28.4
+Kedah,2020-01-01,male,14661,24.4
+Kedah,2021-01-01,female,18790,32.2
+Kedah,2021-01-01,male,15958,25.6
+Kedah,2022-01-01,female,18584,31.7
+Kedah,2022-01-01,male,15768,25.4
+Kelantan,2017-01-01,female,17300,32.2
+Kelantan,2017-01-01,male,14974,26.61
+Kelantan,2018-01-01,female,16768,30.9
+Kelantan,2018-01-01,male,14700,25.8
+Kelantan,2019-01-01,female,16765,30.8
+Kelantan,2019-01-01,male,14530,25.4
+Kelantan,2020-01-01,female,16134,29.5
+Kelantan,2020-01-01,male,13984,24.3
+Kelantan,2021-01-01,female,19912,35.4
+Kelantan,2021-01-01,male,22347,38.8
+Kelantan,2022-01-01,female,18297,32.3
+Kelantan,2022-01-01,male,20558,35.4
+Melaka,2017-01-01,female,6742,27.29
+Melaka,2017-01-01,male,6769,27.22
+Melaka,2018-01-01,female,6840,27.6
+Melaka,2018-01-01,male,6971,28.0
+Melaka,2019-01-01,female,6867,27.7
+Melaka,2019-01-01,male,6826,27.5
+Melaka,2020-01-01,female,6340,25.6
+Melaka,2020-01-01,male,6340,25.8
+Melaka,2021-01-01,female,7413,27.9
+Melaka,2021-01-01,male,7287,25.0
+Melaka,2022-01-01,female,6920,26.1
+Melaka,2022-01-01,male,6912,23.7
+Negeri Sembilan,2017-01-01,female,8752,30.02
+Negeri Sembilan,2017-01-01,male,9022,28.52
+Negeri Sembilan,2018-01-01,female,8609,29.4
+Negeri Sembilan,2018-01-01,male,8807,27.9
+Negeri Sembilan,2019-01-01,female,8506,29.0
+Negeri Sembilan,2019-01-01,male,8689,27.7
+Negeri Sembilan,2020-01-01,female,7994,27.3
+Negeri Sembilan,2020-01-01,male,8246,26.6
+Negeri Sembilan,2021-01-01,female,9285,27.7
+Negeri Sembilan,2021-01-01,male,9370,26.6
+Negeri Sembilan,2022-01-01,female,8843,26.3
+Negeri Sembilan,2022-01-01,male,8915,25.4
+Pahang,2017-01-01,female,12821,30.85
+Pahang,2017-01-01,male,12365,25.93
+Pahang,2018-01-01,female,12439,29.8
+Pahang,2018-01-01,male,12290,25.7
+Pahang,2019-01-01,female,11817,28.3
+Pahang,2019-01-01,male,11867,25.0
+Pahang,2020-01-01,female,10552,25.3
+Pahang,2020-01-01,male,10702,22.8
+Pahang,2021-01-01,female,10963,26.1
+Pahang,2021-01-01,male,10744,22.1
+Pahang,2022-01-01,female,10916,25.8
+Pahang,2022-01-01,male,10369,21.3
+Perak,2017-01-01,female,18726,28.67
+Perak,2017-01-01,male,17611,26.88
+Perak,2018-01-01,female,18619,28.6
+Perak,2018-01-01,male,17616,27.1
+Perak,2019-01-01,female,18775,29.0
+Perak,2019-01-01,male,17629,27.3
+Perak,2020-01-01,female,17442,27.1
+Perak,2020-01-01,male,16227,25.5
+Perak,2021-01-01,female,19035,28.0
+Perak,2021-01-01,male,17537,24.4
+Perak,2022-01-01,female,18059,26.6
+Perak,2022-01-01,male,16407,23.0
+Perlis,2017-01-01,female,2132,31.01
+Perlis,2017-01-01,male,1848,27.05
+Perlis,2018-01-01,female,2119,30.9
+Perlis,2018-01-01,male,1837,27.1
+Perlis,2019-01-01,female,2132,31.3
+Perlis,2019-01-01,male,1829,27.4
+Perlis,2020-01-01,female,2180,32.1
+Perlis,2020-01-01,male,1975,29.9
+Perlis,2021-01-01,female,2480,30.5
+Perlis,2021-01-01,male,2105,25.3
+Perlis,2022-01-01,female,2398,29.6
+Perlis,2022-01-01,male,1965,23.6
+Pulau Pinang,2017-01-01,female,9488,20.89
+Pulau Pinang,2017-01-01,male,9104,20.15
+Pulau Pinang,2018-01-01,female,9758,21.4
+Pulau Pinang,2018-01-01,male,9394,20.7
+Pulau Pinang,2019-01-01,female,9637,21.2
+Pulau Pinang,2019-01-01,male,9411,20.9
+Pulau Pinang,2020-01-01,female,8740,19.4
+Pulau Pinang,2020-01-01,male,8830,19.8
+Pulau Pinang,2021-01-01,female,9432,21.4
+Pulau Pinang,2021-01-01,male,9383,19.9
+Pulau Pinang,2022-01-01,female,10002,22.7
+Pulau Pinang,2022-01-01,male,10067,21.6
+Sabah,2017-01-01,female,14470,14.51
+Sabah,2017-01-01,male,13843,12.43
+Sabah,2018-01-01,female,16340,16.4
+Sabah,2018-01-01,male,15501,13.9
+Sabah,2019-01-01,female,16515,16.6
+Sabah,2019-01-01,male,15447,13.9
+Sabah,2020-01-01,female,12459,12.7
+Sabah,2020-01-01,male,11849,10.8
+Sabah,2021-01-01,female,16830,18.2
+Sabah,2021-01-01,male,15897,14.8
+Sabah,2022-01-01,female,17239,18.8
+Sabah,2022-01-01,male,15855,15.0
+Sarawak,2017-01-01,female,15024,22.12
+Sarawak,2017-01-01,male,15195,20.99
+Sarawak,2018-01-01,female,15248,22.5
+Sarawak,2018-01-01,male,15530,21.5
+Sarawak,2019-01-01,female,14577,21.6
+Sarawak,2019-01-01,male,14858,20.7
+Sarawak,2020-01-01,female,12886,19.2
+Sarawak,2020-01-01,male,13123,18.5
+Sarawak,2021-01-01,female,14794,22.9
+Sarawak,2021-01-01,male,15032,21.1
+Sarawak,2022-01-01,female,16382,25.4
+Sarawak,2022-01-01,male,16707,23.6
+Selangor,2017-01-01,female,34938,22.59
+Selangor,2017-01-01,male,38965,23.36
+Selangor,2018-01-01,female,34760,22.3
+Selangor,2018-01-01,male,38971,23.2
+Selangor,2019-01-01,female,34430,22.1
+Selangor,2019-01-01,male,38775,23.2
+Selangor,2020-01-01,female,29780,19.1
+Selangor,2020-01-01,male,33808,20.4
+Selangor,2021-01-01,female,38856,23.3
+Selangor,2021-01-01,male,42193,21.6
+Selangor,2022-01-01,female,38591,23.2
+Selangor,2022-01-01,male,42825,22.0
+Terengganu,2017-01-01,female,11623,32.41
+Terengganu,2017-01-01,male,10728,28.17
+Terengganu,2018-01-01,female,11219,30.9
+Terengganu,2018-01-01,male,10541,27.4
+Terengganu,2019-01-01,female,10535,28.7
+Terengganu,2019-01-01,male,10113,26.1
+Terengganu,2020-01-01,female,10631,28.7
+Terengganu,2020-01-01,male,10302,26.5
+Terengganu,2021-01-01,female,12442,36.6
+Terengganu,2021-01-01,male,10846,29.7
+Terengganu,2022-01-01,female,11254,32.7
+Terengganu,2022-01-01,male,9671,26.2
+W.P. Kuala Lumpur,2017-01-01,female,9866,22.27
+W.P. Kuala Lumpur,2017-01-01,male,12033,26.27
+W.P. Kuala Lumpur,2018-01-01,female,9777,22.3
+W.P. Kuala Lumpur,2018-01-01,male,11766,25.9
+W.P. Kuala Lumpur,2019-01-01,female,9245,21.3
+W.P. Kuala Lumpur,2019-01-01,male,11358,25.3
+W.P. Kuala Lumpur,2020-01-01,female,8845,20.7
+W.P. Kuala Lumpur,2020-01-01,male,10645,24.1
+W.P. Kuala Lumpur,2021-01-01,female,9539,20.9
+W.P. Kuala Lumpur,2021-01-01,male,11457,23.9
+W.P. Kuala Lumpur,2022-01-01,female,9709,21.5
+W.P. Kuala Lumpur,2022-01-01,male,11419,24.1
+W.P. Labuan,2017-01-01,female,501,19.95
+W.P. Labuan,2017-01-01,male,603,23.33
+W.P. Labuan,2018-01-01,female,487,19.3
+W.P. Labuan,2018-01-01,male,554,21.4
+W.P. Labuan,2019-01-01,female,469,18.7
+W.P. Labuan,2019-01-01,male,625,24.3
+W.P. Labuan,2020-01-01,female,399,15.9
+W.P. Labuan,2020-01-01,male,531,20.9
+W.P. Labuan,2021-01-01,female,625,23.6
+W.P. Labuan,2021-01-01,male,757,26.3
+W.P. Labuan,2022-01-01,female,548,20.8
+W.P. Labuan,2022-01-01,male,673,23.4
+W.P. Putrajaya,2017-01-01,female,438,16.97
+W.P. Putrajaya,2017-01-01,male,478,21.02
+W.P. Putrajaya,2018-01-01,female,440,15.3
+W.P. Putrajaya,2018-01-01,male,464,18.2
+W.P. Putrajaya,2019-01-01,female,397,12.9
+W.P. Putrajaya,2019-01-01,male,448,16.6
+W.P. Putrajaya,2020-01-01,female,481,14.8
+W.P. Putrajaya,2020-01-01,male,501,17.9
+W.P. Putrajaya,2021-01-01,female,641,18.8
+W.P. Putrajaya,2021-01-01,male,676,20.9
+W.P. Putrajaya,2022-01-01,female,543,15.7
+W.P. Putrajaya,2022-01-01,male,547,16.9

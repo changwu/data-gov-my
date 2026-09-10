@@ -1,0 +1,481 @@
+date,state,disease,cases,incidence
+2017-01-01,Malaysia,aids,1289,3.98
+2018-01-01,Malaysia,aids,919,2.8
+2019-01-01,Malaysia,aids,1122,3.44
+2020-01-01,Malaysia,aids,1038,3.19
+2021-01-01,Malaysia,aids,878,2.69
+2022-01-01,Malaysia,aids,1211,3.71
+2017-01-01,Malaysia,chancroid,3,0.01
+2018-01-01,Malaysia,chancroid,4,0.01
+2019-01-01,Malaysia,chancroid,2,0.01
+2020-01-01,Malaysia,chancroid,3,0.01
+2021-01-01,Malaysia,chancroid,1,0.0
+2022-01-01,Malaysia,chancroid,0,0.0
+2017-01-01,Malaysia,gonorrhea,3364,10.39
+2018-01-01,Malaysia,gonorrhea,3130,9.52
+2019-01-01,Malaysia,gonorrhea,3013,9.25
+2020-01-01,Malaysia,gonorrhea,2339,7.18
+2021-01-01,Malaysia,gonorrhea,1461,4.47
+2022-01-01,Malaysia,gonorrhea,1819,5.57
+2017-01-01,Malaysia,hiv,3347,10.33
+2018-01-01,Malaysia,hiv,3293,10.02
+2019-01-01,Malaysia,hiv,3564,10.94
+2020-01-01,Malaysia,hiv,3146,9.66
+2021-01-01,Malaysia,hiv,2760,8.45
+2022-01-01,Malaysia,hiv,3177,9.73
+2017-01-01,Malaysia,syphillis,2591,8.0
+2018-01-01,Malaysia,syphillis,3077,9.36
+2019-01-01,Malaysia,syphillis,3504,10.75
+2020-01-01,Malaysia,syphillis,3462,10.63
+2021-01-01,Malaysia,syphillis,3461,10.6
+2022-01-01,Malaysia,syphillis,4669,14.3
+2017-01-01,Johor,aids,178,4.72
+2018-01-01,Johor,aids,114,2.98
+2019-01-01,Johor,aids,111,2.95
+2020-01-01,Johor,aids,210,5.58
+2021-01-01,Johor,aids,190,5.01
+2022-01-01,Johor,aids,271,6.74
+2017-01-01,Johor,chancroid,1,0.03
+2018-01-01,Johor,chancroid,0,0.0
+2019-01-01,Johor,chancroid,0,0.0
+2020-01-01,Johor,chancroid,0,0.0
+2021-01-01,Johor,chancroid,0,0.0
+2022-01-01,Johor,chancroid,0,0.0
+2017-01-01,Johor,gonorrhea,404,10.72
+2018-01-01,Johor,gonorrhea,339,8.87
+2019-01-01,Johor,gonorrhea,311,8.26
+2020-01-01,Johor,gonorrhea,296,7.86
+2021-01-01,Johor,gonorrhea,268,7.06
+2022-01-01,Johor,gonorrhea,149,3.7
+2017-01-01,Johor,hiv,347,9.2
+2018-01-01,Johor,hiv,310,8.11
+2019-01-01,Johor,hiv,338,8.98
+2020-01-01,Johor,hiv,223,5.92
+2021-01-01,Johor,hiv,165,4.35
+2022-01-01,Johor,hiv,219,5.44
+2017-01-01,Johor,syphillis,295,7.82
+2018-01-01,Johor,syphillis,311,8.14
+2019-01-01,Johor,syphillis,345,9.17
+2020-01-01,Johor,syphillis,345,9.17
+2021-01-01,Johor,syphillis,392,10.33
+2022-01-01,Johor,syphillis,484,12.03
+2017-01-01,Kedah,aids,40,1.84
+2018-01-01,Kedah,aids,43,1.95
+2019-01-01,Kedah,aids,54,2.48
+2020-01-01,Kedah,aids,48,2.2
+2021-01-01,Kedah,aids,35,1.6
+2022-01-01,Kedah,aids,58,2.67
+2017-01-01,Kedah,chancroid,0,0.0
+2018-01-01,Kedah,chancroid,0,0.0
+2019-01-01,Kedah,chancroid,0,0.0
+2020-01-01,Kedah,chancroid,0,0.0
+2021-01-01,Kedah,chancroid,0,0.0
+2022-01-01,Kedah,chancroid,0,0.0
+2017-01-01,Kedah,gonorrhea,118,5.42
+2018-01-01,Kedah,gonorrhea,134,6.07
+2019-01-01,Kedah,gonorrhea,129,5.92
+2020-01-01,Kedah,gonorrhea,101,4.63
+2021-01-01,Kedah,gonorrhea,36,1.64
+2022-01-01,Kedah,gonorrhea,77,3.55
+2017-01-01,Kedah,hiv,187,8.6
+2018-01-01,Kedah,hiv,186,8.43
+2019-01-01,Kedah,hiv,177,8.12
+2020-01-01,Kedah,hiv,146,6.7
+2021-01-01,Kedah,hiv,118,5.38
+2022-01-01,Kedah,hiv,110,5.07
+2017-01-01,Kedah,syphillis,83,3.82
+2018-01-01,Kedah,syphillis,109,4.94
+2019-01-01,Kedah,syphillis,114,5.23
+2020-01-01,Kedah,syphillis,153,7.02
+2021-01-01,Kedah,syphillis,80,3.65
+2022-01-01,Kedah,syphillis,185,8.52
+2017-01-01,Kelantan,aids,144,7.8
+2018-01-01,Kelantan,aids,49,2.6
+2019-01-01,Kelantan,aids,80,4.24
+2020-01-01,Kelantan,aids,48,2.55
+2021-01-01,Kelantan,aids,27,1.4
+2022-01-01,Kelantan,aids,47,2.57
+2017-01-01,Kelantan,chancroid,0,0.0
+2018-01-01,Kelantan,chancroid,0,0.0
+2019-01-01,Kelantan,chancroid,0,0.0
+2020-01-01,Kelantan,chancroid,0,0.0
+2021-01-01,Kelantan,chancroid,0,0.0
+2022-01-01,Kelantan,chancroid,0,0.0
+2017-01-01,Kelantan,gonorrhea,69,3.74
+2018-01-01,Kelantan,gonorrhea,89,4.72
+2019-01-01,Kelantan,gonorrhea,74,3.92
+2020-01-01,Kelantan,gonorrhea,49,2.6
+2021-01-01,Kelantan,gonorrhea,28,1.45
+2022-01-01,Kelantan,gonorrhea,47,2.57
+2017-01-01,Kelantan,hiv,136,7.36
+2018-01-01,Kelantan,hiv,99,5.25
+2019-01-01,Kelantan,hiv,107,5.67
+2020-01-01,Kelantan,hiv,90,4.77
+2021-01-01,Kelantan,hiv,82,4.25
+2022-01-01,Kelantan,hiv,118,6.45
+2017-01-01,Kelantan,syphillis,113,6.12
+2018-01-01,Kelantan,syphillis,126,6.69
+2019-01-01,Kelantan,syphillis,132,7.0
+2020-01-01,Kelantan,syphillis,74,3.92
+2021-01-01,Kelantan,syphillis,70,3.63
+2022-01-01,Kelantan,syphillis,95,5.19
+2017-01-01,Melaka,aids,112,12.15
+2018-01-01,Melaka,aids,100,10.7
+2019-01-01,Melaka,aids,71,7.63
+2020-01-01,Melaka,aids,66,7.09
+2021-01-01,Melaka,aids,59,6.29
+2022-01-01,Melaka,aids,73,7.24
+2017-01-01,Melaka,chancroid,0,0.0
+2018-01-01,Melaka,chancroid,0,0.0
+2019-01-01,Melaka,chancroid,0,0.0
+2020-01-01,Melaka,chancroid,1,0.11
+2021-01-01,Melaka,chancroid,0,0.0
+2022-01-01,Melaka,chancroid,0,0.0
+2017-01-01,Melaka,gonorrhea,107,11.61
+2018-01-01,Melaka,gonorrhea,101,10.81
+2019-01-01,Melaka,gonorrhea,115,12.36
+2020-01-01,Melaka,gonorrhea,105,11.28
+2021-01-01,Melaka,gonorrhea,47,5.01
+2022-01-01,Melaka,gonorrhea,72,7.14
+2017-01-01,Melaka,hiv,113,12.26
+2018-01-01,Melaka,hiv,78,8.35
+2019-01-01,Melaka,hiv,114,12.25
+2020-01-01,Melaka,hiv,70,7.52
+2021-01-01,Melaka,hiv,87,9.28
+2022-01-01,Melaka,hiv,74,7.34
+2017-01-01,Melaka,syphillis,73,7.92
+2018-01-01,Melaka,syphillis,103,11.02
+2019-01-01,Melaka,syphillis,152,16.33
+2020-01-01,Melaka,syphillis,136,14.61
+2021-01-01,Melaka,syphillis,168,17.92
+2022-01-01,Melaka,syphillis,216,21.43
+2017-01-01,Negeri Sembilan,aids,29,2.57
+2018-01-01,Negeri Sembilan,aids,23,2.02
+2019-01-01,Negeri Sembilan,aids,31,2.74
+2020-01-01,Negeri Sembilan,aids,21,1.86
+2021-01-01,Negeri Sembilan,aids,22,1.95
+2022-01-01,Negeri Sembilan,aids,23,1.9
+2017-01-01,Negeri Sembilan,chancroid,0,0.0
+2018-01-01,Negeri Sembilan,chancroid,0,0.0
+2019-01-01,Negeri Sembilan,chancroid,0,0.0
+2020-01-01,Negeri Sembilan,chancroid,0,0.0
+2021-01-01,Negeri Sembilan,chancroid,0,0.0
+2022-01-01,Negeri Sembilan,chancroid,0,0.0
+2017-01-01,Negeri Sembilan,gonorrhea,118,10.45
+2018-01-01,Negeri Sembilan,gonorrhea,89,7.8
+2019-01-01,Negeri Sembilan,gonorrhea,74,6.55
+2020-01-01,Negeri Sembilan,gonorrhea,48,4.25
+2021-01-01,Negeri Sembilan,gonorrhea,33,2.92
+2022-01-01,Negeri Sembilan,gonorrhea,40,3.31
+2017-01-01,Negeri Sembilan,hiv,112,9.92
+2018-01-01,Negeri Sembilan,hiv,133,11.66
+2019-01-01,Negeri Sembilan,hiv,126,11.15
+2020-01-01,Negeri Sembilan,hiv,113,10.0
+2021-01-01,Negeri Sembilan,hiv,94,8.33
+2022-01-01,Negeri Sembilan,hiv,95,7.86
+2017-01-01,Negeri Sembilan,syphillis,62,5.49
+2018-01-01,Negeri Sembilan,syphillis,83,7.27
+2019-01-01,Negeri Sembilan,syphillis,98,8.67
+2020-01-01,Negeri Sembilan,syphillis,85,7.52
+2021-01-01,Negeri Sembilan,syphillis,115,10.19
+2022-01-01,Negeri Sembilan,syphillis,113,9.35
+2017-01-01,Pahang,aids,104,6.19
+2018-01-01,Pahang,aids,37,2.17
+2019-01-01,Pahang,aids,64,3.82
+2020-01-01,Pahang,aids,42,2.51
+2021-01-01,Pahang,aids,46,2.73
+2022-01-01,Pahang,aids,27,1.67
+2017-01-01,Pahang,chancroid,0,0.0
+2018-01-01,Pahang,chancroid,0,0.0
+2019-01-01,Pahang,chancroid,0,0.0
+2020-01-01,Pahang,chancroid,1,0.06
+2021-01-01,Pahang,chancroid,0,0.0
+2022-01-01,Pahang,chancroid,0,0.0
+2017-01-01,Pahang,gonorrhea,141,8.4
+2018-01-01,Pahang,gonorrhea,135,7.93
+2019-01-01,Pahang,gonorrhea,135,8.06
+2020-01-01,Pahang,gonorrhea,133,7.94
+2021-01-01,Pahang,gonorrhea,89,5.28
+2022-01-01,Pahang,gonorrhea,81,5.02
+2017-01-01,Pahang,hiv,127,7.56
+2018-01-01,Pahang,hiv,140,8.22
+2019-01-01,Pahang,hiv,109,6.51
+2020-01-01,Pahang,hiv,137,8.18
+2021-01-01,Pahang,hiv,145,8.61
+2022-01-01,Pahang,hiv,128,7.94
+2017-01-01,Pahang,syphillis,55,3.28
+2018-01-01,Pahang,syphillis,109,6.4
+2019-01-01,Pahang,syphillis,121,7.23
+2020-01-01,Pahang,syphillis,119,7.11
+2021-01-01,Pahang,syphillis,75,4.45
+2022-01-01,Pahang,syphillis,79,4.9
+2017-01-01,Perak,aids,50,1.96
+2018-01-01,Perak,aids,42,1.63
+2019-01-01,Perak,aids,66,2.63
+2020-01-01,Perak,aids,91,3.62
+2021-01-01,Perak,aids,96,3.83
+2022-01-01,Perak,aids,75,2.97
+2017-01-01,Perak,chancroid,0,0.0
+2018-01-01,Perak,chancroid,0,0.0
+2019-01-01,Perak,chancroid,0,0.0
+2020-01-01,Perak,chancroid,0,0.0
+2021-01-01,Perak,chancroid,0,0.0
+2022-01-01,Perak,chancroid,0,0.0
+2017-01-01,Perak,gonorrhea,49,1.92
+2018-01-01,Perak,gonorrhea,52,2.02
+2019-01-01,Perak,gonorrhea,65,2.59
+2020-01-01,Perak,gonorrhea,78,3.1
+2021-01-01,Perak,gonorrhea,36,1.44
+2022-01-01,Perak,gonorrhea,50,1.98
+2017-01-01,Perak,hiv,154,6.04
+2018-01-01,Perak,hiv,167,6.5
+2019-01-01,Perak,hiv,163,6.49
+2020-01-01,Perak,hiv,158,6.29
+2021-01-01,Perak,hiv,116,4.62
+2022-01-01,Perak,hiv,148,5.87
+2017-01-01,Perak,syphillis,119,4.67
+2018-01-01,Perak,syphillis,140,5.45
+2019-01-01,Perak,syphillis,194,7.72
+2020-01-01,Perak,syphillis,257,10.23
+2021-01-01,Perak,syphillis,279,11.12
+2022-01-01,Perak,syphillis,285,11.3
+2017-01-01,Perlis,aids,6,2.34
+2018-01-01,Perlis,aids,5,1.93
+2019-01-01,Perlis,aids,15,5.9
+2020-01-01,Perlis,aids,9,3.54
+2021-01-01,Perlis,aids,9,3.52
+2022-01-01,Perlis,aids,12,4.14
+2017-01-01,Perlis,chancroid,0,0.0
+2018-01-01,Perlis,chancroid,0,0.0
+2019-01-01,Perlis,chancroid,0,0.0
+2020-01-01,Perlis,chancroid,0,0.0
+2021-01-01,Perlis,chancroid,0,0.0
+2022-01-01,Perlis,chancroid,0,0.0
+2017-01-01,Perlis,gonorrhea,20,7.8
+2018-01-01,Perlis,gonorrhea,20,7.72
+2019-01-01,Perlis,gonorrhea,20,7.86
+2020-01-01,Perlis,gonorrhea,7,2.75
+2021-01-01,Perlis,gonorrhea,9,3.52
+2022-01-01,Perlis,gonorrhea,5,1.73
+2017-01-01,Perlis,hiv,19,7.41
+2018-01-01,Perlis,hiv,14,5.4
+2019-01-01,Perlis,hiv,17,6.68
+2020-01-01,Perlis,hiv,12,4.72
+2021-01-01,Perlis,hiv,15,5.87
+2022-01-01,Perlis,hiv,18,6.21
+2017-01-01,Perlis,syphillis,13,5.07
+2018-01-01,Perlis,syphillis,16,6.17
+2019-01-01,Perlis,syphillis,12,4.72
+2020-01-01,Perlis,syphillis,6,2.36
+2021-01-01,Perlis,syphillis,12,4.7
+2022-01-01,Perlis,syphillis,9,3.11
+2017-01-01,Pulau Pinang,aids,17,0.97
+2018-01-01,Pulau Pinang,aids,12,0.68
+2019-01-01,Pulau Pinang,aids,40,2.25
+2020-01-01,Pulau Pinang,aids,15,0.85
+2021-01-01,Pulau Pinang,aids,14,0.79
+2022-01-01,Pulau Pinang,aids,34,1.96
+2017-01-01,Pulau Pinang,chancroid,0,0.0
+2018-01-01,Pulau Pinang,chancroid,0,0.0
+2019-01-01,Pulau Pinang,chancroid,0,0.0
+2020-01-01,Pulau Pinang,chancroid,1,0.06
+2021-01-01,Pulau Pinang,chancroid,0,0.0
+2022-01-01,Pulau Pinang,chancroid,0,0.0
+2017-01-01,Pulau Pinang,gonorrhea,38,2.18
+2018-01-01,Pulau Pinang,gonorrhea,33,1.87
+2019-01-01,Pulau Pinang,gonorrhea,44,2.48
+2020-01-01,Pulau Pinang,gonorrhea,68,3.83
+2021-01-01,Pulau Pinang,gonorrhea,41,2.31
+2022-01-01,Pulau Pinang,gonorrhea,74,4.26
+2017-01-01,Pulau Pinang,hiv,193,11.05
+2018-01-01,Pulau Pinang,hiv,233,13.18
+2019-01-01,Pulau Pinang,hiv,290,16.34
+2020-01-01,Pulau Pinang,hiv,303,17.07
+2021-01-01,Pulau Pinang,hiv,237,13.36
+2022-01-01,Pulau Pinang,hiv,246,14.15
+2017-01-01,Pulau Pinang,syphillis,85,4.87
+2018-01-01,Pulau Pinang,syphillis,175,9.9
+2019-01-01,Pulau Pinang,syphillis,286,16.12
+2020-01-01,Pulau Pinang,syphillis,332,18.71
+2021-01-01,Pulau Pinang,syphillis,327,18.43
+2022-01-01,Pulau Pinang,syphillis,455,26.17
+2017-01-01,Sabah,aids,116,3.01
+2018-01-01,Sabah,aids,65,1.66
+2019-01-01,Sabah,aids,92,2.36
+2020-01-01,Sabah,aids,87,2.23
+2021-01-01,Sabah,aids,55,1.43
+2022-01-01,Sabah,aids,70,2.06
+2017-01-01,Sabah,chancroid,0,0.0
+2018-01-01,Sabah,chancroid,0,0.0
+2019-01-01,Sabah,chancroid,0,0.0
+2020-01-01,Sabah,chancroid,0,0.0
+2021-01-01,Sabah,chancroid,0,0.0
+2022-01-01,Sabah,chancroid,0,0.0
+2017-01-01,Sabah,gonorrhea,355,9.21
+2018-01-01,Sabah,gonorrhea,350,8.93
+2019-01-01,Sabah,gonorrhea,392,10.04
+2020-01-01,Sabah,gonorrhea,251,6.43
+2021-01-01,Sabah,gonorrhea,185,4.83
+2022-01-01,Sabah,gonorrhea,277,8.17
+2017-01-01,Sabah,hiv,211,5.48
+2018-01-01,Sabah,hiv,211,5.38
+2019-01-01,Sabah,hiv,223,5.71
+2020-01-01,Sabah,hiv,187,4.79
+2021-01-01,Sabah,hiv,200,5.22
+2022-01-01,Sabah,hiv,314,9.26
+2017-01-01,Sabah,syphillis,230,5.97
+2018-01-01,Sabah,syphillis,272,6.94
+2019-01-01,Sabah,syphillis,315,8.07
+2020-01-01,Sabah,syphillis,279,7.15
+2021-01-01,Sabah,syphillis,254,6.63
+2022-01-01,Sabah,syphillis,304,8.97
+2017-01-01,Sarawak,aids,167,5.99
+2018-01-01,Sarawak,aids,147,5.2
+2019-01-01,Sarawak,aids,125,4.44
+2020-01-01,Sarawak,aids,125,4.44
+2021-01-01,Sarawak,aids,96,3.4
+2022-01-01,Sarawak,aids,235,9.51
+2017-01-01,Sarawak,chancroid,0,0.0
+2018-01-01,Sarawak,chancroid,0,0.0
+2019-01-01,Sarawak,chancroid,2,0.07
+2020-01-01,Sarawak,chancroid,0,0.0
+2021-01-01,Sarawak,chancroid,0,0.0
+2022-01-01,Sarawak,chancroid,0,0.0
+2017-01-01,Sarawak,gonorrhea,980,35.13
+2018-01-01,Sarawak,gonorrhea,818,28.91
+2019-01-01,Sarawak,gonorrhea,807,28.69
+2020-01-01,Sarawak,gonorrhea,485,17.24
+2021-01-01,Sarawak,gonorrhea,240,8.5
+2022-01-01,Sarawak,gonorrhea,456,18.45
+2017-01-01,Sarawak,hiv,226,8.1
+2018-01-01,Sarawak,hiv,274,9.68
+2019-01-01,Sarawak,hiv,290,10.31
+2020-01-01,Sarawak,hiv,244,8.67
+2021-01-01,Sarawak,hiv,236,8.36
+2022-01-01,Sarawak,hiv,226,9.15
+2017-01-01,Sarawak,syphillis,426,15.27
+2018-01-01,Sarawak,syphillis,538,19.02
+2019-01-01,Sarawak,syphillis,549,19.52
+2020-01-01,Sarawak,syphillis,483,17.17
+2021-01-01,Sarawak,syphillis,444,15.73
+2022-01-01,Sarawak,syphillis,673,27.24
+2017-01-01,Selangor,aids,112,1.75
+2018-01-01,Selangor,aids,123,1.89
+2019-01-01,Selangor,aids,141,2.16
+2020-01-01,Selangor,aids,120,1.84
+2021-01-01,Selangor,aids,115,1.75
+2022-01-01,Selangor,aids,137,1.95
+2017-01-01,Selangor,chancroid,2,0.03
+2018-01-01,Selangor,chancroid,4,0.06
+2019-01-01,Selangor,chancroid,0,0.0
+2020-01-01,Selangor,chancroid,0,0.0
+2021-01-01,Selangor,chancroid,1,0.02
+2022-01-01,Selangor,chancroid,0,0.0
+2017-01-01,Selangor,gonorrhea,585,9.14
+2018-01-01,Selangor,gonorrhea,534,8.2
+2019-01-01,Selangor,gonorrhea,513,7.86
+2020-01-01,Selangor,gonorrhea,493,7.55
+2021-01-01,Selangor,gonorrhea,292,4.45
+2022-01-01,Selangor,gonorrhea,300,4.26
+2017-01-01,Selangor,hiv,968,15.12
+2018-01-01,Selangor,hiv,923,14.18
+2019-01-01,Selangor,hiv,1082,16.57
+2020-01-01,Selangor,hiv,966,14.8
+2021-01-01,Selangor,hiv,842,12.84
+2022-01-01,Selangor,hiv,996,14.15
+2017-01-01,Selangor,syphillis,664,10.37
+2018-01-01,Selangor,syphillis,662,10.17
+2019-01-01,Selangor,syphillis,742,11.37
+2020-01-01,Selangor,syphillis,726,11.12
+2021-01-01,Selangor,syphillis,783,11.94
+2022-01-01,Selangor,syphillis,1161,16.5
+2017-01-01,Terengganu,aids,57,4.67
+2018-01-01,Terengganu,aids,49,3.93
+2019-01-01,Terengganu,aids,30,2.41
+2020-01-01,Terengganu,aids,34,2.73
+2021-01-01,Terengganu,aids,21,1.65
+2022-01-01,Terengganu,aids,23,1.94
+2017-01-01,Terengganu,chancroid,0,0.0
+2018-01-01,Terengganu,chancroid,0,0.0
+2019-01-01,Terengganu,chancroid,0,0.0
+2020-01-01,Terengganu,chancroid,0,0.0
+2021-01-01,Terengganu,chancroid,0,0.0
+2022-01-01,Terengganu,chancroid,0,0.0
+2017-01-01,Terengganu,gonorrhea,32,2.62
+2018-01-01,Terengganu,gonorrhea,69,5.54
+2019-01-01,Terengganu,gonorrhea,39,3.13
+2020-01-01,Terengganu,gonorrhea,45,3.61
+2021-01-01,Terengganu,gonorrhea,19,1.49
+2022-01-01,Terengganu,gonorrhea,24,2.02
+2017-01-01,Terengganu,hiv,74,6.06
+2018-01-01,Terengganu,hiv,82,6.58
+2019-01-01,Terengganu,hiv,65,5.22
+2020-01-01,Terengganu,hiv,70,5.62
+2021-01-01,Terengganu,hiv,84,6.59
+2022-01-01,Terengganu,hiv,92,7.75
+2017-01-01,Terengganu,syphillis,41,3.36
+2018-01-01,Terengganu,syphillis,38,3.05
+2019-01-01,Terengganu,syphillis,31,2.49
+2020-01-01,Terengganu,syphillis,53,4.25
+2021-01-01,Terengganu,syphillis,30,2.35
+2022-01-01,Terengganu,syphillis,73,6.15
+2017-01-01,W.P. Kuala Lumpur,aids,154,7.88
+2018-01-01,W.P. Kuala Lumpur,aids,110,5.58
+2019-01-01,W.P. Kuala Lumpur,aids,198,11.12
+2020-01-01,W.P. Kuala Lumpur,aids,121,6.8
+2021-01-01,W.P. Kuala Lumpur,aids,93,5.32
+2022-01-01,W.P. Kuala Lumpur,aids,126,6.1
+2017-01-01,W.P. Kuala Lumpur,chancroid,0,0.0
+2018-01-01,W.P. Kuala Lumpur,chancroid,0,0.0
+2019-01-01,W.P. Kuala Lumpur,chancroid,0,0.0
+2020-01-01,W.P. Kuala Lumpur,chancroid,0,0.0
+2021-01-01,W.P. Kuala Lumpur,chancroid,0,0.0
+2022-01-01,W.P. Kuala Lumpur,chancroid,0,0.0
+2017-01-01,W.P. Kuala Lumpur,gonorrhea,294,15.05
+2018-01-01,W.P. Kuala Lumpur,gonorrhea,327,16.58
+2019-01-01,W.P. Kuala Lumpur,gonorrhea,271,15.22
+2020-01-01,W.P. Kuala Lumpur,gonorrhea,173,9.72
+2021-01-01,W.P. Kuala Lumpur,gonorrhea,138,7.9
+2022-01-01,W.P. Kuala Lumpur,gonorrhea,159,7.7
+2017-01-01,W.P. Kuala Lumpur,hiv,464,23.75
+2018-01-01,W.P. Kuala Lumpur,hiv,428,21.71
+2019-01-01,W.P. Kuala Lumpur,hiv,448,25.16
+2020-01-01,W.P. Kuala Lumpur,hiv,419,23.53
+2021-01-01,W.P. Kuala Lumpur,hiv,324,18.55
+2022-01-01,W.P. Kuala Lumpur,hiv,380,18.4
+2017-01-01,W.P. Kuala Lumpur,syphillis,320,16.38
+2018-01-01,W.P. Kuala Lumpur,syphillis,367,18.61
+2019-01-01,W.P. Kuala Lumpur,syphillis,404,22.69
+2020-01-01,W.P. Kuala Lumpur,syphillis,410,23.02
+2021-01-01,W.P. Kuala Lumpur,syphillis,430,24.62
+2022-01-01,W.P. Kuala Lumpur,syphillis,523,25.32
+2017-01-01,W.P. Labuan,aids,3,3.03
+2018-01-01,W.P. Labuan,aids,0,0.0
+2019-01-01,W.P. Labuan,aids,4,4.03
+2020-01-01,W.P. Labuan,aids,1,1.01
+2021-01-01,W.P. Labuan,aids,0,0.0
+2022-01-01,W.P. Labuan,aids,0,0.0
+2017-01-01,W.P. Labuan,chancroid,0,0.0
+2018-01-01,W.P. Labuan,chancroid,0,0.0
+2019-01-01,W.P. Labuan,chancroid,0,0.0
+2020-01-01,W.P. Labuan,chancroid,0,0.0
+2021-01-01,W.P. Labuan,chancroid,0,0.0
+2022-01-01,W.P. Labuan,chancroid,0,0.0
+2017-01-01,W.P. Labuan,gonorrhea,54,54.55
+2018-01-01,W.P. Labuan,gonorrhea,40,39.84
+2019-01-01,W.P. Labuan,gonorrhea,24,24.17
+2020-01-01,W.P. Labuan,gonorrhea,7,7.05
+2021-01-01,W.P. Labuan,gonorrhea,0,0.0
+2022-01-01,W.P. Labuan,gonorrhea,8,8.26
+2017-01-01,W.P. Labuan,hiv,16,16.16
+2018-01-01,W.P. Labuan,hiv,15,14.94
+2019-01-01,W.P. Labuan,hiv,15,15.11
+2020-01-01,W.P. Labuan,hiv,8,8.06
+2021-01-01,W.P. Labuan,hiv,15,14.99
+2022-01-01,W.P. Labuan,hiv,13,13.43
+2017-01-01,W.P. Labuan,syphillis,12,12.12
+2018-01-01,W.P. Labuan,syphillis,28,27.89
+2019-01-01,W.P. Labuan,syphillis,9,9.06
+2020-01-01,W.P. Labuan,syphillis,4,4.03
+2021-01-01,W.P. Labuan,syphillis,2,2.0
+2022-01-01,W.P. Labuan,syphillis,14,14.46

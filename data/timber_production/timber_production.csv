@@ -1,0 +1,1326 @@
+date,state,product,production
+2000-01-01,Malaysia,blockboard,137752
+2001-01-01,Malaysia,blockboard,148276
+2002-01-01,Malaysia,blockboard,125930
+2003-01-01,Malaysia,blockboard,116847
+2004-01-01,Malaysia,blockboard,149228
+2005-01-01,Malaysia,blockboard,131277
+2006-01-01,Malaysia,blockboard,125444
+2007-01-01,Malaysia,blockboard,114657
+2008-01-01,Malaysia,blockboard,98287
+2009-01-01,Malaysia,blockboard,72142
+2010-01-01,Malaysia,blockboard,69849
+2011-01-01,Malaysia,blockboard,66839
+2012-01-01,Malaysia,blockboard,61222
+2000-01-01,Malaysia,logs,23073912
+2001-01-01,Malaysia,logs,18922547
+2002-01-01,Malaysia,logs,20649671
+2003-01-01,Malaysia,logs,21531856
+2004-01-01,Malaysia,logs,22039714
+2005-01-01,Malaysia,logs,22398330
+2006-01-01,Malaysia,logs,21893695
+2007-01-01,Malaysia,logs,22052775
+2008-01-01,Malaysia,logs,20082668
+2009-01-01,Malaysia,logs,18309807
+2010-01-01,Malaysia,logs,17797313
+2011-01-01,Malaysia,logs,15994871
+2012-01-01,Malaysia,logs,15891901
+2013-01-01,Malaysia,logs,14396675
+2014-01-01,Malaysia,logs,14659673
+2015-01-01,Malaysia,logs,14220714
+2016-01-01,Malaysia,logs,13947745
+2017-01-01,Malaysia,logs,10674264
+2018-01-01,Malaysia,logs,10272705
+2019-01-01,Malaysia,logs,9062482
+2020-01-01,Malaysia,logs,5320403
+2021-01-01,Malaysia,logs,5570255
+2000-01-01,Malaysia,moulding,715203
+2001-01-01,Malaysia,moulding,1681214
+2002-01-01,Malaysia,moulding,450816
+2003-01-01,Malaysia,moulding,441421
+2004-01-01,Malaysia,moulding,537424
+2005-01-01,Malaysia,moulding,624844
+2006-01-01,Malaysia,moulding,400450
+2007-01-01,Malaysia,moulding,455138
+2008-01-01,Malaysia,moulding,352778
+2009-01-01,Malaysia,moulding,301786
+2010-01-01,Malaysia,moulding,342719
+2011-01-01,Malaysia,moulding,367327
+2012-01-01,Malaysia,moulding,352212
+2013-01-01,Malaysia,moulding,163068
+2014-01-01,Malaysia,moulding,161156
+2015-01-01,Malaysia,moulding,136404
+2016-01-01,Malaysia,moulding,121672
+2017-01-01,Malaysia,moulding,133583
+2018-01-01,Malaysia,moulding,126682
+2019-01-01,Malaysia,moulding,231412
+2020-01-01,Malaysia,moulding,187848
+2021-01-01,Malaysia,moulding,190456
+2000-01-01,Malaysia,plywood,4434182
+2001-01-01,Malaysia,plywood,4317193
+2002-01-01,Malaysia,plywood,4372303
+2003-01-01,Malaysia,plywood,4770859
+2004-01-01,Malaysia,plywood,4882937
+2005-01-01,Malaysia,plywood,5114685
+2006-01-01,Malaysia,plywood,5432158
+2007-01-01,Malaysia,plywood,5438684
+2008-01-01,Malaysia,plywood,4837306
+2009-01-01,Malaysia,plywood,4155312
+2010-01-01,Malaysia,plywood,4279783
+2011-01-01,Malaysia,plywood,3947384
+2012-01-01,Malaysia,plywood,3869769
+2013-01-01,Malaysia,plywood,3391133
+2014-01-01,Malaysia,plywood,3689202
+2015-01-01,Malaysia,plywood,3420511
+2016-01-01,Malaysia,plywood,2789834
+2017-01-01,Malaysia,plywood,2631820
+2018-01-01,Malaysia,plywood,2501940
+2019-01-01,Malaysia,plywood,2149845
+2020-01-01,Malaysia,plywood,1668319
+2021-01-01,Malaysia,plywood,1562329
+2000-01-01,Malaysia,sawn_timber,5615960
+2001-01-01,Malaysia,sawn_timber,4696067
+2002-01-01,Malaysia,sawn_timber,4721322
+2003-01-01,Malaysia,sawn_timber,4769851
+2004-01-01,Malaysia,sawn_timber,4854307
+2005-01-01,Malaysia,sawn_timber,5257195
+2006-01-01,Malaysia,sawn_timber,5129284
+2007-01-01,Malaysia,sawn_timber,5064015
+2008-01-01,Malaysia,sawn_timber,4465834
+2009-01-01,Malaysia,sawn_timber,3888305
+2010-01-01,Malaysia,sawn_timber,4301467
+2011-01-01,Malaysia,sawn_timber,3994762
+2012-01-01,Malaysia,sawn_timber,4176599
+2013-01-01,Malaysia,sawn_timber,3619620
+2014-01-01,Malaysia,sawn_timber,3453508
+2015-01-01,Malaysia,sawn_timber,3501140
+2016-01-01,Malaysia,sawn_timber,3401969
+2017-01-01,Malaysia,sawn_timber,3262298
+2018-01-01,Malaysia,sawn_timber,3439792
+2019-01-01,Malaysia,sawn_timber,3371450
+2020-01-01,Malaysia,sawn_timber,2274047
+2021-01-01,Malaysia,sawn_timber,1936625
+2000-01-01,Malaysia,veneer,1116612
+2001-01-01,Malaysia,veneer,649009
+2002-01-01,Malaysia,veneer,660400
+2003-01-01,Malaysia,veneer,643455
+2004-01-01,Malaysia,veneer,602690
+2005-01-01,Malaysia,veneer,636108
+2006-01-01,Malaysia,veneer,611558
+2007-01-01,Malaysia,veneer,732446
+2008-01-01,Malaysia,veneer,1004262
+2009-01-01,Malaysia,veneer,845672
+2010-01-01,Malaysia,veneer,796909
+2011-01-01,Malaysia,veneer,886580
+2012-01-01,Malaysia,veneer,808903
+2013-01-01,Malaysia,veneer,776353
+2014-01-01,Malaysia,veneer,818274
+2015-01-01,Malaysia,veneer,689780
+2016-01-01,Malaysia,veneer,552439
+2017-01-01,Malaysia,veneer,574713
+2018-01-01,Malaysia,veneer,568261
+2019-01-01,Malaysia,veneer,472619
+2020-01-01,Malaysia,veneer,310366
+2021-01-01,Malaysia,veneer,258537
+2000-01-01,Johor,logs,193700
+2001-01-01,Johor,logs,181927
+2002-01-01,Johor,logs,198342
+2003-01-01,Johor,logs,142846
+2004-01-01,Johor,logs,159152
+2005-01-01,Johor,logs,96419
+2006-01-01,Johor,logs,213816
+2007-01-01,Johor,logs,171047
+2008-01-01,Johor,logs,105428
+2009-01-01,Johor,logs,70740
+2010-01-01,Johor,logs,72777
+2011-01-01,Johor,logs,70790
+2012-01-01,Johor,logs,50951
+2013-01-01,Johor,logs,90775
+2014-01-01,Johor,logs,70239
+2015-01-01,Johor,logs,54536
+2016-01-01,Johor,logs,47472
+2017-01-01,Johor,logs,34739
+2018-01-01,Johor,logs,49114
+2019-01-01,Johor,logs,35
+2020-01-01,Johor,logs,21307
+2021-01-01,Johor,logs,4202
+2000-01-01,Johor,moulding,58637
+2001-01-01,Johor,moulding,2756
+2002-01-01,Johor,moulding,2657
+2003-01-01,Johor,moulding,2026
+2004-01-01,Johor,moulding,2208
+2005-01-01,Johor,moulding,39543
+2006-01-01,Johor,moulding,1198
+2007-01-01,Johor,moulding,1125
+2008-01-01,Johor,moulding,1530
+2009-01-01,Johor,moulding,1185
+2010-01-01,Johor,moulding,1424
+2011-01-01,Johor,moulding,1132
+2012-01-01,Johor,moulding,1058
+2016-01-01,Johor,moulding,532
+2017-01-01,Johor,moulding,691
+2018-01-01,Johor,moulding,1804
+2019-01-01,Johor,moulding,4122
+2020-01-01,Johor,moulding,7470
+2021-01-01,Johor,moulding,5932
+2000-01-01,Johor,plywood,102734
+2001-01-01,Johor,plywood,109977
+2002-01-01,Johor,plywood,95707
+2003-01-01,Johor,plywood,77002
+2004-01-01,Johor,plywood,73880
+2005-01-01,Johor,plywood,46546
+2006-01-01,Johor,plywood,21540
+2007-01-01,Johor,plywood,14500
+2008-01-01,Johor,plywood,12781
+2009-01-01,Johor,plywood,1397
+2014-01-01,Johor,plywood,7010
+2015-01-01,Johor,plywood,4695
+2016-01-01,Johor,plywood,3662
+2017-01-01,Johor,plywood,1412
+2018-01-01,Johor,plywood,16914
+2019-01-01,Johor,plywood,13290
+2020-01-01,Johor,plywood,12096
+2021-01-01,Johor,plywood,14278
+2000-01-01,Johor,sawn_timber,420823
+2001-01-01,Johor,sawn_timber,439956
+2002-01-01,Johor,sawn_timber,380513
+2003-01-01,Johor,sawn_timber,358671
+2004-01-01,Johor,sawn_timber,374282
+2005-01-01,Johor,sawn_timber,332443
+2006-01-01,Johor,sawn_timber,313630
+2007-01-01,Johor,sawn_timber,282724
+2008-01-01,Johor,sawn_timber,282569
+2009-01-01,Johor,sawn_timber,231574
+2010-01-01,Johor,sawn_timber,422361
+2011-01-01,Johor,sawn_timber,409120
+2012-01-01,Johor,sawn_timber,418005
+2013-01-01,Johor,sawn_timber,429482
+2014-01-01,Johor,sawn_timber,239448
+2015-01-01,Johor,sawn_timber,257741
+2016-01-01,Johor,sawn_timber,230028
+2017-01-01,Johor,sawn_timber,229732
+2018-01-01,Johor,sawn_timber,367894
+2019-01-01,Johor,sawn_timber,450215
+2020-01-01,Johor,sawn_timber,324876
+2021-01-01,Johor,sawn_timber,129592
+2000-01-01,Johor,veneer,2499
+2001-01-01,Johor,veneer,2119
+2002-01-01,Johor,veneer,2081
+2003-01-01,Johor,veneer,6921
+2004-01-01,Johor,veneer,5741
+2005-01-01,Johor,veneer,5879
+2006-01-01,Johor,veneer,6350
+2007-01-01,Johor,veneer,6500
+2008-01-01,Johor,veneer,2977
+2009-01-01,Johor,veneer,2776
+2010-01-01,Johor,veneer,3529
+2011-01-01,Johor,veneer,2231
+2012-01-01,Johor,veneer,5138
+2013-01-01,Johor,veneer,4917
+2014-01-01,Johor,veneer,8245
+2015-01-01,Johor,veneer,7805
+2016-01-01,Johor,veneer,4214
+2017-01-01,Johor,veneer,1135
+2018-01-01,Johor,veneer,362
+2019-01-01,Johor,veneer,12028
+2020-01-01,Johor,veneer,9930
+2021-01-01,Johor,veneer,4302
+2000-01-01,Kedah,blockboard,57
+2000-01-01,Kedah,logs,164183
+2001-01-01,Kedah,logs,157005
+2002-01-01,Kedah,logs,141622
+2003-01-01,Kedah,logs,138246
+2004-01-01,Kedah,logs,147042
+2005-01-01,Kedah,logs,109480
+2006-01-01,Kedah,logs,179453
+2007-01-01,Kedah,logs,178092
+2008-01-01,Kedah,logs,233046
+2009-01-01,Kedah,logs,209330
+2010-01-01,Kedah,logs,202477
+2011-01-01,Kedah,logs,367822
+2012-01-01,Kedah,logs,304078
+2013-01-01,Kedah,logs,227543
+2014-01-01,Kedah,logs,293553
+2015-01-01,Kedah,logs,353461
+2016-01-01,Kedah,logs,457791
+2017-01-01,Kedah,logs,449255
+2018-01-01,Kedah,logs,252968
+2019-01-01,Kedah,logs,162218
+2020-01-01,Kedah,logs,85102
+2021-01-01,Kedah,logs,127877
+2000-01-01,Kedah,moulding,40270
+2001-01-01,Kedah,moulding,15028
+2002-01-01,Kedah,moulding,19950
+2003-01-01,Kedah,moulding,7945
+2004-01-01,Kedah,moulding,7999
+2005-01-01,Kedah,moulding,17328
+2006-01-01,Kedah,moulding,20781
+2007-01-01,Kedah,moulding,53994
+2008-01-01,Kedah,moulding,27291
+2009-01-01,Kedah,moulding,10660
+2010-01-01,Kedah,moulding,13307
+2011-01-01,Kedah,moulding,14297
+2012-01-01,Kedah,moulding,972
+2017-01-01,Kedah,moulding,427
+2018-01-01,Kedah,moulding,815
+2019-01-01,Kedah,moulding,978
+2020-01-01,Kedah,moulding,611
+2021-01-01,Kedah,moulding,691
+2000-01-01,Kedah,plywood,77040
+2001-01-01,Kedah,plywood,98941
+2002-01-01,Kedah,plywood,130434
+2003-01-01,Kedah,plywood,135410
+2004-01-01,Kedah,plywood,134628
+2005-01-01,Kedah,plywood,161787
+2006-01-01,Kedah,plywood,164100
+2007-01-01,Kedah,plywood,172541
+2008-01-01,Kedah,plywood,195755
+2009-01-01,Kedah,plywood,125096
+2010-01-01,Kedah,plywood,144728
+2011-01-01,Kedah,plywood,133746
+2012-01-01,Kedah,plywood,113454
+2013-01-01,Kedah,plywood,115246
+2014-01-01,Kedah,plywood,111411
+2015-01-01,Kedah,plywood,128694
+2016-01-01,Kedah,plywood,106729
+2017-01-01,Kedah,plywood,130432
+2018-01-01,Kedah,plywood,99590
+2019-01-01,Kedah,plywood,117891
+2020-01-01,Kedah,plywood,70110
+2021-01-01,Kedah,plywood,72108
+2000-01-01,Kedah,sawn_timber,88846
+2001-01-01,Kedah,sawn_timber,79318
+2002-01-01,Kedah,sawn_timber,68596
+2003-01-01,Kedah,sawn_timber,69302
+2004-01-01,Kedah,sawn_timber,61894
+2005-01-01,Kedah,sawn_timber,61588
+2006-01-01,Kedah,sawn_timber,70483
+2007-01-01,Kedah,sawn_timber,59791
+2008-01-01,Kedah,sawn_timber,59524
+2009-01-01,Kedah,sawn_timber,54884
+2010-01-01,Kedah,sawn_timber,72791
+2011-01-01,Kedah,sawn_timber,71057
+2012-01-01,Kedah,sawn_timber,67340
+2013-01-01,Kedah,sawn_timber,44395
+2014-01-01,Kedah,sawn_timber,36088
+2015-01-01,Kedah,sawn_timber,31557
+2016-01-01,Kedah,sawn_timber,34885
+2017-01-01,Kedah,sawn_timber,36849
+2018-01-01,Kedah,sawn_timber,38353
+2019-01-01,Kedah,sawn_timber,42212
+2020-01-01,Kedah,sawn_timber,34814
+2021-01-01,Kedah,sawn_timber,32500
+2000-01-01,Kedah,veneer,3630
+2017-01-01,Kedah,veneer,29852
+2018-01-01,Kedah,veneer,37686
+2019-01-01,Kedah,veneer,16272
+2020-01-01,Kedah,veneer,18193
+2021-01-01,Kedah,veneer,12978
+2000-01-01,Kelantan,logs,1339501
+2001-01-01,Kelantan,logs,944700
+2002-01-01,Kelantan,logs,873026
+2003-01-01,Kelantan,logs,919466
+2004-01-01,Kelantan,logs,694256
+2005-01-01,Kelantan,logs,815585
+2006-01-01,Kelantan,logs,1066479
+2007-01-01,Kelantan,logs,1442811
+2008-01-01,Kelantan,logs,1408715
+2009-01-01,Kelantan,logs,1265291
+2010-01-01,Kelantan,logs,1269968
+2011-01-01,Kelantan,logs,1128921
+2012-01-01,Kelantan,logs,1111040
+2013-01-01,Kelantan,logs,1050474
+2014-01-01,Kelantan,logs,954302
+2015-01-01,Kelantan,logs,887666
+2016-01-01,Kelantan,logs,830567
+2017-01-01,Kelantan,logs,670409
+2018-01-01,Kelantan,logs,916081
+2019-01-01,Kelantan,logs,1181211
+2020-01-01,Kelantan,logs,584701
+2021-01-01,Kelantan,logs,641337
+2000-01-01,Kelantan,moulding,3327
+2001-01-01,Kelantan,moulding,6887
+2002-01-01,Kelantan,moulding,9505
+2003-01-01,Kelantan,moulding,3010
+2004-01-01,Kelantan,moulding,2725
+2005-01-01,Kelantan,moulding,3915
+2006-01-01,Kelantan,moulding,2350
+2007-01-01,Kelantan,moulding,3082
+2008-01-01,Kelantan,moulding,874
+2009-01-01,Kelantan,moulding,3616
+2010-01-01,Kelantan,moulding,6236
+2011-01-01,Kelantan,moulding,6545
+2012-01-01,Kelantan,moulding,8483
+2013-01-01,Kelantan,moulding,785
+2014-01-01,Kelantan,moulding,1817
+2015-01-01,Kelantan,moulding,1628
+2000-01-01,Kelantan,plywood,24970
+2001-01-01,Kelantan,plywood,10092
+2002-01-01,Kelantan,plywood,19479
+2003-01-01,Kelantan,plywood,7107
+2004-01-01,Kelantan,plywood,7713
+2005-01-01,Kelantan,plywood,4433
+2006-01-01,Kelantan,plywood,5434
+2007-01-01,Kelantan,plywood,7499
+2008-01-01,Kelantan,plywood,14970
+2009-01-01,Kelantan,plywood,23364
+2010-01-01,Kelantan,plywood,96
+2011-01-01,Kelantan,plywood,19581
+2012-01-01,Kelantan,plywood,24040
+2013-01-01,Kelantan,plywood,29513
+2014-01-01,Kelantan,plywood,43715
+2015-01-01,Kelantan,plywood,39828
+2016-01-01,Kelantan,plywood,25488
+2017-01-01,Kelantan,plywood,18277
+2018-01-01,Kelantan,plywood,14703
+2019-01-01,Kelantan,plywood,13437
+2020-01-01,Kelantan,plywood,20783
+2021-01-01,Kelantan,plywood,8474
+2000-01-01,Kelantan,sawn_timber,543246
+2001-01-01,Kelantan,sawn_timber,509873
+2002-01-01,Kelantan,sawn_timber,492695
+2003-01-01,Kelantan,sawn_timber,508489
+2004-01-01,Kelantan,sawn_timber,493804
+2005-01-01,Kelantan,sawn_timber,570399
+2006-01-01,Kelantan,sawn_timber,521882
+2007-01-01,Kelantan,sawn_timber,512509
+2008-01-01,Kelantan,sawn_timber,489189
+2009-01-01,Kelantan,sawn_timber,438156
+2010-01-01,Kelantan,sawn_timber,575005
+2011-01-01,Kelantan,sawn_timber,543392
+2012-01-01,Kelantan,sawn_timber,542982
+2013-01-01,Kelantan,sawn_timber,424496
+2014-01-01,Kelantan,sawn_timber,454918
+2015-01-01,Kelantan,sawn_timber,430458
+2016-01-01,Kelantan,sawn_timber,437051
+2017-01-01,Kelantan,sawn_timber,446096
+2018-01-01,Kelantan,sawn_timber,515178
+2019-01-01,Kelantan,sawn_timber,470002
+2020-01-01,Kelantan,sawn_timber,287457
+2021-01-01,Kelantan,sawn_timber,254655
+2000-01-01,Kelantan,veneer,3088
+2001-01-01,Kelantan,veneer,1197
+2002-01-01,Kelantan,veneer,1175
+2003-01-01,Kelantan,veneer,450
+2004-01-01,Kelantan,veneer,1712
+2005-01-01,Kelantan,veneer,7614
+2006-01-01,Kelantan,veneer,8588
+2007-01-01,Kelantan,veneer,7438
+2008-01-01,Kelantan,veneer,5313
+2009-01-01,Kelantan,veneer,1438
+2010-01-01,Kelantan,veneer,26220
+2011-01-01,Kelantan,veneer,50308
+2012-01-01,Kelantan,veneer,48036
+2013-01-01,Kelantan,veneer,61040
+2014-01-01,Kelantan,veneer,64620
+2015-01-01,Kelantan,veneer,31399
+2016-01-01,Kelantan,veneer,34559
+2017-01-01,Kelantan,veneer,65106
+2018-01-01,Kelantan,veneer,64806
+2019-01-01,Kelantan,veneer,36402
+2020-01-01,Kelantan,veneer,38543
+2021-01-01,Kelantan,veneer,36777
+2000-01-01,Melaka,logs,4310
+2001-01-01,Melaka,logs,1610
+2002-01-01,Melaka,logs,2830
+2004-01-01,Melaka,logs,4407
+2005-01-01,Melaka,logs,111
+2006-01-01,Melaka,logs,1508
+2007-01-01,Melaka,logs,1573
+2008-01-01,Melaka,logs,692
+2009-01-01,Melaka,logs,679
+2010-01-01,Melaka,logs,778
+2011-01-01,Melaka,logs,1163
+2013-01-01,Melaka,logs,16
+2014-01-01,Melaka,logs,4895
+2016-01-01,Melaka,logs,2508
+2017-01-01,Melaka,logs,99
+2018-01-01,Melaka,logs,85
+2019-01-01,Melaka,logs,28
+2003-01-01,Melaka,plywood,752
+2004-01-01,Melaka,plywood,146
+2005-01-01,Melaka,plywood,316
+2006-01-01,Melaka,plywood,615
+2007-01-01,Melaka,plywood,719
+2008-01-01,Melaka,plywood,75
+2000-01-01,Melaka,sawn_timber,44911
+2001-01-01,Melaka,sawn_timber,30734
+2002-01-01,Melaka,sawn_timber,26532
+2003-01-01,Melaka,sawn_timber,31128
+2004-01-01,Melaka,sawn_timber,41630
+2005-01-01,Melaka,sawn_timber,35437
+2006-01-01,Melaka,sawn_timber,23410
+2007-01-01,Melaka,sawn_timber,19645
+2008-01-01,Melaka,sawn_timber,22501
+2009-01-01,Melaka,sawn_timber,33815
+2010-01-01,Melaka,sawn_timber,34991
+2011-01-01,Melaka,sawn_timber,39553
+2012-01-01,Melaka,sawn_timber,31987
+2013-01-01,Melaka,sawn_timber,28151
+2014-01-01,Melaka,sawn_timber,47732
+2015-01-01,Melaka,sawn_timber,39322
+2016-01-01,Melaka,sawn_timber,32409
+2017-01-01,Melaka,sawn_timber,36857
+2018-01-01,Melaka,sawn_timber,69168
+2019-01-01,Melaka,sawn_timber,48809
+2020-01-01,Melaka,sawn_timber,32170
+2021-01-01,Melaka,sawn_timber,28767
+2010-01-01,Melaka,veneer,1237
+2000-01-01,Negeri Sembilan,logs,119443
+2001-01-01,Negeri Sembilan,logs,68241
+2002-01-01,Negeri Sembilan,logs,103823
+2003-01-01,Negeri Sembilan,logs,102661
+2004-01-01,Negeri Sembilan,logs,102646
+2005-01-01,Negeri Sembilan,logs,80956
+2006-01-01,Negeri Sembilan,logs,73860
+2007-01-01,Negeri Sembilan,logs,92607
+2008-01-01,Negeri Sembilan,logs,65844
+2009-01-01,Negeri Sembilan,logs,87843
+2010-01-01,Negeri Sembilan,logs,67377
+2011-01-01,Negeri Sembilan,logs,112162
+2012-01-01,Negeri Sembilan,logs,112661
+2013-01-01,Negeri Sembilan,logs,85187
+2014-01-01,Negeri Sembilan,logs,51787
+2015-01-01,Negeri Sembilan,logs,73702
+2016-01-01,Negeri Sembilan,logs,43790
+2017-01-01,Negeri Sembilan,logs,53808
+2018-01-01,Negeri Sembilan,logs,40989
+2019-01-01,Negeri Sembilan,logs,42575
+2020-01-01,Negeri Sembilan,logs,30702
+2021-01-01,Negeri Sembilan,logs,44430
+2000-01-01,Negeri Sembilan,moulding,3424
+2001-01-01,Negeri Sembilan,moulding,2432
+2002-01-01,Negeri Sembilan,moulding,3364
+2003-01-01,Negeri Sembilan,moulding,8115
+2004-01-01,Negeri Sembilan,moulding,9275
+2005-01-01,Negeri Sembilan,moulding,12622
+2006-01-01,Negeri Sembilan,moulding,11625
+2007-01-01,Negeri Sembilan,moulding,4964
+2008-01-01,Negeri Sembilan,moulding,951
+2009-01-01,Negeri Sembilan,moulding,1235
+2010-01-01,Negeri Sembilan,moulding,1889
+2011-01-01,Negeri Sembilan,moulding,1327
+2012-01-01,Negeri Sembilan,moulding,869
+2013-01-01,Negeri Sembilan,moulding,169
+2014-01-01,Negeri Sembilan,moulding,100
+2015-01-01,Negeri Sembilan,moulding,1489
+2016-01-01,Negeri Sembilan,moulding,596
+2017-01-01,Negeri Sembilan,moulding,625
+2018-01-01,Negeri Sembilan,moulding,655
+2019-01-01,Negeri Sembilan,moulding,5928
+2020-01-01,Negeri Sembilan,moulding,553
+2021-01-01,Negeri Sembilan,moulding,248
+2000-01-01,Negeri Sembilan,plywood,15119
+2001-01-01,Negeri Sembilan,plywood,21778
+2002-01-01,Negeri Sembilan,plywood,4353
+2003-01-01,Negeri Sembilan,plywood,14746
+2004-01-01,Negeri Sembilan,plywood,16259
+2005-01-01,Negeri Sembilan,plywood,16077
+2006-01-01,Negeri Sembilan,plywood,18634
+2007-01-01,Negeri Sembilan,plywood,13464
+2008-01-01,Negeri Sembilan,plywood,4413
+2009-01-01,Negeri Sembilan,plywood,6030
+2010-01-01,Negeri Sembilan,plywood,9600
+2011-01-01,Negeri Sembilan,plywood,9037
+2012-01-01,Negeri Sembilan,plywood,9100
+2013-01-01,Negeri Sembilan,plywood,8441
+2014-01-01,Negeri Sembilan,plywood,11594
+2015-01-01,Negeri Sembilan,plywood,11786
+2016-01-01,Negeri Sembilan,plywood,11950
+2017-01-01,Negeri Sembilan,plywood,17193
+2018-01-01,Negeri Sembilan,plywood,16581
+2019-01-01,Negeri Sembilan,plywood,13083
+2020-01-01,Negeri Sembilan,plywood,7896
+2021-01-01,Negeri Sembilan,plywood,2784
+2000-01-01,Negeri Sembilan,sawn_timber,256465
+2001-01-01,Negeri Sembilan,sawn_timber,226391
+2002-01-01,Negeri Sembilan,sawn_timber,233567
+2003-01-01,Negeri Sembilan,sawn_timber,203441
+2004-01-01,Negeri Sembilan,sawn_timber,226897
+2005-01-01,Negeri Sembilan,sawn_timber,234775
+2006-01-01,Negeri Sembilan,sawn_timber,245738
+2007-01-01,Negeri Sembilan,sawn_timber,207628
+2008-01-01,Negeri Sembilan,sawn_timber,188423
+2009-01-01,Negeri Sembilan,sawn_timber,177158
+2010-01-01,Negeri Sembilan,sawn_timber,199074
+2011-01-01,Negeri Sembilan,sawn_timber,227677
+2012-01-01,Negeri Sembilan,sawn_timber,265066
+2013-01-01,Negeri Sembilan,sawn_timber,228556
+2014-01-01,Negeri Sembilan,sawn_timber,228589
+2015-01-01,Negeri Sembilan,sawn_timber,323446
+2016-01-01,Negeri Sembilan,sawn_timber,213675
+2017-01-01,Negeri Sembilan,sawn_timber,206419
+2018-01-01,Negeri Sembilan,sawn_timber,205614
+2019-01-01,Negeri Sembilan,sawn_timber,196168
+2020-01-01,Negeri Sembilan,sawn_timber,153511
+2021-01-01,Negeri Sembilan,sawn_timber,119864
+2000-01-01,Negeri Sembilan,veneer,1062
+2002-01-01,Negeri Sembilan,veneer,288
+2003-01-01,Negeri Sembilan,veneer,4959
+2004-01-01,Negeri Sembilan,veneer,15272
+2005-01-01,Negeri Sembilan,veneer,16077
+2006-01-01,Negeri Sembilan,veneer,19927
+2007-01-01,Negeri Sembilan,veneer,22293
+2012-01-01,Negeri Sembilan,veneer,8600
+2013-01-01,Negeri Sembilan,veneer,8068
+2014-01-01,Negeri Sembilan,veneer,9253
+2015-01-01,Negeri Sembilan,veneer,7390
+2016-01-01,Negeri Sembilan,veneer,7507
+2017-01-01,Negeri Sembilan,veneer,1140
+2018-01-01,Negeri Sembilan,veneer,522
+2000-01-01,Pahang,blockboard,389
+2001-01-01,Pahang,blockboard,21
+2002-01-01,Pahang,blockboard,291
+2003-01-01,Pahang,blockboard,129
+2004-01-01,Pahang,blockboard,34
+2005-01-01,Pahang,blockboard,162
+2000-01-01,Pahang,logs,1706176
+2001-01-01,Pahang,logs,1462046
+2002-01-01,Pahang,logs,1629796
+2003-01-01,Pahang,logs,1604859
+2004-01-01,Pahang,logs,1826066
+2005-01-01,Pahang,logs,1953273
+2006-01-01,Pahang,logs,1782523
+2007-01-01,Pahang,logs,1136901
+2008-01-01,Pahang,logs,1121226
+2009-01-01,Pahang,logs,1174658
+2010-01-01,Pahang,logs,1374041
+2011-01-01,Pahang,logs,1407351
+2012-01-01,Pahang,logs,1661572
+2013-01-01,Pahang,logs,1604992
+2014-01-01,Pahang,logs,1778864
+2015-01-01,Pahang,logs,2037322
+2016-01-01,Pahang,logs,2270648
+2017-01-01,Pahang,logs,1812223
+2018-01-01,Pahang,logs,1787612
+2019-01-01,Pahang,logs,1677034
+2020-01-01,Pahang,logs,945482
+2021-01-01,Pahang,logs,771684
+2000-01-01,Pahang,moulding,198276
+2001-01-01,Pahang,moulding,1341307
+2002-01-01,Pahang,moulding,32194
+2003-01-01,Pahang,moulding,26796
+2004-01-01,Pahang,moulding,39275
+2005-01-01,Pahang,moulding,39281
+2006-01-01,Pahang,moulding,34422
+2007-01-01,Pahang,moulding,32999
+2008-01-01,Pahang,moulding,22904
+2009-01-01,Pahang,moulding,14484
+2010-01-01,Pahang,moulding,12531
+2011-01-01,Pahang,moulding,32980
+2012-01-01,Pahang,moulding,21356
+2013-01-01,Pahang,moulding,15310
+2014-01-01,Pahang,moulding,18551
+2015-01-01,Pahang,moulding,8008
+2016-01-01,Pahang,moulding,6112
+2017-01-01,Pahang,moulding,12391
+2018-01-01,Pahang,moulding,10319
+2019-01-01,Pahang,moulding,108903
+2020-01-01,Pahang,moulding,94003
+2021-01-01,Pahang,moulding,90423
+2000-01-01,Pahang,plywood,122611
+2001-01-01,Pahang,plywood,95593
+2002-01-01,Pahang,plywood,94458
+2003-01-01,Pahang,plywood,113604
+2004-01-01,Pahang,plywood,144412
+2005-01-01,Pahang,plywood,163870
+2006-01-01,Pahang,plywood,159886
+2007-01-01,Pahang,plywood,163421
+2008-01-01,Pahang,plywood,164652
+2009-01-01,Pahang,plywood,153305
+2010-01-01,Pahang,plywood,143640
+2011-01-01,Pahang,plywood,144053
+2012-01-01,Pahang,plywood,157439
+2013-01-01,Pahang,plywood,129395
+2014-01-01,Pahang,plywood,116746
+2015-01-01,Pahang,plywood,136354
+2016-01-01,Pahang,plywood,135258
+2017-01-01,Pahang,plywood,138108
+2018-01-01,Pahang,plywood,163421
+2019-01-01,Pahang,plywood,122477
+2020-01-01,Pahang,plywood,71818
+2021-01-01,Pahang,plywood,39617
+2000-01-01,Pahang,sawn_timber,928675
+2001-01-01,Pahang,sawn_timber,761323
+2002-01-01,Pahang,sawn_timber,771903
+2003-01-01,Pahang,sawn_timber,738670
+2004-01-01,Pahang,sawn_timber,920199
+2005-01-01,Pahang,sawn_timber,914603
+2006-01-01,Pahang,sawn_timber,842766
+2007-01-01,Pahang,sawn_timber,679867
+2008-01-01,Pahang,sawn_timber,559823
+2009-01-01,Pahang,sawn_timber,464607
+2010-01-01,Pahang,sawn_timber,613380
+2011-01-01,Pahang,sawn_timber,587975
+2012-01-01,Pahang,sawn_timber,585078
+2013-01-01,Pahang,sawn_timber,547188
+2014-01-01,Pahang,sawn_timber,648995
+2015-01-01,Pahang,sawn_timber,645979
+2016-01-01,Pahang,sawn_timber,740304
+2017-01-01,Pahang,sawn_timber,736614
+2018-01-01,Pahang,sawn_timber,793598
+2019-01-01,Pahang,sawn_timber,747654
+2020-01-01,Pahang,sawn_timber,514684
+2021-01-01,Pahang,sawn_timber,466577
+2000-01-01,Pahang,veneer,24681
+2001-01-01,Pahang,veneer,15571
+2002-01-01,Pahang,veneer,11179
+2003-01-01,Pahang,veneer,19632
+2004-01-01,Pahang,veneer,26541
+2005-01-01,Pahang,veneer,56758
+2006-01-01,Pahang,veneer,60043
+2007-01-01,Pahang,veneer,6570
+2008-01-01,Pahang,veneer,4617
+2009-01-01,Pahang,veneer,2755
+2010-01-01,Pahang,veneer,3206
+2011-01-01,Pahang,veneer,2452
+2013-01-01,Pahang,veneer,12275
+2014-01-01,Pahang,veneer,30254
+2015-01-01,Pahang,veneer,5664
+2016-01-01,Pahang,veneer,34429
+2017-01-01,Pahang,veneer,33918
+2018-01-01,Pahang,veneer,25072
+2019-01-01,Pahang,veneer,3739
+2020-01-01,Pahang,veneer,3846
+2021-01-01,Pahang,veneer,8582
+2000-01-01,Perak,blockboard,7716
+2002-01-01,Perak,blockboard,604
+2000-01-01,Perak,logs,878000
+2001-01-01,Perak,logs,606264
+2002-01-01,Perak,logs,723599
+2003-01-01,Perak,logs,757884
+2004-01-01,Perak,logs,887454
+2005-01-01,Perak,logs,787548
+2006-01-01,Perak,logs,833802
+2007-01-01,Perak,logs,755638
+2008-01-01,Perak,logs,681722
+2009-01-01,Perak,logs,567594
+2010-01-01,Perak,logs,609461
+2011-01-01,Perak,logs,656264
+2012-01-01,Perak,logs,660289
+2013-01-01,Perak,logs,576468
+2014-01-01,Perak,logs,485152
+2015-01-01,Perak,logs,455652
+2016-01-01,Perak,logs,529620
+2017-01-01,Perak,logs,404512
+2018-01-01,Perak,logs,437487
+2019-01-01,Perak,logs,417932
+2020-01-01,Perak,logs,329233
+2021-01-01,Perak,logs,260240
+2000-01-01,Perak,moulding,1612
+2001-01-01,Perak,moulding,4674
+2002-01-01,Perak,moulding,2077
+2003-01-01,Perak,moulding,1295
+2004-01-01,Perak,moulding,2237
+2005-01-01,Perak,moulding,2525
+2006-01-01,Perak,moulding,2797
+2007-01-01,Perak,moulding,2879
+2008-01-01,Perak,moulding,2411
+2009-01-01,Perak,moulding,1604
+2010-01-01,Perak,moulding,2095
+2011-01-01,Perak,moulding,2317
+2012-01-01,Perak,moulding,2054
+2013-01-01,Perak,moulding,1154
+2014-01-01,Perak,moulding,779
+2015-01-01,Perak,moulding,7663
+2016-01-01,Perak,moulding,10082
+2017-01-01,Perak,moulding,8881
+2018-01-01,Perak,moulding,8613
+2019-01-01,Perak,moulding,10301
+2020-01-01,Perak,moulding,8935
+2021-01-01,Perak,moulding,12226
+2000-01-01,Perak,plywood,41800
+2001-01-01,Perak,plywood,27982
+2002-01-01,Perak,plywood,33076
+2003-01-01,Perak,plywood,33622
+2004-01-01,Perak,plywood,33289
+2005-01-01,Perak,plywood,35430
+2006-01-01,Perak,plywood,42141
+2007-01-01,Perak,plywood,36398
+2008-01-01,Perak,plywood,34144
+2009-01-01,Perak,plywood,29412
+2010-01-01,Perak,plywood,37518
+2011-01-01,Perak,plywood,57654
+2012-01-01,Perak,plywood,71187
+2013-01-01,Perak,plywood,68591
+2014-01-01,Perak,plywood,62707
+2015-01-01,Perak,plywood,64163
+2016-01-01,Perak,plywood,49093
+2017-01-01,Perak,plywood,92619
+2018-01-01,Perak,plywood,101561
+2019-01-01,Perak,plywood,67301
+2020-01-01,Perak,plywood,79821
+2021-01-01,Perak,plywood,71861
+2000-01-01,Perak,sawn_timber,342103
+2001-01-01,Perak,sawn_timber,275950
+2002-01-01,Perak,sawn_timber,281998
+2003-01-01,Perak,sawn_timber,293106
+2004-01-01,Perak,sawn_timber,307373
+2005-01-01,Perak,sawn_timber,288974
+2006-01-01,Perak,sawn_timber,324170
+2007-01-01,Perak,sawn_timber,297878
+2008-01-01,Perak,sawn_timber,286851
+2009-01-01,Perak,sawn_timber,234323
+2010-01-01,Perak,sawn_timber,216754
+2011-01-01,Perak,sawn_timber,255324
+2012-01-01,Perak,sawn_timber,374138
+2013-01-01,Perak,sawn_timber,321518
+2014-01-01,Perak,sawn_timber,287469
+2015-01-01,Perak,sawn_timber,323561
+2016-01-01,Perak,sawn_timber,334749
+2017-01-01,Perak,sawn_timber,291074
+2018-01-01,Perak,sawn_timber,281205
+2019-01-01,Perak,sawn_timber,266267
+2020-01-01,Perak,sawn_timber,180909
+2021-01-01,Perak,sawn_timber,157994
+2000-01-01,Perak,veneer,10927
+2001-01-01,Perak,veneer,3511
+2002-01-01,Perak,veneer,4311
+2003-01-01,Perak,veneer,5464
+2006-01-01,Perak,veneer,555
+2007-01-01,Perak,veneer,173
+2008-01-01,Perak,veneer,259
+2013-01-01,Perak,veneer,5716
+2014-01-01,Perak,veneer,28792
+2015-01-01,Perak,veneer,15430
+2016-01-01,Perak,veneer,11789
+2017-01-01,Perak,veneer,5591
+2018-01-01,Perak,veneer,4815
+2019-01-01,Perak,veneer,22698
+2020-01-01,Perak,veneer,6142
+2021-01-01,Perak,veneer,16284
+2010-01-01,Perlis,logs,218
+2011-01-01,Perlis,logs,461
+2012-01-01,Perlis,logs,424
+2013-01-01,Perlis,logs,787
+2014-01-01,Perlis,logs,960
+2015-01-01,Perlis,logs,779
+2016-01-01,Perlis,logs,496
+2017-01-01,Perlis,logs,19
+2018-01-01,Perlis,logs,87
+2019-01-01,Perlis,logs,211
+2020-01-01,Perlis,logs,35741
+2021-01-01,Perlis,logs,51283
+2000-01-01,Perlis,sawn_timber,78
+2001-01-01,Perlis,sawn_timber,37
+2011-01-01,Pulau Pinang,logs,946
+2012-01-01,Pulau Pinang,logs,2736
+2013-01-01,Pulau Pinang,logs,96
+2020-01-01,Pulau Pinang,logs,41
+2021-01-01,Pulau Pinang,logs,27
+2000-01-01,Pulau Pinang,moulding,11278
+2001-01-01,Pulau Pinang,moulding,8116
+2002-01-01,Pulau Pinang,moulding,8611
+2003-01-01,Pulau Pinang,moulding,10619
+2004-01-01,Pulau Pinang,moulding,48004
+2005-01-01,Pulau Pinang,moulding,98200
+2006-01-01,Pulau Pinang,moulding,11229
+2007-01-01,Pulau Pinang,moulding,48925
+2008-01-01,Pulau Pinang,moulding,13732
+2009-01-01,Pulau Pinang,moulding,16884
+2010-01-01,Pulau Pinang,moulding,15777
+2011-01-01,Pulau Pinang,moulding,37021
+2012-01-01,Pulau Pinang,moulding,75573
+2013-01-01,Pulau Pinang,moulding,14199
+2014-01-01,Pulau Pinang,moulding,13358
+2015-01-01,Pulau Pinang,moulding,14285
+2016-01-01,Pulau Pinang,moulding,16249
+2017-01-01,Pulau Pinang,moulding,13179
+2018-01-01,Pulau Pinang,moulding,8251
+2019-01-01,Pulau Pinang,moulding,7923
+2020-01-01,Pulau Pinang,moulding,6028
+2021-01-01,Pulau Pinang,moulding,6536
+2000-01-01,Pulau Pinang,plywood,34782
+2001-01-01,Pulau Pinang,plywood,29637
+2002-01-01,Pulau Pinang,plywood,12589
+2003-01-01,Pulau Pinang,plywood,11309
+2004-01-01,Pulau Pinang,plywood,10552
+2005-01-01,Pulau Pinang,plywood,13334
+2006-01-01,Pulau Pinang,plywood,14964
+2007-01-01,Pulau Pinang,plywood,18370
+2008-01-01,Pulau Pinang,plywood,9575
+2009-01-01,Pulau Pinang,plywood,3849
+2010-01-01,Pulau Pinang,plywood,24738
+2011-01-01,Pulau Pinang,plywood,34353
+2012-01-01,Pulau Pinang,plywood,39156
+2013-01-01,Pulau Pinang,plywood,28485
+2014-01-01,Pulau Pinang,plywood,26703
+2015-01-01,Pulau Pinang,plywood,39421
+2016-01-01,Pulau Pinang,plywood,32067
+2017-01-01,Pulau Pinang,plywood,41246
+2018-01-01,Pulau Pinang,plywood,27615
+2019-01-01,Pulau Pinang,plywood,16210
+2020-01-01,Pulau Pinang,plywood,22397
+2021-01-01,Pulau Pinang,plywood,38168
+2000-01-01,Pulau Pinang,sawn_timber,60811
+2001-01-01,Pulau Pinang,sawn_timber,58256
+2002-01-01,Pulau Pinang,sawn_timber,62732
+2003-01-01,Pulau Pinang,sawn_timber,59146
+2004-01-01,Pulau Pinang,sawn_timber,58848
+2005-01-01,Pulau Pinang,sawn_timber,52352
+2006-01-01,Pulau Pinang,sawn_timber,61625
+2007-01-01,Pulau Pinang,sawn_timber,51849
+2008-01-01,Pulau Pinang,sawn_timber,50623
+2009-01-01,Pulau Pinang,sawn_timber,47240
+2010-01-01,Pulau Pinang,sawn_timber,94605
+2011-01-01,Pulau Pinang,sawn_timber,101024
+2012-01-01,Pulau Pinang,sawn_timber,58106
+2013-01-01,Pulau Pinang,sawn_timber,43430
+2014-01-01,Pulau Pinang,sawn_timber,46410
+2015-01-01,Pulau Pinang,sawn_timber,44874
+2016-01-01,Pulau Pinang,sawn_timber,43087
+2017-01-01,Pulau Pinang,sawn_timber,58923
+2018-01-01,Pulau Pinang,sawn_timber,49271
+2019-01-01,Pulau Pinang,sawn_timber,48700
+2020-01-01,Pulau Pinang,sawn_timber,43965
+2021-01-01,Pulau Pinang,sawn_timber,27563
+2000-01-01,Pulau Pinang,veneer,309
+2017-01-01,Pulau Pinang,veneer,3159
+2018-01-01,Pulau Pinang,veneer,1597
+2019-01-01,Pulau Pinang,veneer,2187
+2020-01-01,Pulau Pinang,veneer,1276
+2021-01-01,Pulau Pinang,veneer,263
+2000-01-01,Sabah,blockboard,73562
+2001-01-01,Sabah,blockboard,103326
+2002-01-01,Sabah,blockboard,79617
+2003-01-01,Sabah,blockboard,77086
+2004-01-01,Sabah,blockboard,90500
+2005-01-01,Sabah,blockboard,85310
+2006-01-01,Sabah,blockboard,78008
+2007-01-01,Sabah,blockboard,59489
+2008-01-01,Sabah,blockboard,65684
+2009-01-01,Sabah,blockboard,43172
+2010-01-01,Sabah,blockboard,33491
+2011-01-01,Sabah,blockboard,34420
+2012-01-01,Sabah,blockboard,33222
+2000-01-01,Sabah,logs,3727762
+2001-01-01,Sabah,logs,2588417
+2002-01-01,Sabah,logs,4436381
+2003-01-01,Sabah,logs,4959460
+2004-01-01,Sabah,logs,5415796
+2005-01-01,Sabah,logs,5957526
+2006-01-01,Sabah,logs,5336081
+2007-01-01,Sabah,logs,5941229
+2008-01-01,Sabah,logs,4718368
+2009-01-01,Sabah,logs,4251951
+2010-01-01,Sabah,logs,3483928
+2011-01-01,Sabah,logs,2212466
+2012-01-01,Sabah,logs,1965671
+2013-01-01,Sabah,logs,2101143
+2014-01-01,Sabah,logs,1829029
+2015-01-01,Sabah,logs,1856451
+2016-01-01,Sabah,logs,2083435
+2017-01-01,Sabah,logs,1375455
+2018-01-01,Sabah,logs,1384739
+2019-01-01,Sabah,logs,1074922
+2020-01-01,Sabah,logs,680800
+2021-01-01,Sabah,logs,1122292
+2000-01-01,Sabah,moulding,275607
+2001-01-01,Sabah,moulding,203386
+2002-01-01,Sabah,moulding,268003
+2003-01-01,Sabah,moulding,283706
+2004-01-01,Sabah,moulding,293590
+2005-01-01,Sabah,moulding,266762
+2006-01-01,Sabah,moulding,224026
+2007-01-01,Sabah,moulding,238188
+2008-01-01,Sabah,moulding,164558
+2009-01-01,Sabah,moulding,145355
+2010-01-01,Sabah,moulding,166036
+2011-01-01,Sabah,moulding,123372
+2012-01-01,Sabah,moulding,99532
+2013-01-01,Sabah,moulding,80612
+2014-01-01,Sabah,moulding,59836
+2015-01-01,Sabah,moulding,54423
+2016-01-01,Sabah,moulding,47067
+2017-01-01,Sabah,moulding,43176
+2018-01-01,Sabah,moulding,33277
+2019-01-01,Sabah,moulding,27706
+2020-01-01,Sabah,moulding,16521
+2021-01-01,Sabah,moulding,28236
+2000-01-01,Sabah,plywood,1002687
+2001-01-01,Sabah,plywood,1005860
+2002-01-01,Sabah,plywood,1141187
+2003-01-01,Sabah,plywood,1200089
+2004-01-01,Sabah,plywood,1398763
+2005-01-01,Sabah,plywood,1580536
+2006-01-01,Sabah,plywood,1570479
+2007-01-01,Sabah,plywood,1511895
+2008-01-01,Sabah,plywood,1245958
+2009-01-01,Sabah,plywood,1033508
+2010-01-01,Sabah,plywood,1020924
+2011-01-01,Sabah,plywood,776461
+2012-01-01,Sabah,plywood,713599
+2013-01-01,Sabah,plywood,690601
+2014-01-01,Sabah,plywood,653984
+2015-01-01,Sabah,plywood,654731
+2016-01-01,Sabah,plywood,607438
+2017-01-01,Sabah,plywood,493210
+2018-01-01,Sabah,plywood,470626
+2019-01-01,Sabah,plywood,423981
+2020-01-01,Sabah,plywood,269399
+2021-01-01,Sabah,plywood,369801
+2000-01-01,Sabah,sawn_timber,806303
+2001-01-01,Sabah,sawn_timber,559811
+2002-01-01,Sabah,sawn_timber,565648
+2003-01-01,Sabah,sawn_timber,550438
+2004-01-01,Sabah,sawn_timber,643527
+2005-01-01,Sabah,sawn_timber,825421
+2006-01-01,Sabah,sawn_timber,862188
+2007-01-01,Sabah,sawn_timber,964432
+2008-01-01,Sabah,sawn_timber,855779
+2009-01-01,Sabah,sawn_timber,741251
+2010-01-01,Sabah,sawn_timber,515023
+2011-01-01,Sabah,sawn_timber,355649
+2012-01-01,Sabah,sawn_timber,325671
+2013-01-01,Sabah,sawn_timber,270605
+2014-01-01,Sabah,sawn_timber,254332
+2015-01-01,Sabah,sawn_timber,219866
+2016-01-01,Sabah,sawn_timber,241869
+2017-01-01,Sabah,sawn_timber,192023
+2018-01-01,Sabah,sawn_timber,218838
+2019-01-01,Sabah,sawn_timber,238671
+2020-01-01,Sabah,sawn_timber,156183
+2021-01-01,Sabah,sawn_timber,192796
+2000-01-01,Sabah,veneer,510405
+2001-01-01,Sabah,veneer,198592
+2002-01-01,Sabah,veneer,210411
+2003-01-01,Sabah,veneer,207037
+2004-01-01,Sabah,veneer,199299
+2005-01-01,Sabah,veneer,212647
+2006-01-01,Sabah,veneer,210027
+2007-01-01,Sabah,veneer,204355
+2008-01-01,Sabah,veneer,190554
+2009-01-01,Sabah,veneer,163604
+2010-01-01,Sabah,veneer,130728
+2011-01-01,Sabah,veneer,138481
+2012-01-01,Sabah,veneer,106687
+2013-01-01,Sabah,veneer,114976
+2014-01-01,Sabah,veneer,156992
+2015-01-01,Sabah,veneer,136433
+2016-01-01,Sabah,veneer,119036
+2017-01-01,Sabah,veneer,92335
+2018-01-01,Sabah,veneer,98085
+2019-01-01,Sabah,veneer,59082
+2020-01-01,Sabah,veneer,31366
+2021-01-01,Sabah,veneer,50372
+2000-01-01,Sarawak,blockboard,54732
+2001-01-01,Sarawak,blockboard,44044
+2002-01-01,Sarawak,blockboard,45000
+2003-01-01,Sarawak,blockboard,39632
+2004-01-01,Sarawak,blockboard,58694
+2005-01-01,Sarawak,blockboard,45805
+2006-01-01,Sarawak,blockboard,47436
+2007-01-01,Sarawak,blockboard,55168
+2008-01-01,Sarawak,blockboard,32603
+2009-01-01,Sarawak,blockboard,28970
+2010-01-01,Sarawak,blockboard,36358
+2011-01-01,Sarawak,blockboard,32419
+2012-01-01,Sarawak,blockboard,28000
+2000-01-01,Sarawak,logs,14274000
+2001-01-01,Sarawak,logs,12179000
+2002-01-01,Sarawak,logs,11855000
+2003-01-01,Sarawak,logs,12153000
+2004-01-01,Sarawak,logs,12051000
+2005-01-01,Sarawak,logs,12035713
+2006-01-01,Sarawak,logs,11864167
+2007-01-01,Sarawak,logs,11891244
+2008-01-01,Sarawak,logs,11335576
+2009-01-01,Sarawak,logs,10371139
+2010-01-01,Sarawak,logs,10151817
+2011-01-01,Sarawak,logs,9610434
+2012-01-01,Sarawak,logs,9458563
+2013-01-01,Sarawak,logs,8211078
+2014-01-01,Sarawak,logs,8716098
+2015-01-01,Sarawak,logs,8200719
+2016-01-01,Sarawak,logs,7413526
+2017-01-01,Sarawak,logs,5489624
+2018-01-01,Sarawak,logs,4696721
+2019-01-01,Sarawak,logs,4074254
+2020-01-01,Sarawak,logs,2417100
+2021-01-01,Sarawak,logs,2334910
+2000-01-01,Sarawak,moulding,22641
+2001-01-01,Sarawak,moulding,34934
+2002-01-01,Sarawak,moulding,35000
+2003-01-01,Sarawak,moulding,24684
+2004-01-01,Sarawak,moulding,25918
+2005-01-01,Sarawak,moulding,27306
+2006-01-01,Sarawak,moulding,16900
+2007-01-01,Sarawak,moulding,21234
+2008-01-01,Sarawak,moulding,17374
+2009-01-01,Sarawak,moulding,14458
+2010-01-01,Sarawak,moulding,15755
+2011-01-01,Sarawak,moulding,8455
+2012-01-01,Sarawak,moulding,8712
+2013-01-01,Sarawak,moulding,5784
+2014-01-01,Sarawak,moulding,3643
+2015-01-01,Sarawak,moulding,2704
+2016-01-01,Sarawak,moulding,2705
+2017-01-01,Sarawak,moulding,4143
+2018-01-01,Sarawak,moulding,8962
+2019-01-01,Sarawak,moulding,12094
+2020-01-01,Sarawak,moulding,7365
+2021-01-01,Sarawak,moulding,8262
+2000-01-01,Sarawak,plywood,2860721
+2001-01-01,Sarawak,plywood,2677710
+2002-01-01,Sarawak,plywood,2707780
+2003-01-01,Sarawak,plywood,3066482
+2004-01-01,Sarawak,plywood,2968362
+2005-01-01,Sarawak,plywood,3041947
+2006-01-01,Sarawak,plywood,3402943
+2007-01-01,Sarawak,plywood,3453644
+2008-01-01,Sarawak,plywood,3124195
+2009-01-01,Sarawak,plywood,2764314
+2010-01-01,Sarawak,plywood,2875975
+2011-01-01,Sarawak,plywood,2767661
+2012-01-01,Sarawak,plywood,2740704
+2013-01-01,Sarawak,plywood,2320014
+2014-01-01,Sarawak,plywood,2653772
+2015-01-01,Sarawak,plywood,2339984
+2016-01-01,Sarawak,plywood,1818149
+2017-01-01,Sarawak,plywood,1698912
+2018-01-01,Sarawak,plywood,1589959
+2019-01-01,Sarawak,plywood,1360566
+2020-01-01,Sarawak,plywood,1113259
+2021-01-01,Sarawak,plywood,944905
+2000-01-01,Sarawak,sawn_timber,1511000
+2001-01-01,Sarawak,sawn_timber,1140306
+2002-01-01,Sarawak,sawn_timber,1218000
+2003-01-01,Sarawak,sawn_timber,1291000
+2004-01-01,Sarawak,sawn_timber,1011000
+2005-01-01,Sarawak,sawn_timber,1196000
+2006-01-01,Sarawak,sawn_timber,1248215
+2007-01-01,Sarawak,sawn_timber,1431553
+2008-01-01,Sarawak,sawn_timber,1223457
+2009-01-01,Sarawak,sawn_timber,1066348
+2010-01-01,Sarawak,sawn_timber,1127191
+2011-01-01,Sarawak,sawn_timber,963729
+2012-01-01,Sarawak,sawn_timber,1060857
+2013-01-01,Sarawak,sawn_timber,847293
+2014-01-01,Sarawak,sawn_timber,742288
+2015-01-01,Sarawak,sawn_timber,770018
+2016-01-01,Sarawak,sawn_timber,675531
+2017-01-01,Sarawak,sawn_timber,623864
+2018-01-01,Sarawak,sawn_timber,506754
+2019-01-01,Sarawak,sawn_timber,466483
+2020-01-01,Sarawak,sawn_timber,341321
+2021-01-01,Sarawak,sawn_timber,303624
+2000-01-01,Sarawak,veneer,418497
+2001-01-01,Sarawak,veneer,303223
+2002-01-01,Sarawak,veneer,300000
+2003-01-01,Sarawak,veneer,308327
+2004-01-01,Sarawak,veneer,285933
+2005-01-01,Sarawak,veneer,326270
+2006-01-01,Sarawak,veneer,300801
+2007-01-01,Sarawak,veneer,482798
+2008-01-01,Sarawak,veneer,799969
+2009-01-01,Sarawak,veneer,674383
+2010-01-01,Sarawak,veneer,631549
+2011-01-01,Sarawak,veneer,693108
+2012-01-01,Sarawak,veneer,640442
+2013-01-01,Sarawak,veneer,569361
+2014-01-01,Sarawak,veneer,520118
+2015-01-01,Sarawak,veneer,485659
+2016-01-01,Sarawak,veneer,339549
+2017-01-01,Sarawak,veneer,339686
+2018-01-01,Sarawak,veneer,335061
+2019-01-01,Sarawak,veneer,319661
+2020-01-01,Sarawak,veneer,198516
+2021-01-01,Sarawak,veneer,125968
+2000-01-01,Selangor,logs,69994
+2001-01-01,Selangor,logs,65015
+2002-01-01,Selangor,logs,44388
+2003-01-01,Selangor,logs,71288
+2004-01-01,Selangor,logs,40492
+2005-01-01,Selangor,logs,38981
+2006-01-01,Selangor,logs,48142
+2007-01-01,Selangor,logs,37847
+2008-01-01,Selangor,logs,23789
+2009-01-01,Selangor,logs,6193
+2010-01-01,Selangor,logs,4333
+2011-01-01,Selangor,logs,2596
+2012-01-01,Selangor,logs,2064
+2013-01-01,Selangor,logs,1072
+2014-01-01,Selangor,logs,703
+2015-01-01,Selangor,logs,4311
+2016-01-01,Selangor,logs,4286
+2017-01-01,Selangor,logs,3577
+2018-01-01,Selangor,logs,28978
+2019-01-01,Selangor,logs,853
+2020-01-01,Selangor,logs,233
+2021-01-01,Selangor,logs,134
+2000-01-01,Selangor,moulding,79061
+2001-01-01,Selangor,moulding,35130
+2002-01-01,Selangor,moulding,42738
+2003-01-01,Selangor,moulding,48266
+2004-01-01,Selangor,moulding,71869
+2005-01-01,Selangor,moulding,82102
+2006-01-01,Selangor,moulding,43864
+2007-01-01,Selangor,moulding,17296
+2008-01-01,Selangor,moulding,75654
+2009-01-01,Selangor,moulding,68298
+2010-01-01,Selangor,moulding,83710
+2011-01-01,Selangor,moulding,115417
+2012-01-01,Selangor,moulding,106140
+2013-01-01,Selangor,moulding,26865
+2014-01-01,Selangor,moulding,29926
+2015-01-01,Selangor,moulding,26900
+2016-01-01,Selangor,moulding,22531
+2017-01-01,Selangor,moulding,22677
+2018-01-01,Selangor,moulding,20539
+2019-01-01,Selangor,moulding,20277
+2020-01-01,Selangor,moulding,18795
+2021-01-01,Selangor,moulding,15355
+2000-01-01,Selangor,plywood,69779
+2001-01-01,Selangor,plywood,68590
+2002-01-01,Selangor,plywood,65921
+2003-01-01,Selangor,plywood,54842
+2004-01-01,Selangor,plywood,26129
+2005-01-01,Selangor,plywood,28712
+2006-01-01,Selangor,plywood,12976
+2007-01-01,Selangor,plywood,21851
+2008-01-01,Selangor,plywood,20315
+2009-01-01,Selangor,plywood,12306
+2010-01-01,Selangor,plywood,17520
+2011-01-01,Selangor,plywood,2167
+2012-01-01,Selangor,plywood,1090
+2013-01-01,Selangor,plywood,847
+2014-01-01,Selangor,plywood,1560
+2015-01-01,Selangor,plywood,855
+2017-01-01,Selangor,plywood,411
+2018-01-01,Selangor,plywood,970
+2019-01-01,Selangor,plywood,1005
+2020-01-01,Selangor,plywood,740
+2021-01-01,Selangor,plywood,333
+2000-01-01,Selangor,sawn_timber,171782
+2001-01-01,Selangor,sawn_timber,207741
+2002-01-01,Selangor,sawn_timber,220802
+2003-01-01,Selangor,sawn_timber,264010
+2004-01-01,Selangor,sawn_timber,305202
+2005-01-01,Selangor,sawn_timber,330276
+2006-01-01,Selangor,sawn_timber,225619
+2007-01-01,Selangor,sawn_timber,188000
+2008-01-01,Selangor,sawn_timber,88787
+2009-01-01,Selangor,sawn_timber,105330
+2010-01-01,Selangor,sawn_timber,90744
+2011-01-01,Selangor,sawn_timber,119220
+2012-01-01,Selangor,sawn_timber,110707
+2013-01-01,Selangor,sawn_timber,103174
+2014-01-01,Selangor,sawn_timber,115513
+2015-01-01,Selangor,sawn_timber,98842
+2016-01-01,Selangor,sawn_timber,121727
+2017-01-01,Selangor,sawn_timber,108736
+2018-01-01,Selangor,sawn_timber,93741
+2019-01-01,Selangor,sawn_timber,75927
+2020-01-01,Selangor,sawn_timber,53613
+2021-01-01,Selangor,sawn_timber,44453
+2000-01-01,Selangor,veneer,755
+2001-01-01,Selangor,veneer,698
+2002-01-01,Selangor,veneer,1072
+2003-01-01,Selangor,veneer,1135
+2004-01-01,Selangor,veneer,997
+2005-01-01,Selangor,veneer,789
+2006-01-01,Selangor,veneer,651
+2007-01-01,Selangor,veneer,1224
+2008-01-01,Selangor,veneer,573
+2009-01-01,Selangor,veneer,716
+2010-01-01,Selangor,veneer,440
+2016-01-01,Selangor,veneer,1356
+2017-01-01,Selangor,veneer,1031
+2018-01-01,Selangor,veneer,145
+2020-01-01,Selangor,veneer,67
+2021-01-01,Selangor,veneer,148
+2000-01-01,Terengganu,blockboard,1296
+2001-01-01,Terengganu,blockboard,885
+2002-01-01,Terengganu,blockboard,418
+2000-01-01,Terengganu,logs,596843
+2001-01-01,Terengganu,logs,668322
+2002-01-01,Terengganu,logs,640864
+2003-01-01,Terengganu,logs,682146
+2004-01-01,Terengganu,logs,711403
+2005-01-01,Terengganu,logs,522738
+2006-01-01,Terengganu,logs,493864
+2007-01-01,Terengganu,logs,403786
+2008-01-01,Terengganu,logs,388262
+2009-01-01,Terengganu,logs,304389
+2010-01-01,Terengganu,logs,560138
+2011-01-01,Terengganu,logs,423495
+2012-01-01,Terengganu,logs,561852
+2013-01-01,Terengganu,logs,447044
+2014-01-01,Terengganu,logs,474091
+2015-01-01,Terengganu,logs,296115
+2016-01-01,Terengganu,logs,263606
+2017-01-01,Terengganu,logs,380544
+2018-01-01,Terengganu,logs,677844
+2019-01-01,Terengganu,logs,396237
+2020-01-01,Terengganu,logs,189917
+2021-01-01,Terengganu,logs,211839
+2000-01-01,Terengganu,moulding,21070
+2001-01-01,Terengganu,moulding,26564
+2002-01-01,Terengganu,moulding,26717
+2003-01-01,Terengganu,moulding,24959
+2004-01-01,Terengganu,moulding,34324
+2005-01-01,Terengganu,moulding,35260
+2006-01-01,Terengganu,moulding,31258
+2007-01-01,Terengganu,moulding,30452
+2008-01-01,Terengganu,moulding,25499
+2009-01-01,Terengganu,moulding,24007
+2010-01-01,Terengganu,moulding,23959
+2011-01-01,Terengganu,moulding,24464
+2012-01-01,Terengganu,moulding,27463
+2013-01-01,Terengganu,moulding,18190
+2014-01-01,Terengganu,moulding,33146
+2015-01-01,Terengganu,moulding,19304
+2016-01-01,Terengganu,moulding,15798
+2017-01-01,Terengganu,moulding,27393
+2018-01-01,Terengganu,moulding,33447
+2019-01-01,Terengganu,moulding,33180
+2020-01-01,Terengganu,moulding,27567
+2021-01-01,Terengganu,moulding,22547
+2000-01-01,Terengganu,plywood,81939
+2001-01-01,Terengganu,plywood,71033
+2002-01-01,Terengganu,plywood,67319
+2003-01-01,Terengganu,plywood,55894
+2004-01-01,Terengganu,plywood,68804
+2005-01-01,Terengganu,plywood,23697
+2006-01-01,Terengganu,plywood,18448
+2007-01-01,Terengganu,plywood,24382
+2008-01-01,Terengganu,plywood,10473
+2009-01-01,Terengganu,plywood,2731
+2010-01-01,Terengganu,plywood,5044
+2011-01-01,Terengganu,plywood,2671
+2019-01-01,Terengganu,plywood,604
+2000-01-01,Terengganu,sawn_timber,440917
+2001-01-01,Terengganu,sawn_timber,406371
+2002-01-01,Terengganu,sawn_timber,398336
+2003-01-01,Terengganu,sawn_timber,402450
+2004-01-01,Terengganu,sawn_timber,409651
+2005-01-01,Terengganu,sawn_timber,414927
+2006-01-01,Terengganu,sawn_timber,389558
+2007-01-01,Terengganu,sawn_timber,368139
+2008-01-01,Terengganu,sawn_timber,358308
+2009-01-01,Terengganu,sawn_timber,295529
+2010-01-01,Terengganu,sawn_timber,339548
+2011-01-01,Terengganu,sawn_timber,321042
+2012-01-01,Terengganu,sawn_timber,336662
+2013-01-01,Terengganu,sawn_timber,331332
+2014-01-01,Terengganu,sawn_timber,351726
+2015-01-01,Terengganu,sawn_timber,315476
+2016-01-01,Terengganu,sawn_timber,296654
+2017-01-01,Terengganu,sawn_timber,295111
+2018-01-01,Terengganu,sawn_timber,300178
+2019-01-01,Terengganu,sawn_timber,320342
+2020-01-01,Terengganu,sawn_timber,150544
+2021-01-01,Terengganu,sawn_timber,178240
+2000-01-01,Terengganu,veneer,140759
+2001-01-01,Terengganu,veneer,124098
+2002-01-01,Terengganu,veneer,129883
+2003-01-01,Terengganu,veneer,89530
+2004-01-01,Terengganu,veneer,67195
+2005-01-01,Terengganu,veneer,10074
+2006-01-01,Terengganu,veneer,4616
+2007-01-01,Terengganu,veneer,1095
+2017-01-01,Terengganu,veneer,1760
+2018-01-01,Terengganu,veneer,110
+2019-01-01,Terengganu,veneer,550
+2020-01-01,Terengganu,veneer,2487
+2021-01-01,Terengganu,veneer,2863

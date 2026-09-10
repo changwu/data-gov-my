@@ -1,0 +1,1361 @@
+app_id,app_name,app_os_platform,released,last_updated,shutdown,purpose
+7,MyFoodSafe,Android,2014-12-18,2015-04-03,,
+7,MyFoodSafe,Huawei,2014-12-18,2015-04-03,,
+7,MyFoodSafe,iOS,2014-12-18,2015-04-03,,
+9,MyHRMIS Mobile,Android,2014-12-18,2026-02-24,,Aplikasi MyHRMIS Mobile merupakan aplikasi mudah alih terbaharu JPA
+9,MyHRMIS Mobile,Huawei,2014-12-18,2026-02-24,,Aplikasi MyHRMIS Mobile merupakan aplikasi mudah alih terbaharu JPA
+9,MyHRMIS Mobile,iOS,2014-12-18,2026-02-24,,Aplikasi MyHRMIS Mobile merupakan aplikasi mudah alih terbaharu JPA
+15,myJakim,Android,2014-12-22,2014-12-22,,
+15,myJakim,iOS,2014-12-22,2014-12-22,,
+19,mySPAD,Android,2014-12-23,2015-04-21,,
+19,mySPAD,iOS,2014-12-23,2015-04-21,,
+21,myHealth,Android,2015-02-10,2015-04-21,,
+21,myHealth,iOS,2015-02-10,2015-04-21,,
+23,myKPDNKK,Android,2015-02-11,2015-02-11,,
+23,myKPDNKK,iOS,2015-02-11,2015-02-11,,
+27,1MOCC@Labuan,Android,2015-04-15,2015-04-15,,
+29,SELAWAT,Android,2015-04-20,2015-04-21,,
+31,myGiN,iOS,2015-04-20,2015-04-20,,
+33,myMahtas,Android,2015-04-21,2020-04-03,,
+33,myMahtas,iOS,2015-04-21,2020-04-03,,
+35,myCuaca,Android,2015-04-21,2024-10-11,,myCuaca oleh Jabatan Meteorologi Malaysia
+35,myCuaca,Huawei,2015-04-21,2024-10-11,,myCuaca oleh Jabatan Meteorologi Malaysia
+35,myCuaca,iOS,2015-04-21,2024-10-11,,myCuaca oleh Jabatan Meteorologi Malaysia
+39,NRE Malaysia Eco-Park,Android,2015-04-21,2015-04-21,,
+39,NRE Malaysia Eco-Park,iOS,2015-04-21,2015-04-21,,
+49,Harga Getah,Android,2015-06-09,2019-11-15,,
+55,GovDirec,iOS,2015-06-22,2015-06-22,,
+57,iMonitor,Android,2015-07-07,2015-07-07,,
+75,DocDx,Android,2015-08-17,2016-05-17,,
+75,DocDx,Huawei,2015-08-17,2016-05-17,,
+75,DocDx,iOS,2015-08-17,2016-05-17,,
+91,MeterOn,Android,2015-10-29,2015-10-29,,
+91,MeterOn,iOS,2015-10-29,2015-10-29,,
+93,KEDAH,Android,2015-11-03,,,
+93,KEDAH,iOS,2015-11-03,,,
+113,NRE*CIA,Android,2015-11-19,2015-11-19,,
+113,NRE*CIA,iOS,2015-11-19,2015-11-19,,
+119,MARDI Tek. Kambing Pedaging,Android,2015-12-22,2023-08-15,2023-08-15,MARDI membangunkan aplikasi ini untuk menyalurkan pengetahuan asas berkaitan penternakan kambing di samping memberi bimbingan dalam aspek pengeluaran kambing.
+119,MARDI Tek. Kambing Pedaging,Huawei,2015-12-22,2023-08-15,2023-08-15,MARDI membangunkan aplikasi ini untuk menyalurkan pengetahuan asas berkaitan penternakan kambing di samping memberi bimbingan dalam aspek pengeluaran kambing.
+119,MARDI Tek. Kambing Pedaging,iOS,2015-12-22,2023-08-15,2023-08-15,MARDI membangunkan aplikasi ini untuk menyalurkan pengetahuan asas berkaitan penternakan kambing di samping memberi bimbingan dalam aspek pengeluaran kambing.
+121,MARDI Teknologi Lebah Kelulut,Android,2015-12-22,2023-08-15,2023-08-15,Program penyelidikan dan pembangunan teknologi penternakan lebah kelulut
+121,MARDI Teknologi Lebah Kelulut,Huawei,2015-12-22,2023-08-15,2023-08-15,Program penyelidikan dan pembangunan teknologi penternakan lebah kelulut
+121,MARDI Teknologi Lebah Kelulut,iOS,2015-12-22,2023-08-15,2023-08-15,Program penyelidikan dan pembangunan teknologi penternakan lebah kelulut
+123,MARDI Direktori Usahawan,Android,2015-12-22,2017-12-19,,
+125,MARDI Penanaman Cendawan Tiram,Android,2015-12-24,2023-08-15,2023-08-15,Aplikasi ini dibangunkan oleh MARDI sebagai panduan permulaan bagi sesiapa yang berminat untuk mendapatkan maklumat berkaitan penanaman cendawan tiram kelabu.
+125,MARDI Penanaman Cendawan Tiram,Huawei,2015-12-24,2023-08-15,2023-08-15,Aplikasi ini dibangunkan oleh MARDI sebagai panduan permulaan bagi sesiapa yang berminat untuk mendapatkan maklumat berkaitan penanaman cendawan tiram kelabu.
+125,MARDI Penanaman Cendawan Tiram,iOS,2015-12-24,2023-08-15,2023-08-15,Aplikasi ini dibangunkan oleh MARDI sebagai panduan permulaan bagi sesiapa yang berminat untuk mendapatkan maklumat berkaitan penanaman cendawan tiram kelabu.
+127,MARDI Fertigasi Cili,Android,2015-12-24,2023-08-21,2023-08-15,
+127,MARDI Fertigasi Cili,Huawei,2015-12-24,2023-08-21,2023-08-15,
+127,MARDI Fertigasi Cili,iOS,2015-12-24,2023-08-21,2023-08-15,
+129,MARDI Fertigasi Melon,Android,2015-12-24,2015-12-24,2023-08-15,
+131,MARDI Hidroponik Salad,Android,2015-12-24,2023-08-23,2023-08-15,
+131,MARDI Hidroponik Salad,Huawei,2015-12-24,2023-08-23,2023-08-15,
+131,MARDI Hidroponik Salad,iOS,2015-12-24,2023-08-23,2023-08-15,
+133,MARDI Padi Aerob,Android,2015-12-24,2023-08-23,2023-08-15,
+133,MARDI Padi Aerob,Huawei,2015-12-24,2023-08-23,2023-08-15,
+133,MARDI Padi Aerob,iOS,2015-12-24,2023-08-23,2023-08-15,
+135,MARDI Green Pharmacy,Android,2015-12-24,2025-04-29,,MARDI Green Pharmacy
+135,MARDI Green Pharmacy,Huawei,2015-12-24,2025-04-29,,MARDI Green Pharmacy
+135,MARDI Green Pharmacy,iOS,2015-12-24,2025-04-29,,MARDI Green Pharmacy
+137,MARDI Fertigasi Tomato,Android,2015-12-24,2023-08-21,2023-08-15,
+137,MARDI Fertigasi Tomato,Huawei,2015-12-24,2023-08-21,2023-08-15,
+137,MARDI Fertigasi Tomato,iOS,2015-12-24,2023-08-21,2023-08-15,
+141,Ez ADU KPDNHEP,Android,2015-12-24,2020-04-15,,
+141,Ez ADU KPDNHEP,iOS,2015-12-24,2020-04-15,,
+143,MARDI Penternakan Ayam Kampung,Android,2016-01-08,2023-08-15,2023-08-15,
+143,MARDI Penternakan Ayam Kampung,Huawei,2016-01-08,2023-08-15,2023-08-15,
+143,MARDI Penternakan Ayam Kampung,iOS,2016-01-08,2023-08-15,2023-08-15,
+145,MARDI Cendawan Tiram Kelabu,Android,2016-01-08,2023-08-21,2023-08-15,
+145,MARDI Cendawan Tiram Kelabu,Huawei,2016-01-08,2023-08-21,2023-08-15,
+145,MARDI Cendawan Tiram Kelabu,iOS,2016-01-08,2023-08-21,2023-08-15,
+147,MARDI DoktorCili,Android,2016-01-08,2025-02-19,,"Aplikasi mudah alih Diagnosa Penyakit dan Serangga Perosak Cili dan juga panduan kepada pengguna untuk mengenalpasti penyakit, cara pengawalan dan cara pengurusan tanaman dengan betul."
+147,MARDI DoktorCili,Huawei,2016-01-08,2025-02-19,,"Aplikasi mudah alih Diagnosa Penyakit dan Serangga Perosak Cili dan juga panduan kepada pengguna untuk mengenalpasti penyakit, cara pengawalan dan cara pengurusan tanaman dengan betul."
+147,MARDI DoktorCili,iOS,2016-01-08,2025-02-19,,"Aplikasi mudah alih Diagnosa Penyakit dan Serangga Perosak Cili dan juga panduan kepada pengguna untuk mengenalpasti penyakit, cara pengawalan dan cara pengurusan tanaman dengan betul."
+149,MARDI MyKonsultan,Android,2016-01-08,2023-08-21,2023-08-15,
+149,MARDI MyKonsultan,Huawei,2016-01-08,2023-08-21,2023-08-15,
+149,MARDI MyKonsultan,iOS,2016-01-08,2023-08-21,2023-08-15,
+159,MOHR iSTATS,Android,2016-01-08,2020-04-15,,
+159,MOHR iSTATS,iOS,2016-01-08,2020-04-15,,
+161,i-Pesara,Android,2016-01-08,2016-01-08,,
+163,RELA Mobile,Android,2016-01-10,2019-11-15,,Sistem Pengurusan Maklumat RELA merupakan satu sistem bersepadu yang menyediakan
+165,m-PQ,Android,2016-01-10,2016-09-27,,Sistem m-PQ
+165,m-PQ,Huawei,2016-01-10,2016-09-27,,Sistem m-PQ
+165,m-PQ,iOS,2016-01-10,2016-09-27,,Sistem m-PQ
+167,CAMS AGC,Android,2016-01-12,2019-04-02,,
+167,CAMS AGC,iOS,2016-01-12,2019-04-02,,
+169,PgGOV SMP,Android,2016-01-18,2016-10-10,,
+169,PgGOV SMP,iOS,2016-01-18,2016-10-10,,
+171,AppSejahtera,Android,2016-01-21,2018-08-04,,
+171,AppSejahtera,Huawei,2016-01-21,2018-08-04,,
+171,AppSejahtera,iOS,2016-01-21,2018-08-04,,
+101,eLatihan Perikanan 1.0,Android,2016-01-27,2016-01-27,2022-07-15,
+101,eLatihan Perikanan 1.0,iOS,2016-01-27,2016-01-27,2022-07-15,
+103,My Ujana,Android,2016-01-27,2024-12-13,,My Ujana merupakan aplikasi bagi membuat carian taman berdekatan anda.
+103,My Ujana,Huawei,2016-01-27,2024-12-13,,My Ujana merupakan aplikasi bagi membuat carian taman berdekatan anda.
+103,My Ujana,iOS,2016-01-27,2024-12-13,,My Ujana merupakan aplikasi bagi membuat carian taman berdekatan anda.
+105,mySPAv2,Android,2016-01-27,2016-01-27,,
+105,mySPAv2,iOS,2016-01-27,2016-01-27,,
+107,eLesen Perikanan 1.0,Android,2016-01-27,2020-04-10,2022-07-15,
+107,eLesen Perikanan 1.0,iOS,2016-01-27,2020-04-10,2022-07-15,
+109,NRE ECO PARK,Android,2016-01-27,2020-04-15,,
+109,NRE ECO PARK,iOS,2016-01-27,2020-04-15,,
+11,MyHRMISProfile,Android,2016-01-27,2016-06-07,2022-08-10,
+11,MyHRMISProfile,iOS,2016-01-27,2016-06-07,2022-08-10,
+111,PUSTAKA MEDIA NRE,Android,2016-01-27,2016-01-27,,
+111,PUSTAKA MEDIA NRE,iOS,2016-01-27,2016-01-27,,
+115,JPA4U Mobile,Android,2016-01-27,2016-05-04,2023-03-20,"inovasi baharu yang dibangunkan oleh JPA untuk memaparkan ikon-ikon MyHrmis Mobile, i-Pesara, Sistem Penilaian 3600, Portal JPA, Direktori JPA, Pekeliling, Facebook JPA dan Twitter JPA untuk penjawat awam, pesara dan orang awam."
+115,JPA4U Mobile,Huawei,2016-01-27,2016-05-04,2023-03-20,"inovasi baharu yang dibangunkan oleh JPA untuk memaparkan ikon-ikon MyHrmis Mobile, i-Pesara, Sistem Penilaian 3600, Portal JPA, Direktori JPA, Pekeliling, Facebook JPA dan Twitter JPA untuk penjawat awam, pesara dan orang awam."
+115,JPA4U Mobile,iOS,2016-01-27,2016-05-04,2023-03-20,"inovasi baharu yang dibangunkan oleh JPA untuk memaparkan ikon-ikon MyHrmis Mobile, i-Pesara, Sistem Penilaian 3600, Portal JPA, Direktori JPA, Pekeliling, Facebook JPA dan Twitter JPA untuk penjawat awam, pesara dan orang awam."
+117,eBiosekuriti,Android,2016-01-27,2016-01-27,,
+117,eBiosekuriti,iOS,2016-01-27,2016-01-27,,
+139,eAkuakultur,Android,2016-01-27,2016-01-27,,
+139,eAkuakultur,iOS,2016-01-27,2016-01-27,,
+43,1AKSES,Android,2016-01-27,2016-01-27,,
+43,1AKSES,iOS,2016-01-27,2016-01-27,,
+45,Melaka Response,Android,2016-01-27,2016-01-27,,
+45,Melaka Response,iOS,2016-01-27,2016-01-27,,
+47,MyRaja,Android,2016-01-27,2016-01-27,,
+47,MyRaja,iOS,2016-01-27,2016-01-27,,
+51,MyHRMIS eGL,Android,2016-01-27,2019-10-10,2022-08-10,
+51,MyHRMIS eGL,iOS,2016-01-27,2019-10-10,2022-08-10,
+53,myREF,Android,2016-01-27,2016-01-27,,
+59,GPKI Mobile,Android,2016-01-27,2026-01-28,,GPKI Mobile adalah aplikasi mudah alih bagi Perkhidmatan MyGPKI
+59,GPKI Mobile,Huawei,2016-01-27,2026-01-28,,GPKI Mobile adalah aplikasi mudah alih bagi Perkhidmatan MyGPKI
+59,GPKI Mobile,iOS,2016-01-27,2026-01-28,,GPKI Mobile adalah aplikasi mudah alih bagi Perkhidmatan MyGPKI
+69,SKUAD ANTIDADAH,Huawei,2016-01-27,,2025-06-20,Sistem pengurusan sukarelawan anti-dadah AADK
+69,SKUAD ANTIDADAH,Android,2016-01-27,,,"SKUAD AADK, aadk, antidadah, skuad"
+69,SKUAD ANTIDADAH,iOS,2016-01-27,,,"SKUAD AADK, aadk, antidadah, skuad"
+73,Mobile JPN,Android,2016-01-27,2019-06-19,,
+73,Mobile JPN,Huawei,2016-01-27,2019-06-19,,
+73,Mobile JPN,iOS,2016-01-27,2019-06-19,,
+77,GAMMA.my,Android,2016-01-27,2025-04-15,,
+77,GAMMA.my,Huawei,2016-01-27,2025-04-15,,
+77,GAMMA.my,iOS,2016-01-27,2025-04-15,,
+79,Info KKTM/IKM,Android,2016-01-27,2016-05-04,,
+83,myPUSPANITA,Android,2016-01-27,2016-01-27,,
+83,myPUSPANITA,iOS,2016-01-27,2016-01-27,,
+85,Weekly Bulletin,Android,2016-01-27,2019-04-03,,
+85,Weekly Bulletin,iOS,2016-01-27,2019-04-03,,
+87,PrihatinKPKT,Android,2016-01-27,,,
+89,i-Kepoh,Android,2016-01-27,2016-01-27,,
+89,i-Kepoh,iOS,2016-01-27,2016-01-27,,
+173,EPSM CLICKS,Android,2016-02-14,2019-08-06,,
+173,EPSM CLICKS,iOS,2016-02-14,2019-08-06,,
+177,MyProcurement,Android,2016-02-15,2016-02-15,,
+177,MyProcurement,iOS,2016-02-15,2016-02-15,,
+179,EPSM CLICKS PENYELARAS,Android,2016-02-15,2019-08-06,,
+179,EPSM CLICKS PENYELARAS,iOS,2016-02-15,2019-08-06,,
+181,eMAPS,Android,2016-02-16,2016-02-16,,
+181,eMAPS,iOS,2016-02-16,2016-02-16,,
+183,MACCMobile,Android,2016-03-03,2024-12-02,,MACCMobile adalah satu alternatif kepada orang ramai untuk menyalurkan maklumat rasuah kepada Suruhanjaya Pencegah Rasuah Malaysia(SPRM).
+183,MACCMobile,Huawei,2016-03-03,2024-12-02,,MACCMobile adalah satu alternatif kepada orang ramai untuk menyalurkan maklumat rasuah kepada Suruhanjaya Pencegah Rasuah Malaysia(SPRM).
+183,MACCMobile,iOS,2016-03-03,2024-12-02,,MACCMobile adalah satu alternatif kepada orang ramai untuk menyalurkan maklumat rasuah kepada Suruhanjaya Pencegah Rasuah Malaysia(SPRM).
+185,myMQR,Android,2016-03-17,2025-02-25,,
+185,myMQR,Huawei,2016-03-17,2025-02-25,,
+185,myMQR,iOS,2016-03-17,2025-02-25,,
+187,eScienceFund,Android,2016-03-24,2016-03-24,,
+187,eScienceFund,iOS,2016-03-24,2016-03-24,,
+189,SEMAK T4 SBP,Android,2016-03-29,2016-03-29,,
+191,eTukarBukanGuru,Android,2016-04-04,2017-12-19,,
+191,eTukarBukanGuru,iOS,2016-04-04,2017-12-19,,
+193,myMOTAC,Android,2016-04-05,2019-04-02,,
+193,myMOTAC,iOS,2016-04-05,2019-04-02,,
+195,KWP Pocket Dir,Android,2016-04-06,,,
+195,KWP Pocket Dir,iOS,2016-04-06,,,
+197,eKehadiran Murid,Android,2016-04-07,2017-12-14,,
+197,eKehadiran Murid,iOS,2016-04-07,2017-12-14,,
+199,MyHargaTani,Android,2016-04-19,2019-06-19,,
+199,MyHargaTani,Huawei,2016-04-19,2019-06-19,,
+199,MyHargaTani,iOS,2016-04-19,2019-06-19,,
+203,myFoodPremis,Android,2016-04-19,2019-06-19,,
+203,myFoodPremis,iOS,2016-04-19,2019-06-19,,
+205,My EBelia,Android,2016-04-20,2016-04-20,,
+205,My EBelia,iOS,2016-04-20,2016-04-20,,
+209,iDengue,Android,2016-05-03,2016-05-03,,
+209,iDengue,iOS,2016-05-03,2016-05-03,,
+211,Paparan Harga,Android,2016-05-03,2016-05-03,,
+211,Paparan Harga,iOS,2016-05-03,2016-05-03,,
+213,Carian Istilah,Android,2016-05-04,2016-05-04,,
+213,Carian Istilah,iOS,2016-05-04,2016-05-04,,
+217,MySWCorp,Android,2016-05-06,2019-08-06,,
+217,MySWCorp,iOS,2016-05-06,2019-08-06,,
+219,Buletin MAMPU,Android,2016-05-17,2016-05-17,,
+219,Buletin MAMPU,iOS,2016-05-17,2016-05-17,,
+221,NRE Direktori,Android,2016-05-19,2016-05-19,,
+221,NRE Direktori,iOS,2016-05-19,2016-05-19,,
+223,Rakyat Responz,Android,2016-05-21,2016-05-21,,
+223,Rakyat Responz,iOS,2016-05-21,2016-05-21,,
+225,PKB Publication,Android,2016-05-27,2017-01-13,,
+225,PKB Publication,iOS,2016-05-27,2017-01-13,,
+227,Semak Aset PKB,Android,2016-05-27,2017-02-01,,
+227,Semak Aset PKB,iOS,2016-05-27,2017-02-01,,
+229,VSP,Android,2016-05-27,2018-05-24,2024-05-15,
+229,VSP,Huawei,2016-05-27,2018-05-24,2024-05-15,
+229,VSP,iOS,2016-05-27,2018-05-24,2024-05-15,
+231,PgGOV SUKMA,Android,2016-06-03,2018-09-07,,
+231,PgGOV SUKMA,iOS,2016-06-03,2018-09-07,,
+233,Hubungi PDC,Android,2016-06-03,2018-05-24,,
+233,Hubungi PDC,iOS,2016-06-03,2018-05-24,,
+235,mICMAS,Android,2016-06-06,2016-06-06,,
+235,mICMAS,iOS,2016-06-06,2016-06-06,,
+239,Aduan Jalan KKR,Android,2016-06-07,2016-06-07,,
+239,Aduan Jalan KKR,iOS,2016-06-07,2016-06-07,,
+241,KedahiMAI,Android,2016-06-07,2016-06-07,,
+241,KedahiMAI,iOS,2016-06-07,2016-06-07,,
+243,1WPrice,Android,2016-06-07,2016-06-07,,
+243,1WPrice,iOS,2016-06-07,2016-06-07,,
+245,PgGOV Cukai Tanah,Android,2016-06-15,2016-06-15,,
+245,PgGOV Cukai Tanah,iOS,2016-06-15,2016-06-15,,
+249,PgGOV Sukan,Android,2016-06-15,2016-06-15,,
+249,PgGOV Sukan,iOS,2016-06-15,2016-06-15,,
+253,MyHRMIS Self Check,Android,2016-06-15,2016-06-15,2022-08-10,
+253,MyHRMIS Self Check,iOS,2016-06-15,2016-06-15,2022-08-10,
+255,PgGov Penang State Muzium,Android,2016-06-16,2016-06-21,,
+255,PgGov Penang State Muzium,iOS,2016-06-16,2016-06-21,,
+257,1MTC,Android,2016-06-23,2016-06-23,,
+257,1MTC,iOS,2016-06-23,2016-06-23,,
+259,PgGOV JPNPP,Android,2016-06-28,2016-06-28,,
+259,PgGOV JPNPP,iOS,2016-06-28,2016-06-28,,
+261,PgGOV i-Kit ICT,Android,2016-06-28,2019-04-02,,
+261,PgGOV i-Kit ICT,iOS,2016-06-28,2019-04-02,,
+265,PgGOV PBG,Android,2016-06-30,2016-10-14,,
+265,PgGOV PBG,iOS,2016-06-30,2016-10-14,,
+267,mySPA8i,Android,2016-07-13,2016-07-13,,
+267,mySPA8i,iOS,2016-07-13,2016-07-13,,
+269,KelGov JPS,Android,2016-07-15,2017-12-19,,
+269,KelGov JPS,iOS,2016-07-15,2017-12-19,,
+271,PgGov i-JKNPP,Android,2016-07-25,2019-04-03,,
+271,PgGov i-JKNPP,iOS,2016-07-25,2019-04-03,,
+273,PgGovStepJKSNPP,Android,2016-07-25,2016-07-25,,
+273,PgGovStepJKSNPP,iOS,2016-07-25,2016-07-25,,
+275,iKeTTHA,Android,2016-08-05,2016-08-05,,
+275,iKeTTHA,iOS,2016-08-05,2016-08-05,,
+277,myMAINPP,Android,2016-08-08,2019-04-02,,
+277,myMAINPP,iOS,2016-08-08,2019-04-02,,
+279,MyPTJ,Android,2016-08-10,2016-11-01,,
+279,MyPTJ,iOS,2016-08-10,2016-11-01,,
+281,MPPD,Android,2016-08-12,2020-11-19,,
+281,MPPD,iOS,2016-08-12,2020-11-19,,
+285,SITI@1MOCC,Android,2016-08-16,2016-08-16,,
+285,SITI@1MOCC,iOS,2016-08-16,2016-08-16,,
+289,KG BHARU FOOD HAVEN,Android,2016-08-24,2016-09-02,,
+289,KG BHARU FOOD HAVEN,iOS,2016-08-24,2016-09-02,,
+291,Eresults,Android,2016-09-22,2016-10-06,,
+291,Eresults,iOS,2016-09-22,2016-10-06,,
+293,myUPWK,Android,2016-09-22,2020-04-09,,
+293,myUPWK,iOS,2016-09-22,2020-04-09,,
+295,MyPG,Android,2016-09-29,2017-03-27,,
+297,MTS2U,Android,2016-10-11,2016-11-29,,
+297,MTS2U,iOS,2016-10-11,2016-11-29,,
+299,OSH Accident Cost Calculator,Android,2016-10-14,2020-04-09,,
+303,myUTHM,Android,2016-10-27,2019-04-23,,
+303,myUTHM,Huawei,2016-10-27,2019-04-23,,
+303,myUTHM,iOS,2016-10-27,2019-04-23,,
+307,eKeberadaan Guru,Android,2016-11-10,2017-02-23,,
+307,eKeberadaan Guru,iOS,2016-11-10,2017-02-23,,
+309,DBKL Mobis,Android,2016-11-15,2016-11-15,,
+311,Public Sector CIO Convex 2016,Android,2016-11-15,2016-11-15,,
+311,Public Sector CIO Convex 2016,iOS,2016-11-15,2016-11-15,,
+313,SciCOSH,Android,2016-11-15,2016-11-17,,
+313,SciCOSH,iOS,2016-11-15,2016-11-17,,
+315,MySisPPA,Android,2016-11-18,2019-04-02,,
+315,MySisPPA,iOS,2016-11-18,2019-04-02,,
+317,MyBlood,Android,2016-11-21,2016-11-21,,
+323,MyEconomic Data,Android,2016-12-09,2016-12-09,,
+323,MyEconomic Data,iOS,2016-12-09,2016-12-09,,
+325,myIMIv2,Android,2016-12-14,2020-11-23,,
+327,myJPM,Android,2016-12-30,2016-12-30,,
+327,myJPM,iOS,2016-12-30,2016-12-30,,
+329,SMA Yuran,Android,2017-01-13,2025-01-06,,Semakan status bayaran yuran pelajar SMAN
+329,SMA Yuran,Huawei,2017-01-13,2025-01-06,,Semakan status bayaran yuran pelajar SMAN
+329,SMA Yuran,iOS,2017-01-13,2025-01-06,,Semakan status bayaran yuran pelajar SMAN
+331,ePerumahan Pahang,Android,2017-01-13,2020-10-08,2025-04-29,
+331,ePerumahan Pahang,iOS,2017-01-13,2020-10-08,2025-04-29,
+333,JOM PANTAU,Android,2017-02-10,2018-05-24,2022-04-13,
+333,JOM PANTAU,iOS,2017-02-10,2018-05-24,2022-04-13,
+335,PDPK,Android,2017-02-17,2020-03-23,2022-04-18,Aplikasi mudah alih ini untuk Data Pekebun Kecil Malaysia
+335,PDPK,Huawei,2017-02-17,2020-03-23,2022-04-18,Aplikasi mudah alih ini untuk Data Pekebun Kecil Malaysia
+335,PDPK,iOS,2017-02-17,2020-03-23,2022-04-18,Aplikasi mudah alih ini untuk Data Pekebun Kecil Malaysia
+337,MyHarga MPI,Android,2017-02-17,2020-03-23,2022-12-22,
+337,MyHarga MPI,Huawei,2017-02-17,2020-03-23,2022-12-22,
+337,MyHarga MPI,iOS,2017-02-17,2020-03-23,2022-12-22,
+339,MDKT GO,Android,2017-02-23,2019-04-02,,
+339,MDKT GO,iOS,2017-02-23,2019-04-02,,
+341,JUPEM MyRTKnet,Android,2017-02-23,2017-03-06,2023-03-06,"kemudahan  kepada pengguna mendapatkan maklumat ringkas mengenai seperti status dan maklumat stesen MyRTKnet, jenis cerapan yang ditawarkan dan pelbagai informasi ringkas yang boleh dicapai di mana – mana lokasi."
+341,JUPEM MyRTKnet,Huawei,2017-02-23,2017-03-06,2023-03-06,"kemudahan  kepada pengguna mendapatkan maklumat ringkas mengenai seperti status dan maklumat stesen MyRTKnet, jenis cerapan yang ditawarkan dan pelbagai informasi ringkas yang boleh dicapai di mana – mana lokasi."
+341,JUPEM MyRTKnet,iOS,2017-02-23,2017-03-06,2023-03-06,"kemudahan  kepada pengguna mendapatkan maklumat ringkas mengenai seperti status dan maklumat stesen MyRTKnet, jenis cerapan yang ditawarkan dan pelbagai informasi ringkas yang boleh dicapai di mana – mana lokasi."
+343,PEKA Kelantan,Android,2017-02-27,2017-03-10,,
+343,PEKA Kelantan,iOS,2017-02-27,2017-03-10,,
+355,JAWHAR Apps,Android,2017-03-02,2017-03-02,,
+355,JAWHAR Apps,iOS,2017-03-02,2017-03-02,,
+357,MyNRE,Android,2017-03-06,2017-03-06,,
+357,MyNRE,iOS,2017-03-06,2017-03-06,,
+359,SL1M,Android,2017-03-06,2017-03-06,,
+359,SL1M,iOS,2017-03-06,2017-03-06,,
+361,eJPBD Kelantan,Android,2017-03-15,2017-03-15,,
+361,eJPBD Kelantan,iOS,2017-03-15,2017-03-15,,
+363,iTender MinDef,Android,2017-03-23,2020-09-25,,Penyampaian perkhidmatan proses pengiklanan tender dan sebutharga MinDef
+363,iTender MinDef,Huawei,2017-03-23,2020-09-25,,Penyampaian perkhidmatan proses pengiklanan tender dan sebutharga MinDef
+363,iTender MinDef,iOS,2017-03-23,2020-09-25,,Penyampaian perkhidmatan proses pengiklanan tender dan sebutharga MinDef
+365,InfoBencanaJKM,Android,2017-03-23,2025-11-27,,Orang ramai/mangsa bencana boleh dapatkan maklumat pusat pemindahan bencana.
+365,InfoBencanaJKM,Huawei,2017-03-23,2025-11-27,,Orang ramai/mangsa bencana boleh dapatkan maklumat pusat pemindahan bencana.
+365,InfoBencanaJKM,iOS,2017-03-23,2025-11-27,,Orang ramai/mangsa bencana boleh dapatkan maklumat pusat pemindahan bencana.
+367,eParlimenKKLW,Android,2017-03-27,2017-04-21,,
+367,eParlimenKKLW,iOS,2017-03-27,2017-04-21,,
+369,NRE GO,Android,2017-03-30,2017-03-30,,
+369,NRE GO,iOS,2017-03-30,2017-03-30,,
+371,100 TIP TANAMAN,Android,2017-04-13,2023-11-27,,Aplikasi ini menampilkan 100 tip dan petua tanaman yang diolah secara ringkas dan padat.
+371,100 TIP TANAMAN,Huawei,2017-04-13,2023-11-27,,Aplikasi ini menampilkan 100 tip dan petua tanaman yang diolah secara ringkas dan padat.
+371,100 TIP TANAMAN,iOS,2017-04-13,2023-11-27,,Aplikasi ini menampilkan 100 tip dan petua tanaman yang diolah secara ringkas dan padat.
+373,AGRIMATHS,Android,2017-04-13,2023-11-27,,Ianya adalah adaptasi daripada buku ‘Asas Matematik Pertanian’ terbitan DOA
+373,AGRIMATHS,Huawei,2017-04-13,2023-11-27,,Ianya adalah adaptasi daripada buku ‘Asas Matematik Pertanian’ terbitan DOA
+373,AGRIMATHS,iOS,2017-04-13,2023-11-27,,Ianya adalah adaptasi daripada buku ‘Asas Matematik Pertanian’ terbitan DOA
+375,SEMAK SEMULA,Android,2017-04-15,2020-04-10,,
+375,SEMAK SEMULA,iOS,2017-04-15,2020-04-10,,
+377,MyHRMIS Care,Android,2017-04-26,2017-05-05,2022-08-10,
+377,MyHRMIS Care,iOS,2017-04-26,2017-05-05,2022-08-10,
+379,SUbyMPM,Android,2017-05-05,2017-05-12,,
+379,SUbyMPM,iOS,2017-05-05,2017-05-12,,
+381,Negaraku Bersih,Android,2017-05-26,2017-06-22,,
+381,Negaraku Bersih,iOS,2017-05-26,2017-06-22,,
+383,MyMPMclick,Android,2017-06-01,2019-06-07,,
+383,MyMPMclick,iOS,2017-06-01,2019-06-07,,
+385,SKALA MyProject,Android,2017-06-15,2019-01-02,,
+385,SKALA MyProject,Huawei,2017-06-15,2019-01-02,,
+385,SKALA MyProject,iOS,2017-06-15,2019-01-02,,
+387,ePuspal,Android,2017-06-15,2017-06-15,,
+389,K3M,Android,2017-06-19,2017-07-13,,
+389,K3M,iOS,2017-06-19,2017-07-13,,
+391,MARDI MyOnFarmFruits,Android,2017-07-09,2025-02-19,,"Aplikasi ini telah dibangunkan berdasarkan maklumat pencirian dan penilaian spesies buah-buahan daripada tiga genus iaitu Mangifera (mangga), Nephelium (rambutan) dan Garcinia (manggis) yang terdapat di halaman rumah atau kebun petani di enam kawasan yang"
+391,MARDI MyOnFarmFruits,Huawei,2017-07-09,2025-02-19,,"Aplikasi ini telah dibangunkan berdasarkan maklumat pencirian dan penilaian spesies buah-buahan daripada tiga genus iaitu Mangifera (mangga), Nephelium (rambutan) dan Garcinia (manggis) yang terdapat di halaman rumah atau kebun petani di enam kawasan yang"
+391,MARDI MyOnFarmFruits,iOS,2017-07-09,2025-02-19,,"Aplikasi ini telah dibangunkan berdasarkan maklumat pencirian dan penilaian spesies buah-buahan daripada tiga genus iaitu Mangifera (mangga), Nephelium (rambutan) dan Garcinia (manggis) yang terdapat di halaman rumah atau kebun petani di enam kawasan yang"
+393,MARDI MyKompos,Android,2017-07-09,2023-08-15,2023-08-15,Aplikasi  yang memaparkan maklumat berkaitan proses penguraian (pengoksidaan) sisa buangan organik kepada bahan akhir yang stabil yang boleh digunakan semula untuk tanaman.
+393,MARDI MyKompos,Huawei,2017-07-09,2023-08-15,2023-08-15,Aplikasi  yang memaparkan maklumat berkaitan proses penguraian (pengoksidaan) sisa buangan organik kepada bahan akhir yang stabil yang boleh digunakan semula untuk tanaman.
+393,MARDI MyKompos,iOS,2017-07-09,2023-08-15,2023-08-15,Aplikasi  yang memaparkan maklumat berkaitan proses penguraian (pengoksidaan) sisa buangan organik kepada bahan akhir yang stabil yang boleh digunakan semula untuk tanaman.
+395,MARDI MyPerosakPadi,Android,2017-07-09,2025-02-25,,"Aplikasi mudah alih ini bertujuan untuk memberikan sedikit maklumat kepada petani tentang bagaimana untuk mengenal dan mengurus perosak, penyakit mahupun rumpai di sawah padi supaya hasil tanaman dapat ditingkatkan."
+395,MARDI MyPerosakPadi,Huawei,2017-07-09,2025-02-25,,"Aplikasi mudah alih ini bertujuan untuk memberikan sedikit maklumat kepada petani tentang bagaimana untuk mengenal dan mengurus perosak, penyakit mahupun rumpai di sawah padi supaya hasil tanaman dapat ditingkatkan."
+395,MARDI MyPerosakPadi,iOS,2017-07-09,2025-02-25,,"Aplikasi mudah alih ini bertujuan untuk memberikan sedikit maklumat kepada petani tentang bagaimana untuk mengenal dan mengurus perosak, penyakit mahupun rumpai di sawah padi supaya hasil tanaman dapat ditingkatkan."
+397,COSH NIOSH,Android,2017-07-20,2017-09-16,,
+397,COSH NIOSH,iOS,2017-07-20,2017-09-16,,
+399,MyMTCP,Android,2017-07-20,2019-04-02,,
+399,MyMTCP,iOS,2017-07-20,2019-04-02,,
+401,Kualiti JPNT,Android,2017-08-03,2017-09-05,,
+401,Kualiti JPNT,iOS,2017-08-03,2017-09-05,,
+403,infoQJPN,Android,2017-08-17,2020-04-01,,
+403,infoQJPN,iOS,2017-08-17,2020-04-01,,
+405,InfoJPJ 2.0,Android,2017-08-18,2019-07-01,2023-09-13,Carian info perkhidmatan oleh JPJ
+405,InfoJPJ 2.0,Huawei,2017-08-18,2019-07-01,2023-09-13,Carian info perkhidmatan oleh JPJ
+405,InfoJPJ 2.0,iOS,2017-08-18,2019-07-01,2023-09-13,Carian info perkhidmatan oleh JPJ
+409,BizCode@Stats,Android,2017-08-25,,,
+409,BizCode@Stats,Huawei,2017-08-25,,,
+409,BizCode@Stats,iOS,2017-08-25,,,
+411,NPSP,Android,2017-09-05,2017-10-11,,
+411,NPSP,iOS,2017-09-05,2017-10-11,,
+413,MySPR Semak,Android,2017-09-18,2024-08-09,,SEMAKAN DAFTAR PEMILIH
+413,MySPR Semak,Huawei,2017-09-18,2024-08-09,,SEMAKAN DAFTAR PEMILIH
+413,MySPR Semak,iOS,2017-09-18,2024-08-09,,SEMAKAN DAFTAR PEMILIH
+415,eKehakiman,Android,2017-09-18,2023-09-21,,Update SDK
+415,eKehakiman,Huawei,2017-09-18,2023-09-21,,Update SDK
+415,eKehakiman,iOS,2017-09-18,2023-09-21,,Update SDK
+417,Public Sector CIO Convex 2017,Android,2017-09-25,2017-09-25,,
+417,Public Sector CIO Convex 2017,iOS,2017-09-25,2017-09-25,,
+419,iTegur Action,Android,2017-09-29,2019-03-05,2024-12-04,kemudahan mengemaskini maklum balas aduan oleh PBT kepada pengadu secara mobile
+419,iTegur Action,Huawei,2017-09-29,2019-03-05,2024-12-04,kemudahan mengemaskini maklum balas aduan oleh PBT kepada pengadu secara mobile
+419,iTegur Action,iOS,2017-09-29,2019-03-05,2024-12-04,kemudahan mengemaskini maklum balas aduan oleh PBT kepada pengadu secara mobile
+421,MyPraSekolah,Android,2017-09-29,2017-10-02,,
+421,MyPraSekolah,iOS,2017-09-29,2017-10-02,,
+423,PgGOV iBITA,Android,2017-10-11,2017-11-23,,
+423,PgGOV iBITA,iOS,2017-10-11,2017-11-23,,
+433,PgGOV eMUFTI,Android,2017-10-11,2017-12-22,,
+435,TaPP n Go,Android,2017-10-17,2018-10-02,,
+435,TaPP n Go,Huawei,2017-10-17,2018-10-02,,
+435,TaPP n Go,iOS,2017-10-17,2018-10-02,,
+437,STPMbyMPM,Android,2017-10-19,2017-10-19,,
+439,MySenaraiSyak,Android,2017-10-19,2020-04-09,,
+441,GoRail,Android,2017-11-01,2017-11-02,,
+441,GoRail,iOS,2017-11-01,2017-11-02,,
+443,NIC 2017,Android,2017-11-07,2017-11-07,,
+445,Pontian Tourism,Android,2017-11-21,2018-01-15,,
+445,Pontian Tourism,iOS,2017-11-21,2018-01-15,,
+447,Mobile app EZStar,Android,2017-11-27,2019-04-03,,
+449,TEKUN Payment Channel,Android,2017-11-27,,,
+451,Friends Of KPDNKK,Android,2017-11-27,2017-11-27,,
+453,PGGOV EPP,Android,2017-11-27,2017-11-27,,
+457,rtmklik,Android,2017-11-27,2017-11-27,,
+457,rtmklik,iOS,2017-11-27,2017-11-27,,
+459,MyKira GST,Android,2017-11-27,2017-11-27,,
+461,myNilaian Tanah Kelantan,Android,2017-11-27,2017-11-27,,
+463,Price Catcher,Android,2017-11-27,2025-02-27,,
+463,Price Catcher,Huawei,2017-11-27,2025-02-27,,
+463,Price Catcher,iOS,2017-11-27,2025-02-27,,
+465,MyMAIK eZakat Payment,Android,2017-11-27,,,
+465,MyMAIK eZakat Payment,Huawei,2017-11-27,,,
+465,MyMAIK eZakat Payment,iOS,2017-11-27,,,
+471,MyNutriDiari,Android,2017-11-27,2017-11-27,,
+473,SelGOV Cukai Tanah,Android,2017-11-27,2017-11-27,,
+473,SelGOV Cukai Tanah,iOS,2017-11-27,2017-11-27,,
+475,STA 2010 Items,Android,2017-11-27,2017-11-27,,
+475,STA 2010 Items,iOS,2017-11-27,2017-11-27,,
+477,MITI FTA Tariff Calculator,Android,2017-11-27,2017-11-27,,
+477,MITI FTA Tariff Calculator,iOS,2017-11-27,2017-11-27,,
+479,SPP,Android,2017-12-07,,,
+481,MCG Info,Android,2017-12-12,2020-08-10,2024-08-21,iPRP Mobile adalah aplikasi untuk membantu pemantau mengemaskini dan memantau status projek. Aplikasi ini merupakan saluran alternatif penyampaian maklumat daripada agensi kepada seluruh rakyat Malaysia.
+481,MCG Info,Huawei,2017-12-12,2020-08-10,2024-08-21,iPRP Mobile adalah aplikasi untuk membantu pemantau mengemaskini dan memantau status projek. Aplikasi ini merupakan saluran alternatif penyampaian maklumat daripada agensi kepada seluruh rakyat Malaysia.
+481,MCG Info,iOS,2017-12-12,2020-08-10,2024-08-21,iPRP Mobile adalah aplikasi untuk membantu pemantau mengemaskini dan memantau status projek. Aplikasi ini merupakan saluran alternatif penyampaian maklumat daripada agensi kepada seluruh rakyat Malaysia.
+483,EMPOWER OSH,Android,2017-12-12,2020-08-10,,
+483,EMPOWER OSH,iOS,2017-12-12,2020-08-10,,
+485,MyPBPPP,Android,2017-12-13,2019-01-30,,
+485,MyPBPPP,iOS,2017-12-13,2019-01-30,,
+487,MySales Tracker,Android,2017-12-21,2025-03-21,,MST mengemukakan maklumat jualan murah yang telah dimohon melalui KPDN.
+487,MySales Tracker,Huawei,2017-12-21,2025-03-21,,MST mengemukakan maklumat jualan murah yang telah dimohon melalui KPDN.
+487,MySales Tracker,iOS,2017-12-21,2025-03-21,,MST mengemukakan maklumat jualan murah yang telah dimohon melalui KPDN.
+489,MuftiJohorApps,Android,2017-12-27,2017-12-27,,
+491,MyeTaPP,Android,2018-01-03,2018-01-03,,
+491,MyeTaPP,Huawei,2018-01-03,2018-01-03,,
+491,MyeTaPP,iOS,2018-01-03,2018-01-03,,
+493,eLPv1,Android,2018-01-15,2020-10-08,,
+493,eLPv1,Huawei,2018-01-15,2020-10-08,,
+497,MySaham2u-AppGen,Android,2018-01-22,2018-01-22,,
+499,MySPR Laporan KTM,Huawei,2018-01-29,2018-04-06,2023-11-21,APLIKASI KEGUNAAN KETUA TEMPAT MENGUNDI YANG TELAH DIDAFTARKAN OLEH SPR.
+499,MySPR Laporan KTM,iOS,2018-01-29,2018-04-06,2023-11-21,APLIKASI KEGUNAAN KETUA TEMPAT MENGUNDI YANG TELAH DIDAFTARKAN OLEH SPR.
+499,MySPR Laporan KTM,Android,2018-01-29,2018-04-06,,APLIKASI KEGUNAAN KETUA TEMPAT MENGUNDI YANG TELAH DIDAFTARKAN OLEH SPR.
+505,UPUPocket,Android,2018-01-29,2026-03-03,,UPUPocket
+505,UPUPocket,Huawei,2018-01-29,2026-03-03,,UPUPocket
+505,UPUPocket,iOS,2018-01-29,2026-03-03,,UPUPocket
+507,1NRECC,Android,2018-02-08,2018-02-08,,
+507,1NRECC,iOS,2018-02-08,2018-02-08,,
+509,MyCukai,Android,2018-03-12,,,
+509,MyCukai,Huawei,2018-03-12,,,
+509,MyCukai,iOS,2018-03-12,,,
+513,KenaliUbat Anda,Android,2018-03-16,2018-03-16,,
+515,e-Fatwa Wilayah Persekutuan,Android,2018-03-19,2018-03-21,,
+517,MyKonsular,Android,2018-04-18,2018-05-23,,
+519,HR@MITI,Android,2018-07-19,2018-07-19,,
+519,HR@MITI,Huawei,2018-07-19,2018-07-19,,
+519,HR@MITI,iOS,2018-07-19,2018-07-19,,
+521,MCG Hadir,Android,2018-07-31,2026-01-09,,Aplikasi yang menguruskan maklumat kehadiran anggota-anggota APMM secara digital
+521,MCG Hadir,Huawei,2018-07-31,2026-01-09,,Aplikasi yang menguruskan maklumat kehadiran anggota-anggota APMM secara digital
+521,MCG Hadir,iOS,2018-07-31,2026-01-09,,Aplikasi yang menguruskan maklumat kehadiran anggota-anggota APMM secara digital
+523,Trade2Media,Android,2018-09-04,2018-09-04,2022-11-10,
+523,Trade2Media,iOS,2018-09-04,2018-09-04,2022-11-10,
+529,MyExport,Android,2018-09-04,2018-09-04,2022-11-10,
+529,MyExport,iOS,2018-09-04,2018-09-04,2022-11-10,
+531,FAHAM FIQH AL-AQSA,Android,2018-09-05,2018-09-05,,
+531,FAHAM FIQH AL-AQSA,Huawei,2018-09-05,2018-09-05,,
+531,FAHAM FIQH AL-AQSA,iOS,2018-09-05,2018-09-05,,
+537,DRSNPP2030,Android,2018-09-12,2020-03-31,,
+539,COMBIS,Android,2018-09-19,2018-09-20,,
+539,COMBIS,Huawei,2018-09-19,2018-09-20,,
+539,COMBIS,iOS,2018-09-19,2018-09-20,,
+541,iMelaka,Android,2018-09-19,2018-09-19,,
+543,eLatihan KPDNHEP,Android,2018-09-20,2018-09-20,,
+545,K-TEK,Android,2018-09-20,2020-04-02,,
+545,K-TEK,Huawei,2018-09-20,2020-04-02,,
+545,K-TEK,iOS,2018-09-20,2020-04-02,,
+547,MCG News,Android,2018-09-26,2018-11-28,,
+547,MCG News,Huawei,2018-09-26,2018-11-28,,
+547,MCG News,iOS,2018-09-26,2018-11-28,,
+549,Public Sector CIO Convex (PSCC),Android,2018-11-01,2020-04-10,,
+549,Public Sector CIO Convex (PSCC),Huawei,2018-11-01,2020-04-10,,
+549,Public Sector CIO Convex (PSCC),iOS,2018-11-01,2020-04-10,,
+551,MyGerms VR,Android,2018-11-16,2020-04-03,2024-10-23,Applikasi MyGerms VR mobil ini menerangkan secara infografik dan animasi 3D dalam format realiti maya bagi mengenali bakteria yang menyebabkan keracunan makanan. Alat kawalan bluetooth dan Kotak VR diperlukan bagi menggunakan applikasi ini.
+551,MyGerms VR,Huawei,2018-11-16,2020-04-03,2024-10-23,Applikasi MyGerms VR mobil ini menerangkan secara infografik dan animasi 3D dalam format realiti maya bagi mengenali bakteria yang menyebabkan keracunan makanan. Alat kawalan bluetooth dan Kotak VR diperlukan bagi menggunakan applikasi ini.
+551,MyGerms VR,iOS,2018-11-16,2020-04-03,2024-10-23,Applikasi MyGerms VR mobil ini menerangkan secara infografik dan animasi 3D dalam format realiti maya bagi mengenali bakteria yang menyebabkan keracunan makanan. Alat kawalan bluetooth dan Kotak VR diperlukan bagi menggunakan applikasi ini.
+553,MyMesyuarat,Android,2018-11-22,2018-11-22,,Aplikasi  pengurusan mesyuarat secara dalam talian melalui aplikasi mudah alih.
+553,MyMesyuarat,Huawei,2018-11-22,2018-11-22,,Aplikasi  pengurusan mesyuarat secara dalam talian melalui aplikasi mudah alih.
+553,MyMesyuarat,iOS,2018-11-22,2018-11-22,,Aplikasi  pengurusan mesyuarat secara dalam talian melalui aplikasi mudah alih.
+563,SMART QURAN,Android,2018-11-28,2018-11-28,,
+563,SMART QURAN,Huawei,2018-11-28,2018-11-28,,
+563,SMART QURAN,iOS,2018-11-28,2018-11-28,,
+565,Penang Alert,Android,2018-11-28,2019-05-30,,
+565,Penang Alert,iOS,2018-11-28,2019-05-30,,
+567,LMI Gateway,Android,2018-11-28,2019-11-14,,
+567,LMI Gateway,iOS,2018-11-28,2019-11-14,,
+569,Geosmart Selangor,Android,2018-12-03,2018-12-03,,
+571,myHKP,Android,2018-12-05,2018-12-05,,
+573,PBTCare,Android,2018-12-10,2025-08-01,,Kemudahan kepada orang awam membuat aduan kepada PBT melalui mobil
+573,PBTCare,Huawei,2018-12-10,2025-08-01,,Kemudahan kepada orang awam membuat aduan kepada PBT melalui telefon mudah alih
+573,PBTCare,iOS,2018-12-10,2025-08-01,,Kemudahan kepada orang awam membuat aduan kepada PBT melalui mobil
+575,Parlimen Malaysia,Android,2018-12-14,2020-11-23,,
+575,Parlimen Malaysia,iOS,2018-12-14,2020-11-23,,
+577,Smart Hadith,Android,2019-01-15,2020-02-14,2023-10-26,
+577,Smart Hadith,Huawei,2019-01-15,2020-02-14,2023-10-26,
+577,Smart Hadith,iOS,2019-01-15,2020-02-14,2023-10-26,
+579,mBook KPDNHEP,Android,2019-01-17,,,
+579,mBook KPDNHEP,Huawei,2019-01-17,,,
+579,mBook KPDNHEP,iOS,2019-01-17,,,
+581,Smart Muslim,Android,2019-01-28,2020-07-07,,
+581,Smart Muslim,Huawei,2019-01-28,2020-07-07,,
+581,Smart Muslim,iOS,2019-01-28,2020-07-07,,
+583,MyWC,Android,2019-01-29,2025-06-06,,Memudahkan pengguna mencari tandas awam berdekatan dan profil tandas tersebut.
+583,MyWC,Huawei,2019-01-29,2025-06-06,,Memudahkan pengguna mencari tandas awam berdekatan dan profil tandas tersebut.
+583,MyWC,iOS,2019-01-29,2025-06-06,,Memudahkan pengguna mencari tandas awam berdekatan dan profil tandas tersebut.
+585,MyPromise,Android,2019-02-13,2019-05-31,,
+585,MyPromise,Huawei,2019-02-13,2019-05-31,,
+585,MyPromise,iOS,2019-02-13,2019-05-31,,
+587,E-Cocoa MCB,Android,2019-02-15,2024-09-06,,Aplikasi untuk kakitangan LKM memantau peserta program tanaman koko.
+587,E-Cocoa MCB,Huawei,2019-02-15,2024-09-06,,Aplikasi untuk kakitangan LKM memantau peserta program tanaman koko.
+587,E-Cocoa MCB,iOS,2019-02-15,2024-09-06,,Aplikasi untuk kakitangan LKM memantau peserta program tanaman koko.
+589,E-Cocoa Petani,Android,2019-02-15,2024-08-05,,Aplikasi untuk pekebun kecil yang mengikuti program di Lembaga Koko Malaysia
+589,E-Cocoa Petani,Huawei,2019-02-15,2024-08-05,,Aplikasi untuk pekebun kecil yang mengikuti program di Lembaga Koko Malaysia
+589,E-Cocoa Petani,iOS,2019-02-15,2024-08-05,,Aplikasi untuk pekebun kecil yang mengikuti program di Lembaga Koko Malaysia
+595,MyAlumni Admin,Android,2019-03-28,2019-05-07,,
+595,MyAlumni Admin,Huawei,2019-03-28,2019-05-07,,
+595,MyAlumni Admin,iOS,2019-03-28,2019-05-07,,
+597,MyAlumni KPKM,Android,2019-03-28,2023-05-19,,Sistem aplikasi mudah alih bagi graduan KPKM mengemaskini maklumat profil
+597,MyAlumni KPKM,Huawei,2019-03-28,2023-05-19,,Sistem aplikasi mudah alih bagi graduan KPKM mengemaskini maklumat profil
+597,MyAlumni KPKM,iOS,2019-03-28,2023-05-19,,Sistem aplikasi mudah alih bagi graduan KPKM mengemaskini maklumat profil
+599,e-TUIS,Android,2019-03-29,2019-04-01,2024-10-23,Sistem e-TUIS merupakan satu sistem berasaskan web yang membolehkan kesatuan sekerja berurusan sepenuhnya secara dalam talian (online) dengan Jabatan Hal Ehwal Kesatuan Sekerja (JHEKS)
+599,e-TUIS,iOS,2019-03-29,2019-04-01,2024-10-23,Sistem e-TUIS merupakan satu sistem berasaskan web yang membolehkan kesatuan sekerja berurusan sepenuhnya secara dalam talian (online) dengan Jabatan Hal Ehwal Kesatuan Sekerja (JHEKS)
+601,DBKK eCukai,Android,2019-04-03,2019-04-04,,
+601,DBKK eCukai,iOS,2019-04-03,2019-04-04,,
+603,i-KrediKom,Android,2019-04-05,2024-03-12,,Membantu orang awam daripada terlibat dengan syarikat yang tidak berlesen
+603,i-KrediKom,Huawei,2019-04-05,2024-03-12,,Membantu orang awam daripada terlibat dengan syarikat yang tidak berlesen
+603,i-KrediKom,iOS,2019-04-05,2024-03-12,,Membantu orang awam daripada terlibat dengan syarikat yang tidak berlesen
+605,mySolat,Android,2019-04-09,2019-04-09,,
+605,mySolat,Huawei,2019-04-09,2019-04-09,,
+605,mySolat,iOS,2019-04-09,2019-04-09,,
+607,Ydata@IYRES,Android,2019-04-22,2019-04-22,,
+607,Ydata@IYRES,iOS,2019-04-22,2019-04-22,,
+609,InfoJKM,Android,2019-04-22,2019-04-22,,
+611,SMOKU,Android,2019-04-22,2019-06-07,,
+611,SMOKU,Huawei,2019-04-22,2019-06-07,,
+611,SMOKU,iOS,2019-04-22,2019-06-07,,
+627,iServices Mobile,Android,2019-05-08,2020-04-15,2024-01-19,perkhidmatan online yang disediakan oleh MDKS kepada penduduk-penduduk Kuala Selangor untuk membuat semakan/pembayaran akaun secara online tanpa perlu ke kaunter perkhidmatan MDKS.
+627,iServices Mobile,Huawei,2019-05-08,2020-04-15,2024-01-19,perkhidmatan online yang disediakan oleh MDKS kepada penduduk-penduduk Kuala Selangor untuk membuat semakan/pembayaran akaun secara online tanpa perlu ke kaunter perkhidmatan MDKS.
+627,iServices Mobile,iOS,2019-05-08,2020-04-15,2024-01-19,perkhidmatan online yang disediakan oleh MDKS kepada penduduk-penduduk Kuala Selangor untuk membuat semakan/pembayaran akaun secara online tanpa perlu ke kaunter perkhidmatan MDKS.
+629,LABUAN CORPORATION APP,Android,2019-06-13,2020-04-15,,
+637,i-Gadaian,Android,2019-06-13,2024-03-12,,Membantu orang awam daripada terlibat dengan syarikat yang tidak berlesen
+637,i-Gadaian,Huawei,2019-06-13,2024-03-12,,Membantu orang awam daripada terlibat dengan syarikat yang tidak berlesen
+637,i-Gadaian,iOS,2019-06-13,2024-03-12,,Membantu orang awam daripada terlibat dengan syarikat yang tidak berlesen
+639,PRIMTECH,Android,2019-06-25,2019-07-15,,Aplikasi Interaktif warga MOSTI.
+639,PRIMTECH,Huawei,2019-06-25,2019-07-15,,Aplikasi Interaktif warga MOSTI.
+639,PRIMTECH,iOS,2019-06-25,2019-07-15,,Aplikasi Interaktif warga MOSTI.
+641,MaNIS,Android,2019-06-25,2025-11-07,,Sistem Maklumat Nasional Kumpulan Sasar (MaNIS)
+641,MaNIS,Huawei,2019-06-25,2025-11-07,,Sistem Maklumat Nasional Kumpulan Sasar (MaNIS)
+641,MaNIS,iOS,2019-06-25,2025-11-07,,Sistem Maklumat Nasional Kumpulan Sasar (MaNIS)
+643,MeDC@St 2.0,Android,2019-07-31,2020-04-03,,
+643,MeDC@St 2.0,Huawei,2019-07-31,2020-04-03,,
+643,MeDC@St 2.0,iOS,2019-07-31,2020-04-03,,
+645,e-Bayaran MBKT,Android,2019-08-15,2025-07-15,,
+647,MyePIMS,Android,2019-09-12,,,
+647,MyePIMS,Huawei,2019-09-12,,,
+647,MyePIMS,iOS,2019-09-12,,,
+649,ePayslip JANM,Android,2019-09-26,2026-03-19,,Sistem ePenyata Gaji dan Laporan (eSPGL) versi Aplikasi Mudah Alih
+649,ePayslip JANM,Huawei,2019-09-26,2026-03-19,,Sistem ePenyata Gaji dan Laporan (eSPGL) versi Aplikasi Mudah Alih
+649,ePayslip JANM,iOS,2019-09-26,2026-03-19,,Sistem ePenyata Gaji dan Laporan (eSPGL) versi Aplikasi Mudah Alih
+651,eParlimen KPWKM,Android,2019-10-11,2024-09-20,,eParlimen KPWKM membantu menguruskan perjalanan setiap soalan di Parlimen
+651,eParlimen KPWKM,Huawei,2019-10-11,2024-09-20,,eParlimen KPWKM membantu menguruskan perjalanan setiap soalan di Parlimen
+651,eParlimen KPWKM,iOS,2019-10-11,2024-09-20,,eParlimen KPWKM membantu menguruskan perjalanan setiap soalan di Parlimen
+655,SPWTD,Android,2019-10-16,,,
+655,SPWTD,Huawei,2019-10-16,,,
+655,SPWTD,iOS,2019-10-16,,,
+659,JUPEM eBiz GeoPortal,Android,2019-10-23,2020-04-15,,
+659,JUPEM eBiz GeoPortal,Huawei,2019-10-23,2020-04-15,,
+659,JUPEM eBiz GeoPortal,iOS,2019-10-23,2020-04-15,,
+661,PPAM,Android,2019-10-25,2025-11-04,,Kemaskini maklumat Hubungi Kami dan Soalan Lazim
+661,PPAM,Huawei,2019-10-25,2025-11-04,,Kemaskini fungsi baharu permohonan di page maklumat projek
+661,PPAM,iOS,2019-10-25,2025-11-04,,Kemaskini fungsi baharu permohonan di page maklumat projek
+667,eDSL,Android,2019-10-29,2020-02-14,2024-09-25,
+667,eDSL,Huawei,2019-10-29,2020-02-14,2024-09-25,
+667,eDSL,iOS,2019-10-29,2020-02-14,2024-09-25,
+669,eSoalSelidik MBKT,Android,2019-11-11,2020-01-10,,
+671,MPT e-Services,Android,2019-11-18,2019-11-19,,
+671,MPT e-Services,Huawei,2019-11-18,2019-11-19,,
+671,MPT e-Services,iOS,2019-11-18,2019-11-19,,
+673,eBrochures,Android,2019-11-18,2019-11-19,,
+673,eBrochures,iOS,2019-11-18,2019-11-19,,
+675,MyHRMIS Keluar Pejabat,Android,2019-12-09,2019-12-09,2022-08-10,Aplikasi MyHRMIS Keluar Pejabat merupakan inovasi terbaharu Jabatan Perkhidmatan Awam (JPA) untuk membantu memudahkan pengurusan keluar pejabat penjawat awam dalam waktu bertugas mematuhi Waktu Bekerja .
+675,MyHRMIS Keluar Pejabat,Huawei,2019-12-09,2019-12-09,2022-08-10,Aplikasi MyHRMIS Keluar Pejabat merupakan inovasi terbaharu Jabatan Perkhidmatan Awam (JPA) untuk membantu memudahkan pengurusan keluar pejabat penjawat awam dalam waktu bertugas mematuhi Waktu Bekerja .
+677,MyGov Portal,Android,2019-12-10,2020-12-16,2024-08-01,
+677,MyGov Portal,Huawei,2019-12-10,2020-12-16,2024-08-01,
+677,MyGov Portal,iOS,2019-12-10,2020-12-16,2024-08-01,
+679,MyAPEC2020,Android,2019-12-10,2020-01-31,2022-01-25,
+679,MyAPEC2020,iOS,2019-12-10,2020-01-31,2022-01-25,
+681,Mobile JPPH,Android,2019-12-19,2019-12-31,2025-05-14,
+681,Mobile JPPH,iOS,2019-12-19,2019-12-31,2025-05-14,
+683,eBantuanJKM,Android,2020-02-06,2025-07-15,,
+683,eBantuanJKM,iOS,2020-02-06,2025-07-15,,
+685,MyTulen,Android,2020-02-07,2025-03-14,,MyTulen mengesahkan kesahihan label cakera optik yang dikuatkuasakan oleh KPDN.
+685,MyTulen,Huawei,2020-02-07,2025-03-14,,MyTulen mengesahkan kesahihan label cakera optik yang dikuatkuasakan oleh KPDN.
+685,MyTulen,iOS,2020-02-07,2025-03-14,,MyOri mengesahkan kesahihan label cakera optik yang dikuatkuasakan oleh KPDNHEP.
+687,NPRA Product Status,Android,2020-02-12,2020-09-14,,Pengguna boleh menggunakan aplikasi ini untuk mencari status pendaftaran produk
+687,NPRA Product Status,Huawei,2020-02-12,2020-09-14,,Pengguna boleh menggunakan aplikasi ini untuk mencari status pendaftaran produk
+687,NPRA Product Status,iOS,2020-02-12,2020-09-14,,Pengguna boleh menggunakan aplikasi ini untuk mencari status pendaftaran produk
+705,NANO VR,Android,2020-02-19,,,
+705,NANO VR,Huawei,2020-02-19,,,
+705,NANO VR,iOS,2020-02-19,,,
+715,MURNInets 2.0,Android,2020-03-10,2023-12-01,,Satu sistem untuk mengukur dan menilai kemampanan sesuatu kawasan(PBT)
+715,MURNInets 2.0,Huawei,2020-03-10,2023-12-01,,Satu sistem untuk mengukur dan menilai kemampanan sesuatu kawasan(PBT)
+715,MURNInets 2.0,iOS,2020-03-10,2023-12-01,,Satu sistem untuk mengukur dan menilai kemampanan sesuatu kawasan(PBT)
+719,MALAYSIA CPI INFLATION CALCULATOR,Android,2020-03-10,2020-03-10,,
+719,MALAYSIA CPI INFLATION CALCULATOR,Huawei,2020-03-10,2020-03-10,,
+721,MySejahtera,Android,2020-03-28,2025-07-07,,MySejahtera dibangunkan untuk membantu pengawasan penularan wabak COVID-19
+721,MySejahtera,Huawei,2020-03-28,2025-07-07,,MySejahtera dibangunkan untuk membantu pengawasan penularan wabak COVID-19
+721,MySejahtera,iOS,2020-03-28,2025-07-07,,MySejahtera dibangunkan untuk membantu pengawasan penularan wabak COVID-19
+727,SmartCE,Android,2020-04-01,2020-11-03,,
+727,SmartCE,iOS,2020-04-01,2020-11-03,,
+729,SmartFL,Android,2020-04-02,2020-07-15,,
+729,SmartFL,iOS,2020-04-02,2020-07-15,,
+731,MyTrace,Android,2020-04-26,2020-05-29,,
+731,MyTrace,iOS,2020-04-26,2020-05-29,,
+733,MyVIA,Android,2020-05-19,2020-05-19,,
+733,MyVIA,iOS,2020-05-19,2020-05-19,,
+735,aplikasi myDIMS-versi lama,Android,2020-06-02,,,
+735,aplikasi myDIMS-versi lama,Huawei,2020-06-02,,,
+735,aplikasi myDIMS-versi lama,iOS,2020-06-02,,,
+737,TEDUH,Android,2020-06-10,2025-09-04,,Kemaskini maklumat Hubungi Kami
+737,TEDUH,Huawei,2020-06-10,2025-09-04,,Kemaskini maklumat Hubungi Kami
+737,TEDUH,iOS,2020-06-10,2025-09-04,,"Kemaskini fungsi tapisan Daerah, paparan soalan lazim & semakan kelayakan"
+739,DOSM,Android,2020-06-18,2020-07-08,2023-04-03,
+739,DOSM,Huawei,2020-06-18,2020-07-08,2023-04-03,
+739,DOSM,iOS,2020-06-18,2020-07-08,2023-04-03,
+740,myMPT,Android,2020-08-13,2020-08-13,,
+741,eParlimenKKR,Android,2020-08-14,2024-09-17,,Pengesahan dan Penyediaan Laporan Pegawai Bertugas
+741,eParlimenKKR,Huawei,2020-08-14,2024-09-17,,Pengesahan dan Penyediaan Laporan Pegawai Bertugas
+741,eParlimenKKR,iOS,2020-08-14,2024-09-17,,Pengesahan dan Penyediaan Laporan Pegawai Bertugas
+742,MyGeoMap,Android,2020-08-19,2020-08-24,,
+742,MyGeoMap,Huawei,2020-08-19,2020-08-24,,
+742,MyGeoMap,iOS,2020-08-19,2020-08-24,,
+743,JPJeBid,Android,2020-08-25,2025-05-06,,
+743,JPJeBid,iOS,2020-08-25,2025-05-06,,
+746,SmartCE TRN,Android,2020-09-02,2020-11-03,,
+746,SmartCE TRN,iOS,2020-09-02,2020-11-03,,
+747,MyUBAT,Android,2020-09-03,2026-04-17,,Dapatkan ubat-ubatan anda dengan mudah dan cepat
+747,MyUBAT,Huawei,2020-09-03,2026-04-17,,Dapatkan ubat-ubatan anda dengan mudah dan cepat
+747,MyUBAT,iOS,2020-09-03,2026-04-17,,MyUBAT memudahkan bekalan ubat-ubatan menerusi farmasi digital.
+748,Collab.My,Android,2020-09-14,2025-08-25,,Mengemaskini keselamatan aplikasi
+748,Collab.My,Huawei,2020-09-14,2025-08-25,,Our Collaboration Channel offers you simpler and easier access to our system.
+748,Collab.My,iOS,2020-09-14,2025-08-25,,Our Collaboration Channel offers you simpler and easier access to our system.
+749,PgGOV ePINTAS,Android,2020-10-02,2020-10-02,,
+749,PgGOV ePINTAS,iOS,2020-10-02,2020-10-02,,
+751,APEL.A,Android,2020-10-06,2025-10-23,,
+751,APEL.A,Huawei,2020-10-06,2025-10-23,,
+751,APEL.A,iOS,2020-10-06,2025-10-23,,
+752,MyPublicInfoBanjir,Android,2020-11-18,2025-10-09,,MyPublic InfoBanjir
+752,MyPublicInfoBanjir,Huawei,2020-11-18,2025-10-09,,MyPublic InfoBanjir
+752,MyPublicInfoBanjir,iOS,2020-11-18,2025-10-09,,MyPublic InfoBanjir
+753,e-Rekreasi,Android,2020-11-27,2024-07-25,,Sistem Pendaftaran Dan Pelesenan Penangkapan Ikan Rekreasi Kelautan DOF
+753,e-Rekreasi,Huawei,2020-11-27,2024-07-25,,Sistem Pendaftaran Dan Pelesenan Penangkapan Ikan Rekreasi Kelautan DOF
+753,e-Rekreasi,iOS,2020-11-27,2024-07-25,,Sistem Pendaftaran Dan Pelesenan Penangkapan Ikan Rekreasi Kelautan DOF
+754,NSFE,Android,2020-12-08,2024-06-27,,Info kemudahan dan peralatan saintifik di Malaysia untuk disewa
+754,NSFE,Huawei,2020-12-08,2024-06-27,,Info kemudahan dan peralatan saintifik di Malaysia untuk disewa
+754,NSFE,iOS,2020-12-08,2024-06-27,,Info kemudahan dan peralatan saintifik di Malaysia untuk disewa
+755,PDC2U,Android,2020-12-15,2024-11-15,,
+755,PDC2U,Huawei,2020-12-15,2024-11-15,,
+755,PDC2U,iOS,2020-12-15,2024-11-15,,
+756,Penghijauan Malaysia,Android,2020-12-21,2021-01-04,,Aplikasi yang membolehkan pengguna turut serta dalam kempen penghijauan malaysia
+756,Penghijauan Malaysia,Huawei,2020-12-21,2021-01-04,,Aplikasi yang membolehkan pengguna turut serta dalam kempen penghijauan malaysia
+756,Penghijauan Malaysia,iOS,2020-12-21,2021-01-04,,Aplikasi yang membolehkan pengguna turut serta dalam kempen penghijauan malaysia
+757,eRAKAM,Android,2021-01-19,2023-09-05,,eRAKAM mobil memaparkan dan memantau masa masuk/keluar penjawat awam MINDEF
+757,eRAKAM,Huawei,2021-01-19,2023-09-05,,eRAKAM mobil memaparkan dan memantau masa masuk/keluar penjawat awam MINDEF
+757,eRAKAM,iOS,2021-01-19,2023-09-05,,eRAKAM mobil memaparkan dan memantau masa masuk/keluar penjawat awam MINDEF
+758,I-Plan Malaysia,Android,2021-01-26,2026-02-23,,sistem maklumat interaktif guna tanah perancangan
+758,I-Plan Malaysia,Huawei,2021-01-26,2026-02-23,,sistem maklumat interaktif guna tanah perancangan
+758,I-Plan Malaysia,iOS,2021-01-26,2026-02-23,,sistem maklumat interaktif guna tanah perancangan
+759,eHadir SUK Pahang,Android,2021-01-27,2026-01-11,,Aplikasi mobile merekod kehadiran pegawai dan kakitangan di PSUK Pahang.
+759,eHadir SUK Pahang,Huawei,2021-01-27,2026-01-11,,Aplikasi mobile merekod kehadiran pegawai dan kakitangan di PSUK Pahang.
+759,eHadir SUK Pahang,iOS,2021-01-27,2026-01-11,,Aplikasi mobile merekod kehadiran pegawai dan kakitangan di PSUK Pahang.
+760,HELPDESK ICT KKR,Android,2021-01-29,2026-01-15,,Saluran dan semakan untuk aduan ict KKR
+760,HELPDESK ICT KKR,Huawei,2021-01-29,2026-01-15,,Saluran dan semakan untuk aduan ict KKR
+760,HELPDESK ICT KKR,iOS,2021-01-29,2026-01-15,,Saluran dan semakan untuk aduan ict KKR
+761,Sistem Janji Temu Klinik KKM,Android,2021-02-14,2021-02-14,2023-09-22,Janji temu klinik KKM merupakan satu inisiatif daripada Kementerian Kesihatan Malaysia (KKM) kepada pelanggan untuk mendapatkan slot rawatan di klinik seluruh Malaysia.
+761,Sistem Janji Temu Klinik KKM,Huawei,2021-02-14,2021-02-14,2023-09-22,Janji temu klinik KKM merupakan satu inisiatif daripada Kementerian Kesihatan Malaysia (KKM) kepada pelanggan untuk mendapatkan slot rawatan di klinik seluruh Malaysia.
+761,Sistem Janji Temu Klinik KKM,iOS,2021-02-14,2021-02-14,2023-09-22,Janji temu klinik KKM merupakan satu inisiatif daripada Kementerian Kesihatan Malaysia (KKM) kepada pelanggan untuk mendapatkan slot rawatan di klinik seluruh Malaysia.
+763,MyRECS Consultation,Android,2021-02-18,,,
+763,MyRECS Consultation,Huawei,2021-02-18,,,
+763,MyRECS Consultation,iOS,2021-02-18,,,
+765,MyVisitor,Android,2021-02-25,2021-02-25,,
+765,MyVisitor,Huawei,2021-02-25,2021-02-25,,
+765,MyVisitor,iOS,2021-02-25,2021-02-25,,
+766,GovChat,Android,2021-03-09,2025-11-07,,GovChat merupakan platform pemesejan dimiliki sepenuhnya oleh Kerajaan Malaysia
+766,GovChat,Huawei,2021-03-09,2025-11-07,,GovChat merupakan platform pemesejan dimiliki sepenuhnya oleh Kerajaan Malaysia
+766,GovChat,iOS,2021-03-09,2025-11-07,,GovChat merupakan platform pemesejan dimiliki sepenuhnya oleh Kerajaan Malaysia
+767,eProKehadiran MBIP,Android,2021-03-16,2021-03-16,,
+767,eProKehadiran MBIP,Huawei,2021-03-16,2021-03-16,,
+767,eProKehadiran MBIP,iOS,2021-03-16,2021-03-16,,
+768,MyGeotapak,Android,2021-03-27,2024-09-17,,
+768,MyGeotapak,Huawei,2021-03-27,2024-09-17,,
+768,MyGeotapak,iOS,2021-03-27,2024-09-17,,
+769,Vaccine Management System,Android,2021-04-08,2024-11-07,,
+769,Vaccine Management System,Huawei,2021-04-08,2024-11-07,,
+769,Vaccine Management System,iOS,2021-04-08,2024-11-07,,
+770,iHadir@MEDAC,Android,2021-04-14,2021-04-14,2023-01-30,Sistem untuk merekod log masuk/keluar kehadiran menggunakan GPS secara atas talian kepada staff MEDAC
+770,iHadir@MEDAC,Huawei,2021-04-14,2021-04-14,2023-01-30,Sistem untuk merekod log masuk/keluar kehadiran menggunakan GPS secara atas talian kepada staff MEDAC
+770,iHadir@MEDAC,iOS,2021-04-14,2021-04-14,2023-01-30,Sistem untuk merekod log masuk/keluar kehadiran menggunakan GPS secara atas talian kepada staff MEDAC
+771,eKURSUS MEDAC,Android,2021-04-14,2025-06-24,,
+771,eKURSUS MEDAC,Huawei,2021-04-14,2025-06-24,,
+771,eKURSUS MEDAC,iOS,2021-04-14,2025-06-24,,
+772,Vaccine Certificate Verifier,Android,2021-04-15,2021-04-15,,Vaccine Certificate Verifier merupakan aplikasi bagi mengesahkan sijil vaksinasi
+772,Vaccine Certificate Verifier,Huawei,2021-04-15,2021-04-15,,Vaccine Certificate Verifier merupakan aplikasi bagi mengesahkan sijil vaksinasi
+772,Vaccine Certificate Verifier,iOS,2021-04-15,2021-04-15,,Vaccine Certificate Verifier merupakan aplikasi bagi mengesahkan sijil vaksinasi
+773,eSemakan PTGS,Android,2021-04-16,2021-04-16,,
+773,eSemakan PTGS,Huawei,2021-04-16,2021-04-16,,
+773,eSemakan PTGS,iOS,2021-04-16,2021-04-16,,
+774,Smart Docket PTGS,Android,2021-04-16,2021-04-16,,
+774,Smart Docket PTGS,Huawei,2021-04-16,2021-04-16,,
+774,Smart Docket PTGS,iOS,2021-04-16,2021-04-16,,
+775,i-PRP Mobile,Android,2021-04-27,2021-04-27,,
+775,i-PRP Mobile,Huawei,2021-04-27,2021-04-27,,
+775,i-PRP Mobile,iOS,2021-04-27,2021-04-27,,
+776,CHAT,Android,2021-04-28,2023-11-03,,"Semakan temujanji, ubatan, VC dan sebagainya bagi pesakit Hospital Ampang"
+776,CHAT,Huawei,2021-04-28,2023-11-03,,"Semakan temujanji, ubatan, VC dan sebagainya bagi pesakit Hospital Ampang"
+776,CHAT,iOS,2021-04-28,2023-11-03,,"Semakan temujanji, ubatan, VC dan sebagainya bagi pesakit Hospital Ampang"
+778,FoSIM Public Apps,Android,2021-04-30,2023-06-19,,FoSIM Public Apps bagi memudahkan menyemak lesen yang dikeluarkan oleh BKKM.
+778,FoSIM Public Apps,Huawei,2021-04-30,2023-06-19,,FoSIM Public Apps bagi memudahkan menyemak lesen yang dikeluarkan oleh BKKM.
+778,FoSIM Public Apps,iOS,2021-04-30,2023-06-19,,FoSIM Public Apps bagi memudahkan menyemak lesen yang dikeluarkan oleh BKKM.
+783,SPOTME,Android,2021-05-19,2026-04-21,,Aplikasi daftar kehadiran dan pergerakan harian pegawai bertugas
+783,SPOTME,Huawei,2021-05-19,2026-04-21,,Aplikasi daftar kehadiran dan pergerakan harian pegawai bertugas
+783,SPOTME,iOS,2021-05-19,2026-04-21,,Aplikasi daftar kehadiran dan pergerakan harian pegawai bertugas
+784,ASk FaRA,Android,2021-05-19,2021-05-19,2024-08-26,Aplikasi Sokongan kepada Sistem Pengecaman Wajah
+784,ASk FaRA,Huawei,2021-05-19,2021-05-19,2024-08-26,Aplikasi Sokongan kepada Sistem Pengecaman Wajah
+784,ASk FaRA,iOS,2021-05-19,2021-05-19,2024-08-26,Aplikasi Sokongan kepada Sistem Pengecaman Wajah
+785,PENYU e-MAS,Android,2021-06-01,2024-07-18,,Sistem bagi pemantauan dan perkongsian data dan rekod pengurusan penyu
+785,PENYU e-MAS,Huawei,2021-06-01,2024-07-18,,Sistem bagi pemantauan dan perkongsian data dan rekod pengurusan penyu
+785,PENYU e-MAS,iOS,2021-06-01,2024-07-18,,Sistem bagi pemantauan dan perkongsian data dan rekod pengurusan penyu
+786,Bootcamp KRISA,Android,2021-06-02,2021-06-02,2024-06-20,Aplikasi sokongan kepada Bootcamp KRISA anjuran BPI MAMPU
+786,Bootcamp KRISA,Huawei,2021-06-02,2021-06-02,2024-06-20,Aplikasi sokongan kepada Bootcamp KRISA anjuran BPI MAMPU
+786,Bootcamp KRISA,iOS,2021-06-02,2021-06-02,2024-06-20,Aplikasi sokongan kepada Bootcamp KRISA anjuran BPI MAMPU
+788,MyPLAN,Android,2021-06-04,2021-06-04,,
+788,MyPLAN,Huawei,2021-06-04,2021-06-04,,
+788,MyPLAN,iOS,2021-06-04,2021-06-04,,
+789,iHadir MEDAC,Android,2021-07-14,2021-07-14,2024-10-23,Sistem Kehadiran MEDAC (iHadir MEDAC) merupakan sebuah sistem untuk merekod log
+789,iHadir MEDAC,Huawei,2021-07-14,2021-07-14,2024-10-23,Sistem Kehadiran MEDAC (iHadir MEDAC) merupakan sebuah sistem untuk merekod log
+789,iHadir MEDAC,iOS,2021-07-14,2021-07-14,2024-10-23,Sistem Kehadiran MEDAC (iHadir MEDAC) merupakan sebuah sistem untuk merekod log
+790,MEDAC.OFFICE,Android,2021-07-18,2021-07-18,,Sistem Aplikasi Dalaman MEDAC (MEDAC.OFFICE) merupakan sebuah sistem untuk kegun
+790,MEDAC.OFFICE,Huawei,2021-07-18,2021-07-18,,Sistem Aplikasi Dalaman MEDAC (MEDAC.OFFICE) merupakan sebuah sistem untuk kegun
+790,MEDAC.OFFICE,iOS,2021-07-18,2021-07-18,,Sistem Aplikasi Dalaman MEDAC (MEDAC.OFFICE) merupakan sebuah sistem untuk kegun
+791,myKafeTEEN,Android,2021-08-17,2021-08-17,,
+791,myKafeTEEN,Huawei,2021-08-17,2021-08-17,,
+791,myKafeTEEN,iOS,2021-08-17,2021-08-17,,
+792,e-Lembaga Peperiksaan,Android,2021-09-17,2026-04-10,,Paparan baharu bagi aplikasi Lembaga Peperiksaan (e-LP)
+792,e-Lembaga Peperiksaan,Huawei,2021-09-17,2026-04-10,,Paparan baharu bagi aplikasi Lembaga Peperiksaan (e-LP)
+792,e-Lembaga Peperiksaan,iOS,2021-09-17,2026-04-10,,Paparan baharu bagi aplikasi Lembaga Peperiksaan (e-LP)
+793,MyDSK,Android,2021-09-22,2021-09-22,,
+793,MyDSK,Huawei,2021-09-22,2021-09-22,,
+793,MyDSK,iOS,2021-09-22,2021-09-22,,
+794,Volunteer Smartphone Patrol,Android,2021-10-27,2024-03-04,,VSP bertujuan memudahkan orang awam menyalurkan maklumat atau aduan kepada PDRM
+794,Volunteer Smartphone Patrol,Huawei,2021-10-27,2024-03-04,,VSP bertujuan memudahkan orang awam menyalurkan maklumat atau aduan kepada PDRM
+794,Volunteer Smartphone Patrol,iOS,2021-10-27,2024-03-04,,VSP bertujuan memudahkan orang awam menyalurkan maklumat atau aduan kepada PDRM
+795,MyBLESS,Android,2021-10-27,2023-08-07,,SEMAKAN MAKLUMAT LESEN YANG DIMOHON MELALUI SISTEM BLESS
+795,MyBLESS,Huawei,2021-10-27,2023-08-07,,SEMAKAN MAKLUMAT LESEN YANG DIMOHON MELALUI SISTEM BLESS
+795,MyBLESS,iOS,2021-10-27,2023-08-07,,SEMAKAN MAKLUMAT LESEN YANG DIMOHON MELALUI SISTEM BLESS
+797,eSPEKMobile,Android,2021-11-09,2021-11-09,,Sistem Pengurusan Kursus
+797,eSPEKMobile,Huawei,2021-11-09,2021-11-09,,Sistem Pengurusan Kursus
+797,eSPEKMobile,iOS,2021-11-09,2021-11-09,,Sistem Pengurusan Kursus
+798,eTOUCH Mobile,Android,2021-11-09,2021-11-09,,Aplikasi pengurusan kehadiran dan tugas luar/kursus
+798,eTOUCH Mobile,Huawei,2021-11-09,2021-11-09,,Aplikasi pengurusan kehadiran dan tugas luar/kursus
+798,eTOUCH Mobile,iOS,2021-11-09,2021-11-09,,Aplikasi pengurusan kehadiran dan tugas luar/kursus
+799,USIM TAS (Tasdiq Al Syahadah),Android,2021-11-10,2021-11-10,,
+799,USIM TAS (Tasdiq Al Syahadah),Huawei,2021-11-10,2021-11-10,,
+800,S-CHARMs,Android,2021-11-16,2024-10-30,,Sistem Ciri-Ciri Spatial Desa Malaysia
+800,S-CHARMs,Huawei,2021-11-16,2024-10-30,,Sistem Ciri-Ciri Spatial Desa Malaysia
+800,S-CHARMs,iOS,2021-11-16,2024-10-30,,Sistem Ciri-Ciri Spatial Desa Malaysia
+801,AT-IPM CACAO,Android,2021-11-26,2025-04-29,,
+801,AT-IPM CACAO,Huawei,2021-11-26,2025-04-29,,
+801,AT-IPM CACAO,iOS,2021-11-26,2025-04-29,,
+802,DMCOCOA,Android,2021-11-26,2021-11-26,,
+802,DMCOCOA,Huawei,2021-11-26,2021-11-26,,
+802,DMCOCOA,iOS,2021-11-26,2021-11-26,,
+803,eMaklum JANM,Android,2021-11-30,2024-05-13,,Kemudahan untuk individu dan pembekal membuat carian dan semakan dokumen bayaran
+803,eMaklum JANM,Huawei,2021-11-30,2024-05-13,,Kemudahan untuk individu dan pembekal membuat carian dan semakan dokumen bayaran
+803,eMaklum JANM,iOS,2021-11-30,2024-05-13,,Kemudahan untuk individu dan pembekal membuat carian dan semakan dokumen bayaran
+804,MACC Outreach,Android,2021-12-06,2024-08-19,,MACC Outreach adalah permohonan program berkaitan pendidikan antirasuah SPRM
+804,MACC Outreach,Huawei,2021-12-06,2024-08-19,,MACC Outreach adalah permohonan program berkaitan pendidikan antirasuah SPRM
+804,MACC Outreach,iOS,2021-12-06,2024-08-19,,MACC Outreach adalah permohonan program berkaitan pendidikan antirasuah SPRM
+806,JAKIM Touch,Android,2021-12-16,2021-12-16,,perkhidmatan digital keluaran JAKIM
+806,JAKIM Touch,Huawei,2021-12-16,2021-12-16,,perkhidmatan digital keluaran JAKIM
+806,JAKIM Touch,iOS,2021-12-16,2021-12-16,,perkhidmatan digital keluaran JAKIM
+807,STAPS,Android,2022-01-06,2022-01-06,,
+807,STAPS,Huawei,2022-01-06,2022-01-06,,
+807,STAPS,iOS,2022-01-06,2022-01-06,,
+808,MyJalan KKR,Android,2022-01-12,,,Saluran aduan kerosakan jalan dan semakan status aduan.
+808,MyJalan KKR,Huawei,2022-01-12,,,Saluran aduan kerosakan jalan dan semakan status aduan.
+808,MyJalan KKR,iOS,2022-01-12,,,Saluran aduan kerosakan berlaku di sepanjang jalan dan semakan status aduan.
+809,myJPS,Android,2022-01-14,2022-01-14,,Aplikasi Mudah Alih untuk Jabatan Pengairan dan Saliran Malaysia
+809,myJPS,Huawei,2022-01-14,2022-01-14,,Aplikasi Mudah Alih untuk Jabatan Pengairan dan Saliran Malaysia
+809,myJPS,iOS,2022-01-14,2022-01-14,,Aplikasi Mudah Alih untuk Jabatan Pengairan dan Saliran Malaysia
+811,UNILEAD,Android,2022-02-08,2022-02-08,,UnileaD Training
+811,UNILEAD,Huawei,2022-02-08,2022-02-08,,UnileaD Training
+811,UNILEAD,iOS,2022-02-08,2022-02-08,,UnileaD Training
+812,MyTC,Android,2022-02-14,2022-02-14,,Aplikasi Mobile MyTC Fasa 1 Untuk Semakan Kekosongan
+812,MyTC,Huawei,2022-02-14,2022-02-14,,Aplikasi Mobile MyTC Fasa 1 Untuk Semakan Kekosongan
+812,MyTC,iOS,2022-02-14,2022-02-14,,Aplikasi Mobile MyTC Fasa 1 Untuk Semakan Kekosongan
+813,MyTVET,Android,2022-02-15,2025-07-11,,TVET Madani
+813,MyTVET,Huawei,2022-02-15,2025-07-11,,Sistem Pengurusan Integrasi Kemahiran Malaysia (MySPIKE)
+813,MyTVET,iOS,2022-02-15,2025-07-11,,TVET Madani
+814,Konti Radio Jawi,Android,2022-03-01,2022-03-01,,Aplikasi Radio JAWi ialah Program Media Rasmi berteraskan Islam
+814,Konti Radio Jawi,Huawei,2022-03-01,2022-03-01,,Aplikasi Radio JAWi ialah Program Media Rasmi berteraskan Islam
+814,Konti Radio Jawi,iOS,2022-03-01,2022-03-01,,Aplikasi Radio JAWi ialah Program Media Rasmi berteraskan Islam
+815,SMA Hadir,Android,2022-03-01,,2024-11-08,Aplikasi mobile bagi merekod kehadiran guru dan pelajar SMAN
+815,SMA Hadir,Huawei,2022-03-01,,2024-11-08,Aplikasi mobile bagi merekod kehadiran guru dan pelajar SMAN
+815,SMA Hadir,iOS,2022-03-01,,2024-11-08,Aplikasi mobile bagi merekod kehadiran guru dan pelajar SMAN
+816,JKR Expre@s,Android,2022-03-11,2022-03-11,,Memudahkan proses pemantauan serta pelaporan pelaksanaan kerja di tapak bina.
+816,JKR Expre@s,Huawei,2022-03-11,2022-03-11,,Memudahkan proses pemantauan serta pelaporan pelaksanaan kerja di tapak bina.
+816,JKR Expre@s,iOS,2022-03-11,2022-03-11,,Memudahkan proses pemantauan serta pelaporan pelaksanaan kerja di tapak bina.
+817,JLM Shipper,Android,2022-03-21,,,Pendaftaran syarikat shipper
+818,SISMARP,Android,2022-03-22,2022-03-22,,
+819,SISMARP,Android,2022-03-22,2022-03-22,,
+820,SISMARP,Android,2022-03-23,2022-03-23,,Aplikasi mudah alih berkaitan pengesyoran racun makhluk perosak dalam pertanian
+820,SISMARP,Huawei,2022-03-23,2022-03-23,,Aplikasi mudah alih berkaitan pengesyoran racun makhluk perosak dalam pertanian
+820,SISMARP,iOS,2022-03-23,2022-03-23,,Aplikasi mudah alih berkaitan pengesyoran racun makhluk perosak dalam pertanian
+821,ezAdu,Android,2022-03-30,2024-11-28,,Aplikasi ezAdu membolehkan pengguna melaporkan aduan kepenggunaan kepada KPDNHEP
+821,ezAdu,Huawei,2022-03-30,2024-11-28,,Aplikasi ezAdu membolehkan pengguna melaporkan aduan kepenggunaan kepada KPDNHEP
+821,ezAdu,iOS,2022-03-30,2024-11-28,,Aplikasi ezAdu membolehkan pengguna melaporkan aduan kepenggunaan kepada KPDNHEP
+822,HPjCare,Android,2022-04-11,2022-04-11,,HPjCare dibangunkan bagi kegunaan kakitangan dan pesakit di Hospital Putrajaya
+822,HPjCare,Huawei,2022-04-11,2022-04-11,,HPjCare dibangunkan bagi kegunaan kakitangan dan pesakit di Hospital Putrajaya
+822,HPjCare,iOS,2022-04-11,2022-04-11,,HPjCare dibangunkan bagi kegunaan kakitangan dan pesakit di Hospital Putrajaya
+823,MySaham2u,Android,2022-04-12,2025-02-05,,MySaham2u
+823,MySaham2u,Huawei,2022-04-12,2025-02-05,,MySaham2u
+823,MySaham2u,iOS,2022-04-12,2025-02-05,,MySaham2u
+824,MyCommodityData,Android,2022-04-18,2025-03-27,,Data Statistik Agrikomoditi
+824,MyCommodityData,Huawei,2022-04-18,2025-03-27,,Data Statistik berkaitan Agrikomoditi
+824,MyCommodityData,iOS,2022-04-18,2025-03-27,,Data Statistik berkaitan Agrikomoditi Malaysia
+825,JKR Conduit & Trunking Size,Android,2022-04-18,2022-04-18,,Aplikasi untuk mengetahui saiz Conduit serta Trunking bagi laluan kabel elektrik
+825,JKR Conduit & Trunking Size,Huawei,2022-04-18,2022-04-18,,Aplikasi untuk mengetahui saiz Conduit serta Trunking bagi laluan kabel elektrik
+825,JKR Conduit & Trunking Size,iOS,2022-04-18,2022-04-18,,Aplikasi untuk mengetahui saiz Conduit serta Trunking bagi laluan kabel elektrik
+826,M@P LibOPAC JPM,Android,2022-05-10,2023-11-02,,Aplikasi untuk kemudahan akses kepada OPAC (Online Patron Access Cataloging) JPM
+826,M@P LibOPAC JPM,Huawei,2022-05-10,2023-11-02,,Aplikasi untuk kemudahan akses kepada OPAC (Online Patron Access Cataloging) JPM
+826,M@P LibOPAC JPM,iOS,2022-05-10,2023-11-02,,Aplikasi untuk kemudahan akses kepada OPAC (Online Patron Access Cataloging) JPM
+827,MyKerja ICU JPM,Android,2022-05-12,2023-05-31,,Aplikasi merekodkan kehadiran dan keberadaan kakitangan ICU JPM.
+827,MyKerja ICU JPM,Huawei,2022-05-12,2023-05-31,,Aplikasi merekodkan kehadiran dan keberadaan kakitangan ICU JPM.
+827,MyKerja ICU JPM,iOS,2022-05-12,2023-05-31,,Aplikasi merekodkan kehadiran dan keberadaan kakitangan ICU JPM.
+829,MyFEX,Android,2022-05-23,2025-10-24,,Aplikasi mobile bagi kemudahan semakan status pendaftaran francais.
+829,MyFEX,Huawei,2022-05-23,2025-10-24,,Aplikasi kemudahan semakan pantas maklumat status pendaftaran francais.
+829,MyFEX,iOS,2022-05-23,2025-10-24,,Aplikasi mobile bagi kemudahan semakan status pendaftaran francais.
+830,MACC AR,Android,2022-05-25,,,
+831,MACC AR,Android,2022-05-26,2022-05-26,,Aplikasi menggunakan teknologi Augmented Reality bagi pendidikan antirasuah
+831,MACC AR,Huawei,2022-05-26,2022-05-26,,Aplikasi menggunakan teknologi Augmented Reality bagi pendidikan antirasuah
+831,MACC AR,iOS,2022-05-26,2022-05-26,,Aplikasi menggunakan teknologi Augmented Reality bagi pendidikan antirasuah
+832,PRIMTECH,Android,2022-05-26,2022-05-26,,Aplikasi Interaktif warga MOSTI.
+832,PRIMTECH,Huawei,2022-05-26,2022-05-26,,Aplikasi Interaktif warga MOSTI.
+832,PRIMTECH,iOS,2022-05-26,2022-05-26,,Aplikasi Interaktif warga MOSTI.
+833,eKSS,Android,2022-05-30,2025-01-13,,Aplikasi rasmi Kehakiman Sabah Sarawak
+833,eKSS,Huawei,2022-05-30,2025-01-13,,Aplikasi rasmi Kehakiman Sabah Sarawak
+833,eKSS,iOS,2022-05-30,2025-01-13,,Aplikasi rasmi Kehakiman Sabah Sarawak
+834,eCSTP,Android,2022-06-07,2025-02-19,,Carian Juruteknik yang Bertauliah bagi Sektor Penyejukbekuan dan Penyaman Udara
+834,eCSTP,Huawei,2022-06-07,2025-02-19,,Carian Juruteknik yang Bertauliah bagi Sektor Penyejukbekuan dan Penyaman Udara
+834,eCSTP,iOS,2022-06-07,2025-02-19,,Carian Juruteknik yang Bertauliah bagi Sektor Penyejukbekuan dan Penyaman Udara
+835,Sistem MyUtility MinDef,Android,2022-06-22,2022-06-22,,Modul Penghuni Sistem MyUtility RKAT Kemenetrian Pertahanan
+835,Sistem MyUtility MinDef,Huawei,2022-06-22,2022-06-22,,Modul Penghuni Sistem MyUtility RKAT Kemenetrian Pertahanan
+835,Sistem MyUtility MinDef,iOS,2022-06-22,2022-06-22,,Modul Penghuni Sistem MyUtility RKAT Kemenetrian Pertahanan
+836,Mobile Discovery,Huawei,2022-06-23,2025-03-26,2025-09-04,StatsDW 2.0 Mobile App provide quick access based on selected indicators.
+836,Mobile Discovery,Android,2022-06-23,2025-03-26,,
+836,Mobile Discovery,iOS,2022-06-23,2025-03-26,,
+837,ezStar KPDN,Android,2022-07-13,2023-10-25,,Ez STAR ialah inisiatif KPDNHEP untuk memodenkan bahagian penguatkuasaannya
+837,ezStar KPDN,Huawei,2022-07-13,2023-10-25,,Ez STAR ialah inisiatif KPDN untuk memodenkan bahagian penguatkuasaannya
+837,ezStar KPDN,iOS,2022-07-13,2023-10-25,,Ez STAR ialah inisiatif KPDN untuk memodenkan bahagian penguatkuasaannya
+840,eLesen Perikanan,Android,2022-07-19,2025-10-14,,Semakan status permohonan aktiviti perlesenan jabatan.
+840,eLesen Perikanan,Huawei,2022-07-19,2025-10-14,,Semakan status permohonan aktiviti perlesenan jabatan.
+840,eLesen Perikanan,iOS,2022-07-19,2025-10-14,,Semakan status permohonan aktiviti perlesenan jabatan.
+841,eLatihan Perikanan,Android,2022-07-26,2025-10-16,,Perkhidmatan pengurusan latihan dan kursus di Jabatan
+841,eLatihan Perikanan,Huawei,2022-07-26,2025-10-16,,Perkhidmatan pengurusan latihan dan kursus di Jabatan
+841,eLatihan Perikanan,iOS,2022-07-26,2025-10-16,,Perkhidmatan pengurusan latihan dan kursus di Jabatan
+842,MyAttendanceHSNZ,Android,2022-08-05,2026-01-09,,MyAttendanceHSNZ membolehkan pengguna merekod kehadiran
+842,MyAttendanceHSNZ,Huawei,2022-08-05,2026-01-09,,MyAttendanceHSNZ membolehkan pengguna merekod kehadiran
+842,MyAttendanceHSNZ,iOS,2022-08-05,2026-01-09,,MyAttendanceHSNZ membolehkan pengguna merekod kehadiran
+843,isign,Android,2022-08-16,2022-08-16,,iSign adalah aplikasi bahasa isyarat Islam untuk komuniti OKU Pendengaran
+843,isign,Huawei,2022-08-16,2022-08-16,,iSign adalah aplikasi bahasa isyarat Islam untuk komuniti OKU Pendengaran
+843,isign,iOS,2022-08-16,2022-08-16,,iSign adalah aplikasi bahasa isyarat Islam untuk komuniti OKU Pendengaran
+844,ezApprove,Android,2022-08-25,,,Sistem Pengurusan Kelulusan KDN (ezApprove)
+844,ezApprove,Huawei,2022-08-25,,,Sistem Pengurusan Kelulusan KDN (ezApprove)
+844,ezApprove,iOS,2022-08-25,,,Sistem Pengurusan Kelulusan KDN (ezApprove)
+845,Geran Agropreneur Muda,Android,2022-09-14,2023-06-13,,"Platform mudah dan pantas bagi permohonan Geran Agropreneur Muda, MAFI"
+845,Geran Agropreneur Muda,Huawei,2022-09-14,2023-06-13,,"Platform mudah dan pantas bagi permohonan Geran Agropreneur Muda, MAFI"
+845,Geran Agropreneur Muda,iOS,2022-09-14,2023-06-13,,"Platform mudah dan pantas bagi permohonan Geran Agropreneur Muda, MAFI"
+846,MyToxinSign,Android,2022-10-07,2024-05-29,,Maklumat tanda keracunan bagi perawis aktif pada produk racun makhluk perosak
+846,MyToxinSign,Huawei,2022-10-07,2024-05-29,,Maklumat tanda keracunan bagi perawis aktif pada produk racun makhluk perosak
+846,MyToxinSign,iOS,2022-10-07,2024-05-29,,Maklumat tanda keracunan bagi perawis aktif pada produk racun makhluk perosak
+847,iHadirKUSKOPv2,Android,2022-10-07,2026-01-12,,Sistem Kehadiran Pegawai KUSKOP
+847,iHadirKUSKOPv2,Huawei,2022-10-07,2026-01-12,,Sistem Kehadiran Pegawai KUSKOP
+847,iHadirKUSKOPv2,iOS,2022-10-07,2026-01-12,,Sistem Kehadiran Pegawai KUSKOP
+848,e-Insolvensi,Android,2022-10-13,,,Aplikasi e-Insolvensi adalah aplikasi mudah alih terbaharu MdI
+848,e-Insolvensi,Huawei,2022-10-13,,,Aplikasi e-Insolvensi adalah aplikasi mudah alih terbaharu MdI
+848,e-Insolvensi,iOS,2022-10-13,,,Aplikasi e-Insolvensi adalah aplikasi mudah alih terbaharu MdI
+849,Aplikasi Talian Kasih,Android,2022-10-17,2025-07-28,,Aplikasi Talian Kasih
+849,Aplikasi Talian Kasih,Huawei,2022-10-17,2025-07-28,,Aplikasi Talian Kasih
+849,Aplikasi Talian Kasih,iOS,2022-10-17,2025-07-28,,Sistem Aplikasi Talian Kasih
+850,ePermohonan HLP,Android,2022-10-19,2022-10-19,2024-08-19,Sistem Permohonan HLP
+850,ePermohonan HLP,Huawei,2022-10-19,2022-10-19,2024-08-19,Sistem Permohonan HLP
+850,ePermohonan HLP,iOS,2022-10-19,2022-10-19,2024-08-19,Sistem Permohonan HLP
+851,Jejak Koko,Android,2022-11-04,2025-10-21,,Aplikasi untuk mengesan asal tunggal biji koko di Malaysia.
+851,Jejak Koko,Huawei,2022-11-04,2025-10-21,,Aplikasi untuk mengesan asal tunggal biji koko di Malaysia.
+851,Jejak Koko,iOS,2022-11-04,2025-10-21,,Aplikasi untuk mengesan asal tunggal biji koko di Malaysia.
+852,MyALT,Android,2022-11-08,2025-12-22,,Sistem Pentaksiran Alternatif Sekolah Menengah
+852,MyALT,Huawei,2022-11-08,2025-12-22,,Sistem Pentaksiran Alternatif Sekolah Menengah
+852,MyALT,iOS,2022-11-08,2025-12-22,,Sistem Pentaksiran Alternatif Sekolah Menengah
+853,JPS Negeri Perak,Android,2022-11-11,,,
+854,JPS Negeri Perak,Android,2022-11-11,2024-12-17,,JPS Perak mobile apps is an initiative from Corporate Section of JPS Perak State
+854,JPS Negeri Perak,Huawei,2022-11-11,2024-12-17,,JPS Perak mobile apps is an initiative from Corporate Section of JPS Perak State
+854,JPS Negeri Perak,iOS,2022-11-11,2024-12-17,,JPS Perak mobile apps is an initiative from Corporate Section of JPS Perak State
+855,KELGOV PPST,Android,2022-11-23,,,
+856,KELGOV PPST,Android,2022-11-23,2022-11-23,,Sistem Permohonan Program Pembangunan Sains dan Teknologi
+856,KELGOV PPST,Huawei,2022-11-23,2022-11-23,,Sistem Permohonan Program Pembangunan Sains dan Teknologi
+856,KELGOV PPST,iOS,2022-11-23,2022-11-23,,Sistem Permohonan Program Pembangunan Sains dan Teknologi
+857,GIS9 mobile,Android,2022-12-13,2024-09-12,,GIS9 adalah Sistem Maklumat Geografi Negeri Sembilan.
+857,GIS9 mobile,Huawei,2022-12-13,2024-09-12,,GIS9 adalah Sistem Maklumat Geografi Negeri Sembilan.
+857,GIS9 mobile,iOS,2022-12-13,2024-09-12,,GIS9 adalah Sistem Maklumat Geografi Negeri Sembilan.
+858,TRDI News,Android,2023-01-05,2023-01-05,,TRDI News merupakan media rasmi Kerajaan Negeri.
+858,TRDI News,Huawei,2023-01-05,2023-01-05,,TRDI News merupakan media rasmi Kerajaan Negeri.
+858,TRDI News,iOS,2023-01-05,2023-01-05,,TRDI News merupakan media rasmi Kerajaan Negeri.
+859,eKANMAS,Android,2023-01-09,2025-10-14,,Sistem Pengurusan eBiosekuriti Perikanan  Jabatan Perikanan Malaysia
+859,eKANMAS,Huawei,2023-01-09,2025-10-14,,Sistem Pengurusan eBiosekuriti Perikanan  Jabatan Perikanan Malaysia
+859,eKANMAS,iOS,2023-01-09,2025-10-14,,Sistem Pengurusan eBiosekuriti Perikanan  Jabatan Perikanan Malaysia
+860,SJPay Scanner,Android,2023-01-09,2023-01-09,,Scanner app untuk SJPay
+860,SJPay Scanner,Huawei,2023-01-09,2023-01-09,,Scanner app untuk SJPay
+860,SJPay Scanner,iOS,2023-01-09,2023-01-09,,Scanner app untuk SJPay
+861,Terengganu Pay,Android,2023-01-09,2023-01-09,,Terengganu Pay
+861,Terengganu Pay,Huawei,2023-01-09,2023-01-09,,Terengganu Pay
+861,Terengganu Pay,iOS,2023-01-09,2023-01-09,,Terengganu Pay
+862,KBBM,Android,2023-01-10,2025-07-24,,Aplikasi bagi pendaftaran dan permohonan Logo Buatan Malaysia dan AKHP
+862,KBBM,Huawei,2023-01-10,2025-07-24,,Aplikasi bagi pendaftaran dan permohonan Logo Buatan Malaysia dan AKHP
+862,KBBM,iOS,2023-01-10,2025-07-24,,Aplikasi bagi pendaftaran dan permohonan Logo Buatan Malaysia dan AKHP
+863,ADU MPK,Android,2023-01-10,2023-01-10,,Saluran Aduan Bagi daerah Kemaman
+863,ADU MPK,iOS,2023-01-10,2023-01-10,,Saluran Aduan Bagi daerah Kemaman
+864,Kedah Digital,Android,2023-01-26,2023-01-26,,Aplikasi Kedah Digital Hybrid Kerajaan Negeri Kedah
+864,Kedah Digital,Huawei,2023-01-26,2023-01-26,,Aplikasi Kedah Digital Hybrid Kerajaan Negeri Kedah
+864,Kedah Digital,iOS,2023-01-26,2023-01-26,,Aplikasi Kedah Digital Hybrid Kerajaan Negeri Kedah
+865,e-Bencana Kelantan,Android,2023-02-27,2023-11-24,,Pengurusan maklumat bencana secara berpusat
+865,e-Bencana Kelantan,Huawei,2023-02-27,2023-11-24,,Pengurusan maklumat bencana secara berpusat
+865,e-Bencana Kelantan,iOS,2023-02-27,2023-11-24,,Pengurusan maklumat bencana secara berpusat
+866,IWRIMS,Android,2023-02-27,2023-02-27,,Integrated Water Resources Information Management System
+866,IWRIMS,Huawei,2023-02-27,2023-02-27,,Integrated Water Resources Information Management System
+866,IWRIMS,iOS,2023-02-27,2023-02-27,,Integrated Water Resources Information Management System
+867,GMACA,Android,2023-02-27,2023-02-27,,GMACA adalah aplikasi mudah alih untuk pengguna mendapatkan maklumat kursus.
+867,GMACA,Huawei,2023-02-27,2023-02-27,,GMACA adalah aplikasi mudah alih untuk pengguna mendapatkan maklumat kursus.
+867,GMACA,iOS,2023-02-27,2023-02-27,,GMACA adalah aplikasi mudah alih untuk pengguna mendapatkan maklumat kursus.
+868,myPMINT,Android,2023-03-01,2023-03-01,,"penyewa dan pembeli menyemak penyata bayaran, membuat bayaran dan membuat aduan"
+868,myPMINT,Huawei,2023-03-01,2023-03-01,,"penyewa dan pembeli menyemak penyata bayaran, membuat bayaran dan membuat aduan"
+868,myPMINT,iOS,2023-03-01,2023-03-01,,"penyewa dan pembeli menyemak penyata bayaran, membuat bayaran dan membuat aduan"
+869,eBuku Daftar PJS,Android,2023-03-02,2023-03-02,,Pengesahan kehadiran deponen ke premis Pesuruhjaya Sumpah
+869,eBuku Daftar PJS,Huawei,2023-03-02,2023-03-02,,Pengesahan kehadiran deponen ke premis Pesuruhjaya Sumpah
+869,eBuku Daftar PJS,iOS,2023-03-02,2023-03-02,,Pengesahan kehadiran deponen ke premis Pesuruhjaya Sumpah
+870,Aplikasi MyLOT,Android,2023-03-20,2025-11-03,,Membantu rakyat mencapai lokasi lot tanah yang telah diukur secara atas talian
+870,Aplikasi MyLOT,Huawei,2023-03-20,2025-11-03,,Membantu rakyat mencapai lokasi lot tanah yang telah diukur secara atas talian
+870,Aplikasi MyLOT,iOS,2023-03-20,2025-11-03,,Membantu rakyat mencapai lokasi lot tanah yang telah diukur secara atas talian
+871,ezJPN,Android,2023-03-20,2026-03-13,,Kemudahan semakan dan cabutan yang melibatkan urusniaga di JPN
+871,ezJPN,Huawei,2023-03-20,2026-03-13,,Kemudahan semakan dan cabutan yang melibatkan urusniaga di JPN
+871,ezJPN,iOS,2023-03-20,2026-03-13,,JPN
+872,SST 10,Android,2023-03-20,,,Semakan Maklumat Syarikat Berdaftar SST
+872,SST 10,Huawei,2023-03-20,,,Semakan Maklumat Syarikat Berdaftar SST
+872,SST 10,iOS,2023-03-20,,,Semakan Maklumat Syarikat Berdaftar SST
+873,DDMS 2.0,Android,2023-03-22,2024-09-26,,DDMS 2.0 untuk menguruskan rekod-rekod digital
+873,DDMS 2.0,Huawei,2023-03-22,2024-09-26,,DDMS 2.0 untuk menguruskan rekod-rekod digital
+873,DDMS 2.0,iOS,2023-03-22,2024-09-26,,DDMS 2.0 untuk menguruskan rekod-rekod digital
+874,E-Syariah,Android,2023-03-23,2025-01-14,,Platform bagi pengguna akses informasi esyariah yang relevan melalui mobil
+874,E-Syariah,Huawei,2023-03-23,2025-01-14,,Platform bagi pengguna akses informasi esyariah yang relevan melalui mobil
+874,E-Syariah,iOS,2023-03-23,2025-01-14,,Platform bagi pengguna akses informasi esyariah yang relevan melalui mobil
+875,BOMBA eFEIS,Android,2023-03-23,2023-11-16,,Mengimbas kod QR pada alat pemadam api (APA) untuk semakan maklumat
+875,BOMBA eFEIS,Huawei,2023-03-23,2023-11-16,,Mengimbas kod QR pada alat pemadam api (APA) untuk semakan maklumat
+875,BOMBA eFEIS,iOS,2023-03-23,2023-11-16,,Mengimbas kod QR pada alat pemadam api (APA) untuk semakan maklumat
+876,MelakaPay,Android,2023-03-30,2023-03-30,,Gerbang Pembayaran Bersepadu Kerajaan Negeri Melaka
+876,MelakaPay,Huawei,2023-03-30,2023-03-30,,Gerbang Pembayaran Bersepadu Kerajaan Negeri Melaka
+876,MelakaPay,iOS,2023-03-30,2023-03-30,,Gerbang Pembayaran Bersepadu Kerajaan Negeri Melaka
+877,MyTrees@Melaka,Android,2023-03-30,2023-03-30,,"Maklumat pokok termasuk spesis, bilangan dan lokasi bagi negeri Melaka."
+877,MyTrees@Melaka,Huawei,2023-03-30,2023-03-30,,"Maklumat pokok termasuk spesis, bilangan dan lokasi bagi negeri Melaka."
+877,MyTrees@Melaka,iOS,2023-03-30,2023-03-30,,"Maklumat pokok termasuk spesis, bilangan dan lokasi bagi negeri Melaka."
+878,DOSM Mobile,Android,2023-04-03,2024-02-05,,Aplikasi DOSM ini dibangunkan oleh Jabatan Perangkaan Malaysia (DOSM).
+878,DOSM Mobile,Huawei,2023-04-03,2024-02-05,,Aplikasi DOSM ini dibangunkan oleh Jabatan Perangkaan Malaysia (DOSM).
+878,DOSM Mobile,iOS,2023-04-03,2024-02-05,,Aplikasi DOSM ini dibangunkan oleh Jabatan Perangkaan Malaysia (DOSM).
+879,GeoTanaman,Android,2023-04-11,2023-08-28,,"Mengurus, menganalisis dan memaparkan maklumat geospatial tanaman makanan negara"
+879,GeoTanaman,Huawei,2023-04-11,2023-08-28,,"Mengurus, menganalisis dan memaparkan maklumat geospatial tanaman makanan negara"
+879,GeoTanaman,iOS,2023-04-11,2023-08-28,,"Mengurus, menganalisis dan memaparkan maklumat geospatial tanaman makanan negara"
+880,iDengue Untuk Komuniti,Android,2023-04-13,2025-05-06,,Sistem iDengue Untuk Komuniti adalah aplikasi untuk menyebarkan maklumat denggi.
+880,iDengue Untuk Komuniti,Huawei,2023-04-13,2025-05-06,,Sistem iDengue Untuk Komuniti adalah aplikasi untuk menyebarkan maklumat denggi.
+880,iDengue Untuk Komuniti,iOS,2023-04-13,2025-05-06,,Sistem iDengue Untuk Komuniti adalah aplikasi untuk menyebarkan maklumat denggi.
+881,e-Tabika Perpaduan,Android,2023-05-24,2023-05-24,,Sistem pengurusan murid dan guru tabika di Tabika Perpaduan
+881,e-Tabika Perpaduan,Huawei,2023-05-24,2023-05-24,,Sistem pengurusan murid dan guru tabika di Tabika Perpaduan
+881,e-Tabika Perpaduan,iOS,2023-05-24,2023-05-24,,Sistem pengurusan murid dan guru tabika di Tabika Perpaduan
+882,ePenghulu@Perak,Android,2023-05-26,2024-10-11,,epenghulu
+882,ePenghulu@Perak,Huawei,2023-05-26,2024-10-11,,epenghulu
+882,ePenghulu@Perak,iOS,2023-05-26,2024-10-11,,epenghulu
+883,Park@Perak,Android,2023-05-29,2025-04-22,,Bayaran Tempat Letak Kereta PBT Negeri Perak
+883,Park@Perak,Huawei,2023-05-29,2025-04-22,,Bayaran Tempat Letak Kereta PBT Negeri Perak
+883,Park@Perak,iOS,2023-05-29,2025-04-22,,Bayaran Tempat Letak Kereta PBT Negeri Perak
+884,ICS,Android,2023-06-12,2026-03-06,,Aplikasi ICS
+884,ICS,Huawei,2023-06-12,2026-03-06,,Aplikasi ICS
+884,ICS,iOS,2023-06-12,2026-03-06,,Aplikasi ICS
+885,eKehadiranJBPM,Android,2023-06-16,2023-07-20,,Sistem kehadiran warga JBPM yang bertugas di bangunan Ibu Pejabat JBPM sahaja.
+885,eKehadiranJBPM,Huawei,2023-06-16,2023-07-20,,Sistem kehadiran warga JBPM yang bertugas di bangunan Ibu Pejabat JBPM sahaja.
+885,eKehadiranJBPM,iOS,2023-06-16,2023-07-20,,Sistem kehadiran warga JBPM yang bertugas di bangunan Ibu Pejabat JBPM sahaja.
+886,MyEvent,Android,2023-06-20,2025-01-13,,"Pendaftaran dan pengesahan pengguna bagi kegunaan bengkel, mesyuarat dan majlis."
+886,MyEvent,Huawei,2023-06-20,2025-01-13,,"Pendaftaran dan pengesahan pengguna bagi kegunaan bengkel, mesyuarat dan majlis."
+886,MyEvent,iOS,2023-06-20,2025-01-13,,"Pendaftaran dan pengesahan pengguna bagi kegunaan bengkel, mesyuarat dan majlis."
+887,iForest Kedah,Android,2023-06-27,2023-06-27,,Permohonan Permit Kemasukan ke Hutan Simpan Kekal Negeri Kedah
+887,iForest Kedah,Huawei,2023-06-27,2023-06-27,,Permohonan Permit Kemasukan ke Hutan Simpan Kekal Negeri Kedah
+887,iForest Kedah,iOS,2023-06-27,2023-06-27,,Permohonan Permit Kemasukan ke Hutan Simpan Kekal Negeri Kedah
+888,eCard Pejabat SUK Perak,Android,2023-07-03,2023-07-03,,Sistem eCard Pejabat Setiausaha Kerajaan Negeri Perak
+888,eCard Pejabat SUK Perak,Huawei,2023-07-03,2023-07-03,,Sistem eCard Pejabat Setiausaha Kerajaan Negeri Perak
+888,eCard Pejabat SUK Perak,iOS,2023-07-03,2023-07-03,,Sistem eCard Pejabat Setiausaha Kerajaan Negeri Perak
+889,SISTEM IDENTIFIKASI VESEL SIV,Android,2023-07-07,2025-07-30,,MENDAPATKAN MAKLUMAT TERKINI BAGI VESEL-VESEL YANG BERDAFTAR
+889,SISTEM IDENTIFIKASI VESEL SIV,Huawei,2023-07-07,2025-07-30,,MENDAPATKAN MAKLUMAT TERKINI BAGI VESEL-VESEL YANG BERDAFTAR
+889,SISTEM IDENTIFIKASI VESEL SIV,iOS,2023-07-07,2025-07-30,,MENDAPATKAN MAKLUMAT TERKINI BAGI VESEL-VESEL YANG BERDAFTAR
+890,CIDB,Android,2023-07-18,2023-07-18,,Membantu pengguna mendapatkan maklumat yang sah berkaitan Industri Pembinaan
+890,CIDB,Huawei,2023-07-18,2023-07-18,,Membantu pengguna mendapatkan maklumat yang sah berkaitan Industri Pembinaan
+890,CIDB,iOS,2023-07-18,2023-07-18,,Membantu pengguna mendapatkan maklumat yang sah berkaitan Industri Pembinaan
+891,Tariff,Android,2023-07-20,2023-07-20,,Orang awam membuat semakan kod tariff
+891,Tariff,Huawei,2023-07-20,2023-07-20,,Orang awam membuat semakan kod tariff
+891,Tariff,iOS,2023-07-20,2023-07-20,,Orang awam membuat semakan kod tariff
+892,Penang Sport Facilities,Android,2023-07-24,2025-11-20,,Pemetaan lokasi kemudahan sukan negeri Pulau Pinang
+892,Penang Sport Facilities,Huawei,2023-07-24,2025-11-20,,Pemetaan lokasi kemudahan sukan negeri Pulau Pinang
+892,Penang Sport Facilities,iOS,2023-07-24,2025-11-20,,Pemetaan lokasi kemudahan sukan negeri Pulau Pinang
+893,MyKiblat,Android,2023-08-03,2025-01-06,,"MyKiblat adalah aplikasi saintifik untuk mengira waktu solat, waktu lintasan"
+893,MyKiblat,Huawei,2023-08-03,2025-01-06,,"MyKiblat adalah aplikasi saintifik untuk mengira waktu solat, waktu lintasan"
+893,MyKiblat,iOS,2023-08-03,2025-01-06,,"MyKiblat adalah aplikasi saintifik untuk mengira waktu solat, waktu lintasan"
+894,MARDI AgriLearn,Android,2023-08-15,2025-02-25,,Platform pembelajaran atas talian berkaitan teknologi pertanian
+894,MARDI AgriLearn,Huawei,2023-08-15,2025-02-25,,Platform pembelajaran atas talian berkaitan teknologi pertanian
+894,MARDI AgriLearn,iOS,2023-08-15,2025-02-25,,Platform pembelajaran atas talian berkaitan teknologi pertanian
+895,HerbaXpress,Android,2023-09-11,2023-09-11,,Platform untuk maklumat berpusat mengenai industri herba Malaysia
+895,HerbaXpress,Huawei,2023-09-11,2023-09-11,,Platform untuk maklumat berpusat mengenai industri herba Malaysia
+895,HerbaXpress,iOS,2023-09-11,2023-09-11,,Platform untuk maklumat berpusat mengenai industri herba Malaysia
+896,HSISmedic for Clinicians,Android,2023-09-11,2024-08-01,,"Aplikasi mudah alih  untuk petugas kesihatan di HSIS, Serdang"
+896,HSISmedic for Clinicians,Huawei,2023-09-11,2024-08-01,,"Aplikasi mudah alih  untuk petugas kesihatan di HSIS, Serdang"
+896,HSISmedic for Clinicians,iOS,2023-09-11,2024-08-01,,"Aplikasi mudah alih  untuk petugas kesihatan di HSIS, Serdang"
+897,PgGOV ePPN,Android,2023-09-18,2025-07-15,,Informasi dan Kemudahan Bayaran Pinjaman Pendidikan Pulau Pinang
+897,PgGOV ePPN,Huawei,2023-09-18,2025-07-15,,Informasi dan Kemudahan Bayaran Pinjaman Pendidikan Pulau Pinang
+897,PgGOV ePPN,iOS,2023-09-18,2025-07-15,,Informasi dan Kemudahan Bayaran Pinjaman Pendidikan Pulau Pinang
+898,MFLS,Android,2023-09-27,2025-03-06,,Alumni MFLS
+898,MFLS,Huawei,2023-09-27,2025-03-06,,Alumni MFLS
+898,MFLS,iOS,2023-09-27,2025-03-06,,Alumni MFLS
+899,MyJAS Aduan,Android,2023-10-02,2024-02-27,,Aduan berkaitan Pencemaran Alam Sekitar
+899,MyJAS Aduan,Huawei,2023-10-02,2024-02-27,,Aduan berkaitan Pencemaran Alam Sekitar
+899,MyJAS Aduan,iOS,2023-10-02,2024-02-27,,Aduan berkaitan Pencemaran Alam Sekitar
+900,Peruntukan YAB MB,Android,2023-10-02,2025-07-28,,Sistem in berperanan menyelaras peruntukan pembangunan dibawah YAB MB.
+900,Peruntukan YAB MB,Huawei,2023-10-02,2025-07-28,,Sistem in berperanan menyelaras peruntukan pembangunan dibawah YAB MB.
+900,Peruntukan YAB MB,iOS,2023-10-02,2025-07-28,,Sistem in berperanan menyelaras peruntukan pembangunan dibawah YAB MB.
+901,CODIQ-My,Android,2023-10-05,2023-10-05,,
+901,CODIQ-My,Huawei,2023-10-05,2023-10-05,,
+901,CODIQ-My,iOS,2023-10-05,2023-10-05,,
+902,mySAFE KPDN,Android,2023-10-18,2025-07-15,,Aplikasi mySAFE dibangunkan untuk memberi maklumat mengenai keselamatan produk
+902,mySAFE KPDN,Huawei,2023-10-18,2025-07-15,,Aplikasi mySAFE dibangunkan untuk memberi maklumat mengenai keselamatan produk
+902,mySAFE KPDN,iOS,2023-10-18,2025-07-15,,Aplikasi mySAFE dibangunkan untuk memberi maklumat mengenai keselamatan produk
+903,Skim Perlindungan mySalam,Android,2023-10-19,2025-12-09,,Selamat Datang ke Aplikasi Mudah Alih Skim Perlindungan Masyarakat mySalam
+903,Skim Perlindungan mySalam,Huawei,2023-10-19,2025-12-09,,Selamat Datang ke Aplikasi Mudah Alih Skim Perlindungan Masyarakat mySalam
+903,Skim Perlindungan mySalam,iOS,2023-10-19,2025-12-09,,Selamat Datang ke Aplikasi Mudah Alih Skim Perlindungan Masyarakat mySalam
+904,MyEPS,Android,2023-10-20,2025-09-12,,Aplikasi MyEPS membenarkan ejen pemilikan semula untuk memohon permit pemilikan
+904,MyEPS,Huawei,2023-10-20,2025-09-12,,Aplikasi MyEPS membenarkan ejen pemilikan semula untuk memohon permit pemilikan
+904,MyEPS,iOS,2023-10-20,2025-09-12,,Aplikasi MyEPS membenarkan ejen pemilikan semula untuk memohon permit pemilikan
+905,EPSA,Android,2023-10-20,2023-10-20,2025-05-19,E-Pembelajaran Sektor Awam
+905,EPSA,Huawei,2023-10-20,2023-10-20,2025-05-19,E-Pembelajaran Sektor Awam
+905,EPSA,iOS,2023-10-20,2023-10-20,2025-05-19,E-Pembelajaran Sektor Awam
+906,Direktori Perak,Android,2023-11-14,2023-11-27,,Direktori Kerajaan Negeri Perak
+906,Direktori Perak,Huawei,2023-11-14,2023-11-27,,Direktori Kerajaan Negeri Perak
+906,Direktori Perak,iOS,2023-11-14,2023-11-27,,Direktori Kerajaan Negeri Perak
+909,Mufti Care,Android,2023-11-17,2024-04-08,,Mufti Care  adalah pusat sehenti bagi melaksanakan ibadah harian.
+909,Mufti Care,Huawei,2023-11-17,2024-04-08,,Mufti Care  adalah pusat sehenti bagi melaksanakan ibadah harian.
+909,Mufti Care,iOS,2023-11-17,2024-04-08,,Mufti Care  adalah pusat sehenti bagi melaksanakan ibadah harian.
+910,ezIEMS,Android,2023-11-23,2024-11-27,,ezIEMS membantu melengkapkan penguatkuasaan.
+910,ezIEMS,Huawei,2023-11-23,2024-11-27,,ezIEMS membantu melengkapkan penguatkuasaan.
+910,ezIEMS,iOS,2023-11-23,2024-11-27,,ezIEMS membantu melengkapkan penguatkuasaan.
+911,e-Training INFRA,Android,2023-11-24,2024-03-18,,Sistem Pengurusan Data Latihan INFRA
+911,e-Training INFRA,Huawei,2023-11-24,2024-03-18,,Sistem Pengurusan Data Latihan INFRA
+911,e-Training INFRA,iOS,2023-11-24,2024-03-18,,Sistem Pengurusan Data Latihan INFRA
+912,MyLAND Mobile,Android,2023-11-28,2025-12-17,,"Sistem MyLAND, Jabatan Ketua Pengarah Tanah dan Galian Persekutuan"
+912,MyLAND Mobile,Huawei,2023-11-28,2025-12-17,,"Sistem MyLAND, Jabatan Ketua Pengarah Tanah dan Galian Persekutuan"
+912,MyLAND Mobile,iOS,2023-11-28,2025-12-17,,"Sistem MyLAND, Jabatan Ketua Pengarah Tanah dan Galian Persekutuan"
+913,TAMS KPLB,Android,2023-12-15,2024-01-11,,Aplikasi bagi merekodkan kehadiran kakitangan KPLB di luar pejabat
+913,TAMS KPLB,Huawei,2023-12-15,2024-01-11,,Aplikasi bagi merekodkan kehadiran kakitangan KPLB di luar pejabat
+913,TAMS KPLB,iOS,2023-12-15,2024-01-11,,Aplikasi bagi merekodkan kehadiran kakitangan KPLB di luar pejabat
+914,Sarawak Gov App,Android,2023-12-20,2023-12-20,,Aplikasi kerajaan Sarawak
+914,Sarawak Gov App,Huawei,2023-12-20,2023-12-20,,Aplikasi kerajaan Sarawak
+914,Sarawak Gov App,iOS,2023-12-20,2023-12-20,,Aplikasi kerajaan Sarawak
+915,eSIMS Mobile,Android,2024-01-03,2024-01-03,,SISTEM PENGURUSAN INDUSTRI KESELAMATAN (eSIMS)
+915,eSIMS Mobile,Huawei,2024-01-03,2024-01-03,,SISTEM PENGURUSAN INDUSTRI KESELAMATAN (eSIMS)
+915,eSIMS Mobile,iOS,2024-01-03,2024-01-03,,SISTEM PENGURUSAN INDUSTRI KESELAMATAN (eSIMS)
+916,e-Agroperikanan DOF,Android,2024-01-08,2025-11-24,,e-Agroperikanan adalah satu sistem pangkalan data digital usahawan dan komuniti
+916,e-Agroperikanan DOF,Huawei,2024-01-08,2025-11-24,,e-Agroperikanan adalah satu sistem pangkalan data digital usahawan dan komuniti
+916,e-Agroperikanan DOF,iOS,2024-01-08,2025-11-24,,e-Agroperikanan adalah satu sistem pangkalan data digital usahawan dan komuniti
+917,TOURLIST Mobile Application,Android,2024-01-08,2024-01-18,,Tourism License and Enforcement System
+917,TOURLIST Mobile Application,Huawei,2024-01-08,2024-01-18,,Tourism License and Enforcement System
+917,TOURLIST Mobile Application,iOS,2024-01-08,2024-01-18,,Tourism License and Enforcement System
+918,MyRTKnet,Android,2024-01-15,2024-06-10,,Aplikasi MyRTKnet dibangunkan untuk pengguna Sistem MyRTKnet JUPEM.
+918,MyRTKnet,Huawei,2024-01-15,2024-06-10,,Aplikasi MyRTKnet dibangunkan untuk pengguna Sistem MyRTKnet JUPEM.
+918,MyRTKnet,iOS,2024-01-15,2024-06-10,,Aplikasi MyRTKnet dibangunkan untuk pengguna Sistem MyRTKnet JUPEM.
+919,ePingat Perak,Android,2024-01-29,2024-01-29,,Carian Penerima Pingat dan Darjah Kebesaran Negeri Perak
+919,ePingat Perak,Huawei,2024-01-29,2024-01-29,,Carian Penerima Pingat dan Darjah Kebesaran Negeri Perak
+919,ePingat Perak,iOS,2024-01-29,2024-01-29,,Carian Penerima Pingat dan Darjah Kebesaran Negeri Perak
+920,HSIScare for Patients,Android,2024-01-31,2026-02-09,,"Aplikasi mudah alih  untuk pesakit di HSIS, Serdang"
+920,HSIScare for Patients,Huawei,2024-01-31,2026-02-09,,"Aplikasi mudah alih  untuk pesakit di HSIS, Serdang"
+920,HSIScare for Patients,iOS,2024-01-31,2026-02-09,,"Aplikasi mudah alih  untuk pesakit di HSIS, Serdang"
+921,iP3KS Mobile,Android,2024-02-06,2026-01-27,,iP3KS adalah perkhidmatan dalam talian yang disediakan oleh MPKS.
+921,iP3KS Mobile,Huawei,2024-02-06,2026-01-27,,iP3KS adalah perkhidmatan dalam talian yang disediakan oleh MPKS.
+921,iP3KS Mobile,iOS,2024-02-06,2026-01-27,,iP3KS adalah perkhidmatan dalam talian yang disediakan oleh MPKS.
+922,e-Azziwaaj,Android,2024-02-07,2024-03-19,,"Bantuan perkahwinan RM1,000.00 bagi pasangan yang ingin berkahwin"
+922,e-Azziwaaj,Huawei,2024-02-07,2024-03-19,,"Bantuan perkahwinan RM1,000.00 bagi pasangan yang ingin berkahwin"
+922,e-Azziwaaj,iOS,2024-02-07,2024-03-19,,"Bantuan perkahwinan RM1,000.00 bagi pasangan yang ingin berkahwin"
+924,MyIBJKM,Android,2024-02-22,2025-12-15,,Aplikasi untuk pendaftaran kendiri mangsa bencana dan permohonan BWI
+924,MyIBJKM,Huawei,2024-02-22,2025-12-15,,Aplikasi untuk pendaftaran kendiri mangsa bencana
+924,MyIBJKM,iOS,2024-02-22,2025-12-15,,Aplikasi untuk pendaftaran kendiri mangsa bencana dan permohonan BWI
+925,MyGeoNet,Android,2024-03-04,2024-12-06,,Aplikasi MyGeoNet adalah aplikasi saintifik untuk memaparkan Data Geodetik.
+925,MyGeoNet,Huawei,2024-03-04,2024-12-06,,Aplikasi MyGeoNet adalah aplikasi saintifik untuk memaparkan Data Geodetik.
+925,MyGeoNet,iOS,2024-03-04,2024-12-06,,Aplikasi MyGeoNet adalah aplikasi saintifik untuk memaparkan Data Geodetik.
+926,MyLAPApps,Android,2024-03-22,2025-04-30,,Operator Air Negeri Perak
+926,MyLAPApps,Huawei,2024-03-22,2025-04-30,,Operator Air Negeri Perak
+926,MyLAPApps,iOS,2024-03-22,2025-04-30,,Operator Air Negeri Perak
+927,e-Directory KLN,Android,2024-03-29,2024-07-03,,Aplikasi carian direktori staf Kementerian Luar Negeri
+927,e-Directory KLN,Huawei,2024-03-29,2024-07-03,,Aplikasi carian direktori staf Kementerian Luar Negeri
+927,e-Directory KLN,iOS,2024-03-29,2024-07-03,,Aplikasi carian direktori staf Kementerian Luar Negeri
+928,Ihsan Madani,Android,2024-04-03,2024-10-28,,Ihsan Madani Kerajaan Malaysia
+928,Ihsan Madani,Huawei,2024-04-03,2024-10-28,,Ihsan Madani Kerajaan Malaysia
+928,Ihsan Madani,iOS,2024-04-03,2024-10-28,,Ihsan Madani Kerajaan Malaysia
+929,EzPetrol,Android,2024-04-12,2025-10-07,,EzPetrol memaparkan harga minyak di Malaysia yang disediakan oleh KPDN.
+929,EzPetrol,Huawei,2024-04-12,2025-10-07,,EzPetrol memaparkan harga minyak petrol dan diesel semasa di Malaysia.
+929,EzPetrol,iOS,2024-04-12,2025-10-07,,EzPetrol memaparkan harga minyak petrol dan diesel semasa di Malaysia.
+930,ePASS JIM,Android,2024-04-17,2024-06-21,,Aplikasi Mobil untuk Digital Pass (ePASS)
+930,ePASS JIM,Huawei,2024-04-17,2024-06-21,,Aplikasi Mobil untuk Digital Pass (ePASS)
+930,ePASS JIM,iOS,2024-04-17,2024-06-21,,Aplikasi Mobil untuk Digital Pass (ePASS)
+932,M@LiK,Android,2024-04-23,2024-05-17,,Aplikasi ini hanya digunakan oleh warga PKPMP
+932,M@LiK,Huawei,2024-04-23,2024-05-17,,Aplikasi ini hanya digunakan oleh warga PKPMP
+932,M@LiK,iOS,2024-04-23,2024-05-17,,Aplikasi ini hanya digunakan oleh warga PKPMP
+933,MySPR KTM Mobile,Android,2024-05-08,2025-08-20,,Aplikasi yang dibangunkan khusus untuk kegunaan Ketua Tempat Mengundi (KTM)
+933,MySPR KTM Mobile,Huawei,2024-05-08,2025-08-20,,Aplikasi yang dibangunkan khusus untuk kegunaan Ketua Tempat Mengundi (KTM)
+933,MySPR KTM Mobile,iOS,2024-05-08,2025-08-20,,Aplikasi yang dibangunkan khusus untuk kegunaan Ketua Tempat Mengundi (KTM)
+936,eHadir CIAST,Android,2024-06-12,2024-06-18,,eHadir CIAST
+936,eHadir CIAST,Huawei,2024-06-12,2024-06-18,,eHadir CIAST
+936,eHadir CIAST,iOS,2024-06-12,2024-06-18,,eHadir CIAST
+937,eTOUCH INSTUN,Android,2024-07-04,2024-07-04,,Aplikasi pengurusan kehadiran dan tugas luar/kursus
+937,eTOUCH INSTUN,Huawei,2024-07-04,2024-07-04,,Aplikasi pengurusan kehadiran dan tugas luar/kursus
+937,eTOUCH INSTUN,iOS,2024-07-04,2024-07-04,,Aplikasi pengurusan kehadiran dan tugas luar/kursus
+938,MyJPJ,Android,2024-07-05,2025-05-06,,Aplikasi MyJPJ
+938,MyJPJ,Huawei,2024-07-05,2025-05-06,,Aplikasi MyJPJ
+938,MyJPJ,iOS,2024-07-05,2025-05-06,,Aplikasi MyJPJ
+939,JPJeQ,Android,2024-07-09,2024-07-09,,JPJ Counter Queue Number System
+939,JPJeQ,Huawei,2024-07-09,2024-07-09,,JPJ Counter Queue Number System
+939,JPJeQ,iOS,2024-07-09,2024-07-09,,JPJ Counter Queue Number System
+941,MyRELA,Android,2024-07-18,2024-08-06,,Sistem Pengurusan Maklumat RELA merupakan satu sistem bersepadu
+941,MyRELA,Huawei,2024-07-18,2024-08-06,,Sistem Pengurusan Maklumat RELA merupakan satu sistem bersepadu
+941,MyRELA,iOS,2024-07-18,2024-08-06,,Sistem Pengurusan Maklumat RELA merupakan satu sistem bersepadu
+942,Sistem AgroTrade,Android,2024-08-02,2024-12-05,,sistem yang memberi kemudahan permohonan import/eksport keluaran pertanian
+942,Sistem AgroTrade,Huawei,2024-08-02,2024-12-05,,sistem yang memberi
+942,Sistem AgroTrade,iOS,2024-08-02,2024-12-05,,sistem yang memberi
+943,Visit Kuala Langat,Android,2024-08-05,2024-08-05,,Tourism Kuala Langat
+943,Visit Kuala Langat,Huawei,2024-08-05,2024-08-05,,Tourism Kuala Langat
+943,Visit Kuala Langat,iOS,2024-08-05,2024-08-05,,Tourism Kuala Langat
+944,MPKL-ADU,Android,2024-08-05,2024-08-05,,Aplikasi ini dibangunkan untuk memudahkan orang awam membuat aduan
+944,MPKL-ADU,Huawei,2024-08-05,2024-08-05,,Aplikasi ini dibangunkan untuk memudahkan orang awam membuat aduan
+944,MPKL-ADU,iOS,2024-08-05,2024-08-05,,Aplikasi ini dibangunkan untuk memudahkan orang awam membuat aduan
+945,SMART CUKAI MPKL,Android,2024-08-19,2024-08-19,,Salah satu inisiatif baharu untuk menyediakan saluran bayaran dan semakan cukai
+945,SMART CUKAI MPKL,Huawei,2024-08-19,2024-08-19,,Salah satu inisiatif baharu untuk menyediakan saluran bayaran dan semakan cukai
+945,SMART CUKAI MPKL,iOS,2024-08-19,2024-08-19,,Salah satu inisiatif baharu untuk menyediakan saluran bayaran dan semakan cukai
+931,MyICMAS,Android,2024-08-23,2024-08-23,,"Aplikasi mudah alih bagi Sistem Pengurusan Kursus Bersepadu (ICMAS), ILKAP"
+931,MyICMAS,Huawei,2024-08-23,2024-08-23,,"Aplikasi mudah alih bagi Sistem Pengurusan Kursus Bersepadu (ICMAS), ILKAP"
+931,MyICMAS,iOS,2024-08-23,2024-08-23,,"Aplikasi mudah alih bagi Sistem Pengurusan Kursus Bersepadu (ICMAS), ILKAP"
+940,IHI2GO,Android,2024-08-26,2024-09-05,,Mengumpulkan dapatan responden majikan dan pekerja melalui soal jawab IHI
+940,IHI2GO,Huawei,2024-08-26,2024-09-05,,Mengumpulkan dapatan responden majikan dan pekerja melalui soal jawab IHI
+940,IHI2GO,iOS,2024-08-26,2024-09-05,,Mengumpulkan dapatan responden majikan dan pekerja melalui soal jawab IHI
+787,Sistem eKonsular,Android,2024-08-30,2026-04-09,,Aplikasi untuk pengguna yang memerlukan perkhidmatan konsular dari KLN Malaysia
+787,Sistem eKonsular,Huawei,2024-08-30,2026-04-09,,Aplikasi untuk pengguna yang memerlukan perkhidmatan konsular dari KLN Malaysia
+787,Sistem eKonsular,iOS,2024-08-30,2026-04-09,,Aplikasi untuk pengguna yang memerlukan perkhidmatan konsular dari KLN Malaysia
+923,RekodSaya,Android,2024-08-30,2025-07-15,,Inisiatif KKM untuk mempekasa dan membolehkan masyarakat mengurus kesihatan.
+923,RekodSaya,Huawei,2024-08-30,2025-07-15,,Inisiatif KKM untuk mempekasa dan membolehkan masyarakat mengurus kesihatan.
+923,RekodSaya,iOS,2024-08-30,2025-07-15,,Inisiatif KKM untuk mempekasa dan membolehkan masyarakat mengurus kesihatan.
+947,MyPasangSurut,Android,2024-09-13,2025-03-06,,Memaparkan lokasi stesen dan jadual ramalan air pasang surut
+947,MyPasangSurut,Huawei,2024-09-13,2025-03-06,,Memaparkan lokasi stesen dan jadual ramalan air pasang surut
+947,MyPasangSurut,iOS,2024-09-13,2025-03-06,,Sistem MyPasangSurut
+948,MyFeed Calculator,Android,2024-09-19,2024-09-19,,"Merumus Makanan Harian Seimbang Untuk Lembu, Kambing dan Bebiri"
+949,RakanMET,Android,2024-09-30,2024-09-30,,RakanMET platform perkongsian maklumat mengenai fenomena cuaca di Malaysia.
+949,RakanMET,iOS,2024-09-30,2024-09-30,,RakanMET platform perkongsian maklumat mengenai fenomena cuaca di Malaysia.
+950,Sistem eBencana JKR,Android,2024-10-07,2025-06-18,,Sistem eBencana JKR menyediakan maklumat terkini berkaitan bencana di Malaysia
+950,Sistem eBencana JKR,Huawei,2024-10-07,2025-06-18,,Sistem eBencana JKR menyediakan maklumat terkini berkaitan bencana di Malaysia
+950,Sistem eBencana JKR,iOS,2024-10-07,2025-06-18,,Sistem eBencana JKR menyediakan maklumat terkini berkaitan bencana di Malaysia
+952,MyCartoGo,Android,2024-10-10,2026-02-16,,"Aplikasi untuk kegunaan pemetaan, pelancongan dan aktiviti sukan."
+952,MyCartoGo,iOS,2024-10-10,2026-02-16,,"Aplikasi untuk kegunaan pemetaan, pelancongan dan aktiviti sukan."
+953,eWargaEmas,Android,2024-10-11,2024-12-05,,Aplikasi untuk portal Warga Emas
+953,eWargaEmas,Huawei,2024-10-11,2024-12-05,,Aplikasi untuk portal Warga Emas
+953,eWargaEmas,iOS,2024-10-11,2024-12-05,,Aplikasi untuk portal Warga Emas
+954,iSPKP,Android,2024-10-11,2024-10-11,,Sistem Pelesenan Kenderaan Perdagangan (iSPKP)
+954,iSPKP,Huawei,2024-10-11,2024-10-11,,Sistem Pelesenan Kenderaan Perdagangan (iSPKP)
+954,iSPKP,iOS,2024-10-11,2024-10-11,,Sistem Pelesenan Kenderaan Perdagangan (iSPKP)
+955,n9digital,Android,2024-10-11,2024-10-11,,Saluran bantuan Kerajaan Negeri Sembilan
+955,n9digital,iOS,2024-10-11,2024-10-11,,Saluran bantuan Kerajaan Negeri Sembilan
+956,PBTPay,Android,2024-10-15,2026-02-10,,Aplikasi ini merupakan versi mudah alih kepada sistem sedia ada iaitu PBTPay.
+956,PBTPay,Huawei,2024-10-15,2026-02-10,,Aplikasi ini merupakan versi mudah alih kepada sistem sedia ada iaitu PBTPay.
+956,PBTPay,iOS,2024-10-15,2026-02-10,,Aplikasi ini merupakan versi mudah alih kepada sistem sedia ada iaitu PBTPay.
+957,MyPAKW,Android,2024-10-25,2026-03-31,,PERBELANJAAN ASAS KEHIDUPAN WAJAR (MyPAKW)
+957,MyPAKW,Huawei,2024-10-25,2026-03-31,,PERBELANJAAN ASAS KEHIDUPAN WAJAR (MyPAKW)
+957,MyPAKW,iOS,2024-10-25,2026-03-31,,PERBELANJAAN ASAS KEHIDUPAN WAJAR (MyPAKW)
+958,MARIA KKR,Android,2024-10-28,2024-10-28,,Projek KIK KKR: Saluran 10 kategori aduan kerosakan di Malaysia.
+959,JAPEN ON MOBILE,Android,2024-10-29,2026-03-10,,Pusat sehenti mengenai inisiatif dan dasar kerajaan
+959,JAPEN ON MOBILE,iOS,2024-10-29,2026-03-10,,Pusat sehenti mengenai inisiatif dan dasar kerajaan
+962,i-PKAAT,Android,2025-01-02,2025-12-03,,Penilaian Keadaan Aset Atas Talian (iPKAAT)
+962,i-PKAAT,iOS,2025-01-02,2025-12-03,,Penilaian Keadaan Aset Atas Talian (iPKAAT)
+963,EACC,Android,2025-01-07,2025-01-07,,Accreditation 2.0
+963,EACC,iOS,2025-01-07,2025-01-07,,Accreditation 2.0
+965,ESWIS Pemandu,Android,2025-01-15,2025-08-15,,Aplikasi Mobile Sistem ESWIS untuk pemandu pengangkut BT
+965,ESWIS Pemandu,Huawei,2025-01-15,2025-08-15,,Aplikasi Mobile Sistem ESWIS untuk pemandu pengangkut BT
+965,ESWIS Pemandu,iOS,2025-01-15,2025-08-15,,Aplikasi Mobile Sistem ESWIS untuk pemandu pengangkut BT
+966,MyASEAN2025,Android,2025-01-15,2025-05-21,,Aplikasi delegasi ASEAN Malaysia 2025
+966,MyASEAN2025,Huawei,2025-01-15,2025-05-21,,Aplikasi delegasi ASEAN Malaysia 2025
+966,MyASEAN2025,iOS,2025-01-15,2025-05-21,,Aplikasi delegasi ASEAN Malaysia 2025
+967,HUMS Wellness Toolkit,Android,2025-01-20,2025-01-20,2025-10-30,HUMS Wellness Toolkit adalah aplikasi mempromosikan kesejahteraan holistik
+967,HUMS Wellness Toolkit,Huawei,2025-01-20,2025-01-20,2025-10-30,HUMS Wellness Toolkit adalah aplikasi mempromosikan kesejahteraan holistik
+967,HUMS Wellness Toolkit,iOS,2025-01-20,2025-01-20,2025-10-30,HUMS Wellness Toolkit adalah aplikasi mempromosikan kesejahteraan holistik
+968,eCSO,Android,2025-02-04,2025-02-17,,Sistem eCSO bertujuan meningkatkan kecekapan dan keberkesanan perkhidmatan PKM
+968,eCSO,Huawei,2025-02-04,2025-02-17,,Sistem eCSO bertujuan meningkatkan kecekapan dan keberkesanan perkhidmatan PKM
+968,eCSO,iOS,2025-02-04,2025-02-17,,Sistem eCSO bertujuan meningkatkan kecekapan dan keberkesanan perkhidmatan PKM
+969,MyHarga,Android,2025-02-04,2026-04-02,,Sistem pemantauan dan pengumpulan harga
+969,MyHarga,Huawei,2025-02-04,2026-04-02,,Sistem pemantauan dan pengumpulan harga
+969,MyHarga,iOS,2025-02-04,2026-04-02,,Sistem pemantauan dan pengumpulan harga
+970,PriceCatcher,Android,2025-02-04,2026-01-15,,Dapatkan harga 480 barangan terpilih yang dipantau KPDN.
+970,PriceCatcher,Huawei,2025-02-04,2026-01-15,,Dapatkan harga 480 barangan terpilih yang dipantau KPDN.
+970,PriceCatcher,iOS,2025-02-04,2026-01-15,,Dapatkan harga 480 barangan terpilih yang dipantau KPDN.
+971,N9PAY,Android,2025-02-07,2025-03-14,,Pembayaran Lebih Mudah Dengan N9PAY
+971,N9PAY,Huawei,2025-02-07,2025-03-14,,Pembayaran Lebih Mudah Dengan N9PAY
+971,N9PAY,iOS,2025-02-07,2025-03-14,,Pembayaran Lebih Mudah Dengan N9PAY
+972,iPayment,Android,2025-02-07,2025-12-17,,Sistem Terimaan Elektonik Bersepadu Kerajaan Persekutuan
+972,iPayment,Huawei,2025-02-07,2025-12-17,,Sistem Terimaan Elektonik Bersepadu Kerajaan Persekutuan
+972,iPayment,iOS,2025-02-07,2025-12-17,,Sistem Terimaan Elektonik Bersepadu Kerajaan Persekutuan
+973,MARDI myPadiManager,Android,2025-02-19,2025-02-19,,Aplikasi mudah alih yang berfungsi untuk membantu petani menguruskan penanaman
+974,MARDI Teknovasi,Android,2025-02-19,2025-02-19,,MARDI Teknovasi merupakan sebuah aplikasi mudah alih yang menawarkan maklumat t
+975,eKehadiranLLM,Android,2025-02-24,2025-05-23,,eKehadiranLLM ialah versi aplikasi telefon mudah alih untuk sistem web e-Kehadir
+975,eKehadiranLLM,iOS,2025-02-24,2025-05-23,,eKehadiranLLM ialah versi aplikasi telefon mudah alih untuk sistem web e-Kehadir
+976,MARDI myBeeMenu,Android,2025-02-25,2025-02-25,,Aplikasi mudah alih yang mempunyai pangkalan data berkaitan pokok dan tumbuhan y
+977,MARDI myAgriManager,Android,2025-02-25,2025-02-25,,Aplikasi mudah alih yang berfungsi untuk membantu petani menguruskan penanaman d
+978,MARDI myAgriSmartCalculator,Android,2025-02-25,2025-02-25,,Aplikasi mudah alih yang dapat membantu petani dan bakal petani merancang dalam
+979,MyGOV Malaysia,Android,2025-02-26,2026-02-26,,Gerbang Perkhidmatan Digital Bersepadu Kerajaan
+979,MyGOV Malaysia,Huawei,2025-02-26,2026-02-26,,Gerbang Perkhidmatan Digital Bersepadu Kerajaan
+979,MyGOV Malaysia,iOS,2025-02-26,2026-02-26,,Gerbang Perkhidmatan Digital Bersepadu Kerajaan
+980,MyWorldAlert,Android,2025-03-04,2026-03-17,,Aplikasi menyediakan saluran komunikasi kepada rakyat Malaysia di Luar Negara.
+980,MyWorldAlert,Huawei,2025-03-04,2026-03-17,,Aplikasi menyediakan saluran komunikasi kepada rakyat Malaysia di Luar Negara.
+980,MyWorldAlert,iOS,2025-03-04,2026-03-17,,Aplikasi menyediakan saluran komunikasi kepada rakyat Malaysia di Luar Negara.
+981,e-Tanah Perak,Android,2025-03-10,2025-04-14,,Semakan dan Bayaran Cukai Tanah Perak
+981,e-Tanah Perak,Huawei,2025-03-10,2025-04-14,,Semakan dan Bayaran Cukai Tanah Perak
+981,e-Tanah Perak,iOS,2025-03-10,2025-04-14,,Semakan dan Bayaran Cukai Tanah Perak
+982,Permainan Tradisional,Android,2025-03-10,2025-03-10,,Permainan Tradisional Akademi Kenegaraan Malaysia
+983,Hari Ini Dalam Sejarah HIDS,Android,2025-03-20,2025-03-20,,Aplikasi Mudah Alih Hari Ini Dalam Sejarah (HIDS)
+984,MyBorderPass,Android,2025-03-25,2025-03-25,,Penyelesaian untuk memudahkan pelepasan imigresen.
+984,MyBorderPass,iOS,2025-03-25,2025-03-25,,Penyelesaian untuk memudahkan pelepasan imigresen.
+985,eGUMIS JANM,Android,2025-04-02,2026-04-01,,Kemudahan untuk orang awam membuat carian berkaitan rekod wang tidak dituntut (W
+985,eGUMIS JANM,Huawei,2025-04-02,2026-04-01,,Kemudahan untuk orang awam membuat carian berkaitan rekod wang tidak dituntut (W
+985,eGUMIS JANM,iOS,2025-04-02,2026-04-01,,Kemudahan untuk orang awam membuat carian berkaitan rekod wang tidak dituntut (W
+986,MyFormulary,Android,2025-04-02,2025-04-02,,Mengakses maklumat ubat dalam FUKKM yang terkini
+986,MyFormulary,Huawei,2025-04-02,2025-04-02,,Mengakses maklumat ubat dalam FUKKM yang terkini
+986,MyFormulary,iOS,2025-04-02,2025-04-02,,Mengakses maklumat ubat dalam FUKKM yang terkini
+987,HoSHAS,Android,2025-04-15,2025-06-13,,HoSHAS adalah aplikasi pengurusan pendaftaran dan temujanji pesakit.
+987,HoSHAS,Huawei,2025-04-15,2025-06-13,,HoSHAS adalah aplikasi pengurusan pendaftaran dan temujanji pesakit.
+987,HoSHAS,iOS,2025-04-15,2025-06-13,,HoSHAS adalah aplikasi pengurusan pendaftaran dan temujanji pesakit.
+988,eIPTS GO,Android,2025-04-18,2025-07-15,,Aplikasi mobile bagi Sistem e-IPTS
+988,eIPTS GO,Huawei,2025-04-18,2025-07-15,,Aplikasi mobile bagi Sistem e-IPTS
+988,eIPTS GO,iOS,2025-04-18,2025-07-15,,Aplikasi mobile bagi Sistem e-IPTS
+989,MyMAIK Apps,Android,2025-04-21,2025-04-21,,Portal aplikasi MAIK untuk e-perkhidmatan dan e-pembayaran
+989,MyMAIK Apps,iOS,2025-04-21,2025-04-21,,Portal aplikasi MAIK untuk e-perkhidmatan dan e-pembayaran
+990,Aduan JIPS PDRM,Android,2025-04-23,2025-06-05,,"Platform aduan untuk meningkat integriti, ketelusan & kebertanggungjawaban PDRM"
+990,Aduan JIPS PDRM,iOS,2025-04-23,2025-06-05,,"Platform aduan untuk meningkat integriti, ketelusan & kebertanggungjawaban PDRM"
+991,eCOSS,Android,2025-04-25,2026-04-01,,Merekodkan segala transaksi jualan minyak masak paket bersubsidi 1kg
+991,eCOSS,Huawei,2025-04-25,2026-04-01,,Merekodkan segala transaksi jualan minyak masak paket bersubsidi 1kg
+991,eCOSS,iOS,2025-04-25,2026-04-01,,Merekodkan segala transaksi jualan minyak masak paket bersubsidi 1kg
+992,SATRIA TD,Android,2025-05-06,2026-04-15,,SATRIA TD merupakan aplikasi yang pengurusan pentadbiran.
+992,SATRIA TD,Huawei,2025-05-06,2026-04-15,,SATRIA TD merupakan aplikasi yang pengurusan pentadbiran.
+992,SATRIA TD,iOS,2025-05-06,2026-04-15,,SATRIA TD merupakan aplikasi yang pengurusan pentadbiran.
+993,Mava Connect,Android,2025-05-07,2025-08-27,,Aplikasi bersepadu untuk pengurusan penyelenggaraan dan latihan akademi di MaVa.
+993,Mava Connect,Huawei,2025-05-07,2025-08-27,,Aplikasi mudah alih untuk pengurusan kerja-kerja penyelenggaraan di MAvA
+993,Mava Connect,iOS,2025-05-07,2025-08-27,,Aplikasi bersepadu untuk pengurusan penyelenggaraan dan latihan akademi di MaVa.
+994,JPPHMobile,Android,2025-05-21,2025-05-29,,"Mobile JPPH, JPPH, Jabatan Penilaian dan Perkhidmatan Harta, harta, penilaian"
+994,JPPHMobile,Huawei,2025-05-21,2025-05-29,,"Mobile JPPH, JPPH, Jabatan Penilaian dan Perkhidmatan Harta, harta, penilaian"
+994,JPPHMobile,iOS,2025-05-21,2025-05-29,,"Mobile JPPH, JPPH, Jabatan Penilaian dan Perkhidmatan Harta, harta, penilaian"
+995,eMAS I-KPKT,Android,2025-05-22,2026-02-09,,Aplikasi permohonan kursus dan fasiliti digital I-KPKT
+995,eMAS I-KPKT,iOS,2025-05-22,2026-02-09,,Aplikasi permohonan kursus dan fasiliti digital I-KPKT
+996,MyWarta,Android,2025-05-29,2025-11-04,,status pewartaan pegawai yang bertugas di lapangan
+996,MyWarta,Huawei,2025-05-29,2025-11-04,,status pewartaan pegawai yang bertugas di lapangan
+996,MyWarta,iOS,2025-05-29,2025-11-04,,status pewartaan pegawai yang bertugas di lapangan
+997,MyNIISe,Android,2025-06-03,2026-04-21,,Penyampaian perkhidmatan keimigresenan secara digital.
+997,MyNIISe,Huawei,2025-06-03,2026-04-21,,Penyampaian perkhidmatan keimigresenan secara digital.
+997,MyNIISe,iOS,2025-06-03,2026-04-21,,Penyampaian perkhidmatan keimigresenan secara digital.
+998,e-Lesen LRMP,Android,2025-06-12,2025-06-12,,Aplikasi untuk aktiviti pelesenan di bawah Akta Racun Makhluk Perosak 1974
+999,ezTTPM,Android,2025-06-12,2025-07-14,,"Buat pertanyaan, pemfailan, mengurus, menyemak status tuntutan & pendengaran"
+999,ezTTPM,iOS,2025-06-12,2025-07-14,,"Buat pertanyaan, pemfailan, mengurus, menyemak status tuntutan & pendengaran"
+1000,HUMS Space,Android,2025-06-30,2025-10-02,,Aplikasi khas staf Hospital Pakar UMS bagi menyokong tugasan harian
+1000,HUMS Space,Huawei,2025-06-30,2025-10-02,,Aplikasi khas staf Hospital Pakar UMS bagi menyokong tugasan harian
+1000,HUMS Space,iOS,2025-06-30,2025-10-02,,Aplikasi khas staf Hospital Pakar UMS bagi menyokong tugasan harian
+1001,KALKULATOR JANGKA HAYAT,Android,2025-07-10,2025-10-13,,Kalkulator jangka hayat
+1001,KALKULATOR JANGKA HAYAT,Huawei,2025-07-10,2025-10-13,,Kalkulator jangka hayat
+1001,KALKULATOR JANGKA HAYAT,iOS,2025-07-10,2025-10-13,,Kalkulator jangka hayat
+1002,TOURISM TEMERLOH,Android,2025-07-18,2025-07-18,,DIREKTORI PARIS TEMERLOH
+1002,TOURISM TEMERLOH,Huawei,2025-07-18,2025-07-18,,DIREKTORI PARIS TEMERLOH
+1002,TOURISM TEMERLOH,iOS,2025-07-18,2025-07-18,,DIREKTORI PARIS TEMERLOH
+1003,eMobilSUK,Android,2025-07-29,2025-11-04,,Untuk Tempahan Kenderaan SUK perak
+1003,eMobilSUK,Huawei,2025-07-29,2025-11-04,,Untuk Tempahan Kenderaan SUK perak
+1003,eMobilSUK,iOS,2025-07-29,2025-11-04,,Untuk Tempahan Kenderaan SUK perak
+1004,ePKD,Android,2025-07-31,2025-07-31,,Aplikasi ePKD adalah sistem bagi menguruskan kehadiran pengurus PKD
+1004,ePKD,Huawei,2025-07-31,2025-07-31,,Aplikasi ePKD adalah sistem bagi menguruskan kehadiran pengurus PKD
+1004,ePKD,iOS,2025-07-31,2025-07-31,,Aplikasi ePKD adalah sistem bagi menguruskan kehadiran pengurus PKD
+1005,iHadir MBAS,Android,2025-07-31,2025-07-31,,Sistem pengurusan kehadiran kakitangan Majlis Bandaraya Alor Setar online.
+1006,Respons Rakyat V2,Android,2025-08-05,2026-02-20,,Respons Rakyat ialah aplikasi mudah alih yang dibangunkan oleh BPA
+1006,Respons Rakyat V2,Huawei,2025-08-05,2026-02-20,,Respons Rakyat ialah aplikasi mudah alih yang dibangunkan oleh BPA
+1006,Respons Rakyat V2,iOS,2025-08-05,2026-02-20,,Respons Rakyat ialah aplikasi mudah alih yang dibangunkan oleh BPA
+1007,e-Vetting 3.0,Android,2025-08-08,2025-11-28,,Sistem permohonan dan semakan tapisan keselamatan oleh CGSO Malaysia.
+1007,e-Vetting 3.0,iOS,2025-08-08,2025-11-28,,Sistem permohonan dan semakan tapisan keselamatan oleh CGSO Malaysia.
+1008,MOTAMS,Android,2025-08-08,2026-02-09,,Sistem Pengurusan Kehadiran Kementerian Pengangkutan Malaysia
+1008,MOTAMS,Huawei,2025-08-08,2026-02-09,,Sistem Pengurusan Kehadiran Kementerian Pengangkutan Malaysia
+1008,MOTAMS,iOS,2025-08-08,2026-02-09,,Sistem Pengurusan Kehadiran Kementerian Pengangkutan Malaysia
+1009,MyProMIS,Android,2025-08-12,2026-03-11,,Sistem yang mengkolabarasikan semua perkhidmatan Bahagian Pengurusan Hartanah
+1009,MyProMIS,Huawei,2025-08-12,2026-03-11,,Sistem yang mengkolabarasikan semua perkhidmatan Bahagian Pengurusan Hartanah
+1009,MyProMIS,iOS,2025-08-12,2026-03-11,,Sistem yang mengkolabarasikan semua perkhidmatan Bahagian Pengurusan Hartanah
+1010,MCPTT PDRM,Android,2025-08-13,2025-12-09,,MCPTT PDRM ialah penyelesaian komunikasi suara dua hala terkini untuk PDRM
+1010,MCPTT PDRM,Huawei,2025-08-13,2025-12-09,,MCPTT PDRM ialah penyelesaian komunikasi suara dua hala terkini untuk PDRM
+1010,MCPTT PDRM,iOS,2025-08-13,2025-12-09,,MCPTT PDRM ialah penyelesaian komunikasi suara dua hala terkini untuk PDRM
+1011,JPV eVetPermit,Android,2025-08-19,2025-10-16,,Aplikasi untuk penternak memohon notifikasi kecemasan berkaitan permit ternakan
+1011,JPV eVetPermit,Huawei,2025-08-19,2025-10-16,,Aplikasi untuk penternak memohon notifikasi kecemasan berkaitan permit ternakan
+1012,e-Insolvensi,Android,2025-08-25,2025-12-10,,Aplikasi e-Insolvensi adalah aplikasi mudah alih Jabatan Insolvensi Malaysia
+1012,e-Insolvensi,Huawei,2025-08-25,2025-12-10,,Aplikasi e-Insolvensi adalah aplikasi mudah alih Jabatan Insolvensi Malaysia
+1012,e-Insolvensi,iOS,2025-08-25,2025-12-10,,Aplikasi e-Insolvensi adalah aplikasi mudah alih Jabatan Insolvensi Malaysia
+1013,MySPPIM,Android,2025-08-26,2025-10-15,,SPPIM adalah portal rasmi JAKIM untuk urusan perkahwinan Islam di Malaysia.
+1013,MySPPIM,iOS,2025-08-26,2025-10-15,,SPPIM adalah portal rasmi JAKIM untuk urusan perkahwinan Islam di Malaysia.
+1014,MySRS,Android,2025-09-11,2025-11-25,,MySRS ialah sebuah sistem pengurusan rondaan sukarela
+1014,MySRS,iOS,2025-09-11,2025-11-25,,MySRS ialah sebuah sistem pengurusan rondaan sukarela
+1015,SPPro Kalendar,Android,2025-09-18,2025-10-01,,Modul paparan kalendar masa nyata
+1015,SPPro Kalendar,Huawei,2025-09-18,2025-10-01,,Modul paparan kalendar masa nyata
+1015,SPPro Kalendar,iOS,2025-09-18,2025-10-01,,Modul paparan kalendar masa nyata
+1016,MyGeoServe Lite,Android,2025-09-23,2026-02-25,,Aplikasi ini dibangunkan untuk membuat keputusan berdasarkan maklumat geospatial
+1016,MyGeoServe Lite,iOS,2025-09-23,2026-02-25,,Aplikasi ini dibangunkan untuk membuat keputusan berdasarkan maklumat geospatial
+1017,MyZULU Health,Android,2025-10-02,2026-01-21,,MyZULU Health ialah platform Aplikasi Mudah Alih.
+1017,MyZULU Health,iOS,2025-10-02,2026-01-21,,MyZULU Health ialah platform Aplikasi Mudah Alih.
+1018,Ruma-H,Android,2025-10-03,2025-10-03,,Ruma-H membolehkan pemantauan jarak jauh untuk mengurus penyakit berjangkit.
+1019,ePerolehan MBIP,Android,2025-10-07,2025-10-07,,"Aplikasi rasmi ePerolehan MBIP untuk urusan tender, sebutharga, dan pendaftaran"
+1019,ePerolehan MBIP,Huawei,2025-10-07,2025-10-07,,"Aplikasi rasmi ePerolehan MBIP untuk urusan tender, sebutharga, dan pendaftaran"
+1019,ePerolehan MBIP,iOS,2025-10-07,2025-10-07,,"Aplikasi rasmi ePerolehan MBIP untuk urusan tender, sebutharga, dan pendaftaran"
+1020,eHadir PUO,Android,2025-10-08,2025-10-29,,Aplikasi ini berfungsi untuk memaparkan transaksi kehadiran kakitangan di PUO.
+1021,eProtective Security,Android,2025-10-10,2025-10-10,,ePS adalah aplikasi CGSO untuk perkhidmatan pengurusan keselamatan perlindungan
+1021,eProtective Security,Huawei,2025-10-10,2025-10-10,,ePS adalah aplikasi CGSO untuk perkhidmatan pengurusan keselamatan perlindungan
+1021,eProtective Security,iOS,2025-10-10,2025-10-10,,ePS adalah aplikasi CGSO untuk perkhidmatan pengurusan keselamatan perlindungan
+1022,SmartKADASTER2.0,Android,2025-10-17,2025-12-04,,SmartKADASTER 2.0
+1023,MyDIMS,Android,2025-10-23,2026-02-27,,MyDIMS menyediakan maklumat terkini berkaitan bencana di Malaysia.
+1023,MyDIMS,Huawei,2025-10-23,2026-02-27,,MyDIMS menyediakan maklumat terkini berkaitan bencana di Malaysia.
+1023,MyDIMS,iOS,2025-10-23,2026-02-27,,MyDIMS menyediakan maklumat terkini berkaitan bencana di Malaysia.
+1024,MECHIS Tools,Android,2025-10-23,2025-10-23,,MECHIS menyusun data M&E dan SCADA untuk JPS Malaysia dan agensi luar.
+1024,MECHIS Tools,iOS,2025-10-23,2025-10-23,,MECHIS menyusun data M&E dan SCADA untuk JPS Malaysia dan agensi luar.
+1025,SaveME 999,Android,2025-10-26,2026-03-24,,Aplikasi SaveME 999 membolehkan pengguna membuat permintaan bantuan kecemasan.
+1025,SaveME 999,iOS,2025-10-26,2026-03-24,,Aplikasi SaveME 999 membolehkan pengguna membuat permintaan bantuan kecemasan.
+1026,FLMIS PDRM,Android,2025-11-04,2025-11-04,,Platform operasi untuk meningkat keberkesanan dan ketelusan PDRM
+1026,FLMIS PDRM,Huawei,2025-11-04,2025-11-04,,Platform operasi untuk meningkat keberkesanan dan ketelusan PDRM
+1026,FLMIS PDRM,iOS,2025-11-04,2025-11-04,,Platform operasi untuk meningkat keberkesanan dan ketelusan PDRM
+1027,LCC Paddy,Android,2025-11-05,2025-11-05,,Aplikasi pintar untuk petani padi merekod dan analisis warna daun menggunakan ca
+1027,LCC Paddy,Huawei,2025-11-05,2025-11-05,,Aplikasi pintar untuk petani padi merekod dan analisis warna daun menggunakan ca
+1027,LCC Paddy,iOS,2025-11-05,2025-11-05,,Aplikasi pintar untuk petani padi merekod dan analisis warna daun menggunakan ca
+1028,NaSUM,Android,2025-11-05,2025-11-05,,NaSUM (National Subsurface Utility Mapping) - Jabatan Ukur dan Pemetaan Malaysia
+1028,NaSUM,iOS,2025-11-05,2025-11-05,,NaSUM (National Subsurface Utility Mapping) - Jabatan Ukur dan Pemetaan Malaysia
+1029,MYJalan2.0 KKR,Android,2025-11-07,2026-04-10,,Saluran hebahan dan aduan kerosakan jalan
+1029,MYJalan2.0 KKR,Huawei,2025-11-07,2026-04-10,,Saluran hebahan dan aduan kerosakan jalan
+1029,MYJalan2.0 KKR,iOS,2025-11-07,2026-04-10,,Saluran hebahan dan aduan kerosakan jalan
+1030,IMVolunteer,Android,2025-11-13,2025-11-14,,Pendafataran sahabat KDN
+1030,IMVolunteer,Huawei,2025-11-13,2025-11-14,,Pendafataran sahabat KDN
+1030,IMVolunteer,iOS,2025-11-13,2025-11-14,,Pendafataran sahabat KDN
+1031,MyFiRSt,Android,2025-11-19,2025-11-19,,Sistem Pengurusan Sumber Perikanan Malaysia
+1031,MyFiRSt,Huawei,2025-11-19,2025-11-19,,Sistem Pengurusan Sumber Perikanan Malaysia
+1031,MyFiRSt,iOS,2025-11-19,2025-11-19,,Sistem Pengurusan Sumber Perikanan Malaysia
+1032,AIMS,Android,2026-01-08,2026-04-15,,AIMS: Aplikasi bagi program Artificial Insemination (AI)
+1032,AIMS,Huawei,2026-01-08,2026-04-15,,AIMS: Aplikasi bagi program Artificial Insemination (AI)
+1033,myspp,Android,2026-01-15,2026-01-15,,Semakan status pinjaman
+1034,HUMS Wellness,Android,2026-01-15,2026-01-15,,HUMS Wellness Toolkit adalah aplikasi mempromosikan kesejahteraan holistik
+1035,MITS2.0,Android,2026-01-22,2026-01-22,,MITS2.0 mobile mengandungi 3 fungsi pendataan klinikal Perkhidmatan Psikiatri
+1035,MITS2.0,Huawei,2026-01-22,2026-01-22,,MITS2.0 mobile mengandungi 3 fungsi pendataan klinikal Perkhidmatan Psikiatri
+1035,MITS2.0,iOS,2026-01-22,2026-01-22,,MITS2.0 mobile mengandungi 3 fungsi pendataan klinikal Perkhidmatan Psikiatri
+1037,MyAIMS MBJB,Android,2026-02-09,2026-03-18,,Sistem Pengurusan Aset Bersepadu
+1037,MyAIMS MBJB,iOS,2026-02-09,2026-03-18,,Sistem Pengurusan Aset Bersepadu
+1039,Info Jualan Rahmah Madani,Android,2026-03-07,2026-04-07,,Aplikasi Mobil PJRM membenarkan pengguna awam melihat lokasi program PJRM
+1039,Info Jualan Rahmah Madani,Huawei,2026-03-07,2026-04-07,,Aplikasi Mobil PJRM membenarkan pengguna awam melihat lokasi program PJRM
+1039,Info Jualan Rahmah Madani,iOS,2026-03-07,2026-04-07,,Aplikasi Mobil PJRM membenarkan pengguna awam melihat lokasi program PJRM
+1040,Data Apps KPDN,Android,2026-03-11,2026-03-11,,Sumber rujukan data KPDN bagi data kementerian
+1040,Data Apps KPDN,Huawei,2026-03-11,2026-03-11,,Sumber rujukan data KPDN bagi data kementerian
+1040,Data Apps KPDN,iOS,2026-03-11,2026-03-11,,Sumber rujukan data KPDN bagi data kementerian

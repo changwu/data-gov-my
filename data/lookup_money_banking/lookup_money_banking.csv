@@ -1,0 +1,31 @@
+file,variable,variable_en,variable_bm
+money_aggregates,m1_total,M1: Total,M1: Jumlah
+money_aggregates,m2_total,M2: Total,M2: Jumlah
+money_aggregates,m3_total,M3: Total,M3: Jumlah
+money_aggregates,m1_currency,M1: Currency in Circulation,M1: Mata Wang dalam Edaran
+money_aggregates,m1_deposit_demand,M1: Demand Deposits,M1: Deposit Permintaan
+money_aggregates,m2_deposit_saving,M2: Savings Deposits,M2: Deposit Tabungan
+money_aggregates,m2_deposit_fixed,M2: Fixed Deposits,M2: Deposit Tetap
+money_aggregates,m2_nid,M2: NIDs,M2: NID
+money_aggregates,m2_repo,M2: Repos,M2: Repo
+money_aggregates,m2_deposit_fx,M2: Foreign Currency Deposits,M2: Deposit Mata Wang Asing
+money_aggregates,m2_deposit_other,M2: Other Deposits,M2: Lain-lain Deposit
+money_aggregates,m3_deposit_other,M3: Deposits with Other Banking Institutions,M3: Kadar Deposit di Institusi Perbankan Lain
+interest_rates,fdr_1mo,Fixed Deposit Rate (1mo),Kadar Deposit Tetap Purata Berwajaran (1 bulan)
+interest_rates,fdr_3mo,Fixed Deposit Rate (3mo),Kadar Deposit Tetap Purata Berwajaran (3 bulan)
+interest_rates,fdr_6mo,Fixed Deposit Rate (6mo),Kadar Deposit Tetap Purata Berwajaran (6 bulan)
+interest_rates,fdr_9mo,Fixed Deposit Rate (9mo),Kadar Deposit Tetap Purata Berwajaran (9 bulan)
+interest_rates,fdr_12mo,Fixed Deposit Rate (12mo),Kadar Deposit Tetap Purata Berwajaran (12 bulan)
+interest_rates,wafdr_1mo,Weighted Avg Fixed Deposit Rate (1mo),Kadar Deposit Tetap Purata Berwajaran (1 bulan)
+interest_rates,wafdr_3mo,Weighted Avg Fixed Deposit Rate (3mo),Kadar Deposit Tetap Purata Berwajaran (3 bulan)
+interest_rates,wafdr_6mo,Weighted Avg Fixed Deposit Rate (6mo),Kadar Deposit Tetap Purata Berwajaran (6 bulan)
+interest_rates,wafdr_9mo,Weighted Avg Fixed Deposit Rate (9mo),Kadar Deposit Tetap Purata Berwajaran (9 bulan)
+interest_rates,wafdr_12mo,Weighted Avg Fixed Deposit Rate (12mo),Kadar Deposit Tetap Purata Berwajaran (12 bulan)
+interest_rates,sr,Savings Deposit Rate,Kadar Deposit Tabungan
+interest_rates,wasr,Weighted Avg Savings Deposit Rate,Kadar Deposit Tabungan Purata Berwajaran 
+interest_rates,br,Base Rate (BR),Kadar Asas (BR)
+interest_rates,wabr,Weighted Avg BR,BR Purata Berwajaran 
+interest_rates,blr,Base Lending Rate (BLR),Kadar Pinjaman Asas (BLR)
+interest_rates,wablr,Weighted Avg BLR,BLR Purata Berwajaran 
+interest_rates,alr,Avg Lending Rate (ALR) on Outstanding Loans,Kadar Pinjaman Purata (ALR) bagi Pinjaman Terkumpul
+interest_rates,walr,Weighted ALR,ALR Berwajaran

@@ -1,0 +1,5685 @@
+date,state,office,passports
+2020-01-01,Malaysia,All,188991
+2020-02-01,Malaysia,All,123109
+2020-03-01,Malaysia,All,51693
+2020-04-01,Malaysia,All,1563
+2020-05-01,Malaysia,All,5632
+2020-06-01,Malaysia,All,13923
+2020-07-01,Malaysia,All,22255
+2020-08-01,Malaysia,All,20822
+2020-09-01,Malaysia,All,29107
+2020-10-01,Malaysia,All,26589
+2020-11-01,Malaysia,All,20000
+2020-12-01,Malaysia,All,24421
+2021-01-01,Malaysia,All,19437
+2021-02-01,Malaysia,All,20696
+2021-03-01,Malaysia,All,36938
+2021-04-01,Malaysia,All,34701
+2021-05-01,Malaysia,All,24608
+2021-06-01,Malaysia,All,13203
+2021-07-01,Malaysia,All,25465
+2021-08-01,Malaysia,All,29295
+2021-09-01,Malaysia,All,32332
+2021-10-01,Malaysia,All,53643
+2021-11-01,Malaysia,All,74017
+2021-12-01,Malaysia,All,79670
+2022-01-01,Malaysia,All,62782
+2022-02-01,Malaysia,All,63703
+2022-03-01,Malaysia,All,100432
+2022-04-01,Malaysia,All,156679
+2022-05-01,Malaysia,All,230303
+2022-06-01,Malaysia,All,293894
+2022-07-01,Malaysia,All,262137
+2022-08-01,Malaysia,All,291181
+2022-09-01,Malaysia,All,284910
+2022-10-01,Malaysia,All,277514
+2022-11-01,Malaysia,All,248066
+2022-12-01,Malaysia,All,302686
+2023-01-01,Malaysia,All,278810
+2023-02-01,Malaysia,All,306536
+2023-03-01,Malaysia,All,284693
+2023-04-01,Malaysia,All,235249
+2023-05-01,Malaysia,All,273983
+2023-06-01,Malaysia,All,234408
+2023-07-01,Malaysia,All,252604
+2023-08-01,Malaysia,All,246125
+2023-09-01,Malaysia,All,226146
+2023-10-01,Malaysia,All,239268
+2023-11-01,Malaysia,All,226851
+2023-12-01,Malaysia,All,253152
+2024-01-01,Malaysia,All,268160
+2024-02-01,Malaysia,All,258146
+2024-03-01,Malaysia,All,218356
+2024-04-01,Malaysia,All,205924
+2024-05-01,Malaysia,All,227862
+2024-06-01,Malaysia,All,207777
+2024-07-01,Malaysia,All,223129
+2024-08-01,Malaysia,All,217832
+2024-09-01,Malaysia,All,221730
+2024-10-01,Malaysia,All,210219
+2020-01-01,Johor,All,35037
+2020-02-01,Johor,All,
+2020-03-01,Johor,All,14343
+2020-04-01,Johor,All,57
+2020-05-01,Johor,All,2025
+2020-06-01,Johor,All,3040
+2020-07-01,Johor,All,4485
+2020-08-01,Johor,All,4179
+2020-09-01,Johor,All,12076
+2020-10-01,Johor,All,14104
+2020-11-01,Johor,All,9308
+2020-12-01,Johor,All,6829
+2021-01-01,Johor,All,5477
+2021-02-01,Johor,All,6733
+2021-03-01,Johor,All,13384
+2021-04-01,Johor,All,13884
+2021-05-01,Johor,All,9434
+2021-06-01,Johor,All,3027
+2021-07-01,Johor,All,9244
+2021-08-01,Johor,All,11225
+2021-09-01,Johor,All,9819
+2021-10-01,Johor,All,11550
+2021-11-01,Johor,All,14831
+2021-12-01,Johor,All,18112
+2022-01-01,Johor,All,17084
+2022-02-01,Johor,All,13661
+2022-03-01,Johor,All,20330
+2022-04-01,Johor,All,35941
+2022-05-01,Johor,All,55355
+2022-06-01,Johor,All,61957
+2022-07-01,Johor,All,51494
+2022-08-01,Johor,All,49692
+2022-09-01,Johor,All,44839
+2022-10-01,Johor,All,45691
+2022-11-01,Johor,All,38632
+2022-12-01,Johor,All,52133
+2023-01-01,Johor,All,46519
+2023-02-01,Johor,All,50210
+2023-03-01,Johor,All,44214
+2023-04-01,Johor,All,39191
+2023-05-01,Johor,All,45053
+2023-06-01,Johor,All,36979
+2023-07-01,Johor,All,40090
+2023-08-01,Johor,All,39356
+2023-09-01,Johor,All,32720
+2023-10-01,Johor,All,38704
+2023-11-01,Johor,All,37237
+2023-12-01,Johor,All,41021
+2024-01-01,Johor,All,43208
+2024-02-01,Johor,All,43247
+2024-03-01,Johor,All,39330
+2024-04-01,Johor,All,35647
+2024-05-01,Johor,All,36963
+2024-06-01,Johor,All,35460
+2024-07-01,Johor,All,36321
+2024-08-01,Johor,All,32967
+2024-09-01,Johor,All,37405
+2024-10-01,Johor,All,34542
+2020-01-01,Kedah,All,10452
+2020-02-01,Kedah,All,
+2020-03-01,Kedah,All,2410
+2020-04-01,Kedah,All,1
+2020-05-01,Kedah,All,120
+2020-06-01,Kedah,All,201
+2020-07-01,Kedah,All,435
+2020-08-01,Kedah,All,351
+2020-09-01,Kedah,All,275
+2020-10-01,Kedah,All,349
+2020-11-01,Kedah,All,315
+2020-12-01,Kedah,All,483
+2021-01-01,Kedah,All,259
+2021-02-01,Kedah,All,286
+2021-03-01,Kedah,All,570
+2021-04-01,Kedah,All,419
+2021-05-01,Kedah,All,259
+2021-06-01,Kedah,All,128
+2021-07-01,Kedah,All,483
+2021-08-01,Kedah,All,384
+2021-09-01,Kedah,All,700
+2021-10-01,Kedah,All,1923
+2021-11-01,Kedah,All,3089
+2021-12-01,Kedah,All,3721
+2022-01-01,Kedah,All,2287
+2022-02-01,Kedah,All,2538
+2022-03-01,Kedah,All,3967
+2022-04-01,Kedah,All,6368
+2022-05-01,Kedah,All,10857
+2022-06-01,Kedah,All,13068
+2022-07-01,Kedah,All,13731
+2022-08-01,Kedah,All,14669
+2022-09-01,Kedah,All,15283
+2022-10-01,Kedah,All,15672
+2022-11-01,Kedah,All,13101
+2022-12-01,Kedah,All,15390
+2023-01-01,Kedah,All,16290
+2023-02-01,Kedah,All,18816
+2023-03-01,Kedah,All,16268
+2023-04-01,Kedah,All,13730
+2023-05-01,Kedah,All,14116
+2023-06-01,Kedah,All,12036
+2023-07-01,Kedah,All,15338
+2023-08-01,Kedah,All,12962
+2023-09-01,Kedah,All,13688
+2023-10-01,Kedah,All,13583
+2023-11-01,Kedah,All,12868
+2023-12-01,Kedah,All,15089
+2024-01-01,Kedah,All,15832
+2024-02-01,Kedah,All,14557
+2024-03-01,Kedah,All,11809
+2024-04-01,Kedah,All,11370
+2024-05-01,Kedah,All,12289
+2024-06-01,Kedah,All,10922
+2024-07-01,Kedah,All,12720
+2024-08-01,Kedah,All,11839
+2024-09-01,Kedah,All,12210
+2024-10-01,Kedah,All,11411
+2020-01-01,Kelantan,All,4282
+2020-02-01,Kelantan,All,
+2020-03-01,Kelantan,All,875
+2020-04-01,Kelantan,All,0
+2020-05-01,Kelantan,All,10
+2020-06-01,Kelantan,All,140
+2020-07-01,Kelantan,All,241
+2020-08-01,Kelantan,All,233
+2020-09-01,Kelantan,All,192
+2020-10-01,Kelantan,All,186
+2020-11-01,Kelantan,All,148
+2020-12-01,Kelantan,All,174
+2021-01-01,Kelantan,All,145
+2021-02-01,Kelantan,All,157
+2021-03-01,Kelantan,All,211
+2021-04-01,Kelantan,All,171
+2021-05-01,Kelantan,All,333
+2021-06-01,Kelantan,All,60
+2021-07-01,Kelantan,All,323
+2021-08-01,Kelantan,All,253
+2021-09-01,Kelantan,All,284
+2021-10-01,Kelantan,All,699
+2021-11-01,Kelantan,All,1516
+2021-12-01,Kelantan,All,1777
+2022-01-01,Kelantan,All,1205
+2022-02-01,Kelantan,All,1244
+2022-03-01,Kelantan,All,1845
+2022-04-01,Kelantan,All,1894
+2022-05-01,Kelantan,All,4053
+2022-06-01,Kelantan,All,5035
+2022-07-01,Kelantan,All,5261
+2022-08-01,Kelantan,All,6095
+2022-09-01,Kelantan,All,6947
+2022-10-01,Kelantan,All,6026
+2022-11-01,Kelantan,All,4245
+2022-12-01,Kelantan,All,5933
+2023-01-01,Kelantan,All,6522
+2023-02-01,Kelantan,All,5538
+2023-03-01,Kelantan,All,4726
+2023-04-01,Kelantan,All,4081
+2023-05-01,Kelantan,All,5556
+2023-06-01,Kelantan,All,4548
+2023-07-01,Kelantan,All,8151
+2023-08-01,Kelantan,All,5711
+2023-09-01,Kelantan,All,5532
+2023-10-01,Kelantan,All,5346
+2023-11-01,Kelantan,All,4191
+2023-12-01,Kelantan,All,5356
+2024-01-01,Kelantan,All,5842
+2024-02-01,Kelantan,All,5281
+2024-03-01,Kelantan,All,3618
+2024-04-01,Kelantan,All,3841
+2024-05-01,Kelantan,All,4192
+2024-06-01,Kelantan,All,3973
+2024-07-01,Kelantan,All,4729
+2024-08-01,Kelantan,All,4655
+2024-09-01,Kelantan,All,4347
+2024-10-01,Kelantan,All,4486
+2020-01-01,Melaka,All,6437
+2020-02-01,Melaka,All,
+2020-03-01,Melaka,All,1480
+2020-04-01,Melaka,All,2
+2020-05-01,Melaka,All,159
+2020-06-01,Melaka,All,251
+2020-07-01,Melaka,All,553
+2020-08-01,Melaka,All,432
+2020-09-01,Melaka,All,476
+2020-10-01,Melaka,All,356
+2020-11-01,Melaka,All,303
+2020-12-01,Melaka,All,387
+2021-01-01,Melaka,All,295
+2021-02-01,Melaka,All,350
+2021-03-01,Melaka,All,512
+2021-04-01,Melaka,All,407
+2021-05-01,Melaka,All,377
+2021-06-01,Melaka,All,105
+2021-07-01,Melaka,All,369
+2021-08-01,Melaka,All,263
+2021-09-01,Melaka,All,638
+2021-10-01,Melaka,All,1222
+2021-11-01,Melaka,All,1941
+2021-12-01,Melaka,All,2364
+2022-01-01,Melaka,All,1821
+2022-02-01,Melaka,All,2194
+2022-03-01,Melaka,All,3273
+2022-04-01,Melaka,All,5614
+2022-05-01,Melaka,All,8742
+2022-06-01,Melaka,All,10530
+2022-07-01,Melaka,All,9166
+2022-08-01,Melaka,All,9866
+2022-09-01,Melaka,All,9629
+2022-10-01,Melaka,All,9895
+2022-11-01,Melaka,All,9026
+2022-12-01,Melaka,All,10838
+2023-01-01,Melaka,All,9206
+2023-02-01,Melaka,All,10759
+2023-03-01,Melaka,All,9110
+2023-04-01,Melaka,All,7876
+2023-05-01,Melaka,All,9789
+2023-06-01,Melaka,All,8492
+2023-07-01,Melaka,All,8766
+2023-08-01,Melaka,All,8692
+2023-09-01,Melaka,All,8371
+2023-10-01,Melaka,All,8239
+2023-11-01,Melaka,All,8576
+2023-12-01,Melaka,All,9418
+2024-01-01,Melaka,All,9607
+2024-02-01,Melaka,All,8954
+2024-03-01,Melaka,All,7691
+2024-04-01,Melaka,All,7292
+2024-05-01,Melaka,All,8221
+2024-06-01,Melaka,All,7568
+2024-07-01,Melaka,All,7666
+2024-08-01,Melaka,All,7727
+2024-09-01,Melaka,All,8326
+2024-10-01,Melaka,All,7699
+2020-01-01,Negeri Sembilan,All,6313
+2020-02-01,Negeri Sembilan,All,
+2020-03-01,Negeri Sembilan,All,1545
+2020-04-01,Negeri Sembilan,All,0
+2020-05-01,Negeri Sembilan,All,57
+2020-06-01,Negeri Sembilan,All,515
+2020-07-01,Negeri Sembilan,All,552
+2020-08-01,Negeri Sembilan,All,462
+2020-09-01,Negeri Sembilan,All,394
+2020-10-01,Negeri Sembilan,All,452
+2020-11-01,Negeri Sembilan,All,161
+2020-12-01,Negeri Sembilan,All,349
+2021-01-01,Negeri Sembilan,All,352
+2021-02-01,Negeri Sembilan,All,420
+2021-03-01,Negeri Sembilan,All,607
+2021-04-01,Negeri Sembilan,All,498
+2021-05-01,Negeri Sembilan,All,382
+2021-06-01,Negeri Sembilan,All,143
+2021-07-01,Negeri Sembilan,All,557
+2021-08-01,Negeri Sembilan,All,422
+2021-09-01,Negeri Sembilan,All,885
+2021-10-01,Negeri Sembilan,All,1366
+2021-11-01,Negeri Sembilan,All,2154
+2021-12-01,Negeri Sembilan,All,2418
+2022-01-01,Negeri Sembilan,All,1705
+2022-02-01,Negeri Sembilan,All,1883
+2022-03-01,Negeri Sembilan,All,3323
+2022-04-01,Negeri Sembilan,All,6488
+2022-05-01,Negeri Sembilan,All,8429
+2022-06-01,Negeri Sembilan,All,10491
+2022-07-01,Negeri Sembilan,All,9291
+2022-08-01,Negeri Sembilan,All,10567
+2022-09-01,Negeri Sembilan,All,10931
+2022-10-01,Negeri Sembilan,All,10539
+2022-11-01,Negeri Sembilan,All,9942
+2022-12-01,Negeri Sembilan,All,12282
+2023-01-01,Negeri Sembilan,All,10004
+2023-02-01,Negeri Sembilan,All,11105
+2023-03-01,Negeri Sembilan,All,10193
+2023-04-01,Negeri Sembilan,All,8116
+2023-05-01,Negeri Sembilan,All,9772
+2023-06-01,Negeri Sembilan,All,8654
+2023-07-01,Negeri Sembilan,All,9505
+2023-08-01,Negeri Sembilan,All,9031
+2023-09-01,Negeri Sembilan,All,8662
+2023-10-01,Negeri Sembilan,All,9560
+2023-11-01,Negeri Sembilan,All,8562
+2023-12-01,Negeri Sembilan,All,10881
+2024-01-01,Negeri Sembilan,All,10092
+2024-02-01,Negeri Sembilan,All,10123
+2024-03-01,Negeri Sembilan,All,8512
+2024-04-01,Negeri Sembilan,All,7668
+2024-05-01,Negeri Sembilan,All,9012
+2024-06-01,Negeri Sembilan,All,8181
+2024-07-01,Negeri Sembilan,All,8548
+2024-08-01,Negeri Sembilan,All,8847
+2024-09-01,Negeri Sembilan,All,9184
+2024-10-01,Negeri Sembilan,All,8361
+2020-01-01,Overseas,All,3863
+2020-02-01,Overseas,All,
+2020-03-01,Overseas,All,2865
+2020-04-01,Overseas,All,1104
+2020-05-01,Overseas,All,1218
+2020-06-01,Overseas,All,3549
+2020-07-01,Overseas,All,5378
+2020-08-01,Overseas,All,5914
+2020-09-01,Overseas,All,5872
+2020-10-01,Overseas,All,4827
+2020-11-01,Overseas,All,5371
+2020-12-01,Overseas,All,6532
+2021-01-01,Overseas,All,5404
+2021-02-01,Overseas,All,5113
+2021-03-01,Overseas,All,6478
+2021-04-01,Overseas,All,5413
+2021-05-01,Overseas,All,4226
+2021-06-01,Overseas,All,5279
+2021-07-01,Overseas,All,4867
+2021-08-01,Overseas,All,4330
+2021-09-01,Overseas,All,4425
+2021-10-01,Overseas,All,5104
+2021-11-01,Overseas,All,6113
+2021-12-01,Overseas,All,5782
+2022-01-01,Overseas,All,4413
+2022-02-01,Overseas,All,4417
+2022-03-01,Overseas,All,6160
+2022-04-01,Overseas,All,4826
+2022-05-01,Overseas,All,4440
+2022-06-01,Overseas,All,5327
+2022-07-01,Overseas,All,6538
+2022-08-01,Overseas,All,6748
+2022-09-01,Overseas,All,4933
+2022-10-01,Overseas,All,3878
+2022-11-01,Overseas,All,3833
+2022-12-01,Overseas,All,3350
+2023-01-01,Overseas,All,3539
+2023-02-01,Overseas,All,4034
+2023-03-01,Overseas,All,4073
+2023-04-01,Overseas,All,3115
+2023-05-01,Overseas,All,3587
+2023-06-01,Overseas,All,3022
+2023-07-01,Overseas,All,3359
+2023-08-01,Overseas,All,3373
+2023-09-01,Overseas,All,2690
+2023-10-01,Overseas,All,3082
+2023-11-01,Overseas,All,3108
+2023-12-01,Overseas,All,2730
+2024-01-01,Overseas,All,3813
+2024-02-01,Overseas,All,3508
+2024-03-01,Overseas,All,3992
+2024-04-01,Overseas,All,3610
+2024-05-01,Overseas,All,4006
+2024-06-01,Overseas,All,2861
+2024-07-01,Overseas,All,3555
+2024-08-01,Overseas,All,3143
+2024-09-01,Overseas,All,2785
+2024-10-01,Overseas,All,3119
+2020-01-01,Pahang,All,6149
+2020-02-01,Pahang,All,
+2020-03-01,Pahang,All,1186
+2020-04-01,Pahang,All,0
+2020-05-01,Pahang,All,17
+2020-06-01,Pahang,All,215
+2020-07-01,Pahang,All,339
+2020-08-01,Pahang,All,261
+2020-09-01,Pahang,All,297
+2020-10-01,Pahang,All,272
+2020-11-01,Pahang,All,239
+2020-12-01,Pahang,All,290
+2021-01-01,Pahang,All,144
+2021-02-01,Pahang,All,194
+2021-03-01,Pahang,All,428
+2021-04-01,Pahang,All,341
+2021-05-01,Pahang,All,166
+2021-06-01,Pahang,All,92
+2021-07-01,Pahang,All,360
+2021-08-01,Pahang,All,333
+2021-09-01,Pahang,All,396
+2021-10-01,Pahang,All,970
+2021-11-01,Pahang,All,1779
+2021-12-01,Pahang,All,1814
+2022-01-01,Pahang,All,1545
+2022-02-01,Pahang,All,1368
+2022-03-01,Pahang,All,2617
+2022-04-01,Pahang,All,4643
+2022-05-01,Pahang,All,6461
+2022-06-01,Pahang,All,8716
+2022-07-01,Pahang,All,8076
+2022-08-01,Pahang,All,9051
+2022-09-01,Pahang,All,9658
+2022-10-01,Pahang,All,8411
+2022-11-01,Pahang,All,7169
+2022-12-01,Pahang,All,9665
+2023-01-01,Pahang,All,9122
+2023-02-01,Pahang,All,10323
+2023-03-01,Pahang,All,9152
+2023-04-01,Pahang,All,7850
+2023-05-01,Pahang,All,8241
+2023-06-01,Pahang,All,8326
+2023-07-01,Pahang,All,8055
+2023-08-01,Pahang,All,8673
+2023-09-01,Pahang,All,7421
+2023-10-01,Pahang,All,7555
+2023-11-01,Pahang,All,7137
+2023-12-01,Pahang,All,8167
+2024-01-01,Pahang,All,8802
+2024-02-01,Pahang,All,9162
+2024-03-01,Pahang,All,6767
+2024-04-01,Pahang,All,6708
+2024-05-01,Pahang,All,7497
+2024-06-01,Pahang,All,6629
+2024-07-01,Pahang,All,7159
+2024-08-01,Pahang,All,7297
+2024-09-01,Pahang,All,7572
+2024-10-01,Pahang,All,6791
+2020-01-01,Perak,All,13366
+2020-02-01,Perak,All,
+2020-03-01,Perak,All,2994
+2020-04-01,Perak,All,1
+2020-05-01,Perak,All,139
+2020-06-01,Perak,All,501
+2020-07-01,Perak,All,963
+2020-08-01,Perak,All,746
+2020-09-01,Perak,All,667
+2020-10-01,Perak,All,625
+2020-11-01,Perak,All,318
+2020-12-01,Perak,All,794
+2021-01-01,Perak,All,519
+2021-02-01,Perak,All,514
+2021-03-01,Perak,All,1240
+2021-04-01,Perak,All,987
+2021-05-01,Perak,All,523
+2021-06-01,Perak,All,103
+2021-07-01,Perak,All,526
+2021-08-01,Perak,All,717
+2021-09-01,Perak,All,935
+2021-10-01,Perak,All,2060
+2021-11-01,Perak,All,3670
+2021-12-01,Perak,All,4815
+2022-01-01,Perak,All,3486
+2022-02-01,Perak,All,3480
+2022-03-01,Perak,All,5610
+2022-04-01,Perak,All,8857
+2022-05-01,Perak,All,13912
+2022-06-01,Perak,All,19799
+2022-07-01,Perak,All,18036
+2022-08-01,Perak,All,20986
+2022-09-01,Perak,All,21259
+2022-10-01,Perak,All,20487
+2022-11-01,Perak,All,17729
+2022-12-01,Perak,All,21711
+2023-01-01,Perak,All,18925
+2023-02-01,Perak,All,22786
+2023-03-01,Perak,All,22273
+2023-04-01,Perak,All,17592
+2023-05-01,Perak,All,19864
+2023-06-01,Perak,All,17237
+2023-07-01,Perak,All,18537
+2023-08-01,Perak,All,18051
+2023-09-01,Perak,All,16740
+2023-10-01,Perak,All,16633
+2023-11-01,Perak,All,15987
+2023-12-01,Perak,All,18749
+2024-01-01,Perak,All,18308
+2024-02-01,Perak,All,19171
+2024-03-01,Perak,All,15898
+2024-04-01,Perak,All,15330
+2024-05-01,Perak,All,17008
+2024-06-01,Perak,All,14892
+2024-07-01,Perak,All,16127
+2024-08-01,Perak,All,15989
+2024-09-01,Perak,All,15681
+2024-10-01,Perak,All,14915
+2020-01-01,Perlis,All,1405
+2020-02-01,Perlis,All,
+2020-03-01,Perlis,All,265
+2020-04-01,Perlis,All,3
+2020-05-01,Perlis,All,19
+2020-06-01,Perlis,All,47
+2020-07-01,Perlis,All,63
+2020-08-01,Perlis,All,53
+2020-09-01,Perlis,All,69
+2020-10-01,Perlis,All,71
+2020-11-01,Perlis,All,106
+2020-12-01,Perlis,All,60
+2021-01-01,Perlis,All,53
+2021-02-01,Perlis,All,26
+2021-03-01,Perlis,All,49
+2021-04-01,Perlis,All,49
+2021-05-01,Perlis,All,61
+2021-06-01,Perlis,All,19
+2021-07-01,Perlis,All,41
+2021-08-01,Perlis,All,47
+2021-09-01,Perlis,All,57
+2021-10-01,Perlis,All,184
+2021-11-01,Perlis,All,368
+2021-12-01,Perlis,All,408
+2022-01-01,Perlis,All,235
+2022-02-01,Perlis,All,254
+2022-03-01,Perlis,All,390
+2022-04-01,Perlis,All,728
+2022-05-01,Perlis,All,1556
+2022-06-01,Perlis,All,1810
+2022-07-01,Perlis,All,1842
+2022-08-01,Perlis,All,1833
+2022-09-01,Perlis,All,2286
+2022-10-01,Perlis,All,1856
+2022-11-01,Perlis,All,1574
+2022-12-01,Perlis,All,2485
+2023-01-01,Perlis,All,2318
+2023-02-01,Perlis,All,2835
+2023-03-01,Perlis,All,2351
+2023-04-01,Perlis,All,2023
+2023-05-01,Perlis,All,1850
+2023-06-01,Perlis,All,1785
+2023-07-01,Perlis,All,2605
+2023-08-01,Perlis,All,2104
+2023-09-01,Perlis,All,1721
+2023-10-01,Perlis,All,1999
+2023-11-01,Perlis,All,2058
+2023-12-01,Perlis,All,2395
+2024-01-01,Perlis,All,2442
+2024-02-01,Perlis,All,2596
+2024-03-01,Perlis,All,1367
+2024-04-01,Perlis,All,1802
+2024-05-01,Perlis,All,2134
+2024-06-01,Perlis,All,1912
+2024-07-01,Perlis,All,1851
+2024-08-01,Perlis,All,1824
+2024-09-01,Perlis,All,1755
+2024-10-01,Perlis,All,1744
+2020-01-01,Pulau Pinang,All,11206
+2020-02-01,Pulau Pinang,All,
+2020-03-01,Pulau Pinang,All,2273
+2020-04-01,Pulau Pinang,All,0
+2020-05-01,Pulau Pinang,All,161
+2020-06-01,Pulau Pinang,All,429
+2020-07-01,Pulau Pinang,All,766
+2020-08-01,Pulau Pinang,All,596
+2020-09-01,Pulau Pinang,All,622
+2020-10-01,Pulau Pinang,All,638
+2020-11-01,Pulau Pinang,All,309
+2020-12-01,Pulau Pinang,All,681
+2021-01-01,Pulau Pinang,All,493
+2021-02-01,Pulau Pinang,All,377
+2021-03-01,Pulau Pinang,All,1035
+2021-04-01,Pulau Pinang,All,1029
+2021-05-01,Pulau Pinang,All,595
+2021-06-01,Pulau Pinang,All,125
+2021-07-01,Pulau Pinang,All,721
+2021-08-01,Pulau Pinang,All,704
+2021-09-01,Pulau Pinang,All,939
+2021-10-01,Pulau Pinang,All,2468
+2021-11-01,Pulau Pinang,All,3578
+2021-12-01,Pulau Pinang,All,3618
+2022-01-01,Pulau Pinang,All,2725
+2022-02-01,Pulau Pinang,All,3184
+2022-03-01,Pulau Pinang,All,4498
+2022-04-01,Pulau Pinang,All,9394
+2022-05-01,Pulau Pinang,All,13445
+2022-06-01,Pulau Pinang,All,18037
+2022-07-01,Pulau Pinang,All,16354
+2022-08-01,Pulau Pinang,All,20221
+2022-09-01,Pulau Pinang,All,19699
+2022-10-01,Pulau Pinang,All,20509
+2022-11-01,Pulau Pinang,All,17974
+2022-12-01,Pulau Pinang,All,20988
+2023-01-01,Pulau Pinang,All,18882
+2023-02-01,Pulau Pinang,All,21137
+2023-03-01,Pulau Pinang,All,20465
+2023-04-01,Pulau Pinang,All,16737
+2023-05-01,Pulau Pinang,All,18654
+2023-06-01,Pulau Pinang,All,17046
+2023-07-01,Pulau Pinang,All,17339
+2023-08-01,Pulau Pinang,All,16917
+2023-09-01,Pulau Pinang,All,15395
+2023-10-01,Pulau Pinang,All,16196
+2023-11-01,Pulau Pinang,All,15196
+2023-12-01,Pulau Pinang,All,16407
+2024-01-01,Pulau Pinang,All,16859
+2024-02-01,Pulau Pinang,All,16587
+2024-03-01,Pulau Pinang,All,15620
+2024-04-01,Pulau Pinang,All,13622
+2024-05-01,Pulau Pinang,All,14900
+2024-06-01,Pulau Pinang,All,13824
+2024-07-01,Pulau Pinang,All,15134
+2024-08-01,Pulau Pinang,All,14336
+2024-09-01,Pulau Pinang,All,13695
+2024-10-01,Pulau Pinang,All,13173
+2020-01-01,Sabah,All,7900
+2020-02-01,Sabah,All,
+2020-03-01,Sabah,All,2045
+2020-04-01,Sabah,All,0
+2020-05-01,Sabah,All,159
+2020-06-01,Sabah,All,620
+2020-07-01,Sabah,All,946
+2020-08-01,Sabah,All,701
+2020-09-01,Sabah,All,642
+2020-10-01,Sabah,All,73
+2020-11-01,Sabah,All,44
+2020-12-01,Sabah,All,762
+2021-01-01,Sabah,All,453
+2021-02-01,Sabah,All,516
+2021-03-01,Sabah,All,1133
+2021-04-01,Sabah,All,912
+2021-05-01,Sabah,All,514
+2021-06-01,Sabah,All,90
+2021-07-01,Sabah,All,503
+2021-08-01,Sabah,All,727
+2021-09-01,Sabah,All,752
+2021-10-01,Sabah,All,1688
+2021-11-01,Sabah,All,2968
+2021-12-01,Sabah,All,3272
+2022-01-01,Sabah,All,2623
+2022-02-01,Sabah,All,2038
+2022-03-01,Sabah,All,4075
+2022-04-01,Sabah,All,5521
+2022-05-01,Sabah,All,7544
+2022-06-01,Sabah,All,10478
+2022-07-01,Sabah,All,8178
+2022-08-01,Sabah,All,8925
+2022-09-01,Sabah,All,9299
+2022-10-01,Sabah,All,9004
+2022-11-01,Sabah,All,8161
+2022-12-01,Sabah,All,10662
+2023-01-01,Sabah,All,10469
+2023-02-01,Sabah,All,12215
+2023-03-01,Sabah,All,10725
+2023-04-01,Sabah,All,8766
+2023-05-01,Sabah,All,9971
+2023-06-01,Sabah,All,9584
+2023-07-01,Sabah,All,9255
+2023-08-01,Sabah,All,9032
+2023-09-01,Sabah,All,8609
+2023-10-01,Sabah,All,9778
+2023-11-01,Sabah,All,8666
+2023-12-01,Sabah,All,10179
+2024-01-01,Sabah,All,11798
+2024-02-01,Sabah,All,11317
+2024-03-01,Sabah,All,8915
+2024-04-01,Sabah,All,8753
+2024-05-01,Sabah,All,8874
+2024-06-01,Sabah,All,8790
+2024-07-01,Sabah,All,8710
+2024-08-01,Sabah,All,8973
+2024-09-01,Sabah,All,9601
+2024-10-01,Sabah,All,8758
+2020-01-01,Sarawak,All,12289
+2020-02-01,Sarawak,All,
+2020-03-01,Sarawak,All,2762
+2020-04-01,Sarawak,All,9
+2020-05-01,Sarawak,All,287
+2020-06-01,Sarawak,All,1369
+2020-07-01,Sarawak,All,1407
+2020-08-01,Sarawak,All,1149
+2020-09-01,Sarawak,All,1341
+2020-10-01,Sarawak,All,795
+2020-11-01,Sarawak,All,643
+2020-12-01,Sarawak,All,1163
+2021-01-01,Sarawak,All,803
+2021-02-01,Sarawak,All,606
+2021-03-01,Sarawak,All,1687
+2021-04-01,Sarawak,All,1363
+2021-05-01,Sarawak,All,871
+2021-06-01,Sarawak,All,168
+2021-07-01,Sarawak,All,1470
+2021-08-01,Sarawak,All,1279
+2021-09-01,Sarawak,All,1207
+2021-10-01,Sarawak,All,2161
+2021-11-01,Sarawak,All,3073
+2021-12-01,Sarawak,All,3331
+2022-01-01,Sarawak,All,3066
+2022-02-01,Sarawak,All,3881
+2022-03-01,Sarawak,All,5688
+2022-04-01,Sarawak,All,8673
+2022-05-01,Sarawak,All,11737
+2022-06-01,Sarawak,All,12611
+2022-07-01,Sarawak,All,11962
+2022-08-01,Sarawak,All,15067
+2022-09-01,Sarawak,All,14291
+2022-10-01,Sarawak,All,14027
+2022-11-01,Sarawak,All,12294
+2022-12-01,Sarawak,All,17132
+2023-01-01,Sarawak,All,17151
+2023-02-01,Sarawak,All,18416
+2023-03-01,Sarawak,All,16840
+2023-04-01,Sarawak,All,15471
+2023-05-01,Sarawak,All,18241
+2023-06-01,Sarawak,All,13233
+2023-07-01,Sarawak,All,13898
+2023-08-01,Sarawak,All,13865
+2023-09-01,Sarawak,All,12297
+2023-10-01,Sarawak,All,12698
+2023-11-01,Sarawak,All,13304
+2023-12-01,Sarawak,All,14373
+2024-01-01,Sarawak,All,15317
+2024-02-01,Sarawak,All,16516
+2024-03-01,Sarawak,All,14179
+2024-04-01,Sarawak,All,13498
+2024-05-01,Sarawak,All,13150
+2024-06-01,Sarawak,All,12222
+2024-07-01,Sarawak,All,12218
+2024-08-01,Sarawak,All,12198
+2024-09-01,Sarawak,All,12115
+2024-10-01,Sarawak,All,11295
+2020-01-01,Selangor,All,31089
+2020-02-01,Selangor,All,
+2020-03-01,Selangor,All,7128
+2020-04-01,Selangor,All,0
+2020-05-01,Selangor,All,109
+2020-06-01,Selangor,All,907
+2020-07-01,Selangor,All,2357
+2020-08-01,Selangor,All,1946
+2020-09-01,Selangor,All,1750
+2020-10-01,Selangor,All,763
+2020-11-01,Selangor,All,237
+2020-12-01,Selangor,All,1242
+2021-01-01,Selangor,All,1224
+2021-02-01,Selangor,All,1516
+2021-03-01,Selangor,All,3087
+2021-04-01,Selangor,All,2732
+2021-05-01,Selangor,All,1865
+2021-06-01,Selangor,All,692
+2021-07-01,Selangor,All,1701
+2021-08-01,Selangor,All,3223
+2021-09-01,Selangor,All,4606
+2021-10-01,Selangor,All,8647
+2021-11-01,Selangor,All,11239
+2021-12-01,Selangor,All,11215
+2022-01-01,Selangor,All,7841
+2022-02-01,Selangor,All,9594
+2022-03-01,Selangor,All,16183
+2022-04-01,Selangor,All,24150
+2022-05-01,Selangor,All,36544
+2022-06-01,Selangor,All,54851
+2022-07-01,Selangor,All,47262
+2022-08-01,Selangor,All,53303
+2022-09-01,Selangor,All,51471
+2022-10-01,Selangor,All,50656
+2022-11-01,Selangor,All,48627
+2022-12-01,Selangor,All,54199
+2023-01-01,Selangor,All,49667
+2023-02-01,Selangor,All,57115
+2023-03-01,Selangor,All,55383
+2023-04-01,Selangor,All,41431
+2023-05-01,Selangor,All,50886
+2023-06-01,Selangor,All,42581
+2023-07-01,Selangor,All,42974
+2023-08-01,Selangor,All,44103
+2023-09-01,Selangor,All,41012
+2023-10-01,Selangor,All,42744
+2023-11-01,Selangor,All,41196
+2023-12-01,Selangor,All,44108
+2024-01-01,Selangor,All,48339
+2024-02-01,Selangor,All,46239
+2024-03-01,Selangor,All,37831
+2024-04-01,Selangor,All,35303
+2024-05-01,Selangor,All,40438
+2024-06-01,Selangor,All,35262
+2024-07-01,Selangor,All,39248
+2024-08-01,Selangor,All,38136
+2024-09-01,Selangor,All,36178
+2024-10-01,Selangor,All,35998
+2020-01-01,Terengganu,All,3998
+2020-02-01,Terengganu,All,
+2020-03-01,Terengganu,All,921
+2020-04-01,Terengganu,All,0
+2020-05-01,Terengganu,All,121
+2020-06-01,Terengganu,All,277
+2020-07-01,Terengganu,All,277
+2020-08-01,Terengganu,All,248
+2020-09-01,Terengganu,All,269
+2020-10-01,Terengganu,All,205
+2020-11-01,Terengganu,All,207
+2020-12-01,Terengganu,All,285
+2021-01-01,Terengganu,All,202
+2021-02-01,Terengganu,All,229
+2021-03-01,Terengganu,All,372
+2021-04-01,Terengganu,All,321
+2021-05-01,Terengganu,All,537
+2021-06-01,Terengganu,All,183
+2021-07-01,Terengganu,All,415
+2021-08-01,Terengganu,All,385
+2021-09-01,Terengganu,All,308
+2021-10-01,Terengganu,All,687
+2021-11-01,Terengganu,All,1354
+2021-12-01,Terengganu,All,1769
+2022-01-01,Terengganu,All,940
+2022-02-01,Terengganu,All,999
+2022-03-01,Terengganu,All,1338
+2022-04-01,Terengganu,All,1895
+2022-05-01,Terengganu,All,3398
+2022-06-01,Terengganu,All,5172
+2022-07-01,Terengganu,All,4843
+2022-08-01,Terengganu,All,6128
+2022-09-01,Terengganu,All,6956
+2022-10-01,Terengganu,All,5780
+2022-11-01,Terengganu,All,4537
+2022-12-01,Terengganu,All,6177
+2023-01-01,Terengganu,All,7143
+2023-02-01,Terengganu,All,6037
+2023-03-01,Terengganu,All,4378
+2023-04-01,Terengganu,All,4874
+2023-05-01,Terengganu,All,6627
+2023-06-01,Terengganu,All,5411
+2023-07-01,Terengganu,All,6760
+2023-08-01,Terengganu,All,6593
+2023-09-01,Terengganu,All,6638
+2023-10-01,Terengganu,All,6530
+2023-11-01,Terengganu,All,4690
+2023-12-01,Terengganu,All,6023
+2024-01-01,Terengganu,All,7811
+2024-02-01,Terengganu,All,7440
+2024-03-01,Terengganu,All,3384
+2024-04-01,Terengganu,All,4829
+2024-05-01,Terengganu,All,5448
+2024-06-01,Terengganu,All,5149
+2024-07-01,Terengganu,All,5950
+2024-08-01,Terengganu,All,6193
+2024-09-01,Terengganu,All,6552
+2024-10-01,Terengganu,All,5968
+2020-01-01,W.P. Kuala Lumpur,All,27158
+2020-02-01,W.P. Kuala Lumpur,All,
+2020-03-01,W.P. Kuala Lumpur,All,6725
+2020-04-01,W.P. Kuala Lumpur,All,0
+2020-05-01,W.P. Kuala Lumpur,All,250
+2020-06-01,W.P. Kuala Lumpur,All,837
+2020-07-01,W.P. Kuala Lumpur,All,2080
+2020-08-01,W.P. Kuala Lumpur,All,1810
+2020-09-01,W.P. Kuala Lumpur,All,1700
+2020-10-01,W.P. Kuala Lumpur,All,644
+2020-11-01,W.P. Kuala Lumpur,All,192
+2020-12-01,W.P. Kuala Lumpur,All,2344
+2021-01-01,W.P. Kuala Lumpur,All,1649
+2021-02-01,W.P. Kuala Lumpur,All,1528
+2021-03-01,W.P. Kuala Lumpur,All,3179
+2021-04-01,W.P. Kuala Lumpur,All,2765
+2021-05-01,W.P. Kuala Lumpur,All,1300
+2021-06-01,W.P. Kuala Lumpur,All,374
+2021-07-01,W.P. Kuala Lumpur,All,1383
+2021-08-01,W.P. Kuala Lumpur,All,2037
+2021-09-01,W.P. Kuala Lumpur,All,3279
+2021-10-01,W.P. Kuala Lumpur,All,8281
+2021-11-01,W.P. Kuala Lumpur,All,11246
+2021-12-01,W.P. Kuala Lumpur,All,10254
+2022-01-01,W.P. Kuala Lumpur,All,7297
+2022-02-01,W.P. Kuala Lumpur,All,9200
+2022-03-01,W.P. Kuala Lumpur,All,14111
+2022-04-01,W.P. Kuala Lumpur,All,23506
+2022-05-01,W.P. Kuala Lumpur,All,31723
+2022-06-01,W.P. Kuala Lumpur,All,41679
+2022-07-01,W.P. Kuala Lumpur,All,36488
+2022-08-01,W.P. Kuala Lumpur,All,43798
+2022-09-01,W.P. Kuala Lumpur,All,43818
+2022-10-01,W.P. Kuala Lumpur,All,41438
+2022-11-01,W.P. Kuala Lumpur,All,38256
+2022-12-01,W.P. Kuala Lumpur,All,43680
+2023-01-01,W.P. Kuala Lumpur,All,40026
+2023-02-01,W.P. Kuala Lumpur,All,42521
+2023-03-01,W.P. Kuala Lumpur,All,41632
+2023-04-01,W.P. Kuala Lumpur,All,33768
+2023-05-01,W.P. Kuala Lumpur,All,39591
+2023-06-01,W.P. Kuala Lumpur,All,35057
+2023-07-01,W.P. Kuala Lumpur,All,37628
+2023-08-01,W.P. Kuala Lumpur,All,37230
+2023-09-01,W.P. Kuala Lumpur,All,34787
+2023-10-01,W.P. Kuala Lumpur,All,36506
+2023-11-01,W.P. Kuala Lumpur,All,34286
+2023-12-01,W.P. Kuala Lumpur,All,38376
+2024-01-01,W.P. Kuala Lumpur,All,38889
+2024-02-01,W.P. Kuala Lumpur,All,33208
+2024-03-01,W.P. Kuala Lumpur,All,31117
+2024-04-01,W.P. Kuala Lumpur,All,27907
+2024-05-01,W.P. Kuala Lumpur,All,34226
+2024-06-01,W.P. Kuala Lumpur,All,31044
+2024-07-01,W.P. Kuala Lumpur,All,33157
+2024-08-01,W.P. Kuala Lumpur,All,33922
+2024-09-01,W.P. Kuala Lumpur,All,34156
+2024-10-01,W.P. Kuala Lumpur,All,32069
+2020-01-01,W.P. Labuan,All,507
+2020-02-01,W.P. Labuan,All,
+2020-03-01,W.P. Labuan,All,113
+2020-04-01,W.P. Labuan,All,0
+2020-05-01,W.P. Labuan,All,33
+2020-06-01,W.P. Labuan,All,109
+2020-07-01,W.P. Labuan,All,131
+2020-08-01,W.P. Labuan,All,67
+2020-09-01,W.P. Labuan,All,99
+2020-10-01,W.P. Labuan,All,47
+2020-11-01,W.P. Labuan,All,32
+2020-12-01,W.P. Labuan,All,81
+2021-01-01,W.P. Labuan,All,57
+2021-02-01,W.P. Labuan,All,110
+2021-03-01,W.P. Labuan,All,113
+2021-04-01,W.P. Labuan,All,100
+2021-05-01,W.P. Labuan,All,44
+2021-06-01,W.P. Labuan,All,15
+2021-07-01,W.P. Labuan,All,88
+2021-08-01,W.P. Labuan,All,94
+2021-09-01,W.P. Labuan,All,84
+2021-10-01,W.P. Labuan,All,143
+2021-11-01,W.P. Labuan,All,184
+2021-12-01,W.P. Labuan,All,190
+2022-01-01,W.P. Labuan,All,162
+2022-02-01,W.P. Labuan,All,119
+2022-03-01,W.P. Labuan,All,215
+2022-04-01,W.P. Labuan,All,324
+2022-05-01,W.P. Labuan,All,423
+2022-06-01,W.P. Labuan,All,520
+2022-07-01,W.P. Labuan,All,352
+2022-08-01,W.P. Labuan,All,494
+2022-09-01,W.P. Labuan,All,557
+2022-10-01,W.P. Labuan,All,550
+2022-11-01,W.P. Labuan,All,485
+2022-12-01,W.P. Labuan,All,690
+2023-01-01,W.P. Labuan,All,673
+2023-02-01,W.P. Labuan,All,627
+2023-03-01,W.P. Labuan,All,495
+2023-04-01,W.P. Labuan,All,540
+2023-05-01,W.P. Labuan,All,659
+2023-06-01,W.P. Labuan,All,455
+2023-07-01,W.P. Labuan,All,521
+2023-08-01,W.P. Labuan,All,551
+2023-09-01,W.P. Labuan,All,529
+2023-10-01,W.P. Labuan,All,455
+2023-11-01,W.P. Labuan,All,467
+2023-12-01,W.P. Labuan,All,550
+2024-01-01,W.P. Labuan,All,639
+2024-02-01,W.P. Labuan,All,603
+2024-03-01,W.P. Labuan,All,435
+2024-04-01,W.P. Labuan,All,518
+2024-05-01,W.P. Labuan,All,529
+2024-06-01,W.P. Labuan,All,455
+2024-07-01,W.P. Labuan,All,521
+2024-08-01,W.P. Labuan,All,502
+2024-09-01,W.P. Labuan,All,548
+2024-10-01,W.P. Labuan,All,515
+2020-01-01,W.P. Putrajaya,All,7540
+2020-02-01,W.P. Putrajaya,All,
+2020-03-01,W.P. Putrajaya,All,1763
+2020-04-01,W.P. Putrajaya,All,386
+2020-05-01,W.P. Putrajaya,All,748
+2020-06-01,W.P. Putrajaya,All,916
+2020-07-01,W.P. Putrajaya,All,1282
+2020-08-01,W.P. Putrajaya,All,1674
+2020-09-01,W.P. Putrajaya,All,2366
+2020-10-01,W.P. Putrajaya,All,2182
+2020-11-01,W.P. Putrajaya,All,2067
+2020-12-01,W.P. Putrajaya,All,1965
+2021-01-01,W.P. Putrajaya,All,1908
+2021-02-01,W.P. Putrajaya,All,2021
+2021-03-01,W.P. Putrajaya,All,2853
+2021-04-01,W.P. Putrajaya,All,3310
+2021-05-01,W.P. Putrajaya,All,3121
+2021-06-01,W.P. Putrajaya,All,2600
+2021-07-01,W.P. Putrajaya,All,2414
+2021-08-01,W.P. Putrajaya,All,2872
+2021-09-01,W.P. Putrajaya,All,3018
+2021-10-01,W.P. Putrajaya,All,4490
+2021-11-01,W.P. Putrajaya,All,4914
+2021-12-01,W.P. Putrajaya,All,4810
+2022-01-01,W.P. Putrajaya,All,4347
+2022-02-01,W.P. Putrajaya,All,3649
+2022-03-01,W.P. Putrajaya,All,6809
+2022-04-01,W.P. Putrajaya,All,7857
+2022-05-01,W.P. Putrajaya,All,11684
+2022-06-01,W.P. Putrajaya,All,13813
+2022-07-01,W.P. Putrajaya,All,13263
+2022-08-01,W.P. Putrajaya,All,13738
+2022-09-01,W.P. Putrajaya,All,13054
+2022-10-01,W.P. Putrajaya,All,13095
+2022-11-01,W.P. Putrajaya,All,12481
+2022-12-01,W.P. Putrajaya,All,15371
+2023-01-01,W.P. Putrajaya,All,12354
+2023-02-01,W.P. Putrajaya,All,12062
+2023-03-01,W.P. Putrajaya,All,12415
+2023-04-01,W.P. Putrajaya,All,10088
+2023-05-01,W.P. Putrajaya,All,11526
+2023-06-01,W.P. Putrajaya,All,9962
+2023-07-01,W.P. Putrajaya,All,9823
+2023-08-01,W.P. Putrajaya,All,9881
+2023-09-01,W.P. Putrajaya,All,9334
+2023-10-01,W.P. Putrajaya,All,9660
+2023-11-01,W.P. Putrajaya,All,9322
+2023-12-01,W.P. Putrajaya,All,9330
+2024-01-01,W.P. Putrajaya,All,10562
+2024-02-01,W.P. Putrajaya,All,9637
+2024-03-01,W.P. Putrajaya,All,7891
+2024-04-01,W.P. Putrajaya,All,8226
+2024-05-01,W.P. Putrajaya,All,8975
+2024-06-01,W.P. Putrajaya,All,8633
+2024-07-01,W.P. Putrajaya,All,9515
+2024-08-01,W.P. Putrajaya,All,9284
+2024-09-01,W.P. Putrajaya,All,9620
+2024-10-01,W.P. Putrajaya,All,9375
+2020-01-01,Johor,Batu Pahat,2241
+2020-02-01,Johor,Batu Pahat,
+2020-03-01,Johor,Batu Pahat,698
+2020-04-01,Johor,Batu Pahat,0
+2020-05-01,Johor,Batu Pahat,0
+2020-06-01,Johor,Batu Pahat,144
+2020-07-01,Johor,Batu Pahat,316
+2020-08-01,Johor,Batu Pahat,193
+2020-09-01,Johor,Batu Pahat,197
+2020-10-01,Johor,Batu Pahat,230
+2020-11-01,Johor,Batu Pahat,210
+2020-12-01,Johor,Batu Pahat,137
+2021-01-01,Johor,Batu Pahat,136
+2021-02-01,Johor,Batu Pahat,137
+2021-03-01,Johor,Batu Pahat,159
+2021-04-01,Johor,Batu Pahat,160
+2021-05-01,Johor,Batu Pahat,136
+2021-06-01,Johor,Batu Pahat,98
+2021-07-01,Johor,Batu Pahat,172
+2021-08-01,Johor,Batu Pahat,136
+2021-09-01,Johor,Batu Pahat,135
+2021-10-01,Johor,Batu Pahat,461
+2021-11-01,Johor,Batu Pahat,905
+2021-12-01,Johor,Batu Pahat,944
+2022-01-01,Johor,Batu Pahat,852
+2022-02-01,Johor,Batu Pahat,574
+2022-03-01,Johor,Batu Pahat,1027
+2022-04-01,Johor,Batu Pahat,1629
+2022-05-01,Johor,Batu Pahat,3860
+2022-06-01,Johor,Batu Pahat,4385
+2022-07-01,Johor,Batu Pahat,3536
+2022-08-01,Johor,Batu Pahat,3386
+2022-09-01,Johor,Batu Pahat,3294
+2022-10-01,Johor,Batu Pahat,3424
+2022-11-01,Johor,Batu Pahat,2836
+2022-12-01,Johor,Batu Pahat,3998
+2023-01-01,Johor,Batu Pahat,3255
+2023-02-01,Johor,Batu Pahat,4191
+2023-03-01,Johor,Batu Pahat,3064
+2023-04-01,Johor,Batu Pahat,2818
+2023-05-01,Johor,Batu Pahat,3172
+2023-06-01,Johor,Batu Pahat,2549
+2023-07-01,Johor,Batu Pahat,2796
+2023-08-01,Johor,Batu Pahat,2806
+2023-09-01,Johor,Batu Pahat,2349
+2023-10-01,Johor,Batu Pahat,2802
+2023-11-01,Johor,Batu Pahat,2497
+2023-12-01,Johor,Batu Pahat,2584
+2024-01-01,Johor,Batu Pahat,2980
+2024-02-01,Johor,Batu Pahat,3054
+2024-03-01,Johor,Batu Pahat,2796
+2024-04-01,Johor,Batu Pahat,2509
+2024-05-01,Johor,Batu Pahat,2604
+2024-06-01,Johor,Batu Pahat,2440
+2024-07-01,Johor,Batu Pahat,2442
+2024-08-01,Johor,Batu Pahat,2114
+2024-09-01,Johor,Batu Pahat,2573
+2024-10-01,Johor,Batu Pahat,2448
+2020-01-01,Johor,Gelang Patah,0
+2020-02-01,Johor,Gelang Patah,
+2020-03-01,Johor,Gelang Patah,0
+2020-04-01,Johor,Gelang Patah,0
+2020-05-01,Johor,Gelang Patah,0
+2020-06-01,Johor,Gelang Patah,0
+2020-07-01,Johor,Gelang Patah,0
+2020-08-01,Johor,Gelang Patah,0
+2020-09-01,Johor,Gelang Patah,0
+2020-10-01,Johor,Gelang Patah,0
+2020-11-01,Johor,Gelang Patah,0
+2020-12-01,Johor,Gelang Patah,0
+2021-01-01,Johor,Gelang Patah,0
+2021-02-01,Johor,Gelang Patah,0
+2021-03-01,Johor,Gelang Patah,0
+2021-04-01,Johor,Gelang Patah,0
+2021-05-01,Johor,Gelang Patah,0
+2021-06-01,Johor,Gelang Patah,0
+2021-07-01,Johor,Gelang Patah,0
+2021-08-01,Johor,Gelang Patah,0
+2021-09-01,Johor,Gelang Patah,0
+2021-10-01,Johor,Gelang Patah,0
+2021-11-01,Johor,Gelang Patah,0
+2021-12-01,Johor,Gelang Patah,0
+2022-01-01,Johor,Gelang Patah,0
+2022-02-01,Johor,Gelang Patah,0
+2022-03-01,Johor,Gelang Patah,0
+2022-04-01,Johor,Gelang Patah,0
+2022-05-01,Johor,Gelang Patah,0
+2022-06-01,Johor,Gelang Patah,0
+2022-07-01,Johor,Gelang Patah,1809
+2022-08-01,Johor,Gelang Patah,695
+2022-09-01,Johor,Gelang Patah,398
+2022-10-01,Johor,Gelang Patah,390
+2022-11-01,Johor,Gelang Patah,426
+2022-12-01,Johor,Gelang Patah,490
+2023-01-01,Johor,Gelang Patah,327
+2023-02-01,Johor,Gelang Patah,892
+2023-03-01,Johor,Gelang Patah,626
+2023-04-01,Johor,Gelang Patah,536
+2023-05-01,Johor,Gelang Patah,524
+2023-06-01,Johor,Gelang Patah,403
+2023-07-01,Johor,Gelang Patah,423
+2023-08-01,Johor,Gelang Patah,219
+2023-09-01,Johor,Gelang Patah,197
+2023-10-01,Johor,Gelang Patah,222
+2023-11-01,Johor,Gelang Patah,160
+2023-12-01,Johor,Gelang Patah,106
+2024-01-01,Johor,Gelang Patah,85
+2024-02-01,Johor,Gelang Patah,16
+2024-03-01,Johor,Gelang Patah,31
+2024-04-01,Johor,Gelang Patah,42
+2024-05-01,Johor,Gelang Patah,38
+2024-06-01,Johor,Gelang Patah,41
+2024-07-01,Johor,Gelang Patah,132
+2024-08-01,Johor,Gelang Patah,96
+2024-09-01,Johor,Gelang Patah,183
+2024-10-01,Johor,Gelang Patah,131
+2020-01-01,Johor,Kluang,2529
+2020-02-01,Johor,Kluang,
+2020-03-01,Johor,Kluang,841
+2020-04-01,Johor,Kluang,0
+2020-05-01,Johor,Kluang,2
+2020-06-01,Johor,Kluang,157
+2020-07-01,Johor,Kluang,307
+2020-08-01,Johor,Kluang,247
+2020-09-01,Johor,Kluang,251
+2020-10-01,Johor,Kluang,255
+2020-11-01,Johor,Kluang,262
+2020-12-01,Johor,Kluang,285
+2021-01-01,Johor,Kluang,273
+2021-02-01,Johor,Kluang,320
+2021-03-01,Johor,Kluang,402
+2021-04-01,Johor,Kluang,352
+2021-05-01,Johor,Kluang,282
+2021-06-01,Johor,Kluang,23
+2021-07-01,Johor,Kluang,141
+2021-08-01,Johor,Kluang,259
+2021-09-01,Johor,Kluang,263
+2021-10-01,Johor,Kluang,329
+2021-11-01,Johor,Kluang,578
+2021-12-01,Johor,Kluang,645
+2022-01-01,Johor,Kluang,659
+2022-02-01,Johor,Kluang,626
+2022-03-01,Johor,Kluang,972
+2022-04-01,Johor,Kluang,2305
+2022-05-01,Johor,Kluang,4145
+2022-06-01,Johor,Kluang,4866
+2022-07-01,Johor,Kluang,3581
+2022-08-01,Johor,Kluang,3592
+2022-09-01,Johor,Kluang,3259
+2022-10-01,Johor,Kluang,3384
+2022-11-01,Johor,Kluang,2778
+2022-12-01,Johor,Kluang,3973
+2023-01-01,Johor,Kluang,3522
+2023-02-01,Johor,Kluang,4154
+2023-03-01,Johor,Kluang,3450
+2023-04-01,Johor,Kluang,3094
+2023-05-01,Johor,Kluang,3128
+2023-06-01,Johor,Kluang,2872
+2023-07-01,Johor,Kluang,2899
+2023-08-01,Johor,Kluang,2837
+2023-09-01,Johor,Kluang,2295
+2023-10-01,Johor,Kluang,2817
+2023-11-01,Johor,Kluang,2704
+2023-12-01,Johor,Kluang,2907
+2024-01-01,Johor,Kluang,3090
+2024-02-01,Johor,Kluang,2850
+2024-03-01,Johor,Kluang,2477
+2024-04-01,Johor,Kluang,2424
+2024-05-01,Johor,Kluang,2356
+2024-06-01,Johor,Kluang,2327
+2024-07-01,Johor,Kluang,2504
+2024-08-01,Johor,Kluang,2216
+2024-09-01,Johor,Kluang,2483
+2024-10-01,Johor,Kluang,2537
+2020-01-01,Johor,Kukup,1222
+2020-02-01,Johor,Kukup,
+2020-03-01,Johor,Kukup,495
+2020-04-01,Johor,Kukup,0
+2020-05-01,Johor,Kukup,0
+2020-06-01,Johor,Kukup,204
+2020-07-01,Johor,Kukup,175
+2020-08-01,Johor,Kukup,152
+2020-09-01,Johor,Kukup,183
+2020-10-01,Johor,Kukup,181
+2020-11-01,Johor,Kukup,200
+2020-12-01,Johor,Kukup,204
+2021-01-01,Johor,Kukup,206
+2021-02-01,Johor,Kukup,504
+2021-03-01,Johor,Kukup,523
+2021-04-01,Johor,Kukup,206
+2021-05-01,Johor,Kukup,244
+2021-06-01,Johor,Kukup,68
+2021-07-01,Johor,Kukup,196
+2021-08-01,Johor,Kukup,163
+2021-09-01,Johor,Kukup,175
+2021-10-01,Johor,Kukup,285
+2021-11-01,Johor,Kukup,500
+2021-12-01,Johor,Kukup,706
+2022-01-01,Johor,Kukup,546
+2022-02-01,Johor,Kukup,519
+2022-03-01,Johor,Kukup,926
+2022-04-01,Johor,Kukup,1662
+2022-05-01,Johor,Kukup,3197
+2022-06-01,Johor,Kukup,3849
+2022-07-01,Johor,Kukup,2485
+2022-08-01,Johor,Kukup,2233
+2022-09-01,Johor,Kukup,2068
+2022-10-01,Johor,Kukup,1955
+2022-11-01,Johor,Kukup,1550
+2022-12-01,Johor,Kukup,2369
+2023-01-01,Johor,Kukup,2062
+2023-02-01,Johor,Kukup,2665
+2023-03-01,Johor,Kukup,2586
+2023-04-01,Johor,Kukup,2215
+2023-05-01,Johor,Kukup,2590
+2023-06-01,Johor,Kukup,2356
+2023-07-01,Johor,Kukup,2222
+2023-08-01,Johor,Kukup,2375
+2023-09-01,Johor,Kukup,1765
+2023-10-01,Johor,Kukup,2087
+2023-11-01,Johor,Kukup,2113
+2023-12-01,Johor,Kukup,2661
+2024-01-01,Johor,Kukup,2682
+2024-02-01,Johor,Kukup,3044
+2024-03-01,Johor,Kukup,2433
+2024-04-01,Johor,Kukup,2423
+2024-05-01,Johor,Kukup,2240
+2024-06-01,Johor,Kukup,2354
+2024-07-01,Johor,Kukup,2270
+2024-08-01,Johor,Kukup,1822
+2024-09-01,Johor,Kukup,2317
+2024-10-01,Johor,Kukup,2258
+2020-01-01,Johor,Kulai,3413
+2020-02-01,Johor,Kulai,
+2020-03-01,Johor,Kulai,1345
+2020-04-01,Johor,Kulai,0
+2020-05-01,Johor,Kulai,8
+2020-06-01,Johor,Kulai,173
+2020-07-01,Johor,Kulai,0
+2020-08-01,Johor,Kulai,0
+2020-09-01,Johor,Kulai,0
+2020-10-01,Johor,Kulai,0
+2020-11-01,Johor,Kulai,0
+2020-12-01,Johor,Kulai,65
+2021-01-01,Johor,Kulai,405
+2021-02-01,Johor,Kulai,627
+2021-03-01,Johor,Kulai,701
+2021-04-01,Johor,Kulai,439
+2021-05-01,Johor,Kulai,555
+2021-06-01,Johor,Kulai,140
+2021-07-01,Johor,Kulai,289
+2021-08-01,Johor,Kulai,285
+2021-09-01,Johor,Kulai,329
+2021-10-01,Johor,Kulai,610
+2021-11-01,Johor,Kulai,1041
+2021-12-01,Johor,Kulai,1233
+2022-01-01,Johor,Kulai,1051
+2022-02-01,Johor,Kulai,1113
+2022-03-01,Johor,Kulai,1442
+2022-04-01,Johor,Kulai,3809
+2022-05-01,Johor,Kulai,6776
+2022-06-01,Johor,Kulai,7451
+2022-07-01,Johor,Kulai,6111
+2022-08-01,Johor,Kulai,5928
+2022-09-01,Johor,Kulai,5428
+2022-10-01,Johor,Kulai,5556
+2022-11-01,Johor,Kulai,4841
+2022-12-01,Johor,Kulai,6457
+2023-01-01,Johor,Kulai,5687
+2023-02-01,Johor,Kulai,5929
+2023-03-01,Johor,Kulai,4889
+2023-04-01,Johor,Kulai,4436
+2023-05-01,Johor,Kulai,4659
+2023-06-01,Johor,Kulai,4385
+2023-07-01,Johor,Kulai,4204
+2023-08-01,Johor,Kulai,4242
+2023-09-01,Johor,Kulai,3100
+2023-10-01,Johor,Kulai,4069
+2023-11-01,Johor,Kulai,3377
+2023-12-01,Johor,Kulai,3457
+2024-01-01,Johor,Kulai,4194
+2024-02-01,Johor,Kulai,4505
+2024-03-01,Johor,Kulai,3850
+2024-04-01,Johor,Kulai,3552
+2024-05-01,Johor,Kulai,3666
+2024-06-01,Johor,Kulai,3761
+2024-07-01,Johor,Kulai,3377
+2024-08-01,Johor,Kulai,3032
+2024-09-01,Johor,Kulai,3524
+2024-10-01,Johor,Kulai,3105
+2020-01-01,Johor,Mersing,466
+2020-02-01,Johor,Mersing,
+2020-03-01,Johor,Mersing,111
+2020-04-01,Johor,Mersing,0
+2020-05-01,Johor,Mersing,0
+2020-06-01,Johor,Mersing,27
+2020-07-01,Johor,Mersing,42
+2020-08-01,Johor,Mersing,36
+2020-09-01,Johor,Mersing,36
+2020-10-01,Johor,Mersing,24
+2020-11-01,Johor,Mersing,10
+2020-12-01,Johor,Mersing,39
+2021-01-01,Johor,Mersing,17
+2021-02-01,Johor,Mersing,40
+2021-03-01,Johor,Mersing,35
+2021-04-01,Johor,Mersing,35
+2021-05-01,Johor,Mersing,46
+2021-06-01,Johor,Mersing,5
+2021-07-01,Johor,Mersing,48
+2021-08-01,Johor,Mersing,32
+2021-09-01,Johor,Mersing,40
+2021-10-01,Johor,Mersing,93
+2021-11-01,Johor,Mersing,199
+2021-12-01,Johor,Mersing,234
+2022-01-01,Johor,Mersing,199
+2022-02-01,Johor,Mersing,49
+2022-03-01,Johor,Mersing,212
+2022-04-01,Johor,Mersing,483
+2022-05-01,Johor,Mersing,988
+2022-06-01,Johor,Mersing,1229
+2022-07-01,Johor,Mersing,831
+2022-08-01,Johor,Mersing,754
+2022-09-01,Johor,Mersing,784
+2022-10-01,Johor,Mersing,715
+2022-11-01,Johor,Mersing,562
+2022-12-01,Johor,Mersing,862
+2023-01-01,Johor,Mersing,729
+2023-02-01,Johor,Mersing,804
+2023-03-01,Johor,Mersing,566
+2023-04-01,Johor,Mersing,651
+2023-05-01,Johor,Mersing,837
+2023-06-01,Johor,Mersing,682
+2023-07-01,Johor,Mersing,727
+2023-08-01,Johor,Mersing,658
+2023-09-01,Johor,Mersing,586
+2023-10-01,Johor,Mersing,664
+2023-11-01,Johor,Mersing,696
+2023-12-01,Johor,Mersing,735
+2024-01-01,Johor,Mersing,763
+2024-02-01,Johor,Mersing,904
+2024-03-01,Johor,Mersing,588
+2024-04-01,Johor,Mersing,544
+2024-05-01,Johor,Mersing,584
+2024-06-01,Johor,Mersing,725
+2024-07-01,Johor,Mersing,645
+2024-08-01,Johor,Mersing,511
+2024-09-01,Johor,Mersing,801
+2024-10-01,Johor,Mersing,745
+2020-01-01,Johor,Muar,2206
+2020-02-01,Johor,Muar,
+2020-03-01,Johor,Muar,602
+2020-04-01,Johor,Muar,0
+2020-05-01,Johor,Muar,0
+2020-06-01,Johor,Muar,119
+2020-07-01,Johor,Muar,223
+2020-08-01,Johor,Muar,159
+2020-09-01,Johor,Muar,153
+2020-10-01,Johor,Muar,118
+2020-11-01,Johor,Muar,117
+2020-12-01,Johor,Muar,113
+2021-01-01,Johor,Muar,111
+2021-02-01,Johor,Muar,124
+2021-03-01,Johor,Muar,143
+2021-04-01,Johor,Muar,142
+2021-05-01,Johor,Muar,131
+2021-06-01,Johor,Muar,47
+2021-07-01,Johor,Muar,118
+2021-08-01,Johor,Muar,93
+2021-09-01,Johor,Muar,171
+2021-10-01,Johor,Muar,432
+2021-11-01,Johor,Muar,661
+2021-12-01,Johor,Muar,784
+2022-01-01,Johor,Muar,636
+2022-02-01,Johor,Muar,612
+2022-03-01,Johor,Muar,1097
+2022-04-01,Johor,Muar,1907
+2022-05-01,Johor,Muar,3767
+2022-06-01,Johor,Muar,4116
+2022-07-01,Johor,Muar,3498
+2022-08-01,Johor,Muar,3774
+2022-09-01,Johor,Muar,3681
+2022-10-01,Johor,Muar,3758
+2022-11-01,Johor,Muar,3264
+2022-12-01,Johor,Muar,3607
+2023-01-01,Johor,Muar,3543
+2023-02-01,Johor,Muar,4383
+2023-03-01,Johor,Muar,3423
+2023-04-01,Johor,Muar,3445
+2023-05-01,Johor,Muar,3605
+2023-06-01,Johor,Muar,2794
+2023-07-01,Johor,Muar,3070
+2023-08-01,Johor,Muar,2887
+2023-09-01,Johor,Muar,2314
+2023-10-01,Johor,Muar,3055
+2023-11-01,Johor,Muar,3115
+2023-12-01,Johor,Muar,3208
+2024-01-01,Johor,Muar,3026
+2024-02-01,Johor,Muar,3313
+2024-03-01,Johor,Muar,2583
+2024-04-01,Johor,Muar,2538
+2024-05-01,Johor,Muar,2652
+2024-06-01,Johor,Muar,2507
+2024-07-01,Johor,Muar,2397
+2024-08-01,Johor,Muar,2005
+2024-09-01,Johor,Muar,2608
+2024-10-01,Johor,Muar,2366
+2020-01-01,Johor,Segamat,1531
+2020-02-01,Johor,Segamat,
+2020-03-01,Johor,Segamat,426
+2020-04-01,Johor,Segamat,0
+2020-05-01,Johor,Segamat,0
+2020-06-01,Johor,Segamat,72
+2020-07-01,Johor,Segamat,140
+2020-08-01,Johor,Segamat,99
+2020-09-01,Johor,Segamat,126
+2020-10-01,Johor,Segamat,108
+2020-11-01,Johor,Segamat,120
+2020-12-01,Johor,Segamat,109
+2021-01-01,Johor,Segamat,103
+2021-02-01,Johor,Segamat,144
+2021-03-01,Johor,Segamat,228
+2021-04-01,Johor,Segamat,163
+2021-05-01,Johor,Segamat,107
+2021-06-01,Johor,Segamat,22
+2021-07-01,Johor,Segamat,206
+2021-08-01,Johor,Segamat,117
+2021-09-01,Johor,Segamat,148
+2021-10-01,Johor,Segamat,284
+2021-11-01,Johor,Segamat,418
+2021-12-01,Johor,Segamat,643
+2022-01-01,Johor,Segamat,566
+2022-02-01,Johor,Segamat,572
+2022-03-01,Johor,Segamat,840
+2022-04-01,Johor,Segamat,1257
+2022-05-01,Johor,Segamat,2442
+2022-06-01,Johor,Segamat,2836
+2022-07-01,Johor,Segamat,2035
+2022-08-01,Johor,Segamat,2353
+2022-09-01,Johor,Segamat,2013
+2022-10-01,Johor,Segamat,1972
+2022-11-01,Johor,Segamat,1720
+2022-12-01,Johor,Segamat,2249
+2023-01-01,Johor,Segamat,1978
+2023-02-01,Johor,Segamat,2302
+2023-03-01,Johor,Segamat,1670
+2023-04-01,Johor,Segamat,1746
+2023-05-01,Johor,Segamat,1892
+2023-06-01,Johor,Segamat,1540
+2023-07-01,Johor,Segamat,1608
+2023-08-01,Johor,Segamat,1751
+2023-09-01,Johor,Segamat,1277
+2023-10-01,Johor,Segamat,1548
+2023-11-01,Johor,Segamat,1530
+2023-12-01,Johor,Segamat,1599
+2024-01-01,Johor,Segamat,1740
+2024-02-01,Johor,Segamat,1477
+2024-03-01,Johor,Segamat,1366
+2024-04-01,Johor,Segamat,1268
+2024-05-01,Johor,Segamat,1235
+2024-06-01,Johor,Segamat,1166
+2024-07-01,Johor,Segamat,1199
+2024-08-01,Johor,Segamat,1063
+2024-09-01,Johor,Segamat,1315
+2024-10-01,Johor,Segamat,1206
+2020-01-01,Johor,Setia Tropika,6682
+2020-02-01,Johor,Setia Tropika,
+2020-03-01,Johor,Setia Tropika,3225
+2020-04-01,Johor,Setia Tropika,57
+2020-05-01,Johor,Setia Tropika,2015
+2020-06-01,Johor,Setia Tropika,1314
+2020-07-01,Johor,Setia Tropika,98
+2020-08-01,Johor,Setia Tropika,68
+2020-09-01,Johor,Setia Tropika,8049
+2020-10-01,Johor,Setia Tropika,9959
+2020-11-01,Johor,Setia Tropika,6650
+2020-12-01,Johor,Setia Tropika,3268
+2021-01-01,Johor,Setia Tropika,3179
+2021-02-01,Johor,Setia Tropika,4837
+2021-03-01,Johor,Setia Tropika,8212
+2021-04-01,Johor,Setia Tropika,9732
+2021-05-01,Johor,Setia Tropika,7369
+2021-06-01,Johor,Setia Tropika,2624
+2021-07-01,Johor,Setia Tropika,7590
+2021-08-01,Johor,Setia Tropika,7740
+2021-09-01,Johor,Setia Tropika,6093
+2021-10-01,Johor,Setia Tropika,5093
+2021-11-01,Johor,Setia Tropika,5343
+2021-12-01,Johor,Setia Tropika,6537
+2022-01-01,Johor,Setia Tropika,6107
+2022-02-01,Johor,Setia Tropika,3334
+2022-03-01,Johor,Setia Tropika,4882
+2022-04-01,Johor,Setia Tropika,10252
+2022-05-01,Johor,Setia Tropika,14310
+2022-06-01,Johor,Setia Tropika,13492
+2022-07-01,Johor,Setia Tropika,9208
+2022-08-01,Johor,Setia Tropika,8825
+2022-09-01,Johor,Setia Tropika,8231
+2022-10-01,Johor,Setia Tropika,7756
+2022-11-01,Johor,Setia Tropika,6659
+2022-12-01,Johor,Setia Tropika,9483
+2023-01-01,Johor,Setia Tropika,8375
+2023-02-01,Johor,Setia Tropika,8619
+2023-03-01,Johor,Setia Tropika,8211
+2023-04-01,Johor,Setia Tropika,6489
+2023-05-01,Johor,Setia Tropika,7899
+2023-06-01,Johor,Setia Tropika,3457
+2023-07-01,Johor,Setia Tropika,6874
+2023-08-01,Johor,Setia Tropika,6962
+2023-09-01,Johor,Setia Tropika,5307
+2023-10-01,Johor,Setia Tropika,6734
+2023-11-01,Johor,Setia Tropika,6197
+2023-12-01,Johor,Setia Tropika,7695
+2024-01-01,Johor,Setia Tropika,7923
+2024-02-01,Johor,Setia Tropika,8863
+2024-03-01,Johor,Setia Tropika,7836
+2024-04-01,Johor,Setia Tropika,6780
+2024-05-01,Johor,Setia Tropika,6952
+2024-06-01,Johor,Setia Tropika,6806
+2024-07-01,Johor,Setia Tropika,6427
+2024-08-01,Johor,Setia Tropika,5399
+2024-09-01,Johor,Setia Tropika,6594
+2024-10-01,Johor,Setia Tropika,5946
+2020-01-01,Johor,UTC Johor,10466
+2020-02-01,Johor,UTC Johor,
+2020-03-01,Johor,UTC Johor,5034
+2020-04-01,Johor,UTC Johor,0
+2020-05-01,Johor,UTC Johor,0
+2020-06-01,Johor,UTC Johor,560
+2020-07-01,Johor,UTC Johor,2466
+2020-08-01,Johor,UTC Johor,2507
+2020-09-01,Johor,UTC Johor,2440
+2020-10-01,Johor,UTC Johor,2596
+2020-11-01,Johor,UTC Johor,1367
+2020-12-01,Johor,UTC Johor,2026
+2021-01-01,Johor,UTC Johor,850
+2021-02-01,Johor,UTC Johor,0
+2021-03-01,Johor,UTC Johor,2292
+2021-04-01,Johor,UTC Johor,2084
+2021-05-01,Johor,UTC Johor,457
+2021-06-01,Johor,UTC Johor,0
+2021-07-01,Johor,UTC Johor,389
+2021-08-01,Johor,UTC Johor,1843
+2021-09-01,Johor,UTC Johor,1945
+2021-10-01,Johor,UTC Johor,3082
+2021-11-01,Johor,UTC Johor,3611
+2021-12-01,Johor,UTC Johor,4074
+2022-01-01,Johor,UTC Johor,4573
+2022-02-01,Johor,UTC Johor,4386
+2022-03-01,Johor,UTC Johor,5908
+2022-04-01,Johor,UTC Johor,8102
+2022-05-01,Johor,UTC Johor,9852
+2022-06-01,Johor,UTC Johor,11749
+2022-07-01,Johor,UTC Johor,11478
+2022-08-01,Johor,UTC Johor,11604
+2022-09-01,Johor,UTC Johor,9516
+2022-10-01,Johor,UTC Johor,10243
+2022-11-01,Johor,UTC Johor,8430
+2022-12-01,Johor,UTC Johor,11175
+2023-01-01,Johor,UTC Johor,10454
+2023-02-01,Johor,UTC Johor,10655
+2023-03-01,Johor,UTC Johor,10058
+2023-04-01,Johor,UTC Johor,8550
+2023-05-01,Johor,UTC Johor,10650
+2023-06-01,Johor,UTC Johor,10055
+2023-07-01,Johor,UTC Johor,9763
+2023-08-01,Johor,UTC Johor,9289
+2023-09-01,Johor,UTC Johor,8724
+2023-10-01,Johor,UTC Johor,9451
+2023-11-01,Johor,UTC Johor,9275
+2023-12-01,Johor,UTC Johor,9862
+2024-01-01,Johor,UTC Johor,10763
+2024-02-01,Johor,UTC Johor,9419
+2024-03-01,Johor,UTC Johor,9849
+2024-04-01,Johor,UTC Johor,8477
+2024-05-01,Johor,UTC Johor,8810
+2024-06-01,Johor,UTC Johor,7814
+2024-07-01,Johor,UTC Johor,9221
+2024-08-01,Johor,UTC Johor,9161
+2024-09-01,Johor,UTC Johor,9226
+2024-10-01,Johor,UTC Johor,8307
+2020-01-01,Johor,UTC Pasir Gudang,4281
+2020-02-01,Johor,UTC Pasir Gudang,
+2020-03-01,Johor,UTC Pasir Gudang,1566
+2020-04-01,Johor,UTC Pasir Gudang,0
+2020-05-01,Johor,UTC Pasir Gudang,0
+2020-06-01,Johor,UTC Pasir Gudang,270
+2020-07-01,Johor,UTC Pasir Gudang,718
+2020-08-01,Johor,UTC Pasir Gudang,718
+2020-09-01,Johor,UTC Pasir Gudang,641
+2020-10-01,Johor,UTC Pasir Gudang,633
+2020-11-01,Johor,UTC Pasir Gudang,372
+2020-12-01,Johor,UTC Pasir Gudang,583
+2021-01-01,Johor,UTC Pasir Gudang,197
+2021-02-01,Johor,UTC Pasir Gudang,0
+2021-03-01,Johor,UTC Pasir Gudang,689
+2021-04-01,Johor,UTC Pasir Gudang,571
+2021-05-01,Johor,UTC Pasir Gudang,107
+2021-06-01,Johor,UTC Pasir Gudang,0
+2021-07-01,Johor,UTC Pasir Gudang,95
+2021-08-01,Johor,UTC Pasir Gudang,557
+2021-09-01,Johor,UTC Pasir Gudang,520
+2021-10-01,Johor,UTC Pasir Gudang,881
+2021-11-01,Johor,UTC Pasir Gudang,1575
+2021-12-01,Johor,UTC Pasir Gudang,2312
+2022-01-01,Johor,UTC Pasir Gudang,1895
+2022-02-01,Johor,UTC Pasir Gudang,1876
+2022-03-01,Johor,UTC Pasir Gudang,3024
+2022-04-01,Johor,UTC Pasir Gudang,4535
+2022-05-01,Johor,UTC Pasir Gudang,6018
+2022-06-01,Johor,UTC Pasir Gudang,7984
+2022-07-01,Johor,UTC Pasir Gudang,6922
+2022-08-01,Johor,UTC Pasir Gudang,6548
+2022-09-01,Johor,UTC Pasir Gudang,6167
+2022-10-01,Johor,UTC Pasir Gudang,6538
+2022-11-01,Johor,UTC Pasir Gudang,5566
+2022-12-01,Johor,UTC Pasir Gudang,7470
+2023-01-01,Johor,UTC Pasir Gudang,6587
+2023-02-01,Johor,UTC Pasir Gudang,5616
+2023-03-01,Johor,UTC Pasir Gudang,5671
+2023-04-01,Johor,UTC Pasir Gudang,5211
+2023-05-01,Johor,UTC Pasir Gudang,6097
+2023-06-01,Johor,UTC Pasir Gudang,5886
+2023-07-01,Johor,UTC Pasir Gudang,5504
+2023-08-01,Johor,UTC Pasir Gudang,5330
+2023-09-01,Johor,UTC Pasir Gudang,4806
+2023-10-01,Johor,UTC Pasir Gudang,5255
+2023-11-01,Johor,UTC Pasir Gudang,5573
+2023-12-01,Johor,UTC Pasir Gudang,6207
+2024-01-01,Johor,UTC Pasir Gudang,5962
+2024-02-01,Johor,UTC Pasir Gudang,5802
+2024-03-01,Johor,UTC Pasir Gudang,5521
+2024-04-01,Johor,UTC Pasir Gudang,5090
+2024-05-01,Johor,UTC Pasir Gudang,5826
+2024-06-01,Johor,UTC Pasir Gudang,5519
+2024-07-01,Johor,UTC Pasir Gudang,5707
+2024-08-01,Johor,UTC Pasir Gudang,5548
+2024-09-01,Johor,UTC Pasir Gudang,5781
+2024-10-01,Johor,UTC Pasir Gudang,5493
+2020-01-01,Kedah,Alor Setar,1349
+2020-02-01,Kedah,Alor Setar,
+2020-03-01,Kedah,Alor Setar,262
+2020-04-01,Kedah,Alor Setar,1
+2020-05-01,Kedah,Alor Setar,116
+2020-06-01,Kedah,Alor Setar,61
+2020-07-01,Kedah,Alor Setar,5
+2020-08-01,Kedah,Alor Setar,9
+2020-09-01,Kedah,Alor Setar,5
+2020-10-01,Kedah,Alor Setar,5
+2020-11-01,Kedah,Alor Setar,4
+2020-12-01,Kedah,Alor Setar,6
+2021-01-01,Kedah,Alor Setar,11
+2021-02-01,Kedah,Alor Setar,14
+2021-03-01,Kedah,Alor Setar,10
+2021-04-01,Kedah,Alor Setar,5
+2021-05-01,Kedah,Alor Setar,5
+2021-06-01,Kedah,Alor Setar,23
+2021-07-01,Kedah,Alor Setar,14
+2021-08-01,Kedah,Alor Setar,18
+2021-09-01,Kedah,Alor Setar,66
+2021-10-01,Kedah,Alor Setar,243
+2021-11-01,Kedah,Alor Setar,314
+2021-12-01,Kedah,Alor Setar,63
+2022-01-01,Kedah,Alor Setar,60
+2022-02-01,Kedah,Alor Setar,87
+2022-03-01,Kedah,Alor Setar,160
+2022-04-01,Kedah,Alor Setar,168
+2022-05-01,Kedah,Alor Setar,1230
+2022-06-01,Kedah,Alor Setar,1754
+2022-07-01,Kedah,Alor Setar,1730
+2022-08-01,Kedah,Alor Setar,2305
+2022-09-01,Kedah,Alor Setar,2250
+2022-10-01,Kedah,Alor Setar,2325
+2022-11-01,Kedah,Alor Setar,1795
+2022-12-01,Kedah,Alor Setar,2209
+2023-01-01,Kedah,Alor Setar,2099
+2023-02-01,Kedah,Alor Setar,1906
+2023-03-01,Kedah,Alor Setar,1993
+2023-04-01,Kedah,Alor Setar,1673
+2023-05-01,Kedah,Alor Setar,1904
+2023-06-01,Kedah,Alor Setar,1515
+2023-07-01,Kedah,Alor Setar,1956
+2023-08-01,Kedah,Alor Setar,2450
+2023-09-01,Kedah,Alor Setar,1897
+2023-10-01,Kedah,Alor Setar,2050
+2023-11-01,Kedah,Alor Setar,1815
+2023-12-01,Kedah,Alor Setar,2390
+2024-01-01,Kedah,Alor Setar,2213
+2024-02-01,Kedah,Alor Setar,2487
+2024-03-01,Kedah,Alor Setar,1448
+2024-04-01,Kedah,Alor Setar,1455
+2024-05-01,Kedah,Alor Setar,1657
+2024-06-01,Kedah,Alor Setar,1497
+2024-07-01,Kedah,Alor Setar,1840
+2024-08-01,Kedah,Alor Setar,1785
+2024-09-01,Kedah,Alor Setar,1819
+2024-10-01,Kedah,Alor Setar,1626
+2020-01-01,Kedah,Bukit Kayu Hitam,223
+2020-02-01,Kedah,Bukit Kayu Hitam,
+2020-03-01,Kedah,Bukit Kayu Hitam,87
+2020-04-01,Kedah,Bukit Kayu Hitam,0
+2020-05-01,Kedah,Bukit Kayu Hitam,0
+2020-06-01,Kedah,Bukit Kayu Hitam,0
+2020-07-01,Kedah,Bukit Kayu Hitam,0
+2020-08-01,Kedah,Bukit Kayu Hitam,0
+2020-09-01,Kedah,Bukit Kayu Hitam,0
+2020-10-01,Kedah,Bukit Kayu Hitam,0
+2020-11-01,Kedah,Bukit Kayu Hitam,0
+2020-12-01,Kedah,Bukit Kayu Hitam,0
+2021-01-01,Kedah,Bukit Kayu Hitam,0
+2021-02-01,Kedah,Bukit Kayu Hitam,0
+2021-03-01,Kedah,Bukit Kayu Hitam,0
+2021-04-01,Kedah,Bukit Kayu Hitam,0
+2021-05-01,Kedah,Bukit Kayu Hitam,0
+2021-06-01,Kedah,Bukit Kayu Hitam,0
+2021-07-01,Kedah,Bukit Kayu Hitam,0
+2021-08-01,Kedah,Bukit Kayu Hitam,0
+2021-09-01,Kedah,Bukit Kayu Hitam,0
+2021-10-01,Kedah,Bukit Kayu Hitam,10
+2021-11-01,Kedah,Bukit Kayu Hitam,60
+2021-12-01,Kedah,Bukit Kayu Hitam,49
+2022-01-01,Kedah,Bukit Kayu Hitam,27
+2022-02-01,Kedah,Bukit Kayu Hitam,35
+2022-03-01,Kedah,Bukit Kayu Hitam,68
+2022-04-01,Kedah,Bukit Kayu Hitam,146
+2022-05-01,Kedah,Bukit Kayu Hitam,466
+2022-06-01,Kedah,Bukit Kayu Hitam,524
+2022-07-01,Kedah,Bukit Kayu Hitam,524
+2022-08-01,Kedah,Bukit Kayu Hitam,453
+2022-09-01,Kedah,Bukit Kayu Hitam,763
+2022-10-01,Kedah,Bukit Kayu Hitam,697
+2022-11-01,Kedah,Bukit Kayu Hitam,507
+2022-12-01,Kedah,Bukit Kayu Hitam,872
+2023-01-01,Kedah,Bukit Kayu Hitam,861
+2023-02-01,Kedah,Bukit Kayu Hitam,1090
+2023-03-01,Kedah,Bukit Kayu Hitam,774
+2023-04-01,Kedah,Bukit Kayu Hitam,656
+2023-05-01,Kedah,Bukit Kayu Hitam,667
+2023-06-01,Kedah,Bukit Kayu Hitam,489
+2023-07-01,Kedah,Bukit Kayu Hitam,772
+2023-08-01,Kedah,Bukit Kayu Hitam,821
+2023-09-01,Kedah,Bukit Kayu Hitam,620
+2023-10-01,Kedah,Bukit Kayu Hitam,655
+2023-11-01,Kedah,Bukit Kayu Hitam,643
+2023-12-01,Kedah,Bukit Kayu Hitam,845
+2024-01-01,Kedah,Bukit Kayu Hitam,779
+2024-02-01,Kedah,Bukit Kayu Hitam,889
+2024-03-01,Kedah,Bukit Kayu Hitam,475
+2024-04-01,Kedah,Bukit Kayu Hitam,647
+2024-05-01,Kedah,Bukit Kayu Hitam,751
+2024-06-01,Kedah,Bukit Kayu Hitam,625
+2024-07-01,Kedah,Bukit Kayu Hitam,790
+2024-08-01,Kedah,Bukit Kayu Hitam,711
+2024-09-01,Kedah,Bukit Kayu Hitam,781
+2024-10-01,Kedah,Bukit Kayu Hitam,670
+2020-01-01,Kedah,Kulim,2021
+2020-02-01,Kedah,Kulim,
+2020-03-01,Kedah,Kulim,541
+2020-04-01,Kedah,Kulim,0
+2020-05-01,Kedah,Kulim,0
+2020-06-01,Kedah,Kulim,0
+2020-07-01,Kedah,Kulim,0
+2020-08-01,Kedah,Kulim,0
+2020-09-01,Kedah,Kulim,0
+2020-10-01,Kedah,Kulim,0
+2020-11-01,Kedah,Kulim,0
+2020-12-01,Kedah,Kulim,0
+2021-01-01,Kedah,Kulim,0
+2021-02-01,Kedah,Kulim,1
+2021-03-01,Kedah,Kulim,0
+2021-04-01,Kedah,Kulim,0
+2021-05-01,Kedah,Kulim,0
+2021-06-01,Kedah,Kulim,18
+2021-07-01,Kedah,Kulim,136
+2021-08-01,Kedah,Kulim,90
+2021-09-01,Kedah,Kulim,127
+2021-10-01,Kedah,Kulim,427
+2021-11-01,Kedah,Kulim,598
+2021-12-01,Kedah,Kulim,647
+2022-01-01,Kedah,Kulim,521
+2022-02-01,Kedah,Kulim,440
+2022-03-01,Kedah,Kulim,786
+2022-04-01,Kedah,Kulim,992
+2022-05-01,Kedah,Kulim,2222
+2022-06-01,Kedah,Kulim,2947
+2022-07-01,Kedah,Kulim,3025
+2022-08-01,Kedah,Kulim,3369
+2022-09-01,Kedah,Kulim,3207
+2022-10-01,Kedah,Kulim,3661
+2022-11-01,Kedah,Kulim,3062
+2022-12-01,Kedah,Kulim,2930
+2023-01-01,Kedah,Kulim,3538
+2023-02-01,Kedah,Kulim,4516
+2023-03-01,Kedah,Kulim,4476
+2023-04-01,Kedah,Kulim,3602
+2023-05-01,Kedah,Kulim,3465
+2023-06-01,Kedah,Kulim,2823
+2023-07-01,Kedah,Kulim,3650
+2023-08-01,Kedah,Kulim,3083
+2023-09-01,Kedah,Kulim,3193
+2023-10-01,Kedah,Kulim,3405
+2023-11-01,Kedah,Kulim,2865
+2023-12-01,Kedah,Kulim,2966
+2024-01-01,Kedah,Kulim,3693
+2024-02-01,Kedah,Kulim,2957
+2024-03-01,Kedah,Kulim,2893
+2024-04-01,Kedah,Kulim,2619
+2024-05-01,Kedah,Kulim,2819
+2024-06-01,Kedah,Kulim,2388
+2024-07-01,Kedah,Kulim,2677
+2024-08-01,Kedah,Kulim,2607
+2024-09-01,Kedah,Kulim,2586
+2024-10-01,Kedah,Kulim,2373
+2020-01-01,Kedah,Langkawi,508
+2020-02-01,Kedah,Langkawi,
+2020-03-01,Kedah,Langkawi,182
+2020-04-01,Kedah,Langkawi,0
+2020-05-01,Kedah,Langkawi,4
+2020-06-01,Kedah,Langkawi,11
+2020-07-01,Kedah,Langkawi,25
+2020-08-01,Kedah,Langkawi,35
+2020-09-01,Kedah,Langkawi,17
+2020-10-01,Kedah,Langkawi,16
+2020-11-01,Kedah,Langkawi,16
+2020-12-01,Kedah,Langkawi,38
+2021-01-01,Kedah,Langkawi,19
+2021-02-01,Kedah,Langkawi,20
+2021-03-01,Kedah,Langkawi,24
+2021-04-01,Kedah,Langkawi,23
+2021-05-01,Kedah,Langkawi,20
+2021-06-01,Kedah,Langkawi,4
+2021-07-01,Kedah,Langkawi,23
+2021-08-01,Kedah,Langkawi,20
+2021-09-01,Kedah,Langkawi,38
+2021-10-01,Kedah,Langkawi,69
+2021-11-01,Kedah,Langkawi,110
+2021-12-01,Kedah,Langkawi,181
+2022-01-01,Kedah,Langkawi,142
+2022-02-01,Kedah,Langkawi,165
+2022-03-01,Kedah,Langkawi,183
+2022-04-01,Kedah,Langkawi,287
+2022-05-01,Kedah,Langkawi,529
+2022-06-01,Kedah,Langkawi,781
+2022-07-01,Kedah,Langkawi,661
+2022-08-01,Kedah,Langkawi,563
+2022-09-01,Kedah,Langkawi,705
+2022-10-01,Kedah,Langkawi,639
+2022-11-01,Kedah,Langkawi,555
+2022-12-01,Kedah,Langkawi,612
+2023-01-01,Kedah,Langkawi,656
+2023-02-01,Kedah,Langkawi,914
+2023-03-01,Kedah,Langkawi,645
+2023-04-01,Kedah,Langkawi,536
+2023-05-01,Kedah,Langkawi,545
+2023-06-01,Kedah,Langkawi,574
+2023-07-01,Kedah,Langkawi,561
+2023-08-01,Kedah,Langkawi,706
+2023-09-01,Kedah,Langkawi,702
+2023-10-01,Kedah,Langkawi,569
+2023-11-01,Kedah,Langkawi,457
+2023-12-01,Kedah,Langkawi,568
+2024-01-01,Kedah,Langkawi,771
+2024-02-01,Kedah,Langkawi,645
+2024-03-01,Kedah,Langkawi,459
+2024-04-01,Kedah,Langkawi,603
+2024-05-01,Kedah,Langkawi,542
+2024-06-01,Kedah,Langkawi,485
+2024-07-01,Kedah,Langkawi,537
+2024-08-01,Kedah,Langkawi,478
+2024-09-01,Kedah,Langkawi,392
+2024-10-01,Kedah,Langkawi,447
+2020-01-01,Kedah,UTC Kedah,2649
+2020-02-01,Kedah,UTC Kedah,
+2020-03-01,Kedah,UTC Kedah,505
+2020-04-01,Kedah,UTC Kedah,0
+2020-05-01,Kedah,UTC Kedah,0
+2020-06-01,Kedah,UTC Kedah,42
+2020-07-01,Kedah,UTC Kedah,160
+2020-08-01,Kedah,UTC Kedah,162
+2020-09-01,Kedah,UTC Kedah,88
+2020-10-01,Kedah,UTC Kedah,168
+2020-11-01,Kedah,UTC Kedah,137
+2020-12-01,Kedah,UTC Kedah,193
+2021-01-01,Kedah,UTC Kedah,105
+2021-02-01,Kedah,UTC Kedah,147
+2021-03-01,Kedah,UTC Kedah,213
+2021-04-01,Kedah,UTC Kedah,171
+2021-05-01,Kedah,UTC Kedah,71
+2021-06-01,Kedah,UTC Kedah,52
+2021-07-01,Kedah,UTC Kedah,161
+2021-08-01,Kedah,UTC Kedah,173
+2021-09-01,Kedah,UTC Kedah,212
+2021-10-01,Kedah,UTC Kedah,534
+2021-11-01,Kedah,UTC Kedah,834
+2021-12-01,Kedah,UTC Kedah,1428
+2022-01-01,Kedah,UTC Kedah,717
+2022-02-01,Kedah,UTC Kedah,867
+2022-03-01,Kedah,UTC Kedah,1370
+2022-04-01,Kedah,UTC Kedah,2277
+2022-05-01,Kedah,UTC Kedah,2778
+2022-06-01,Kedah,UTC Kedah,2754
+2022-07-01,Kedah,UTC Kedah,3021
+2022-08-01,Kedah,UTC Kedah,3350
+2022-09-01,Kedah,UTC Kedah,3354
+2022-10-01,Kedah,UTC Kedah,3311
+2022-11-01,Kedah,UTC Kedah,2742
+2022-12-01,Kedah,UTC Kedah,3560
+2023-01-01,Kedah,UTC Kedah,3498
+2023-02-01,Kedah,UTC Kedah,4024
+2023-03-01,Kedah,UTC Kedah,2949
+2023-04-01,Kedah,UTC Kedah,2975
+2023-05-01,Kedah,UTC Kedah,3077
+2023-06-01,Kedah,UTC Kedah,2715
+2023-07-01,Kedah,UTC Kedah,3745
+2023-08-01,Kedah,UTC Kedah,2463
+2023-09-01,Kedah,UTC Kedah,2893
+2023-10-01,Kedah,UTC Kedah,2535
+2023-11-01,Kedah,UTC Kedah,2764
+2023-12-01,Kedah,UTC Kedah,3327
+2024-01-01,Kedah,UTC Kedah,3255
+2024-02-01,Kedah,UTC Kedah,2943
+2024-03-01,Kedah,UTC Kedah,2475
+2024-04-01,Kedah,UTC Kedah,2321
+2024-05-01,Kedah,UTC Kedah,2618
+2024-06-01,Kedah,UTC Kedah,2380
+2024-07-01,Kedah,UTC Kedah,2471
+2024-08-01,Kedah,UTC Kedah,2428
+2024-09-01,Kedah,UTC Kedah,2704
+2024-10-01,Kedah,UTC Kedah,2467
+2020-01-01,Kedah,UTC Sungai Petani,3702
+2020-02-01,Kedah,UTC Sungai Petani,
+2020-03-01,Kedah,UTC Sungai Petani,833
+2020-04-01,Kedah,UTC Sungai Petani,0
+2020-05-01,Kedah,UTC Sungai Petani,0
+2020-06-01,Kedah,UTC Sungai Petani,87
+2020-07-01,Kedah,UTC Sungai Petani,245
+2020-08-01,Kedah,UTC Sungai Petani,145
+2020-09-01,Kedah,UTC Sungai Petani,165
+2020-10-01,Kedah,UTC Sungai Petani,160
+2020-11-01,Kedah,UTC Sungai Petani,158
+2020-12-01,Kedah,UTC Sungai Petani,246
+2021-01-01,Kedah,UTC Sungai Petani,124
+2021-02-01,Kedah,UTC Sungai Petani,104
+2021-03-01,Kedah,UTC Sungai Petani,323
+2021-04-01,Kedah,UTC Sungai Petani,220
+2021-05-01,Kedah,UTC Sungai Petani,163
+2021-06-01,Kedah,UTC Sungai Petani,31
+2021-07-01,Kedah,UTC Sungai Petani,149
+2021-08-01,Kedah,UTC Sungai Petani,83
+2021-09-01,Kedah,UTC Sungai Petani,257
+2021-10-01,Kedah,UTC Sungai Petani,640
+2021-11-01,Kedah,UTC Sungai Petani,1173
+2021-12-01,Kedah,UTC Sungai Petani,1353
+2022-01-01,Kedah,UTC Sungai Petani,820
+2022-02-01,Kedah,UTC Sungai Petani,944
+2022-03-01,Kedah,UTC Sungai Petani,1400
+2022-04-01,Kedah,UTC Sungai Petani,2498
+2022-05-01,Kedah,UTC Sungai Petani,3632
+2022-06-01,Kedah,UTC Sungai Petani,4308
+2022-07-01,Kedah,UTC Sungai Petani,4770
+2022-08-01,Kedah,UTC Sungai Petani,4629
+2022-09-01,Kedah,UTC Sungai Petani,5004
+2022-10-01,Kedah,UTC Sungai Petani,5039
+2022-11-01,Kedah,UTC Sungai Petani,4440
+2022-12-01,Kedah,UTC Sungai Petani,5207
+2023-01-01,Kedah,UTC Sungai Petani,5638
+2023-02-01,Kedah,UTC Sungai Petani,6366
+2023-03-01,Kedah,UTC Sungai Petani,5431
+2023-04-01,Kedah,UTC Sungai Petani,4288
+2023-05-01,Kedah,UTC Sungai Petani,4458
+2023-06-01,Kedah,UTC Sungai Petani,3920
+2023-07-01,Kedah,UTC Sungai Petani,4654
+2023-08-01,Kedah,UTC Sungai Petani,3439
+2023-09-01,Kedah,UTC Sungai Petani,4383
+2023-10-01,Kedah,UTC Sungai Petani,4369
+2023-11-01,Kedah,UTC Sungai Petani,4324
+2023-12-01,Kedah,UTC Sungai Petani,4993
+2024-01-01,Kedah,UTC Sungai Petani,5121
+2024-02-01,Kedah,UTC Sungai Petani,4636
+2024-03-01,Kedah,UTC Sungai Petani,4059
+2024-04-01,Kedah,UTC Sungai Petani,3725
+2024-05-01,Kedah,UTC Sungai Petani,3902
+2024-06-01,Kedah,UTC Sungai Petani,3547
+2024-07-01,Kedah,UTC Sungai Petani,4405
+2024-08-01,Kedah,UTC Sungai Petani,3830
+2024-09-01,Kedah,UTC Sungai Petani,3928
+2024-10-01,Kedah,UTC Sungai Petani,3828
+2020-01-01,Kelantan,UTC Kota Bharu,4282
+2020-02-01,Kelantan,UTC Kota Bharu,
+2020-03-01,Kelantan,UTC Kota Bharu,875
+2020-04-01,Kelantan,UTC Kota Bharu,0
+2020-05-01,Kelantan,UTC Kota Bharu,10
+2020-06-01,Kelantan,UTC Kota Bharu,140
+2020-07-01,Kelantan,UTC Kota Bharu,241
+2020-08-01,Kelantan,UTC Kota Bharu,233
+2020-09-01,Kelantan,UTC Kota Bharu,192
+2020-10-01,Kelantan,UTC Kota Bharu,186
+2020-11-01,Kelantan,UTC Kota Bharu,148
+2020-12-01,Kelantan,UTC Kota Bharu,174
+2021-01-01,Kelantan,UTC Kota Bharu,145
+2021-02-01,Kelantan,UTC Kota Bharu,157
+2021-03-01,Kelantan,UTC Kota Bharu,211
+2021-04-01,Kelantan,UTC Kota Bharu,171
+2021-05-01,Kelantan,UTC Kota Bharu,333
+2021-06-01,Kelantan,UTC Kota Bharu,60
+2021-07-01,Kelantan,UTC Kota Bharu,323
+2021-08-01,Kelantan,UTC Kota Bharu,253
+2021-09-01,Kelantan,UTC Kota Bharu,284
+2021-10-01,Kelantan,UTC Kota Bharu,699
+2021-11-01,Kelantan,UTC Kota Bharu,1516
+2021-12-01,Kelantan,UTC Kota Bharu,1777
+2022-01-01,Kelantan,UTC Kota Bharu,1205
+2022-02-01,Kelantan,UTC Kota Bharu,1244
+2022-03-01,Kelantan,UTC Kota Bharu,1845
+2022-04-01,Kelantan,UTC Kota Bharu,1894
+2022-05-01,Kelantan,UTC Kota Bharu,4053
+2022-06-01,Kelantan,UTC Kota Bharu,5035
+2022-07-01,Kelantan,UTC Kota Bharu,5261
+2022-08-01,Kelantan,UTC Kota Bharu,6095
+2022-09-01,Kelantan,UTC Kota Bharu,6947
+2022-10-01,Kelantan,UTC Kota Bharu,6026
+2022-11-01,Kelantan,UTC Kota Bharu,4245
+2022-12-01,Kelantan,UTC Kota Bharu,5933
+2023-01-01,Kelantan,UTC Kota Bharu,6522
+2023-02-01,Kelantan,UTC Kota Bharu,5538
+2023-03-01,Kelantan,UTC Kota Bharu,4726
+2023-04-01,Kelantan,UTC Kota Bharu,4081
+2023-05-01,Kelantan,UTC Kota Bharu,5556
+2023-06-01,Kelantan,UTC Kota Bharu,4548
+2023-07-01,Kelantan,UTC Kota Bharu,8151
+2023-08-01,Kelantan,UTC Kota Bharu,5711
+2023-09-01,Kelantan,UTC Kota Bharu,5532
+2023-10-01,Kelantan,UTC Kota Bharu,5346
+2023-11-01,Kelantan,UTC Kota Bharu,4191
+2023-12-01,Kelantan,UTC Kota Bharu,5356
+2024-01-01,Kelantan,UTC Kota Bharu,5842
+2024-02-01,Kelantan,UTC Kota Bharu,5281
+2024-03-01,Kelantan,UTC Kota Bharu,3618
+2024-04-01,Kelantan,UTC Kota Bharu,3841
+2024-05-01,Kelantan,UTC Kota Bharu,4192
+2024-06-01,Kelantan,UTC Kota Bharu,3973
+2024-07-01,Kelantan,UTC Kota Bharu,4729
+2024-08-01,Kelantan,UTC Kota Bharu,4655
+2024-09-01,Kelantan,UTC Kota Bharu,4347
+2024-10-01,Kelantan,UTC Kota Bharu,4486
+2020-01-01,Melaka,Melaka,1989
+2020-02-01,Melaka,Melaka,
+2020-03-01,Melaka,Melaka,460
+2020-04-01,Melaka,Melaka,2
+2020-05-01,Melaka,Melaka,159
+2020-06-01,Melaka,Melaka,153
+2020-07-01,Melaka,Melaka,207
+2020-08-01,Melaka,Melaka,169
+2020-09-01,Melaka,Melaka,220
+2020-10-01,Melaka,Melaka,115
+2020-11-01,Melaka,Melaka,134
+2020-12-01,Melaka,Melaka,185
+2021-01-01,Melaka,Melaka,194
+2021-02-01,Melaka,Melaka,326
+2021-03-01,Melaka,Melaka,314
+2021-04-01,Melaka,Melaka,236
+2021-05-01,Melaka,Melaka,277
+2021-06-01,Melaka,Melaka,100
+2021-07-01,Melaka,Melaka,337
+2021-08-01,Melaka,Melaka,207
+2021-09-01,Melaka,Melaka,292
+2021-10-01,Melaka,Melaka,431
+2021-11-01,Melaka,Melaka,753
+2021-12-01,Melaka,Melaka,949
+2022-01-01,Melaka,Melaka,645
+2022-02-01,Melaka,Melaka,745
+2022-03-01,Melaka,Melaka,1314
+2022-04-01,Melaka,Melaka,2787
+2022-05-01,Melaka,Melaka,4386
+2022-06-01,Melaka,Melaka,4519
+2022-07-01,Melaka,Melaka,3933
+2022-08-01,Melaka,Melaka,3981
+2022-09-01,Melaka,Melaka,3823
+2022-10-01,Melaka,Melaka,3643
+2022-11-01,Melaka,Melaka,3423
+2022-12-01,Melaka,Melaka,4446
+2023-01-01,Melaka,Melaka,3616
+2023-02-01,Melaka,Melaka,4718
+2023-03-01,Melaka,Melaka,3793
+2023-04-01,Melaka,Melaka,3041
+2023-05-01,Melaka,Melaka,3861
+2023-06-01,Melaka,Melaka,3193
+2023-07-01,Melaka,Melaka,3111
+2023-08-01,Melaka,Melaka,3566
+2023-09-01,Melaka,Melaka,3262
+2023-10-01,Melaka,Melaka,3089
+2023-11-01,Melaka,Melaka,3368
+2023-12-01,Melaka,Melaka,3810
+2024-01-01,Melaka,Melaka,3820
+2024-02-01,Melaka,Melaka,3896
+2024-03-01,Melaka,Melaka,3020
+2024-04-01,Melaka,Melaka,2827
+2024-05-01,Melaka,Melaka,2976
+2024-06-01,Melaka,Melaka,2679
+2024-07-01,Melaka,Melaka,2794
+2024-08-01,Melaka,Melaka,2929
+2024-09-01,Melaka,Melaka,3429
+2024-10-01,Melaka,Melaka,3036
+2020-01-01,Melaka,UTC Melaka,4448
+2020-02-01,Melaka,UTC Melaka,
+2020-03-01,Melaka,UTC Melaka,1020
+2020-04-01,Melaka,UTC Melaka,0
+2020-05-01,Melaka,UTC Melaka,0
+2020-06-01,Melaka,UTC Melaka,98
+2020-07-01,Melaka,UTC Melaka,346
+2020-08-01,Melaka,UTC Melaka,263
+2020-09-01,Melaka,UTC Melaka,256
+2020-10-01,Melaka,UTC Melaka,241
+2020-11-01,Melaka,UTC Melaka,169
+2020-12-01,Melaka,UTC Melaka,202
+2021-01-01,Melaka,UTC Melaka,101
+2021-02-01,Melaka,UTC Melaka,24
+2021-03-01,Melaka,UTC Melaka,198
+2021-04-01,Melaka,UTC Melaka,171
+2021-05-01,Melaka,UTC Melaka,100
+2021-06-01,Melaka,UTC Melaka,5
+2021-07-01,Melaka,UTC Melaka,32
+2021-08-01,Melaka,UTC Melaka,56
+2021-09-01,Melaka,UTC Melaka,346
+2021-10-01,Melaka,UTC Melaka,791
+2021-11-01,Melaka,UTC Melaka,1188
+2021-12-01,Melaka,UTC Melaka,1415
+2022-01-01,Melaka,UTC Melaka,1176
+2022-02-01,Melaka,UTC Melaka,1449
+2022-03-01,Melaka,UTC Melaka,1959
+2022-04-01,Melaka,UTC Melaka,2827
+2022-05-01,Melaka,UTC Melaka,4356
+2022-06-01,Melaka,UTC Melaka,6011
+2022-07-01,Melaka,UTC Melaka,5233
+2022-08-01,Melaka,UTC Melaka,5885
+2022-09-01,Melaka,UTC Melaka,5806
+2022-10-01,Melaka,UTC Melaka,6252
+2022-11-01,Melaka,UTC Melaka,5603
+2022-12-01,Melaka,UTC Melaka,6392
+2023-01-01,Melaka,UTC Melaka,5590
+2023-02-01,Melaka,UTC Melaka,6041
+2023-03-01,Melaka,UTC Melaka,5317
+2023-04-01,Melaka,UTC Melaka,4835
+2023-05-01,Melaka,UTC Melaka,5928
+2023-06-01,Melaka,UTC Melaka,5299
+2023-07-01,Melaka,UTC Melaka,5655
+2023-08-01,Melaka,UTC Melaka,5126
+2023-09-01,Melaka,UTC Melaka,5109
+2023-10-01,Melaka,UTC Melaka,5150
+2023-11-01,Melaka,UTC Melaka,5208
+2023-12-01,Melaka,UTC Melaka,5608
+2024-01-01,Melaka,UTC Melaka,5787
+2024-02-01,Melaka,UTC Melaka,5058
+2024-03-01,Melaka,UTC Melaka,4671
+2024-04-01,Melaka,UTC Melaka,4465
+2024-05-01,Melaka,UTC Melaka,5245
+2024-06-01,Melaka,UTC Melaka,4889
+2024-07-01,Melaka,UTC Melaka,4872
+2024-08-01,Melaka,UTC Melaka,4798
+2024-09-01,Melaka,UTC Melaka,4897
+2024-10-01,Melaka,UTC Melaka,4663
+2020-01-01,Negeri Sembilan,Port Dickson,807
+2020-02-01,Negeri Sembilan,Port Dickson,
+2020-03-01,Negeri Sembilan,Port Dickson,185
+2020-04-01,Negeri Sembilan,Port Dickson,0
+2020-05-01,Negeri Sembilan,Port Dickson,57
+2020-06-01,Negeri Sembilan,Port Dickson,388
+2020-07-01,Negeri Sembilan,Port Dickson,136
+2020-08-01,Negeri Sembilan,Port Dickson,101
+2020-09-01,Negeri Sembilan,Port Dickson,59
+2020-10-01,Negeri Sembilan,Port Dickson,46
+2020-11-01,Negeri Sembilan,Port Dickson,31
+2020-12-01,Negeri Sembilan,Port Dickson,39
+2021-01-01,Negeri Sembilan,Port Dickson,21
+2021-02-01,Negeri Sembilan,Port Dickson,43
+2021-03-01,Negeri Sembilan,Port Dickson,78
+2021-04-01,Negeri Sembilan,Port Dickson,77
+2021-05-01,Negeri Sembilan,Port Dickson,73
+2021-06-01,Negeri Sembilan,Port Dickson,88
+2021-07-01,Negeri Sembilan,Port Dickson,327
+2021-08-01,Negeri Sembilan,Port Dickson,110
+2021-09-01,Negeri Sembilan,Port Dickson,102
+2021-10-01,Negeri Sembilan,Port Dickson,177
+2021-11-01,Negeri Sembilan,Port Dickson,216
+2021-12-01,Negeri Sembilan,Port Dickson,246
+2022-01-01,Negeri Sembilan,Port Dickson,162
+2022-02-01,Negeri Sembilan,Port Dickson,204
+2022-03-01,Negeri Sembilan,Port Dickson,458
+2022-04-01,Negeri Sembilan,Port Dickson,991
+2022-05-01,Negeri Sembilan,Port Dickson,1480
+2022-06-01,Negeri Sembilan,Port Dickson,1756
+2022-07-01,Negeri Sembilan,Port Dickson,1434
+2022-08-01,Negeri Sembilan,Port Dickson,1261
+2022-09-01,Negeri Sembilan,Port Dickson,1388
+2022-10-01,Negeri Sembilan,Port Dickson,1333
+2022-11-01,Negeri Sembilan,Port Dickson,1192
+2022-12-01,Negeri Sembilan,Port Dickson,1692
+2023-01-01,Negeri Sembilan,Port Dickson,1272
+2023-02-01,Negeri Sembilan,Port Dickson,1712
+2023-03-01,Negeri Sembilan,Port Dickson,1420
+2023-04-01,Negeri Sembilan,Port Dickson,1089
+2023-05-01,Negeri Sembilan,Port Dickson,1378
+2023-06-01,Negeri Sembilan,Port Dickson,1143
+2023-07-01,Negeri Sembilan,Port Dickson,1239
+2023-08-01,Negeri Sembilan,Port Dickson,1077
+2023-09-01,Negeri Sembilan,Port Dickson,984
+2023-10-01,Negeri Sembilan,Port Dickson,1098
+2023-11-01,Negeri Sembilan,Port Dickson,1179
+2023-12-01,Negeri Sembilan,Port Dickson,1427
+2024-01-01,Negeri Sembilan,Port Dickson,1361
+2024-02-01,Negeri Sembilan,Port Dickson,1344
+2024-03-01,Negeri Sembilan,Port Dickson,1095
+2024-04-01,Negeri Sembilan,Port Dickson,987
+2024-05-01,Negeri Sembilan,Port Dickson,1302
+2024-06-01,Negeri Sembilan,Port Dickson,948
+2024-07-01,Negeri Sembilan,Port Dickson,1176
+2024-08-01,Negeri Sembilan,Port Dickson,1345
+2024-09-01,Negeri Sembilan,Port Dickson,1373
+2024-10-01,Negeri Sembilan,Port Dickson,1098
+2020-01-01,Negeri Sembilan,UTC Seremban,5506
+2020-02-01,Negeri Sembilan,UTC Seremban,
+2020-03-01,Negeri Sembilan,UTC Seremban,1360
+2020-04-01,Negeri Sembilan,UTC Seremban,0
+2020-05-01,Negeri Sembilan,UTC Seremban,0
+2020-06-01,Negeri Sembilan,UTC Seremban,127
+2020-07-01,Negeri Sembilan,UTC Seremban,416
+2020-08-01,Negeri Sembilan,UTC Seremban,361
+2020-09-01,Negeri Sembilan,UTC Seremban,335
+2020-10-01,Negeri Sembilan,UTC Seremban,406
+2020-11-01,Negeri Sembilan,UTC Seremban,130
+2020-12-01,Negeri Sembilan,UTC Seremban,310
+2021-01-01,Negeri Sembilan,UTC Seremban,331
+2021-02-01,Negeri Sembilan,UTC Seremban,377
+2021-03-01,Negeri Sembilan,UTC Seremban,529
+2021-04-01,Negeri Sembilan,UTC Seremban,421
+2021-05-01,Negeri Sembilan,UTC Seremban,309
+2021-06-01,Negeri Sembilan,UTC Seremban,55
+2021-07-01,Negeri Sembilan,UTC Seremban,230
+2021-08-01,Negeri Sembilan,UTC Seremban,312
+2021-09-01,Negeri Sembilan,UTC Seremban,783
+2021-10-01,Negeri Sembilan,UTC Seremban,1189
+2021-11-01,Negeri Sembilan,UTC Seremban,1938
+2021-12-01,Negeri Sembilan,UTC Seremban,2172
+2022-01-01,Negeri Sembilan,UTC Seremban,1543
+2022-02-01,Negeri Sembilan,UTC Seremban,1679
+2022-03-01,Negeri Sembilan,UTC Seremban,2865
+2022-04-01,Negeri Sembilan,UTC Seremban,5497
+2022-05-01,Negeri Sembilan,UTC Seremban,6949
+2022-06-01,Negeri Sembilan,UTC Seremban,8735
+2022-07-01,Negeri Sembilan,UTC Seremban,7857
+2022-08-01,Negeri Sembilan,UTC Seremban,9306
+2022-09-01,Negeri Sembilan,UTC Seremban,9543
+2022-10-01,Negeri Sembilan,UTC Seremban,9206
+2022-11-01,Negeri Sembilan,UTC Seremban,8750
+2022-12-01,Negeri Sembilan,UTC Seremban,10590
+2023-01-01,Negeri Sembilan,UTC Seremban,8732
+2023-02-01,Negeri Sembilan,UTC Seremban,9393
+2023-03-01,Negeri Sembilan,UTC Seremban,8773
+2023-04-01,Negeri Sembilan,UTC Seremban,7027
+2023-05-01,Negeri Sembilan,UTC Seremban,8394
+2023-06-01,Negeri Sembilan,UTC Seremban,7511
+2023-07-01,Negeri Sembilan,UTC Seremban,8266
+2023-08-01,Negeri Sembilan,UTC Seremban,7954
+2023-09-01,Negeri Sembilan,UTC Seremban,7678
+2023-10-01,Negeri Sembilan,UTC Seremban,8462
+2023-11-01,Negeri Sembilan,UTC Seremban,7383
+2023-12-01,Negeri Sembilan,UTC Seremban,9454
+2024-01-01,Negeri Sembilan,UTC Seremban,8731
+2024-02-01,Negeri Sembilan,UTC Seremban,8779
+2024-03-01,Negeri Sembilan,UTC Seremban,7417
+2024-04-01,Negeri Sembilan,UTC Seremban,6681
+2024-05-01,Negeri Sembilan,UTC Seremban,7710
+2024-06-01,Negeri Sembilan,UTC Seremban,7233
+2024-07-01,Negeri Sembilan,UTC Seremban,7372
+2024-08-01,Negeri Sembilan,UTC Seremban,7502
+2024-09-01,Negeri Sembilan,UTC Seremban,7811
+2024-10-01,Negeri Sembilan,UTC Seremban,7263
+2020-01-01,Overseas,Hong Kong,225
+2020-02-01,Overseas,Hong Kong,
+2020-03-01,Overseas,Hong Kong,123
+2020-04-01,Overseas,Hong Kong,74
+2020-05-01,Overseas,Hong Kong,119
+2020-06-01,Overseas,Hong Kong,144
+2020-07-01,Overseas,Hong Kong,114
+2020-08-01,Overseas,Hong Kong,125
+2020-09-01,Overseas,Hong Kong,146
+2020-10-01,Overseas,Hong Kong,147
+2020-11-01,Overseas,Hong Kong,211
+2020-12-01,Overseas,Hong Kong,177
+2021-01-01,Overseas,Hong Kong,194
+2021-02-01,Overseas,Hong Kong,187
+2021-03-01,Overseas,Hong Kong,272
+2021-04-01,Overseas,Hong Kong,234
+2021-05-01,Overseas,Hong Kong,187
+2021-06-01,Overseas,Hong Kong,167
+2021-07-01,Overseas,Hong Kong,209
+2021-08-01,Overseas,Hong Kong,228
+2021-09-01,Overseas,Hong Kong,174
+2021-10-01,Overseas,Hong Kong,144
+2021-11-01,Overseas,Hong Kong,176
+2021-12-01,Overseas,Hong Kong,188
+2022-01-01,Overseas,Hong Kong,179
+2022-02-01,Overseas,Hong Kong,96
+2022-03-01,Overseas,Hong Kong,261
+2022-04-01,Overseas,Hong Kong,332
+2022-05-01,Overseas,Hong Kong,279
+2022-06-01,Overseas,Hong Kong,248
+2022-07-01,Overseas,Hong Kong,213
+2022-08-01,Overseas,Hong Kong,274
+2022-09-01,Overseas,Hong Kong,219
+2022-10-01,Overseas,Hong Kong,247
+2022-11-01,Overseas,Hong Kong,265
+2022-12-01,Overseas,Hong Kong,298
+2023-01-01,Overseas,Hong Kong,344
+2023-02-01,Overseas,Hong Kong,405
+2023-03-01,Overseas,Hong Kong,404
+2023-04-01,Overseas,Hong Kong,294
+2023-05-01,Overseas,Hong Kong,251
+2023-06-01,Overseas,Hong Kong,253
+2023-07-01,Overseas,Hong Kong,235
+2023-08-01,Overseas,Hong Kong,232
+2023-09-01,Overseas,Hong Kong,165
+2023-10-01,Overseas,Hong Kong,189
+2023-11-01,Overseas,Hong Kong,235
+2023-12-01,Overseas,Hong Kong,213
+2024-01-01,Overseas,Hong Kong,266
+2024-02-01,Overseas,Hong Kong,205
+2024-03-01,Overseas,Hong Kong,233
+2024-04-01,Overseas,Hong Kong,222
+2024-05-01,Overseas,Hong Kong,234
+2024-06-01,Overseas,Hong Kong,170
+2024-07-01,Overseas,Hong Kong,225
+2024-08-01,Overseas,Hong Kong,210
+2024-09-01,Overseas,Hong Kong,169
+2024-10-01,Overseas,Hong Kong,201
+2020-01-01,Overseas,Jakarta,74
+2020-02-01,Overseas,Jakarta,
+2020-03-01,Overseas,Jakarta,57
+2020-04-01,Overseas,Jakarta,25
+2020-05-01,Overseas,Jakarta,12
+2020-06-01,Overseas,Jakarta,50
+2020-07-01,Overseas,Jakarta,84
+2020-08-01,Overseas,Jakarta,56
+2020-09-01,Overseas,Jakarta,121
+2020-10-01,Overseas,Jakarta,66
+2020-11-01,Overseas,Jakarta,88
+2020-12-01,Overseas,Jakarta,99
+2021-01-01,Overseas,Jakarta,95
+2021-02-01,Overseas,Jakarta,95
+2021-03-01,Overseas,Jakarta,140
+2021-04-01,Overseas,Jakarta,143
+2021-05-01,Overseas,Jakarta,86
+2021-06-01,Overseas,Jakarta,143
+2021-07-01,Overseas,Jakarta,29
+2021-08-01,Overseas,Jakarta,160
+2021-09-01,Overseas,Jakarta,132
+2021-10-01,Overseas,Jakarta,110
+2021-11-01,Overseas,Jakarta,103
+2021-12-01,Overseas,Jakarta,109
+2022-01-01,Overseas,Jakarta,99
+2022-02-01,Overseas,Jakarta,78
+2022-03-01,Overseas,Jakarta,120
+2022-04-01,Overseas,Jakarta,92
+2022-05-01,Overseas,Jakarta,82
+2022-06-01,Overseas,Jakarta,132
+2022-07-01,Overseas,Jakarta,63
+2022-08-01,Overseas,Jakarta,95
+2022-09-01,Overseas,Jakarta,72
+2022-10-01,Overseas,Jakarta,75
+2022-11-01,Overseas,Jakarta,72
+2022-12-01,Overseas,Jakarta,56
+2023-01-01,Overseas,Jakarta,82
+2023-02-01,Overseas,Jakarta,67
+2023-03-01,Overseas,Jakarta,92
+2023-04-01,Overseas,Jakarta,28
+2023-05-01,Overseas,Jakarta,95
+2023-06-01,Overseas,Jakarta,67
+2023-07-01,Overseas,Jakarta,91
+2023-08-01,Overseas,Jakarta,56
+2023-09-01,Overseas,Jakarta,52
+2023-10-01,Overseas,Jakarta,73
+2023-11-01,Overseas,Jakarta,45
+2023-12-01,Overseas,Jakarta,57
+2024-01-01,Overseas,Jakarta,74
+2024-02-01,Overseas,Jakarta,53
+2024-03-01,Overseas,Jakarta,60
+2024-04-01,Overseas,Jakarta,62
+2024-05-01,Overseas,Jakarta,60
+2024-06-01,Overseas,Jakarta,72
+2024-07-01,Overseas,Jakarta,87
+2024-08-01,Overseas,Jakarta,52
+2024-09-01,Overseas,Jakarta,53
+2024-10-01,Overseas,Jakarta,54
+2020-01-01,Overseas,Jeddah,69
+2020-02-01,Overseas,Jeddah,
+2020-03-01,Overseas,Jeddah,54
+2020-04-01,Overseas,Jeddah,4
+2020-05-01,Overseas,Jeddah,24
+2020-06-01,Overseas,Jeddah,70
+2020-07-01,Overseas,Jeddah,129
+2020-08-01,Overseas,Jeddah,113
+2020-09-01,Overseas,Jeddah,152
+2020-10-01,Overseas,Jeddah,120
+2020-11-01,Overseas,Jeddah,125
+2020-12-01,Overseas,Jeddah,123
+2021-01-01,Overseas,Jeddah,114
+2021-02-01,Overseas,Jeddah,70
+2021-03-01,Overseas,Jeddah,89
+2021-04-01,Overseas,Jeddah,57
+2021-05-01,Overseas,Jeddah,61
+2021-06-01,Overseas,Jeddah,56
+2021-07-01,Overseas,Jeddah,67
+2021-08-01,Overseas,Jeddah,78
+2021-09-01,Overseas,Jeddah,41
+2021-10-01,Overseas,Jeddah,75
+2021-11-01,Overseas,Jeddah,60
+2021-12-01,Overseas,Jeddah,45
+2022-01-01,Overseas,Jeddah,62
+2022-02-01,Overseas,Jeddah,51
+2022-03-01,Overseas,Jeddah,89
+2022-04-01,Overseas,Jeddah,36
+2022-05-01,Overseas,Jeddah,47
+2022-06-01,Overseas,Jeddah,62
+2022-07-01,Overseas,Jeddah,41
+2022-08-01,Overseas,Jeddah,53
+2022-09-01,Overseas,Jeddah,49
+2022-10-01,Overseas,Jeddah,42
+2022-11-01,Overseas,Jeddah,30
+2022-12-01,Overseas,Jeddah,53
+2023-01-01,Overseas,Jeddah,54
+2023-02-01,Overseas,Jeddah,54
+2023-03-01,Overseas,Jeddah,95
+2023-04-01,Overseas,Jeddah,38
+2023-05-01,Overseas,Jeddah,64
+2023-06-01,Overseas,Jeddah,36
+2023-07-01,Overseas,Jeddah,49
+2023-08-01,Overseas,Jeddah,60
+2023-09-01,Overseas,Jeddah,38
+2023-10-01,Overseas,Jeddah,35
+2023-11-01,Overseas,Jeddah,75
+2023-12-01,Overseas,Jeddah,56
+2024-01-01,Overseas,Jeddah,91
+2024-02-01,Overseas,Jeddah,104
+2024-03-01,Overseas,Jeddah,49
+2024-04-01,Overseas,Jeddah,38
+2024-05-01,Overseas,Jeddah,56
+2024-06-01,Overseas,Jeddah,40
+2024-07-01,Overseas,Jeddah,77
+2024-08-01,Overseas,Jeddah,58
+2024-09-01,Overseas,Jeddah,52
+2024-10-01,Overseas,Jeddah,29
+2020-01-01,Overseas,London,603
+2020-02-01,Overseas,London,
+2020-03-01,Overseas,London,359
+2020-04-01,Overseas,London,61
+2020-05-01,Overseas,London,106
+2020-06-01,Overseas,London,382
+2020-07-01,Overseas,London,556
+2020-08-01,Overseas,London,643
+2020-09-01,Overseas,London,586
+2020-10-01,Overseas,London,572
+2020-11-01,Overseas,London,431
+2020-12-01,Overseas,London,437
+2021-01-01,Overseas,London,423
+2021-02-01,Overseas,London,537
+2021-03-01,Overseas,London,652
+2021-04-01,Overseas,London,762
+2021-05-01,Overseas,London,698
+2021-06-01,Overseas,London,1020
+2021-07-01,Overseas,London,967
+2021-08-01,Overseas,London,842
+2021-09-01,Overseas,London,1123
+2021-10-01,Overseas,London,1024
+2021-11-01,Overseas,London,1254
+2021-12-01,Overseas,London,910
+2022-01-01,Overseas,London,788
+2022-02-01,Overseas,London,837
+2022-03-01,Overseas,London,1416
+2022-04-01,Overseas,London,1051
+2022-05-01,Overseas,London,1175
+2022-06-01,Overseas,London,1083
+2022-07-01,Overseas,London,1014
+2022-08-01,Overseas,London,1288
+2022-09-01,Overseas,London,839
+2022-10-01,Overseas,London,811
+2022-11-01,Overseas,London,627
+2022-12-01,Overseas,London,602
+2023-01-01,Overseas,London,771
+2023-02-01,Overseas,London,955
+2023-03-01,Overseas,London,892
+2023-04-01,Overseas,London,897
+2023-05-01,Overseas,London,753
+2023-06-01,Overseas,London,754
+2023-07-01,Overseas,London,727
+2023-08-01,Overseas,London,792
+2023-09-01,Overseas,London,572
+2023-10-01,Overseas,London,724
+2023-11-01,Overseas,London,609
+2023-12-01,Overseas,London,533
+2024-01-01,Overseas,London,744
+2024-02-01,Overseas,London,865
+2024-03-01,Overseas,London,621
+2024-04-01,Overseas,London,747
+2024-05-01,Overseas,London,783
+2024-06-01,Overseas,London,624
+2024-07-01,Overseas,London,771
+2024-08-01,Overseas,London,695
+2024-09-01,Overseas,London,600
+2024-10-01,Overseas,London,662
+2020-01-01,Overseas,Melbourne,748
+2020-02-01,Overseas,Melbourne,
+2020-03-01,Overseas,Melbourne,371
+2020-04-01,Overseas,Melbourne,153
+2020-05-01,Overseas,Melbourne,182
+2020-06-01,Overseas,Melbourne,243
+2020-07-01,Overseas,Melbourne,427
+2020-08-01,Overseas,Melbourne,113
+2020-09-01,Overseas,Melbourne,170
+2020-10-01,Overseas,Melbourne,182
+2020-11-01,Overseas,Melbourne,388
+2020-12-01,Overseas,Melbourne,579
+2021-01-01,Overseas,Melbourne,705
+2021-02-01,Overseas,Melbourne,573
+2021-03-01,Overseas,Melbourne,905
+2021-04-01,Overseas,Melbourne,908
+2021-05-01,Overseas,Melbourne,807
+2021-06-01,Overseas,Melbourne,799
+2021-07-01,Overseas,Melbourne,700
+2021-08-01,Overseas,Melbourne,599
+2021-09-01,Overseas,Melbourne,646
+2021-10-01,Overseas,Melbourne,830
+2021-11-01,Overseas,Melbourne,1069
+2021-12-01,Overseas,Melbourne,1201
+2022-01-01,Overseas,Melbourne,877
+2022-02-01,Overseas,Melbourne,834
+2022-03-01,Overseas,Melbourne,1002
+2022-04-01,Overseas,Melbourne,547
+2022-05-01,Overseas,Melbourne,563
+2022-06-01,Overseas,Melbourne,1304
+2022-07-01,Overseas,Melbourne,2986
+2022-08-01,Overseas,Melbourne,2539
+2022-09-01,Overseas,Melbourne,1348
+2022-10-01,Overseas,Melbourne,1227
+2022-11-01,Overseas,Melbourne,993
+2022-12-01,Overseas,Melbourne,685
+2023-01-01,Overseas,Melbourne,740
+2023-02-01,Overseas,Melbourne,903
+2023-03-01,Overseas,Melbourne,764
+2023-04-01,Overseas,Melbourne,633
+2023-05-01,Overseas,Melbourne,802
+2023-06-01,Overseas,Melbourne,471
+2023-07-01,Overseas,Melbourne,839
+2023-08-01,Overseas,Melbourne,641
+2023-09-01,Overseas,Melbourne,623
+2023-10-01,Overseas,Melbourne,555
+2023-11-01,Overseas,Melbourne,719
+2023-12-01,Overseas,Melbourne,500
+2024-01-01,Overseas,Melbourne,666
+2024-02-01,Overseas,Melbourne,648
+2024-03-01,Overseas,Melbourne,743
+2024-04-01,Overseas,Melbourne,533
+2024-05-01,Overseas,Melbourne,747
+2024-06-01,Overseas,Melbourne,412
+2024-07-01,Overseas,Melbourne,703
+2024-08-01,Overseas,Melbourne,724
+2024-09-01,Overseas,Melbourne,558
+2024-10-01,Overseas,Melbourne,683
+2020-01-01,Overseas,New York,306
+2020-02-01,Overseas,New York,
+2020-03-01,Overseas,New York,182
+2020-04-01,Overseas,New York,51
+2020-05-01,Overseas,New York,115
+2020-06-01,Overseas,New York,183
+2020-07-01,Overseas,New York,289
+2020-08-01,Overseas,New York,244
+2020-09-01,Overseas,New York,293
+2020-10-01,Overseas,New York,445
+2020-11-01,Overseas,New York,220
+2020-12-01,Overseas,New York,231
+2021-01-01,Overseas,New York,204
+2021-02-01,Overseas,New York,413
+2021-03-01,Overseas,New York,319
+2021-04-01,Overseas,New York,584
+2021-05-01,Overseas,New York,431
+2021-06-01,Overseas,New York,603
+2021-07-01,Overseas,New York,446
+2021-08-01,Overseas,New York,524
+2021-09-01,Overseas,New York,494
+2021-10-01,Overseas,New York,450
+2021-11-01,Overseas,New York,579
+2021-12-01,Overseas,New York,548
+2022-01-01,Overseas,New York,417
+2022-02-01,Overseas,New York,447
+2022-03-01,Overseas,New York,722
+2022-04-01,Overseas,New York,582
+2022-05-01,Overseas,New York,482
+2022-06-01,Overseas,New York,754
+2022-07-01,Overseas,New York,437
+2022-08-01,Overseas,New York,551
+2022-09-01,Overseas,New York,462
+2022-10-01,Overseas,New York,432
+2022-11-01,Overseas,New York,473
+2022-12-01,Overseas,New York,492
+2023-01-01,Overseas,New York,404
+2023-02-01,Overseas,New York,457
+2023-03-01,Overseas,New York,511
+2023-04-01,Overseas,New York,411
+2023-05-01,Overseas,New York,446
+2023-06-01,Overseas,New York,348
+2023-07-01,Overseas,New York,383
+2023-08-01,Overseas,New York,416
+2023-09-01,Overseas,New York,299
+2023-10-01,Overseas,New York,362
+2023-11-01,Overseas,New York,313
+2023-12-01,Overseas,New York,279
+2024-01-01,Overseas,New York,373
+2024-02-01,Overseas,New York,333
+2024-03-01,Overseas,New York,334
+2024-04-01,Overseas,New York,439
+2024-05-01,Overseas,New York,386
+2024-06-01,Overseas,New York,281
+2024-07-01,Overseas,New York,315
+2024-08-01,Overseas,New York,287
+2024-09-01,Overseas,New York,257
+2024-10-01,Overseas,New York,276
+2020-01-01,Overseas,Singapore,1838
+2020-02-01,Overseas,Singapore,
+2020-03-01,Overseas,Singapore,1719
+2020-04-01,Overseas,Singapore,736
+2020-05-01,Overseas,Singapore,660
+2020-06-01,Overseas,Singapore,2477
+2020-07-01,Overseas,Singapore,3779
+2020-08-01,Overseas,Singapore,4620
+2020-09-01,Overseas,Singapore,4404
+2020-10-01,Overseas,Singapore,3295
+2020-11-01,Overseas,Singapore,3908
+2020-12-01,Overseas,Singapore,4886
+2021-01-01,Overseas,Singapore,3669
+2021-02-01,Overseas,Singapore,3238
+2021-03-01,Overseas,Singapore,4101
+2021-04-01,Overseas,Singapore,2725
+2021-05-01,Overseas,Singapore,1956
+2021-06-01,Overseas,Singapore,2491
+2021-07-01,Overseas,Singapore,2449
+2021-08-01,Overseas,Singapore,1899
+2021-09-01,Overseas,Singapore,1815
+2021-10-01,Overseas,Singapore,2471
+2021-11-01,Overseas,Singapore,2872
+2021-12-01,Overseas,Singapore,2781
+2022-01-01,Overseas,Singapore,1991
+2022-02-01,Overseas,Singapore,2074
+2022-03-01,Overseas,Singapore,2550
+2022-04-01,Overseas,Singapore,2186
+2022-05-01,Overseas,Singapore,1812
+2022-06-01,Overseas,Singapore,1744
+2022-07-01,Overseas,Singapore,1784
+2022-08-01,Overseas,Singapore,1948
+2022-09-01,Overseas,Singapore,1944
+2022-10-01,Overseas,Singapore,1044
+2022-11-01,Overseas,Singapore,1373
+2022-12-01,Overseas,Singapore,1164
+2023-01-01,Overseas,Singapore,1144
+2023-02-01,Overseas,Singapore,1193
+2023-03-01,Overseas,Singapore,1315
+2023-04-01,Overseas,Singapore,814
+2023-05-01,Overseas,Singapore,1176
+2023-06-01,Overseas,Singapore,1093
+2023-07-01,Overseas,Singapore,1035
+2023-08-01,Overseas,Singapore,1176
+2023-09-01,Overseas,Singapore,941
+2023-10-01,Overseas,Singapore,1144
+2023-11-01,Overseas,Singapore,1112
+2023-12-01,Overseas,Singapore,1092
+2024-01-01,Overseas,Singapore,1599
+2024-02-01,Overseas,Singapore,1300
+2024-03-01,Overseas,Singapore,1952
+2024-04-01,Overseas,Singapore,1569
+2024-05-01,Overseas,Singapore,1740
+2024-06-01,Overseas,Singapore,1262
+2024-07-01,Overseas,Singapore,1377
+2024-08-01,Overseas,Singapore,1117
+2024-09-01,Overseas,Singapore,1096
+2024-10-01,Overseas,Singapore,1214
+2020-01-01,Pahang,Cameron Highland,236
+2020-02-01,Pahang,Cameron Highland,
+2020-03-01,Pahang,Cameron Highland,31
+2020-04-01,Pahang,Cameron Highland,0
+2020-05-01,Pahang,Cameron Highland,0
+2020-06-01,Pahang,Cameron Highland,1
+2020-07-01,Pahang,Cameron Highland,6
+2020-08-01,Pahang,Cameron Highland,2
+2020-09-01,Pahang,Cameron Highland,3
+2020-10-01,Pahang,Cameron Highland,6
+2020-11-01,Pahang,Cameron Highland,8
+2020-12-01,Pahang,Cameron Highland,6
+2021-01-01,Pahang,Cameron Highland,11
+2021-02-01,Pahang,Cameron Highland,5
+2021-03-01,Pahang,Cameron Highland,6
+2021-04-01,Pahang,Cameron Highland,3
+2021-05-01,Pahang,Cameron Highland,3
+2021-06-01,Pahang,Cameron Highland,0
+2021-07-01,Pahang,Cameron Highland,11
+2021-08-01,Pahang,Cameron Highland,16
+2021-09-01,Pahang,Cameron Highland,18
+2021-10-01,Pahang,Cameron Highland,26
+2021-11-01,Pahang,Cameron Highland,38
+2021-12-01,Pahang,Cameron Highland,48
+2022-01-01,Pahang,Cameron Highland,39
+2022-02-01,Pahang,Cameron Highland,37
+2022-03-01,Pahang,Cameron Highland,93
+2022-04-01,Pahang,Cameron Highland,219
+2022-05-01,Pahang,Cameron Highland,368
+2022-06-01,Pahang,Cameron Highland,497
+2022-07-01,Pahang,Cameron Highland,516
+2022-08-01,Pahang,Cameron Highland,533
+2022-09-01,Pahang,Cameron Highland,637
+2022-10-01,Pahang,Cameron Highland,584
+2022-11-01,Pahang,Cameron Highland,544
+2022-12-01,Pahang,Cameron Highland,722
+2023-01-01,Pahang,Cameron Highland,569
+2023-02-01,Pahang,Cameron Highland,634
+2023-03-01,Pahang,Cameron Highland,670
+2023-04-01,Pahang,Cameron Highland,540
+2023-05-01,Pahang,Cameron Highland,438
+2023-06-01,Pahang,Cameron Highland,406
+2023-07-01,Pahang,Cameron Highland,396
+2023-08-01,Pahang,Cameron Highland,420
+2023-09-01,Pahang,Cameron Highland,390
+2023-10-01,Pahang,Cameron Highland,354
+2023-11-01,Pahang,Cameron Highland,411
+2023-12-01,Pahang,Cameron Highland,361
+2024-01-01,Pahang,Cameron Highland,467
+2024-02-01,Pahang,Cameron Highland,580
+2024-03-01,Pahang,Cameron Highland,415
+2024-04-01,Pahang,Cameron Highland,385
+2024-05-01,Pahang,Cameron Highland,405
+2024-06-01,Pahang,Cameron Highland,302
+2024-07-01,Pahang,Cameron Highland,305
+2024-08-01,Pahang,Cameron Highland,291
+2024-09-01,Pahang,Cameron Highland,367
+2024-10-01,Pahang,Cameron Highland,308
+2020-01-01,Pahang,Raub,1286
+2020-02-01,Pahang,Raub,
+2020-03-01,Pahang,Raub,212
+2020-04-01,Pahang,Raub,0
+2020-05-01,Pahang,Raub,0
+2020-06-01,Pahang,Raub,48
+2020-07-01,Pahang,Raub,57
+2020-08-01,Pahang,Raub,54
+2020-09-01,Pahang,Raub,58
+2020-10-01,Pahang,Raub,42
+2020-11-01,Pahang,Raub,47
+2020-12-01,Pahang,Raub,50
+2021-01-01,Pahang,Raub,41
+2021-02-01,Pahang,Raub,38
+2021-03-01,Pahang,Raub,63
+2021-04-01,Pahang,Raub,67
+2021-05-01,Pahang,Raub,9
+2021-06-01,Pahang,Raub,14
+2021-07-01,Pahang,Raub,79
+2021-08-01,Pahang,Raub,54
+2021-09-01,Pahang,Raub,66
+2021-10-01,Pahang,Raub,170
+2021-11-01,Pahang,Raub,242
+2021-12-01,Pahang,Raub,286
+2022-01-01,Pahang,Raub,263
+2022-02-01,Pahang,Raub,256
+2022-03-01,Pahang,Raub,501
+2022-04-01,Pahang,Raub,930
+2022-05-01,Pahang,Raub,1224
+2022-06-01,Pahang,Raub,1563
+2022-07-01,Pahang,Raub,1439
+2022-08-01,Pahang,Raub,1722
+2022-09-01,Pahang,Raub,1881
+2022-10-01,Pahang,Raub,1509
+2022-11-01,Pahang,Raub,1286
+2022-12-01,Pahang,Raub,2123
+2023-01-01,Pahang,Raub,2016
+2023-02-01,Pahang,Raub,2548
+2023-03-01,Pahang,Raub,2228
+2023-04-01,Pahang,Raub,1581
+2023-05-01,Pahang,Raub,1696
+2023-06-01,Pahang,Raub,1650
+2023-07-01,Pahang,Raub,1498
+2023-08-01,Pahang,Raub,1574
+2023-09-01,Pahang,Raub,1184
+2023-10-01,Pahang,Raub,1367
+2023-11-01,Pahang,Raub,1427
+2023-12-01,Pahang,Raub,1694
+2024-01-01,Pahang,Raub,1730
+2024-02-01,Pahang,Raub,2112
+2024-03-01,Pahang,Raub,1505
+2024-04-01,Pahang,Raub,1369
+2024-05-01,Pahang,Raub,1460
+2024-06-01,Pahang,Raub,1132
+2024-07-01,Pahang,Raub,1328
+2024-08-01,Pahang,Raub,1325
+2024-09-01,Pahang,Raub,1431
+2024-10-01,Pahang,Raub,1342
+2020-01-01,Pahang,Temerloh,1528
+2020-02-01,Pahang,Temerloh,
+2020-03-01,Pahang,Temerloh,293
+2020-04-01,Pahang,Temerloh,0
+2020-05-01,Pahang,Temerloh,17
+2020-06-01,Pahang,Temerloh,89
+2020-07-01,Pahang,Temerloh,84
+2020-08-01,Pahang,Temerloh,70
+2020-09-01,Pahang,Temerloh,66
+2020-10-01,Pahang,Temerloh,68
+2020-11-01,Pahang,Temerloh,45
+2020-12-01,Pahang,Temerloh,66
+2021-01-01,Pahang,Temerloh,37
+2021-02-01,Pahang,Temerloh,60
+2021-03-01,Pahang,Temerloh,108
+2021-04-01,Pahang,Temerloh,76
+2021-05-01,Pahang,Temerloh,58
+2021-06-01,Pahang,Temerloh,25
+2021-07-01,Pahang,Temerloh,133
+2021-08-01,Pahang,Temerloh,52
+2021-09-01,Pahang,Temerloh,41
+2021-10-01,Pahang,Temerloh,254
+2021-11-01,Pahang,Temerloh,513
+2021-12-01,Pahang,Temerloh,414
+2022-01-01,Pahang,Temerloh,520
+2022-02-01,Pahang,Temerloh,368
+2022-03-01,Pahang,Temerloh,699
+2022-04-01,Pahang,Temerloh,1023
+2022-05-01,Pahang,Temerloh,1665
+2022-06-01,Pahang,Temerloh,2334
+2022-07-01,Pahang,Temerloh,1930
+2022-08-01,Pahang,Temerloh,2011
+2022-09-01,Pahang,Temerloh,2270
+2022-10-01,Pahang,Temerloh,1960
+2022-11-01,Pahang,Temerloh,1552
+2022-12-01,Pahang,Temerloh,2091
+2023-01-01,Pahang,Temerloh,1959
+2023-02-01,Pahang,Temerloh,2400
+2023-03-01,Pahang,Temerloh,2179
+2023-04-01,Pahang,Temerloh,1732
+2023-05-01,Pahang,Temerloh,1908
+2023-06-01,Pahang,Temerloh,1900
+2023-07-01,Pahang,Temerloh,1809
+2023-08-01,Pahang,Temerloh,2105
+2023-09-01,Pahang,Temerloh,1578
+2023-10-01,Pahang,Temerloh,1612
+2023-11-01,Pahang,Temerloh,1597
+2023-12-01,Pahang,Temerloh,1767
+2024-01-01,Pahang,Temerloh,1914
+2024-02-01,Pahang,Temerloh,2215
+2024-03-01,Pahang,Temerloh,1528
+2024-04-01,Pahang,Temerloh,1578
+2024-05-01,Pahang,Temerloh,1810
+2024-06-01,Pahang,Temerloh,1417
+2024-07-01,Pahang,Temerloh,1649
+2024-08-01,Pahang,Temerloh,1668
+2024-09-01,Pahang,Temerloh,1740
+2024-10-01,Pahang,Temerloh,1629
+2020-01-01,Pahang,UTC Kuantan,3099
+2020-02-01,Pahang,UTC Kuantan,
+2020-03-01,Pahang,UTC Kuantan,650
+2020-04-01,Pahang,UTC Kuantan,0
+2020-05-01,Pahang,UTC Kuantan,0
+2020-06-01,Pahang,UTC Kuantan,77
+2020-07-01,Pahang,UTC Kuantan,192
+2020-08-01,Pahang,UTC Kuantan,135
+2020-09-01,Pahang,UTC Kuantan,170
+2020-10-01,Pahang,UTC Kuantan,156
+2020-11-01,Pahang,UTC Kuantan,139
+2020-12-01,Pahang,UTC Kuantan,168
+2021-01-01,Pahang,UTC Kuantan,55
+2021-02-01,Pahang,UTC Kuantan,91
+2021-03-01,Pahang,UTC Kuantan,251
+2021-04-01,Pahang,UTC Kuantan,195
+2021-05-01,Pahang,UTC Kuantan,96
+2021-06-01,Pahang,UTC Kuantan,53
+2021-07-01,Pahang,UTC Kuantan,137
+2021-08-01,Pahang,UTC Kuantan,211
+2021-09-01,Pahang,UTC Kuantan,271
+2021-10-01,Pahang,UTC Kuantan,520
+2021-11-01,Pahang,UTC Kuantan,986
+2021-12-01,Pahang,UTC Kuantan,1066
+2022-01-01,Pahang,UTC Kuantan,723
+2022-02-01,Pahang,UTC Kuantan,707
+2022-03-01,Pahang,UTC Kuantan,1324
+2022-04-01,Pahang,UTC Kuantan,2471
+2022-05-01,Pahang,UTC Kuantan,3204
+2022-06-01,Pahang,UTC Kuantan,4322
+2022-07-01,Pahang,UTC Kuantan,4191
+2022-08-01,Pahang,UTC Kuantan,4785
+2022-09-01,Pahang,UTC Kuantan,4870
+2022-10-01,Pahang,UTC Kuantan,4358
+2022-11-01,Pahang,UTC Kuantan,3787
+2022-12-01,Pahang,UTC Kuantan,4729
+2023-01-01,Pahang,UTC Kuantan,4578
+2023-02-01,Pahang,UTC Kuantan,4741
+2023-03-01,Pahang,UTC Kuantan,4075
+2023-04-01,Pahang,UTC Kuantan,3997
+2023-05-01,Pahang,UTC Kuantan,4199
+2023-06-01,Pahang,UTC Kuantan,4370
+2023-07-01,Pahang,UTC Kuantan,4352
+2023-08-01,Pahang,UTC Kuantan,4574
+2023-09-01,Pahang,UTC Kuantan,4269
+2023-10-01,Pahang,UTC Kuantan,4222
+2023-11-01,Pahang,UTC Kuantan,3702
+2023-12-01,Pahang,UTC Kuantan,4345
+2024-01-01,Pahang,UTC Kuantan,4691
+2024-02-01,Pahang,UTC Kuantan,4255
+2024-03-01,Pahang,UTC Kuantan,3319
+2024-04-01,Pahang,UTC Kuantan,3376
+2024-05-01,Pahang,UTC Kuantan,3822
+2024-06-01,Pahang,UTC Kuantan,3778
+2024-07-01,Pahang,UTC Kuantan,3877
+2024-08-01,Pahang,UTC Kuantan,4013
+2024-09-01,Pahang,UTC Kuantan,4034
+2024-10-01,Pahang,UTC Kuantan,3512
+2020-01-01,Perak,Ipoh,2515
+2020-02-01,Perak,Ipoh,
+2020-03-01,Perak,Ipoh,594
+2020-04-01,Perak,Ipoh,0
+2020-05-01,Perak,Ipoh,75
+2020-06-01,Perak,Ipoh,106
+2020-07-01,Perak,Ipoh,0
+2020-08-01,Perak,Ipoh,0
+2020-09-01,Perak,Ipoh,0
+2020-10-01,Perak,Ipoh,0
+2020-11-01,Perak,Ipoh,0
+2020-12-01,Perak,Ipoh,0
+2021-01-01,Perak,Ipoh,0
+2021-02-01,Perak,Ipoh,0
+2021-03-01,Perak,Ipoh,0
+2021-04-01,Perak,Ipoh,0
+2021-05-01,Perak,Ipoh,0
+2021-06-01,Perak,Ipoh,0
+2021-07-01,Perak,Ipoh,1
+2021-08-01,Perak,Ipoh,2
+2021-09-01,Perak,Ipoh,0
+2021-10-01,Perak,Ipoh,10
+2021-11-01,Perak,Ipoh,20
+2021-12-01,Perak,Ipoh,33
+2022-01-01,Perak,Ipoh,29
+2022-02-01,Perak,Ipoh,24
+2022-03-01,Perak,Ipoh,54
+2022-04-01,Perak,Ipoh,122
+2022-05-01,Perak,Ipoh,213
+2022-06-01,Perak,Ipoh,192
+2022-07-01,Perak,Ipoh,155
+2022-08-01,Perak,Ipoh,200
+2022-09-01,Perak,Ipoh,225
+2022-10-01,Perak,Ipoh,146
+2022-11-01,Perak,Ipoh,170
+2022-12-01,Perak,Ipoh,282
+2023-01-01,Perak,Ipoh,199
+2023-02-01,Perak,Ipoh,261
+2023-03-01,Perak,Ipoh,222
+2023-04-01,Perak,Ipoh,163
+2023-05-01,Perak,Ipoh,234
+2023-06-01,Perak,Ipoh,152
+2023-07-01,Perak,Ipoh,154
+2023-08-01,Perak,Ipoh,172
+2023-09-01,Perak,Ipoh,166
+2023-10-01,Perak,Ipoh,188
+2023-11-01,Perak,Ipoh,152
+2023-12-01,Perak,Ipoh,180
+2024-01-01,Perak,Ipoh,212
+2024-02-01,Perak,Ipoh,319
+2024-03-01,Perak,Ipoh,214
+2024-04-01,Perak,Ipoh,291
+2024-05-01,Perak,Ipoh,478
+2024-06-01,Perak,Ipoh,479
+2024-07-01,Perak,Ipoh,514
+2024-08-01,Perak,Ipoh,622
+2024-09-01,Perak,Ipoh,1430
+2024-10-01,Perak,Ipoh,1884
+2020-01-01,Perak,Lumut,1595
+2020-02-01,Perak,Lumut,
+2020-03-01,Perak,Lumut,369
+2020-04-01,Perak,Lumut,0
+2020-05-01,Perak,Lumut,35
+2020-06-01,Perak,Lumut,101
+2020-07-01,Perak,Lumut,126
+2020-08-01,Perak,Lumut,111
+2020-09-01,Perak,Lumut,70
+2020-10-01,Perak,Lumut,86
+2020-11-01,Perak,Lumut,41
+2020-12-01,Perak,Lumut,128
+2021-01-01,Perak,Lumut,80
+2021-02-01,Perak,Lumut,62
+2021-03-01,Perak,Lumut,147
+2021-04-01,Perak,Lumut,155
+2021-05-01,Perak,Lumut,169
+2021-06-01,Perak,Lumut,24
+2021-07-01,Perak,Lumut,72
+2021-08-01,Perak,Lumut,113
+2021-09-01,Perak,Lumut,117
+2021-10-01,Perak,Lumut,252
+2021-11-01,Perak,Lumut,460
+2021-12-01,Perak,Lumut,604
+2022-01-01,Perak,Lumut,448
+2022-02-01,Perak,Lumut,504
+2022-03-01,Perak,Lumut,1057
+2022-04-01,Perak,Lumut,1525
+2022-05-01,Perak,Lumut,1961
+2022-06-01,Perak,Lumut,2659
+2022-07-01,Perak,Lumut,2143
+2022-08-01,Perak,Lumut,2856
+2022-09-01,Perak,Lumut,2793
+2022-10-01,Perak,Lumut,2561
+2022-11-01,Perak,Lumut,2444
+2022-12-01,Perak,Lumut,2852
+2023-01-01,Perak,Lumut,2317
+2023-02-01,Perak,Lumut,2944
+2023-03-01,Perak,Lumut,2766
+2023-04-01,Perak,Lumut,2222
+2023-05-01,Perak,Lumut,2414
+2023-06-01,Perak,Lumut,2170
+2023-07-01,Perak,Lumut,2170
+2023-08-01,Perak,Lumut,2228
+2023-09-01,Perak,Lumut,1999
+2023-10-01,Perak,Lumut,1951
+2023-11-01,Perak,Lumut,1915
+2023-12-01,Perak,Lumut,2560
+2024-01-01,Perak,Lumut,2145
+2024-02-01,Perak,Lumut,2482
+2024-03-01,Perak,Lumut,1761
+2024-04-01,Perak,Lumut,1965
+2024-05-01,Perak,Lumut,2334
+2024-06-01,Perak,Lumut,1734
+2024-07-01,Perak,Lumut,1945
+2024-08-01,Perak,Lumut,1902
+2024-09-01,Perak,Lumut,1852
+2024-10-01,Perak,Lumut,1713
+2020-01-01,Perak,Pengkalan Hulu (Bkt. Berapit),417
+2020-02-01,Perak,Pengkalan Hulu (Bkt. Berapit),
+2020-03-01,Perak,Pengkalan Hulu (Bkt. Berapit),76
+2020-04-01,Perak,Pengkalan Hulu (Bkt. Berapit),0
+2020-05-01,Perak,Pengkalan Hulu (Bkt. Berapit),1
+2020-06-01,Perak,Pengkalan Hulu (Bkt. Berapit),12
+2020-07-01,Perak,Pengkalan Hulu (Bkt. Berapit),23
+2020-08-01,Perak,Pengkalan Hulu (Bkt. Berapit),18
+2020-09-01,Perak,Pengkalan Hulu (Bkt. Berapit),11
+2020-10-01,Perak,Pengkalan Hulu (Bkt. Berapit),10
+2020-11-01,Perak,Pengkalan Hulu (Bkt. Berapit),2
+2020-12-01,Perak,Pengkalan Hulu (Bkt. Berapit),8
+2021-01-01,Perak,Pengkalan Hulu (Bkt. Berapit),16
+2021-02-01,Perak,Pengkalan Hulu (Bkt. Berapit),3
+2021-03-01,Perak,Pengkalan Hulu (Bkt. Berapit),11
+2021-04-01,Perak,Pengkalan Hulu (Bkt. Berapit),5
+2021-05-01,Perak,Pengkalan Hulu (Bkt. Berapit),3
+2021-06-01,Perak,Pengkalan Hulu (Bkt. Berapit),6
+2021-07-01,Perak,Pengkalan Hulu (Bkt. Berapit),8
+2021-08-01,Perak,Pengkalan Hulu (Bkt. Berapit),11
+2021-09-01,Perak,Pengkalan Hulu (Bkt. Berapit),24
+2021-10-01,Perak,Pengkalan Hulu (Bkt. Berapit),74
+2021-11-01,Perak,Pengkalan Hulu (Bkt. Berapit),0
+2021-12-01,Perak,Pengkalan Hulu (Bkt. Berapit),129
+2022-01-01,Perak,Pengkalan Hulu (Bkt. Berapit),66
+2022-02-01,Perak,Pengkalan Hulu (Bkt. Berapit),78
+2022-03-01,Perak,Pengkalan Hulu (Bkt. Berapit),98
+2022-04-01,Perak,Pengkalan Hulu (Bkt. Berapit),311
+2022-05-01,Perak,Pengkalan Hulu (Bkt. Berapit),400
+2022-06-01,Perak,Pengkalan Hulu (Bkt. Berapit),482
+2022-07-01,Perak,Pengkalan Hulu (Bkt. Berapit),472
+2022-08-01,Perak,Pengkalan Hulu (Bkt. Berapit),659
+2022-09-01,Perak,Pengkalan Hulu (Bkt. Berapit),1089
+2022-10-01,Perak,Pengkalan Hulu (Bkt. Berapit),824
+2022-11-01,Perak,Pengkalan Hulu (Bkt. Berapit),584
+2022-12-01,Perak,Pengkalan Hulu (Bkt. Berapit),1183
+2023-01-01,Perak,Pengkalan Hulu (Bkt. Berapit),792
+2023-02-01,Perak,Pengkalan Hulu (Bkt. Berapit),910
+2023-03-01,Perak,Pengkalan Hulu (Bkt. Berapit),856
+2023-04-01,Perak,Pengkalan Hulu (Bkt. Berapit),760
+2023-05-01,Perak,Pengkalan Hulu (Bkt. Berapit),841
+2023-06-01,Perak,Pengkalan Hulu (Bkt. Berapit),798
+2023-07-01,Perak,Pengkalan Hulu (Bkt. Berapit),939
+2023-08-01,Perak,Pengkalan Hulu (Bkt. Berapit),1018
+2023-09-01,Perak,Pengkalan Hulu (Bkt. Berapit),914
+2023-10-01,Perak,Pengkalan Hulu (Bkt. Berapit),894
+2023-11-01,Perak,Pengkalan Hulu (Bkt. Berapit),796
+2023-12-01,Perak,Pengkalan Hulu (Bkt. Berapit),1023
+2024-01-01,Perak,Pengkalan Hulu (Bkt. Berapit),1105
+2024-02-01,Perak,Pengkalan Hulu (Bkt. Berapit),1024
+2024-03-01,Perak,Pengkalan Hulu (Bkt. Berapit),625
+2024-04-01,Perak,Pengkalan Hulu (Bkt. Berapit),605
+2024-05-01,Perak,Pengkalan Hulu (Bkt. Berapit),846
+2024-06-01,Perak,Pengkalan Hulu (Bkt. Berapit),722
+2024-07-01,Perak,Pengkalan Hulu (Bkt. Berapit),801
+2024-08-01,Perak,Pengkalan Hulu (Bkt. Berapit),806
+2024-09-01,Perak,Pengkalan Hulu (Bkt. Berapit),814
+2024-10-01,Perak,Pengkalan Hulu (Bkt. Berapit),615
+2020-01-01,Perak,Taiping,2228
+2020-02-01,Perak,Taiping,
+2020-03-01,Perak,Taiping,432
+2020-04-01,Perak,Taiping,0
+2020-05-01,Perak,Taiping,16
+2020-06-01,Perak,Taiping,81
+2020-07-01,Perak,Taiping,132
+2020-08-01,Perak,Taiping,118
+2020-09-01,Perak,Taiping,88
+2020-10-01,Perak,Taiping,74
+2020-11-01,Perak,Taiping,41
+2020-12-01,Perak,Taiping,107
+2021-01-01,Perak,Taiping,66
+2021-02-01,Perak,Taiping,74
+2021-03-01,Perak,Taiping,132
+2021-04-01,Perak,Taiping,125
+2021-05-01,Perak,Taiping,64
+2021-06-01,Perak,Taiping,18
+2021-07-01,Perak,Taiping,12
+2021-08-01,Perak,Taiping,115
+2021-09-01,Perak,Taiping,180
+2021-10-01,Perak,Taiping,407
+2021-11-01,Perak,Taiping,625
+2021-12-01,Perak,Taiping,855
+2022-01-01,Perak,Taiping,495
+2022-02-01,Perak,Taiping,617
+2022-03-01,Perak,Taiping,938
+2022-04-01,Perak,Taiping,1503
+2022-05-01,Perak,Taiping,2382
+2022-06-01,Perak,Taiping,2922
+2022-07-01,Perak,Taiping,2637
+2022-08-01,Perak,Taiping,3473
+2022-09-01,Perak,Taiping,3513
+2022-10-01,Perak,Taiping,3359
+2022-11-01,Perak,Taiping,2904
+2022-12-01,Perak,Taiping,3766
+2023-01-01,Perak,Taiping,2844
+2023-02-01,Perak,Taiping,3274
+2023-03-01,Perak,Taiping,3294
+2023-04-01,Perak,Taiping,2331
+2023-05-01,Perak,Taiping,3123
+2023-06-01,Perak,Taiping,2987
+2023-07-01,Perak,Taiping,3019
+2023-08-01,Perak,Taiping,2932
+2023-09-01,Perak,Taiping,2682
+2023-10-01,Perak,Taiping,2585
+2023-11-01,Perak,Taiping,2493
+2023-12-01,Perak,Taiping,3019
+2024-01-01,Perak,Taiping,3224
+2024-02-01,Perak,Taiping,3448
+2024-03-01,Perak,Taiping,2408
+2024-04-01,Perak,Taiping,2449
+2024-05-01,Perak,Taiping,2626
+2024-06-01,Perak,Taiping,2243
+2024-07-01,Perak,Taiping,2708
+2024-08-01,Perak,Taiping,2500
+2024-09-01,Perak,Taiping,2572
+2024-10-01,Perak,Taiping,2470
+2020-01-01,Perak,Teluk Intan,1628
+2020-02-01,Perak,Teluk Intan,
+2020-03-01,Perak,Teluk Intan,339
+2020-04-01,Perak,Teluk Intan,1
+2020-05-01,Perak,Teluk Intan,12
+2020-06-01,Perak,Teluk Intan,35
+2020-07-01,Perak,Teluk Intan,109
+2020-08-01,Perak,Teluk Intan,71
+2020-09-01,Perak,Teluk Intan,87
+2020-10-01,Perak,Teluk Intan,65
+2020-11-01,Perak,Teluk Intan,54
+2020-12-01,Perak,Teluk Intan,96
+2021-01-01,Perak,Teluk Intan,60
+2021-02-01,Perak,Teluk Intan,39
+2021-03-01,Perak,Teluk Intan,68
+2021-04-01,Perak,Teluk Intan,100
+2021-05-01,Perak,Teluk Intan,55
+2021-06-01,Perak,Teluk Intan,10
+2021-07-01,Perak,Teluk Intan,95
+2021-08-01,Perak,Teluk Intan,141
+2021-09-01,Perak,Teluk Intan,164
+2021-10-01,Perak,Teluk Intan,360
+2021-11-01,Perak,Teluk Intan,505
+2021-12-01,Perak,Teluk Intan,604
+2022-01-01,Perak,Teluk Intan,373
+2022-02-01,Perak,Teluk Intan,494
+2022-03-01,Perak,Teluk Intan,1017
+2022-04-01,Perak,Teluk Intan,1752
+2022-05-01,Perak,Teluk Intan,2085
+2022-06-01,Perak,Teluk Intan,3091
+2022-07-01,Perak,Teluk Intan,2752
+2022-08-01,Perak,Teluk Intan,3185
+2022-09-01,Perak,Teluk Intan,3486
+2022-10-01,Perak,Teluk Intan,3225
+2022-11-01,Perak,Teluk Intan,2658
+2022-12-01,Perak,Teluk Intan,3781
+2023-01-01,Perak,Teluk Intan,3003
+2023-02-01,Perak,Teluk Intan,3617
+2023-03-01,Perak,Teluk Intan,3332
+2023-04-01,Perak,Teluk Intan,2610
+2023-05-01,Perak,Teluk Intan,2921
+2023-06-01,Perak,Teluk Intan,2627
+2023-07-01,Perak,Teluk Intan,2596
+2023-08-01,Perak,Teluk Intan,2556
+2023-09-01,Perak,Teluk Intan,2415
+2023-10-01,Perak,Teluk Intan,2466
+2023-11-01,Perak,Teluk Intan,2487
+2023-12-01,Perak,Teluk Intan,2694
+2024-01-01,Perak,Teluk Intan,2696
+2024-02-01,Perak,Teluk Intan,3211
+2024-03-01,Perak,Teluk Intan,2258
+2024-04-01,Perak,Teluk Intan,2149
+2024-05-01,Perak,Teluk Intan,2586
+2024-06-01,Perak,Teluk Intan,2023
+2024-07-01,Perak,Teluk Intan,2063
+2024-08-01,Perak,Teluk Intan,2185
+2024-09-01,Perak,Teluk Intan,1950
+2024-10-01,Perak,Teluk Intan,1818
+2020-01-01,Perak,UTC Perak,4983
+2020-02-01,Perak,UTC Perak,
+2020-03-01,Perak,UTC Perak,1184
+2020-04-01,Perak,UTC Perak,0
+2020-05-01,Perak,UTC Perak,0
+2020-06-01,Perak,UTC Perak,166
+2020-07-01,Perak,UTC Perak,573
+2020-08-01,Perak,UTC Perak,428
+2020-09-01,Perak,UTC Perak,411
+2020-10-01,Perak,UTC Perak,390
+2020-11-01,Perak,UTC Perak,180
+2020-12-01,Perak,UTC Perak,455
+2021-01-01,Perak,UTC Perak,297
+2021-02-01,Perak,UTC Perak,336
+2021-03-01,Perak,UTC Perak,882
+2021-04-01,Perak,UTC Perak,602
+2021-05-01,Perak,UTC Perak,232
+2021-06-01,Perak,UTC Perak,45
+2021-07-01,Perak,UTC Perak,338
+2021-08-01,Perak,UTC Perak,335
+2021-09-01,Perak,UTC Perak,450
+2021-10-01,Perak,UTC Perak,957
+2021-11-01,Perak,UTC Perak,2060
+2021-12-01,Perak,UTC Perak,2590
+2022-01-01,Perak,UTC Perak,2075
+2022-02-01,Perak,UTC Perak,1763
+2022-03-01,Perak,UTC Perak,2446
+2022-04-01,Perak,UTC Perak,3644
+2022-05-01,Perak,UTC Perak,6871
+2022-06-01,Perak,UTC Perak,10453
+2022-07-01,Perak,UTC Perak,9877
+2022-08-01,Perak,UTC Perak,10613
+2022-09-01,Perak,UTC Perak,10153
+2022-10-01,Perak,UTC Perak,10372
+2022-11-01,Perak,UTC Perak,8969
+2022-12-01,Perak,UTC Perak,9847
+2023-01-01,Perak,UTC Perak,9770
+2023-02-01,Perak,UTC Perak,11780
+2023-03-01,Perak,UTC Perak,11803
+2023-04-01,Perak,UTC Perak,9506
+2023-05-01,Perak,UTC Perak,10331
+2023-06-01,Perak,UTC Perak,8503
+2023-07-01,Perak,UTC Perak,9659
+2023-08-01,Perak,UTC Perak,9145
+2023-09-01,Perak,UTC Perak,8564
+2023-10-01,Perak,UTC Perak,8549
+2023-11-01,Perak,UTC Perak,8144
+2023-12-01,Perak,UTC Perak,9273
+2024-01-01,Perak,UTC Perak,8926
+2024-02-01,Perak,UTC Perak,8687
+2024-03-01,Perak,UTC Perak,8632
+2024-04-01,Perak,UTC Perak,7871
+2024-05-01,Perak,UTC Perak,8138
+2024-06-01,Perak,UTC Perak,7691
+2024-07-01,Perak,UTC Perak,8096
+2024-08-01,Perak,UTC Perak,7974
+2024-09-01,Perak,UTC Perak,7063
+2024-10-01,Perak,UTC Perak,6415
+2020-01-01,Perlis,Kangar,456
+2020-02-01,Perlis,Kangar,
+2020-03-01,Perlis,Kangar,93
+2020-04-01,Perlis,Kangar,3
+2020-05-01,Perlis,Kangar,19
+2020-06-01,Perlis,Kangar,21
+2020-07-01,Perlis,Kangar,1
+2020-08-01,Perlis,Kangar,1
+2020-09-01,Perlis,Kangar,0
+2020-10-01,Perlis,Kangar,0
+2020-11-01,Perlis,Kangar,0
+2020-12-01,Perlis,Kangar,0
+2021-01-01,Perlis,Kangar,1
+2021-02-01,Perlis,Kangar,0
+2021-03-01,Perlis,Kangar,0
+2021-04-01,Perlis,Kangar,0
+2021-05-01,Perlis,Kangar,0
+2021-06-01,Perlis,Kangar,2
+2021-07-01,Perlis,Kangar,1
+2021-08-01,Perlis,Kangar,0
+2021-09-01,Perlis,Kangar,2
+2021-10-01,Perlis,Kangar,5
+2021-11-01,Perlis,Kangar,7
+2021-12-01,Perlis,Kangar,1
+2022-01-01,Perlis,Kangar,3
+2022-02-01,Perlis,Kangar,5
+2022-03-01,Perlis,Kangar,1
+2022-04-01,Perlis,Kangar,3
+2022-05-01,Perlis,Kangar,631
+2022-06-01,Perlis,Kangar,667
+2022-07-01,Perlis,Kangar,534
+2022-08-01,Perlis,Kangar,672
+2022-09-01,Perlis,Kangar,1157
+2022-10-01,Perlis,Kangar,741
+2022-11-01,Perlis,Kangar,782
+2022-12-01,Perlis,Kangar,1230
+2023-01-01,Perlis,Kangar,1066
+2023-02-01,Perlis,Kangar,1055
+2023-03-01,Perlis,Kangar,805
+2023-04-01,Perlis,Kangar,679
+2023-05-01,Perlis,Kangar,765
+2023-06-01,Perlis,Kangar,735
+2023-07-01,Perlis,Kangar,872
+2023-08-01,Perlis,Kangar,954
+2023-09-01,Perlis,Kangar,780
+2023-10-01,Perlis,Kangar,832
+2023-11-01,Perlis,Kangar,873
+2023-12-01,Perlis,Kangar,868
+2024-01-01,Perlis,Kangar,899
+2024-02-01,Perlis,Kangar,1052
+2024-03-01,Perlis,Kangar,467
+2024-04-01,Perlis,Kangar,584
+2024-05-01,Perlis,Kangar,796
+2024-06-01,Perlis,Kangar,630
+2024-07-01,Perlis,Kangar,681
+2024-08-01,Perlis,Kangar,620
+2024-09-01,Perlis,Kangar,143
+2024-10-01,Perlis,Kangar,0
+2020-01-01,Perlis,UTC Perlis,949
+2020-02-01,Perlis,UTC Perlis,
+2020-03-01,Perlis,UTC Perlis,172
+2020-04-01,Perlis,UTC Perlis,0
+2020-05-01,Perlis,UTC Perlis,0
+2020-06-01,Perlis,UTC Perlis,26
+2020-07-01,Perlis,UTC Perlis,62
+2020-08-01,Perlis,UTC Perlis,52
+2020-09-01,Perlis,UTC Perlis,69
+2020-10-01,Perlis,UTC Perlis,71
+2020-11-01,Perlis,UTC Perlis,106
+2020-12-01,Perlis,UTC Perlis,60
+2021-01-01,Perlis,UTC Perlis,52
+2021-02-01,Perlis,UTC Perlis,26
+2021-03-01,Perlis,UTC Perlis,49
+2021-04-01,Perlis,UTC Perlis,49
+2021-05-01,Perlis,UTC Perlis,61
+2021-06-01,Perlis,UTC Perlis,17
+2021-07-01,Perlis,UTC Perlis,40
+2021-08-01,Perlis,UTC Perlis,47
+2021-09-01,Perlis,UTC Perlis,55
+2021-10-01,Perlis,UTC Perlis,179
+2021-11-01,Perlis,UTC Perlis,361
+2021-12-01,Perlis,UTC Perlis,407
+2022-01-01,Perlis,UTC Perlis,232
+2022-02-01,Perlis,UTC Perlis,249
+2022-03-01,Perlis,UTC Perlis,389
+2022-04-01,Perlis,UTC Perlis,725
+2022-05-01,Perlis,UTC Perlis,925
+2022-06-01,Perlis,UTC Perlis,1143
+2022-07-01,Perlis,UTC Perlis,1308
+2022-08-01,Perlis,UTC Perlis,1161
+2022-09-01,Perlis,UTC Perlis,1129
+2022-10-01,Perlis,UTC Perlis,1115
+2022-11-01,Perlis,UTC Perlis,792
+2022-12-01,Perlis,UTC Perlis,1255
+2023-01-01,Perlis,UTC Perlis,1252
+2023-02-01,Perlis,UTC Perlis,1780
+2023-03-01,Perlis,UTC Perlis,1546
+2023-04-01,Perlis,UTC Perlis,1344
+2023-05-01,Perlis,UTC Perlis,1085
+2023-06-01,Perlis,UTC Perlis,1050
+2023-07-01,Perlis,UTC Perlis,1733
+2023-08-01,Perlis,UTC Perlis,1150
+2023-09-01,Perlis,UTC Perlis,941
+2023-10-01,Perlis,UTC Perlis,1167
+2023-11-01,Perlis,UTC Perlis,1185
+2023-12-01,Perlis,UTC Perlis,1527
+2024-01-01,Perlis,UTC Perlis,1543
+2024-02-01,Perlis,UTC Perlis,1544
+2024-03-01,Perlis,UTC Perlis,900
+2024-04-01,Perlis,UTC Perlis,1218
+2024-05-01,Perlis,UTC Perlis,1338
+2024-06-01,Perlis,UTC Perlis,1282
+2024-07-01,Perlis,UTC Perlis,1170
+2024-08-01,Perlis,UTC Perlis,1204
+2024-09-01,Perlis,UTC Perlis,1612
+2024-10-01,Perlis,UTC Perlis,1744
+2020-01-01,Pulau Pinang,Georgetown,5211
+2020-02-01,Pulau Pinang,Georgetown,
+2020-03-01,Pulau Pinang,Georgetown,1139
+2020-04-01,Pulau Pinang,Georgetown,0
+2020-05-01,Pulau Pinang,Georgetown,0
+2020-06-01,Pulau Pinang,Georgetown,302
+2020-07-01,Pulau Pinang,Georgetown,0
+2020-08-01,Pulau Pinang,Georgetown,0
+2020-09-01,Pulau Pinang,Georgetown,0
+2020-10-01,Pulau Pinang,Georgetown,0
+2020-11-01,Pulau Pinang,Georgetown,0
+2020-12-01,Pulau Pinang,Georgetown,0
+2021-01-01,Pulau Pinang,Georgetown,0
+2021-02-01,Pulau Pinang,Georgetown,0
+2021-03-01,Pulau Pinang,Georgetown,0
+2021-04-01,Pulau Pinang,Georgetown,0
+2021-05-01,Pulau Pinang,Georgetown,0
+2021-06-01,Pulau Pinang,Georgetown,0
+2021-07-01,Pulau Pinang,Georgetown,0
+2021-08-01,Pulau Pinang,Georgetown,0
+2021-09-01,Pulau Pinang,Georgetown,0
+2021-10-01,Pulau Pinang,Georgetown,0
+2021-11-01,Pulau Pinang,Georgetown,0
+2021-12-01,Pulau Pinang,Georgetown,0
+2022-01-01,Pulau Pinang,Georgetown,0
+2022-02-01,Pulau Pinang,Georgetown,0
+2022-03-01,Pulau Pinang,Georgetown,0
+2022-04-01,Pulau Pinang,Georgetown,0
+2022-05-01,Pulau Pinang,Georgetown,0
+2022-06-01,Pulau Pinang,Georgetown,0
+2022-07-01,Pulau Pinang,Georgetown,0
+2022-08-01,Pulau Pinang,Georgetown,0
+2022-09-01,Pulau Pinang,Georgetown,0
+2022-10-01,Pulau Pinang,Georgetown,0
+2022-11-01,Pulau Pinang,Georgetown,0
+2022-12-01,Pulau Pinang,Georgetown,0
+2023-01-01,Pulau Pinang,Georgetown,0
+2023-02-01,Pulau Pinang,Georgetown,0
+2023-03-01,Pulau Pinang,Georgetown,0
+2023-04-01,Pulau Pinang,Georgetown,0
+2023-05-01,Pulau Pinang,Georgetown,0
+2023-06-01,Pulau Pinang,Georgetown,0
+2023-07-01,Pulau Pinang,Georgetown,0
+2023-08-01,Pulau Pinang,Georgetown,0
+2023-09-01,Pulau Pinang,Georgetown,0
+2023-10-01,Pulau Pinang,Georgetown,0
+2023-11-01,Pulau Pinang,Georgetown,0
+2023-12-01,Pulau Pinang,Georgetown,0
+2024-01-01,Pulau Pinang,Georgetown,0
+2024-02-01,Pulau Pinang,Georgetown,0
+2024-03-01,Pulau Pinang,Georgetown,0
+2024-04-01,Pulau Pinang,Georgetown,0
+2024-05-01,Pulau Pinang,Georgetown,0
+2024-06-01,Pulau Pinang,Georgetown,0
+2024-07-01,Pulau Pinang,Georgetown,0
+2024-08-01,Pulau Pinang,Georgetown,0
+2024-09-01,Pulau Pinang,Georgetown,0
+2024-10-01,Pulau Pinang,Georgetown,0
+2020-01-01,Pulau Pinang,Seberang Jaya,5995
+2020-02-01,Pulau Pinang,Seberang Jaya,
+2020-03-01,Pulau Pinang,Seberang Jaya,1134
+2020-04-01,Pulau Pinang,Seberang Jaya,0
+2020-05-01,Pulau Pinang,Seberang Jaya,161
+2020-06-01,Pulau Pinang,Seberang Jaya,127
+2020-07-01,Pulau Pinang,Seberang Jaya,764
+2020-08-01,Pulau Pinang,Seberang Jaya,420
+2020-09-01,Pulau Pinang,Seberang Jaya,267
+2020-10-01,Pulau Pinang,Seberang Jaya,247
+2020-11-01,Pulau Pinang,Seberang Jaya,135
+2020-12-01,Pulau Pinang,Seberang Jaya,140
+2021-01-01,Pulau Pinang,Seberang Jaya,266
+2021-02-01,Pulau Pinang,Seberang Jaya,268
+2021-03-01,Pulau Pinang,Seberang Jaya,344
+2021-04-01,Pulau Pinang,Seberang Jaya,382
+2021-05-01,Pulau Pinang,Seberang Jaya,246
+2021-06-01,Pulau Pinang,Seberang Jaya,68
+2021-07-01,Pulau Pinang,Seberang Jaya,290
+2021-08-01,Pulau Pinang,Seberang Jaya,296
+2021-09-01,Pulau Pinang,Seberang Jaya,360
+2021-10-01,Pulau Pinang,Seberang Jaya,887
+2021-11-01,Pulau Pinang,Seberang Jaya,1350
+2021-12-01,Pulau Pinang,Seberang Jaya,1495
+2022-01-01,Pulau Pinang,Seberang Jaya,1036
+2022-02-01,Pulau Pinang,Seberang Jaya,1330
+2022-03-01,Pulau Pinang,Seberang Jaya,1267
+2022-04-01,Pulau Pinang,Seberang Jaya,3616
+2022-05-01,Pulau Pinang,Seberang Jaya,6283
+2022-06-01,Pulau Pinang,Seberang Jaya,7945
+2022-07-01,Pulau Pinang,Seberang Jaya,7165
+2022-08-01,Pulau Pinang,Seberang Jaya,9424
+2022-09-01,Pulau Pinang,Seberang Jaya,8826
+2022-10-01,Pulau Pinang,Seberang Jaya,9197
+2022-11-01,Pulau Pinang,Seberang Jaya,7901
+2022-12-01,Pulau Pinang,Seberang Jaya,9649
+2023-01-01,Pulau Pinang,Seberang Jaya,9050
+2023-02-01,Pulau Pinang,Seberang Jaya,10205
+2023-03-01,Pulau Pinang,Seberang Jaya,9298
+2023-04-01,Pulau Pinang,Seberang Jaya,7191
+2023-05-01,Pulau Pinang,Seberang Jaya,8279
+2023-06-01,Pulau Pinang,Seberang Jaya,7258
+2023-07-01,Pulau Pinang,Seberang Jaya,7768
+2023-08-01,Pulau Pinang,Seberang Jaya,7596
+2023-09-01,Pulau Pinang,Seberang Jaya,6596
+2023-10-01,Pulau Pinang,Seberang Jaya,6676
+2023-11-01,Pulau Pinang,Seberang Jaya,6637
+2023-12-01,Pulau Pinang,Seberang Jaya,7000
+2024-01-01,Pulau Pinang,Seberang Jaya,8015
+2024-02-01,Pulau Pinang,Seberang Jaya,7598
+2024-03-01,Pulau Pinang,Seberang Jaya,6245
+2024-04-01,Pulau Pinang,Seberang Jaya,5580
+2024-05-01,Pulau Pinang,Seberang Jaya,6227
+2024-06-01,Pulau Pinang,Seberang Jaya,5663
+2024-07-01,Pulau Pinang,Seberang Jaya,6870
+2024-08-01,Pulau Pinang,Seberang Jaya,6092
+2024-09-01,Pulau Pinang,Seberang Jaya,5924
+2024-10-01,Pulau Pinang,Seberang Jaya,5788
+2020-01-01,Pulau Pinang,UTC Pulau Pinang,0
+2020-02-01,Pulau Pinang,UTC Pulau Pinang,
+2020-03-01,Pulau Pinang,UTC Pulau Pinang,0
+2020-04-01,Pulau Pinang,UTC Pulau Pinang,0
+2020-05-01,Pulau Pinang,UTC Pulau Pinang,0
+2020-06-01,Pulau Pinang,UTC Pulau Pinang,0
+2020-07-01,Pulau Pinang,UTC Pulau Pinang,2
+2020-08-01,Pulau Pinang,UTC Pulau Pinang,176
+2020-09-01,Pulau Pinang,UTC Pulau Pinang,355
+2020-10-01,Pulau Pinang,UTC Pulau Pinang,391
+2020-11-01,Pulau Pinang,UTC Pulau Pinang,174
+2020-12-01,Pulau Pinang,UTC Pulau Pinang,541
+2021-01-01,Pulau Pinang,UTC Pulau Pinang,227
+2021-02-01,Pulau Pinang,UTC Pulau Pinang,109
+2021-03-01,Pulau Pinang,UTC Pulau Pinang,691
+2021-04-01,Pulau Pinang,UTC Pulau Pinang,647
+2021-05-01,Pulau Pinang,UTC Pulau Pinang,349
+2021-06-01,Pulau Pinang,UTC Pulau Pinang,57
+2021-07-01,Pulau Pinang,UTC Pulau Pinang,431
+2021-08-01,Pulau Pinang,UTC Pulau Pinang,408
+2021-09-01,Pulau Pinang,UTC Pulau Pinang,579
+2021-10-01,Pulau Pinang,UTC Pulau Pinang,1581
+2021-11-01,Pulau Pinang,UTC Pulau Pinang,2228
+2021-12-01,Pulau Pinang,UTC Pulau Pinang,2123
+2022-01-01,Pulau Pinang,UTC Pulau Pinang,1689
+2022-02-01,Pulau Pinang,UTC Pulau Pinang,1854
+2022-03-01,Pulau Pinang,UTC Pulau Pinang,3231
+2022-04-01,Pulau Pinang,UTC Pulau Pinang,5778
+2022-05-01,Pulau Pinang,UTC Pulau Pinang,7162
+2022-06-01,Pulau Pinang,UTC Pulau Pinang,10092
+2022-07-01,Pulau Pinang,UTC Pulau Pinang,9189
+2022-08-01,Pulau Pinang,UTC Pulau Pinang,10797
+2022-09-01,Pulau Pinang,UTC Pulau Pinang,10873
+2022-10-01,Pulau Pinang,UTC Pulau Pinang,11312
+2022-11-01,Pulau Pinang,UTC Pulau Pinang,10073
+2022-12-01,Pulau Pinang,UTC Pulau Pinang,11339
+2023-01-01,Pulau Pinang,UTC Pulau Pinang,9832
+2023-02-01,Pulau Pinang,UTC Pulau Pinang,10932
+2023-03-01,Pulau Pinang,UTC Pulau Pinang,11167
+2023-04-01,Pulau Pinang,UTC Pulau Pinang,9546
+2023-05-01,Pulau Pinang,UTC Pulau Pinang,10375
+2023-06-01,Pulau Pinang,UTC Pulau Pinang,9788
+2023-07-01,Pulau Pinang,UTC Pulau Pinang,9571
+2023-08-01,Pulau Pinang,UTC Pulau Pinang,9321
+2023-09-01,Pulau Pinang,UTC Pulau Pinang,8799
+2023-10-01,Pulau Pinang,UTC Pulau Pinang,9520
+2023-11-01,Pulau Pinang,UTC Pulau Pinang,8559
+2023-12-01,Pulau Pinang,UTC Pulau Pinang,9407
+2024-01-01,Pulau Pinang,UTC Pulau Pinang,8844
+2024-02-01,Pulau Pinang,UTC Pulau Pinang,8989
+2024-03-01,Pulau Pinang,UTC Pulau Pinang,9375
+2024-04-01,Pulau Pinang,UTC Pulau Pinang,8042
+2024-05-01,Pulau Pinang,UTC Pulau Pinang,8673
+2024-06-01,Pulau Pinang,UTC Pulau Pinang,8161
+2024-07-01,Pulau Pinang,UTC Pulau Pinang,8264
+2024-08-01,Pulau Pinang,UTC Pulau Pinang,8244
+2024-09-01,Pulau Pinang,UTC Pulau Pinang,7771
+2024-10-01,Pulau Pinang,UTC Pulau Pinang,7385
+2020-01-01,Sabah,Kota Kinabalu,1228
+2020-02-01,Sabah,Kota Kinabalu,
+2020-03-01,Sabah,Kota Kinabalu,366
+2020-04-01,Sabah,Kota Kinabalu,0
+2020-05-01,Sabah,Kota Kinabalu,148
+2020-06-01,Sabah,Kota Kinabalu,227
+2020-07-01,Sabah,Kota Kinabalu,238
+2020-08-01,Sabah,Kota Kinabalu,178
+2020-09-01,Sabah,Kota Kinabalu,178
+2020-10-01,Sabah,Kota Kinabalu,14
+2020-11-01,Sabah,Kota Kinabalu,36
+2020-12-01,Sabah,Kota Kinabalu,473
+2021-01-01,Sabah,Kota Kinabalu,100
+2021-02-01,Sabah,Kota Kinabalu,290
+2021-03-01,Sabah,Kota Kinabalu,350
+2021-04-01,Sabah,Kota Kinabalu,231
+2021-05-01,Sabah,Kota Kinabalu,124
+2021-06-01,Sabah,Kota Kinabalu,38
+2021-07-01,Sabah,Kota Kinabalu,216
+2021-08-01,Sabah,Kota Kinabalu,283
+2021-09-01,Sabah,Kota Kinabalu,190
+2021-10-01,Sabah,Kota Kinabalu,548
+2021-11-01,Sabah,Kota Kinabalu,1123
+2021-12-01,Sabah,Kota Kinabalu,1078
+2022-01-01,Sabah,Kota Kinabalu,750
+2022-02-01,Sabah,Kota Kinabalu,677
+2022-03-01,Sabah,Kota Kinabalu,1526
+2022-04-01,Sabah,Kota Kinabalu,1774
+2022-05-01,Sabah,Kota Kinabalu,1612
+2022-06-01,Sabah,Kota Kinabalu,1921
+2022-07-01,Sabah,Kota Kinabalu,1352
+2022-08-01,Sabah,Kota Kinabalu,1864
+2022-09-01,Sabah,Kota Kinabalu,1601
+2022-10-01,Sabah,Kota Kinabalu,1663
+2022-11-01,Sabah,Kota Kinabalu,1560
+2022-12-01,Sabah,Kota Kinabalu,2263
+2023-01-01,Sabah,Kota Kinabalu,2375
+2023-02-01,Sabah,Kota Kinabalu,2271
+2023-03-01,Sabah,Kota Kinabalu,2231
+2023-04-01,Sabah,Kota Kinabalu,1638
+2023-05-01,Sabah,Kota Kinabalu,1830
+2023-06-01,Sabah,Kota Kinabalu,1682
+2023-07-01,Sabah,Kota Kinabalu,1590
+2023-08-01,Sabah,Kota Kinabalu,1454
+2023-09-01,Sabah,Kota Kinabalu,1379
+2023-10-01,Sabah,Kota Kinabalu,1628
+2023-11-01,Sabah,Kota Kinabalu,1441
+2023-12-01,Sabah,Kota Kinabalu,1518
+2024-01-01,Sabah,Kota Kinabalu,1698
+2024-02-01,Sabah,Kota Kinabalu,2005
+2024-03-01,Sabah,Kota Kinabalu,1283
+2024-04-01,Sabah,Kota Kinabalu,1466
+2024-05-01,Sabah,Kota Kinabalu,1387
+2024-06-01,Sabah,Kota Kinabalu,1252
+2024-07-01,Sabah,Kota Kinabalu,1316
+2024-08-01,Sabah,Kota Kinabalu,1167
+2024-09-01,Sabah,Kota Kinabalu,1097
+2024-10-01,Sabah,Kota Kinabalu,1027
+2020-01-01,Sabah,Kota Kinabalu International Airport,0
+2020-02-01,Sabah,Kota Kinabalu International Airport,
+2020-03-01,Sabah,Kota Kinabalu International Airport,0
+2020-04-01,Sabah,Kota Kinabalu International Airport,0
+2020-05-01,Sabah,Kota Kinabalu International Airport,0
+2020-06-01,Sabah,Kota Kinabalu International Airport,0
+2020-07-01,Sabah,Kota Kinabalu International Airport,0
+2020-08-01,Sabah,Kota Kinabalu International Airport,0
+2020-09-01,Sabah,Kota Kinabalu International Airport,0
+2020-10-01,Sabah,Kota Kinabalu International Airport,0
+2020-11-01,Sabah,Kota Kinabalu International Airport,0
+2020-12-01,Sabah,Kota Kinabalu International Airport,0
+2021-01-01,Sabah,Kota Kinabalu International Airport,0
+2021-02-01,Sabah,Kota Kinabalu International Airport,0
+2021-03-01,Sabah,Kota Kinabalu International Airport,0
+2021-04-01,Sabah,Kota Kinabalu International Airport,0
+2021-05-01,Sabah,Kota Kinabalu International Airport,0
+2021-06-01,Sabah,Kota Kinabalu International Airport,0
+2021-07-01,Sabah,Kota Kinabalu International Airport,0
+2021-08-01,Sabah,Kota Kinabalu International Airport,0
+2021-09-01,Sabah,Kota Kinabalu International Airport,0
+2021-10-01,Sabah,Kota Kinabalu International Airport,0
+2021-11-01,Sabah,Kota Kinabalu International Airport,0
+2021-12-01,Sabah,Kota Kinabalu International Airport,0
+2022-01-01,Sabah,Kota Kinabalu International Airport,0
+2022-02-01,Sabah,Kota Kinabalu International Airport,0
+2022-03-01,Sabah,Kota Kinabalu International Airport,0
+2022-04-01,Sabah,Kota Kinabalu International Airport,0
+2022-05-01,Sabah,Kota Kinabalu International Airport,0
+2022-06-01,Sabah,Kota Kinabalu International Airport,0
+2022-07-01,Sabah,Kota Kinabalu International Airport,0
+2022-08-01,Sabah,Kota Kinabalu International Airport,0
+2022-09-01,Sabah,Kota Kinabalu International Airport,0
+2022-10-01,Sabah,Kota Kinabalu International Airport,0
+2022-11-01,Sabah,Kota Kinabalu International Airport,0
+2022-12-01,Sabah,Kota Kinabalu International Airport,0
+2023-01-01,Sabah,Kota Kinabalu International Airport,0
+2023-02-01,Sabah,Kota Kinabalu International Airport,0
+2023-03-01,Sabah,Kota Kinabalu International Airport,0
+2023-04-01,Sabah,Kota Kinabalu International Airport,0
+2023-05-01,Sabah,Kota Kinabalu International Airport,0
+2023-06-01,Sabah,Kota Kinabalu International Airport,0
+2023-07-01,Sabah,Kota Kinabalu International Airport,0
+2023-08-01,Sabah,Kota Kinabalu International Airport,0
+2023-09-01,Sabah,Kota Kinabalu International Airport,0
+2023-10-01,Sabah,Kota Kinabalu International Airport,0
+2023-11-01,Sabah,Kota Kinabalu International Airport,0
+2023-12-01,Sabah,Kota Kinabalu International Airport,0
+2024-01-01,Sabah,Kota Kinabalu International Airport,0
+2024-02-01,Sabah,Kota Kinabalu International Airport,0
+2024-03-01,Sabah,Kota Kinabalu International Airport,0
+2024-04-01,Sabah,Kota Kinabalu International Airport,0
+2024-05-01,Sabah,Kota Kinabalu International Airport,0
+2024-06-01,Sabah,Kota Kinabalu International Airport,27
+2024-07-01,Sabah,Kota Kinabalu International Airport,264
+2024-08-01,Sabah,Kota Kinabalu International Airport,681
+2024-09-01,Sabah,Kota Kinabalu International Airport,938
+2024-10-01,Sabah,Kota Kinabalu International Airport,881
+2020-01-01,Sabah,Lahad Datu,266
+2020-02-01,Sabah,Lahad Datu,
+2020-03-01,Sabah,Lahad Datu,83
+2020-04-01,Sabah,Lahad Datu,0
+2020-05-01,Sabah,Lahad Datu,1
+2020-06-01,Sabah,Lahad Datu,18
+2020-07-01,Sabah,Lahad Datu,50
+2020-08-01,Sabah,Lahad Datu,37
+2020-09-01,Sabah,Lahad Datu,22
+2020-10-01,Sabah,Lahad Datu,0
+2020-11-01,Sabah,Lahad Datu,0
+2020-12-01,Sabah,Lahad Datu,42
+2021-01-01,Sabah,Lahad Datu,20
+2021-02-01,Sabah,Lahad Datu,33
+2021-03-01,Sabah,Lahad Datu,19
+2021-04-01,Sabah,Lahad Datu,23
+2021-05-01,Sabah,Lahad Datu,9
+2021-06-01,Sabah,Lahad Datu,2
+2021-07-01,Sabah,Lahad Datu,14
+2021-08-01,Sabah,Lahad Datu,15
+2021-09-01,Sabah,Lahad Datu,35
+2021-10-01,Sabah,Lahad Datu,61
+2021-11-01,Sabah,Lahad Datu,68
+2021-12-01,Sabah,Lahad Datu,159
+2022-01-01,Sabah,Lahad Datu,84
+2022-02-01,Sabah,Lahad Datu,154
+2022-03-01,Sabah,Lahad Datu,208
+2022-04-01,Sabah,Lahad Datu,326
+2022-05-01,Sabah,Lahad Datu,360
+2022-06-01,Sabah,Lahad Datu,507
+2022-07-01,Sabah,Lahad Datu,406
+2022-08-01,Sabah,Lahad Datu,389
+2022-09-01,Sabah,Lahad Datu,440
+2022-10-01,Sabah,Lahad Datu,435
+2022-11-01,Sabah,Lahad Datu,456
+2022-12-01,Sabah,Lahad Datu,645
+2023-01-01,Sabah,Lahad Datu,193
+2023-02-01,Sabah,Lahad Datu,503
+2023-03-01,Sabah,Lahad Datu,445
+2023-04-01,Sabah,Lahad Datu,222
+2023-05-01,Sabah,Lahad Datu,435
+2023-06-01,Sabah,Lahad Datu,445
+2023-07-01,Sabah,Lahad Datu,349
+2023-08-01,Sabah,Lahad Datu,395
+2023-09-01,Sabah,Lahad Datu,287
+2023-10-01,Sabah,Lahad Datu,395
+2023-11-01,Sabah,Lahad Datu,447
+2023-12-01,Sabah,Lahad Datu,403
+2024-01-01,Sabah,Lahad Datu,583
+2024-02-01,Sabah,Lahad Datu,517
+2024-03-01,Sabah,Lahad Datu,320
+2024-04-01,Sabah,Lahad Datu,348
+2024-05-01,Sabah,Lahad Datu,360
+2024-06-01,Sabah,Lahad Datu,348
+2024-07-01,Sabah,Lahad Datu,301
+2024-08-01,Sabah,Lahad Datu,333
+2024-09-01,Sabah,Lahad Datu,365
+2024-10-01,Sabah,Lahad Datu,416
+2020-01-01,Sabah,Sandakan,959
+2020-02-01,Sabah,Sandakan,
+2020-03-01,Sabah,Sandakan,235
+2020-04-01,Sabah,Sandakan,0
+2020-05-01,Sabah,Sandakan,10
+2020-06-01,Sabah,Sandakan,26
+2020-07-01,Sabah,Sandakan,77
+2020-08-01,Sabah,Sandakan,75
+2020-09-01,Sabah,Sandakan,63
+2020-10-01,Sabah,Sandakan,5
+2020-11-01,Sabah,Sandakan,0
+2020-12-01,Sabah,Sandakan,82
+2021-01-01,Sabah,Sandakan,73
+2021-02-01,Sabah,Sandakan,43
+2021-03-01,Sabah,Sandakan,76
+2021-04-01,Sabah,Sandakan,43
+2021-05-01,Sabah,Sandakan,34
+2021-06-01,Sabah,Sandakan,6
+2021-07-01,Sabah,Sandakan,41
+2021-08-01,Sabah,Sandakan,61
+2021-09-01,Sabah,Sandakan,48
+2021-10-01,Sabah,Sandakan,158
+2021-11-01,Sabah,Sandakan,380
+2021-12-01,Sabah,Sandakan,497
+2022-01-01,Sabah,Sandakan,386
+2022-02-01,Sabah,Sandakan,368
+2022-03-01,Sabah,Sandakan,497
+2022-04-01,Sabah,Sandakan,634
+2022-05-01,Sabah,Sandakan,930
+2022-06-01,Sabah,Sandakan,1262
+2022-07-01,Sabah,Sandakan,872
+2022-08-01,Sabah,Sandakan,959
+2022-09-01,Sabah,Sandakan,1087
+2022-10-01,Sabah,Sandakan,1035
+2022-11-01,Sabah,Sandakan,1017
+2022-12-01,Sabah,Sandakan,1168
+2023-01-01,Sabah,Sandakan,1214
+2023-02-01,Sabah,Sandakan,1525
+2023-03-01,Sabah,Sandakan,1281
+2023-04-01,Sabah,Sandakan,1108
+2023-05-01,Sabah,Sandakan,1131
+2023-06-01,Sabah,Sandakan,1080
+2023-07-01,Sabah,Sandakan,893
+2023-08-01,Sabah,Sandakan,1069
+2023-09-01,Sabah,Sandakan,952
+2023-10-01,Sabah,Sandakan,1027
+2023-11-01,Sabah,Sandakan,847
+2023-12-01,Sabah,Sandakan,1137
+2024-01-01,Sabah,Sandakan,1280
+2024-02-01,Sabah,Sandakan,1470
+2024-03-01,Sabah,Sandakan,1062
+2024-04-01,Sabah,Sandakan,1049
+2024-05-01,Sabah,Sandakan,977
+2024-06-01,Sabah,Sandakan,873
+2024-07-01,Sabah,Sandakan,956
+2024-08-01,Sabah,Sandakan,965
+2024-09-01,Sabah,Sandakan,1005
+2024-10-01,Sabah,Sandakan,863
+2020-01-01,Sabah,UTC Keningau,522
+2020-02-01,Sabah,UTC Keningau,
+2020-03-01,Sabah,UTC Keningau,109
+2020-04-01,Sabah,UTC Keningau,0
+2020-05-01,Sabah,UTC Keningau,0
+2020-06-01,Sabah,UTC Keningau,44
+2020-07-01,Sabah,UTC Keningau,28
+2020-08-01,Sabah,UTC Keningau,32
+2020-09-01,Sabah,UTC Keningau,27
+2020-10-01,Sabah,UTC Keningau,14
+2020-11-01,Sabah,UTC Keningau,0
+2020-12-01,Sabah,UTC Keningau,67
+2021-01-01,Sabah,UTC Keningau,27
+2021-02-01,Sabah,UTC Keningau,13
+2021-03-01,Sabah,UTC Keningau,53
+2021-04-01,Sabah,UTC Keningau,56
+2021-05-01,Sabah,UTC Keningau,38
+2021-06-01,Sabah,UTC Keningau,1
+2021-07-01,Sabah,UTC Keningau,18
+2021-08-01,Sabah,UTC Keningau,41
+2021-09-01,Sabah,UTC Keningau,75
+2021-10-01,Sabah,UTC Keningau,150
+2021-11-01,Sabah,UTC Keningau,243
+2021-12-01,Sabah,UTC Keningau,206
+2022-01-01,Sabah,UTC Keningau,150
+2022-02-01,Sabah,UTC Keningau,149
+2022-03-01,Sabah,UTC Keningau,222
+2022-04-01,Sabah,UTC Keningau,350
+2022-05-01,Sabah,UTC Keningau,440
+2022-06-01,Sabah,UTC Keningau,554
+2022-07-01,Sabah,UTC Keningau,401
+2022-08-01,Sabah,UTC Keningau,501
+2022-09-01,Sabah,UTC Keningau,450
+2022-10-01,Sabah,UTC Keningau,430
+2022-11-01,Sabah,UTC Keningau,373
+2022-12-01,Sabah,UTC Keningau,664
+2023-01-01,Sabah,UTC Keningau,748
+2023-02-01,Sabah,UTC Keningau,708
+2023-03-01,Sabah,UTC Keningau,671
+2023-04-01,Sabah,UTC Keningau,612
+2023-05-01,Sabah,UTC Keningau,619
+2023-06-01,Sabah,UTC Keningau,579
+2023-07-01,Sabah,UTC Keningau,588
+2023-08-01,Sabah,UTC Keningau,611
+2023-09-01,Sabah,UTC Keningau,541
+2023-10-01,Sabah,UTC Keningau,569
+2023-11-01,Sabah,UTC Keningau,533
+2023-12-01,Sabah,UTC Keningau,604
+2024-01-01,Sabah,UTC Keningau,782
+2024-02-01,Sabah,UTC Keningau,734
+2024-03-01,Sabah,UTC Keningau,522
+2024-04-01,Sabah,UTC Keningau,704
+2024-05-01,Sabah,UTC Keningau,659
+2024-06-01,Sabah,UTC Keningau,598
+2024-07-01,Sabah,UTC Keningau,519
+2024-08-01,Sabah,UTC Keningau,548
+2024-09-01,Sabah,UTC Keningau,580
+2024-10-01,Sabah,UTC Keningau,493
+2020-01-01,Sabah,UTC Kota Kinabalu,3758
+2020-02-01,Sabah,UTC Kota Kinabalu,
+2020-03-01,Sabah,UTC Kota Kinabalu,920
+2020-04-01,Sabah,UTC Kota Kinabalu,0
+2020-05-01,Sabah,UTC Kota Kinabalu,0
+2020-06-01,Sabah,UTC Kota Kinabalu,191
+2020-07-01,Sabah,UTC Kota Kinabalu,402
+2020-08-01,Sabah,UTC Kota Kinabalu,249
+2020-09-01,Sabah,UTC Kota Kinabalu,314
+2020-10-01,Sabah,UTC Kota Kinabalu,35
+2020-11-01,Sabah,UTC Kota Kinabalu,1
+2020-12-01,Sabah,UTC Kota Kinabalu,0
+2021-01-01,Sabah,UTC Kota Kinabalu,171
+2021-02-01,Sabah,UTC Kota Kinabalu,57
+2021-03-01,Sabah,UTC Kota Kinabalu,454
+2021-04-01,Sabah,UTC Kota Kinabalu,484
+2021-05-01,Sabah,UTC Kota Kinabalu,207
+2021-06-01,Sabah,UTC Kota Kinabalu,30
+2021-07-01,Sabah,UTC Kota Kinabalu,129
+2021-08-01,Sabah,UTC Kota Kinabalu,217
+2021-09-01,Sabah,UTC Kota Kinabalu,284
+2021-10-01,Sabah,UTC Kota Kinabalu,430
+2021-11-01,Sabah,UTC Kota Kinabalu,666
+2021-12-01,Sabah,UTC Kota Kinabalu,780
+2022-01-01,Sabah,UTC Kota Kinabalu,904
+2022-02-01,Sabah,UTC Kota Kinabalu,591
+2022-03-01,Sabah,UTC Kota Kinabalu,1231
+2022-04-01,Sabah,UTC Kota Kinabalu,1682
+2022-05-01,Sabah,UTC Kota Kinabalu,2951
+2022-06-01,Sabah,UTC Kota Kinabalu,4374
+2022-07-01,Sabah,UTC Kota Kinabalu,3812
+2022-08-01,Sabah,UTC Kota Kinabalu,3697
+2022-09-01,Sabah,UTC Kota Kinabalu,4204
+2022-10-01,Sabah,UTC Kota Kinabalu,4087
+2022-11-01,Sabah,UTC Kota Kinabalu,3177
+2022-12-01,Sabah,UTC Kota Kinabalu,3976
+2023-01-01,Sabah,UTC Kota Kinabalu,4196
+2023-02-01,Sabah,UTC Kota Kinabalu,5279
+2023-03-01,Sabah,UTC Kota Kinabalu,4619
+2023-04-01,Sabah,UTC Kota Kinabalu,4007
+2023-05-01,Sabah,UTC Kota Kinabalu,4333
+2023-06-01,Sabah,UTC Kota Kinabalu,4411
+2023-07-01,Sabah,UTC Kota Kinabalu,4565
+2023-08-01,Sabah,UTC Kota Kinabalu,4244
+2023-09-01,Sabah,UTC Kota Kinabalu,4121
+2023-10-01,Sabah,UTC Kota Kinabalu,4814
+2023-11-01,Sabah,UTC Kota Kinabalu,4350
+2023-12-01,Sabah,UTC Kota Kinabalu,4644
+2024-01-01,Sabah,UTC Kota Kinabalu,5809
+2024-02-01,Sabah,UTC Kota Kinabalu,4930
+2024-03-01,Sabah,UTC Kota Kinabalu,4511
+2024-04-01,Sabah,UTC Kota Kinabalu,3967
+2024-05-01,Sabah,UTC Kota Kinabalu,4181
+2024-06-01,Sabah,UTC Kota Kinabalu,4419
+2024-07-01,Sabah,UTC Kota Kinabalu,4108
+2024-08-01,Sabah,UTC Kota Kinabalu,4003
+2024-09-01,Sabah,UTC Kota Kinabalu,4182
+2024-10-01,Sabah,UTC Kota Kinabalu,3839
+2020-01-01,Sabah,UTC Tawau,1167
+2020-02-01,Sabah,UTC Tawau,
+2020-03-01,Sabah,UTC Tawau,332
+2020-04-01,Sabah,UTC Tawau,0
+2020-05-01,Sabah,UTC Tawau,0
+2020-06-01,Sabah,UTC Tawau,114
+2020-07-01,Sabah,UTC Tawau,151
+2020-08-01,Sabah,UTC Tawau,130
+2020-09-01,Sabah,UTC Tawau,38
+2020-10-01,Sabah,UTC Tawau,5
+2020-11-01,Sabah,UTC Tawau,7
+2020-12-01,Sabah,UTC Tawau,98
+2021-01-01,Sabah,UTC Tawau,62
+2021-02-01,Sabah,UTC Tawau,80
+2021-03-01,Sabah,UTC Tawau,181
+2021-04-01,Sabah,UTC Tawau,75
+2021-05-01,Sabah,UTC Tawau,102
+2021-06-01,Sabah,UTC Tawau,13
+2021-07-01,Sabah,UTC Tawau,85
+2021-08-01,Sabah,UTC Tawau,110
+2021-09-01,Sabah,UTC Tawau,120
+2021-10-01,Sabah,UTC Tawau,341
+2021-11-01,Sabah,UTC Tawau,488
+2021-12-01,Sabah,UTC Tawau,552
+2022-01-01,Sabah,UTC Tawau,349
+2022-02-01,Sabah,UTC Tawau,99
+2022-03-01,Sabah,UTC Tawau,391
+2022-04-01,Sabah,UTC Tawau,755
+2022-05-01,Sabah,UTC Tawau,1251
+2022-06-01,Sabah,UTC Tawau,1860
+2022-07-01,Sabah,UTC Tawau,1335
+2022-08-01,Sabah,UTC Tawau,1515
+2022-09-01,Sabah,UTC Tawau,1517
+2022-10-01,Sabah,UTC Tawau,1354
+2022-11-01,Sabah,UTC Tawau,1578
+2022-12-01,Sabah,UTC Tawau,1946
+2023-01-01,Sabah,UTC Tawau,1743
+2023-02-01,Sabah,UTC Tawau,1929
+2023-03-01,Sabah,UTC Tawau,1478
+2023-04-01,Sabah,UTC Tawau,1179
+2023-05-01,Sabah,UTC Tawau,1623
+2023-06-01,Sabah,UTC Tawau,1387
+2023-07-01,Sabah,UTC Tawau,1270
+2023-08-01,Sabah,UTC Tawau,1259
+2023-09-01,Sabah,UTC Tawau,1329
+2023-10-01,Sabah,UTC Tawau,1345
+2023-11-01,Sabah,UTC Tawau,1048
+2023-12-01,Sabah,UTC Tawau,1873
+2024-01-01,Sabah,UTC Tawau,1646
+2024-02-01,Sabah,UTC Tawau,1661
+2024-03-01,Sabah,UTC Tawau,1217
+2024-04-01,Sabah,UTC Tawau,1219
+2024-05-01,Sabah,UTC Tawau,1310
+2024-06-01,Sabah,UTC Tawau,1273
+2024-07-01,Sabah,UTC Tawau,1246
+2024-08-01,Sabah,UTC Tawau,1276
+2024-09-01,Sabah,UTC Tawau,1434
+2024-10-01,Sabah,UTC Tawau,1239
+2020-01-01,Sarawak,Bintulu,885
+2020-02-01,Sarawak,Bintulu,
+2020-03-01,Sarawak,Bintulu,206
+2020-04-01,Sarawak,Bintulu,2
+2020-05-01,Sarawak,Bintulu,86
+2020-06-01,Sarawak,Bintulu,91
+2020-07-01,Sarawak,Bintulu,84
+2020-08-01,Sarawak,Bintulu,43
+2020-09-01,Sarawak,Bintulu,63
+2020-10-01,Sarawak,Bintulu,40
+2020-11-01,Sarawak,Bintulu,47
+2020-12-01,Sarawak,Bintulu,67
+2021-01-01,Sarawak,Bintulu,133
+2021-02-01,Sarawak,Bintulu,332
+2021-03-01,Sarawak,Bintulu,376
+2021-04-01,Sarawak,Bintulu,100
+2021-05-01,Sarawak,Bintulu,62
+2021-06-01,Sarawak,Bintulu,35
+2021-07-01,Sarawak,Bintulu,113
+2021-08-01,Sarawak,Bintulu,104
+2021-09-01,Sarawak,Bintulu,110
+2021-10-01,Sarawak,Bintulu,160
+2021-11-01,Sarawak,Bintulu,251
+2021-12-01,Sarawak,Bintulu,277
+2022-01-01,Sarawak,Bintulu,302
+2022-02-01,Sarawak,Bintulu,296
+2022-03-01,Sarawak,Bintulu,334
+2022-04-01,Sarawak,Bintulu,811
+2022-05-01,Sarawak,Bintulu,766
+2022-06-01,Sarawak,Bintulu,758
+2022-07-01,Sarawak,Bintulu,705
+2022-08-01,Sarawak,Bintulu,1049
+2022-09-01,Sarawak,Bintulu,876
+2022-10-01,Sarawak,Bintulu,936
+2022-11-01,Sarawak,Bintulu,928
+2022-12-01,Sarawak,Bintulu,1397
+2023-01-01,Sarawak,Bintulu,1188
+2023-02-01,Sarawak,Bintulu,1171
+2023-03-01,Sarawak,Bintulu,1377
+2023-04-01,Sarawak,Bintulu,978
+2023-05-01,Sarawak,Bintulu,1391
+2023-06-01,Sarawak,Bintulu,938
+2023-07-01,Sarawak,Bintulu,768
+2023-08-01,Sarawak,Bintulu,950
+2023-09-01,Sarawak,Bintulu,808
+2023-10-01,Sarawak,Bintulu,977
+2023-11-01,Sarawak,Bintulu,954
+2023-12-01,Sarawak,Bintulu,1041
+2024-01-01,Sarawak,Bintulu,1146
+2024-02-01,Sarawak,Bintulu,1341
+2024-03-01,Sarawak,Bintulu,953
+2024-04-01,Sarawak,Bintulu,1121
+2024-05-01,Sarawak,Bintulu,929
+2024-06-01,Sarawak,Bintulu,744
+2024-07-01,Sarawak,Bintulu,819
+2024-08-01,Sarawak,Bintulu,899
+2024-09-01,Sarawak,Bintulu,811
+2024-10-01,Sarawak,Bintulu,811
+2020-01-01,Sarawak,Kuching,804
+2020-02-01,Sarawak,Kuching,
+2020-03-01,Sarawak,Kuching,156
+2020-04-01,Sarawak,Kuching,1
+2020-05-01,Sarawak,Kuching,155
+2020-06-01,Sarawak,Kuching,179
+2020-07-01,Sarawak,Kuching,151
+2020-08-01,Sarawak,Kuching,84
+2020-09-01,Sarawak,Kuching,130
+2020-10-01,Sarawak,Kuching,83
+2020-11-01,Sarawak,Kuching,27
+2020-12-01,Sarawak,Kuching,104
+2021-01-01,Sarawak,Kuching,143
+2021-02-01,Sarawak,Kuching,201
+2021-03-01,Sarawak,Kuching,307
+2021-04-01,Sarawak,Kuching,108
+2021-05-01,Sarawak,Kuching,76
+2021-06-01,Sarawak,Kuching,37
+2021-07-01,Sarawak,Kuching,72
+2021-08-01,Sarawak,Kuching,106
+2021-09-01,Sarawak,Kuching,74
+2021-10-01,Sarawak,Kuching,186
+2021-11-01,Sarawak,Kuching,306
+2021-12-01,Sarawak,Kuching,339
+2022-01-01,Sarawak,Kuching,351
+2022-02-01,Sarawak,Kuching,345
+2022-03-01,Sarawak,Kuching,479
+2022-04-01,Sarawak,Kuching,922
+2022-05-01,Sarawak,Kuching,1021
+2022-06-01,Sarawak,Kuching,1423
+2022-07-01,Sarawak,Kuching,992
+2022-08-01,Sarawak,Kuching,1068
+2022-09-01,Sarawak,Kuching,1034
+2022-10-01,Sarawak,Kuching,994
+2022-11-01,Sarawak,Kuching,1074
+2022-12-01,Sarawak,Kuching,1622
+2023-01-01,Sarawak,Kuching,1681
+2023-02-01,Sarawak,Kuching,1763
+2023-03-01,Sarawak,Kuching,1670
+2023-04-01,Sarawak,Kuching,1782
+2023-05-01,Sarawak,Kuching,1675
+2023-06-01,Sarawak,Kuching,1118
+2023-07-01,Sarawak,Kuching,1133
+2023-08-01,Sarawak,Kuching,1058
+2023-09-01,Sarawak,Kuching,1004
+2023-10-01,Sarawak,Kuching,943
+2023-11-01,Sarawak,Kuching,1059
+2023-12-01,Sarawak,Kuching,1098
+2024-01-01,Sarawak,Kuching,1215
+2024-02-01,Sarawak,Kuching,1732
+2024-03-01,Sarawak,Kuching,1207
+2024-04-01,Sarawak,Kuching,1176
+2024-05-01,Sarawak,Kuching,1332
+2024-06-01,Sarawak,Kuching,894
+2024-07-01,Sarawak,Kuching,1243
+2024-08-01,Sarawak,Kuching,904
+2024-09-01,Sarawak,Kuching,1040
+2024-10-01,Sarawak,Kuching,861
+2020-01-01,Sarawak,Lawas,182
+2020-02-01,Sarawak,Lawas,
+2020-03-01,Sarawak,Lawas,64
+2020-04-01,Sarawak,Lawas,3
+2020-05-01,Sarawak,Lawas,17
+2020-06-01,Sarawak,Lawas,40
+2020-07-01,Sarawak,Lawas,57
+2020-08-01,Sarawak,Lawas,49
+2020-09-01,Sarawak,Lawas,89
+2020-10-01,Sarawak,Lawas,20
+2020-11-01,Sarawak,Lawas,13
+2020-12-01,Sarawak,Lawas,28
+2021-01-01,Sarawak,Lawas,17
+2021-02-01,Sarawak,Lawas,15
+2021-03-01,Sarawak,Lawas,30
+2021-04-01,Sarawak,Lawas,15
+2021-05-01,Sarawak,Lawas,15
+2021-06-01,Sarawak,Lawas,6
+2021-07-01,Sarawak,Lawas,16
+2021-08-01,Sarawak,Lawas,19
+2021-09-01,Sarawak,Lawas,17
+2021-10-01,Sarawak,Lawas,28
+2021-11-01,Sarawak,Lawas,33
+2021-12-01,Sarawak,Lawas,47
+2022-01-01,Sarawak,Lawas,38
+2022-02-01,Sarawak,Lawas,44
+2022-03-01,Sarawak,Lawas,44
+2022-04-01,Sarawak,Lawas,58
+2022-05-01,Sarawak,Lawas,135
+2022-06-01,Sarawak,Lawas,132
+2022-07-01,Sarawak,Lawas,169
+2022-08-01,Sarawak,Lawas,333
+2022-09-01,Sarawak,Lawas,389
+2022-10-01,Sarawak,Lawas,291
+2022-11-01,Sarawak,Lawas,250
+2022-12-01,Sarawak,Lawas,408
+2023-01-01,Sarawak,Lawas,379
+2023-02-01,Sarawak,Lawas,327
+2023-03-01,Sarawak,Lawas,390
+2023-04-01,Sarawak,Lawas,305
+2023-05-01,Sarawak,Lawas,344
+2023-06-01,Sarawak,Lawas,223
+2023-07-01,Sarawak,Lawas,236
+2023-08-01,Sarawak,Lawas,245
+2023-09-01,Sarawak,Lawas,211
+2023-10-01,Sarawak,Lawas,219
+2023-11-01,Sarawak,Lawas,222
+2023-12-01,Sarawak,Lawas,196
+2024-01-01,Sarawak,Lawas,274
+2024-02-01,Sarawak,Lawas,290
+2024-03-01,Sarawak,Lawas,197
+2024-04-01,Sarawak,Lawas,280
+2024-05-01,Sarawak,Lawas,323
+2024-06-01,Sarawak,Lawas,219
+2024-07-01,Sarawak,Lawas,269
+2024-08-01,Sarawak,Lawas,192
+2024-09-01,Sarawak,Lawas,246
+2024-10-01,Sarawak,Lawas,198
+2020-01-01,Sarawak,Limbang,645
+2020-02-01,Sarawak,Limbang,
+2020-03-01,Sarawak,Limbang,252
+2020-04-01,Sarawak,Limbang,3
+2020-05-01,Sarawak,Limbang,17
+2020-06-01,Sarawak,Limbang,91
+2020-07-01,Sarawak,Limbang,81
+2020-08-01,Sarawak,Limbang,88
+2020-09-01,Sarawak,Limbang,112
+2020-10-01,Sarawak,Limbang,30
+2020-11-01,Sarawak,Limbang,44
+2020-12-01,Sarawak,Limbang,37
+2021-01-01,Sarawak,Limbang,19
+2021-02-01,Sarawak,Limbang,38
+2021-03-01,Sarawak,Limbang,44
+2021-04-01,Sarawak,Limbang,39
+2021-05-01,Sarawak,Limbang,18
+2021-06-01,Sarawak,Limbang,20
+2021-07-01,Sarawak,Limbang,30
+2021-08-01,Sarawak,Limbang,37
+2021-09-01,Sarawak,Limbang,22
+2021-10-01,Sarawak,Limbang,40
+2021-11-01,Sarawak,Limbang,83
+2021-12-01,Sarawak,Limbang,95
+2022-01-01,Sarawak,Limbang,52
+2022-02-01,Sarawak,Limbang,428
+2022-03-01,Sarawak,Limbang,1091
+2022-04-01,Sarawak,Limbang,841
+2022-05-01,Sarawak,Limbang,663
+2022-06-01,Sarawak,Limbang,750
+2022-07-01,Sarawak,Limbang,661
+2022-08-01,Sarawak,Limbang,1041
+2022-09-01,Sarawak,Limbang,847
+2022-10-01,Sarawak,Limbang,625
+2022-11-01,Sarawak,Limbang,534
+2022-12-01,Sarawak,Limbang,631
+2023-01-01,Sarawak,Limbang,626
+2023-02-01,Sarawak,Limbang,592
+2023-03-01,Sarawak,Limbang,587
+2023-04-01,Sarawak,Limbang,593
+2023-05-01,Sarawak,Limbang,612
+2023-06-01,Sarawak,Limbang,423
+2023-07-01,Sarawak,Limbang,463
+2023-08-01,Sarawak,Limbang,412
+2023-09-01,Sarawak,Limbang,417
+2023-10-01,Sarawak,Limbang,405
+2023-11-01,Sarawak,Limbang,476
+2023-12-01,Sarawak,Limbang,496
+2024-01-01,Sarawak,Limbang,534
+2024-02-01,Sarawak,Limbang,466
+2024-03-01,Sarawak,Limbang,455
+2024-04-01,Sarawak,Limbang,434
+2024-05-01,Sarawak,Limbang,242
+2024-06-01,Sarawak,Limbang,418
+2024-07-01,Sarawak,Limbang,377
+2024-08-01,Sarawak,Limbang,440
+2024-09-01,Sarawak,Limbang,422
+2024-10-01,Sarawak,Limbang,393
+2020-01-01,Sarawak,Sri Aman,171
+2020-02-01,Sarawak,Sri Aman,
+2020-03-01,Sarawak,Sri Aman,42
+2020-04-01,Sarawak,Sri Aman,0
+2020-05-01,Sarawak,Sri Aman,9
+2020-06-01,Sarawak,Sri Aman,50
+2020-07-01,Sarawak,Sri Aman,25
+2020-08-01,Sarawak,Sri Aman,20
+2020-09-01,Sarawak,Sri Aman,21
+2020-10-01,Sarawak,Sri Aman,13
+2020-11-01,Sarawak,Sri Aman,15
+2020-12-01,Sarawak,Sri Aman,21
+2021-01-01,Sarawak,Sri Aman,17
+2021-02-01,Sarawak,Sri Aman,16
+2021-03-01,Sarawak,Sri Aman,28
+2021-04-01,Sarawak,Sri Aman,21
+2021-05-01,Sarawak,Sri Aman,12
+2021-06-01,Sarawak,Sri Aman,9
+2021-07-01,Sarawak,Sri Aman,13
+2021-08-01,Sarawak,Sri Aman,24
+2021-09-01,Sarawak,Sri Aman,16
+2021-10-01,Sarawak,Sri Aman,20
+2021-11-01,Sarawak,Sri Aman,36
+2021-12-01,Sarawak,Sri Aman,35
+2022-01-01,Sarawak,Sri Aman,37
+2022-02-01,Sarawak,Sri Aman,36
+2022-03-01,Sarawak,Sri Aman,36
+2022-04-01,Sarawak,Sri Aman,119
+2022-05-01,Sarawak,Sri Aman,180
+2022-06-01,Sarawak,Sri Aman,157
+2022-07-01,Sarawak,Sri Aman,156
+2022-08-01,Sarawak,Sri Aman,195
+2022-09-01,Sarawak,Sri Aman,195
+2022-10-01,Sarawak,Sri Aman,214
+2022-11-01,Sarawak,Sri Aman,190
+2022-12-01,Sarawak,Sri Aman,262
+2023-01-01,Sarawak,Sri Aman,319
+2023-02-01,Sarawak,Sri Aman,354
+2023-03-01,Sarawak,Sri Aman,390
+2023-04-01,Sarawak,Sri Aman,192
+2023-05-01,Sarawak,Sri Aman,326
+2023-06-01,Sarawak,Sri Aman,220
+2023-07-01,Sarawak,Sri Aman,275
+2023-08-01,Sarawak,Sri Aman,248
+2023-09-01,Sarawak,Sri Aman,213
+2023-10-01,Sarawak,Sri Aman,207
+2023-11-01,Sarawak,Sri Aman,216
+2023-12-01,Sarawak,Sri Aman,265
+2024-01-01,Sarawak,Sri Aman,333
+2024-02-01,Sarawak,Sri Aman,312
+2024-03-01,Sarawak,Sri Aman,242
+2024-04-01,Sarawak,Sri Aman,233
+2024-05-01,Sarawak,Sri Aman,203
+2024-06-01,Sarawak,Sri Aman,228
+2024-07-01,Sarawak,Sri Aman,214
+2024-08-01,Sarawak,Sri Aman,274
+2024-09-01,Sarawak,Sri Aman,223
+2024-10-01,Sarawak,Sri Aman,199
+2020-01-01,Sarawak,UTC Kuching,4430
+2020-02-01,Sarawak,UTC Kuching,
+2020-03-01,Sarawak,UTC Kuching,780
+2020-04-01,Sarawak,UTC Kuching,0
+2020-05-01,Sarawak,UTC Kuching,0
+2020-06-01,Sarawak,UTC Kuching,189
+2020-07-01,Sarawak,UTC Kuching,290
+2020-08-01,Sarawak,UTC Kuching,298
+2020-09-01,Sarawak,UTC Kuching,296
+2020-10-01,Sarawak,UTC Kuching,186
+2020-11-01,Sarawak,UTC Kuching,65
+2020-12-01,Sarawak,UTC Kuching,304
+2021-01-01,Sarawak,UTC Kuching,131
+2021-02-01,Sarawak,UTC Kuching,0
+2021-03-01,Sarawak,UTC Kuching,161
+2021-04-01,Sarawak,UTC Kuching,267
+2021-05-01,Sarawak,UTC Kuching,207
+2021-06-01,Sarawak,UTC Kuching,0
+2021-07-01,Sarawak,UTC Kuching,401
+2021-08-01,Sarawak,UTC Kuching,173
+2021-09-01,Sarawak,UTC Kuching,376
+2021-10-01,Sarawak,UTC Kuching,674
+2021-11-01,Sarawak,UTC Kuching,1054
+2021-12-01,Sarawak,UTC Kuching,1096
+2022-01-01,Sarawak,UTC Kuching,835
+2022-02-01,Sarawak,UTC Kuching,1207
+2022-03-01,Sarawak,UTC Kuching,1605
+2022-04-01,Sarawak,UTC Kuching,2907
+2022-05-01,Sarawak,UTC Kuching,4646
+2022-06-01,Sarawak,UTC Kuching,5124
+2022-07-01,Sarawak,UTC Kuching,4870
+2022-08-01,Sarawak,UTC Kuching,5631
+2022-09-01,Sarawak,UTC Kuching,5576
+2022-10-01,Sarawak,UTC Kuching,5572
+2022-11-01,Sarawak,UTC Kuching,4604
+2022-12-01,Sarawak,UTC Kuching,6109
+2023-01-01,Sarawak,UTC Kuching,5795
+2023-02-01,Sarawak,UTC Kuching,6500
+2023-03-01,Sarawak,UTC Kuching,5355
+2023-04-01,Sarawak,UTC Kuching,4931
+2023-05-01,Sarawak,UTC Kuching,6854
+2023-06-01,Sarawak,UTC Kuching,5027
+2023-07-01,Sarawak,UTC Kuching,5374
+2023-08-01,Sarawak,UTC Kuching,5513
+2023-09-01,Sarawak,UTC Kuching,4924
+2023-10-01,Sarawak,UTC Kuching,5127
+2023-11-01,Sarawak,UTC Kuching,5197
+2023-12-01,Sarawak,UTC Kuching,5876
+2024-01-01,Sarawak,UTC Kuching,6062
+2024-02-01,Sarawak,UTC Kuching,5895
+2024-03-01,Sarawak,UTC Kuching,5284
+2024-04-01,Sarawak,UTC Kuching,4843
+2024-05-01,Sarawak,UTC Kuching,5008
+2024-06-01,Sarawak,UTC Kuching,4821
+2024-07-01,Sarawak,UTC Kuching,4634
+2024-08-01,Sarawak,UTC Kuching,4801
+2024-09-01,Sarawak,UTC Kuching,4616
+2024-10-01,Sarawak,UTC Kuching,4558
+2020-01-01,Sarawak,UTC Miri,2758
+2020-02-01,Sarawak,UTC Miri,
+2020-03-01,Sarawak,UTC Miri,838
+2020-04-01,Sarawak,UTC Miri,0
+2020-05-01,Sarawak,UTC Miri,0
+2020-06-01,Sarawak,UTC Miri,356
+2020-07-01,Sarawak,UTC Miri,389
+2020-08-01,Sarawak,UTC Miri,278
+2020-09-01,Sarawak,UTC Miri,337
+2020-10-01,Sarawak,UTC Miri,198
+2020-11-01,Sarawak,UTC Miri,201
+2020-12-01,Sarawak,UTC Miri,325
+2021-01-01,Sarawak,UTC Miri,236
+2021-02-01,Sarawak,UTC Miri,2
+2021-03-01,Sarawak,UTC Miri,372
+2021-04-01,Sarawak,UTC Miri,441
+2021-05-01,Sarawak,UTC Miri,276
+2021-06-01,Sarawak,UTC Miri,23
+2021-07-01,Sarawak,UTC Miri,393
+2021-08-01,Sarawak,UTC Miri,477
+2021-09-01,Sarawak,UTC Miri,354
+2021-10-01,Sarawak,UTC Miri,524
+2021-11-01,Sarawak,UTC Miri,675
+2021-12-01,Sarawak,UTC Miri,723
+2022-01-01,Sarawak,UTC Miri,765
+2022-02-01,Sarawak,UTC Miri,721
+2022-03-01,Sarawak,UTC Miri,1007
+2022-04-01,Sarawak,UTC Miri,1238
+2022-05-01,Sarawak,UTC Miri,2163
+2022-06-01,Sarawak,UTC Miri,2011
+2022-07-01,Sarawak,UTC Miri,2239
+2022-08-01,Sarawak,UTC Miri,3213
+2022-09-01,Sarawak,UTC Miri,2982
+2022-10-01,Sarawak,UTC Miri,3097
+2022-11-01,Sarawak,UTC Miri,2528
+2022-12-01,Sarawak,UTC Miri,3514
+2023-01-01,Sarawak,UTC Miri,3542
+2023-02-01,Sarawak,UTC Miri,3904
+2023-03-01,Sarawak,UTC Miri,3753
+2023-04-01,Sarawak,UTC Miri,3661
+2023-05-01,Sarawak,UTC Miri,3882
+2023-06-01,Sarawak,UTC Miri,2756
+2023-07-01,Sarawak,UTC Miri,2819
+2023-08-01,Sarawak,UTC Miri,2683
+2023-09-01,Sarawak,UTC Miri,2337
+2023-10-01,Sarawak,UTC Miri,2506
+2023-11-01,Sarawak,UTC Miri,2833
+2023-12-01,Sarawak,UTC Miri,2797
+2024-01-01,Sarawak,UTC Miri,2910
+2024-02-01,Sarawak,UTC Miri,2995
+2024-03-01,Sarawak,UTC Miri,2713
+2024-04-01,Sarawak,UTC Miri,2582
+2024-05-01,Sarawak,UTC Miri,2689
+2024-06-01,Sarawak,UTC Miri,2330
+2024-07-01,Sarawak,UTC Miri,2327
+2024-08-01,Sarawak,UTC Miri,2361
+2024-09-01,Sarawak,UTC Miri,2445
+2024-10-01,Sarawak,UTC Miri,2231
+2020-01-01,Sarawak,UTC Sibu,2414
+2020-02-01,Sarawak,UTC Sibu,
+2020-03-01,Sarawak,UTC Sibu,424
+2020-04-01,Sarawak,UTC Sibu,0
+2020-05-01,Sarawak,UTC Sibu,3
+2020-06-01,Sarawak,UTC Sibu,373
+2020-07-01,Sarawak,UTC Sibu,330
+2020-08-01,Sarawak,UTC Sibu,289
+2020-09-01,Sarawak,UTC Sibu,293
+2020-10-01,Sarawak,UTC Sibu,225
+2020-11-01,Sarawak,UTC Sibu,231
+2020-12-01,Sarawak,UTC Sibu,277
+2021-01-01,Sarawak,UTC Sibu,107
+2021-02-01,Sarawak,UTC Sibu,2
+2021-03-01,Sarawak,UTC Sibu,369
+2021-04-01,Sarawak,UTC Sibu,372
+2021-05-01,Sarawak,UTC Sibu,205
+2021-06-01,Sarawak,UTC Sibu,38
+2021-07-01,Sarawak,UTC Sibu,432
+2021-08-01,Sarawak,UTC Sibu,339
+2021-09-01,Sarawak,UTC Sibu,238
+2021-10-01,Sarawak,UTC Sibu,529
+2021-11-01,Sarawak,UTC Sibu,635
+2021-12-01,Sarawak,UTC Sibu,719
+2022-01-01,Sarawak,UTC Sibu,686
+2022-02-01,Sarawak,UTC Sibu,804
+2022-03-01,Sarawak,UTC Sibu,1092
+2022-04-01,Sarawak,UTC Sibu,1777
+2022-05-01,Sarawak,UTC Sibu,2163
+2022-06-01,Sarawak,UTC Sibu,2256
+2022-07-01,Sarawak,UTC Sibu,2170
+2022-08-01,Sarawak,UTC Sibu,2537
+2022-09-01,Sarawak,UTC Sibu,2392
+2022-10-01,Sarawak,UTC Sibu,2298
+2022-11-01,Sarawak,UTC Sibu,2186
+2022-12-01,Sarawak,UTC Sibu,3189
+2023-01-01,Sarawak,UTC Sibu,3621
+2023-02-01,Sarawak,UTC Sibu,3805
+2023-03-01,Sarawak,UTC Sibu,3318
+2023-04-01,Sarawak,UTC Sibu,3029
+2023-05-01,Sarawak,UTC Sibu,3157
+2023-06-01,Sarawak,UTC Sibu,2528
+2023-07-01,Sarawak,UTC Sibu,2830
+2023-08-01,Sarawak,UTC Sibu,2756
+2023-09-01,Sarawak,UTC Sibu,2383
+2023-10-01,Sarawak,UTC Sibu,2314
+2023-11-01,Sarawak,UTC Sibu,2347
+2023-12-01,Sarawak,UTC Sibu,2604
+2024-01-01,Sarawak,UTC Sibu,2843
+2024-02-01,Sarawak,UTC Sibu,3485
+2024-03-01,Sarawak,UTC Sibu,3128
+2024-04-01,Sarawak,UTC Sibu,2829
+2024-05-01,Sarawak,UTC Sibu,2424
+2024-06-01,Sarawak,UTC Sibu,2568
+2024-07-01,Sarawak,UTC Sibu,2335
+2024-08-01,Sarawak,UTC Sibu,2327
+2024-09-01,Sarawak,UTC Sibu,2312
+2024-10-01,Sarawak,UTC Sibu,2044
+2020-01-01,Selangor,KLIA,0
+2020-02-01,Selangor,KLIA,
+2020-03-01,Selangor,KLIA,0
+2020-04-01,Selangor,KLIA,0
+2020-05-01,Selangor,KLIA,0
+2020-06-01,Selangor,KLIA,0
+2020-07-01,Selangor,KLIA,0
+2020-08-01,Selangor,KLIA,0
+2020-09-01,Selangor,KLIA,0
+2020-10-01,Selangor,KLIA,0
+2020-11-01,Selangor,KLIA,0
+2020-12-01,Selangor,KLIA,0
+2021-01-01,Selangor,KLIA,0
+2021-02-01,Selangor,KLIA,0
+2021-03-01,Selangor,KLIA,0
+2021-04-01,Selangor,KLIA,0
+2021-05-01,Selangor,KLIA,0
+2021-06-01,Selangor,KLIA,0
+2021-07-01,Selangor,KLIA,0
+2021-08-01,Selangor,KLIA,0
+2021-09-01,Selangor,KLIA,0
+2021-10-01,Selangor,KLIA,0
+2021-11-01,Selangor,KLIA,0
+2021-12-01,Selangor,KLIA,0
+2022-01-01,Selangor,KLIA,0
+2022-02-01,Selangor,KLIA,0
+2022-03-01,Selangor,KLIA,0
+2022-04-01,Selangor,KLIA,0
+2022-05-01,Selangor,KLIA,0
+2022-06-01,Selangor,KLIA,0
+2022-07-01,Selangor,KLIA,0
+2022-08-01,Selangor,KLIA,0
+2022-09-01,Selangor,KLIA,0
+2022-10-01,Selangor,KLIA,0
+2022-11-01,Selangor,KLIA,0
+2022-12-01,Selangor,KLIA,71
+2023-01-01,Selangor,KLIA,958
+2023-02-01,Selangor,KLIA,2907
+2023-03-01,Selangor,KLIA,3044
+2023-04-01,Selangor,KLIA,3088
+2023-05-01,Selangor,KLIA,3666
+2023-06-01,Selangor,KLIA,3119
+2023-07-01,Selangor,KLIA,3347
+2023-08-01,Selangor,KLIA,3846
+2023-09-01,Selangor,KLIA,3525
+2023-10-01,Selangor,KLIA,3449
+2023-11-01,Selangor,KLIA,2614
+2023-12-01,Selangor,KLIA,3545
+2024-01-01,Selangor,KLIA,3773
+2024-02-01,Selangor,KLIA,3613
+2024-03-01,Selangor,KLIA,2339
+2024-04-01,Selangor,KLIA,2677
+2024-05-01,Selangor,KLIA,3435
+2024-06-01,Selangor,KLIA,2797
+2024-07-01,Selangor,KLIA,3331
+2024-08-01,Selangor,KLIA,3322
+2024-09-01,Selangor,KLIA,768
+2024-10-01,Selangor,KLIA,2817
+2020-01-01,Selangor,Kajang,4902
+2020-02-01,Selangor,Kajang,
+2020-03-01,Selangor,Kajang,1055
+2020-04-01,Selangor,Kajang,0
+2020-05-01,Selangor,Kajang,0
+2020-06-01,Selangor,Kajang,119
+2020-07-01,Selangor,Kajang,373
+2020-08-01,Selangor,Kajang,292
+2020-09-01,Selangor,Kajang,216
+2020-10-01,Selangor,Kajang,112
+2020-11-01,Selangor,Kajang,0
+2020-12-01,Selangor,Kajang,80
+2021-01-01,Selangor,Kajang,173
+2021-02-01,Selangor,Kajang,321
+2021-03-01,Selangor,Kajang,364
+2021-04-01,Selangor,Kajang,336
+2021-05-01,Selangor,Kajang,223
+2021-06-01,Selangor,Kajang,106
+2021-07-01,Selangor,Kajang,230
+2021-08-01,Selangor,Kajang,389
+2021-09-01,Selangor,Kajang,612
+2021-10-01,Selangor,Kajang,972
+2021-11-01,Selangor,Kajang,1472
+2021-12-01,Selangor,Kajang,1507
+2022-01-01,Selangor,Kajang,1063
+2022-02-01,Selangor,Kajang,1299
+2022-03-01,Selangor,Kajang,1503
+2022-04-01,Selangor,Kajang,2485
+2022-05-01,Selangor,Kajang,4988
+2022-06-01,Selangor,Kajang,8661
+2022-07-01,Selangor,Kajang,7756
+2022-08-01,Selangor,Kajang,8416
+2022-09-01,Selangor,Kajang,8238
+2022-10-01,Selangor,Kajang,8344
+2022-11-01,Selangor,Kajang,7572
+2022-12-01,Selangor,Kajang,9223
+2023-01-01,Selangor,Kajang,8412
+2023-02-01,Selangor,Kajang,9217
+2023-03-01,Selangor,Kajang,9025
+2023-04-01,Selangor,Kajang,6134
+2023-05-01,Selangor,Kajang,8079
+2023-06-01,Selangor,Kajang,6446
+2023-07-01,Selangor,Kajang,6351
+2023-08-01,Selangor,Kajang,6953
+2023-09-01,Selangor,Kajang,6106
+2023-10-01,Selangor,Kajang,5871
+2023-11-01,Selangor,Kajang,6268
+2023-12-01,Selangor,Kajang,6893
+2024-01-01,Selangor,Kajang,7200
+2024-02-01,Selangor,Kajang,7001
+2024-03-01,Selangor,Kajang,5104
+2024-04-01,Selangor,Kajang,4667
+2024-05-01,Selangor,Kajang,5328
+2024-06-01,Selangor,Kajang,4357
+2024-07-01,Selangor,Kajang,4932
+2024-08-01,Selangor,Kajang,5215
+2024-09-01,Selangor,Kajang,5092
+2024-10-01,Selangor,Kajang,4696
+2020-01-01,Selangor,Kelana Jaya,4588
+2020-02-01,Selangor,Kelana Jaya,
+2020-03-01,Selangor,Kelana Jaya,1119
+2020-04-01,Selangor,Kelana Jaya,0
+2020-05-01,Selangor,Kelana Jaya,0
+2020-06-01,Selangor,Kelana Jaya,293
+2020-07-01,Selangor,Kelana Jaya,678
+2020-08-01,Selangor,Kelana Jaya,498
+2020-09-01,Selangor,Kelana Jaya,489
+2020-10-01,Selangor,Kelana Jaya,174
+2020-11-01,Selangor,Kelana Jaya,0
+2020-12-01,Selangor,Kelana Jaya,231
+2021-01-01,Selangor,Kelana Jaya,359
+2021-02-01,Selangor,Kelana Jaya,513
+2021-03-01,Selangor,Kelana Jaya,854
+2021-04-01,Selangor,Kelana Jaya,701
+2021-05-01,Selangor,Kelana Jaya,503
+2021-06-01,Selangor,Kelana Jaya,96
+2021-07-01,Selangor,Kelana Jaya,293
+2021-08-01,Selangor,Kelana Jaya,670
+2021-09-01,Selangor,Kelana Jaya,1003
+2021-10-01,Selangor,Kelana Jaya,1766
+2021-11-01,Selangor,Kelana Jaya,2064
+2021-12-01,Selangor,Kelana Jaya,2243
+2022-01-01,Selangor,Kelana Jaya,1769
+2022-02-01,Selangor,Kelana Jaya,2071
+2022-03-01,Selangor,Kelana Jaya,3555
+2022-04-01,Selangor,Kelana Jaya,5362
+2022-05-01,Selangor,Kelana Jaya,8320
+2022-06-01,Selangor,Kelana Jaya,12130
+2022-07-01,Selangor,Kelana Jaya,10329
+2022-08-01,Selangor,Kelana Jaya,10669
+2022-09-01,Selangor,Kelana Jaya,9632
+2022-10-01,Selangor,Kelana Jaya,9177
+2022-11-01,Selangor,Kelana Jaya,9310
+2022-12-01,Selangor,Kelana Jaya,10000
+2023-01-01,Selangor,Kelana Jaya,9214
+2023-02-01,Selangor,Kelana Jaya,10624
+2023-03-01,Selangor,Kelana Jaya,10476
+2023-04-01,Selangor,Kelana Jaya,8093
+2023-05-01,Selangor,Kelana Jaya,9285
+2023-06-01,Selangor,Kelana Jaya,7054
+2023-07-01,Selangor,Kelana Jaya,7324
+2023-08-01,Selangor,Kelana Jaya,7120
+2023-09-01,Selangor,Kelana Jaya,6604
+2023-10-01,Selangor,Kelana Jaya,6968
+2023-11-01,Selangor,Kelana Jaya,6742
+2023-12-01,Selangor,Kelana Jaya,6746
+2024-01-01,Selangor,Kelana Jaya,7803
+2024-02-01,Selangor,Kelana Jaya,7573
+2024-03-01,Selangor,Kelana Jaya,6634
+2024-04-01,Selangor,Kelana Jaya,5919
+2024-05-01,Selangor,Kelana Jaya,6510
+2024-06-01,Selangor,Kelana Jaya,5454
+2024-07-01,Selangor,Kelana Jaya,6029
+2024-08-01,Selangor,Kelana Jaya,5649
+2024-09-01,Selangor,Kelana Jaya,5818
+2024-10-01,Selangor,Kelana Jaya,5437
+2020-01-01,Selangor,Kuala Kubu Bharu,1919
+2020-02-01,Selangor,Kuala Kubu Bharu,
+2020-03-01,Selangor,Kuala Kubu Bharu,390
+2020-04-01,Selangor,Kuala Kubu Bharu,0
+2020-05-01,Selangor,Kuala Kubu Bharu,0
+2020-06-01,Selangor,Kuala Kubu Bharu,31
+2020-07-01,Selangor,Kuala Kubu Bharu,113
+2020-08-01,Selangor,Kuala Kubu Bharu,79
+2020-09-01,Selangor,Kuala Kubu Bharu,73
+2020-10-01,Selangor,Kuala Kubu Bharu,44
+2020-11-01,Selangor,Kuala Kubu Bharu,0
+2020-12-01,Selangor,Kuala Kubu Bharu,26
+2021-01-01,Selangor,Kuala Kubu Bharu,32
+2021-02-01,Selangor,Kuala Kubu Bharu,64
+2021-03-01,Selangor,Kuala Kubu Bharu,115
+2021-04-01,Selangor,Kuala Kubu Bharu,87
+2021-05-01,Selangor,Kuala Kubu Bharu,89
+2021-06-01,Selangor,Kuala Kubu Bharu,29
+2021-07-01,Selangor,Kuala Kubu Bharu,118
+2021-08-01,Selangor,Kuala Kubu Bharu,139
+2021-09-01,Selangor,Kuala Kubu Bharu,191
+2021-10-01,Selangor,Kuala Kubu Bharu,371
+2021-11-01,Selangor,Kuala Kubu Bharu,613
+2021-12-01,Selangor,Kuala Kubu Bharu,556
+2022-01-01,Selangor,Kuala Kubu Bharu,318
+2022-02-01,Selangor,Kuala Kubu Bharu,438
+2022-03-01,Selangor,Kuala Kubu Bharu,942
+2022-04-01,Selangor,Kuala Kubu Bharu,1852
+2022-05-01,Selangor,Kuala Kubu Bharu,2435
+2022-06-01,Selangor,Kuala Kubu Bharu,3266
+2022-07-01,Selangor,Kuala Kubu Bharu,3218
+2022-08-01,Selangor,Kuala Kubu Bharu,3498
+2022-09-01,Selangor,Kuala Kubu Bharu,3786
+2022-10-01,Selangor,Kuala Kubu Bharu,3446
+2022-11-01,Selangor,Kuala Kubu Bharu,3365
+2022-12-01,Selangor,Kuala Kubu Bharu,3928
+2023-01-01,Selangor,Kuala Kubu Bharu,3080
+2023-02-01,Selangor,Kuala Kubu Bharu,3638
+2023-03-01,Selangor,Kuala Kubu Bharu,3242
+2023-04-01,Selangor,Kuala Kubu Bharu,2548
+2023-05-01,Selangor,Kuala Kubu Bharu,3208
+2023-06-01,Selangor,Kuala Kubu Bharu,2660
+2023-07-01,Selangor,Kuala Kubu Bharu,2757
+2023-08-01,Selangor,Kuala Kubu Bharu,2750
+2023-09-01,Selangor,Kuala Kubu Bharu,2643
+2023-10-01,Selangor,Kuala Kubu Bharu,2763
+2023-11-01,Selangor,Kuala Kubu Bharu,2552
+2023-12-01,Selangor,Kuala Kubu Bharu,2813
+2024-01-01,Selangor,Kuala Kubu Bharu,2978
+2024-02-01,Selangor,Kuala Kubu Bharu,2966
+2024-03-01,Selangor,Kuala Kubu Bharu,2318
+2024-04-01,Selangor,Kuala Kubu Bharu,2271
+2024-05-01,Selangor,Kuala Kubu Bharu,2477
+2024-06-01,Selangor,Kuala Kubu Bharu,2278
+2024-07-01,Selangor,Kuala Kubu Bharu,2656
+2024-08-01,Selangor,Kuala Kubu Bharu,2466
+2024-09-01,Selangor,Kuala Kubu Bharu,2493
+2024-10-01,Selangor,Kuala Kubu Bharu,2271
+2020-01-01,Selangor,Kuala Langat,1741
+2020-02-01,Selangor,Kuala Langat,
+2020-03-01,Selangor,Kuala Langat,386
+2020-04-01,Selangor,Kuala Langat,0
+2020-05-01,Selangor,Kuala Langat,0
+2020-06-01,Selangor,Kuala Langat,23
+2020-07-01,Selangor,Kuala Langat,87
+2020-08-01,Selangor,Kuala Langat,65
+2020-09-01,Selangor,Kuala Langat,47
+2020-10-01,Selangor,Kuala Langat,19
+2020-11-01,Selangor,Kuala Langat,0
+2020-12-01,Selangor,Kuala Langat,10
+2021-01-01,Selangor,Kuala Langat,33
+2021-02-01,Selangor,Kuala Langat,43
+2021-03-01,Selangor,Kuala Langat,79
+2021-04-01,Selangor,Kuala Langat,60
+2021-05-01,Selangor,Kuala Langat,55
+2021-06-01,Selangor,Kuala Langat,26
+2021-07-01,Selangor,Kuala Langat,99
+2021-08-01,Selangor,Kuala Langat,161
+2021-09-01,Selangor,Kuala Langat,145
+2021-10-01,Selangor,Kuala Langat,254
+2021-11-01,Selangor,Kuala Langat,455
+2021-12-01,Selangor,Kuala Langat,457
+2022-01-01,Selangor,Kuala Langat,240
+2022-02-01,Selangor,Kuala Langat,373
+2022-03-01,Selangor,Kuala Langat,779
+2022-04-01,Selangor,Kuala Langat,1220
+2022-05-01,Selangor,Kuala Langat,1760
+2022-06-01,Selangor,Kuala Langat,2276
+2022-07-01,Selangor,Kuala Langat,2266
+2022-08-01,Selangor,Kuala Langat,2668
+2022-09-01,Selangor,Kuala Langat,2384
+2022-10-01,Selangor,Kuala Langat,2269
+2022-11-01,Selangor,Kuala Langat,2062
+2022-12-01,Selangor,Kuala Langat,2208
+2023-01-01,Selangor,Kuala Langat,2123
+2023-02-01,Selangor,Kuala Langat,2525
+2023-03-01,Selangor,Kuala Langat,2221
+2023-04-01,Selangor,Kuala Langat,1730
+2023-05-01,Selangor,Kuala Langat,2207
+2023-06-01,Selangor,Kuala Langat,1836
+2023-07-01,Selangor,Kuala Langat,2214
+2023-08-01,Selangor,Kuala Langat,2176
+2023-09-01,Selangor,Kuala Langat,1968
+2023-10-01,Selangor,Kuala Langat,2049
+2023-11-01,Selangor,Kuala Langat,2134
+2023-12-01,Selangor,Kuala Langat,2108
+2024-01-01,Selangor,Kuala Langat,2209
+2024-02-01,Selangor,Kuala Langat,2129
+2024-03-01,Selangor,Kuala Langat,1678
+2024-04-01,Selangor,Kuala Langat,1752
+2024-05-01,Selangor,Kuala Langat,1881
+2024-06-01,Selangor,Kuala Langat,1530
+2024-07-01,Selangor,Kuala Langat,1793
+2024-08-01,Selangor,Kuala Langat,1780
+2024-09-01,Selangor,Kuala Langat,1752
+2024-10-01,Selangor,Kuala Langat,1663
+2020-01-01,Selangor,Kuala Selangor,2002
+2020-02-01,Selangor,Kuala Selangor,
+2020-03-01,Selangor,Kuala Selangor,387
+2020-04-01,Selangor,Kuala Selangor,0
+2020-05-01,Selangor,Kuala Selangor,0
+2020-06-01,Selangor,Kuala Selangor,37
+2020-07-01,Selangor,Kuala Selangor,120
+2020-08-01,Selangor,Kuala Selangor,77
+2020-09-01,Selangor,Kuala Selangor,83
+2020-10-01,Selangor,Kuala Selangor,35
+2020-11-01,Selangor,Kuala Selangor,0
+2020-12-01,Selangor,Kuala Selangor,20
+2021-01-01,Selangor,Kuala Selangor,37
+2021-02-01,Selangor,Kuala Selangor,49
+2021-03-01,Selangor,Kuala Selangor,107
+2021-04-01,Selangor,Kuala Selangor,73
+2021-05-01,Selangor,Kuala Selangor,49
+2021-06-01,Selangor,Kuala Selangor,24
+2021-07-01,Selangor,Kuala Selangor,269
+2021-08-01,Selangor,Kuala Selangor,183
+2021-09-01,Selangor,Kuala Selangor,219
+2021-10-01,Selangor,Kuala Selangor,421
+2021-11-01,Selangor,Kuala Selangor,667
+2021-12-01,Selangor,Kuala Selangor,719
+2022-01-01,Selangor,Kuala Selangor,318
+2022-02-01,Selangor,Kuala Selangor,442
+2022-03-01,Selangor,Kuala Selangor,1119
+2022-04-01,Selangor,Kuala Selangor,1911
+2022-05-01,Selangor,Kuala Selangor,2799
+2022-06-01,Selangor,Kuala Selangor,3855
+2022-07-01,Selangor,Kuala Selangor,3737
+2022-08-01,Selangor,Kuala Selangor,4421
+2022-09-01,Selangor,Kuala Selangor,4492
+2022-10-01,Selangor,Kuala Selangor,4345
+2022-11-01,Selangor,Kuala Selangor,3705
+2022-12-01,Selangor,Kuala Selangor,3756
+2023-01-01,Selangor,Kuala Selangor,3997
+2023-02-01,Selangor,Kuala Selangor,3942
+2023-03-01,Selangor,Kuala Selangor,3753
+2023-04-01,Selangor,Kuala Selangor,2721
+2023-05-01,Selangor,Kuala Selangor,3088
+2023-06-01,Selangor,Kuala Selangor,2636
+2023-07-01,Selangor,Kuala Selangor,2780
+2023-08-01,Selangor,Kuala Selangor,2810
+2023-09-01,Selangor,Kuala Selangor,2749
+2023-10-01,Selangor,Kuala Selangor,2903
+2023-11-01,Selangor,Kuala Selangor,2774
+2023-12-01,Selangor,Kuala Selangor,3008
+2024-01-01,Selangor,Kuala Selangor,3083
+2024-02-01,Selangor,Kuala Selangor,3066
+2024-03-01,Selangor,Kuala Selangor,2421
+2024-04-01,Selangor,Kuala Selangor,2332
+2024-05-01,Selangor,Kuala Selangor,2706
+2024-06-01,Selangor,Kuala Selangor,2356
+2024-07-01,Selangor,Kuala Selangor,2591
+2024-08-01,Selangor,Kuala Selangor,2428
+2024-09-01,Selangor,Kuala Selangor,2570
+2024-10-01,Selangor,Kuala Selangor,2515
+2020-01-01,Selangor,Pelabuhan Kelang,2961
+2020-02-01,Selangor,Pelabuhan Kelang,
+2020-03-01,Selangor,Pelabuhan Kelang,830
+2020-04-01,Selangor,Pelabuhan Kelang,0
+2020-05-01,Selangor,Pelabuhan Kelang,0
+2020-06-01,Selangor,Pelabuhan Kelang,0
+2020-07-01,Selangor,Pelabuhan Kelang,0
+2020-08-01,Selangor,Pelabuhan Kelang,166
+2020-09-01,Selangor,Pelabuhan Kelang,168
+2020-10-01,Selangor,Pelabuhan Kelang,71
+2020-11-01,Selangor,Pelabuhan Kelang,0
+2020-12-01,Selangor,Pelabuhan Kelang,53
+2021-01-01,Selangor,Pelabuhan Kelang,68
+2021-02-01,Selangor,Pelabuhan Kelang,155
+2021-03-01,Selangor,Pelabuhan Kelang,321
+2021-04-01,Selangor,Pelabuhan Kelang,269
+2021-05-01,Selangor,Pelabuhan Kelang,216
+2021-06-01,Selangor,Pelabuhan Kelang,50
+2021-07-01,Selangor,Pelabuhan Kelang,54
+2021-08-01,Selangor,Pelabuhan Kelang,192
+2021-09-01,Selangor,Pelabuhan Kelang,391
+2021-10-01,Selangor,Pelabuhan Kelang,823
+2021-11-01,Selangor,Pelabuhan Kelang,869
+2021-12-01,Selangor,Pelabuhan Kelang,1030
+2022-01-01,Selangor,Pelabuhan Kelang,646
+2022-02-01,Selangor,Pelabuhan Kelang,832
+2022-03-01,Selangor,Pelabuhan Kelang,1517
+2022-04-01,Selangor,Pelabuhan Kelang,1841
+2022-05-01,Selangor,Pelabuhan Kelang,3954
+2022-06-01,Selangor,Pelabuhan Kelang,5734
+2022-07-01,Selangor,Pelabuhan Kelang,4401
+2022-08-01,Selangor,Pelabuhan Kelang,4884
+2022-09-01,Selangor,Pelabuhan Kelang,5007
+2022-10-01,Selangor,Pelabuhan Kelang,4691
+2022-11-01,Selangor,Pelabuhan Kelang,4587
+2022-12-01,Selangor,Pelabuhan Kelang,5240
+2023-01-01,Selangor,Pelabuhan Kelang,4223
+2023-02-01,Selangor,Pelabuhan Kelang,5124
+2023-03-01,Selangor,Pelabuhan Kelang,5314
+2023-04-01,Selangor,Pelabuhan Kelang,3645
+2023-05-01,Selangor,Pelabuhan Kelang,3869
+2023-06-01,Selangor,Pelabuhan Kelang,3119
+2023-07-01,Selangor,Pelabuhan Kelang,0
+2023-08-01,Selangor,Pelabuhan Kelang,0
+2023-09-01,Selangor,Pelabuhan Kelang,0
+2023-10-01,Selangor,Pelabuhan Kelang,0
+2023-11-01,Selangor,Pelabuhan Kelang,0
+2023-12-01,Selangor,Pelabuhan Kelang,0
+2024-01-01,Selangor,Pelabuhan Kelang,1317
+2024-02-01,Selangor,Pelabuhan Kelang,2458
+2024-03-01,Selangor,Pelabuhan Kelang,2131
+2024-04-01,Selangor,Pelabuhan Kelang,1965
+2024-05-01,Selangor,Pelabuhan Kelang,2352
+2024-06-01,Selangor,Pelabuhan Kelang,1956
+2024-07-01,Selangor,Pelabuhan Kelang,2027
+2024-08-01,Selangor,Pelabuhan Kelang,2100
+2024-09-01,Selangor,Pelabuhan Kelang,2052
+2024-10-01,Selangor,Pelabuhan Kelang,2141
+2020-01-01,Selangor,Puchong,2255
+2020-02-01,Selangor,Puchong,
+2020-03-01,Selangor,Puchong,522
+2020-04-01,Selangor,Puchong,0
+2020-05-01,Selangor,Puchong,0
+2020-06-01,Selangor,Puchong,104
+2020-07-01,Selangor,Puchong,250
+2020-08-01,Selangor,Puchong,216
+2020-09-01,Selangor,Puchong,173
+2020-10-01,Selangor,Puchong,68
+2020-11-01,Selangor,Puchong,0
+2020-12-01,Selangor,Puchong,103
+2021-01-01,Selangor,Puchong,58
+2021-02-01,Selangor,Puchong,15
+2021-03-01,Selangor,Puchong,247
+2021-04-01,Selangor,Puchong,314
+2021-05-01,Selangor,Puchong,220
+2021-06-01,Selangor,Puchong,59
+2021-07-01,Selangor,Puchong,175
+2021-08-01,Selangor,Puchong,413
+2021-09-01,Selangor,Puchong,706
+2021-10-01,Selangor,Puchong,918
+2021-11-01,Selangor,Puchong,1076
+2021-12-01,Selangor,Puchong,1008
+2022-01-01,Selangor,Puchong,761
+2022-02-01,Selangor,Puchong,835
+2022-03-01,Selangor,Puchong,1198
+2022-04-01,Selangor,Puchong,1755
+2022-05-01,Selangor,Puchong,3111
+2022-06-01,Selangor,Puchong,5041
+2022-07-01,Selangor,Puchong,4033
+2022-08-01,Selangor,Puchong,4799
+2022-09-01,Selangor,Puchong,4750
+2022-10-01,Selangor,Puchong,4395
+2022-11-01,Selangor,Puchong,4297
+2022-12-01,Selangor,Puchong,4505
+2023-01-01,Selangor,Puchong,3989
+2023-02-01,Selangor,Puchong,5011
+2023-03-01,Selangor,Puchong,4942
+2023-04-01,Selangor,Puchong,3498
+2023-05-01,Selangor,Puchong,4624
+2023-06-01,Selangor,Puchong,3782
+2023-07-01,Selangor,Puchong,3898
+2023-08-01,Selangor,Puchong,3946
+2023-09-01,Selangor,Puchong,3755
+2023-10-01,Selangor,Puchong,3815
+2023-11-01,Selangor,Puchong,3523
+2023-12-01,Selangor,Puchong,3647
+2024-01-01,Selangor,Puchong,3888
+2024-02-01,Selangor,Puchong,3590
+2024-03-01,Selangor,Puchong,3207
+2024-04-01,Selangor,Puchong,2947
+2024-05-01,Selangor,Puchong,2995
+2024-06-01,Selangor,Puchong,2626
+2024-07-01,Selangor,Puchong,2970
+2024-08-01,Selangor,Puchong,2808
+2024-09-01,Selangor,Puchong,2949
+2024-10-01,Selangor,Puchong,2657
+2020-01-01,Selangor,Shah Alam,3028
+2020-02-01,Selangor,Shah Alam,
+2020-03-01,Selangor,Shah Alam,610
+2020-04-01,Selangor,Shah Alam,0
+2020-05-01,Selangor,Shah Alam,109
+2020-06-01,Selangor,Shah Alam,120
+2020-07-01,Selangor,Shah Alam,33
+2020-08-01,Selangor,Shah Alam,21
+2020-09-01,Selangor,Shah Alam,11
+2020-10-01,Selangor,Shah Alam,55
+2020-11-01,Selangor,Shah Alam,204
+2020-12-01,Selangor,Shah Alam,205
+2021-01-01,Selangor,Shah Alam,104
+2021-02-01,Selangor,Shah Alam,42
+2021-03-01,Selangor,Shah Alam,208
+2021-04-01,Selangor,Shah Alam,194
+2021-05-01,Selangor,Shah Alam,285
+2021-06-01,Selangor,Shah Alam,236
+2021-07-01,Selangor,Shah Alam,177
+2021-08-01,Selangor,Shah Alam,413
+2021-09-01,Selangor,Shah Alam,599
+2021-10-01,Selangor,Shah Alam,1032
+2021-11-01,Selangor,Shah Alam,1565
+2021-12-01,Selangor,Shah Alam,1357
+2022-01-01,Selangor,Shah Alam,585
+2022-02-01,Selangor,Shah Alam,880
+2022-03-01,Selangor,Shah Alam,2207
+2022-04-01,Selangor,Shah Alam,2913
+2022-05-01,Selangor,Shah Alam,4301
+2022-06-01,Selangor,Shah Alam,5343
+2022-07-01,Selangor,Shah Alam,4467
+2022-08-01,Selangor,Shah Alam,5201
+2022-09-01,Selangor,Shah Alam,5111
+2022-10-01,Selangor,Shah Alam,4966
+2022-11-01,Selangor,Shah Alam,4802
+2022-12-01,Selangor,Shah Alam,5541
+2023-01-01,Selangor,Shah Alam,4893
+2023-02-01,Selangor,Shah Alam,4870
+2023-03-01,Selangor,Shah Alam,4106
+2023-04-01,Selangor,Shah Alam,3442
+2023-05-01,Selangor,Shah Alam,4497
+2023-06-01,Selangor,Shah Alam,4685
+2023-07-01,Selangor,Shah Alam,5314
+2023-08-01,Selangor,Shah Alam,6229
+2023-09-01,Selangor,Shah Alam,5367
+2023-10-01,Selangor,Shah Alam,5724
+2023-11-01,Selangor,Shah Alam,5475
+2023-12-01,Selangor,Shah Alam,5976
+2024-01-01,Selangor,Shah Alam,5791
+2024-02-01,Selangor,Shah Alam,5309
+2024-03-01,Selangor,Shah Alam,3970
+2024-04-01,Selangor,Shah Alam,3830
+2024-05-01,Selangor,Shah Alam,4738
+2024-06-01,Selangor,Shah Alam,4259
+2024-07-01,Selangor,Shah Alam,4855
+2024-08-01,Selangor,Shah Alam,4567
+2024-09-01,Selangor,Shah Alam,4920
+2024-10-01,Selangor,Shah Alam,4414
+2020-01-01,Selangor,UTC Selangor,7693
+2020-02-01,Selangor,UTC Selangor,
+2020-03-01,Selangor,UTC Selangor,1829
+2020-04-01,Selangor,UTC Selangor,0
+2020-05-01,Selangor,UTC Selangor,0
+2020-06-01,Selangor,UTC Selangor,180
+2020-07-01,Selangor,UTC Selangor,703
+2020-08-01,Selangor,UTC Selangor,532
+2020-09-01,Selangor,UTC Selangor,490
+2020-10-01,Selangor,UTC Selangor,185
+2020-11-01,Selangor,UTC Selangor,33
+2020-12-01,Selangor,UTC Selangor,514
+2021-01-01,Selangor,UTC Selangor,360
+2021-02-01,Selangor,UTC Selangor,314
+2021-03-01,Selangor,UTC Selangor,792
+2021-04-01,Selangor,UTC Selangor,698
+2021-05-01,Selangor,UTC Selangor,225
+2021-06-01,Selangor,UTC Selangor,66
+2021-07-01,Selangor,UTC Selangor,286
+2021-08-01,Selangor,UTC Selangor,663
+2021-09-01,Selangor,UTC Selangor,740
+2021-10-01,Selangor,UTC Selangor,2090
+2021-11-01,Selangor,UTC Selangor,2458
+2021-12-01,Selangor,UTC Selangor,2338
+2022-01-01,Selangor,UTC Selangor,2141
+2022-02-01,Selangor,UTC Selangor,2424
+2022-03-01,Selangor,UTC Selangor,3363
+2022-04-01,Selangor,UTC Selangor,4811
+2022-05-01,Selangor,UTC Selangor,4876
+2022-06-01,Selangor,UTC Selangor,8545
+2022-07-01,Selangor,UTC Selangor,7055
+2022-08-01,Selangor,UTC Selangor,8747
+2022-09-01,Selangor,UTC Selangor,8071
+2022-10-01,Selangor,UTC Selangor,9023
+2022-11-01,Selangor,UTC Selangor,8927
+2022-12-01,Selangor,UTC Selangor,9727
+2023-01-01,Selangor,UTC Selangor,8778
+2023-02-01,Selangor,UTC Selangor,9257
+2023-03-01,Selangor,UTC Selangor,9260
+2023-04-01,Selangor,UTC Selangor,6532
+2023-05-01,Selangor,UTC Selangor,8363
+2023-06-01,Selangor,UTC Selangor,7244
+2023-07-01,Selangor,UTC Selangor,8989
+2023-08-01,Selangor,UTC Selangor,8273
+2023-09-01,Selangor,UTC Selangor,8295
+2023-10-01,Selangor,UTC Selangor,9202
+2023-11-01,Selangor,UTC Selangor,9114
+2023-12-01,Selangor,UTC Selangor,9372
+2024-01-01,Selangor,UTC Selangor,10297
+2024-02-01,Selangor,UTC Selangor,8534
+2024-03-01,Selangor,UTC Selangor,8029
+2024-04-01,Selangor,UTC Selangor,6943
+2024-05-01,Selangor,UTC Selangor,8016
+2024-06-01,Selangor,UTC Selangor,7649
+2024-07-01,Selangor,UTC Selangor,8064
+2024-08-01,Selangor,UTC Selangor,7801
+2024-09-01,Selangor,UTC Selangor,7764
+2024-10-01,Selangor,UTC Selangor,7387
+2020-01-01,Terengganu,Besut,448
+2020-02-01,Terengganu,Besut,
+2020-03-01,Terengganu,Besut,135
+2020-04-01,Terengganu,Besut,0
+2020-05-01,Terengganu,Besut,39
+2020-06-01,Terengganu,Besut,29
+2020-07-01,Terengganu,Besut,31
+2020-08-01,Terengganu,Besut,19
+2020-09-01,Terengganu,Besut,20
+2020-10-01,Terengganu,Besut,15
+2020-11-01,Terengganu,Besut,7
+2020-12-01,Terengganu,Besut,27
+2021-01-01,Terengganu,Besut,22
+2021-02-01,Terengganu,Besut,13
+2021-03-01,Terengganu,Besut,31
+2021-04-01,Terengganu,Besut,23
+2021-05-01,Terengganu,Besut,28
+2021-06-01,Terengganu,Besut,15
+2021-07-01,Terengganu,Besut,36
+2021-08-01,Terengganu,Besut,30
+2021-09-01,Terengganu,Besut,20
+2021-10-01,Terengganu,Besut,77
+2021-11-01,Terengganu,Besut,216
+2021-12-01,Terengganu,Besut,259
+2022-01-01,Terengganu,Besut,157
+2022-02-01,Terengganu,Besut,150
+2022-03-01,Terengganu,Besut,169
+2022-04-01,Terengganu,Besut,172
+2022-05-01,Terengganu,Besut,397
+2022-06-01,Terengganu,Besut,773
+2022-07-01,Terengganu,Besut,735
+2022-08-01,Terengganu,Besut,1010
+2022-09-01,Terengganu,Besut,1427
+2022-10-01,Terengganu,Besut,937
+2022-11-01,Terengganu,Besut,751
+2022-12-01,Terengganu,Besut,953
+2023-01-01,Terengganu,Besut,1070
+2023-02-01,Terengganu,Besut,1011
+2023-03-01,Terengganu,Besut,636
+2023-04-01,Terengganu,Besut,893
+2023-05-01,Terengganu,Besut,1115
+2023-06-01,Terengganu,Besut,882
+2023-07-01,Terengganu,Besut,1273
+2023-08-01,Terengganu,Besut,1265
+2023-09-01,Terengganu,Besut,1277
+2023-10-01,Terengganu,Besut,1341
+2023-11-01,Terengganu,Besut,777
+2023-12-01,Terengganu,Besut,1114
+2024-01-01,Terengganu,Besut,1209
+2024-02-01,Terengganu,Besut,1508
+2024-03-01,Terengganu,Besut,612
+2024-04-01,Terengganu,Besut,926
+2024-05-01,Terengganu,Besut,1005
+2024-06-01,Terengganu,Besut,875
+2024-07-01,Terengganu,Besut,1104
+2024-08-01,Terengganu,Besut,1037
+2024-09-01,Terengganu,Besut,1298
+2024-10-01,Terengganu,Besut,1249
+2020-01-01,Terengganu,Kemaman,858
+2020-02-01,Terengganu,Kemaman,
+2020-03-01,Terengganu,Kemaman,234
+2020-04-01,Terengganu,Kemaman,0
+2020-05-01,Terengganu,Kemaman,82
+2020-06-01,Terengganu,Kemaman,103
+2020-07-01,Terengganu,Kemaman,79
+2020-08-01,Terengganu,Kemaman,69
+2020-09-01,Terengganu,Kemaman,90
+2020-10-01,Terengganu,Kemaman,65
+2020-11-01,Terengganu,Kemaman,94
+2020-12-01,Terengganu,Kemaman,98
+2021-01-01,Terengganu,Kemaman,72
+2021-02-01,Terengganu,Kemaman,89
+2021-03-01,Terengganu,Kemaman,142
+2021-04-01,Terengganu,Kemaman,126
+2021-05-01,Terengganu,Kemaman,159
+2021-06-01,Terengganu,Kemaman,57
+2021-07-01,Terengganu,Kemaman,163
+2021-08-01,Terengganu,Kemaman,128
+2021-09-01,Terengganu,Kemaman,96
+2021-10-01,Terengganu,Kemaman,175
+2021-11-01,Terengganu,Kemaman,315
+2021-12-01,Terengganu,Kemaman,434
+2022-01-01,Terengganu,Kemaman,228
+2022-02-01,Terengganu,Kemaman,212
+2022-03-01,Terengganu,Kemaman,353
+2022-04-01,Terengganu,Kemaman,453
+2022-05-01,Terengganu,Kemaman,926
+2022-06-01,Terengganu,Kemaman,1307
+2022-07-01,Terengganu,Kemaman,1036
+2022-08-01,Terengganu,Kemaman,1390
+2022-09-01,Terengganu,Kemaman,1416
+2022-10-01,Terengganu,Kemaman,1274
+2022-11-01,Terengganu,Kemaman,1077
+2022-12-01,Terengganu,Kemaman,1426
+2023-01-01,Terengganu,Kemaman,1761
+2023-02-01,Terengganu,Kemaman,1383
+2023-03-01,Terengganu,Kemaman,1088
+2023-04-01,Terengganu,Kemaman,1202
+2023-05-01,Terengganu,Kemaman,1678
+2023-06-01,Terengganu,Kemaman,1231
+2023-07-01,Terengganu,Kemaman,1459
+2023-08-01,Terengganu,Kemaman,1490
+2023-09-01,Terengganu,Kemaman,1432
+2023-10-01,Terengganu,Kemaman,1471
+2023-11-01,Terengganu,Kemaman,1098
+2023-12-01,Terengganu,Kemaman,1321
+2024-01-01,Terengganu,Kemaman,1803
+2024-02-01,Terengganu,Kemaman,1638
+2024-03-01,Terengganu,Kemaman,834
+2024-04-01,Terengganu,Kemaman,1082
+2024-05-01,Terengganu,Kemaman,1262
+2024-06-01,Terengganu,Kemaman,1164
+2024-07-01,Terengganu,Kemaman,1191
+2024-08-01,Terengganu,Kemaman,1308
+2024-09-01,Terengganu,Kemaman,1468
+2024-10-01,Terengganu,Kemaman,1148
+2020-01-01,Terengganu,UTC Terengganu,2692
+2020-02-01,Terengganu,UTC Terengganu,
+2020-03-01,Terengganu,UTC Terengganu,552
+2020-04-01,Terengganu,UTC Terengganu,0
+2020-05-01,Terengganu,UTC Terengganu,0
+2020-06-01,Terengganu,UTC Terengganu,145
+2020-07-01,Terengganu,UTC Terengganu,167
+2020-08-01,Terengganu,UTC Terengganu,160
+2020-09-01,Terengganu,UTC Terengganu,159
+2020-10-01,Terengganu,UTC Terengganu,125
+2020-11-01,Terengganu,UTC Terengganu,106
+2020-12-01,Terengganu,UTC Terengganu,160
+2021-01-01,Terengganu,UTC Terengganu,108
+2021-02-01,Terengganu,UTC Terengganu,127
+2021-03-01,Terengganu,UTC Terengganu,199
+2021-04-01,Terengganu,UTC Terengganu,172
+2021-05-01,Terengganu,UTC Terengganu,350
+2021-06-01,Terengganu,UTC Terengganu,111
+2021-07-01,Terengganu,UTC Terengganu,216
+2021-08-01,Terengganu,UTC Terengganu,227
+2021-09-01,Terengganu,UTC Terengganu,192
+2021-10-01,Terengganu,UTC Terengganu,435
+2021-11-01,Terengganu,UTC Terengganu,823
+2021-12-01,Terengganu,UTC Terengganu,1076
+2022-01-01,Terengganu,UTC Terengganu,555
+2022-02-01,Terengganu,UTC Terengganu,637
+2022-03-01,Terengganu,UTC Terengganu,816
+2022-04-01,Terengganu,UTC Terengganu,1270
+2022-05-01,Terengganu,UTC Terengganu,2075
+2022-06-01,Terengganu,UTC Terengganu,3092
+2022-07-01,Terengganu,UTC Terengganu,3072
+2022-08-01,Terengganu,UTC Terengganu,3728
+2022-09-01,Terengganu,UTC Terengganu,4113
+2022-10-01,Terengganu,UTC Terengganu,3569
+2022-11-01,Terengganu,UTC Terengganu,2709
+2022-12-01,Terengganu,UTC Terengganu,3798
+2023-01-01,Terengganu,UTC Terengganu,4312
+2023-02-01,Terengganu,UTC Terengganu,3643
+2023-03-01,Terengganu,UTC Terengganu,2654
+2023-04-01,Terengganu,UTC Terengganu,2779
+2023-05-01,Terengganu,UTC Terengganu,3834
+2023-06-01,Terengganu,UTC Terengganu,3298
+2023-07-01,Terengganu,UTC Terengganu,4028
+2023-08-01,Terengganu,UTC Terengganu,3838
+2023-09-01,Terengganu,UTC Terengganu,3929
+2023-10-01,Terengganu,UTC Terengganu,3718
+2023-11-01,Terengganu,UTC Terengganu,2815
+2023-12-01,Terengganu,UTC Terengganu,3588
+2024-01-01,Terengganu,UTC Terengganu,4799
+2024-02-01,Terengganu,UTC Terengganu,4294
+2024-03-01,Terengganu,UTC Terengganu,1938
+2024-04-01,Terengganu,UTC Terengganu,2821
+2024-05-01,Terengganu,UTC Terengganu,3181
+2024-06-01,Terengganu,UTC Terengganu,3110
+2024-07-01,Terengganu,UTC Terengganu,3655
+2024-08-01,Terengganu,UTC Terengganu,3848
+2024-09-01,Terengganu,UTC Terengganu,3786
+2024-10-01,Terengganu,UTC Terengganu,3571
+2020-01-01,W.P. Kuala Lumpur,Jalan Duta,6540
+2020-02-01,W.P. Kuala Lumpur,Jalan Duta,
+2020-03-01,W.P. Kuala Lumpur,Jalan Duta,1440
+2020-04-01,W.P. Kuala Lumpur,Jalan Duta,0
+2020-05-01,W.P. Kuala Lumpur,Jalan Duta,250
+2020-06-01,W.P. Kuala Lumpur,Jalan Duta,200
+2020-07-01,W.P. Kuala Lumpur,Jalan Duta,71
+2020-08-01,W.P. Kuala Lumpur,Jalan Duta,53
+2020-09-01,W.P. Kuala Lumpur,Jalan Duta,162
+2020-10-01,W.P. Kuala Lumpur,Jalan Duta,148
+2020-11-01,W.P. Kuala Lumpur,Jalan Duta,192
+2020-12-01,W.P. Kuala Lumpur,Jalan Duta,813
+2021-01-01,W.P. Kuala Lumpur,Jalan Duta,689
+2021-02-01,W.P. Kuala Lumpur,Jalan Duta,964
+2021-03-01,W.P. Kuala Lumpur,Jalan Duta,1173
+2021-04-01,W.P. Kuala Lumpur,Jalan Duta,900
+2021-05-01,W.P. Kuala Lumpur,Jalan Duta,742
+2021-06-01,W.P. Kuala Lumpur,Jalan Duta,175
+2021-07-01,W.P. Kuala Lumpur,Jalan Duta,824
+2021-08-01,W.P. Kuala Lumpur,Jalan Duta,485
+2021-09-01,W.P. Kuala Lumpur,Jalan Duta,773
+2021-10-01,W.P. Kuala Lumpur,Jalan Duta,2197
+2021-11-01,W.P. Kuala Lumpur,Jalan Duta,3588
+2021-12-01,W.P. Kuala Lumpur,Jalan Duta,3219
+2022-01-01,W.P. Kuala Lumpur,Jalan Duta,2150
+2022-02-01,W.P. Kuala Lumpur,Jalan Duta,2440
+2022-03-01,W.P. Kuala Lumpur,Jalan Duta,4119
+2022-04-01,W.P. Kuala Lumpur,Jalan Duta,6745
+2022-05-01,W.P. Kuala Lumpur,Jalan Duta,8973
+2022-06-01,W.P. Kuala Lumpur,Jalan Duta,11134
+2022-07-01,W.P. Kuala Lumpur,Jalan Duta,9184
+2022-08-01,W.P. Kuala Lumpur,Jalan Duta,10577
+2022-09-01,W.P. Kuala Lumpur,Jalan Duta,9818
+2022-10-01,W.P. Kuala Lumpur,Jalan Duta,8906
+2022-11-01,W.P. Kuala Lumpur,Jalan Duta,9522
+2022-12-01,W.P. Kuala Lumpur,Jalan Duta,10355
+2023-01-01,W.P. Kuala Lumpur,Jalan Duta,9162
+2023-02-01,W.P. Kuala Lumpur,Jalan Duta,10966
+2023-03-01,W.P. Kuala Lumpur,Jalan Duta,10341
+2023-04-01,W.P. Kuala Lumpur,Jalan Duta,7654
+2023-05-01,W.P. Kuala Lumpur,Jalan Duta,9437
+2023-06-01,W.P. Kuala Lumpur,Jalan Duta,8137
+2023-07-01,W.P. Kuala Lumpur,Jalan Duta,8488
+2023-08-01,W.P. Kuala Lumpur,Jalan Duta,8634
+2023-09-01,W.P. Kuala Lumpur,Jalan Duta,8031
+2023-10-01,W.P. Kuala Lumpur,Jalan Duta,8135
+2023-11-01,W.P. Kuala Lumpur,Jalan Duta,8044
+2023-12-01,W.P. Kuala Lumpur,Jalan Duta,8236
+2024-01-01,W.P. Kuala Lumpur,Jalan Duta,8585
+2024-02-01,W.P. Kuala Lumpur,Jalan Duta,7540
+2024-03-01,W.P. Kuala Lumpur,Jalan Duta,7506
+2024-04-01,W.P. Kuala Lumpur,Jalan Duta,7183
+2024-05-01,W.P. Kuala Lumpur,Jalan Duta,7541
+2024-06-01,W.P. Kuala Lumpur,Jalan Duta,6556
+2024-07-01,W.P. Kuala Lumpur,Jalan Duta,7368
+2024-08-01,W.P. Kuala Lumpur,Jalan Duta,7428
+2024-09-01,W.P. Kuala Lumpur,Jalan Duta,7149
+2024-10-01,W.P. Kuala Lumpur,Jalan Duta,6786
+2020-01-01,W.P. Kuala Lumpur,Mini UTC Keramat,6210
+2020-02-01,W.P. Kuala Lumpur,Mini UTC Keramat,
+2020-03-01,W.P. Kuala Lumpur,Mini UTC Keramat,1339
+2020-04-01,W.P. Kuala Lumpur,Mini UTC Keramat,0
+2020-05-01,W.P. Kuala Lumpur,Mini UTC Keramat,0
+2020-06-01,W.P. Kuala Lumpur,Mini UTC Keramat,137
+2020-07-01,W.P. Kuala Lumpur,Mini UTC Keramat,369
+2020-08-01,W.P. Kuala Lumpur,Mini UTC Keramat,311
+2020-09-01,W.P. Kuala Lumpur,Mini UTC Keramat,259
+2020-10-01,W.P. Kuala Lumpur,Mini UTC Keramat,103
+2020-11-01,W.P. Kuala Lumpur,Mini UTC Keramat,0
+2020-12-01,W.P. Kuala Lumpur,Mini UTC Keramat,319
+2021-01-01,W.P. Kuala Lumpur,Mini UTC Keramat,64
+2021-02-01,W.P. Kuala Lumpur,Mini UTC Keramat,0
+2021-03-01,W.P. Kuala Lumpur,Mini UTC Keramat,280
+2021-04-01,W.P. Kuala Lumpur,Mini UTC Keramat,311
+2021-05-01,W.P. Kuala Lumpur,Mini UTC Keramat,107
+2021-06-01,W.P. Kuala Lumpur,Mini UTC Keramat,0
+2021-07-01,W.P. Kuala Lumpur,Mini UTC Keramat,58
+2021-08-01,W.P. Kuala Lumpur,Mini UTC Keramat,547
+2021-09-01,W.P. Kuala Lumpur,Mini UTC Keramat,736
+2021-10-01,W.P. Kuala Lumpur,Mini UTC Keramat,1723
+2021-11-01,W.P. Kuala Lumpur,Mini UTC Keramat,2215
+2021-12-01,W.P. Kuala Lumpur,Mini UTC Keramat,2007
+2022-01-01,W.P. Kuala Lumpur,Mini UTC Keramat,1177
+2022-02-01,W.P. Kuala Lumpur,Mini UTC Keramat,1934
+2022-03-01,W.P. Kuala Lumpur,Mini UTC Keramat,2301
+2022-04-01,W.P. Kuala Lumpur,Mini UTC Keramat,4767
+2022-05-01,W.P. Kuala Lumpur,Mini UTC Keramat,6098
+2022-06-01,W.P. Kuala Lumpur,Mini UTC Keramat,7972
+2022-07-01,W.P. Kuala Lumpur,Mini UTC Keramat,7786
+2022-08-01,W.P. Kuala Lumpur,Mini UTC Keramat,9952
+2022-09-01,W.P. Kuala Lumpur,Mini UTC Keramat,9678
+2022-10-01,W.P. Kuala Lumpur,Mini UTC Keramat,10300
+2022-11-01,W.P. Kuala Lumpur,Mini UTC Keramat,7630
+2022-12-01,W.P. Kuala Lumpur,Mini UTC Keramat,8610
+2023-01-01,W.P. Kuala Lumpur,Mini UTC Keramat,7851
+2023-02-01,W.P. Kuala Lumpur,Mini UTC Keramat,8158
+2023-03-01,W.P. Kuala Lumpur,Mini UTC Keramat,8180
+2023-04-01,W.P. Kuala Lumpur,Mini UTC Keramat,7297
+2023-05-01,W.P. Kuala Lumpur,Mini UTC Keramat,8440
+2023-06-01,W.P. Kuala Lumpur,Mini UTC Keramat,8388
+2023-07-01,W.P. Kuala Lumpur,Mini UTC Keramat,9285
+2023-08-01,W.P. Kuala Lumpur,Mini UTC Keramat,9043
+2023-09-01,W.P. Kuala Lumpur,Mini UTC Keramat,8428
+2023-10-01,W.P. Kuala Lumpur,Mini UTC Keramat,8676
+2023-11-01,W.P. Kuala Lumpur,Mini UTC Keramat,7228
+2023-12-01,W.P. Kuala Lumpur,Mini UTC Keramat,8296
+2024-01-01,W.P. Kuala Lumpur,Mini UTC Keramat,8185
+2024-02-01,W.P. Kuala Lumpur,Mini UTC Keramat,5892
+2024-03-01,W.P. Kuala Lumpur,Mini UTC Keramat,7383
+2024-04-01,W.P. Kuala Lumpur,Mini UTC Keramat,6753
+2024-05-01,W.P. Kuala Lumpur,Mini UTC Keramat,7300
+2024-06-01,W.P. Kuala Lumpur,Mini UTC Keramat,6481
+2024-07-01,W.P. Kuala Lumpur,Mini UTC Keramat,7046
+2024-08-01,W.P. Kuala Lumpur,Mini UTC Keramat,7462
+2024-09-01,W.P. Kuala Lumpur,Mini UTC Keramat,7269
+2024-10-01,W.P. Kuala Lumpur,Mini UTC Keramat,6575
+2020-01-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,5651
+2020-02-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,
+2020-03-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,2080
+2020-04-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,0
+2020-05-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,0
+2020-06-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,215
+2020-07-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,795
+2020-08-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,748
+2020-09-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,664
+2020-10-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,220
+2020-11-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,0
+2020-12-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,654
+2021-01-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,360
+2021-02-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,0
+2021-03-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,843
+2021-04-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,833
+2021-05-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,124
+2021-06-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,0
+2021-07-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,33
+2021-08-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,259
+2021-09-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,736
+2021-10-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,1865
+2021-11-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,2322
+2021-12-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,2255
+2022-01-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,1885
+2022-02-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,1857
+2022-03-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,2883
+2022-04-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,5053
+2022-05-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,6245
+2022-06-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,7802
+2022-07-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,6956
+2022-08-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8673
+2022-09-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,10065
+2022-10-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8768
+2022-11-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9225
+2022-12-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,11122
+2023-01-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9944
+2023-02-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9661
+2023-03-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9996
+2023-04-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8290
+2023-05-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8941
+2023-06-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8199
+2023-07-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8713
+2023-08-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8296
+2023-09-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,7975
+2023-10-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8712
+2023-11-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8407
+2023-12-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9209
+2024-01-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9472
+2024-02-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8584
+2024-03-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,5190
+2024-04-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,4061
+2024-05-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9142
+2024-06-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,8684
+2024-07-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9134
+2024-08-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9273
+2024-09-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9736
+2024-10-01,W.P. Kuala Lumpur,UTC Kuala Lumpur,9336
+2020-01-01,W.P. Kuala Lumpur,UTC Sentul,5641
+2020-02-01,W.P. Kuala Lumpur,UTC Sentul,
+2020-03-01,W.P. Kuala Lumpur,UTC Sentul,1396
+2020-04-01,W.P. Kuala Lumpur,UTC Sentul,0
+2020-05-01,W.P. Kuala Lumpur,UTC Sentul,0
+2020-06-01,W.P. Kuala Lumpur,UTC Sentul,227
+2020-07-01,W.P. Kuala Lumpur,UTC Sentul,671
+2020-08-01,W.P. Kuala Lumpur,UTC Sentul,542
+2020-09-01,W.P. Kuala Lumpur,UTC Sentul,488
+2020-10-01,W.P. Kuala Lumpur,UTC Sentul,136
+2020-11-01,W.P. Kuala Lumpur,UTC Sentul,0
+2020-12-01,W.P. Kuala Lumpur,UTC Sentul,325
+2021-01-01,W.P. Kuala Lumpur,UTC Sentul,232
+2021-02-01,W.P. Kuala Lumpur,UTC Sentul,0
+2021-03-01,W.P. Kuala Lumpur,UTC Sentul,462
+2021-04-01,W.P. Kuala Lumpur,UTC Sentul,514
+2021-05-01,W.P. Kuala Lumpur,UTC Sentul,7
+2021-06-01,W.P. Kuala Lumpur,UTC Sentul,0
+2021-07-01,W.P. Kuala Lumpur,UTC Sentul,45
+2021-08-01,W.P. Kuala Lumpur,UTC Sentul,480
+2021-09-01,W.P. Kuala Lumpur,UTC Sentul,575
+2021-10-01,W.P. Kuala Lumpur,UTC Sentul,1572
+2021-11-01,W.P. Kuala Lumpur,UTC Sentul,1865
+2021-12-01,W.P. Kuala Lumpur,UTC Sentul,1749
+2022-01-01,W.P. Kuala Lumpur,UTC Sentul,1418
+2022-02-01,W.P. Kuala Lumpur,UTC Sentul,1862
+2022-03-01,W.P. Kuala Lumpur,UTC Sentul,2433
+2022-04-01,W.P. Kuala Lumpur,UTC Sentul,3721
+2022-05-01,W.P. Kuala Lumpur,UTC Sentul,5873
+2022-06-01,W.P. Kuala Lumpur,UTC Sentul,9207
+2022-07-01,W.P. Kuala Lumpur,UTC Sentul,8050
+2022-08-01,W.P. Kuala Lumpur,UTC Sentul,9188
+2022-09-01,W.P. Kuala Lumpur,UTC Sentul,9171
+2022-10-01,W.P. Kuala Lumpur,UTC Sentul,8538
+2022-11-01,W.P. Kuala Lumpur,UTC Sentul,7041
+2022-12-01,W.P. Kuala Lumpur,UTC Sentul,7673
+2023-01-01,W.P. Kuala Lumpur,UTC Sentul,7592
+2023-02-01,W.P. Kuala Lumpur,UTC Sentul,8336
+2023-03-01,W.P. Kuala Lumpur,UTC Sentul,7655
+2023-04-01,W.P. Kuala Lumpur,UTC Sentul,6138
+2023-05-01,W.P. Kuala Lumpur,UTC Sentul,7441
+2023-06-01,W.P. Kuala Lumpur,UTC Sentul,6765
+2023-07-01,W.P. Kuala Lumpur,UTC Sentul,7373
+2023-08-01,W.P. Kuala Lumpur,UTC Sentul,7306
+2023-09-01,W.P. Kuala Lumpur,UTC Sentul,6795
+2023-10-01,W.P. Kuala Lumpur,UTC Sentul,7222
+2023-11-01,W.P. Kuala Lumpur,UTC Sentul,6842
+2023-12-01,W.P. Kuala Lumpur,UTC Sentul,7944
+2024-01-01,W.P. Kuala Lumpur,UTC Sentul,8081
+2024-02-01,W.P. Kuala Lumpur,UTC Sentul,7011
+2024-03-01,W.P. Kuala Lumpur,UTC Sentul,7659
+2024-04-01,W.P. Kuala Lumpur,UTC Sentul,6828
+2024-05-01,W.P. Kuala Lumpur,UTC Sentul,7009
+2024-06-01,W.P. Kuala Lumpur,UTC Sentul,6487
+2024-07-01,W.P. Kuala Lumpur,UTC Sentul,6593
+2024-08-01,W.P. Kuala Lumpur,UTC Sentul,6764
+2024-09-01,W.P. Kuala Lumpur,UTC Sentul,6589
+2024-10-01,W.P. Kuala Lumpur,UTC Sentul,6337
+2020-01-01,W.P. Kuala Lumpur,Wangsa Maju,3116
+2020-02-01,W.P. Kuala Lumpur,Wangsa Maju,
+2020-03-01,W.P. Kuala Lumpur,Wangsa Maju,470
+2020-04-01,W.P. Kuala Lumpur,Wangsa Maju,0
+2020-05-01,W.P. Kuala Lumpur,Wangsa Maju,0
+2020-06-01,W.P. Kuala Lumpur,Wangsa Maju,58
+2020-07-01,W.P. Kuala Lumpur,Wangsa Maju,174
+2020-08-01,W.P. Kuala Lumpur,Wangsa Maju,156
+2020-09-01,W.P. Kuala Lumpur,Wangsa Maju,127
+2020-10-01,W.P. Kuala Lumpur,Wangsa Maju,37
+2020-11-01,W.P. Kuala Lumpur,Wangsa Maju,0
+2020-12-01,W.P. Kuala Lumpur,Wangsa Maju,233
+2021-01-01,W.P. Kuala Lumpur,Wangsa Maju,304
+2021-02-01,W.P. Kuala Lumpur,Wangsa Maju,564
+2021-03-01,W.P. Kuala Lumpur,Wangsa Maju,421
+2021-04-01,W.P. Kuala Lumpur,Wangsa Maju,207
+2021-05-01,W.P. Kuala Lumpur,Wangsa Maju,320
+2021-06-01,W.P. Kuala Lumpur,Wangsa Maju,199
+2021-07-01,W.P. Kuala Lumpur,Wangsa Maju,423
+2021-08-01,W.P. Kuala Lumpur,Wangsa Maju,266
+2021-09-01,W.P. Kuala Lumpur,Wangsa Maju,459
+2021-10-01,W.P. Kuala Lumpur,Wangsa Maju,924
+2021-11-01,W.P. Kuala Lumpur,Wangsa Maju,1256
+2021-12-01,W.P. Kuala Lumpur,Wangsa Maju,1024
+2022-01-01,W.P. Kuala Lumpur,Wangsa Maju,667
+2022-02-01,W.P. Kuala Lumpur,Wangsa Maju,1107
+2022-03-01,W.P. Kuala Lumpur,Wangsa Maju,2375
+2022-04-01,W.P. Kuala Lumpur,Wangsa Maju,3220
+2022-05-01,W.P. Kuala Lumpur,Wangsa Maju,4534
+2022-06-01,W.P. Kuala Lumpur,Wangsa Maju,5564
+2022-07-01,W.P. Kuala Lumpur,Wangsa Maju,4512
+2022-08-01,W.P. Kuala Lumpur,Wangsa Maju,5408
+2022-09-01,W.P. Kuala Lumpur,Wangsa Maju,5086
+2022-10-01,W.P. Kuala Lumpur,Wangsa Maju,4926
+2022-11-01,W.P. Kuala Lumpur,Wangsa Maju,4838
+2022-12-01,W.P. Kuala Lumpur,Wangsa Maju,5920
+2023-01-01,W.P. Kuala Lumpur,Wangsa Maju,5477
+2023-02-01,W.P. Kuala Lumpur,Wangsa Maju,5400
+2023-03-01,W.P. Kuala Lumpur,Wangsa Maju,5460
+2023-04-01,W.P. Kuala Lumpur,Wangsa Maju,4389
+2023-05-01,W.P. Kuala Lumpur,Wangsa Maju,5332
+2023-06-01,W.P. Kuala Lumpur,Wangsa Maju,3568
+2023-07-01,W.P. Kuala Lumpur,Wangsa Maju,3769
+2023-08-01,W.P. Kuala Lumpur,Wangsa Maju,3951
+2023-09-01,W.P. Kuala Lumpur,Wangsa Maju,3558
+2023-10-01,W.P. Kuala Lumpur,Wangsa Maju,3761
+2023-11-01,W.P. Kuala Lumpur,Wangsa Maju,3765
+2023-12-01,W.P. Kuala Lumpur,Wangsa Maju,4691
+2024-01-01,W.P. Kuala Lumpur,Wangsa Maju,4566
+2024-02-01,W.P. Kuala Lumpur,Wangsa Maju,4181
+2024-03-01,W.P. Kuala Lumpur,Wangsa Maju,3379
+2024-04-01,W.P. Kuala Lumpur,Wangsa Maju,3082
+2024-05-01,W.P. Kuala Lumpur,Wangsa Maju,3234
+2024-06-01,W.P. Kuala Lumpur,Wangsa Maju,2836
+2024-07-01,W.P. Kuala Lumpur,Wangsa Maju,3016
+2024-08-01,W.P. Kuala Lumpur,Wangsa Maju,2995
+2024-09-01,W.P. Kuala Lumpur,Wangsa Maju,3413
+2024-10-01,W.P. Kuala Lumpur,Wangsa Maju,3035
+2020-01-01,W.P. Labuan,UTC Labuan,507
+2020-02-01,W.P. Labuan,UTC Labuan,
+2020-03-01,W.P. Labuan,UTC Labuan,113
+2020-04-01,W.P. Labuan,UTC Labuan,0
+2020-05-01,W.P. Labuan,UTC Labuan,33
+2020-06-01,W.P. Labuan,UTC Labuan,109
+2020-07-01,W.P. Labuan,UTC Labuan,131
+2020-08-01,W.P. Labuan,UTC Labuan,67
+2020-09-01,W.P. Labuan,UTC Labuan,99
+2020-10-01,W.P. Labuan,UTC Labuan,47
+2020-11-01,W.P. Labuan,UTC Labuan,32
+2020-12-01,W.P. Labuan,UTC Labuan,81
+2021-01-01,W.P. Labuan,UTC Labuan,57
+2021-02-01,W.P. Labuan,UTC Labuan,110
+2021-03-01,W.P. Labuan,UTC Labuan,113
+2021-04-01,W.P. Labuan,UTC Labuan,100
+2021-05-01,W.P. Labuan,UTC Labuan,44
+2021-06-01,W.P. Labuan,UTC Labuan,15
+2021-07-01,W.P. Labuan,UTC Labuan,88
+2021-08-01,W.P. Labuan,UTC Labuan,94
+2021-09-01,W.P. Labuan,UTC Labuan,84
+2021-10-01,W.P. Labuan,UTC Labuan,143
+2021-11-01,W.P. Labuan,UTC Labuan,184
+2021-12-01,W.P. Labuan,UTC Labuan,190
+2022-01-01,W.P. Labuan,UTC Labuan,162
+2022-02-01,W.P. Labuan,UTC Labuan,119
+2022-03-01,W.P. Labuan,UTC Labuan,215
+2022-04-01,W.P. Labuan,UTC Labuan,324
+2022-05-01,W.P. Labuan,UTC Labuan,423
+2022-06-01,W.P. Labuan,UTC Labuan,520
+2022-07-01,W.P. Labuan,UTC Labuan,352
+2022-08-01,W.P. Labuan,UTC Labuan,494
+2022-09-01,W.P. Labuan,UTC Labuan,557
+2022-10-01,W.P. Labuan,UTC Labuan,550
+2022-11-01,W.P. Labuan,UTC Labuan,485
+2022-12-01,W.P. Labuan,UTC Labuan,690
+2023-01-01,W.P. Labuan,UTC Labuan,673
+2023-02-01,W.P. Labuan,UTC Labuan,627
+2023-03-01,W.P. Labuan,UTC Labuan,495
+2023-04-01,W.P. Labuan,UTC Labuan,540
+2023-05-01,W.P. Labuan,UTC Labuan,659
+2023-06-01,W.P. Labuan,UTC Labuan,455
+2023-07-01,W.P. Labuan,UTC Labuan,521
+2023-08-01,W.P. Labuan,UTC Labuan,551
+2023-09-01,W.P. Labuan,UTC Labuan,529
+2023-10-01,W.P. Labuan,UTC Labuan,455
+2023-11-01,W.P. Labuan,UTC Labuan,467
+2023-12-01,W.P. Labuan,UTC Labuan,550
+2024-01-01,W.P. Labuan,UTC Labuan,639
+2024-02-01,W.P. Labuan,UTC Labuan,603
+2024-03-01,W.P. Labuan,UTC Labuan,435
+2024-04-01,W.P. Labuan,UTC Labuan,518
+2024-05-01,W.P. Labuan,UTC Labuan,529
+2024-06-01,W.P. Labuan,UTC Labuan,455
+2024-07-01,W.P. Labuan,UTC Labuan,521
+2024-08-01,W.P. Labuan,UTC Labuan,502
+2024-09-01,W.P. Labuan,UTC Labuan,548
+2024-10-01,W.P. Labuan,UTC Labuan,515
+2020-01-01,W.P. Putrajaya,Putrajaya,7540
+2020-02-01,W.P. Putrajaya,Putrajaya,
+2020-03-01,W.P. Putrajaya,Putrajaya,1763
+2020-04-01,W.P. Putrajaya,Putrajaya,386
+2020-05-01,W.P. Putrajaya,Putrajaya,748
+2020-06-01,W.P. Putrajaya,Putrajaya,916
+2020-07-01,W.P. Putrajaya,Putrajaya,1282
+2020-08-01,W.P. Putrajaya,Putrajaya,1674
+2020-09-01,W.P. Putrajaya,Putrajaya,2366
+2020-10-01,W.P. Putrajaya,Putrajaya,2182
+2020-11-01,W.P. Putrajaya,Putrajaya,2067
+2020-12-01,W.P. Putrajaya,Putrajaya,1965
+2021-01-01,W.P. Putrajaya,Putrajaya,1908
+2021-02-01,W.P. Putrajaya,Putrajaya,2021
+2021-03-01,W.P. Putrajaya,Putrajaya,2853
+2021-04-01,W.P. Putrajaya,Putrajaya,3310
+2021-05-01,W.P. Putrajaya,Putrajaya,3121
+2021-06-01,W.P. Putrajaya,Putrajaya,2600
+2021-07-01,W.P. Putrajaya,Putrajaya,2414
+2021-08-01,W.P. Putrajaya,Putrajaya,2872
+2021-09-01,W.P. Putrajaya,Putrajaya,3018
+2021-10-01,W.P. Putrajaya,Putrajaya,4490
+2021-11-01,W.P. Putrajaya,Putrajaya,4914
+2021-12-01,W.P. Putrajaya,Putrajaya,4810
+2022-01-01,W.P. Putrajaya,Putrajaya,4347
+2022-02-01,W.P. Putrajaya,Putrajaya,3649
+2022-03-01,W.P. Putrajaya,Putrajaya,6809
+2022-04-01,W.P. Putrajaya,Putrajaya,7857
+2022-05-01,W.P. Putrajaya,Putrajaya,11684
+2022-06-01,W.P. Putrajaya,Putrajaya,13813
+2022-07-01,W.P. Putrajaya,Putrajaya,13263
+2022-08-01,W.P. Putrajaya,Putrajaya,13738
+2022-09-01,W.P. Putrajaya,Putrajaya,13054
+2022-10-01,W.P. Putrajaya,Putrajaya,13095
+2022-11-01,W.P. Putrajaya,Putrajaya,12481
+2022-12-01,W.P. Putrajaya,Putrajaya,15371
+2023-01-01,W.P. Putrajaya,Putrajaya,12354
+2023-02-01,W.P. Putrajaya,Putrajaya,12062
+2023-03-01,W.P. Putrajaya,Putrajaya,12415
+2023-04-01,W.P. Putrajaya,Putrajaya,10088
+2023-05-01,W.P. Putrajaya,Putrajaya,11526
+2023-06-01,W.P. Putrajaya,Putrajaya,9962
+2023-07-01,W.P. Putrajaya,Putrajaya,9823
+2023-08-01,W.P. Putrajaya,Putrajaya,9881
+2023-09-01,W.P. Putrajaya,Putrajaya,9334
+2023-10-01,W.P. Putrajaya,Putrajaya,9660
+2023-11-01,W.P. Putrajaya,Putrajaya,9322
+2023-12-01,W.P. Putrajaya,Putrajaya,9330
+2024-01-01,W.P. Putrajaya,Putrajaya,9320
+2024-02-01,W.P. Putrajaya,Putrajaya,6732
+2024-03-01,W.P. Putrajaya,Putrajaya,5518
+2024-04-01,W.P. Putrajaya,Putrajaya,5596
+2024-05-01,W.P. Putrajaya,Putrajaya,5709
+2024-06-01,W.P. Putrajaya,Putrajaya,5898
+2024-07-01,W.P. Putrajaya,Putrajaya,6587
+2024-08-01,W.P. Putrajaya,Putrajaya,6257
+2024-09-01,W.P. Putrajaya,Putrajaya,6680
+2024-10-01,W.P. Putrajaya,Putrajaya,6748
+2020-01-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-02-01,W.P. Putrajaya,Shaftsbury Putrajaya,
+2020-03-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-04-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-05-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-06-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-07-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-08-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-09-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-10-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-11-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2020-12-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-01-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-02-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-03-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-04-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-05-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-06-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-07-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-08-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-09-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-10-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-11-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2021-12-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-01-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-02-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-03-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-04-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-05-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-06-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-07-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-08-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-09-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-10-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-11-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2022-12-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-01-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-02-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-03-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-04-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-05-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-06-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-07-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-08-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-09-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-10-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-11-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2023-12-01,W.P. Putrajaya,Shaftsbury Putrajaya,0
+2024-01-01,W.P. Putrajaya,Shaftsbury Putrajaya,1242
+2024-02-01,W.P. Putrajaya,Shaftsbury Putrajaya,2905
+2024-03-01,W.P. Putrajaya,Shaftsbury Putrajaya,2373
+2024-04-01,W.P. Putrajaya,Shaftsbury Putrajaya,2630
+2024-05-01,W.P. Putrajaya,Shaftsbury Putrajaya,3266
+2024-06-01,W.P. Putrajaya,Shaftsbury Putrajaya,2735
+2024-07-01,W.P. Putrajaya,Shaftsbury Putrajaya,2928
+2024-08-01,W.P. Putrajaya,Shaftsbury Putrajaya,3027
+2024-09-01,W.P. Putrajaya,Shaftsbury Putrajaya,2940
+2024-10-01,W.P. Putrajaya,Shaftsbury Putrajaya,2627

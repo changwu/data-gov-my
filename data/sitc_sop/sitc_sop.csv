@@ -1,0 +1,30 @@
+digits,code,desc_en,desc_bm
+1,1,Crude materials for futher processing,Bahan mentah untuk diproseskan selanjutnya
+2,1.1,Foodstuffs and feedstuffs,Bahan makanan dan makanan untuk binatang
+2,1.2,Non-food materials,Bahan bukan makanan
+3,1.2.1,Non-food materials except fuel,Bahan bukan makanan kecuali bahan api
+3,1.2.2,Crude fuel,Bahan api mentah
+1,2,"Intermediate materials, supplies and components","Bahan perantaraan, bekalan dan komponen"
+2,2.1,Materials and components for manufacturing,Bahan dan komponen untuk pembuatan
+3,2.1.1,Materials for food manufacturing,Bahan untuk pembuatan makanan
+3,2.1.2,Materials for other manufacturing,Bahan untuk pembuatan lain
+2,2.2,Materials and components for construction,Bahan dan komponen untuk pembinaan
+2,2.3,Processed fuel and lubricants,Bahan api yang diproses dan pelincir
+2,2.4,Containers,Bekas
+2,2.5,Supplies,Bekalan
+3,2.5.1,Manufacturing industries,Industri pembuatan
+3,2.5.2,Non-manufacturing industries,Industri bukan pembuatan
+4,2.5.2.1,Feeds,Makanan binatang
+4,2.5.2.2,Other supplies,Bekalan lain
+1,3,Finished goods,Barang siap
+2,3.1,Finished consumer goods,Barangan pengguna siap
+3,3.1.1,Finished consumer foods,Makanan pengguna siap
+4,3.1.1.1,Crude,Mentah
+4,3.1.1.2,Processed,Diproses
+3,3.1.2,"Finished consumer goods, excluding foods",Barangan pengguna siap kecuali makanan
+4,3.1.2.1,Durable,Tahan lama
+4,3.1.2.2,Semi-durable,Semi-tahan lama
+4,3.1.2.3,Non-durable,Tidak tahan lama
+2,3.2,Capital equipment,Kelengkapan modal
+3,3.2.1,Manufacturing industries,Industri pembuatan
+3,3.2.2,Non-manufacturing industries,Industri bukan pembuatan

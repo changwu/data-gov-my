@@ -1,0 +1,4412 @@
+date,state,branch,category,cases
+2019-01-01,Johor,Johor,Jenayah,14
+2019-01-01,Johor,Johor,Sivil,168
+2019-01-01,Johor,Johor,Syariah,178
+2019-01-01,Johor,Muar,Sivil,37
+2019-01-01,Johor,Muar,Syariah,62
+2019-01-01,Kedah,Kedah,Sivil,29
+2019-01-01,Kedah,Kedah,Syariah,134
+2019-01-01,Kedah,Langkawi,Jenayah,3
+2019-01-01,Kedah,Langkawi,Sivil,7
+2019-01-01,Kedah,Langkawi,Syariah,21
+2019-01-01,Kelantan,Gua Musang,Jenayah,3
+2019-01-01,Kelantan,Gua Musang,Sivil,1
+2019-01-01,Kelantan,Gua Musang,Syariah,12
+2019-01-01,Kelantan,Kelantan,Jenayah,19
+2019-01-01,Kelantan,Kelantan,Sivil,21
+2019-01-01,Kelantan,Kelantan,Syariah,173
+2019-01-01,Melaka,Melaka,Jenayah,5
+2019-01-01,Melaka,Melaka,Sivil,49
+2019-01-01,Melaka,Melaka,Syariah,94
+2019-01-01,Negeri Sembilan,Negeri Sembilan,Jenayah,2
+2019-01-01,Negeri Sembilan,Negeri Sembilan,Sivil,30
+2019-01-01,Negeri Sembilan,Negeri Sembilan,Syariah,34
+2019-01-01,Pahang,Pahang,Jenayah,3
+2019-01-01,Pahang,Pahang,Sivil,24
+2019-01-01,Pahang,Pahang,Syariah,69
+2019-01-01,Pahang,Raub,Sivil,13
+2019-01-01,Pahang,Raub,Syariah,18
+2019-01-01,Perak,Perak,Jenayah,8
+2019-01-01,Perak,Perak,Sivil,102
+2019-01-01,Perak,Perak,Syariah,51
+2019-01-01,Perak,Taiping,Jenayah,2
+2019-01-01,Perak,Taiping,Sivil,13
+2019-01-01,Perak,Taiping,Syariah,16
+2019-01-01,Perlis,Perlis,Jenayah,1
+2019-01-01,Perlis,Perlis,Sivil,33
+2019-01-01,Perlis,Perlis,Syariah,33
+2019-01-01,Pulau Pinang,Pulau Pinang,Jenayah,2
+2019-01-01,Pulau Pinang,Pulau Pinang,Sivil,43
+2019-01-01,Pulau Pinang,Pulau Pinang,Syariah,50
+2019-01-01,Sabah,Sabah,Jenayah,7
+2019-01-01,Sabah,Sabah,Sivil,89
+2019-01-01,Sabah,Sabah,Syariah,41
+2019-01-01,Sarawak,Miri,Jenayah,2
+2019-01-01,Sarawak,Miri,Sivil,32
+2019-01-01,Sarawak,Miri,Syariah,11
+2019-01-01,Sarawak,Sarawak,Jenayah,10
+2019-01-01,Sarawak,Sarawak,Sivil,103
+2019-01-01,Sarawak,Sarawak,Syariah,62
+2019-01-01,Sarawak,Sibu,Jenayah,2
+2019-01-01,Sarawak,Sibu,Sivil,36
+2019-01-01,Sarawak,Sibu,Syariah,16
+2019-01-01,Selangor,Selangor,Jenayah,2
+2019-01-01,Selangor,Selangor,Sivil,109
+2019-01-01,Selangor,Selangor,Syariah,100
+2019-01-01,Terengganu,Terengganu,Jenayah,5
+2019-01-01,Terengganu,Terengganu,Sivil,5
+2019-01-01,Terengganu,Terengganu,Syariah,54
+2019-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,28
+2019-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,31
+2019-01-01,W.P. Labuan,Labuan,Jenayah,2
+2019-01-01,W.P. Labuan,Labuan,Sivil,13
+2019-01-01,W.P. Labuan,Labuan,Syariah,18
+2019-01-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,7
+2019-01-01,W.P. Putrajaya,Ibu Pejabat,Sivil,23
+2019-01-01,W.P. Putrajaya,Ibu Pejabat,Syariah,24
+2019-02-01,Johor,Johor,Jenayah,12
+2019-02-01,Johor,Johor,Sivil,143
+2019-02-01,Johor,Johor,Syariah,204
+2019-02-01,Johor,Muar,Jenayah,2
+2019-02-01,Johor,Muar,Sivil,27
+2019-02-01,Johor,Muar,Syariah,37
+2019-02-01,Kedah,Kedah,Jenayah,1
+2019-02-01,Kedah,Kedah,Sivil,62
+2019-02-01,Kedah,Kedah,Syariah,119
+2019-02-01,Kedah,Langkawi,Jenayah,3
+2019-02-01,Kedah,Langkawi,Sivil,7
+2019-02-01,Kedah,Langkawi,Syariah,18
+2019-02-01,Kelantan,Gua Musang,Jenayah,3
+2019-02-01,Kelantan,Gua Musang,Sivil,6
+2019-02-01,Kelantan,Gua Musang,Syariah,14
+2019-02-01,Kelantan,Kelantan,Jenayah,12
+2019-02-01,Kelantan,Kelantan,Sivil,26
+2019-02-01,Kelantan,Kelantan,Syariah,147
+2019-02-01,Melaka,Melaka,Jenayah,1
+2019-02-01,Melaka,Melaka,Sivil,28
+2019-02-01,Melaka,Melaka,Syariah,60
+2019-02-01,Negeri Sembilan,Negeri Sembilan,Jenayah,1
+2019-02-01,Negeri Sembilan,Negeri Sembilan,Sivil,44
+2019-02-01,Negeri Sembilan,Negeri Sembilan,Syariah,26
+2019-02-01,Pahang,Pahang,Jenayah,4
+2019-02-01,Pahang,Pahang,Sivil,19
+2019-02-01,Pahang,Pahang,Syariah,65
+2019-02-01,Pahang,Raub,Sivil,12
+2019-02-01,Pahang,Raub,Syariah,24
+2019-02-01,Perak,Perak,Sivil,57
+2019-02-01,Perak,Perak,Syariah,105
+2019-02-01,Perak,Taiping,Jenayah,6
+2019-02-01,Perak,Taiping,Sivil,26
+2019-02-01,Perak,Taiping,Syariah,15
+2019-02-01,Perlis,Perlis,Sivil,32
+2019-02-01,Perlis,Perlis,Syariah,18
+2019-02-01,Pulau Pinang,Pulau Pinang,Jenayah,3
+2019-02-01,Pulau Pinang,Pulau Pinang,Sivil,42
+2019-02-01,Pulau Pinang,Pulau Pinang,Syariah,41
+2019-02-01,Sabah,Sabah,Jenayah,7
+2019-02-01,Sabah,Sabah,Sivil,100
+2019-02-01,Sabah,Sabah,Syariah,43
+2019-02-01,Sarawak,Miri,Jenayah,5
+2019-02-01,Sarawak,Miri,Sivil,52
+2019-02-01,Sarawak,Miri,Syariah,16
+2019-02-01,Sarawak,Sarawak,Jenayah,5
+2019-02-01,Sarawak,Sarawak,Sivil,105
+2019-02-01,Sarawak,Sarawak,Syariah,29
+2019-02-01,Sarawak,Sibu,Jenayah,1
+2019-02-01,Sarawak,Sibu,Sivil,42
+2019-02-01,Sarawak,Sibu,Syariah,16
+2019-02-01,Selangor,Selangor,Sivil,132
+2019-02-01,Selangor,Selangor,Syariah,94
+2019-02-01,Terengganu,Terengganu,Sivil,15
+2019-02-01,Terengganu,Terengganu,Syariah,44
+2019-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,6
+2019-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,107
+2019-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,39
+2019-02-01,W.P. Labuan,Labuan,Jenayah,3
+2019-02-01,W.P. Labuan,Labuan,Sivil,10
+2019-02-01,W.P. Labuan,Labuan,Syariah,15
+2019-02-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,8
+2019-02-01,W.P. Putrajaya,Ibu Pejabat,Sivil,24
+2019-02-01,W.P. Putrajaya,Ibu Pejabat,Syariah,20
+2019-03-01,Johor,Johor,Jenayah,15
+2019-03-01,Johor,Johor,Sivil,222
+2019-03-01,Johor,Johor,Syariah,188
+2019-03-01,Johor,Muar,Jenayah,3
+2019-03-01,Johor,Muar,Sivil,33
+2019-03-01,Johor,Muar,Syariah,70
+2019-03-01,Kedah,Kedah,Jenayah,2
+2019-03-01,Kedah,Kedah,Sivil,20
+2019-03-01,Kedah,Kedah,Syariah,102
+2019-03-01,Kedah,Langkawi,Jenayah,4
+2019-03-01,Kedah,Langkawi,Sivil,12
+2019-03-01,Kedah,Langkawi,Syariah,25
+2019-03-01,Kelantan,Gua Musang,Jenayah,2
+2019-03-01,Kelantan,Gua Musang,Sivil,1
+2019-03-01,Kelantan,Gua Musang,Syariah,7
+2019-03-01,Kelantan,Kelantan,Jenayah,9
+2019-03-01,Kelantan,Kelantan,Sivil,38
+2019-03-01,Kelantan,Kelantan,Syariah,156
+2019-03-01,Melaka,Melaka,Jenayah,1
+2019-03-01,Melaka,Melaka,Sivil,24
+2019-03-01,Melaka,Melaka,Syariah,45
+2019-03-01,Negeri Sembilan,Negeri Sembilan,Sivil,24
+2019-03-01,Negeri Sembilan,Negeri Sembilan,Syariah,32
+2019-03-01,Pahang,Pahang,Jenayah,4
+2019-03-01,Pahang,Pahang,Sivil,23
+2019-03-01,Pahang,Pahang,Syariah,90
+2019-03-01,Pahang,Raub,Sivil,6
+2019-03-01,Pahang,Raub,Syariah,13
+2019-03-01,Perak,Perak,Jenayah,5
+2019-03-01,Perak,Perak,Sivil,160
+2019-03-01,Perak,Perak,Syariah,80
+2019-03-01,Perak,Taiping,Jenayah,1
+2019-03-01,Perak,Taiping,Sivil,25
+2019-03-01,Perak,Taiping,Syariah,36
+2019-03-01,Perlis,Perlis,Jenayah,4
+2019-03-01,Perlis,Perlis,Sivil,22
+2019-03-01,Perlis,Perlis,Syariah,24
+2019-03-01,Pulau Pinang,Pulau Pinang,Jenayah,2
+2019-03-01,Pulau Pinang,Pulau Pinang,Sivil,77
+2019-03-01,Pulau Pinang,Pulau Pinang,Syariah,51
+2019-03-01,Sabah,Sabah,Jenayah,13
+2019-03-01,Sabah,Sabah,Sivil,112
+2019-03-01,Sabah,Sabah,Syariah,37
+2019-03-01,Sarawak,Miri,Jenayah,1
+2019-03-01,Sarawak,Miri,Sivil,48
+2019-03-01,Sarawak,Miri,Syariah,18
+2019-03-01,Sarawak,Sarawak,Jenayah,5
+2019-03-01,Sarawak,Sarawak,Sivil,146
+2019-03-01,Sarawak,Sarawak,Syariah,45
+2019-03-01,Sarawak,Sibu,Jenayah,3
+2019-03-01,Sarawak,Sibu,Sivil,36
+2019-03-01,Sarawak,Sibu,Syariah,14
+2019-03-01,Selangor,Selangor,Jenayah,7
+2019-03-01,Selangor,Selangor,Sivil,115
+2019-03-01,Selangor,Selangor,Syariah,60
+2019-03-01,Terengganu,Terengganu,Jenayah,16
+2019-03-01,Terengganu,Terengganu,Sivil,3
+2019-03-01,Terengganu,Terengganu,Syariah,53
+2019-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,75
+2019-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,59
+2019-03-01,W.P. Labuan,Labuan,Jenayah,1
+2019-03-01,W.P. Labuan,Labuan,Sivil,9
+2019-03-01,W.P. Labuan,Labuan,Syariah,14
+2019-03-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,8
+2019-03-01,W.P. Putrajaya,Ibu Pejabat,Sivil,35
+2019-03-01,W.P. Putrajaya,Ibu Pejabat,Syariah,15
+2019-04-01,Johor,Johor,Jenayah,10
+2019-04-01,Johor,Johor,Sivil,189
+2019-04-01,Johor,Johor,Syariah,186
+2019-04-01,Johor,Muar,Jenayah,2
+2019-04-01,Johor,Muar,Sivil,75
+2019-04-01,Johor,Muar,Syariah,53
+2019-04-01,Kedah,Kedah,Jenayah,4
+2019-04-01,Kedah,Kedah,Sivil,53
+2019-04-01,Kedah,Kedah,Syariah,100
+2019-04-01,Kedah,Langkawi,Jenayah,5
+2019-04-01,Kedah,Langkawi,Sivil,7
+2019-04-01,Kedah,Langkawi,Syariah,19
+2019-04-01,Kelantan,Gua Musang,Jenayah,1
+2019-04-01,Kelantan,Gua Musang,Syariah,13
+2019-04-01,Kelantan,Kelantan,Jenayah,16
+2019-04-01,Kelantan,Kelantan,Sivil,32
+2019-04-01,Kelantan,Kelantan,Syariah,178
+2019-04-01,Melaka,Melaka,Sivil,24
+2019-04-01,Melaka,Melaka,Syariah,44
+2019-04-01,Negeri Sembilan,Negeri Sembilan,Sivil,36
+2019-04-01,Negeri Sembilan,Negeri Sembilan,Syariah,11
+2019-04-01,Pahang,Pahang,Jenayah,3
+2019-04-01,Pahang,Pahang,Sivil,31
+2019-04-01,Pahang,Pahang,Syariah,98
+2019-04-01,Pahang,Raub,Sivil,13
+2019-04-01,Pahang,Raub,Syariah,27
+2019-04-01,Perak,Perak,Jenayah,14
+2019-04-01,Perak,Perak,Sivil,148
+2019-04-01,Perak,Perak,Syariah,103
+2019-04-01,Perak,Taiping,Sivil,27
+2019-04-01,Perak,Taiping,Syariah,13
+2019-04-01,Perlis,Perlis,Jenayah,2
+2019-04-01,Perlis,Perlis,Sivil,17
+2019-04-01,Perlis,Perlis,Syariah,46
+2019-04-01,Pulau Pinang,Pulau Pinang,Jenayah,9
+2019-04-01,Pulau Pinang,Pulau Pinang,Sivil,85
+2019-04-01,Pulau Pinang,Pulau Pinang,Syariah,73
+2019-04-01,Sabah,Sabah,Jenayah,6
+2019-04-01,Sabah,Sabah,Sivil,91
+2019-04-01,Sabah,Sabah,Syariah,19
+2019-04-01,Sarawak,Miri,Jenayah,1
+2019-04-01,Sarawak,Miri,Sivil,105
+2019-04-01,Sarawak,Miri,Syariah,11
+2019-04-01,Sarawak,Sarawak,Jenayah,6
+2019-04-01,Sarawak,Sarawak,Sivil,106
+2019-04-01,Sarawak,Sarawak,Syariah,40
+2019-04-01,Sarawak,Sibu,Jenayah,1
+2019-04-01,Sarawak,Sibu,Sivil,35
+2019-04-01,Sarawak,Sibu,Syariah,17
+2019-04-01,Selangor,Selangor,Jenayah,7
+2019-04-01,Selangor,Selangor,Sivil,124
+2019-04-01,Selangor,Selangor,Syariah,92
+2019-04-01,Terengganu,Terengganu,Jenayah,12
+2019-04-01,Terengganu,Terengganu,Sivil,6
+2019-04-01,Terengganu,Terengganu,Syariah,49
+2019-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,1
+2019-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,96
+2019-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,87
+2019-04-01,W.P. Labuan,Labuan,Sivil,1
+2019-04-01,W.P. Labuan,Labuan,Syariah,14
+2019-04-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,5
+2019-04-01,W.P. Putrajaya,Ibu Pejabat,Sivil,26
+2019-04-01,W.P. Putrajaya,Ibu Pejabat,Syariah,21
+2019-05-01,Johor,Johor,Jenayah,9
+2019-05-01,Johor,Johor,Sivil,155
+2019-05-01,Johor,Johor,Syariah,82
+2019-05-01,Johor,Muar,Sivil,38
+2019-05-01,Johor,Muar,Syariah,31
+2019-05-01,Kedah,Kedah,Jenayah,5
+2019-05-01,Kedah,Kedah,Sivil,39
+2019-05-01,Kedah,Kedah,Syariah,71
+2019-05-01,Kedah,Langkawi,Jenayah,5
+2019-05-01,Kedah,Langkawi,Sivil,4
+2019-05-01,Kedah,Langkawi,Syariah,27
+2019-05-01,Kelantan,Gua Musang,Jenayah,1
+2019-05-01,Kelantan,Gua Musang,Sivil,1
+2019-05-01,Kelantan,Gua Musang,Syariah,12
+2019-05-01,Kelantan,Kelantan,Jenayah,13
+2019-05-01,Kelantan,Kelantan,Sivil,17
+2019-05-01,Kelantan,Kelantan,Syariah,117
+2019-05-01,Melaka,Melaka,Sivil,20
+2019-05-01,Melaka,Melaka,Syariah,22
+2019-05-01,Negeri Sembilan,Negeri Sembilan,Sivil,36
+2019-05-01,Negeri Sembilan,Negeri Sembilan,Syariah,20
+2019-05-01,Pahang,Pahang,Jenayah,2
+2019-05-01,Pahang,Pahang,Sivil,25
+2019-05-01,Pahang,Pahang,Syariah,73
+2019-05-01,Pahang,Raub,Sivil,1
+2019-05-01,Pahang,Raub,Syariah,15
+2019-05-01,Perak,Perak,Jenayah,1
+2019-05-01,Perak,Perak,Sivil,94
+2019-05-01,Perak,Perak,Syariah,69
+2019-05-01,Perak,Taiping,Sivil,16
+2019-05-01,Perak,Taiping,Syariah,14
+2019-05-01,Perlis,Perlis,Jenayah,4
+2019-05-01,Perlis,Perlis,Sivil,15
+2019-05-01,Perlis,Perlis,Syariah,37
+2019-05-01,Pulau Pinang,Pulau Pinang,Sivil,34
+2019-05-01,Pulau Pinang,Pulau Pinang,Syariah,28
+2019-05-01,Sabah,Sabah,Jenayah,9
+2019-05-01,Sabah,Sabah,Sivil,61
+2019-05-01,Sabah,Sabah,Syariah,38
+2019-05-01,Sarawak,Miri,Jenayah,2
+2019-05-01,Sarawak,Miri,Sivil,80
+2019-05-01,Sarawak,Miri,Syariah,18
+2019-05-01,Sarawak,Sarawak,Jenayah,8
+2019-05-01,Sarawak,Sarawak,Sivil,85
+2019-05-01,Sarawak,Sarawak,Syariah,33
+2019-05-01,Sarawak,Sibu,Jenayah,2
+2019-05-01,Sarawak,Sibu,Sivil,28
+2019-05-01,Sarawak,Sibu,Syariah,21
+2019-05-01,Selangor,Selangor,Jenayah,6
+2019-05-01,Selangor,Selangor,Sivil,118
+2019-05-01,Selangor,Selangor,Syariah,83
+2019-05-01,Terengganu,Terengganu,Jenayah,1
+2019-05-01,Terengganu,Terengganu,Sivil,4
+2019-05-01,Terengganu,Terengganu,Syariah,30
+2019-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2019-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,79
+2019-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,69
+2019-05-01,W.P. Labuan,Labuan,Jenayah,1
+2019-05-01,W.P. Labuan,Labuan,Sivil,7
+2019-05-01,W.P. Labuan,Labuan,Syariah,12
+2019-05-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,4
+2019-05-01,W.P. Putrajaya,Ibu Pejabat,Sivil,24
+2019-05-01,W.P. Putrajaya,Ibu Pejabat,Syariah,20
+2019-06-01,Johor,Johor,Jenayah,8
+2019-06-01,Johor,Johor,Sivil,158
+2019-06-01,Johor,Johor,Syariah,122
+2019-06-01,Johor,Muar,Jenayah,1
+2019-06-01,Johor,Muar,Sivil,30
+2019-06-01,Johor,Muar,Syariah,25
+2019-06-01,Kedah,Kedah,Sivil,34
+2019-06-01,Kedah,Kedah,Syariah,102
+2019-06-01,Kedah,Langkawi,Jenayah,1
+2019-06-01,Kedah,Langkawi,Sivil,9
+2019-06-01,Kedah,Langkawi,Syariah,24
+2019-06-01,Kelantan,Gua Musang,Syariah,1
+2019-06-01,Kelantan,Kelantan,Jenayah,8
+2019-06-01,Kelantan,Kelantan,Sivil,28
+2019-06-01,Kelantan,Kelantan,Syariah,140
+2019-06-01,Melaka,Melaka,Sivil,28
+2019-06-01,Melaka,Melaka,Syariah,16
+2019-06-01,Negeri Sembilan,Negeri Sembilan,Sivil,24
+2019-06-01,Negeri Sembilan,Negeri Sembilan,Syariah,11
+2019-06-01,Pahang,Pahang,Sivil,19
+2019-06-01,Pahang,Pahang,Syariah,68
+2019-06-01,Pahang,Raub,Sivil,4
+2019-06-01,Pahang,Raub,Syariah,13
+2019-06-01,Perak,Perak,Jenayah,5
+2019-06-01,Perak,Perak,Sivil,89
+2019-06-01,Perak,Perak,Syariah,50
+2019-06-01,Perak,Taiping,Sivil,16
+2019-06-01,Perak,Taiping,Syariah,19
+2019-06-01,Perlis,Perlis,Jenayah,2
+2019-06-01,Perlis,Perlis,Sivil,11
+2019-06-01,Perlis,Perlis,Syariah,34
+2019-06-01,Pulau Pinang,Pulau Pinang,Jenayah,5
+2019-06-01,Pulau Pinang,Pulau Pinang,Sivil,48
+2019-06-01,Pulau Pinang,Pulau Pinang,Syariah,36
+2019-06-01,Sabah,Sabah,Jenayah,5
+2019-06-01,Sabah,Sabah,Sivil,64
+2019-06-01,Sabah,Sabah,Syariah,32
+2019-06-01,Sarawak,Miri,Sivil,32
+2019-06-01,Sarawak,Miri,Syariah,13
+2019-06-01,Sarawak,Sarawak,Jenayah,1
+2019-06-01,Sarawak,Sarawak,Sivil,114
+2019-06-01,Sarawak,Sarawak,Syariah,41
+2019-06-01,Sarawak,Sibu,Jenayah,2
+2019-06-01,Sarawak,Sibu,Sivil,38
+2019-06-01,Sarawak,Sibu,Syariah,11
+2019-06-01,Selangor,Selangor,Jenayah,8
+2019-06-01,Selangor,Selangor,Sivil,87
+2019-06-01,Selangor,Selangor,Syariah,91
+2019-06-01,Terengganu,Terengganu,Jenayah,2
+2019-06-01,Terengganu,Terengganu,Sivil,3
+2019-06-01,Terengganu,Terengganu,Syariah,28
+2019-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,1
+2019-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,49
+2019-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,54
+2019-06-01,W.P. Labuan,Labuan,Syariah,7
+2019-06-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2019-06-01,W.P. Putrajaya,Ibu Pejabat,Sivil,22
+2019-06-01,W.P. Putrajaya,Ibu Pejabat,Syariah,12
+2019-07-01,Johor,Johor,Jenayah,19
+2019-07-01,Johor,Johor,Sivil,183
+2019-07-01,Johor,Johor,Syariah,178
+2019-07-01,Johor,Muar,Jenayah,3
+2019-07-01,Johor,Muar,Sivil,38
+2019-07-01,Johor,Muar,Syariah,45
+2019-07-01,Kedah,Kedah,Sivil,33
+2019-07-01,Kedah,Kedah,Syariah,127
+2019-07-01,Kedah,Langkawi,Jenayah,6
+2019-07-01,Kedah,Langkawi,Sivil,11
+2019-07-01,Kedah,Langkawi,Syariah,27
+2019-07-01,Kelantan,Gua Musang,Jenayah,1
+2019-07-01,Kelantan,Gua Musang,Syariah,14
+2019-07-01,Kelantan,Kelantan,Jenayah,23
+2019-07-01,Kelantan,Kelantan,Sivil,48
+2019-07-01,Kelantan,Kelantan,Syariah,173
+2019-07-01,Melaka,Melaka,Sivil,56
+2019-07-01,Melaka,Melaka,Syariah,28
+2019-07-01,Negeri Sembilan,Negeri Sembilan,Jenayah,1
+2019-07-01,Negeri Sembilan,Negeri Sembilan,Sivil,46
+2019-07-01,Negeri Sembilan,Negeri Sembilan,Syariah,13
+2019-07-01,Pahang,Pahang,Jenayah,1
+2019-07-01,Pahang,Pahang,Sivil,29
+2019-07-01,Pahang,Pahang,Syariah,101
+2019-07-01,Pahang,Raub,Sivil,8
+2019-07-01,Pahang,Raub,Syariah,25
+2019-07-01,Perak,Perak,Jenayah,12
+2019-07-01,Perak,Perak,Sivil,142
+2019-07-01,Perak,Perak,Syariah,88
+2019-07-01,Perak,Taiping,Sivil,34
+2019-07-01,Perak,Taiping,Syariah,9
+2019-07-01,Perlis,Perlis,Jenayah,6
+2019-07-01,Perlis,Perlis,Sivil,17
+2019-07-01,Perlis,Perlis,Syariah,52
+2019-07-01,Pulau Pinang,Pulau Pinang,Jenayah,4
+2019-07-01,Pulau Pinang,Pulau Pinang,Sivil,69
+2019-07-01,Pulau Pinang,Pulau Pinang,Syariah,78
+2019-07-01,Sabah,Sabah,Jenayah,9
+2019-07-01,Sabah,Sabah,Sivil,71
+2019-07-01,Sabah,Sabah,Syariah,28
+2019-07-01,Sarawak,Miri,Jenayah,2
+2019-07-01,Sarawak,Miri,Sivil,51
+2019-07-01,Sarawak,Miri,Syariah,11
+2019-07-01,Sarawak,Sarawak,Jenayah,8
+2019-07-01,Sarawak,Sarawak,Sivil,136
+2019-07-01,Sarawak,Sarawak,Syariah,49
+2019-07-01,Sarawak,Sibu,Jenayah,1
+2019-07-01,Sarawak,Sibu,Sivil,36
+2019-07-01,Sarawak,Sibu,Syariah,9
+2019-07-01,Selangor,Selangor,Jenayah,5
+2019-07-01,Selangor,Selangor,Sivil,169
+2019-07-01,Selangor,Selangor,Syariah,140
+2019-07-01,Terengganu,Terengganu,Jenayah,16
+2019-07-01,Terengganu,Terengganu,Sivil,6
+2019-07-01,Terengganu,Terengganu,Syariah,47
+2019-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2019-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,103
+2019-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,66
+2019-07-01,W.P. Labuan,Labuan,Sivil,6
+2019-07-01,W.P. Labuan,Labuan,Syariah,12
+2019-07-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,11
+2019-07-01,W.P. Putrajaya,Ibu Pejabat,Sivil,32
+2019-07-01,W.P. Putrajaya,Ibu Pejabat,Syariah,30
+2019-08-01,Johor,Johor,Jenayah,8
+2019-08-01,Johor,Johor,Sivil,155
+2019-08-01,Johor,Johor,Syariah,163
+2019-08-01,Johor,Muar,Jenayah,1
+2019-08-01,Johor,Muar,Sivil,17
+2019-08-01,Johor,Muar,Syariah,19
+2019-08-01,Kedah,Kedah,Sivil,49
+2019-08-01,Kedah,Kedah,Syariah,100
+2019-08-01,Kedah,Langkawi,Jenayah,2
+2019-08-01,Kedah,Langkawi,Sivil,6
+2019-08-01,Kedah,Langkawi,Syariah,18
+2019-08-01,Kelantan,Gua Musang,Jenayah,3
+2019-08-01,Kelantan,Gua Musang,Sivil,1
+2019-08-01,Kelantan,Gua Musang,Syariah,13
+2019-08-01,Kelantan,Kelantan,Jenayah,18
+2019-08-01,Kelantan,Kelantan,Sivil,30
+2019-08-01,Kelantan,Kelantan,Syariah,135
+2019-08-01,Melaka,Melaka,Jenayah,1
+2019-08-01,Melaka,Melaka,Sivil,27
+2019-08-01,Melaka,Melaka,Syariah,33
+2019-08-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2019-08-01,Negeri Sembilan,Negeri Sembilan,Sivil,44
+2019-08-01,Negeri Sembilan,Negeri Sembilan,Syariah,34
+2019-08-01,Pahang,Pahang,Jenayah,3
+2019-08-01,Pahang,Pahang,Sivil,17
+2019-08-01,Pahang,Pahang,Syariah,106
+2019-08-01,Pahang,Raub,Sivil,3
+2019-08-01,Pahang,Raub,Syariah,16
+2019-08-01,Perak,Perak,Jenayah,5
+2019-08-01,Perak,Perak,Sivil,190
+2019-08-01,Perak,Perak,Syariah,72
+2019-08-01,Perak,Taiping,Sivil,16
+2019-08-01,Perak,Taiping,Syariah,4
+2019-08-01,Perlis,Perlis,Jenayah,4
+2019-08-01,Perlis,Perlis,Sivil,20
+2019-08-01,Perlis,Perlis,Syariah,35
+2019-08-01,Pulau Pinang,Pulau Pinang,Jenayah,5
+2019-08-01,Pulau Pinang,Pulau Pinang,Sivil,57
+2019-08-01,Pulau Pinang,Pulau Pinang,Syariah,48
+2019-08-01,Sabah,Sabah,Jenayah,10
+2019-08-01,Sabah,Sabah,Sivil,92
+2019-08-01,Sabah,Sabah,Syariah,38
+2019-08-01,Sarawak,Miri,Jenayah,4
+2019-08-01,Sarawak,Miri,Sivil,56
+2019-08-01,Sarawak,Miri,Syariah,26
+2019-08-01,Sarawak,Sarawak,Jenayah,7
+2019-08-01,Sarawak,Sarawak,Sivil,115
+2019-08-01,Sarawak,Sarawak,Syariah,67
+2019-08-01,Sarawak,Sibu,Jenayah,1
+2019-08-01,Sarawak,Sibu,Sivil,21
+2019-08-01,Sarawak,Sibu,Syariah,6
+2019-08-01,Selangor,Selangor,Jenayah,8
+2019-08-01,Selangor,Selangor,Sivil,134
+2019-08-01,Selangor,Selangor,Syariah,120
+2019-08-01,Terengganu,Terengganu,Jenayah,28
+2019-08-01,Terengganu,Terengganu,Sivil,3
+2019-08-01,Terengganu,Terengganu,Syariah,51
+2019-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,3
+2019-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,71
+2019-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,52
+2019-08-01,W.P. Labuan,Labuan,Syariah,19
+2019-08-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,6
+2019-08-01,W.P. Putrajaya,Ibu Pejabat,Sivil,27
+2019-08-01,W.P. Putrajaya,Ibu Pejabat,Syariah,22
+2019-09-01,Johor,Johor,Jenayah,10
+2019-09-01,Johor,Johor,Sivil,184
+2019-09-01,Johor,Johor,Syariah,161
+2019-09-01,Johor,Muar,Jenayah,2
+2019-09-01,Johor,Muar,Sivil,32
+2019-09-01,Johor,Muar,Syariah,31
+2019-09-01,Kedah,Kedah,Sivil,53
+2019-09-01,Kedah,Kedah,Syariah,118
+2019-09-01,Kedah,Langkawi,Jenayah,5
+2019-09-01,Kedah,Langkawi,Sivil,6
+2019-09-01,Kedah,Langkawi,Syariah,22
+2019-09-01,Kelantan,Gua Musang,Sivil,3
+2019-09-01,Kelantan,Gua Musang,Syariah,6
+2019-09-01,Kelantan,Kelantan,Jenayah,10
+2019-09-01,Kelantan,Kelantan,Sivil,26
+2019-09-01,Kelantan,Kelantan,Syariah,106
+2019-09-01,Melaka,Melaka,Jenayah,3
+2019-09-01,Melaka,Melaka,Sivil,28
+2019-09-01,Melaka,Melaka,Syariah,26
+2019-09-01,Negeri Sembilan,Negeri Sembilan,Jenayah,1
+2019-09-01,Negeri Sembilan,Negeri Sembilan,Sivil,34
+2019-09-01,Negeri Sembilan,Negeri Sembilan,Syariah,30
+2019-09-01,Pahang,Pahang,Jenayah,3
+2019-09-01,Pahang,Pahang,Sivil,14
+2019-09-01,Pahang,Pahang,Syariah,87
+2019-09-01,Pahang,Raub,Jenayah,1
+2019-09-01,Pahang,Raub,Sivil,4
+2019-09-01,Pahang,Raub,Syariah,11
+2019-09-01,Perak,Perak,Jenayah,8
+2019-09-01,Perak,Perak,Sivil,165
+2019-09-01,Perak,Perak,Syariah,95
+2019-09-01,Perak,Taiping,Sivil,13
+2019-09-01,Perak,Taiping,Syariah,13
+2019-09-01,Perlis,Perlis,Sivil,12
+2019-09-01,Perlis,Perlis,Syariah,42
+2019-09-01,Pulau Pinang,Pulau Pinang,Jenayah,1
+2019-09-01,Pulau Pinang,Pulau Pinang,Sivil,54
+2019-09-01,Pulau Pinang,Pulau Pinang,Syariah,52
+2019-09-01,Sabah,Sabah,Jenayah,9
+2019-09-01,Sabah,Sabah,Sivil,94
+2019-09-01,Sabah,Sabah,Syariah,42
+2019-09-01,Sarawak,Miri,Jenayah,2
+2019-09-01,Sarawak,Miri,Sivil,46
+2019-09-01,Sarawak,Miri,Syariah,14
+2019-09-01,Sarawak,Sarawak,Jenayah,8
+2019-09-01,Sarawak,Sarawak,Sivil,84
+2019-09-01,Sarawak,Sarawak,Syariah,34
+2019-09-01,Sarawak,Sibu,Jenayah,1
+2019-09-01,Sarawak,Sibu,Sivil,17
+2019-09-01,Sarawak,Sibu,Syariah,16
+2019-09-01,Selangor,Selangor,Jenayah,3
+2019-09-01,Selangor,Selangor,Sivil,98
+2019-09-01,Selangor,Selangor,Syariah,69
+2019-09-01,Terengganu,Terengganu,Jenayah,1
+2019-09-01,Terengganu,Terengganu,Sivil,4
+2019-09-01,Terengganu,Terengganu,Syariah,53
+2019-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,61
+2019-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,59
+2019-09-01,W.P. Labuan,Labuan,Jenayah,3
+2019-09-01,W.P. Labuan,Labuan,Sivil,9
+2019-09-01,W.P. Labuan,Labuan,Syariah,13
+2019-09-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,4
+2019-09-01,W.P. Putrajaya,Ibu Pejabat,Sivil,35
+2019-09-01,W.P. Putrajaya,Ibu Pejabat,Syariah,27
+2019-10-01,Johor,Johor,Jenayah,6
+2019-10-01,Johor,Johor,Sivil,188
+2019-10-01,Johor,Johor,Syariah,195
+2019-10-01,Johor,Muar,Jenayah,1
+2019-10-01,Johor,Muar,Sivil,39
+2019-10-01,Johor,Muar,Syariah,38
+2019-10-01,Kedah,Kedah,Sivil,31
+2019-10-01,Kedah,Kedah,Syariah,129
+2019-10-01,Kedah,Langkawi,Jenayah,5
+2019-10-01,Kedah,Langkawi,Sivil,12
+2019-10-01,Kedah,Langkawi,Syariah,16
+2019-10-01,Kelantan,Gua Musang,Sivil,1
+2019-10-01,Kelantan,Gua Musang,Syariah,3
+2019-10-01,Kelantan,Kelantan,Jenayah,12
+2019-10-01,Kelantan,Kelantan,Sivil,32
+2019-10-01,Kelantan,Kelantan,Syariah,156
+2019-10-01,Melaka,Melaka,Jenayah,68
+2019-10-01,Melaka,Melaka,Sivil,35
+2019-10-01,Melaka,Melaka,Syariah,33
+2019-10-01,Negeri Sembilan,Negeri Sembilan,Jenayah,2
+2019-10-01,Negeri Sembilan,Negeri Sembilan,Sivil,35
+2019-10-01,Negeri Sembilan,Negeri Sembilan,Syariah,28
+2019-10-01,Pahang,Pahang,Jenayah,1
+2019-10-01,Pahang,Pahang,Sivil,30
+2019-10-01,Pahang,Pahang,Syariah,85
+2019-10-01,Pahang,Raub,Sivil,3
+2019-10-01,Pahang,Raub,Syariah,31
+2019-10-01,Perak,Perak,Jenayah,2
+2019-10-01,Perak,Perak,Sivil,144
+2019-10-01,Perak,Perak,Syariah,86
+2019-10-01,Perak,Taiping,Jenayah,2
+2019-10-01,Perak,Taiping,Sivil,18
+2019-10-01,Perak,Taiping,Syariah,19
+2019-10-01,Perlis,Perlis,Sivil,16
+2019-10-01,Perlis,Perlis,Syariah,43
+2019-10-01,Pulau Pinang,Pulau Pinang,Jenayah,3
+2019-10-01,Pulau Pinang,Pulau Pinang,Sivil,48
+2019-10-01,Pulau Pinang,Pulau Pinang,Syariah,37
+2019-10-01,Sabah,Sabah,Jenayah,10
+2019-10-01,Sabah,Sabah,Sivil,69
+2019-10-01,Sabah,Sabah,Syariah,36
+2019-10-01,Sarawak,Miri,Sivil,38
+2019-10-01,Sarawak,Miri,Syariah,15
+2019-10-01,Sarawak,Sarawak,Jenayah,10
+2019-10-01,Sarawak,Sarawak,Sivil,120
+2019-10-01,Sarawak,Sarawak,Syariah,50
+2019-10-01,Sarawak,Sibu,Sivil,35
+2019-10-01,Sarawak,Sibu,Syariah,17
+2019-10-01,Selangor,Selangor,Jenayah,4
+2019-10-01,Selangor,Selangor,Sivil,126
+2019-10-01,Selangor,Selangor,Syariah,117
+2019-10-01,Terengganu,Terengganu,Jenayah,1
+2019-10-01,Terengganu,Terengganu,Sivil,9
+2019-10-01,Terengganu,Terengganu,Syariah,54
+2019-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,1
+2019-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,70
+2019-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,63
+2019-10-01,W.P. Labuan,Labuan,Jenayah,2
+2019-10-01,W.P. Labuan,Labuan,Sivil,2
+2019-10-01,W.P. Labuan,Labuan,Syariah,15
+2019-10-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,7
+2019-10-01,W.P. Putrajaya,Ibu Pejabat,Sivil,41
+2019-10-01,W.P. Putrajaya,Ibu Pejabat,Syariah,29
+2019-11-01,Johor,Johor,Jenayah,15
+2019-11-01,Johor,Johor,Sivil,192
+2019-11-01,Johor,Johor,Syariah,172
+2019-11-01,Johor,Muar,Jenayah,3
+2019-11-01,Johor,Muar,Sivil,25
+2019-11-01,Johor,Muar,Syariah,41
+2019-11-01,Kedah,Kedah,Jenayah,7
+2019-11-01,Kedah,Kedah,Sivil,46
+2019-11-01,Kedah,Kedah,Syariah,87
+2019-11-01,Kedah,Langkawi,Jenayah,5
+2019-11-01,Kedah,Langkawi,Sivil,11
+2019-11-01,Kedah,Langkawi,Syariah,22
+2019-11-01,Kelantan,Gua Musang,Jenayah,1
+2019-11-01,Kelantan,Gua Musang,Sivil,2
+2019-11-01,Kelantan,Gua Musang,Syariah,10
+2019-11-01,Kelantan,Kelantan,Jenayah,8
+2019-11-01,Kelantan,Kelantan,Sivil,24
+2019-11-01,Kelantan,Kelantan,Syariah,128
+2019-11-01,Melaka,Melaka,Jenayah,2
+2019-11-01,Melaka,Melaka,Sivil,35
+2019-11-01,Melaka,Melaka,Syariah,31
+2019-11-01,Negeri Sembilan,Negeri Sembilan,Sivil,43
+2019-11-01,Negeri Sembilan,Negeri Sembilan,Syariah,30
+2019-11-01,Pahang,Pahang,Sivil,25
+2019-11-01,Pahang,Pahang,Syariah,104
+2019-11-01,Pahang,Raub,Jenayah,1
+2019-11-01,Pahang,Raub,Sivil,5
+2019-11-01,Pahang,Raub,Syariah,24
+2019-11-01,Perak,Perak,Jenayah,7
+2019-11-01,Perak,Perak,Sivil,177
+2019-11-01,Perak,Perak,Syariah,86
+2019-11-01,Perak,Taiping,Jenayah,3
+2019-11-01,Perak,Taiping,Sivil,28
+2019-11-01,Perak,Taiping,Syariah,17
+2019-11-01,Perlis,Perlis,Jenayah,5
+2019-11-01,Perlis,Perlis,Sivil,23
+2019-11-01,Perlis,Perlis,Syariah,32
+2019-11-01,Pulau Pinang,Pulau Pinang,Jenayah,3
+2019-11-01,Pulau Pinang,Pulau Pinang,Sivil,39
+2019-11-01,Pulau Pinang,Pulau Pinang,Syariah,44
+2019-11-01,Sabah,Sabah,Jenayah,6
+2019-11-01,Sabah,Sabah,Sivil,56
+2019-11-01,Sabah,Sabah,Syariah,5
+2019-11-01,Sarawak,Miri,Jenayah,2
+2019-11-01,Sarawak,Miri,Sivil,45
+2019-11-01,Sarawak,Miri,Syariah,22
+2019-11-01,Sarawak,Sarawak,Jenayah,8
+2019-11-01,Sarawak,Sarawak,Sivil,101
+2019-11-01,Sarawak,Sarawak,Syariah,44
+2019-11-01,Sarawak,Sibu,Jenayah,2
+2019-11-01,Sarawak,Sibu,Sivil,29
+2019-11-01,Sarawak,Sibu,Syariah,18
+2019-11-01,Selangor,Selangor,Jenayah,12
+2019-11-01,Selangor,Selangor,Sivil,150
+2019-11-01,Selangor,Selangor,Syariah,116
+2019-11-01,Terengganu,Terengganu,Jenayah,1
+2019-11-01,Terengganu,Terengganu,Sivil,7
+2019-11-01,Terengganu,Terengganu,Syariah,48
+2019-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,1
+2019-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,77
+2019-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,55
+2019-11-01,W.P. Labuan,Labuan,Syariah,17
+2019-11-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,8
+2019-11-01,W.P. Putrajaya,Ibu Pejabat,Sivil,38
+2019-11-01,W.P. Putrajaya,Ibu Pejabat,Syariah,24
+2019-12-01,Johor,Johor,Jenayah,17
+2019-12-01,Johor,Johor,Sivil,179
+2019-12-01,Johor,Johor,Syariah,195
+2019-12-01,Johor,Muar,Jenayah,4
+2019-12-01,Johor,Muar,Sivil,15
+2019-12-01,Johor,Muar,Syariah,20
+2019-12-01,Kedah,Kedah,Jenayah,14
+2019-12-01,Kedah,Kedah,Sivil,44
+2019-12-01,Kedah,Kedah,Syariah,105
+2019-12-01,Kedah,Langkawi,Jenayah,1
+2019-12-01,Kedah,Langkawi,Sivil,7
+2019-12-01,Kedah,Langkawi,Syariah,18
+2019-12-01,Kelantan,Gua Musang,Sivil,2
+2019-12-01,Kelantan,Gua Musang,Syariah,5
+2019-12-01,Kelantan,Kelantan,Jenayah,12
+2019-12-01,Kelantan,Kelantan,Sivil,25
+2019-12-01,Kelantan,Kelantan,Syariah,147
+2019-12-01,Melaka,Melaka,Jenayah,1
+2019-12-01,Melaka,Melaka,Sivil,38
+2019-12-01,Melaka,Melaka,Syariah,20
+2019-12-01,Negeri Sembilan,Negeri Sembilan,Jenayah,3
+2019-12-01,Negeri Sembilan,Negeri Sembilan,Sivil,50
+2019-12-01,Negeri Sembilan,Negeri Sembilan,Syariah,34
+2019-12-01,Pahang,Pahang,Jenayah,1
+2019-12-01,Pahang,Pahang,Sivil,23
+2019-12-01,Pahang,Pahang,Syariah,80
+2019-12-01,Pahang,Raub,Sivil,2
+2019-12-01,Pahang,Raub,Syariah,9
+2019-12-01,Perak,Perak,Jenayah,3
+2019-12-01,Perak,Perak,Sivil,26
+2019-12-01,Perak,Perak,Syariah,26
+2019-12-01,Perak,Taiping,Jenayah,3
+2019-12-01,Perak,Taiping,Sivil,33
+2019-12-01,Perak,Taiping,Syariah,8
+2019-12-01,Perlis,Perlis,Jenayah,3
+2019-12-01,Perlis,Perlis,Sivil,20
+2019-12-01,Perlis,Perlis,Syariah,24
+2019-12-01,Pulau Pinang,Pulau Pinang,Jenayah,1
+2019-12-01,Pulau Pinang,Pulau Pinang,Sivil,56
+2019-12-01,Pulau Pinang,Pulau Pinang,Syariah,37
+2019-12-01,Sabah,Sabah,Jenayah,2
+2019-12-01,Sabah,Sabah,Sivil,18
+2019-12-01,Sabah,Sabah,Syariah,23
+2019-12-01,Sarawak,Miri,Sivil,20
+2019-12-01,Sarawak,Miri,Syariah,11
+2019-12-01,Sarawak,Sarawak,Jenayah,7
+2019-12-01,Sarawak,Sarawak,Sivil,97
+2019-12-01,Sarawak,Sarawak,Syariah,29
+2019-12-01,Sarawak,Sibu,Jenayah,1
+2019-12-01,Sarawak,Sibu,Sivil,36
+2019-12-01,Sarawak,Sibu,Syariah,16
+2019-12-01,Selangor,Selangor,Jenayah,10
+2019-12-01,Selangor,Selangor,Sivil,70
+2019-12-01,Selangor,Selangor,Syariah,99
+2019-12-01,Terengganu,Terengganu,Jenayah,4
+2019-12-01,Terengganu,Terengganu,Sivil,14
+2019-12-01,Terengganu,Terengganu,Syariah,48
+2019-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2019-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,82
+2019-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,60
+2019-12-01,W.P. Labuan,Labuan,Sivil,1
+2019-12-01,W.P. Labuan,Labuan,Syariah,12
+2019-12-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,3
+2019-12-01,W.P. Putrajaya,Ibu Pejabat,Sivil,35
+2019-12-01,W.P. Putrajaya,Ibu Pejabat,Syariah,16
+2020-01-01,Johor,Johor,Jenayah,8
+2020-01-01,Johor,Johor,Sivil,132
+2020-01-01,Johor,Johor,Syariah,198
+2020-01-01,Johor,Muar,Jenayah,3
+2020-01-01,Johor,Muar,Sivil,20
+2020-01-01,Johor,Muar,Syariah,30
+2020-01-01,Kedah,Kedah,Jenayah,1
+2020-01-01,Kedah,Kedah,Sivil,39
+2020-01-01,Kedah,Kedah,Syariah,91
+2020-01-01,Kedah,Langkawi,Jenayah,7
+2020-01-01,Kedah,Langkawi,Sivil,9
+2020-01-01,Kedah,Langkawi,Syariah,19
+2020-01-01,Kelantan,Gua Musang,Sivil,2
+2020-01-01,Kelantan,Gua Musang,Syariah,14
+2020-01-01,Kelantan,Kelantan,Jenayah,10
+2020-01-01,Kelantan,Kelantan,Sivil,19
+2020-01-01,Kelantan,Kelantan,Syariah,158
+2020-01-01,Melaka,Melaka,Jenayah,3
+2020-01-01,Melaka,Melaka,Sivil,31
+2020-01-01,Melaka,Melaka,Syariah,35
+2020-01-01,Negeri Sembilan,Negeri Sembilan,Jenayah,2
+2020-01-01,Negeri Sembilan,Negeri Sembilan,Sivil,36
+2020-01-01,Negeri Sembilan,Negeri Sembilan,Syariah,36
+2020-01-01,Pahang,Pahang,Sivil,11
+2020-01-01,Pahang,Pahang,Syariah,94
+2020-01-01,Pahang,Raub,Jenayah,3
+2020-01-01,Pahang,Raub,Sivil,15
+2020-01-01,Pahang,Raub,Syariah,54
+2020-01-01,Perak,Perak,Jenayah,1
+2020-01-01,Perak,Perak,Sivil,91
+2020-01-01,Perak,Perak,Syariah,28
+2020-01-01,Perak,Taiping,Jenayah,5
+2020-01-01,Perak,Taiping,Sivil,23
+2020-01-01,Perak,Taiping,Syariah,6
+2020-01-01,Perlis,Perlis,Jenayah,8
+2020-01-01,Perlis,Perlis,Sivil,15
+2020-01-01,Perlis,Perlis,Syariah,52
+2020-01-01,Pulau Pinang,Pulau Pinang,Jenayah,2
+2020-01-01,Pulau Pinang,Pulau Pinang,Sivil,44
+2020-01-01,Pulau Pinang,Pulau Pinang,Syariah,48
+2020-01-01,Sabah,Sabah,Jenayah,9
+2020-01-01,Sabah,Sabah,Sivil,84
+2020-01-01,Sabah,Sabah,Syariah,47
+2020-01-01,Sarawak,Miri,Sivil,22
+2020-01-01,Sarawak,Miri,Syariah,17
+2020-01-01,Sarawak,Sarawak,Jenayah,3
+2020-01-01,Sarawak,Sarawak,Sivil,95
+2020-01-01,Sarawak,Sarawak,Syariah,36
+2020-01-01,Sarawak,Sibu,Sivil,43
+2020-01-01,Sarawak,Sibu,Syariah,12
+2020-01-01,Selangor,Selangor,Jenayah,10
+2020-01-01,Selangor,Selangor,Sivil,109
+2020-01-01,Selangor,Selangor,Syariah,99
+2020-01-01,Terengganu,Terengganu,Jenayah,3
+2020-01-01,Terengganu,Terengganu,Sivil,11
+2020-01-01,Terengganu,Terengganu,Syariah,38
+2020-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,9
+2020-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,67
+2020-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,66
+2020-01-01,W.P. Labuan,Labuan,Syariah,21
+2020-01-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,11
+2020-01-01,W.P. Putrajaya,Ibu Pejabat,Sivil,49
+2020-01-01,W.P. Putrajaya,Ibu Pejabat,Syariah,25
+2020-02-01,Johor,Johor,Jenayah,15
+2020-02-01,Johor,Johor,Sivil,177
+2020-02-01,Johor,Johor,Syariah,185
+2020-02-01,Johor,Muar,Jenayah,6
+2020-02-01,Johor,Muar,Sivil,42
+2020-02-01,Johor,Muar,Syariah,41
+2020-02-01,Kedah,Kedah,Jenayah,6
+2020-02-01,Kedah,Kedah,Sivil,33
+2020-02-01,Kedah,Kedah,Syariah,118
+2020-02-01,Kedah,Langkawi,Jenayah,3
+2020-02-01,Kedah,Langkawi,Sivil,6
+2020-02-01,Kedah,Langkawi,Syariah,29
+2020-02-01,Kelantan,Gua Musang,Sivil,4
+2020-02-01,Kelantan,Gua Musang,Syariah,14
+2020-02-01,Kelantan,Kelantan,Jenayah,18
+2020-02-01,Kelantan,Kelantan,Sivil,50
+2020-02-01,Kelantan,Kelantan,Syariah,165
+2020-02-01,Melaka,Melaka,Jenayah,62
+2020-02-01,Melaka,Melaka,Sivil,24
+2020-02-01,Melaka,Melaka,Syariah,21
+2020-02-01,Negeri Sembilan,Negeri Sembilan,Jenayah,2
+2020-02-01,Negeri Sembilan,Negeri Sembilan,Sivil,42
+2020-02-01,Negeri Sembilan,Negeri Sembilan,Syariah,33
+2020-02-01,Pahang,Pahang,Jenayah,1
+2020-02-01,Pahang,Pahang,Sivil,18
+2020-02-01,Pahang,Pahang,Syariah,71
+2020-02-01,Pahang,Raub,Sivil,8
+2020-02-01,Pahang,Raub,Syariah,21
+2020-02-01,Perak,Perak,Jenayah,113
+2020-02-01,Perak,Perak,Sivil,130
+2020-02-01,Perak,Perak,Syariah,67
+2020-02-01,Perak,Taiping,Jenayah,3
+2020-02-01,Perak,Taiping,Sivil,32
+2020-02-01,Perak,Taiping,Syariah,33
+2020-02-01,Perlis,Perlis,Jenayah,45
+2020-02-01,Perlis,Perlis,Sivil,26
+2020-02-01,Perlis,Perlis,Syariah,20
+2020-02-01,Pulau Pinang,Pulau Pinang,Jenayah,1
+2020-02-01,Pulau Pinang,Pulau Pinang,Sivil,52
+2020-02-01,Pulau Pinang,Pulau Pinang,Syariah,45
+2020-02-01,Sabah,Sabah,Jenayah,9
+2020-02-01,Sabah,Sabah,Sivil,84
+2020-02-01,Sabah,Sabah,Syariah,49
+2020-02-01,Sarawak,Miri,Sivil,58
+2020-02-01,Sarawak,Miri,Syariah,24
+2020-02-01,Sarawak,Sarawak,Jenayah,7
+2020-02-01,Sarawak,Sarawak,Sivil,133
+2020-02-01,Sarawak,Sarawak,Syariah,35
+2020-02-01,Sarawak,Sibu,Sivil,74
+2020-02-01,Sarawak,Sibu,Syariah,17
+2020-02-01,Selangor,Selangor,Jenayah,12
+2020-02-01,Selangor,Selangor,Sivil,137
+2020-02-01,Selangor,Selangor,Syariah,108
+2020-02-01,Terengganu,Terengganu,Jenayah,13
+2020-02-01,Terengganu,Terengganu,Sivil,8
+2020-02-01,Terengganu,Terengganu,Syariah,58
+2020-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,11
+2020-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,83
+2020-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,60
+2020-02-01,W.P. Labuan,Labuan,Syariah,14
+2020-02-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,6
+2020-02-01,W.P. Putrajaya,Ibu Pejabat,Sivil,49
+2020-02-01,W.P. Putrajaya,Ibu Pejabat,Syariah,28
+2020-03-01,Johor,Johor,Jenayah,4
+2020-03-01,Johor,Johor,Sivil,141
+2020-03-01,Johor,Johor,Syariah,117
+2020-03-01,Johor,Muar,Sivil,15
+2020-03-01,Johor,Muar,Syariah,29
+2020-03-01,Kedah,Kedah,Jenayah,3
+2020-03-01,Kedah,Kedah,Sivil,26
+2020-03-01,Kedah,Kedah,Syariah,65
+2020-03-01,Kedah,Langkawi,Sivil,8
+2020-03-01,Kedah,Langkawi,Syariah,16
+2020-03-01,Kelantan,Gua Musang,Jenayah,4
+2020-03-01,Kelantan,Gua Musang,Sivil,3
+2020-03-01,Kelantan,Gua Musang,Syariah,14
+2020-03-01,Kelantan,Kelantan,Jenayah,12
+2020-03-01,Kelantan,Kelantan,Sivil,20
+2020-03-01,Kelantan,Kelantan,Syariah,83
+2020-03-01,Melaka,Melaka,Syariah,3
+2020-03-01,Negeri Sembilan,Negeri Sembilan,Jenayah,5
+2020-03-01,Negeri Sembilan,Negeri Sembilan,Sivil,29
+2020-03-01,Negeri Sembilan,Negeri Sembilan,Syariah,10
+2020-03-01,Pahang,Pahang,Sivil,10
+2020-03-01,Pahang,Pahang,Syariah,38
+2020-03-01,Pahang,Raub,Sivil,5
+2020-03-01,Pahang,Raub,Syariah,16
+2020-03-01,Perak,Perak,Jenayah,2
+2020-03-01,Perak,Perak,Sivil,66
+2020-03-01,Perak,Perak,Syariah,49
+2020-03-01,Perak,Taiping,Sivil,17
+2020-03-01,Perak,Taiping,Syariah,9
+2020-03-01,Perlis,Perlis,Sivil,9
+2020-03-01,Perlis,Perlis,Syariah,24
+2020-03-01,Pulau Pinang,Pulau Pinang,Sivil,31
+2020-03-01,Pulau Pinang,Pulau Pinang,Syariah,20
+2020-03-01,Sabah,Sabah,Jenayah,7
+2020-03-01,Sabah,Sabah,Sivil,50
+2020-03-01,Sabah,Sabah,Syariah,18
+2020-03-01,Sarawak,Miri,Jenayah,1
+2020-03-01,Sarawak,Miri,Sivil,14
+2020-03-01,Sarawak,Miri,Syariah,6
+2020-03-01,Sarawak,Sarawak,Jenayah,3
+2020-03-01,Sarawak,Sarawak,Sivil,73
+2020-03-01,Sarawak,Sarawak,Syariah,24
+2020-03-01,Sarawak,Sibu,Sivil,21
+2020-03-01,Sarawak,Sibu,Syariah,17
+2020-03-01,Selangor,Selangor,Jenayah,6
+2020-03-01,Selangor,Selangor,Sivil,71
+2020-03-01,Selangor,Selangor,Syariah,66
+2020-03-01,Terengganu,Terengganu,Jenayah,1
+2020-03-01,Terengganu,Terengganu,Sivil,6
+2020-03-01,Terengganu,Terengganu,Syariah,30
+2020-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,1
+2020-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,37
+2020-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,25
+2020-03-01,W.P. Labuan,Labuan,Syariah,5
+2020-03-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,3
+2020-03-01,W.P. Putrajaya,Ibu Pejabat,Sivil,13
+2020-03-01,W.P. Putrajaya,Ibu Pejabat,Syariah,20
+2020-05-01,Johor,Johor,Jenayah,6
+2020-05-01,Johor,Johor,Sivil,41
+2020-05-01,Johor,Johor,Syariah,29
+2020-05-01,Johor,Muar,Jenayah,1
+2020-05-01,Johor,Muar,Sivil,7
+2020-05-01,Johor,Muar,Syariah,5
+2020-05-01,Kedah,Kedah,Sivil,21
+2020-05-01,Kedah,Kedah,Syariah,35
+2020-05-01,Kedah,Langkawi,Jenayah,1
+2020-05-01,Kedah,Langkawi,Sivil,3
+2020-05-01,Kedah,Langkawi,Syariah,8
+2020-05-01,Kelantan,Gua Musang,Sivil,1
+2020-05-01,Kelantan,Gua Musang,Syariah,6
+2020-05-01,Kelantan,Kelantan,Jenayah,3
+2020-05-01,Kelantan,Kelantan,Sivil,10
+2020-05-01,Kelantan,Kelantan,Syariah,64
+2020-05-01,Melaka,Melaka,Jenayah,1
+2020-05-01,Melaka,Melaka,Sivil,24
+2020-05-01,Melaka,Melaka,Syariah,15
+2020-05-01,Negeri Sembilan,Negeri Sembilan,Sivil,19
+2020-05-01,Negeri Sembilan,Negeri Sembilan,Syariah,3
+2020-05-01,Pahang,Pahang,Jenayah,2
+2020-05-01,Pahang,Pahang,Sivil,1
+2020-05-01,Pahang,Pahang,Syariah,9
+2020-05-01,Pahang,Raub,Syariah,1
+2020-05-01,Perak,Perak,Sivil,26
+2020-05-01,Perak,Perak,Syariah,47
+2020-05-01,Perak,Taiping,Sivil,5
+2020-05-01,Perlis,Perlis,Sivil,8
+2020-05-01,Perlis,Perlis,Syariah,8
+2020-05-01,Pulau Pinang,Pulau Pinang,Jenayah,2
+2020-05-01,Pulau Pinang,Pulau Pinang,Sivil,20
+2020-05-01,Pulau Pinang,Pulau Pinang,Syariah,11
+2020-05-01,Sabah,Sabah,Jenayah,3
+2020-05-01,Sabah,Sabah,Sivil,11
+2020-05-01,Sabah,Sabah,Syariah,6
+2020-05-01,Sarawak,Sarawak,Jenayah,1
+2020-05-01,Sarawak,Sarawak,Sivil,17
+2020-05-01,Sarawak,Sarawak,Syariah,1
+2020-05-01,Sarawak,Sibu,Sivil,3
+2020-05-01,Selangor,Selangor,Jenayah,1
+2020-05-01,Selangor,Selangor,Sivil,17
+2020-05-01,Selangor,Selangor,Syariah,16
+2020-05-01,Terengganu,Terengganu,Jenayah,3
+2020-05-01,Terengganu,Terengganu,Sivil,1
+2020-05-01,Terengganu,Terengganu,Syariah,9
+2020-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,19
+2020-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,8
+2020-05-01,W.P. Labuan,Labuan,Syariah,5
+2020-05-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2020-05-01,W.P. Putrajaya,Ibu Pejabat,Sivil,9
+2020-05-01,W.P. Putrajaya,Ibu Pejabat,Syariah,6
+2020-06-01,Johor,Johor,Jenayah,15
+2020-06-01,Johor,Johor,Sivil,90
+2020-06-01,Johor,Johor,Syariah,131
+2020-06-01,Johor,Muar,Jenayah,8
+2020-06-01,Johor,Muar,Sivil,34
+2020-06-01,Johor,Muar,Syariah,38
+2020-06-01,Kedah,Kedah,Jenayah,2
+2020-06-01,Kedah,Kedah,Sivil,27
+2020-06-01,Kedah,Kedah,Syariah,117
+2020-06-01,Kedah,Langkawi,Jenayah,3
+2020-06-01,Kedah,Langkawi,Sivil,2
+2020-06-01,Kedah,Langkawi,Syariah,34
+2020-06-01,Kelantan,Gua Musang,Jenayah,1
+2020-06-01,Kelantan,Gua Musang,Sivil,3
+2020-06-01,Kelantan,Gua Musang,Syariah,15
+2020-06-01,Kelantan,Kelantan,Jenayah,4
+2020-06-01,Kelantan,Kelantan,Sivil,21
+2020-06-01,Kelantan,Kelantan,Syariah,136
+2020-06-01,Melaka,Melaka,Jenayah,4
+2020-06-01,Melaka,Melaka,Sivil,35
+2020-06-01,Melaka,Melaka,Syariah,54
+2020-06-01,Negeri Sembilan,Negeri Sembilan,Jenayah,3
+2020-06-01,Negeri Sembilan,Negeri Sembilan,Sivil,46
+2020-06-01,Negeri Sembilan,Negeri Sembilan,Syariah,23
+2020-06-01,Pahang,Pahang,Jenayah,5
+2020-06-01,Pahang,Pahang,Sivil,15
+2020-06-01,Pahang,Pahang,Syariah,66
+2020-06-01,Pahang,Raub,Jenayah,1
+2020-06-01,Pahang,Raub,Sivil,8
+2020-06-01,Pahang,Raub,Syariah,23
+2020-06-01,Perak,Perak,Jenayah,4
+2020-06-01,Perak,Perak,Sivil,105
+2020-06-01,Perak,Perak,Syariah,102
+2020-06-01,Perak,Taiping,Jenayah,3
+2020-06-01,Perak,Taiping,Sivil,27
+2020-06-01,Perak,Taiping,Syariah,4
+2020-06-01,Perlis,Perlis,Jenayah,2
+2020-06-01,Perlis,Perlis,Sivil,27
+2020-06-01,Perlis,Perlis,Syariah,10
+2020-06-01,Pulau Pinang,Pulau Pinang,Jenayah,1
+2020-06-01,Pulau Pinang,Pulau Pinang,Sivil,64
+2020-06-01,Pulau Pinang,Pulau Pinang,Syariah,57
+2020-06-01,Sabah,Sabah,Sivil,80
+2020-06-01,Sabah,Sabah,Syariah,36
+2020-06-01,Sarawak,Miri,Jenayah,1
+2020-06-01,Sarawak,Miri,Sivil,21
+2020-06-01,Sarawak,Miri,Syariah,38
+2020-06-01,Sarawak,Sarawak,Jenayah,4
+2020-06-01,Sarawak,Sarawak,Sivil,77
+2020-06-01,Sarawak,Sarawak,Syariah,34
+2020-06-01,Sarawak,Sibu,Jenayah,1
+2020-06-01,Sarawak,Sibu,Sivil,16
+2020-06-01,Sarawak,Sibu,Syariah,21
+2020-06-01,Selangor,Selangor,Jenayah,3
+2020-06-01,Selangor,Selangor,Sivil,50
+2020-06-01,Selangor,Selangor,Syariah,71
+2020-06-01,Terengganu,Terengganu,Sivil,7
+2020-06-01,Terengganu,Terengganu,Syariah,55
+2020-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,3
+2020-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,77
+2020-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,43
+2020-06-01,W.P. Labuan,Labuan,Syariah,12
+2020-06-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,4
+2020-06-01,W.P. Putrajaya,Ibu Pejabat,Sivil,38
+2020-06-01,W.P. Putrajaya,Ibu Pejabat,Syariah,32
+2020-07-01,Johor,Johor,Jenayah,11
+2020-07-01,Johor,Johor,Sivil,138
+2020-07-01,Johor,Johor,Syariah,166
+2020-07-01,Johor,Muar,Jenayah,5
+2020-07-01,Johor,Muar,Sivil,42
+2020-07-01,Johor,Muar,Syariah,45
+2020-07-01,Kedah,Kedah,Jenayah,2
+2020-07-01,Kedah,Kedah,Sivil,30
+2020-07-01,Kedah,Kedah,Syariah,133
+2020-07-01,Kedah,Langkawi,Jenayah,6
+2020-07-01,Kedah,Langkawi,Sivil,6
+2020-07-01,Kedah,Langkawi,Syariah,17
+2020-07-01,Kelantan,Gua Musang,Jenayah,3
+2020-07-01,Kelantan,Gua Musang,Sivil,7
+2020-07-01,Kelantan,Gua Musang,Syariah,16
+2020-07-01,Kelantan,Kelantan,Jenayah,15
+2020-07-01,Kelantan,Kelantan,Sivil,49
+2020-07-01,Kelantan,Kelantan,Syariah,218
+2020-07-01,Melaka,Melaka,Jenayah,4
+2020-07-01,Melaka,Melaka,Sivil,35
+2020-07-01,Melaka,Melaka,Syariah,50
+2020-07-01,Negeri Sembilan,Negeri Sembilan,Jenayah,6
+2020-07-01,Negeri Sembilan,Negeri Sembilan,Sivil,54
+2020-07-01,Negeri Sembilan,Negeri Sembilan,Syariah,23
+2020-07-01,Pahang,Pahang,Sivil,17
+2020-07-01,Pahang,Pahang,Syariah,126
+2020-07-01,Pahang,Raub,Jenayah,1
+2020-07-01,Pahang,Raub,Sivil,11
+2020-07-01,Pahang,Raub,Syariah,15
+2020-07-01,Perak,Perak,Jenayah,11
+2020-07-01,Perak,Perak,Sivil,129
+2020-07-01,Perak,Perak,Syariah,67
+2020-07-01,Perak,Taiping,Jenayah,2
+2020-07-01,Perak,Taiping,Sivil,48
+2020-07-01,Perak,Taiping,Syariah,22
+2020-07-01,Perlis,Perlis,Jenayah,3
+2020-07-01,Perlis,Perlis,Sivil,23
+2020-07-01,Perlis,Perlis,Syariah,48
+2020-07-01,Pulau Pinang,Pulau Pinang,Jenayah,4
+2020-07-01,Pulau Pinang,Pulau Pinang,Sivil,78
+2020-07-01,Pulau Pinang,Pulau Pinang,Syariah,39
+2020-07-01,Sabah,Sabah,Jenayah,11
+2020-07-01,Sabah,Sabah,Sivil,102
+2020-07-01,Sabah,Sabah,Syariah,27
+2020-07-01,Sarawak,Miri,Jenayah,1
+2020-07-01,Sarawak,Miri,Sivil,110
+2020-07-01,Sarawak,Miri,Syariah,34
+2020-07-01,Sarawak,Sarawak,Jenayah,3
+2020-07-01,Sarawak,Sarawak,Sivil,148
+2020-07-01,Sarawak,Sarawak,Syariah,25
+2020-07-01,Sarawak,Sibu,Sivil,57
+2020-07-01,Sarawak,Sibu,Syariah,23
+2020-07-01,Selangor,Selangor,Jenayah,2
+2020-07-01,Selangor,Selangor,Sivil,210
+2020-07-01,Selangor,Selangor,Syariah,166
+2020-07-01,Terengganu,Terengganu,Jenayah,4
+2020-07-01,Terengganu,Terengganu,Sivil,4
+2020-07-01,Terengganu,Terengganu,Syariah,92
+2020-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2020-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,87
+2020-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,93
+2020-07-01,W.P. Labuan,Labuan,Syariah,13
+2020-07-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,20
+2020-07-01,W.P. Putrajaya,Ibu Pejabat,Sivil,50
+2020-07-01,W.P. Putrajaya,Ibu Pejabat,Syariah,33
+2020-08-01,Johor,Johor,Jenayah,4
+2020-08-01,Johor,Johor,Sivil,114
+2020-08-01,Johor,Johor,Syariah,144
+2020-08-01,Johor,Muar,Jenayah,5
+2020-08-01,Johor,Muar,Sivil,42
+2020-08-01,Johor,Muar,Syariah,24
+2020-08-01,Kedah,Kedah,Sivil,36
+2020-08-01,Kedah,Kedah,Syariah,76
+2020-08-01,Kedah,Langkawi,Jenayah,4
+2020-08-01,Kedah,Langkawi,Sivil,14
+2020-08-01,Kedah,Langkawi,Syariah,22
+2020-08-01,Kelantan,Gua Musang,Jenayah,3
+2020-08-01,Kelantan,Gua Musang,Sivil,1
+2020-08-01,Kelantan,Gua Musang,Syariah,14
+2020-08-01,Kelantan,Kelantan,Jenayah,13
+2020-08-01,Kelantan,Kelantan,Sivil,24
+2020-08-01,Kelantan,Kelantan,Syariah,164
+2020-08-01,Melaka,Melaka,Jenayah,4
+2020-08-01,Melaka,Melaka,Sivil,47
+2020-08-01,Melaka,Melaka,Syariah,56
+2020-08-01,Negeri Sembilan,Negeri Sembilan,Jenayah,13
+2020-08-01,Negeri Sembilan,Negeri Sembilan,Sivil,46
+2020-08-01,Negeri Sembilan,Negeri Sembilan,Syariah,29
+2020-08-01,Pahang,Pahang,Jenayah,5
+2020-08-01,Pahang,Pahang,Sivil,18
+2020-08-01,Pahang,Pahang,Syariah,64
+2020-08-01,Pahang,Raub,Jenayah,1
+2020-08-01,Pahang,Raub,Sivil,8
+2020-08-01,Pahang,Raub,Syariah,24
+2020-08-01,Perak,Perak,Jenayah,6
+2020-08-01,Perak,Perak,Sivil,163
+2020-08-01,Perak,Perak,Syariah,69
+2020-08-01,Perak,Taiping,Jenayah,3
+2020-08-01,Perak,Taiping,Sivil,26
+2020-08-01,Perak,Taiping,Syariah,16
+2020-08-01,Perlis,Perlis,Jenayah,3
+2020-08-01,Perlis,Perlis,Sivil,22
+2020-08-01,Perlis,Perlis,Syariah,28
+2020-08-01,Pulau Pinang,Pulau Pinang,Jenayah,1
+2020-08-01,Pulau Pinang,Pulau Pinang,Sivil,79
+2020-08-01,Pulau Pinang,Pulau Pinang,Syariah,45
+2020-08-01,Sabah,Sabah,Jenayah,7
+2020-08-01,Sabah,Sabah,Sivil,106
+2020-08-01,Sabah,Sabah,Syariah,27
+2020-08-01,Sarawak,Miri,Jenayah,1
+2020-08-01,Sarawak,Miri,Sivil,61
+2020-08-01,Sarawak,Miri,Syariah,22
+2020-08-01,Sarawak,Sarawak,Jenayah,9
+2020-08-01,Sarawak,Sarawak,Sivil,99
+2020-08-01,Sarawak,Sarawak,Syariah,56
+2020-08-01,Sarawak,Sibu,Sivil,38
+2020-08-01,Sarawak,Sibu,Syariah,23
+2020-08-01,Selangor,Selangor,Jenayah,21
+2020-08-01,Selangor,Selangor,Sivil,345
+2020-08-01,Selangor,Selangor,Syariah,153
+2020-08-01,Terengganu,Terengganu,Jenayah,6
+2020-08-01,Terengganu,Terengganu,Sivil,5
+2020-08-01,Terengganu,Terengganu,Syariah,82
+2020-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2020-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,78
+2020-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,67
+2020-08-01,W.P. Labuan,Labuan,Syariah,14
+2020-08-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,11
+2020-08-01,W.P. Putrajaya,Ibu Pejabat,Sivil,22
+2020-08-01,W.P. Putrajaya,Ibu Pejabat,Syariah,20
+2020-09-01,Johor,Johor,Jenayah,13
+2020-09-01,Johor,Johor,Sivil,163
+2020-09-01,Johor,Johor,Syariah,188
+2020-09-01,Johor,Muar,Jenayah,3
+2020-09-01,Johor,Muar,Sivil,49
+2020-09-01,Johor,Muar,Syariah,40
+2020-09-01,Kedah,Kedah,Sivil,11
+2020-09-01,Kedah,Kedah,Syariah,66
+2020-09-01,Kedah,Langkawi,Jenayah,2
+2020-09-01,Kedah,Langkawi,Sivil,5
+2020-09-01,Kedah,Langkawi,Syariah,14
+2020-09-01,Kelantan,Gua Musang,Jenayah,1
+2020-09-01,Kelantan,Gua Musang,Sivil,6
+2020-09-01,Kelantan,Gua Musang,Syariah,16
+2020-09-01,Kelantan,Kelantan,Jenayah,15
+2020-09-01,Kelantan,Kelantan,Sivil,32
+2020-09-01,Kelantan,Kelantan,Syariah,151
+2020-09-01,Melaka,Melaka,Jenayah,5
+2020-09-01,Melaka,Melaka,Sivil,48
+2020-09-01,Melaka,Melaka,Syariah,76
+2020-09-01,Negeri Sembilan,Negeri Sembilan,Jenayah,13
+2020-09-01,Negeri Sembilan,Negeri Sembilan,Sivil,46
+2020-09-01,Negeri Sembilan,Negeri Sembilan,Syariah,34
+2020-09-01,Pahang,Pahang,Sivil,17
+2020-09-01,Pahang,Pahang,Syariah,70
+2020-09-01,Pahang,Raub,Jenayah,2
+2020-09-01,Pahang,Raub,Sivil,3
+2020-09-01,Pahang,Raub,Syariah,15
+2020-09-01,Perak,Perak,Jenayah,66
+2020-09-01,Perak,Perak,Sivil,147
+2020-09-01,Perak,Perak,Syariah,53
+2020-09-01,Perak,Taiping,Jenayah,4
+2020-09-01,Perak,Taiping,Sivil,28
+2020-09-01,Perak,Taiping,Syariah,21
+2020-09-01,Perlis,Perlis,Jenayah,2
+2020-09-01,Perlis,Perlis,Sivil,23
+2020-09-01,Perlis,Perlis,Syariah,30
+2020-09-01,Pulau Pinang,Pulau Pinang,Sivil,56
+2020-09-01,Pulau Pinang,Pulau Pinang,Syariah,65
+2020-09-01,Sabah,Sabah,Jenayah,9
+2020-09-01,Sabah,Sabah,Sivil,84
+2020-09-01,Sabah,Sabah,Syariah,25
+2020-09-01,Sarawak,Miri,Sivil,39
+2020-09-01,Sarawak,Miri,Syariah,15
+2020-09-01,Sarawak,Sarawak,Jenayah,10
+2020-09-01,Sarawak,Sarawak,Sivil,112
+2020-09-01,Sarawak,Sarawak,Syariah,38
+2020-09-01,Sarawak,Sibu,Sivil,34
+2020-09-01,Sarawak,Sibu,Syariah,21
+2020-09-01,Selangor,Selangor,Jenayah,30
+2020-09-01,Selangor,Selangor,Sivil,383
+2020-09-01,Selangor,Selangor,Syariah,167
+2020-09-01,Terengganu,Terengganu,Jenayah,7
+2020-09-01,Terengganu,Terengganu,Sivil,4
+2020-09-01,Terengganu,Terengganu,Syariah,64
+2020-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,6
+2020-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,96
+2020-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,91
+2020-09-01,W.P. Labuan,Labuan,Syariah,6
+2020-09-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,4
+2020-09-01,W.P. Putrajaya,Ibu Pejabat,Sivil,17
+2020-09-01,W.P. Putrajaya,Ibu Pejabat,Syariah,22
+2020-10-01,Johor,Johor,Jenayah,9
+2020-10-01,Johor,Johor,Sivil,159
+2020-10-01,Johor,Johor,Syariah,215
+2020-10-01,Johor,Muar,Jenayah,6
+2020-10-01,Johor,Muar,Sivil,24
+2020-10-01,Johor,Muar,Syariah,38
+2020-10-01,Kedah,Kedah,Sivil,35
+2020-10-01,Kedah,Kedah,Syariah,124
+2020-10-01,Kedah,Langkawi,Jenayah,1
+2020-10-01,Kedah,Langkawi,Sivil,8
+2020-10-01,Kedah,Langkawi,Syariah,16
+2020-10-01,Kelantan,Gua Musang,Jenayah,2
+2020-10-01,Kelantan,Gua Musang,Sivil,3
+2020-10-01,Kelantan,Gua Musang,Syariah,17
+2020-10-01,Kelantan,Kelantan,Jenayah,5
+2020-10-01,Kelantan,Kelantan,Sivil,29
+2020-10-01,Kelantan,Kelantan,Syariah,162
+2020-10-01,Melaka,Melaka,Jenayah,4
+2020-10-01,Melaka,Melaka,Sivil,33
+2020-10-01,Melaka,Melaka,Syariah,71
+2020-10-01,Negeri Sembilan,Negeri Sembilan,Jenayah,6
+2020-10-01,Negeri Sembilan,Negeri Sembilan,Sivil,35
+2020-10-01,Negeri Sembilan,Negeri Sembilan,Syariah,28
+2020-10-01,Pahang,Pahang,Sivil,17
+2020-10-01,Pahang,Pahang,Syariah,61
+2020-10-01,Pahang,Raub,Jenayah,4
+2020-10-01,Pahang,Raub,Sivil,11
+2020-10-01,Pahang,Raub,Syariah,19
+2020-10-01,Perak,Perak,Jenayah,10
+2020-10-01,Perak,Perak,Sivil,112
+2020-10-01,Perak,Perak,Syariah,57
+2020-10-01,Perak,Taiping,Jenayah,1
+2020-10-01,Perak,Taiping,Sivil,33
+2020-10-01,Perak,Taiping,Syariah,23
+2020-10-01,Perlis,Perlis,Jenayah,5
+2020-10-01,Perlis,Perlis,Sivil,15
+2020-10-01,Perlis,Perlis,Syariah,35
+2020-10-01,Pulau Pinang,Pulau Pinang,Sivil,42
+2020-10-01,Pulau Pinang,Pulau Pinang,Syariah,40
+2020-10-01,Sarawak,Miri,Sivil,50
+2020-10-01,Sarawak,Miri,Syariah,4
+2020-10-01,Sarawak,Sarawak,Jenayah,13
+2020-10-01,Sarawak,Sarawak,Sivil,100
+2020-10-01,Sarawak,Sarawak,Syariah,31
+2020-10-01,Sarawak,Sibu,Sivil,54
+2020-10-01,Sarawak,Sibu,Syariah,13
+2020-10-01,Selangor,Selangor,Jenayah,8
+2020-10-01,Selangor,Selangor,Sivil,191
+2020-10-01,Selangor,Selangor,Syariah,88
+2020-10-01,Terengganu,Terengganu,Jenayah,5
+2020-10-01,Terengganu,Terengganu,Sivil,8
+2020-10-01,Terengganu,Terengganu,Syariah,79
+2020-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,3
+2020-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,17
+2020-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,21
+2020-10-01,W.P. Labuan,Labuan,Syariah,3
+2020-10-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2020-10-01,W.P. Putrajaya,Ibu Pejabat,Sivil,11
+2020-10-01,W.P. Putrajaya,Ibu Pejabat,Syariah,5
+2020-11-01,Johor,Johor,Jenayah,7
+2020-11-01,Johor,Johor,Sivil,80
+2020-11-01,Johor,Johor,Syariah,111
+2020-11-01,Johor,Muar,Jenayah,2
+2020-11-01,Johor,Muar,Sivil,23
+2020-11-01,Johor,Muar,Syariah,10
+2020-11-01,Kedah,Kedah,Sivil,21
+2020-11-01,Kedah,Kedah,Syariah,83
+2020-11-01,Kedah,Langkawi,Jenayah,3
+2020-11-01,Kedah,Langkawi,Sivil,9
+2020-11-01,Kedah,Langkawi,Syariah,10
+2020-11-01,Kelantan,Gua Musang,Sivil,2
+2020-11-01,Kelantan,Gua Musang,Syariah,6
+2020-11-01,Kelantan,Kelantan,Jenayah,13
+2020-11-01,Kelantan,Kelantan,Sivil,21
+2020-11-01,Kelantan,Kelantan,Syariah,103
+2020-11-01,Melaka,Melaka,Jenayah,1
+2020-11-01,Melaka,Melaka,Sivil,11
+2020-11-01,Melaka,Melaka,Syariah,23
+2020-11-01,Negeri Sembilan,Negeri Sembilan,Jenayah,2
+2020-11-01,Negeri Sembilan,Negeri Sembilan,Sivil,11
+2020-11-01,Negeri Sembilan,Negeri Sembilan,Syariah,9
+2020-11-01,Pahang,Pahang,Sivil,7
+2020-11-01,Pahang,Pahang,Syariah,61
+2020-11-01,Pahang,Raub,Jenayah,1
+2020-11-01,Pahang,Raub,Syariah,27
+2020-11-01,Perak,Perak,Jenayah,3
+2020-11-01,Perak,Perak,Sivil,47
+2020-11-01,Perak,Perak,Syariah,10
+2020-11-01,Perak,Taiping,Sivil,8
+2020-11-01,Perak,Taiping,Syariah,8
+2020-11-01,Perlis,Perlis,Jenayah,1
+2020-11-01,Perlis,Perlis,Sivil,15
+2020-11-01,Perlis,Perlis,Syariah,52
+2020-11-01,Pulau Pinang,Pulau Pinang,Sivil,14
+2020-11-01,Pulau Pinang,Pulau Pinang,Syariah,13
+2020-11-01,Sabah,Sabah,Sivil,1
+2020-11-01,Sarawak,Miri,Jenayah,2
+2020-11-01,Sarawak,Miri,Sivil,99
+2020-11-01,Sarawak,Miri,Syariah,34
+2020-11-01,Sarawak,Sarawak,Jenayah,1
+2020-11-01,Sarawak,Sarawak,Sivil,21
+2020-11-01,Sarawak,Sarawak,Syariah,20
+2020-11-01,Sarawak,Sibu,Sivil,38
+2020-11-01,Sarawak,Sibu,Syariah,16
+2020-11-01,Terengganu,Terengganu,Jenayah,2
+2020-11-01,Terengganu,Terengganu,Sivil,9
+2020-11-01,Terengganu,Terengganu,Syariah,27
+2020-11-01,W.P. Labuan,Labuan,Syariah,10
+2020-11-01,W.P. Putrajaya,Ibu Pejabat,Syariah,1
+2020-12-01,Johor,Johor,Jenayah,12
+2020-12-01,Johor,Johor,Sivil,132
+2020-12-01,Johor,Johor,Syariah,164
+2020-12-01,Johor,Muar,Jenayah,2
+2020-12-01,Johor,Muar,Sivil,10
+2020-12-01,Johor,Muar,Syariah,11
+2020-12-01,Kedah,Kedah,Jenayah,2
+2020-12-01,Kedah,Kedah,Sivil,36
+2020-12-01,Kedah,Kedah,Syariah,127
+2020-12-01,Kedah,Langkawi,Jenayah,1
+2020-12-01,Kedah,Langkawi,Sivil,2
+2020-12-01,Kedah,Langkawi,Syariah,9
+2020-12-01,Kelantan,Gua Musang,Jenayah,2
+2020-12-01,Kelantan,Gua Musang,Syariah,17
+2020-12-01,Kelantan,Kelantan,Jenayah,16
+2020-12-01,Kelantan,Kelantan,Sivil,41
+2020-12-01,Kelantan,Kelantan,Syariah,123
+2020-12-01,Melaka,Melaka,Jenayah,6
+2020-12-01,Melaka,Melaka,Sivil,39
+2020-12-01,Melaka,Melaka,Syariah,90
+2020-12-01,Negeri Sembilan,Negeri Sembilan,Jenayah,8
+2020-12-01,Negeri Sembilan,Negeri Sembilan,Sivil,15
+2020-12-01,Negeri Sembilan,Negeri Sembilan,Syariah,16
+2020-12-01,Pahang,Pahang,Jenayah,1
+2020-12-01,Pahang,Pahang,Sivil,14
+2020-12-01,Pahang,Pahang,Syariah,63
+2020-12-01,Pahang,Raub,Jenayah,1
+2020-12-01,Pahang,Raub,Sivil,6
+2020-12-01,Pahang,Raub,Syariah,14
+2020-12-01,Perak,Perak,Sivil,64
+2020-12-01,Perak,Perak,Syariah,24
+2020-12-01,Perak,Taiping,Jenayah,1
+2020-12-01,Perak,Taiping,Sivil,31
+2020-12-01,Perak,Taiping,Syariah,5
+2020-12-01,Perlis,Perlis,Jenayah,2
+2020-12-01,Perlis,Perlis,Sivil,20
+2020-12-01,Perlis,Perlis,Syariah,26
+2020-12-01,Pulau Pinang,Pulau Pinang,Jenayah,1
+2020-12-01,Pulau Pinang,Pulau Pinang,Sivil,49
+2020-12-01,Pulau Pinang,Pulau Pinang,Syariah,43
+2020-12-01,Sabah,Sabah,Jenayah,1
+2020-12-01,Sabah,Sabah,Sivil,4
+2020-12-01,Sarawak,Miri,Jenayah,5
+2020-12-01,Sarawak,Miri,Sivil,55
+2020-12-01,Sarawak,Miri,Syariah,15
+2020-12-01,Sarawak,Sarawak,Jenayah,3
+2020-12-01,Sarawak,Sarawak,Sivil,40
+2020-12-01,Sarawak,Sarawak,Syariah,21
+2020-12-01,Sarawak,Sibu,Jenayah,1
+2020-12-01,Sarawak,Sibu,Sivil,31
+2020-12-01,Sarawak,Sibu,Syariah,4
+2020-12-01,Selangor,Selangor,Jenayah,5
+2020-12-01,Selangor,Selangor,Sivil,58
+2020-12-01,Selangor,Selangor,Syariah,30
+2020-12-01,Terengganu,Terengganu,Sivil,12
+2020-12-01,Terengganu,Terengganu,Syariah,69
+2020-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2020-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,27
+2020-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,59
+2020-12-01,W.P. Labuan,Labuan,Syariah,19
+2020-12-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,5
+2020-12-01,W.P. Putrajaya,Ibu Pejabat,Sivil,29
+2020-12-01,W.P. Putrajaya,Ibu Pejabat,Syariah,20
+2021-01-01,Johor,Johor,Jenayah,2
+2021-01-01,Johor,Johor,Sivil,82
+2021-01-01,Johor,Johor,Syariah,104
+2021-01-01,Johor,Muar,Jenayah,1
+2021-01-01,Johor,Muar,Sivil,6
+2021-01-01,Johor,Muar,Syariah,12
+2021-01-01,Kedah,Kedah,Jenayah,5
+2021-01-01,Kedah,Kedah,Sivil,15
+2021-01-01,Kedah,Kedah,Syariah,69
+2021-01-01,Kedah,Langkawi,Jenayah,2
+2021-01-01,Kedah,Langkawi,Sivil,8
+2021-01-01,Kedah,Langkawi,Syariah,18
+2021-01-01,Kelantan,Gua Musang,Jenayah,2
+2021-01-01,Kelantan,Gua Musang,Sivil,1
+2021-01-01,Kelantan,Gua Musang,Syariah,8
+2021-01-01,Kelantan,Kelantan,Jenayah,22
+2021-01-01,Kelantan,Kelantan,Sivil,21
+2021-01-01,Kelantan,Kelantan,Syariah,98
+2021-01-01,Melaka,Melaka,Jenayah,3
+2021-01-01,Melaka,Melaka,Sivil,10
+2021-01-01,Melaka,Melaka,Syariah,26
+2021-01-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2021-01-01,Negeri Sembilan,Negeri Sembilan,Sivil,34
+2021-01-01,Negeri Sembilan,Negeri Sembilan,Syariah,14
+2021-01-01,Pahang,Pahang,Sivil,3
+2021-01-01,Pahang,Pahang,Syariah,38
+2021-01-01,Pahang,Raub,Sivil,6
+2021-01-01,Pahang,Raub,Syariah,14
+2021-01-01,Perak,Perak,Jenayah,4
+2021-01-01,Perak,Perak,Sivil,92
+2021-01-01,Perak,Perak,Syariah,55
+2021-01-01,Perak,Taiping,Jenayah,2
+2021-01-01,Perak,Taiping,Sivil,38
+2021-01-01,Perak,Taiping,Syariah,34
+2021-01-01,Perlis,Perlis,Jenayah,1
+2021-01-01,Perlis,Perlis,Sivil,23
+2021-01-01,Perlis,Perlis,Syariah,30
+2021-01-01,Pulau Pinang,Pulau Pinang,Jenayah,2
+2021-01-01,Pulau Pinang,Pulau Pinang,Sivil,52
+2021-01-01,Pulau Pinang,Pulau Pinang,Syariah,32
+2021-01-01,Sabah,Sabah,Jenayah,2
+2021-01-01,Sabah,Sabah,Sivil,64
+2021-01-01,Sabah,Sabah,Syariah,14
+2021-01-01,Sarawak,Miri,Jenayah,4
+2021-01-01,Sarawak,Miri,Sivil,34
+2021-01-01,Sarawak,Miri,Syariah,21
+2021-01-01,Sarawak,Sarawak,Jenayah,3
+2021-01-01,Sarawak,Sarawak,Sivil,65
+2021-01-01,Sarawak,Sarawak,Syariah,48
+2021-01-01,Sarawak,Sibu,Jenayah,1
+2021-01-01,Sarawak,Sibu,Sivil,18
+2021-01-01,Sarawak,Sibu,Syariah,17
+2021-01-01,Selangor,Selangor,Jenayah,4
+2021-01-01,Selangor,Selangor,Sivil,69
+2021-01-01,Selangor,Selangor,Syariah,33
+2021-01-01,Terengganu,Terengganu,Jenayah,1
+2021-01-01,Terengganu,Terengganu,Sivil,3
+2021-01-01,Terengganu,Terengganu,Syariah,53
+2021-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,5
+2021-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,53
+2021-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,63
+2021-01-01,W.P. Labuan,Labuan,Sivil,2
+2021-01-01,W.P. Labuan,Labuan,Syariah,9
+2021-01-01,W.P. Putrajaya,Ibu Pejabat,Sivil,18
+2021-01-01,W.P. Putrajaya,Ibu Pejabat,Syariah,6
+2021-02-01,Johor,Johor,Jenayah,10
+2021-02-01,Johor,Johor,Sivil,73
+2021-02-01,Johor,Johor,Syariah,108
+2021-02-01,Johor,Muar,Sivil,16
+2021-02-01,Johor,Muar,Syariah,16
+2021-02-01,Kedah,Kedah,Jenayah,5
+2021-02-01,Kedah,Kedah,Sivil,15
+2021-02-01,Kedah,Kedah,Syariah,42
+2021-02-01,Kedah,Langkawi,Jenayah,1
+2021-02-01,Kedah,Langkawi,Sivil,7
+2021-02-01,Kedah,Langkawi,Syariah,12
+2021-02-01,Kelantan,Gua Musang,Jenayah,2
+2021-02-01,Kelantan,Gua Musang,Sivil,3
+2021-02-01,Kelantan,Gua Musang,Syariah,11
+2021-02-01,Kelantan,Kelantan,Jenayah,9
+2021-02-01,Kelantan,Kelantan,Sivil,15
+2021-02-01,Kelantan,Kelantan,Syariah,107
+2021-02-01,Melaka,Melaka,Jenayah,7
+2021-02-01,Melaka,Melaka,Sivil,23
+2021-02-01,Melaka,Melaka,Syariah,19
+2021-02-01,Negeri Sembilan,Negeri Sembilan,Jenayah,3
+2021-02-01,Negeri Sembilan,Negeri Sembilan,Sivil,32
+2021-02-01,Negeri Sembilan,Negeri Sembilan,Syariah,30
+2021-02-01,Pahang,Pahang,Sivil,2
+2021-02-01,Pahang,Pahang,Syariah,12
+2021-02-01,Pahang,Raub,Jenayah,1
+2021-02-01,Pahang,Raub,Sivil,3
+2021-02-01,Pahang,Raub,Syariah,3
+2021-02-01,Perak,Perak,Jenayah,8
+2021-02-01,Perak,Perak,Sivil,135
+2021-02-01,Perak,Perak,Syariah,41
+2021-02-01,Perak,Taiping,Sivil,21
+2021-02-01,Perak,Taiping,Syariah,21
+2021-02-01,Perlis,Perlis,Jenayah,4
+2021-02-01,Perlis,Perlis,Sivil,25
+2021-02-01,Perlis,Perlis,Syariah,9
+2021-02-01,Pulau Pinang,Pulau Pinang,Jenayah,2
+2021-02-01,Pulau Pinang,Pulau Pinang,Sivil,32
+2021-02-01,Pulau Pinang,Pulau Pinang,Syariah,19
+2021-02-01,Sabah,Sabah,Jenayah,4
+2021-02-01,Sabah,Sabah,Sivil,38
+2021-02-01,Sabah,Sabah,Syariah,13
+2021-02-01,Sarawak,Miri,Sivil,28
+2021-02-01,Sarawak,Miri,Syariah,20
+2021-02-01,Sarawak,Sarawak,Sivil,62
+2021-02-01,Sarawak,Sarawak,Syariah,27
+2021-02-01,Sarawak,Sibu,Sivil,13
+2021-02-01,Sarawak,Sibu,Syariah,9
+2021-02-01,Selangor,Selangor,Jenayah,9
+2021-02-01,Selangor,Selangor,Sivil,164
+2021-02-01,Selangor,Selangor,Syariah,75
+2021-02-01,Terengganu,Terengganu,Jenayah,2
+2021-02-01,Terengganu,Terengganu,Syariah,21
+2021-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,5
+2021-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,64
+2021-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,96
+2021-02-01,W.P. Labuan,Labuan,Syariah,10
+2021-02-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2021-02-01,W.P. Putrajaya,Ibu Pejabat,Sivil,26
+2021-02-01,W.P. Putrajaya,Ibu Pejabat,Syariah,8
+2021-03-01,Johor,Johor,Jenayah,16
+2021-03-01,Johor,Johor,Sivil,207
+2021-03-01,Johor,Johor,Syariah,350
+2021-03-01,Johor,Muar,Jenayah,6
+2021-03-01,Johor,Muar,Sivil,27
+2021-03-01,Johor,Muar,Syariah,32
+2021-03-01,Kedah,Kedah,Sivil,21
+2021-03-01,Kedah,Kedah,Syariah,125
+2021-03-01,Kedah,Langkawi,Jenayah,3
+2021-03-01,Kedah,Langkawi,Sivil,9
+2021-03-01,Kedah,Langkawi,Syariah,34
+2021-03-01,Kelantan,Gua Musang,Jenayah,7
+2021-03-01,Kelantan,Gua Musang,Sivil,2
+2021-03-01,Kelantan,Gua Musang,Syariah,24
+2021-03-01,Kelantan,Kelantan,Jenayah,10
+2021-03-01,Kelantan,Kelantan,Sivil,35
+2021-03-01,Kelantan,Kelantan,Syariah,193
+2021-03-01,Melaka,Melaka,Jenayah,12
+2021-03-01,Melaka,Melaka,Sivil,51
+2021-03-01,Melaka,Melaka,Syariah,72
+2021-03-01,Negeri Sembilan,Negeri Sembilan,Jenayah,9
+2021-03-01,Negeri Sembilan,Negeri Sembilan,Sivil,33
+2021-03-01,Negeri Sembilan,Negeri Sembilan,Syariah,15
+2021-03-01,Pahang,Pahang,Sivil,15
+2021-03-01,Pahang,Pahang,Syariah,58
+2021-03-01,Pahang,Raub,Jenayah,1
+2021-03-01,Pahang,Raub,Sivil,10
+2021-03-01,Pahang,Raub,Syariah,23
+2021-03-01,Perak,Perak,Jenayah,6
+2021-03-01,Perak,Perak,Sivil,160
+2021-03-01,Perak,Perak,Syariah,72
+2021-03-01,Perak,Taiping,Jenayah,1
+2021-03-01,Perak,Taiping,Sivil,34
+2021-03-01,Perak,Taiping,Syariah,31
+2021-03-01,Perlis,Perlis,Jenayah,2
+2021-03-01,Perlis,Perlis,Sivil,20
+2021-03-01,Perlis,Perlis,Syariah,32
+2021-03-01,Pulau Pinang,Pulau Pinang,Jenayah,6
+2021-03-01,Pulau Pinang,Pulau Pinang,Sivil,87
+2021-03-01,Pulau Pinang,Pulau Pinang,Syariah,70
+2021-03-01,Sabah,Sabah,Jenayah,14
+2021-03-01,Sabah,Sabah,Sivil,122
+2021-03-01,Sabah,Sabah,Syariah,64
+2021-03-01,Sarawak,Miri,Jenayah,2
+2021-03-01,Sarawak,Miri,Sivil,32
+2021-03-01,Sarawak,Miri,Syariah,11
+2021-03-01,Sarawak,Sarawak,Jenayah,3
+2021-03-01,Sarawak,Sarawak,Sivil,137
+2021-03-01,Sarawak,Sarawak,Syariah,70
+2021-03-01,Sarawak,Sibu,Jenayah,1
+2021-03-01,Sarawak,Sibu,Sivil,29
+2021-03-01,Sarawak,Sibu,Syariah,17
+2021-03-01,Selangor,Selangor,Jenayah,21
+2021-03-01,Selangor,Selangor,Sivil,271
+2021-03-01,Selangor,Selangor,Syariah,145
+2021-03-01,Terengganu,Terengganu,Jenayah,2
+2021-03-01,Terengganu,Terengganu,Sivil,14
+2021-03-01,Terengganu,Terengganu,Syariah,103
+2021-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,7
+2021-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,72
+2021-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,123
+2021-03-01,W.P. Labuan,Labuan,Jenayah,1
+2021-03-01,W.P. Labuan,Labuan,Sivil,11
+2021-03-01,W.P. Labuan,Labuan,Syariah,25
+2021-03-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2021-03-01,W.P. Putrajaya,Ibu Pejabat,Sivil,41
+2021-03-01,W.P. Putrajaya,Ibu Pejabat,Syariah,20
+2021-04-01,Johor,Johor,Jenayah,5
+2021-04-01,Johor,Johor,Sivil,112
+2021-04-01,Johor,Johor,Syariah,186
+2021-04-01,Johor,Muar,Jenayah,3
+2021-04-01,Johor,Muar,Sivil,38
+2021-04-01,Johor,Muar,Syariah,49
+2021-04-01,Kedah,Kedah,Jenayah,1
+2021-04-01,Kedah,Kedah,Sivil,41
+2021-04-01,Kedah,Kedah,Syariah,123
+2021-04-01,Kedah,Langkawi,Jenayah,4
+2021-04-01,Kedah,Langkawi,Sivil,11
+2021-04-01,Kedah,Langkawi,Syariah,18
+2021-04-01,Kelantan,Gua Musang,Jenayah,4
+2021-04-01,Kelantan,Gua Musang,Sivil,3
+2021-04-01,Kelantan,Gua Musang,Syariah,23
+2021-04-01,Kelantan,Kelantan,Jenayah,6
+2021-04-01,Kelantan,Kelantan,Sivil,27
+2021-04-01,Kelantan,Kelantan,Syariah,131
+2021-04-01,Melaka,Melaka,Jenayah,5
+2021-04-01,Melaka,Melaka,Sivil,36
+2021-04-01,Melaka,Melaka,Syariah,59
+2021-04-01,Negeri Sembilan,Negeri Sembilan,Jenayah,3
+2021-04-01,Negeri Sembilan,Negeri Sembilan,Sivil,26
+2021-04-01,Negeri Sembilan,Negeri Sembilan,Syariah,28
+2021-04-01,Pahang,Pahang,Sivil,13
+2021-04-01,Pahang,Pahang,Syariah,57
+2021-04-01,Pahang,Raub,Sivil,6
+2021-04-01,Pahang,Raub,Syariah,16
+2021-04-01,Perak,Perak,Jenayah,3
+2021-04-01,Perak,Perak,Sivil,146
+2021-04-01,Perak,Perak,Syariah,59
+2021-04-01,Perak,Taiping,Jenayah,4
+2021-04-01,Perak,Taiping,Sivil,30
+2021-04-01,Perak,Taiping,Syariah,16
+2021-04-01,Perlis,Perlis,Jenayah,5
+2021-04-01,Perlis,Perlis,Sivil,17
+2021-04-01,Perlis,Perlis,Syariah,25
+2021-04-01,Pulau Pinang,Pulau Pinang,Jenayah,11
+2021-04-01,Pulau Pinang,Pulau Pinang,Sivil,68
+2021-04-01,Pulau Pinang,Pulau Pinang,Syariah,68
+2021-04-01,Sabah,Sabah,Jenayah,6
+2021-04-01,Sabah,Sabah,Sivil,99
+2021-04-01,Sabah,Sabah,Syariah,53
+2021-04-01,Sarawak,Miri,Sivil,48
+2021-04-01,Sarawak,Miri,Syariah,14
+2021-04-01,Sarawak,Sarawak,Jenayah,6
+2021-04-01,Sarawak,Sarawak,Sivil,82
+2021-04-01,Sarawak,Sarawak,Syariah,36
+2021-04-01,Sarawak,Sibu,Jenayah,1
+2021-04-01,Sarawak,Sibu,Sivil,33
+2021-04-01,Sarawak,Sibu,Syariah,13
+2021-04-01,Selangor,Selangor,Jenayah,15
+2021-04-01,Selangor,Selangor,Sivil,212
+2021-04-01,Selangor,Selangor,Syariah,200
+2021-04-01,Terengganu,Terengganu,Jenayah,2
+2021-04-01,Terengganu,Terengganu,Sivil,6
+2021-04-01,Terengganu,Terengganu,Syariah,107
+2021-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,4
+2021-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,75
+2021-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,92
+2021-04-01,W.P. Labuan,Labuan,Jenayah,2
+2021-04-01,W.P. Labuan,Labuan,Sivil,9
+2021-04-01,W.P. Labuan,Labuan,Syariah,22
+2021-04-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,4
+2021-04-01,W.P. Putrajaya,Ibu Pejabat,Sivil,19
+2021-04-01,W.P. Putrajaya,Ibu Pejabat,Syariah,17
+2021-05-01,Johor,Johor,Jenayah,3
+2021-05-01,Johor,Johor,Sivil,54
+2021-05-01,Johor,Johor,Syariah,92
+2021-05-01,Johor,Muar,Jenayah,2
+2021-05-01,Johor,Muar,Sivil,24
+2021-05-01,Johor,Muar,Syariah,16
+2021-05-01,Kedah,Kedah,Jenayah,1
+2021-05-01,Kedah,Kedah,Sivil,10
+2021-05-01,Kedah,Kedah,Syariah,31
+2021-05-01,Kedah,Langkawi,Sivil,2
+2021-05-01,Kedah,Langkawi,Syariah,11
+2021-05-01,Kelantan,Gua Musang,Sivil,3
+2021-05-01,Kelantan,Gua Musang,Syariah,16
+2021-05-01,Kelantan,Kelantan,Jenayah,10
+2021-05-01,Kelantan,Kelantan,Sivil,10
+2021-05-01,Kelantan,Kelantan,Syariah,80
+2021-05-01,Melaka,Melaka,Jenayah,1
+2021-05-01,Melaka,Melaka,Sivil,5
+2021-05-01,Melaka,Melaka,Syariah,20
+2021-05-01,Negeri Sembilan,Negeri Sembilan,Sivil,19
+2021-05-01,Negeri Sembilan,Negeri Sembilan,Syariah,14
+2021-05-01,Pahang,Pahang,Sivil,3
+2021-05-01,Pahang,Pahang,Syariah,11
+2021-05-01,Pahang,Raub,Sivil,1
+2021-05-01,Pahang,Raub,Syariah,2
+2021-05-01,Perak,Perak,Jenayah,2
+2021-05-01,Perak,Perak,Sivil,57
+2021-05-01,Perak,Perak,Syariah,8
+2021-05-01,Perak,Taiping,Jenayah,3
+2021-05-01,Perak,Taiping,Sivil,11
+2021-05-01,Perak,Taiping,Syariah,13
+2021-05-01,Perlis,Perlis,Jenayah,1
+2021-05-01,Perlis,Perlis,Sivil,8
+2021-05-01,Perlis,Perlis,Syariah,11
+2021-05-01,Pulau Pinang,Pulau Pinang,Jenayah,18
+2021-05-01,Pulau Pinang,Pulau Pinang,Sivil,26
+2021-05-01,Pulau Pinang,Pulau Pinang,Syariah,23
+2021-05-01,Sabah,Sabah,Jenayah,3
+2021-05-01,Sabah,Sabah,Sivil,37
+2021-05-01,Sabah,Sabah,Syariah,14
+2021-05-01,Sarawak,Miri,Jenayah,1
+2021-05-01,Sarawak,Miri,Sivil,18
+2021-05-01,Sarawak,Miri,Syariah,3
+2021-05-01,Sarawak,Sarawak,Jenayah,1
+2021-05-01,Sarawak,Sarawak,Sivil,46
+2021-05-01,Sarawak,Sarawak,Syariah,20
+2021-05-01,Sarawak,Sibu,Sivil,22
+2021-05-01,Sarawak,Sibu,Syariah,16
+2021-05-01,Selangor,Selangor,Jenayah,8
+2021-05-01,Selangor,Selangor,Sivil,113
+2021-05-01,Selangor,Selangor,Syariah,79
+2021-05-01,Terengganu,Terengganu,Jenayah,2
+2021-05-01,Terengganu,Terengganu,Sivil,6
+2021-05-01,Terengganu,Terengganu,Syariah,37
+2021-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,4
+2021-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,61
+2021-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,93
+2021-05-01,W.P. Labuan,Labuan,Syariah,20
+2021-05-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2021-05-01,W.P. Putrajaya,Ibu Pejabat,Sivil,9
+2021-05-01,W.P. Putrajaya,Ibu Pejabat,Syariah,6
+2021-06-01,Pulau Pinang,Pulau Pinang,Jenayah,17
+2021-06-01,Selangor,Selangor,Jenayah,2
+2021-06-01,Selangor,Selangor,Sivil,3
+2021-07-01,Johor,Johor,Jenayah,1
+2021-07-01,Johor,Johor,Sivil,23
+2021-07-01,Johor,Johor,Syariah,26
+2021-07-01,Johor,Muar,Sivil,6
+2021-07-01,Johor,Muar,Syariah,5
+2021-07-01,Kedah,Kedah,Jenayah,1
+2021-07-01,Kedah,Kedah,Sivil,19
+2021-07-01,Kedah,Kedah,Syariah,63
+2021-07-01,Kedah,Langkawi,Syariah,5
+2021-07-01,Kelantan,Gua Musang,Jenayah,1
+2021-07-01,Kelantan,Gua Musang,Syariah,7
+2021-07-01,Kelantan,Kelantan,Jenayah,9
+2021-07-01,Kelantan,Kelantan,Sivil,13
+2021-07-01,Kelantan,Kelantan,Syariah,70
+2021-07-01,Melaka,Melaka,Sivil,6
+2021-07-01,Melaka,Melaka,Syariah,11
+2021-07-01,Negeri Sembilan,Negeri Sembilan,Syariah,2
+2021-07-01,Pahang,Pahang,Sivil,1
+2021-07-01,Pahang,Pahang,Syariah,3
+2021-07-01,Pahang,Raub,Syariah,2
+2021-07-01,Perak,Perak,Sivil,104
+2021-07-01,Perak,Perak,Syariah,15
+2021-07-01,Perak,Taiping,Jenayah,1
+2021-07-01,Perak,Taiping,Sivil,14
+2021-07-01,Perak,Taiping,Syariah,3
+2021-07-01,Perlis,Perlis,Jenayah,2
+2021-07-01,Perlis,Perlis,Sivil,8
+2021-07-01,Perlis,Perlis,Syariah,19
+2021-07-01,Pulau Pinang,Pulau Pinang,Jenayah,47
+2021-07-01,Pulau Pinang,Pulau Pinang,Sivil,15
+2021-07-01,Pulau Pinang,Pulau Pinang,Syariah,10
+2021-07-01,Sabah,Sabah,Jenayah,1
+2021-07-01,Sabah,Sabah,Sivil,21
+2021-07-01,Sabah,Sabah,Syariah,9
+2021-07-01,Sarawak,Miri,Jenayah,1
+2021-07-01,Sarawak,Miri,Sivil,7
+2021-07-01,Sarawak,Sarawak,Sivil,26
+2021-07-01,Sarawak,Sarawak,Syariah,8
+2021-07-01,Sarawak,Sibu,Jenayah,1
+2021-07-01,Sarawak,Sibu,Sivil,18
+2021-07-01,Selangor,Selangor,Sivil,8
+2021-07-01,Selangor,Selangor,Syariah,10
+2021-07-01,Terengganu,Terengganu,Sivil,1
+2021-07-01,Terengganu,Terengganu,Syariah,12
+2021-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,2
+2021-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,1
+2021-07-01,W.P. Putrajaya,Ibu Pejabat,Sivil,5
+2021-07-01,W.P. Putrajaya,Ibu Pejabat,Syariah,2
+2021-08-01,Johor,Johor,Jenayah,4
+2021-08-01,Johor,Johor,Sivil,44
+2021-08-01,Johor,Johor,Syariah,68
+2021-08-01,Johor,Muar,Sivil,6
+2021-08-01,Johor,Muar,Syariah,13
+2021-08-01,Kedah,Kedah,Sivil,21
+2021-08-01,Kedah,Kedah,Syariah,17
+2021-08-01,Kedah,Langkawi,Sivil,2
+2021-08-01,Kedah,Langkawi,Syariah,6
+2021-08-01,Kelantan,Gua Musang,Sivil,1
+2021-08-01,Kelantan,Gua Musang,Syariah,14
+2021-08-01,Kelantan,Kelantan,Jenayah,17
+2021-08-01,Kelantan,Kelantan,Sivil,15
+2021-08-01,Kelantan,Kelantan,Syariah,95
+2021-08-01,Melaka,Melaka,Jenayah,1
+2021-08-01,Melaka,Melaka,Sivil,4
+2021-08-01,Melaka,Melaka,Syariah,12
+2021-08-01,Negeri Sembilan,Negeri Sembilan,Sivil,12
+2021-08-01,Negeri Sembilan,Negeri Sembilan,Syariah,6
+2021-08-01,Pahang,Pahang,Jenayah,1
+2021-08-01,Pahang,Pahang,Sivil,7
+2021-08-01,Pahang,Pahang,Syariah,36
+2021-08-01,Pahang,Raub,Jenayah,1
+2021-08-01,Pahang,Raub,Sivil,4
+2021-08-01,Pahang,Raub,Syariah,9
+2021-08-01,Perak,Perak,Jenayah,11
+2021-08-01,Perak,Perak,Sivil,100
+2021-08-01,Perak,Perak,Syariah,29
+2021-08-01,Perak,Taiping,Jenayah,2
+2021-08-01,Perak,Taiping,Sivil,17
+2021-08-01,Perak,Taiping,Syariah,8
+2021-08-01,Perlis,Perlis,Jenayah,2
+2021-08-01,Perlis,Perlis,Sivil,13
+2021-08-01,Perlis,Perlis,Syariah,9
+2021-08-01,Pulau Pinang,Pulau Pinang,Jenayah,11
+2021-08-01,Pulau Pinang,Pulau Pinang,Sivil,5
+2021-08-01,Pulau Pinang,Pulau Pinang,Syariah,12
+2021-08-01,Sabah,Sabah,Jenayah,2
+2021-08-01,Sabah,Sabah,Sivil,42
+2021-08-01,Sabah,Sabah,Syariah,1
+2021-08-01,Sarawak,Miri,Sivil,13
+2021-08-01,Sarawak,Miri,Syariah,10
+2021-08-01,Sarawak,Sarawak,Jenayah,2
+2021-08-01,Sarawak,Sarawak,Sivil,19
+2021-08-01,Sarawak,Sarawak,Syariah,13
+2021-08-01,Sarawak,Sibu,Sivil,10
+2021-08-01,Sarawak,Sibu,Syariah,22
+2021-08-01,Selangor,Selangor,Jenayah,7
+2021-08-01,Selangor,Selangor,Sivil,65
+2021-08-01,Selangor,Selangor,Syariah,46
+2021-08-01,Terengganu,Terengganu,Sivil,6
+2021-08-01,Terengganu,Terengganu,Syariah,15
+2021-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,1
+2021-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,38
+2021-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,75
+2021-08-01,W.P. Labuan,Labuan,Sivil,4
+2021-08-01,W.P. Labuan,Labuan,Syariah,15
+2021-08-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,3
+2021-08-01,W.P. Putrajaya,Ibu Pejabat,Sivil,9
+2021-08-01,W.P. Putrajaya,Ibu Pejabat,Syariah,8
+2021-09-01,Johor,Johor,Jenayah,13
+2021-09-01,Johor,Johor,Sivil,106
+2021-09-01,Johor,Johor,Syariah,206
+2021-09-01,Johor,Muar,Jenayah,1
+2021-09-01,Johor,Muar,Sivil,28
+2021-09-01,Johor,Muar,Syariah,40
+2021-09-01,Kedah,Kedah,Sivil,19
+2021-09-01,Kedah,Kedah,Syariah,39
+2021-09-01,Kedah,Langkawi,Jenayah,1
+2021-09-01,Kedah,Langkawi,Sivil,4
+2021-09-01,Kedah,Langkawi,Syariah,17
+2021-09-01,Kelantan,Gua Musang,Syariah,22
+2021-09-01,Kelantan,Kelantan,Jenayah,8
+2021-09-01,Kelantan,Kelantan,Sivil,19
+2021-09-01,Kelantan,Kelantan,Syariah,115
+2021-09-01,Melaka,Melaka,Jenayah,2
+2021-09-01,Melaka,Melaka,Sivil,16
+2021-09-01,Melaka,Melaka,Syariah,31
+2021-09-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2021-09-01,Negeri Sembilan,Negeri Sembilan,Sivil,39
+2021-09-01,Negeri Sembilan,Negeri Sembilan,Syariah,24
+2021-09-01,Pahang,Pahang,Jenayah,4
+2021-09-01,Pahang,Pahang,Sivil,3
+2021-09-01,Pahang,Pahang,Syariah,10
+2021-09-01,Pahang,Raub,Sivil,1
+2021-09-01,Pahang,Raub,Syariah,14
+2021-09-01,Perak,Perak,Jenayah,17
+2021-09-01,Perak,Perak,Sivil,113
+2021-09-01,Perak,Perak,Syariah,37
+2021-09-01,Perak,Taiping,Jenayah,1
+2021-09-01,Perak,Taiping,Sivil,28
+2021-09-01,Perak,Taiping,Syariah,16
+2021-09-01,Perlis,Perlis,Jenayah,1
+2021-09-01,Perlis,Perlis,Sivil,13
+2021-09-01,Perlis,Perlis,Syariah,9
+2021-09-01,Pulau Pinang,Pulau Pinang,Jenayah,6
+2021-09-01,Pulau Pinang,Pulau Pinang,Sivil,14
+2021-09-01,Pulau Pinang,Pulau Pinang,Syariah,20
+2021-09-01,Sabah,Sabah,Sivil,46
+2021-09-01,Sabah,Sabah,Syariah,11
+2021-09-01,Sarawak,Miri,Sivil,24
+2021-09-01,Sarawak,Miri,Syariah,2
+2021-09-01,Sarawak,Sarawak,Jenayah,1
+2021-09-01,Sarawak,Sarawak,Sivil,51
+2021-09-01,Sarawak,Sarawak,Syariah,26
+2021-09-01,Sarawak,Sibu,Sivil,16
+2021-09-01,Sarawak,Sibu,Syariah,30
+2021-09-01,Selangor,Selangor,Jenayah,6
+2021-09-01,Selangor,Selangor,Sivil,128
+2021-09-01,Selangor,Selangor,Syariah,68
+2021-09-01,Terengganu,Terengganu,Jenayah,1
+2021-09-01,Terengganu,Terengganu,Sivil,5
+2021-09-01,Terengganu,Terengganu,Syariah,46
+2021-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,4
+2021-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,69
+2021-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,76
+2021-09-01,W.P. Labuan,Labuan,Syariah,17
+2021-09-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,6
+2021-09-01,W.P. Putrajaya,Ibu Pejabat,Sivil,20
+2021-09-01,W.P. Putrajaya,Ibu Pejabat,Syariah,10
+2021-10-01,Johor,Johor,Jenayah,5
+2021-10-01,Johor,Johor,Sivil,173
+2021-10-01,Johor,Johor,Syariah,226
+2021-10-01,Johor,Muar,Jenayah,1
+2021-10-01,Johor,Muar,Sivil,25
+2021-10-01,Johor,Muar,Syariah,48
+2021-10-01,Kedah,Kedah,Jenayah,3
+2021-10-01,Kedah,Kedah,Sivil,31
+2021-10-01,Kedah,Kedah,Syariah,101
+2021-10-01,Kedah,Langkawi,Jenayah,3
+2021-10-01,Kedah,Langkawi,Sivil,4
+2021-10-01,Kedah,Langkawi,Syariah,16
+2021-10-01,Kelantan,Gua Musang,Jenayah,1
+2021-10-01,Kelantan,Gua Musang,Sivil,2
+2021-10-01,Kelantan,Gua Musang,Syariah,21
+2021-10-01,Kelantan,Kelantan,Jenayah,14
+2021-10-01,Kelantan,Kelantan,Sivil,22
+2021-10-01,Kelantan,Kelantan,Syariah,168
+2021-10-01,Melaka,Melaka,Jenayah,5
+2021-10-01,Melaka,Melaka,Sivil,29
+2021-10-01,Melaka,Melaka,Syariah,43
+2021-10-01,Negeri Sembilan,Negeri Sembilan,Jenayah,6
+2021-10-01,Negeri Sembilan,Negeri Sembilan,Sivil,52
+2021-10-01,Negeri Sembilan,Negeri Sembilan,Syariah,17
+2021-10-01,Pahang,Pahang,Jenayah,1
+2021-10-01,Pahang,Pahang,Sivil,26
+2021-10-01,Pahang,Pahang,Syariah,78
+2021-10-01,Pahang,Raub,Sivil,3
+2021-10-01,Pahang,Raub,Syariah,15
+2021-10-01,Perak,Perak,Jenayah,6
+2021-10-01,Perak,Perak,Sivil,104
+2021-10-01,Perak,Perak,Syariah,48
+2021-10-01,Perak,Taiping,Jenayah,2
+2021-10-01,Perak,Taiping,Sivil,34
+2021-10-01,Perak,Taiping,Syariah,17
+2021-10-01,Perlis,Perlis,Jenayah,3
+2021-10-01,Perlis,Perlis,Sivil,22
+2021-10-01,Perlis,Perlis,Syariah,17
+2021-10-01,Pulau Pinang,Pulau Pinang,Jenayah,3
+2021-10-01,Pulau Pinang,Pulau Pinang,Sivil,61
+2021-10-01,Pulau Pinang,Pulau Pinang,Syariah,39
+2021-10-01,Sabah,Sabah,Jenayah,2
+2021-10-01,Sabah,Sabah,Sivil,67
+2021-10-01,Sabah,Sabah,Syariah,24
+2021-10-01,Sarawak,Miri,Jenayah,1
+2021-10-01,Sarawak,Miri,Sivil,25
+2021-10-01,Sarawak,Miri,Syariah,16
+2021-10-01,Sarawak,Sarawak,Jenayah,9
+2021-10-01,Sarawak,Sarawak,Sivil,115
+2021-10-01,Sarawak,Sarawak,Syariah,37
+2021-10-01,Sarawak,Sibu,Jenayah,1
+2021-10-01,Sarawak,Sibu,Sivil,39
+2021-10-01,Sarawak,Sibu,Syariah,8
+2021-10-01,Selangor,Selangor,Jenayah,15
+2021-10-01,Selangor,Selangor,Sivil,271
+2021-10-01,Selangor,Selangor,Syariah,165
+2021-10-01,Terengganu,Terengganu,Jenayah,1
+2021-10-01,Terengganu,Terengganu,Sivil,3
+2021-10-01,Terengganu,Terengganu,Syariah,75
+2021-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,7
+2021-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,89
+2021-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,68
+2021-10-01,W.P. Labuan,Labuan,Jenayah,3
+2021-10-01,W.P. Labuan,Labuan,Sivil,12
+2021-10-01,W.P. Labuan,Labuan,Syariah,6
+2021-10-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,12
+2021-10-01,W.P. Putrajaya,Ibu Pejabat,Sivil,30
+2021-10-01,W.P. Putrajaya,Ibu Pejabat,Syariah,11
+2021-11-01,Johor,Johor,Jenayah,9
+2021-11-01,Johor,Johor,Sivil,168
+2021-11-01,Johor,Johor,Syariah,312
+2021-11-01,Johor,Muar,Jenayah,7
+2021-11-01,Johor,Muar,Sivil,42
+2021-11-01,Johor,Muar,Syariah,74
+2021-11-01,Kedah,Kedah,Jenayah,3
+2021-11-01,Kedah,Kedah,Sivil,46
+2021-11-01,Kedah,Kedah,Syariah,204
+2021-11-01,Kedah,Langkawi,Jenayah,3
+2021-11-01,Kedah,Langkawi,Sivil,5
+2021-11-01,Kedah,Langkawi,Syariah,16
+2021-11-01,Kelantan,Gua Musang,Jenayah,1
+2021-11-01,Kelantan,Gua Musang,Syariah,21
+2021-11-01,Kelantan,Kelantan,Jenayah,10
+2021-11-01,Kelantan,Kelantan,Sivil,29
+2021-11-01,Kelantan,Kelantan,Syariah,191
+2021-11-01,Melaka,Melaka,Jenayah,3
+2021-11-01,Melaka,Melaka,Sivil,45
+2021-11-01,Melaka,Melaka,Syariah,61
+2021-11-01,Negeri Sembilan,Negeri Sembilan,Jenayah,6
+2021-11-01,Negeri Sembilan,Negeri Sembilan,Sivil,52
+2021-11-01,Negeri Sembilan,Negeri Sembilan,Syariah,26
+2021-11-01,Pahang,Pahang,Jenayah,7
+2021-11-01,Pahang,Pahang,Sivil,14
+2021-11-01,Pahang,Pahang,Syariah,65
+2021-11-01,Pahang,Raub,Sivil,12
+2021-11-01,Pahang,Raub,Syariah,22
+2021-11-01,Perak,Perak,Jenayah,13
+2021-11-01,Perak,Perak,Sivil,127
+2021-11-01,Perak,Perak,Syariah,56
+2021-11-01,Perak,Taiping,Jenayah,3
+2021-11-01,Perak,Taiping,Sivil,30
+2021-11-01,Perak,Taiping,Syariah,33
+2021-11-01,Perlis,Perlis,Jenayah,6
+2021-11-01,Perlis,Perlis,Sivil,26
+2021-11-01,Perlis,Perlis,Syariah,44
+2021-11-01,Pulau Pinang,Pulau Pinang,Jenayah,13
+2021-11-01,Pulau Pinang,Pulau Pinang,Sivil,81
+2021-11-01,Pulau Pinang,Pulau Pinang,Syariah,55
+2021-11-01,Sabah,Sabah,Jenayah,7
+2021-11-01,Sabah,Sabah,Sivil,104
+2021-11-01,Sabah,Sabah,Syariah,25
+2021-11-01,Sarawak,Miri,Jenayah,5
+2021-11-01,Sarawak,Miri,Sivil,49
+2021-11-01,Sarawak,Miri,Syariah,14
+2021-11-01,Sarawak,Sarawak,Jenayah,4
+2021-11-01,Sarawak,Sarawak,Sivil,115
+2021-11-01,Sarawak,Sarawak,Syariah,56
+2021-11-01,Sarawak,Sibu,Sivil,28
+2021-11-01,Sarawak,Sibu,Syariah,15
+2021-11-01,Selangor,Selangor,Jenayah,22
+2021-11-01,Selangor,Selangor,Sivil,404
+2021-11-01,Selangor,Selangor,Syariah,234
+2021-11-01,Terengganu,Terengganu,Sivil,6
+2021-11-01,Terengganu,Terengganu,Syariah,115
+2021-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,6
+2021-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,118
+2021-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,148
+2021-11-01,W.P. Labuan,Labuan,Syariah,20
+2021-11-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,6
+2021-11-01,W.P. Putrajaya,Ibu Pejabat,Sivil,44
+2021-11-01,W.P. Putrajaya,Ibu Pejabat,Syariah,17
+2021-12-01,Johor,Johor,Jenayah,8
+2021-12-01,Johor,Johor,Sivil,123
+2021-12-01,Johor,Johor,Syariah,191
+2021-12-01,Johor,Muar,Jenayah,3
+2021-12-01,Johor,Muar,Sivil,13
+2021-12-01,Johor,Muar,Syariah,33
+2021-12-01,Kedah,Kedah,Sivil,33
+2021-12-01,Kedah,Kedah,Syariah,116
+2021-12-01,Kedah,Langkawi,Jenayah,2
+2021-12-01,Kedah,Langkawi,Sivil,6
+2021-12-01,Kedah,Langkawi,Syariah,23
+2021-12-01,Kelantan,Gua Musang,Jenayah,2
+2021-12-01,Kelantan,Gua Musang,Syariah,11
+2021-12-01,Kelantan,Kelantan,Jenayah,12
+2021-12-01,Kelantan,Kelantan,Sivil,22
+2021-12-01,Kelantan,Kelantan,Syariah,200
+2021-12-01,Melaka,Melaka,Jenayah,4
+2021-12-01,Melaka,Melaka,Sivil,40
+2021-12-01,Melaka,Melaka,Syariah,77
+2021-12-01,Negeri Sembilan,Negeri Sembilan,Jenayah,5
+2021-12-01,Negeri Sembilan,Negeri Sembilan,Sivil,39
+2021-12-01,Negeri Sembilan,Negeri Sembilan,Syariah,24
+2021-12-01,Pahang,Pahang,Jenayah,2
+2021-12-01,Pahang,Pahang,Sivil,21
+2021-12-01,Pahang,Pahang,Syariah,62
+2021-12-01,Pahang,Raub,Sivil,9
+2021-12-01,Pahang,Raub,Syariah,29
+2021-12-01,Perak,Perak,Jenayah,9
+2021-12-01,Perak,Perak,Sivil,123
+2021-12-01,Perak,Perak,Syariah,22
+2021-12-01,Perak,Taiping,Jenayah,2
+2021-12-01,Perak,Taiping,Sivil,35
+2021-12-01,Perak,Taiping,Syariah,18
+2021-12-01,Perlis,Perlis,Jenayah,32
+2021-12-01,Perlis,Perlis,Sivil,13
+2021-12-01,Perlis,Perlis,Syariah,22
+2021-12-01,Pulau Pinang,Pulau Pinang,Jenayah,12
+2021-12-01,Pulau Pinang,Pulau Pinang,Sivil,116
+2021-12-01,Pulau Pinang,Pulau Pinang,Syariah,31
+2021-12-01,Sabah,Sabah,Jenayah,9
+2021-12-01,Sabah,Sabah,Sivil,49
+2021-12-01,Sabah,Sabah,Syariah,15
+2021-12-01,Sarawak,Miri,Sivil,28
+2021-12-01,Sarawak,Miri,Syariah,21
+2021-12-01,Sarawak,Sarawak,Jenayah,3
+2021-12-01,Sarawak,Sarawak,Sivil,111
+2021-12-01,Sarawak,Sarawak,Syariah,58
+2021-12-01,Sarawak,Sibu,Jenayah,1
+2021-12-01,Sarawak,Sibu,Sivil,57
+2021-12-01,Sarawak,Sibu,Syariah,20
+2021-12-01,Selangor,Selangor,Jenayah,10
+2021-12-01,Selangor,Selangor,Sivil,323
+2021-12-01,Selangor,Selangor,Syariah,167
+2021-12-01,Terengganu,Terengganu,Jenayah,4
+2021-12-01,Terengganu,Terengganu,Sivil,4
+2021-12-01,Terengganu,Terengganu,Syariah,82
+2021-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,6
+2021-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,92
+2021-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,106
+2021-12-01,W.P. Labuan,Labuan,Syariah,20
+2021-12-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2021-12-01,W.P. Putrajaya,Ibu Pejabat,Sivil,33
+2021-12-01,W.P. Putrajaya,Ibu Pejabat,Syariah,3
+2022-01-01,Johor,Johor,Jenayah,5
+2022-01-01,Johor,Johor,Sivil,177
+2022-01-01,Johor,Johor,Syariah,351
+2022-01-01,Johor,Muar,Jenayah,2
+2022-01-01,Johor,Muar,Sivil,52
+2022-01-01,Johor,Muar,Syariah,84
+2022-01-01,Kedah,Kedah,Jenayah,1
+2022-01-01,Kedah,Kedah,Sivil,22
+2022-01-01,Kedah,Kedah,Syariah,148
+2022-01-01,Kedah,Langkawi,Jenayah,3
+2022-01-01,Kedah,Langkawi,Sivil,6
+2022-01-01,Kedah,Langkawi,Syariah,30
+2022-01-01,Kelantan,Gua Musang,Jenayah,2
+2022-01-01,Kelantan,Gua Musang,Syariah,21
+2022-01-01,Kelantan,Kelantan,Jenayah,12
+2022-01-01,Kelantan,Kelantan,Sivil,43
+2022-01-01,Kelantan,Kelantan,Syariah,179
+2022-01-01,Melaka,Melaka,Jenayah,1
+2022-01-01,Melaka,Melaka,Sivil,43
+2022-01-01,Melaka,Melaka,Syariah,66
+2022-01-01,Negeri Sembilan,Negeri Sembilan,Jenayah,1
+2022-01-01,Negeri Sembilan,Negeri Sembilan,Sivil,35
+2022-01-01,Negeri Sembilan,Negeri Sembilan,Syariah,39
+2022-01-01,Pahang,Pahang,Jenayah,1
+2022-01-01,Pahang,Pahang,Sivil,18
+2022-01-01,Pahang,Pahang,Syariah,58
+2022-01-01,Pahang,Raub,Jenayah,3
+2022-01-01,Pahang,Raub,Sivil,7
+2022-01-01,Pahang,Raub,Syariah,19
+2022-01-01,Perak,Perak,Jenayah,1
+2022-01-01,Perak,Perak,Sivil,126
+2022-01-01,Perak,Perak,Syariah,53
+2022-01-01,Perak,Taiping,Sivil,43
+2022-01-01,Perak,Taiping,Syariah,21
+2022-01-01,Perlis,Perlis,Jenayah,3
+2022-01-01,Perlis,Perlis,Sivil,20
+2022-01-01,Perlis,Perlis,Syariah,30
+2022-01-01,Pulau Pinang,Pulau Pinang,Jenayah,26
+2022-01-01,Pulau Pinang,Pulau Pinang,Sivil,69
+2022-01-01,Pulau Pinang,Pulau Pinang,Syariah,40
+2022-01-01,Sarawak,Miri,Jenayah,1
+2022-01-01,Sarawak,Miri,Sivil,42
+2022-01-01,Sarawak,Miri,Syariah,25
+2022-01-01,Sarawak,Sarawak,Jenayah,5
+2022-01-01,Sarawak,Sarawak,Sivil,113
+2022-01-01,Sarawak,Sarawak,Syariah,65
+2022-01-01,Sarawak,Sibu,Sivil,36
+2022-01-01,Sarawak,Sibu,Syariah,11
+2022-01-01,Selangor,Selangor,Jenayah,18
+2022-01-01,Selangor,Selangor,Sivil,178
+2022-01-01,Selangor,Selangor,Syariah,180
+2022-01-01,Terengganu,Terengganu,Jenayah,2
+2022-01-01,Terengganu,Terengganu,Sivil,6
+2022-01-01,Terengganu,Terengganu,Syariah,98
+2022-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,18
+2022-01-01,W.P. Labuan,Labuan,Syariah,31
+2022-01-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2022-01-01,W.P. Putrajaya,Ibu Pejabat,Sivil,33
+2022-02-01,Johor,Johor,Jenayah,16
+2022-02-01,Johor,Johor,Sivil,106
+2022-02-01,Johor,Johor,Syariah,254
+2022-02-01,Johor,Muar,Jenayah,4
+2022-02-01,Johor,Muar,Sivil,20
+2022-02-01,Johor,Muar,Syariah,59
+2022-02-01,Kedah,Kedah,Jenayah,3
+2022-02-01,Kedah,Kedah,Sivil,10
+2022-02-01,Kedah,Kedah,Syariah,77
+2022-02-01,Kedah,Langkawi,Jenayah,1
+2022-02-01,Kedah,Langkawi,Sivil,6
+2022-02-01,Kedah,Langkawi,Syariah,20
+2022-02-01,Kelantan,Gua Musang,Sivil,2
+2022-02-01,Kelantan,Gua Musang,Syariah,21
+2022-02-01,Kelantan,Kelantan,Jenayah,14
+2022-02-01,Kelantan,Kelantan,Sivil,25
+2022-02-01,Kelantan,Kelantan,Syariah,157
+2022-02-01,Melaka,Melaka,Jenayah,2
+2022-02-01,Melaka,Melaka,Sivil,20
+2022-02-01,Melaka,Melaka,Syariah,55
+2022-02-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2022-02-01,Negeri Sembilan,Negeri Sembilan,Sivil,35
+2022-02-01,Negeri Sembilan,Negeri Sembilan,Syariah,26
+2022-02-01,Pahang,Pahang,Sivil,13
+2022-02-01,Pahang,Pahang,Syariah,48
+2022-02-01,Pahang,Raub,Sivil,4
+2022-02-01,Pahang,Raub,Syariah,20
+2022-02-01,Perak,Perak,Jenayah,1
+2022-02-01,Perak,Perak,Sivil,106
+2022-02-01,Perak,Perak,Syariah,90
+2022-02-01,Perak,Taiping,Jenayah,1
+2022-02-01,Perak,Taiping,Sivil,19
+2022-02-01,Perak,Taiping,Syariah,20
+2022-02-01,Perlis,Perlis,Jenayah,3
+2022-02-01,Perlis,Perlis,Sivil,21
+2022-02-01,Perlis,Perlis,Syariah,32
+2022-02-01,Pulau Pinang,Pulau Pinang,Jenayah,17
+2022-02-01,Pulau Pinang,Pulau Pinang,Sivil,68
+2022-02-01,Pulau Pinang,Pulau Pinang,Syariah,53
+2022-02-01,Sarawak,Miri,Sivil,25
+2022-02-01,Sarawak,Miri,Syariah,1
+2022-02-01,Sarawak,Sarawak,Jenayah,6
+2022-02-01,Sarawak,Sarawak,Sivil,98
+2022-02-01,Sarawak,Sarawak,Syariah,55
+2022-02-01,Sarawak,Sibu,Sivil,41
+2022-02-01,Sarawak,Sibu,Syariah,20
+2022-02-01,Selangor,Selangor,Jenayah,10
+2022-02-01,Selangor,Selangor,Sivil,138
+2022-02-01,Selangor,Selangor,Syariah,113
+2022-02-01,Terengganu,Terengganu,Sivil,11
+2022-02-01,Terengganu,Terengganu,Syariah,86
+2022-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2022-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,5
+2022-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,14
+2022-02-01,W.P. Labuan,Labuan,Syariah,31
+2022-02-01,W.P. Putrajaya,Ibu Pejabat,Sivil,22
+2022-02-01,W.P. Putrajaya,Ibu Pejabat,Syariah,1
+2022-03-01,Johor,Johor,Jenayah,8
+2022-03-01,Johor,Johor,Sivil,187
+2022-03-01,Johor,Johor,Syariah,299
+2022-03-01,Johor,Muar,Jenayah,1
+2022-03-01,Johor,Muar,Sivil,41
+2022-03-01,Johor,Muar,Syariah,41
+2022-03-01,Kedah,Kedah,Jenayah,4
+2022-03-01,Kedah,Kedah,Sivil,35
+2022-03-01,Kedah,Kedah,Syariah,113
+2022-03-01,Kedah,Langkawi,Jenayah,1
+2022-03-01,Kedah,Langkawi,Sivil,5
+2022-03-01,Kedah,Langkawi,Syariah,23
+2022-03-01,Kelantan,Gua Musang,Sivil,1
+2022-03-01,Kelantan,Gua Musang,Syariah,20
+2022-03-01,Kelantan,Kelantan,Jenayah,7
+2022-03-01,Kelantan,Kelantan,Sivil,25
+2022-03-01,Kelantan,Kelantan,Syariah,187
+2022-03-01,Melaka,Melaka,Jenayah,3
+2022-03-01,Melaka,Melaka,Sivil,32
+2022-03-01,Melaka,Melaka,Syariah,45
+2022-03-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2022-03-01,Negeri Sembilan,Negeri Sembilan,Sivil,37
+2022-03-01,Negeri Sembilan,Negeri Sembilan,Syariah,45
+2022-03-01,Pahang,Pahang,Jenayah,4
+2022-03-01,Pahang,Pahang,Sivil,20
+2022-03-01,Pahang,Pahang,Syariah,101
+2022-03-01,Pahang,Raub,Sivil,6
+2022-03-01,Pahang,Raub,Syariah,33
+2022-03-01,Perak,Perak,Sivil,147
+2022-03-01,Perak,Perak,Syariah,120
+2022-03-01,Perak,Taiping,Jenayah,1
+2022-03-01,Perak,Taiping,Sivil,37
+2022-03-01,Perak,Taiping,Syariah,21
+2022-03-01,Perlis,Perlis,Jenayah,39
+2022-03-01,Perlis,Perlis,Sivil,16
+2022-03-01,Perlis,Perlis,Syariah,15
+2022-03-01,Pulau Pinang,Pulau Pinang,Jenayah,39
+2022-03-01,Pulau Pinang,Pulau Pinang,Sivil,93
+2022-03-01,Pulau Pinang,Pulau Pinang,Syariah,65
+2022-03-01,Sarawak,Miri,Jenayah,2
+2022-03-01,Sarawak,Miri,Sivil,29
+2022-03-01,Sarawak,Miri,Syariah,14
+2022-03-01,Sarawak,Sarawak,Jenayah,6
+2022-03-01,Sarawak,Sarawak,Sivil,123
+2022-03-01,Sarawak,Sarawak,Syariah,54
+2022-03-01,Sarawak,Sibu,Sivil,37
+2022-03-01,Sarawak,Sibu,Syariah,16
+2022-03-01,Selangor,Selangor,Jenayah,15
+2022-03-01,Selangor,Selangor,Sivil,228
+2022-03-01,Selangor,Selangor,Syariah,190
+2022-03-01,Terengganu,Terengganu,Jenayah,6
+2022-03-01,Terengganu,Terengganu,Sivil,11
+2022-03-01,Terengganu,Terengganu,Syariah,101
+2022-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,13
+2022-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,25
+2022-03-01,W.P. Labuan,Labuan,Syariah,36
+2022-03-01,W.P. Putrajaya,Ibu Pejabat,Sivil,32
+2022-03-01,W.P. Putrajaya,Ibu Pejabat,Syariah,1
+2022-04-01,Johor,Johor,Jenayah,3
+2022-04-01,Johor,Johor,Sivil,162
+2022-04-01,Johor,Johor,Syariah,230
+2022-04-01,Johor,Muar,Jenayah,4
+2022-04-01,Johor,Muar,Sivil,39
+2022-04-01,Johor,Muar,Syariah,53
+2022-04-01,Kedah,Kedah,Jenayah,3
+2022-04-01,Kedah,Kedah,Sivil,37
+2022-04-01,Kedah,Kedah,Syariah,98
+2022-04-01,Kedah,Langkawi,Sivil,6
+2022-04-01,Kedah,Langkawi,Syariah,16
+2022-04-01,Kelantan,Gua Musang,Jenayah,4
+2022-04-01,Kelantan,Gua Musang,Sivil,1
+2022-04-01,Kelantan,Gua Musang,Syariah,15
+2022-04-01,Kelantan,Kelantan,Jenayah,11
+2022-04-01,Kelantan,Kelantan,Sivil,30
+2022-04-01,Kelantan,Kelantan,Syariah,102
+2022-04-01,Melaka,Melaka,Jenayah,2
+2022-04-01,Melaka,Melaka,Sivil,36
+2022-04-01,Melaka,Melaka,Syariah,46
+2022-04-01,Negeri Sembilan,Negeri Sembilan,Jenayah,2
+2022-04-01,Negeri Sembilan,Negeri Sembilan,Sivil,54
+2022-04-01,Negeri Sembilan,Negeri Sembilan,Syariah,45
+2022-04-01,Pahang,Pahang,Jenayah,72
+2022-04-01,Pahang,Pahang,Sivil,13
+2022-04-01,Pahang,Pahang,Syariah,44
+2022-04-01,Pahang,Raub,Sivil,4
+2022-04-01,Pahang,Raub,Syariah,20
+2022-04-01,Perak,Perak,Jenayah,3
+2022-04-01,Perak,Perak,Sivil,134
+2022-04-01,Perak,Perak,Syariah,68
+2022-04-01,Perak,Taiping,Jenayah,1
+2022-04-01,Perak,Taiping,Sivil,39
+2022-04-01,Perak,Taiping,Syariah,28
+2022-04-01,Perlis,Perlis,Jenayah,9
+2022-04-01,Perlis,Perlis,Sivil,22
+2022-04-01,Perlis,Perlis,Syariah,35
+2022-04-01,Pulau Pinang,Pulau Pinang,Jenayah,22
+2022-04-01,Pulau Pinang,Pulau Pinang,Sivil,138
+2022-04-01,Pulau Pinang,Pulau Pinang,Syariah,61
+2022-04-01,Sarawak,Miri,Sivil,67
+2022-04-01,Sarawak,Miri,Syariah,8
+2022-04-01,Sarawak,Sarawak,Jenayah,2
+2022-04-01,Sarawak,Sarawak,Sivil,100
+2022-04-01,Sarawak,Sarawak,Syariah,30
+2022-04-01,Sarawak,Sibu,Sivil,40
+2022-04-01,Sarawak,Sibu,Syariah,11
+2022-04-01,Selangor,Selangor,Jenayah,4
+2022-04-01,Selangor,Selangor,Sivil,176
+2022-04-01,Selangor,Selangor,Syariah,142
+2022-04-01,Terengganu,Terengganu,Jenayah,2
+2022-04-01,Terengganu,Terengganu,Sivil,7
+2022-04-01,Terengganu,Terengganu,Syariah,73
+2022-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,1
+2022-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,129
+2022-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,68
+2022-04-01,W.P. Labuan,Labuan,Jenayah,3
+2022-04-01,W.P. Labuan,Labuan,Sivil,97
+2022-04-01,W.P. Labuan,Labuan,Syariah,62
+2022-04-01,W.P. Putrajaya,Ibu Pejabat,Sivil,25
+2022-04-01,W.P. Putrajaya,Ibu Pejabat,Syariah,4
+2022-05-01,Johor,Johor,Jenayah,53
+2022-05-01,Johor,Johor,Sivil,123
+2022-05-01,Johor,Johor,Syariah,180
+2022-05-01,Johor,Muar,Jenayah,1
+2022-05-01,Johor,Muar,Sivil,11
+2022-05-01,Johor,Muar,Syariah,46
+2022-05-01,Kedah,Kedah,Jenayah,32
+2022-05-01,Kedah,Kedah,Sivil,20
+2022-05-01,Kedah,Kedah,Syariah,125
+2022-05-01,Kedah,Langkawi,Jenayah,1
+2022-05-01,Kedah,Langkawi,Sivil,2
+2022-05-01,Kedah,Langkawi,Syariah,22
+2022-05-01,Kelantan,Gua Musang,Jenayah,1
+2022-05-01,Kelantan,Gua Musang,Sivil,3
+2022-05-01,Kelantan,Gua Musang,Syariah,10
+2022-05-01,Kelantan,Kelantan,Jenayah,6
+2022-05-01,Kelantan,Kelantan,Sivil,150
+2022-05-01,Kelantan,Kelantan,Syariah,66
+2022-05-01,Melaka,Melaka,Jenayah,8
+2022-05-01,Melaka,Melaka,Sivil,25
+2022-05-01,Melaka,Melaka,Syariah,41
+2022-05-01,Negeri Sembilan,Negeri Sembilan,Jenayah,53
+2022-05-01,Negeri Sembilan,Negeri Sembilan,Sivil,36
+2022-05-01,Negeri Sembilan,Negeri Sembilan,Syariah,42
+2022-05-01,Pahang,Pahang,Sivil,13
+2022-05-01,Pahang,Pahang,Syariah,45
+2022-05-01,Pahang,Raub,Jenayah,1
+2022-05-01,Pahang,Raub,Sivil,5
+2022-05-01,Pahang,Raub,Syariah,21
+2022-05-01,Perak,Perak,Jenayah,4
+2022-05-01,Perak,Perak,Sivil,103
+2022-05-01,Perak,Perak,Syariah,63
+2022-05-01,Perak,Taiping,Sivil,13
+2022-05-01,Perak,Taiping,Syariah,2
+2022-05-01,Perlis,Perlis,Jenayah,23
+2022-05-01,Perlis,Perlis,Sivil,15
+2022-05-01,Perlis,Perlis,Syariah,2
+2022-05-01,Pulau Pinang,Pulau Pinang,Jenayah,24
+2022-05-01,Pulau Pinang,Pulau Pinang,Sivil,60
+2022-05-01,Pulau Pinang,Pulau Pinang,Syariah,79
+2022-05-01,Sarawak,Miri,Sivil,41
+2022-05-01,Sarawak,Miri,Syariah,16
+2022-05-01,Sarawak,Sarawak,Jenayah,4
+2022-05-01,Sarawak,Sarawak,Sivil,69
+2022-05-01,Sarawak,Sarawak,Syariah,44
+2022-05-01,Sarawak,Sibu,Sivil,32
+2022-05-01,Sarawak,Sibu,Syariah,3
+2022-05-01,Selangor,Selangor,Jenayah,14
+2022-05-01,Selangor,Selangor,Sivil,204
+2022-05-01,Selangor,Selangor,Syariah,137
+2022-05-01,Terengganu,Terengganu,Jenayah,4
+2022-05-01,Terengganu,Terengganu,Sivil,14
+2022-05-01,Terengganu,Terengganu,Syariah,70
+2022-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,10
+2022-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,135
+2022-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,94
+2022-05-01,W.P. Labuan,Labuan,Jenayah,1
+2022-05-01,W.P. Labuan,Labuan,Sivil,61
+2022-05-01,W.P. Labuan,Labuan,Syariah,66
+2022-05-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,3
+2022-05-01,W.P. Putrajaya,Ibu Pejabat,Sivil,22
+2022-05-01,W.P. Putrajaya,Ibu Pejabat,Syariah,3
+2022-06-01,Johor,Johor,Jenayah,36
+2022-06-01,Johor,Johor,Sivil,188
+2022-06-01,Johor,Johor,Syariah,203
+2022-06-01,Johor,Muar,Sivil,46
+2022-06-01,Johor,Muar,Syariah,61
+2022-06-01,Kedah,Kedah,Jenayah,41
+2022-06-01,Kedah,Kedah,Sivil,37
+2022-06-01,Kedah,Kedah,Syariah,137
+2022-06-01,Kedah,Langkawi,Sivil,9
+2022-06-01,Kedah,Langkawi,Syariah,16
+2022-06-01,Kelantan,Gua Musang,Jenayah,6
+2022-06-01,Kelantan,Gua Musang,Sivil,4
+2022-06-01,Kelantan,Gua Musang,Syariah,13
+2022-06-01,Kelantan,Kelantan,Jenayah,144
+2022-06-01,Kelantan,Kelantan,Sivil,34
+2022-06-01,Kelantan,Kelantan,Syariah,223
+2022-06-01,Melaka,Melaka,Jenayah,13
+2022-06-01,Melaka,Melaka,Sivil,42
+2022-06-01,Melaka,Melaka,Syariah,39
+2022-06-01,Negeri Sembilan,Negeri Sembilan,Jenayah,2
+2022-06-01,Negeri Sembilan,Negeri Sembilan,Sivil,47
+2022-06-01,Negeri Sembilan,Negeri Sembilan,Syariah,40
+2022-06-01,Pahang,Pahang,Jenayah,20
+2022-06-01,Pahang,Pahang,Sivil,29
+2022-06-01,Pahang,Pahang,Syariah,75
+2022-06-01,Pahang,Raub,Jenayah,15
+2022-06-01,Pahang,Raub,Sivil,15
+2022-06-01,Pahang,Raub,Syariah,64
+2022-06-01,Perak,Perak,Jenayah,56
+2022-06-01,Perak,Perak,Sivil,144
+2022-06-01,Perak,Perak,Syariah,129
+2022-06-01,Perak,Taiping,Jenayah,1
+2022-06-01,Perak,Taiping,Sivil,24
+2022-06-01,Perak,Taiping,Syariah,15
+2022-06-01,Perlis,Perlis,Jenayah,25
+2022-06-01,Perlis,Perlis,Sivil,24
+2022-06-01,Perlis,Perlis,Syariah,33
+2022-06-01,Pulau Pinang,Pulau Pinang,Jenayah,31
+2022-06-01,Pulau Pinang,Pulau Pinang,Sivil,128
+2022-06-01,Pulau Pinang,Pulau Pinang,Syariah,81
+2022-06-01,Sarawak,Miri,Jenayah,1
+2022-06-01,Sarawak,Miri,Sivil,80
+2022-06-01,Sarawak,Miri,Syariah,52
+2022-06-01,Sarawak,Sarawak,Jenayah,3
+2022-06-01,Sarawak,Sarawak,Sivil,121
+2022-06-01,Sarawak,Sarawak,Syariah,61
+2022-06-01,Sarawak,Sibu,Sivil,34
+2022-06-01,Sarawak,Sibu,Syariah,27
+2022-06-01,Selangor,Selangor,Jenayah,8
+2022-06-01,Selangor,Selangor,Sivil,245
+2022-06-01,Selangor,Selangor,Syariah,118
+2022-06-01,Terengganu,Terengganu,Jenayah,15
+2022-06-01,Terengganu,Terengganu,Sivil,20
+2022-06-01,Terengganu,Terengganu,Syariah,121
+2022-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,139
+2022-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,128
+2022-06-01,W.P. Labuan,Labuan,Jenayah,2
+2022-06-01,W.P. Labuan,Labuan,Sivil,137
+2022-06-01,W.P. Labuan,Labuan,Syariah,107
+2022-06-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2022-06-01,W.P. Putrajaya,Ibu Pejabat,Sivil,21
+2022-07-01,Johor,Johor,Jenayah,1
+2022-07-01,Johor,Johor,Sivil,153
+2022-07-01,Johor,Johor,Syariah,166
+2022-07-01,Johor,Muar,Jenayah,3
+2022-07-01,Johor,Muar,Sivil,32
+2022-07-01,Johor,Muar,Syariah,48
+2022-07-01,Kedah,Kedah,Jenayah,15
+2022-07-01,Kedah,Kedah,Sivil,22
+2022-07-01,Kedah,Kedah,Syariah,87
+2022-07-01,Kedah,Langkawi,Jenayah,30
+2022-07-01,Kedah,Langkawi,Sivil,2
+2022-07-01,Kedah,Langkawi,Syariah,15
+2022-07-01,Kelantan,Gua Musang,Jenayah,4
+2022-07-01,Kelantan,Gua Musang,Sivil,1
+2022-07-01,Kelantan,Gua Musang,Syariah,16
+2022-07-01,Kelantan,Kelantan,Jenayah,42
+2022-07-01,Kelantan,Kelantan,Sivil,22
+2022-07-01,Kelantan,Kelantan,Syariah,133
+2022-07-01,Melaka,Melaka,Jenayah,14
+2022-07-01,Melaka,Melaka,Sivil,36
+2022-07-01,Melaka,Melaka,Syariah,35
+2022-07-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2022-07-01,Negeri Sembilan,Negeri Sembilan,Sivil,60
+2022-07-01,Negeri Sembilan,Negeri Sembilan,Syariah,31
+2022-07-01,Pahang,Pahang,Jenayah,22
+2022-07-01,Pahang,Pahang,Sivil,12
+2022-07-01,Pahang,Pahang,Syariah,93
+2022-07-01,Pahang,Raub,Jenayah,1
+2022-07-01,Pahang,Raub,Sivil,4
+2022-07-01,Pahang,Raub,Syariah,25
+2022-07-01,Perak,Perak,Jenayah,2
+2022-07-01,Perak,Perak,Sivil,172
+2022-07-01,Perak,Perak,Syariah,122
+2022-07-01,Perak,Taiping,Jenayah,22
+2022-07-01,Perak,Taiping,Sivil,38
+2022-07-01,Perak,Taiping,Syariah,16
+2022-07-01,Perlis,Perlis,Jenayah,45
+2022-07-01,Perlis,Perlis,Sivil,21
+2022-07-01,Perlis,Perlis,Syariah,37
+2022-07-01,Pulau Pinang,Pulau Pinang,Jenayah,33
+2022-07-01,Pulau Pinang,Pulau Pinang,Sivil,61
+2022-07-01,Pulau Pinang,Pulau Pinang,Syariah,63
+2022-07-01,Sarawak,Miri,Jenayah,1
+2022-07-01,Sarawak,Miri,Sivil,52
+2022-07-01,Sarawak,Miri,Syariah,32
+2022-07-01,Sarawak,Sarawak,Jenayah,21
+2022-07-01,Sarawak,Sarawak,Sivil,103
+2022-07-01,Sarawak,Sarawak,Syariah,35
+2022-07-01,Sarawak,Sibu,Sivil,68
+2022-07-01,Sarawak,Sibu,Syariah,24
+2022-07-01,Selangor,Selangor,Jenayah,34
+2022-07-01,Selangor,Selangor,Sivil,272
+2022-07-01,Selangor,Selangor,Syariah,116
+2022-07-01,Terengganu,Terengganu,Jenayah,7
+2022-07-01,Terengganu,Terengganu,Sivil,8
+2022-07-01,Terengganu,Terengganu,Syariah,64
+2022-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,23
+2022-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,130
+2022-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,110
+2022-07-01,W.P. Labuan,Labuan,Jenayah,1
+2022-07-01,W.P. Labuan,Labuan,Sivil,93
+2022-07-01,W.P. Labuan,Labuan,Syariah,62
+2022-07-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,8
+2022-07-01,W.P. Putrajaya,Ibu Pejabat,Sivil,20
+2022-07-01,W.P. Putrajaya,Ibu Pejabat,Syariah,1
+2022-08-01,Johor,Johor,Jenayah,49
+2022-08-01,Johor,Johor,Sivil,181
+2022-08-01,Johor,Johor,Syariah,210
+2022-08-01,Johor,Muar,Jenayah,2
+2022-08-01,Johor,Muar,Sivil,35
+2022-08-01,Johor,Muar,Syariah,50
+2022-08-01,Kedah,Kedah,Jenayah,39
+2022-08-01,Kedah,Kedah,Sivil,47
+2022-08-01,Kedah,Kedah,Syariah,126
+2022-08-01,Kedah,Langkawi,Jenayah,9
+2022-08-01,Kedah,Langkawi,Sivil,11
+2022-08-01,Kedah,Langkawi,Syariah,18
+2022-08-01,Kelantan,Gua Musang,Jenayah,8
+2022-08-01,Kelantan,Gua Musang,Sivil,4
+2022-08-01,Kelantan,Gua Musang,Syariah,23
+2022-08-01,Kelantan,Kelantan,Jenayah,115
+2022-08-01,Kelantan,Kelantan,Sivil,37
+2022-08-01,Kelantan,Kelantan,Syariah,175
+2022-08-01,Melaka,Melaka,Jenayah,7
+2022-08-01,Melaka,Melaka,Sivil,32
+2022-08-01,Melaka,Melaka,Syariah,48
+2022-08-01,Negeri Sembilan,Negeri Sembilan,Jenayah,40
+2022-08-01,Negeri Sembilan,Negeri Sembilan,Sivil,46
+2022-08-01,Negeri Sembilan,Negeri Sembilan,Syariah,53
+2022-08-01,Pahang,Pahang,Jenayah,23
+2022-08-01,Pahang,Pahang,Sivil,17
+2022-08-01,Pahang,Pahang,Syariah,97
+2022-08-01,Pahang,Raub,Jenayah,38
+2022-08-01,Pahang,Raub,Sivil,7
+2022-08-01,Pahang,Raub,Syariah,39
+2022-08-01,Perak,Perak,Jenayah,7
+2022-08-01,Perak,Perak,Sivil,169
+2022-08-01,Perak,Perak,Syariah,160
+2022-08-01,Perak,Taiping,Jenayah,34
+2022-08-01,Perak,Taiping,Sivil,15
+2022-08-01,Perak,Taiping,Syariah,20
+2022-08-01,Perlis,Perlis,Jenayah,14
+2022-08-01,Perlis,Perlis,Sivil,13
+2022-08-01,Perlis,Perlis,Syariah,47
+2022-08-01,Pulau Pinang,Pulau Pinang,Jenayah,30
+2022-08-01,Pulau Pinang,Pulau Pinang,Sivil,67
+2022-08-01,Pulau Pinang,Pulau Pinang,Syariah,67
+2022-08-01,Sarawak,Miri,Sivil,65
+2022-08-01,Sarawak,Miri,Syariah,22
+2022-08-01,Sarawak,Sarawak,Jenayah,4
+2022-08-01,Sarawak,Sarawak,Sivil,107
+2022-08-01,Sarawak,Sarawak,Syariah,58
+2022-08-01,Sarawak,Sibu,Sivil,30
+2022-08-01,Sarawak,Sibu,Syariah,8
+2022-08-01,Selangor,Selangor,Jenayah,31
+2022-08-01,Selangor,Selangor,Sivil,352
+2022-08-01,Selangor,Selangor,Syariah,189
+2022-08-01,Terengganu,Terengganu,Jenayah,7
+2022-08-01,Terengganu,Terengganu,Sivil,22
+2022-08-01,Terengganu,Terengganu,Syariah,164
+2022-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,33
+2022-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,153
+2022-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,95
+2022-08-01,W.P. Labuan,Labuan,Jenayah,7
+2022-08-01,W.P. Labuan,Labuan,Sivil,95
+2022-08-01,W.P. Labuan,Labuan,Syariah,141
+2022-08-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,4
+2022-08-01,W.P. Putrajaya,Ibu Pejabat,Sivil,33
+2022-08-01,W.P. Putrajaya,Ibu Pejabat,Syariah,4
+2022-09-01,Johor,Johor,Jenayah,14
+2022-09-01,Johor,Johor,Sivil,125
+2022-09-01,Johor,Johor,Syariah,135
+2022-09-01,Johor,Muar,Jenayah,7
+2022-09-01,Johor,Muar,Sivil,38
+2022-09-01,Johor,Muar,Syariah,46
+2022-09-01,Kedah,Kedah,Jenayah,29
+2022-09-01,Kedah,Kedah,Sivil,35
+2022-09-01,Kedah,Kedah,Syariah,105
+2022-09-01,Kedah,Langkawi,Jenayah,18
+2022-09-01,Kedah,Langkawi,Sivil,3
+2022-09-01,Kedah,Langkawi,Syariah,13
+2022-09-01,Kelantan,Gua Musang,Jenayah,13
+2022-09-01,Kelantan,Gua Musang,Sivil,1
+2022-09-01,Kelantan,Gua Musang,Syariah,14
+2022-09-01,Kelantan,Kelantan,Jenayah,6
+2022-09-01,Kelantan,Kelantan,Sivil,35
+2022-09-01,Kelantan,Kelantan,Syariah,175
+2022-09-01,Melaka,Melaka,Jenayah,15
+2022-09-01,Melaka,Melaka,Sivil,30
+2022-09-01,Melaka,Melaka,Syariah,62
+2022-09-01,Negeri Sembilan,Negeri Sembilan,Jenayah,36
+2022-09-01,Negeri Sembilan,Negeri Sembilan,Sivil,45
+2022-09-01,Negeri Sembilan,Negeri Sembilan,Syariah,30
+2022-09-01,Pahang,Pahang,Jenayah,16
+2022-09-01,Pahang,Pahang,Sivil,17
+2022-09-01,Pahang,Pahang,Syariah,70
+2022-09-01,Pahang,Raub,Jenayah,3
+2022-09-01,Pahang,Raub,Sivil,11
+2022-09-01,Pahang,Raub,Syariah,34
+2022-09-01,Perak,Perak,Jenayah,34
+2022-09-01,Perak,Perak,Sivil,141
+2022-09-01,Perak,Perak,Syariah,69
+2022-09-01,Perak,Taiping,Jenayah,2
+2022-09-01,Perak,Taiping,Sivil,11
+2022-09-01,Perak,Taiping,Syariah,20
+2022-09-01,Perlis,Perlis,Jenayah,41
+2022-09-01,Perlis,Perlis,Sivil,26
+2022-09-01,Perlis,Perlis,Syariah,32
+2022-09-01,Pulau Pinang,Pulau Pinang,Jenayah,86
+2022-09-01,Pulau Pinang,Pulau Pinang,Sivil,51
+2022-09-01,Pulau Pinang,Pulau Pinang,Syariah,84
+2022-09-01,Sarawak,Miri,Sivil,49
+2022-09-01,Sarawak,Miri,Syariah,14
+2022-09-01,Sarawak,Sarawak,Jenayah,3
+2022-09-01,Sarawak,Sarawak,Sivil,92
+2022-09-01,Sarawak,Sarawak,Syariah,31
+2022-09-01,Sarawak,Sibu,Jenayah,1
+2022-09-01,Sarawak,Sibu,Sivil,41
+2022-09-01,Sarawak,Sibu,Syariah,28
+2022-09-01,Selangor,Selangor,Jenayah,38
+2022-09-01,Selangor,Selangor,Sivil,331
+2022-09-01,Selangor,Selangor,Syariah,254
+2022-09-01,Terengganu,Terengganu,Jenayah,25
+2022-09-01,Terengganu,Terengganu,Sivil,16
+2022-09-01,Terengganu,Terengganu,Syariah,100
+2022-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,24
+2022-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,97
+2022-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,101
+2022-09-01,W.P. Labuan,Labuan,Jenayah,4
+2022-09-01,W.P. Labuan,Labuan,Sivil,99
+2022-09-01,W.P. Labuan,Labuan,Syariah,118
+2022-09-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,5
+2022-09-01,W.P. Putrajaya,Ibu Pejabat,Sivil,31
+2022-09-01,W.P. Putrajaya,Ibu Pejabat,Syariah,8
+2022-10-01,Johor,Johor,Jenayah,4
+2022-10-01,Johor,Johor,Sivil,97
+2022-10-01,Johor,Johor,Syariah,192
+2022-10-01,Johor,Muar,Jenayah,1
+2022-10-01,Johor,Muar,Sivil,21
+2022-10-01,Johor,Muar,Syariah,44
+2022-10-01,Kedah,Kedah,Jenayah,27
+2022-10-01,Kedah,Kedah,Sivil,50
+2022-10-01,Kedah,Kedah,Syariah,135
+2022-10-01,Kedah,Langkawi,Sivil,3
+2022-10-01,Kedah,Langkawi,Syariah,14
+2022-10-01,Kelantan,Gua Musang,Jenayah,43
+2022-10-01,Kelantan,Gua Musang,Sivil,3
+2022-10-01,Kelantan,Gua Musang,Syariah,13
+2022-10-01,Kelantan,Kelantan,Jenayah,54
+2022-10-01,Kelantan,Kelantan,Sivil,18
+2022-10-01,Kelantan,Kelantan,Syariah,143
+2022-10-01,Melaka,Melaka,Jenayah,14
+2022-10-01,Melaka,Melaka,Sivil,16
+2022-10-01,Melaka,Melaka,Syariah,39
+2022-10-01,Negeri Sembilan,Negeri Sembilan,Jenayah,22
+2022-10-01,Negeri Sembilan,Negeri Sembilan,Sivil,42
+2022-10-01,Negeri Sembilan,Negeri Sembilan,Syariah,38
+2022-10-01,Pahang,Pahang,Jenayah,113
+2022-10-01,Pahang,Pahang,Sivil,26
+2022-10-01,Pahang,Pahang,Syariah,70
+2022-10-01,Pahang,Raub,Sivil,6
+2022-10-01,Pahang,Raub,Syariah,20
+2022-10-01,Perak,Perak,Jenayah,7
+2022-10-01,Perak,Perak,Sivil,102
+2022-10-01,Perak,Perak,Syariah,110
+2022-10-01,Perak,Taiping,Sivil,19
+2022-10-01,Perak,Taiping,Syariah,11
+2022-10-01,Perlis,Perlis,Jenayah,8
+2022-10-01,Perlis,Perlis,Sivil,32
+2022-10-01,Perlis,Perlis,Syariah,22
+2022-10-01,Pulau Pinang,Pulau Pinang,Jenayah,22
+2022-10-01,Pulau Pinang,Pulau Pinang,Sivil,61
+2022-10-01,Pulau Pinang,Pulau Pinang,Syariah,65
+2022-10-01,Sarawak,Miri,Sivil,51
+2022-10-01,Sarawak,Miri,Syariah,12
+2022-10-01,Sarawak,Sarawak,Jenayah,5
+2022-10-01,Sarawak,Sarawak,Sivil,111
+2022-10-01,Sarawak,Sarawak,Syariah,50
+2022-10-01,Sarawak,Sibu,Sivil,18
+2022-10-01,Sarawak,Sibu,Syariah,4
+2022-10-01,Selangor,Selangor,Jenayah,2
+2022-10-01,Selangor,Selangor,Sivil,166
+2022-10-01,Selangor,Selangor,Syariah,95
+2022-10-01,Terengganu,Terengganu,Jenayah,8
+2022-10-01,Terengganu,Terengganu,Sivil,16
+2022-10-01,Terengganu,Terengganu,Syariah,143
+2022-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,30
+2022-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,85
+2022-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,86
+2022-10-01,W.P. Labuan,Labuan,Jenayah,5
+2022-10-01,W.P. Labuan,Labuan,Sivil,102
+2022-10-01,W.P. Labuan,Labuan,Syariah,77
+2022-10-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2022-10-01,W.P. Putrajaya,Ibu Pejabat,Sivil,22
+2022-10-01,W.P. Putrajaya,Ibu Pejabat,Syariah,10
+2022-11-01,Johor,Johor,Jenayah,82
+2022-11-01,Johor,Johor,Sivil,137
+2022-11-01,Johor,Johor,Syariah,218
+2022-11-01,Johor,Muar,Jenayah,20
+2022-11-01,Johor,Muar,Sivil,29
+2022-11-01,Johor,Muar,Syariah,32
+2022-11-01,Kedah,Kedah,Jenayah,71
+2022-11-01,Kedah,Kedah,Sivil,49
+2022-11-01,Kedah,Kedah,Syariah,103
+2022-11-01,Kedah,Langkawi,Sivil,3
+2022-11-01,Kedah,Langkawi,Syariah,24
+2022-11-01,Kelantan,Gua Musang,Sivil,3
+2022-11-01,Kelantan,Gua Musang,Syariah,25
+2022-11-01,Kelantan,Kelantan,Jenayah,11
+2022-11-01,Kelantan,Kelantan,Sivil,25
+2022-11-01,Kelantan,Kelantan,Syariah,157
+2022-11-01,Melaka,Melaka,Jenayah,18
+2022-11-01,Melaka,Melaka,Sivil,37
+2022-11-01,Melaka,Melaka,Syariah,56
+2022-11-01,Negeri Sembilan,Negeri Sembilan,Jenayah,47
+2022-11-01,Negeri Sembilan,Negeri Sembilan,Sivil,60
+2022-11-01,Negeri Sembilan,Negeri Sembilan,Syariah,53
+2022-11-01,Pahang,Pahang,Jenayah,168
+2022-11-01,Pahang,Pahang,Sivil,14
+2022-11-01,Pahang,Pahang,Syariah,73
+2022-11-01,Pahang,Raub,Jenayah,48
+2022-11-01,Pahang,Raub,Sivil,3
+2022-11-01,Pahang,Raub,Syariah,15
+2022-11-01,Perak,Perak,Jenayah,2
+2022-11-01,Perak,Perak,Sivil,87
+2022-11-01,Perak,Perak,Syariah,123
+2022-11-01,Perak,Taiping,Jenayah,35
+2022-11-01,Perak,Taiping,Sivil,27
+2022-11-01,Perak,Taiping,Syariah,11
+2022-11-01,Perlis,Perlis,Jenayah,3
+2022-11-01,Perlis,Perlis,Sivil,18
+2022-11-01,Perlis,Perlis,Syariah,51
+2022-11-01,Pulau Pinang,Pulau Pinang,Jenayah,19
+2022-11-01,Pulau Pinang,Pulau Pinang,Sivil,62
+2022-11-01,Pulau Pinang,Pulau Pinang,Syariah,53
+2022-11-01,Sarawak,Miri,Sivil,61
+2022-11-01,Sarawak,Miri,Syariah,30
+2022-11-01,Sarawak,Sarawak,Jenayah,15
+2022-11-01,Sarawak,Sarawak,Sivil,69
+2022-11-01,Sarawak,Sarawak,Syariah,45
+2022-11-01,Sarawak,Sibu,Sivil,33
+2022-11-01,Sarawak,Sibu,Syariah,35
+2022-11-01,Selangor,Selangor,Jenayah,27
+2022-11-01,Selangor,Selangor,Sivil,191
+2022-11-01,Selangor,Selangor,Syariah,111
+2022-11-01,Terengganu,Terengganu,Jenayah,14
+2022-11-01,Terengganu,Terengganu,Sivil,18
+2022-11-01,Terengganu,Terengganu,Syariah,93
+2022-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2022-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,75
+2022-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,105
+2022-11-01,W.P. Labuan,Labuan,Jenayah,4
+2022-11-01,W.P. Labuan,Labuan,Sivil,89
+2022-11-01,W.P. Labuan,Labuan,Syariah,72
+2022-11-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,6
+2022-11-01,W.P. Putrajaya,Ibu Pejabat,Sivil,24
+2022-11-01,W.P. Putrajaya,Ibu Pejabat,Syariah,9
+2022-12-01,Johor,Johor,Jenayah,6
+2022-12-01,Johor,Johor,Sivil,126
+2022-12-01,Johor,Johor,Syariah,179
+2022-12-01,Johor,Muar,Sivil,16
+2022-12-01,Johor,Muar,Syariah,34
+2022-12-01,Kedah,Kedah,Jenayah,21
+2022-12-01,Kedah,Kedah,Sivil,25
+2022-12-01,Kedah,Kedah,Syariah,81
+2022-12-01,Kedah,Langkawi,Jenayah,3
+2022-12-01,Kedah,Langkawi,Sivil,7
+2022-12-01,Kedah,Langkawi,Syariah,24
+2022-12-01,Kelantan,Gua Musang,Jenayah,1
+2022-12-01,Kelantan,Gua Musang,Sivil,5
+2022-12-01,Kelantan,Gua Musang,Syariah,20
+2022-12-01,Kelantan,Kelantan,Jenayah,57
+2022-12-01,Kelantan,Kelantan,Sivil,26
+2022-12-01,Kelantan,Kelantan,Syariah,131
+2022-12-01,Melaka,Melaka,Jenayah,9
+2022-12-01,Melaka,Melaka,Sivil,23
+2022-12-01,Melaka,Melaka,Syariah,18
+2022-12-01,Negeri Sembilan,Negeri Sembilan,Jenayah,78
+2022-12-01,Negeri Sembilan,Negeri Sembilan,Sivil,89
+2022-12-01,Negeri Sembilan,Negeri Sembilan,Syariah,46
+2022-12-01,Pahang,Pahang,Jenayah,66
+2022-12-01,Pahang,Pahang,Sivil,15
+2022-12-01,Pahang,Pahang,Syariah,62
+2022-12-01,Pahang,Raub,Sivil,5
+2022-12-01,Pahang,Raub,Syariah,18
+2022-12-01,Perak,Perak,Jenayah,1
+2022-12-01,Perak,Perak,Sivil,96
+2022-12-01,Perak,Perak,Syariah,81
+2022-12-01,Perak,Taiping,Jenayah,50
+2022-12-01,Perak,Taiping,Sivil,22
+2022-12-01,Perak,Taiping,Syariah,23
+2022-12-01,Perlis,Perlis,Jenayah,59
+2022-12-01,Perlis,Perlis,Sivil,11
+2022-12-01,Perlis,Perlis,Syariah,21
+2022-12-01,Pulau Pinang,Pulau Pinang,Jenayah,21
+2022-12-01,Pulau Pinang,Pulau Pinang,Sivil,67
+2022-12-01,Pulau Pinang,Pulau Pinang,Syariah,44
+2022-12-01,Sarawak,Miri,Sivil,51
+2022-12-01,Sarawak,Miri,Syariah,11
+2022-12-01,Sarawak,Sarawak,Jenayah,5
+2022-12-01,Sarawak,Sarawak,Sivil,64
+2022-12-01,Sarawak,Sarawak,Syariah,28
+2022-12-01,Sarawak,Sibu,Sivil,21
+2022-12-01,Selangor,Selangor,Jenayah,17
+2022-12-01,Selangor,Selangor,Sivil,282
+2022-12-01,Selangor,Selangor,Syariah,168
+2022-12-01,Terengganu,Terengganu,Jenayah,7
+2022-12-01,Terengganu,Terengganu,Sivil,10
+2022-12-01,Terengganu,Terengganu,Syariah,76
+2022-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,5
+2022-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,72
+2022-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,63
+2022-12-01,W.P. Labuan,Labuan,Jenayah,46
+2022-12-01,W.P. Labuan,Labuan,Sivil,70
+2022-12-01,W.P. Labuan,Labuan,Syariah,43
+2022-12-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,5
+2022-12-01,W.P. Putrajaya,Ibu Pejabat,Sivil,24
+2022-12-01,W.P. Putrajaya,Ibu Pejabat,Syariah,2
+2023-01-01,Johor,Johor,Jenayah,52
+2023-01-01,Johor,Johor,Sivil,188
+2023-01-01,Johor,Johor,Syariah,349
+2023-01-01,Johor,Muar,Sivil,35
+2023-01-01,Johor,Muar,Syariah,77
+2023-01-01,Kedah,Kedah,Jenayah,29
+2023-01-01,Kedah,Kedah,Sivil,31
+2023-01-01,Kedah,Kedah,Syariah,143
+2023-01-01,Kedah,Langkawi,Sivil,4
+2023-01-01,Kedah,Langkawi,Syariah,21
+2023-01-01,Kelantan,Gua Musang,Jenayah,9
+2023-01-01,Kelantan,Gua Musang,Syariah,24
+2023-01-01,Kelantan,Kelantan,Jenayah,10
+2023-01-01,Kelantan,Kelantan,Sivil,23
+2023-01-01,Kelantan,Kelantan,Syariah,167
+2023-01-01,Melaka,Melaka,Jenayah,1
+2023-01-01,Melaka,Melaka,Sivil,28
+2023-01-01,Melaka,Melaka,Syariah,32
+2023-01-01,Negeri Sembilan,Negeri Sembilan,Jenayah,38
+2023-01-01,Negeri Sembilan,Negeri Sembilan,Sivil,58
+2023-01-01,Negeri Sembilan,Negeri Sembilan,Syariah,53
+2023-01-01,Pahang,Pahang,Jenayah,26
+2023-01-01,Pahang,Pahang,Sivil,31
+2023-01-01,Pahang,Pahang,Syariah,72
+2023-01-01,Pahang,Raub,Jenayah,1
+2023-01-01,Pahang,Raub,Sivil,13
+2023-01-01,Pahang,Raub,Syariah,17
+2023-01-01,Perak,Perak,Jenayah,55
+2023-01-01,Perak,Perak,Sivil,93
+2023-01-01,Perak,Perak,Syariah,100
+2023-01-01,Perak,Taiping,Jenayah,1
+2023-01-01,Perak,Taiping,Sivil,23
+2023-01-01,Perak,Taiping,Syariah,14
+2023-01-01,Perlis,Perlis,Jenayah,46
+2023-01-01,Perlis,Perlis,Sivil,25
+2023-01-01,Perlis,Perlis,Syariah,42
+2023-01-01,Pulau Pinang,Pulau Pinang,Jenayah,24
+2023-01-01,Pulau Pinang,Pulau Pinang,Sivil,61
+2023-01-01,Pulau Pinang,Pulau Pinang,Syariah,54
+2023-01-01,Sabah,Sabah,Jenayah,34
+2023-01-01,Sabah,Sabah,Sivil,90
+2023-01-01,Sabah,Sabah,Syariah,51
+2023-01-01,Sarawak,Miri,Jenayah,3
+2023-01-01,Sarawak,Miri,Sivil,36
+2023-01-01,Sarawak,Miri,Syariah,16
+2023-01-01,Sarawak,Sarawak,Jenayah,1
+2023-01-01,Sarawak,Sarawak,Sivil,99
+2023-01-01,Sarawak,Sarawak,Syariah,77
+2023-01-01,Sarawak,Sibu,Sivil,11
+2023-01-01,Sarawak,Sibu,Syariah,27
+2023-01-01,Selangor,Selangor,Jenayah,47
+2023-01-01,Selangor,Selangor,Sivil,272
+2023-01-01,Selangor,Selangor,Syariah,210
+2023-01-01,Terengganu,Terengganu,Jenayah,9
+2023-01-01,Terengganu,Terengganu,Sivil,21
+2023-01-01,Terengganu,Terengganu,Syariah,75
+2023-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,14
+2023-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,116
+2023-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,142
+2023-01-01,W.P. Labuan,Labuan,Jenayah,1
+2023-01-01,W.P. Labuan,Labuan,Sivil,4
+2023-01-01,W.P. Labuan,Labuan,Syariah,26
+2023-01-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,5
+2023-01-01,W.P. Putrajaya,Ibu Pejabat,Sivil,33
+2023-01-01,W.P. Putrajaya,Ibu Pejabat,Syariah,6
+2023-02-01,Johor,Johor,Jenayah,5
+2023-02-01,Johor,Johor,Sivil,169
+2023-02-01,Johor,Johor,Syariah,236
+2023-02-01,Johor,Muar,Jenayah,13
+2023-02-01,Johor,Muar,Sivil,21
+2023-02-01,Johor,Muar,Syariah,22
+2023-02-01,Kedah,Kedah,Jenayah,42
+2023-02-01,Kedah,Kedah,Sivil,59
+2023-02-01,Kedah,Kedah,Syariah,114
+2023-02-01,Kedah,Langkawi,Jenayah,1
+2023-02-01,Kedah,Langkawi,Sivil,8
+2023-02-01,Kedah,Langkawi,Syariah,20
+2023-02-01,Kelantan,Gua Musang,Jenayah,35
+2023-02-01,Kelantan,Gua Musang,Syariah,11
+2023-02-01,Kelantan,Kelantan,Jenayah,101
+2023-02-01,Kelantan,Kelantan,Sivil,40
+2023-02-01,Kelantan,Kelantan,Syariah,149
+2023-02-01,Melaka,Melaka,Jenayah,10
+2023-02-01,Melaka,Melaka,Sivil,24
+2023-02-01,Melaka,Melaka,Syariah,53
+2023-02-01,Negeri Sembilan,Negeri Sembilan,Jenayah,26
+2023-02-01,Negeri Sembilan,Negeri Sembilan,Sivil,57
+2023-02-01,Negeri Sembilan,Negeri Sembilan,Syariah,45
+2023-02-01,Pahang,Pahang,Jenayah,26
+2023-02-01,Pahang,Pahang,Sivil,34
+2023-02-01,Pahang,Pahang,Syariah,104
+2023-02-01,Pahang,Raub,Jenayah,40
+2023-02-01,Pahang,Raub,Sivil,14
+2023-02-01,Pahang,Raub,Syariah,38
+2023-02-01,Perak,Perak,Jenayah,3
+2023-02-01,Perak,Perak,Sivil,120
+2023-02-01,Perak,Perak,Syariah,97
+2023-02-01,Perak,Taiping,Jenayah,2
+2023-02-01,Perak,Taiping,Sivil,25
+2023-02-01,Perak,Taiping,Syariah,17
+2023-02-01,Perlis,Perlis,Jenayah,26
+2023-02-01,Perlis,Perlis,Sivil,17
+2023-02-01,Perlis,Perlis,Syariah,40
+2023-02-01,Pulau Pinang,Pulau Pinang,Jenayah,32
+2023-02-01,Pulau Pinang,Pulau Pinang,Sivil,62
+2023-02-01,Pulau Pinang,Pulau Pinang,Syariah,63
+2023-02-01,Sabah,Sabah,Jenayah,9
+2023-02-01,Sabah,Sabah,Sivil,96
+2023-02-01,Sabah,Sabah,Syariah,73
+2023-02-01,Sarawak,Miri,Sivil,45
+2023-02-01,Sarawak,Miri,Syariah,17
+2023-02-01,Sarawak,Sarawak,Jenayah,3
+2023-02-01,Sarawak,Sarawak,Sivil,106
+2023-02-01,Sarawak,Sarawak,Syariah,62
+2023-02-01,Sarawak,Sibu,Jenayah,2
+2023-02-01,Sarawak,Sibu,Sivil,55
+2023-02-01,Sarawak,Sibu,Syariah,27
+2023-02-01,Selangor,Selangor,Jenayah,35
+2023-02-01,Selangor,Selangor,Sivil,248
+2023-02-01,Selangor,Selangor,Syariah,187
+2023-02-01,Terengganu,Terengganu,Jenayah,5
+2023-02-01,Terengganu,Terengganu,Sivil,12
+2023-02-01,Terengganu,Terengganu,Syariah,109
+2023-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,15
+2023-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,47
+2023-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,127
+2023-02-01,W.P. Labuan,Labuan,Sivil,5
+2023-02-01,W.P. Labuan,Labuan,Syariah,1
+2023-02-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,5
+2023-02-01,W.P. Putrajaya,Ibu Pejabat,Sivil,37
+2023-02-01,W.P. Putrajaya,Ibu Pejabat,Syariah,2
+2023-03-01,Johor,Johor,Jenayah,51
+2023-03-01,Johor,Johor,Sivil,172
+2023-03-01,Johor,Johor,Syariah,216
+2023-03-01,Johor,Muar,Jenayah,18
+2023-03-01,Johor,Muar,Sivil,18
+2023-03-01,Johor,Muar,Syariah,42
+2023-03-01,Kedah,Kedah,Jenayah,30
+2023-03-01,Kedah,Kedah,Sivil,47
+2023-03-01,Kedah,Kedah,Syariah,134
+2023-03-01,Kedah,Langkawi,Jenayah,2
+2023-03-01,Kedah,Langkawi,Sivil,9
+2023-03-01,Kedah,Langkawi,Syariah,32
+2023-03-01,Kelantan,Gua Musang,Jenayah,8
+2023-03-01,Kelantan,Gua Musang,Sivil,2
+2023-03-01,Kelantan,Gua Musang,Syariah,22
+2023-03-01,Kelantan,Kelantan,Jenayah,118
+2023-03-01,Kelantan,Kelantan,Sivil,40
+2023-03-01,Kelantan,Kelantan,Syariah,160
+2023-03-01,Melaka,Melaka,Jenayah,16
+2023-03-01,Melaka,Melaka,Sivil,38
+2023-03-01,Melaka,Melaka,Syariah,42
+2023-03-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2023-03-01,Negeri Sembilan,Negeri Sembilan,Sivil,81
+2023-03-01,Negeri Sembilan,Negeri Sembilan,Syariah,55
+2023-03-01,Pahang,Pahang,Jenayah,18
+2023-03-01,Pahang,Pahang,Sivil,48
+2023-03-01,Pahang,Pahang,Syariah,109
+2023-03-01,Pahang,Raub,Jenayah,2
+2023-03-01,Pahang,Raub,Sivil,19
+2023-03-01,Pahang,Raub,Syariah,49
+2023-03-01,Perak,Perak,Jenayah,30
+2023-03-01,Perak,Perak,Sivil,117
+2023-03-01,Perak,Perak,Syariah,163
+2023-03-01,Perak,Taiping,Jenayah,3
+2023-03-01,Perak,Taiping,Sivil,43
+2023-03-01,Perak,Taiping,Syariah,19
+2023-03-01,Perlis,Perlis,Jenayah,20
+2023-03-01,Perlis,Perlis,Sivil,24
+2023-03-01,Perlis,Perlis,Syariah,45
+2023-03-01,Pulau Pinang,Pulau Pinang,Jenayah,26
+2023-03-01,Pulau Pinang,Pulau Pinang,Sivil,82
+2023-03-01,Pulau Pinang,Pulau Pinang,Syariah,96
+2023-03-01,Sabah,Sabah,Jenayah,40
+2023-03-01,Sabah,Sabah,Sivil,118
+2023-03-01,Sabah,Sabah,Syariah,80
+2023-03-01,Sarawak,Miri,Jenayah,3
+2023-03-01,Sarawak,Miri,Sivil,78
+2023-03-01,Sarawak,Miri,Syariah,33
+2023-03-01,Sarawak,Sarawak,Jenayah,5
+2023-03-01,Sarawak,Sarawak,Sivil,121
+2023-03-01,Sarawak,Sarawak,Syariah,95
+2023-03-01,Sarawak,Sibu,Sivil,30
+2023-03-01,Sarawak,Sibu,Syariah,12
+2023-03-01,Selangor,Selangor,Jenayah,44
+2023-03-01,Selangor,Selangor,Sivil,291
+2023-03-01,Selangor,Selangor,Syariah,215
+2023-03-01,Terengganu,Terengganu,Jenayah,15
+2023-03-01,Terengganu,Terengganu,Sivil,18
+2023-03-01,Terengganu,Terengganu,Syariah,123
+2023-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,11
+2023-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,172
+2023-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,95
+2023-03-01,W.P. Labuan,Labuan,Syariah,26
+2023-03-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,6
+2023-03-01,W.P. Putrajaya,Ibu Pejabat,Sivil,38
+2023-03-01,W.P. Putrajaya,Ibu Pejabat,Syariah,6
+2023-04-01,Johor,Johor,Jenayah,8
+2023-04-01,Johor,Johor,Sivil,153
+2023-04-01,Johor,Johor,Syariah,197
+2023-04-01,Johor,Muar,Jenayah,1
+2023-04-01,Johor,Muar,Sivil,15
+2023-04-01,Johor,Muar,Syariah,19
+2023-04-01,Kedah,Kedah,Jenayah,18
+2023-04-01,Kedah,Kedah,Sivil,41
+2023-04-01,Kedah,Kedah,Syariah,49
+2023-04-01,Kedah,Langkawi,Sivil,2
+2023-04-01,Kedah,Langkawi,Syariah,11
+2023-04-01,Kelantan,Gua Musang,Jenayah,2
+2023-04-01,Kelantan,Gua Musang,Syariah,13
+2023-04-01,Kelantan,Kelantan,Jenayah,10
+2023-04-01,Kelantan,Kelantan,Sivil,16
+2023-04-01,Kelantan,Kelantan,Syariah,69
+2023-04-01,Melaka,Melaka,Jenayah,13
+2023-04-01,Melaka,Melaka,Sivil,33
+2023-04-01,Melaka,Melaka,Syariah,27
+2023-04-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2023-04-01,Negeri Sembilan,Negeri Sembilan,Sivil,58
+2023-04-01,Negeri Sembilan,Negeri Sembilan,Syariah,28
+2023-04-01,Pahang,Pahang,Jenayah,2
+2023-04-01,Pahang,Pahang,Sivil,14
+2023-04-01,Pahang,Pahang,Syariah,38
+2023-04-01,Pahang,Raub,Jenayah,2
+2023-04-01,Pahang,Raub,Sivil,5
+2023-04-01,Pahang,Raub,Syariah,14
+2023-04-01,Perak,Perak,Jenayah,1
+2023-04-01,Perak,Perak,Sivil,83
+2023-04-01,Perak,Perak,Syariah,58
+2023-04-01,Perak,Taiping,Jenayah,41
+2023-04-01,Perak,Taiping,Sivil,19
+2023-04-01,Perak,Taiping,Syariah,3
+2023-04-01,Perlis,Perlis,Jenayah,11
+2023-04-01,Perlis,Perlis,Sivil,12
+2023-04-01,Perlis,Perlis,Syariah,13
+2023-04-01,Pulau Pinang,Pulau Pinang,Jenayah,41
+2023-04-01,Pulau Pinang,Pulau Pinang,Sivil,93
+2023-04-01,Pulau Pinang,Pulau Pinang,Syariah,68
+2023-04-01,Sabah,Sabah,Jenayah,3
+2023-04-01,Sabah,Sabah,Sivil,63
+2023-04-01,Sabah,Sabah,Syariah,13
+2023-04-01,Sarawak,Miri,Sivil,46
+2023-04-01,Sarawak,Miri,Syariah,10
+2023-04-01,Sarawak,Sarawak,Jenayah,4
+2023-04-01,Sarawak,Sarawak,Sivil,56
+2023-04-01,Sarawak,Sarawak,Syariah,27
+2023-04-01,Sarawak,Sibu,Sivil,27
+2023-04-01,Sarawak,Sibu,Syariah,5
+2023-04-01,Selangor,Selangor,Jenayah,11
+2023-04-01,Selangor,Selangor,Sivil,182
+2023-04-01,Selangor,Selangor,Syariah,156
+2023-04-01,Terengganu,Terengganu,Jenayah,6
+2023-04-01,Terengganu,Terengganu,Sivil,10
+2023-04-01,Terengganu,Terengganu,Syariah,75
+2023-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,3
+2023-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,51
+2023-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,62
+2023-04-01,W.P. Labuan,Labuan,Sivil,9
+2023-04-01,W.P. Labuan,Labuan,Syariah,6
+2023-04-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2023-04-01,W.P. Putrajaya,Ibu Pejabat,Sivil,21
+2023-04-01,W.P. Putrajaya,Ibu Pejabat,Syariah,2
+2023-05-01,Johor,Johor,Jenayah,43
+2023-05-01,Johor,Johor,Sivil,201
+2023-05-01,Johor,Johor,Syariah,321
+2023-05-01,Johor,Muar,Jenayah,9
+2023-05-01,Johor,Muar,Sivil,26
+2023-05-01,Johor,Muar,Syariah,57
+2023-05-01,Kedah,Kedah,Jenayah,30
+2023-05-01,Kedah,Kedah,Sivil,65
+2023-05-01,Kedah,Kedah,Syariah,133
+2023-05-01,Kedah,Langkawi,Jenayah,4
+2023-05-01,Kedah,Langkawi,Sivil,4
+2023-05-01,Kedah,Langkawi,Syariah,23
+2023-05-01,Kelantan,Gua Musang,Jenayah,23
+2023-05-01,Kelantan,Gua Musang,Syariah,27
+2023-05-01,Kelantan,Kelantan,Jenayah,20
+2023-05-01,Kelantan,Kelantan,Sivil,35
+2023-05-01,Kelantan,Kelantan,Syariah,198
+2023-05-01,Melaka,Melaka,Jenayah,28
+2023-05-01,Melaka,Melaka,Sivil,36
+2023-05-01,Melaka,Melaka,Syariah,89
+2023-05-01,Negeri Sembilan,Negeri Sembilan,Jenayah,38
+2023-05-01,Negeri Sembilan,Negeri Sembilan,Sivil,63
+2023-05-01,Negeri Sembilan,Negeri Sembilan,Syariah,63
+2023-05-01,Pahang,Pahang,Jenayah,14
+2023-05-01,Pahang,Pahang,Sivil,34
+2023-05-01,Pahang,Pahang,Syariah,136
+2023-05-01,Pahang,Raub,Jenayah,34
+2023-05-01,Pahang,Raub,Sivil,6
+2023-05-01,Pahang,Raub,Syariah,29
+2023-05-01,Perak,Perak,Jenayah,4
+2023-05-01,Perak,Perak,Sivil,104
+2023-05-01,Perak,Perak,Syariah,164
+2023-05-01,Perak,Taiping,Jenayah,26
+2023-05-01,Perak,Taiping,Sivil,29
+2023-05-01,Perak,Taiping,Syariah,12
+2023-05-01,Perlis,Perlis,Jenayah,3
+2023-05-01,Perlis,Perlis,Sivil,20
+2023-05-01,Perlis,Perlis,Syariah,39
+2023-05-01,Pulau Pinang,Pulau Pinang,Jenayah,50
+2023-05-01,Pulau Pinang,Pulau Pinang,Sivil,136
+2023-05-01,Pulau Pinang,Pulau Pinang,Syariah,90
+2023-05-01,Sabah,Sabah,Jenayah,3
+2023-05-01,Sabah,Sabah,Sivil,69
+2023-05-01,Sabah,Sabah,Syariah,37
+2023-05-01,Sarawak,Miri,Jenayah,3
+2023-05-01,Sarawak,Miri,Sivil,46
+2023-05-01,Sarawak,Miri,Syariah,14
+2023-05-01,Sarawak,Sarawak,Jenayah,41
+2023-05-01,Sarawak,Sarawak,Sivil,84
+2023-05-01,Sarawak,Sarawak,Syariah,104
+2023-05-01,Sarawak,Sibu,Jenayah,1
+2023-05-01,Sarawak,Sibu,Sivil,21
+2023-05-01,Sarawak,Sibu,Syariah,14
+2023-05-01,Selangor,Selangor,Jenayah,12
+2023-05-01,Selangor,Selangor,Sivil,221
+2023-05-01,Selangor,Selangor,Syariah,251
+2023-05-01,Terengganu,Terengganu,Jenayah,17
+2023-05-01,Terengganu,Terengganu,Sivil,15
+2023-05-01,Terengganu,Terengganu,Syariah,102
+2023-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,33
+2023-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,155
+2023-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,135
+2023-05-01,W.P. Labuan,Labuan,Sivil,4
+2023-05-01,W.P. Labuan,Labuan,Syariah,16
+2023-05-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2023-05-01,W.P. Putrajaya,Ibu Pejabat,Sivil,39
+2023-05-01,W.P. Putrajaya,Ibu Pejabat,Syariah,5
+2023-06-01,Johor,Johor,Jenayah,8
+2023-06-01,Johor,Johor,Sivil,173
+2023-06-01,Johor,Johor,Syariah,257
+2023-06-01,Johor,Muar,Jenayah,5
+2023-06-01,Johor,Muar,Sivil,28
+2023-06-01,Johor,Muar,Syariah,69
+2023-06-01,Kedah,Kedah,Jenayah,25
+2023-06-01,Kedah,Kedah,Sivil,48
+2023-06-01,Kedah,Kedah,Syariah,98
+2023-06-01,Kedah,Langkawi,Jenayah,17
+2023-06-01,Kedah,Langkawi,Sivil,7
+2023-06-01,Kedah,Langkawi,Syariah,21
+2023-06-01,Kelantan,Gua Musang,Jenayah,1
+2023-06-01,Kelantan,Gua Musang,Sivil,2
+2023-06-01,Kelantan,Gua Musang,Syariah,25
+2023-06-01,Kelantan,Kelantan,Jenayah,94
+2023-06-01,Kelantan,Kelantan,Sivil,16
+2023-06-01,Kelantan,Kelantan,Syariah,121
+2023-06-01,Melaka,Melaka,Jenayah,18
+2023-06-01,Melaka,Melaka,Sivil,30
+2023-06-01,Melaka,Melaka,Syariah,38
+2023-06-01,Negeri Sembilan,Negeri Sembilan,Jenayah,11
+2023-06-01,Negeri Sembilan,Negeri Sembilan,Sivil,53
+2023-06-01,Negeri Sembilan,Negeri Sembilan,Syariah,57
+2023-06-01,Pahang,Pahang,Jenayah,40
+2023-06-01,Pahang,Pahang,Sivil,28
+2023-06-01,Pahang,Pahang,Syariah,91
+2023-06-01,Pahang,Raub,Jenayah,2
+2023-06-01,Pahang,Raub,Sivil,7
+2023-06-01,Pahang,Raub,Syariah,25
+2023-06-01,Perak,Perak,Jenayah,4
+2023-06-01,Perak,Perak,Sivil,71
+2023-06-01,Perak,Perak,Syariah,74
+2023-06-01,Perak,Taiping,Sivil,26
+2023-06-01,Perak,Taiping,Syariah,12
+2023-06-01,Perlis,Perlis,Jenayah,15
+2023-06-01,Perlis,Perlis,Sivil,25
+2023-06-01,Perlis,Perlis,Syariah,22
+2023-06-01,Pulau Pinang,Pulau Pinang,Jenayah,23
+2023-06-01,Pulau Pinang,Pulau Pinang,Sivil,92
+2023-06-01,Pulau Pinang,Pulau Pinang,Syariah,92
+2023-06-01,Sabah,Sabah,Jenayah,12
+2023-06-01,Sabah,Sabah,Sivil,77
+2023-06-01,Sabah,Sabah,Syariah,63
+2023-06-01,Sarawak,Miri,Sivil,39
+2023-06-01,Sarawak,Miri,Syariah,15
+2023-06-01,Sarawak,Sarawak,Jenayah,45
+2023-06-01,Sarawak,Sarawak,Sivil,66
+2023-06-01,Sarawak,Sarawak,Syariah,50
+2023-06-01,Sarawak,Sibu,Jenayah,1
+2023-06-01,Sarawak,Sibu,Sivil,15
+2023-06-01,Sarawak,Sibu,Syariah,17
+2023-06-01,Selangor,Selangor,Jenayah,39
+2023-06-01,Selangor,Selangor,Sivil,278
+2023-06-01,Selangor,Selangor,Syariah,238
+2023-06-01,Terengganu,Terengganu,Jenayah,3
+2023-06-01,Terengganu,Terengganu,Sivil,10
+2023-06-01,Terengganu,Terengganu,Syariah,67
+2023-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,30
+2023-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,131
+2023-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,130
+2023-06-01,W.P. Labuan,Labuan,Syariah,10
+2023-06-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2023-06-01,W.P. Putrajaya,Ibu Pejabat,Sivil,13
+2023-06-01,W.P. Putrajaya,Ibu Pejabat,Syariah,1
+2023-07-01,Johor,Johor,Jenayah,38
+2023-07-01,Johor,Johor,Sivil,197
+2023-07-01,Johor,Johor,Syariah,280
+2023-07-01,Johor,Muar,Jenayah,20
+2023-07-01,Johor,Muar,Sivil,44
+2023-07-01,Johor,Muar,Syariah,59
+2023-07-01,Kedah,Kedah,Jenayah,51
+2023-07-01,Kedah,Kedah,Sivil,54
+2023-07-01,Kedah,Kedah,Syariah,114
+2023-07-01,Kedah,Langkawi,Jenayah,7
+2023-07-01,Kedah,Langkawi,Sivil,5
+2023-07-01,Kedah,Langkawi,Syariah,31
+2023-07-01,Kelantan,Gua Musang,Jenayah,1
+2023-07-01,Kelantan,Gua Musang,Sivil,3
+2023-07-01,Kelantan,Gua Musang,Syariah,28
+2023-07-01,Kelantan,Kelantan,Jenayah,12
+2023-07-01,Kelantan,Kelantan,Sivil,35
+2023-07-01,Kelantan,Kelantan,Syariah,156
+2023-07-01,Melaka,Melaka,Jenayah,22
+2023-07-01,Melaka,Melaka,Sivil,25
+2023-07-01,Melaka,Melaka,Syariah,45
+2023-07-01,Negeri Sembilan,Negeri Sembilan,Jenayah,69
+2023-07-01,Negeri Sembilan,Negeri Sembilan,Sivil,50
+2023-07-01,Negeri Sembilan,Negeri Sembilan,Syariah,56
+2023-07-01,Pahang,Pahang,Jenayah,3
+2023-07-01,Pahang,Pahang,Sivil,27
+2023-07-01,Pahang,Pahang,Syariah,170
+2023-07-01,Pahang,Raub,Jenayah,1
+2023-07-01,Pahang,Raub,Sivil,2
+2023-07-01,Pahang,Raub,Syariah,30
+2023-07-01,Perak,Perak,Jenayah,4
+2023-07-01,Perak,Perak,Sivil,90
+2023-07-01,Perak,Perak,Syariah,133
+2023-07-01,Perak,Taiping,Sivil,39
+2023-07-01,Perak,Taiping,Syariah,33
+2023-07-01,Perlis,Perlis,Jenayah,5
+2023-07-01,Perlis,Perlis,Sivil,22
+2023-07-01,Perlis,Perlis,Syariah,14
+2023-07-01,Pulau Pinang,Pulau Pinang,Jenayah,31
+2023-07-01,Pulau Pinang,Pulau Pinang,Sivil,94
+2023-07-01,Pulau Pinang,Pulau Pinang,Syariah,83
+2023-07-01,Sabah,Sabah,Jenayah,24
+2023-07-01,Sabah,Sabah,Sivil,83
+2023-07-01,Sabah,Sabah,Syariah,71
+2023-07-01,Sarawak,Miri,Jenayah,2
+2023-07-01,Sarawak,Miri,Sivil,53
+2023-07-01,Sarawak,Miri,Syariah,24
+2023-07-01,Sarawak,Sarawak,Jenayah,12
+2023-07-01,Sarawak,Sarawak,Sivil,121
+2023-07-01,Sarawak,Sarawak,Syariah,69
+2023-07-01,Sarawak,Sibu,Jenayah,8
+2023-07-01,Sarawak,Sibu,Sivil,48
+2023-07-01,Sarawak,Sibu,Syariah,33
+2023-07-01,Selangor,Selangor,Jenayah,38
+2023-07-01,Selangor,Selangor,Sivil,268
+2023-07-01,Selangor,Selangor,Syariah,295
+2023-07-01,Terengganu,Terengganu,Jenayah,12
+2023-07-01,Terengganu,Terengganu,Sivil,19
+2023-07-01,Terengganu,Terengganu,Syariah,121
+2023-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,14
+2023-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,111
+2023-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,137
+2023-07-01,W.P. Labuan,Labuan,Syariah,21
+2023-07-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2023-07-01,W.P. Putrajaya,Ibu Pejabat,Sivil,20
+2023-07-01,W.P. Putrajaya,Ibu Pejabat,Syariah,1
+2023-08-01,Johor,Johor,Jenayah,7
+2023-08-01,Johor,Johor,Sivil,172
+2023-08-01,Johor,Johor,Syariah,195
+2023-08-01,Johor,Muar,Jenayah,14
+2023-08-01,Johor,Muar,Sivil,43
+2023-08-01,Johor,Muar,Syariah,51
+2023-08-01,Kedah,Kedah,Jenayah,50
+2023-08-01,Kedah,Kedah,Sivil,59
+2023-08-01,Kedah,Kedah,Syariah,90
+2023-08-01,Kedah,Langkawi,Jenayah,7
+2023-08-01,Kedah,Langkawi,Sivil,7
+2023-08-01,Kedah,Langkawi,Syariah,29
+2023-08-01,Kelantan,Gua Musang,Jenayah,6
+2023-08-01,Kelantan,Gua Musang,Syariah,14
+2023-08-01,Kelantan,Kelantan,Jenayah,12
+2023-08-01,Kelantan,Kelantan,Sivil,35
+2023-08-01,Kelantan,Kelantan,Syariah,145
+2023-08-01,Melaka,Melaka,Jenayah,10
+2023-08-01,Melaka,Melaka,Sivil,18
+2023-08-01,Melaka,Melaka,Syariah,41
+2023-08-01,Negeri Sembilan,Negeri Sembilan,Jenayah,42
+2023-08-01,Negeri Sembilan,Negeri Sembilan,Sivil,60
+2023-08-01,Negeri Sembilan,Negeri Sembilan,Syariah,42
+2023-08-01,Pahang,Pahang,Jenayah,5
+2023-08-01,Pahang,Pahang,Sivil,35
+2023-08-01,Pahang,Pahang,Syariah,138
+2023-08-01,Pahang,Raub,Jenayah,54
+2023-08-01,Pahang,Raub,Sivil,11
+2023-08-01,Pahang,Raub,Syariah,37
+2023-08-01,Perak,Perak,Jenayah,3
+2023-08-01,Perak,Perak,Sivil,118
+2023-08-01,Perak,Perak,Syariah,142
+2023-08-01,Perak,Taiping,Jenayah,29
+2023-08-01,Perak,Taiping,Sivil,26
+2023-08-01,Perak,Taiping,Syariah,11
+2023-08-01,Perlis,Perlis,Jenayah,4
+2023-08-01,Perlis,Perlis,Sivil,26
+2023-08-01,Perlis,Perlis,Syariah,19
+2023-08-01,Pulau Pinang,Pulau Pinang,Jenayah,18
+2023-08-01,Pulau Pinang,Pulau Pinang,Sivil,71
+2023-08-01,Pulau Pinang,Pulau Pinang,Syariah,78
+2023-08-01,Sabah,Sabah,Jenayah,29
+2023-08-01,Sabah,Sabah,Sivil,114
+2023-08-01,Sabah,Sabah,Syariah,56
+2023-08-01,Sarawak,Miri,Jenayah,2
+2023-08-01,Sarawak,Miri,Sivil,62
+2023-08-01,Sarawak,Miri,Syariah,20
+2023-08-01,Sarawak,Sarawak,Jenayah,10
+2023-08-01,Sarawak,Sarawak,Sivil,91
+2023-08-01,Sarawak,Sarawak,Syariah,50
+2023-08-01,Sarawak,Sibu,Jenayah,1
+2023-08-01,Sarawak,Sibu,Sivil,47
+2023-08-01,Sarawak,Sibu,Syariah,23
+2023-08-01,Selangor,Selangor,Jenayah,10
+2023-08-01,Selangor,Selangor,Sivil,248
+2023-08-01,Selangor,Selangor,Syariah,230
+2023-08-01,Terengganu,Terengganu,Jenayah,9
+2023-08-01,Terengganu,Terengganu,Sivil,27
+2023-08-01,Terengganu,Terengganu,Syariah,92
+2023-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,105
+2023-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,108
+2023-08-01,W.P. Labuan,Labuan,Jenayah,2
+2023-08-01,W.P. Labuan,Labuan,Sivil,12
+2023-08-01,W.P. Labuan,Labuan,Syariah,18
+2023-08-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,5
+2023-08-01,W.P. Putrajaya,Ibu Pejabat,Sivil,28
+2023-08-01,W.P. Putrajaya,Ibu Pejabat,Syariah,5
+2023-09-01,Johor,Johor,Jenayah,1
+2023-09-01,Johor,Johor,Sivil,52
+2023-09-01,Johor,Johor,Syariah,76
+2023-09-01,Johor,Muar,Jenayah,4
+2023-09-01,Johor,Muar,Sivil,31
+2023-09-01,Johor,Muar,Syariah,38
+2023-09-01,Kedah,Kedah,Jenayah,35
+2023-09-01,Kedah,Kedah,Sivil,52
+2023-09-01,Kedah,Kedah,Syariah,87
+2023-09-01,Kedah,Langkawi,Jenayah,1
+2023-09-01,Kedah,Langkawi,Sivil,6
+2023-09-01,Kedah,Langkawi,Syariah,19
+2023-09-01,Kelantan,Gua Musang,Jenayah,21
+2023-09-01,Kelantan,Gua Musang,Sivil,1
+2023-09-01,Kelantan,Gua Musang,Syariah,19
+2023-09-01,Kelantan,Kelantan,Jenayah,86
+2023-09-01,Kelantan,Kelantan,Sivil,25
+2023-09-01,Kelantan,Kelantan,Syariah,130
+2023-09-01,Melaka,Melaka,Jenayah,16
+2023-09-01,Melaka,Melaka,Sivil,28
+2023-09-01,Melaka,Melaka,Syariah,30
+2023-09-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2023-09-01,Negeri Sembilan,Negeri Sembilan,Sivil,46
+2023-09-01,Negeri Sembilan,Negeri Sembilan,Syariah,55
+2023-09-01,Pahang,Pahang,Jenayah,51
+2023-09-01,Pahang,Pahang,Sivil,23
+2023-09-01,Pahang,Pahang,Syariah,103
+2023-09-01,Pahang,Raub,Jenayah,21
+2023-09-01,Pahang,Raub,Sivil,4
+2023-09-01,Pahang,Raub,Syariah,31
+2023-09-01,Perak,Perak,Jenayah,2
+2023-09-01,Perak,Perak,Sivil,99
+2023-09-01,Perak,Perak,Syariah,151
+2023-09-01,Perak,Taiping,Jenayah,1
+2023-09-01,Perak,Taiping,Sivil,31
+2023-09-01,Perak,Taiping,Syariah,20
+2023-09-01,Perlis,Perlis,Jenayah,16
+2023-09-01,Perlis,Perlis,Sivil,20
+2023-09-01,Perlis,Perlis,Syariah,30
+2023-09-01,Pulau Pinang,Pulau Pinang,Jenayah,6
+2023-09-01,Pulau Pinang,Pulau Pinang,Sivil,99
+2023-09-01,Pulau Pinang,Pulau Pinang,Syariah,71
+2023-09-01,Sabah,Sabah,Jenayah,17
+2023-09-01,Sabah,Sabah,Sivil,93
+2023-09-01,Sabah,Sabah,Syariah,69
+2023-09-01,Sarawak,Miri,Sivil,43
+2023-09-01,Sarawak,Miri,Syariah,8
+2023-09-01,Sarawak,Sarawak,Jenayah,3
+2023-09-01,Sarawak,Sarawak,Sivil,82
+2023-09-01,Sarawak,Sarawak,Syariah,47
+2023-09-01,Sarawak,Sibu,Sivil,46
+2023-09-01,Sarawak,Sibu,Syariah,19
+2023-09-01,Selangor,Selangor,Jenayah,7
+2023-09-01,Selangor,Selangor,Sivil,221
+2023-09-01,Selangor,Selangor,Syariah,149
+2023-09-01,Terengganu,Terengganu,Jenayah,12
+2023-09-01,Terengganu,Terengganu,Sivil,18
+2023-09-01,Terengganu,Terengganu,Syariah,63
+2023-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,1
+2023-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,115
+2023-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,92
+2023-09-01,W.P. Labuan,Labuan,Sivil,3
+2023-09-01,W.P. Labuan,Labuan,Syariah,14
+2023-09-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2023-09-01,W.P. Putrajaya,Ibu Pejabat,Sivil,18
+2023-09-01,W.P. Putrajaya,Ibu Pejabat,Syariah,22
+2023-10-01,Johor,Johor,Jenayah,52
+2023-10-01,Johor,Johor,Sivil,215
+2023-10-01,Johor,Johor,Syariah,318
+2023-10-01,Johor,Muar,Jenayah,18
+2023-10-01,Johor,Muar,Sivil,47
+2023-10-01,Johor,Muar,Syariah,62
+2023-10-01,Kedah,Kedah,Jenayah,42
+2023-10-01,Kedah,Kedah,Sivil,64
+2023-10-01,Kedah,Kedah,Syariah,160
+2023-10-01,Kedah,Langkawi,Jenayah,3
+2023-10-01,Kedah,Langkawi,Sivil,7
+2023-10-01,Kedah,Langkawi,Syariah,32
+2023-10-01,Kelantan,Gua Musang,Jenayah,3
+2023-10-01,Kelantan,Gua Musang,Sivil,6
+2023-10-01,Kelantan,Gua Musang,Syariah,31
+2023-10-01,Kelantan,Kelantan,Jenayah,20
+2023-10-01,Kelantan,Kelantan,Sivil,29
+2023-10-01,Kelantan,Kelantan,Syariah,191
+2023-10-01,Melaka,Melaka,Jenayah,14
+2023-10-01,Melaka,Melaka,Sivil,25
+2023-10-01,Melaka,Melaka,Syariah,55
+2023-10-01,Negeri Sembilan,Negeri Sembilan,Jenayah,3
+2023-10-01,Negeri Sembilan,Negeri Sembilan,Sivil,68
+2023-10-01,Negeri Sembilan,Negeri Sembilan,Syariah,55
+2023-10-01,Pahang,Pahang,Jenayah,2
+2023-10-01,Pahang,Pahang,Sivil,31
+2023-10-01,Pahang,Pahang,Syariah,96
+2023-10-01,Pahang,Raub,Jenayah,1
+2023-10-01,Pahang,Raub,Sivil,11
+2023-10-01,Pahang,Raub,Syariah,40
+2023-10-01,Perak,Perak,Jenayah,3
+2023-10-01,Perak,Perak,Sivil,110
+2023-10-01,Perak,Perak,Syariah,100
+2023-10-01,Perak,Taiping,Jenayah,29
+2023-10-01,Perak,Taiping,Sivil,21
+2023-10-01,Perak,Taiping,Syariah,19
+2023-10-01,Perlis,Perlis,Jenayah,5
+2023-10-01,Perlis,Perlis,Sivil,27
+2023-10-01,Perlis,Perlis,Syariah,52
+2023-10-01,Pulau Pinang,Pulau Pinang,Jenayah,20
+2023-10-01,Pulau Pinang,Pulau Pinang,Sivil,109
+2023-10-01,Pulau Pinang,Pulau Pinang,Syariah,98
+2023-10-01,Sabah,Sabah,Jenayah,7
+2023-10-01,Sabah,Sabah,Sivil,120
+2023-10-01,Sabah,Sabah,Syariah,85
+2023-10-01,Sarawak,Miri,Jenayah,1
+2023-10-01,Sarawak,Miri,Sivil,39
+2023-10-01,Sarawak,Miri,Syariah,13
+2023-10-01,Sarawak,Sarawak,Jenayah,2
+2023-10-01,Sarawak,Sarawak,Sivil,110
+2023-10-01,Sarawak,Sarawak,Syariah,105
+2023-10-01,Sarawak,Sibu,Jenayah,1
+2023-10-01,Sarawak,Sibu,Sivil,35
+2023-10-01,Sarawak,Sibu,Syariah,18
+2023-10-01,Selangor,Selangor,Jenayah,7
+2023-10-01,Selangor,Selangor,Sivil,263
+2023-10-01,Selangor,Selangor,Syariah,226
+2023-10-01,Terengganu,Terengganu,Jenayah,17
+2023-10-01,Terengganu,Terengganu,Sivil,29
+2023-10-01,Terengganu,Terengganu,Syariah,146
+2023-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,35
+2023-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,103
+2023-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,128
+2023-10-01,W.P. Labuan,Labuan,Sivil,8
+2023-10-01,W.P. Labuan,Labuan,Syariah,21
+2023-10-01,W.P. Putrajaya,Ibu Pejabat,Sivil,38
+2023-10-01,W.P. Putrajaya,Ibu Pejabat,Syariah,22
+2023-11-01,Johor,Johor,Jenayah,51
+2023-11-01,Johor,Johor,Sivil,177
+2023-11-01,Johor,Johor,Syariah,144
+2023-11-01,Johor,Muar,Jenayah,1
+2023-11-01,Johor,Muar,Sivil,41
+2023-11-01,Johor,Muar,Syariah,33
+2023-11-01,Kedah,Kedah,Jenayah,38
+2023-11-01,Kedah,Kedah,Sivil,58
+2023-11-01,Kedah,Kedah,Syariah,93
+2023-11-01,Kedah,Langkawi,Jenayah,1
+2023-11-01,Kedah,Langkawi,Sivil,5
+2023-11-01,Kedah,Langkawi,Syariah,26
+2023-11-01,Kelantan,Gua Musang,Jenayah,2
+2023-11-01,Kelantan,Gua Musang,Sivil,5
+2023-11-01,Kelantan,Gua Musang,Syariah,41
+2023-11-01,Kelantan,Kelantan,Jenayah,92
+2023-11-01,Kelantan,Kelantan,Sivil,37
+2023-11-01,Kelantan,Kelantan,Syariah,163
+2023-11-01,Melaka,Melaka,Jenayah,20
+2023-11-01,Melaka,Melaka,Sivil,32
+2023-11-01,Melaka,Melaka,Syariah,23
+2023-11-01,Negeri Sembilan,Negeri Sembilan,Sivil,67
+2023-11-01,Negeri Sembilan,Negeri Sembilan,Syariah,25
+2023-11-01,Pahang,Pahang,Jenayah,49
+2023-11-01,Pahang,Pahang,Sivil,25
+2023-11-01,Pahang,Pahang,Syariah,85
+2023-11-01,Pahang,Raub,Jenayah,48
+2023-11-01,Pahang,Raub,Sivil,15
+2023-11-01,Pahang,Raub,Syariah,21
+2023-11-01,Perak,Perak,Jenayah,3
+2023-11-01,Perak,Perak,Sivil,114
+2023-11-01,Perak,Perak,Syariah,60
+2023-11-01,Perak,Taiping,Jenayah,27
+2023-11-01,Perak,Taiping,Sivil,35
+2023-11-01,Perak,Taiping,Syariah,14
+2023-11-01,Perlis,Perlis,Jenayah,2
+2023-11-01,Perlis,Perlis,Sivil,33
+2023-11-01,Perlis,Perlis,Syariah,50
+2023-11-01,Pulau Pinang,Pulau Pinang,Jenayah,14
+2023-11-01,Pulau Pinang,Pulau Pinang,Sivil,88
+2023-11-01,Pulau Pinang,Pulau Pinang,Syariah,55
+2023-11-01,Sabah,Sabah,Jenayah,3
+2023-11-01,Sabah,Sabah,Sivil,106
+2023-11-01,Sabah,Sabah,Syariah,63
+2023-11-01,Sarawak,Miri,Jenayah,2
+2023-11-01,Sarawak,Miri,Sivil,56
+2023-11-01,Sarawak,Miri,Syariah,32
+2023-11-01,Sarawak,Sarawak,Jenayah,6
+2023-11-01,Sarawak,Sarawak,Sivil,84
+2023-11-01,Sarawak,Sarawak,Syariah,65
+2023-11-01,Sarawak,Sibu,Sivil,35
+2023-11-01,Sarawak,Sibu,Syariah,19
+2023-11-01,Selangor,Selangor,Jenayah,15
+2023-11-01,Selangor,Selangor,Sivil,185
+2023-11-01,Selangor,Selangor,Syariah,171
+2023-11-01,Terengganu,Terengganu,Jenayah,19
+2023-11-01,Terengganu,Terengganu,Sivil,12
+2023-11-01,Terengganu,Terengganu,Syariah,87
+2023-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2023-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,119
+2023-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,152
+2023-11-01,W.P. Labuan,Labuan,Syariah,15
+2023-11-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2023-11-01,W.P. Putrajaya,Ibu Pejabat,Sivil,33
+2023-11-01,W.P. Putrajaya,Ibu Pejabat,Syariah,16
+2023-12-01,Johor,Johor,Jenayah,2
+2023-12-01,Johor,Johor,Sivil,103
+2023-12-01,Johor,Johor,Syariah,88
+2023-12-01,Johor,Muar,Jenayah,12
+2023-12-01,Johor,Muar,Sivil,29
+2023-12-01,Johor,Muar,Syariah,9
+2023-12-01,Kedah,Kedah,Jenayah,26
+2023-12-01,Kedah,Kedah,Sivil,39
+2023-12-01,Kedah,Kedah,Syariah,96
+2023-12-01,Kedah,Langkawi,Jenayah,2
+2023-12-01,Kedah,Langkawi,Sivil,4
+2023-12-01,Kedah,Langkawi,Syariah,11
+2023-12-01,Kelantan,Gua Musang,Jenayah,3
+2023-12-01,Kelantan,Gua Musang,Sivil,1
+2023-12-01,Kelantan,Gua Musang,Syariah,18
+2023-12-01,Kelantan,Kelantan,Jenayah,13
+2023-12-01,Kelantan,Kelantan,Sivil,33
+2023-12-01,Kelantan,Kelantan,Syariah,119
+2023-12-01,Melaka,Melaka,Jenayah,20
+2023-12-01,Melaka,Melaka,Sivil,25
+2023-12-01,Melaka,Melaka,Syariah,35
+2023-12-01,Negeri Sembilan,Negeri Sembilan,Jenayah,16
+2023-12-01,Negeri Sembilan,Negeri Sembilan,Sivil,39
+2023-12-01,Negeri Sembilan,Negeri Sembilan,Syariah,34
+2023-12-01,Pahang,Pahang,Jenayah,1
+2023-12-01,Pahang,Pahang,Sivil,25
+2023-12-01,Pahang,Pahang,Syariah,56
+2023-12-01,Pahang,Raub,Jenayah,3
+2023-12-01,Pahang,Raub,Sivil,5
+2023-12-01,Pahang,Raub,Syariah,11
+2023-12-01,Perak,Perak,Jenayah,1
+2023-12-01,Perak,Perak,Sivil,57
+2023-12-01,Perak,Perak,Syariah,25
+2023-12-01,Perak,Taiping,Sivil,22
+2023-12-01,Perak,Taiping,Syariah,22
+2023-12-01,Perlis,Perlis,Jenayah,1
+2023-12-01,Perlis,Perlis,Sivil,13
+2023-12-01,Perlis,Perlis,Syariah,39
+2023-12-01,Pulau Pinang,Pulau Pinang,Jenayah,2
+2023-12-01,Pulau Pinang,Pulau Pinang,Sivil,89
+2023-12-01,Pulau Pinang,Pulau Pinang,Syariah,70
+2023-12-01,Sabah,Sabah,Jenayah,9
+2023-12-01,Sabah,Sabah,Sivil,68
+2023-12-01,Sabah,Sabah,Syariah,41
+2023-12-01,Sarawak,Miri,Sivil,46
+2023-12-01,Sarawak,Miri,Syariah,15
+2023-12-01,Sarawak,Sarawak,Jenayah,1
+2023-12-01,Sarawak,Sarawak,Sivil,64
+2023-12-01,Sarawak,Sarawak,Syariah,37
+2023-12-01,Sarawak,Sibu,Jenayah,7
+2023-12-01,Sarawak,Sibu,Sivil,33
+2023-12-01,Sarawak,Sibu,Syariah,16
+2023-12-01,Selangor,Selangor,Jenayah,5
+2023-12-01,Selangor,Selangor,Sivil,229
+2023-12-01,Selangor,Selangor,Syariah,150
+2023-12-01,Terengganu,Terengganu,Jenayah,17
+2023-12-01,Terengganu,Terengganu,Sivil,18
+2023-12-01,Terengganu,Terengganu,Syariah,64
+2023-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,77
+2023-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,93
+2023-12-01,W.P. Labuan,Labuan,Syariah,10
+2023-12-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2023-12-01,W.P. Putrajaya,Ibu Pejabat,Sivil,17
+2023-12-01,W.P. Putrajaya,Ibu Pejabat,Syariah,7
+2024-01-01,Johor,Johor,Jenayah,54
+2024-01-01,Johor,Johor,Sivil,181
+2024-01-01,Johor,Johor,Syariah,211
+2024-01-01,Johor,Muar,Jenayah,3
+2024-01-01,Johor,Muar,Sivil,79
+2024-01-01,Johor,Muar,Syariah,94
+2024-01-01,Kedah,Kedah,Jenayah,18
+2024-01-01,Kedah,Kedah,Sivil,60
+2024-01-01,Kedah,Kedah,Syariah,130
+2024-01-01,Kedah,Langkawi,Jenayah,6
+2024-01-01,Kedah,Langkawi,Sivil,11
+2024-01-01,Kedah,Langkawi,Syariah,38
+2024-01-01,Kelantan,Gua Musang,Jenayah,1
+2024-01-01,Kelantan,Gua Musang,Sivil,3
+2024-01-01,Kelantan,Gua Musang,Syariah,19
+2024-01-01,Kelantan,Kelantan,Jenayah,16
+2024-01-01,Kelantan,Kelantan,Sivil,37
+2024-01-01,Kelantan,Kelantan,Syariah,180
+2024-01-01,Melaka,Melaka,Jenayah,19
+2024-01-01,Melaka,Melaka,Sivil,46
+2024-01-01,Melaka,Melaka,Syariah,39
+2024-01-01,Negeri Sembilan,Negeri Sembilan,Jenayah,67
+2024-01-01,Negeri Sembilan,Negeri Sembilan,Sivil,65
+2024-01-01,Negeri Sembilan,Negeri Sembilan,Syariah,60
+2024-01-01,Pahang,Pahang,Jenayah,65
+2024-01-01,Pahang,Pahang,Sivil,20
+2024-01-01,Pahang,Pahang,Syariah,105
+2024-01-01,Pahang,Raub,Jenayah,1
+2024-01-01,Pahang,Raub,Sivil,17
+2024-01-01,Pahang,Raub,Syariah,24
+2024-01-01,Perak,Perak,Jenayah,1
+2024-01-01,Perak,Perak,Sivil,102
+2024-01-01,Perak,Perak,Syariah,75
+2024-01-01,Perak,Taiping,Jenayah,2
+2024-01-01,Perak,Taiping,Sivil,18
+2024-01-01,Perak,Taiping,Syariah,18
+2024-01-01,Perlis,Perlis,Jenayah,6
+2024-01-01,Perlis,Perlis,Sivil,25
+2024-01-01,Perlis,Perlis,Syariah,36
+2024-01-01,Pulau Pinang,Pulau Pinang,Jenayah,1
+2024-01-01,Pulau Pinang,Pulau Pinang,Sivil,79
+2024-01-01,Pulau Pinang,Pulau Pinang,Syariah,68
+2024-01-01,Sabah,Sabah,Jenayah,8
+2024-01-01,Sabah,Sabah,Sivil,112
+2024-01-01,Sabah,Sabah,Syariah,64
+2024-01-01,Sarawak,Miri,Sivil,34
+2024-01-01,Sarawak,Miri,Syariah,8
+2024-01-01,Sarawak,Sarawak,Jenayah,25
+2024-01-01,Sarawak,Sarawak,Sivil,117
+2024-01-01,Sarawak,Sarawak,Syariah,75
+2024-01-01,Sarawak,Sibu,Sivil,36
+2024-01-01,Sarawak,Sibu,Syariah,26
+2024-01-01,Selangor,Selangor,Jenayah,6
+2024-01-01,Selangor,Selangor,Sivil,322
+2024-01-01,Selangor,Selangor,Syariah,240
+2024-01-01,Terengganu,Terengganu,Jenayah,19
+2024-01-01,Terengganu,Terengganu,Sivil,26
+2024-01-01,Terengganu,Terengganu,Syariah,143
+2024-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,46
+2024-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,80
+2024-01-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,193
+2024-01-01,W.P. Labuan,Labuan,Syariah,12
+2024-01-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2024-01-01,W.P. Putrajaya,Ibu Pejabat,Sivil,20
+2024-01-01,W.P. Putrajaya,Ibu Pejabat,Syariah,18
+2024-02-01,Johor,Johor,Jenayah,2
+2024-02-01,Johor,Johor,Sivil,57
+2024-02-01,Johor,Johor,Syariah,67
+2024-02-01,Johor,Muar,Jenayah,34
+2024-02-01,Johor,Muar,Sivil,36
+2024-02-01,Johor,Muar,Syariah,44
+2024-02-01,Kedah,Kedah,Jenayah,3
+2024-02-01,Kedah,Kedah,Sivil,38
+2024-02-01,Kedah,Kedah,Syariah,116
+2024-02-01,Kedah,Langkawi,Sivil,3
+2024-02-01,Kedah,Langkawi,Syariah,22
+2024-02-01,Kelantan,Gua Musang,Jenayah,1
+2024-02-01,Kelantan,Gua Musang,Sivil,2
+2024-02-01,Kelantan,Gua Musang,Syariah,21
+2024-02-01,Kelantan,Kelantan,Jenayah,73
+2024-02-01,Kelantan,Kelantan,Sivil,45
+2024-02-01,Kelantan,Kelantan,Syariah,162
+2024-02-01,Melaka,Melaka,Jenayah,12
+2024-02-01,Melaka,Melaka,Sivil,36
+2024-02-01,Melaka,Melaka,Syariah,30
+2024-02-01,Negeri Sembilan,Negeri Sembilan,Jenayah,2
+2024-02-01,Negeri Sembilan,Negeri Sembilan,Sivil,55
+2024-02-01,Negeri Sembilan,Negeri Sembilan,Syariah,53
+2024-02-01,Pahang,Pahang,Sivil,19
+2024-02-01,Pahang,Pahang,Syariah,46
+2024-02-01,Pahang,Raub,Jenayah,96
+2024-02-01,Pahang,Raub,Sivil,9
+2024-02-01,Pahang,Raub,Syariah,29
+2024-02-01,Perak,Perak,Jenayah,26
+2024-02-01,Perak,Perak,Sivil,106
+2024-02-01,Perak,Perak,Syariah,83
+2024-02-01,Perak,Taiping,Jenayah,1
+2024-02-01,Perak,Taiping,Sivil,14
+2024-02-01,Perak,Taiping,Syariah,27
+2024-02-01,Perlis,Perlis,Jenayah,1
+2024-02-01,Perlis,Perlis,Sivil,19
+2024-02-01,Perlis,Perlis,Syariah,33
+2024-02-01,Pulau Pinang,Pulau Pinang,Jenayah,4
+2024-02-01,Pulau Pinang,Pulau Pinang,Sivil,97
+2024-02-01,Pulau Pinang,Pulau Pinang,Syariah,107
+2024-02-01,Sabah,Sabah,Jenayah,10
+2024-02-01,Sabah,Sabah,Sivil,110
+2024-02-01,Sabah,Sabah,Syariah,109
+2024-02-01,Sarawak,Miri,Jenayah,1
+2024-02-01,Sarawak,Miri,Sivil,25
+2024-02-01,Sarawak,Miri,Syariah,18
+2024-02-01,Sarawak,Sarawak,Jenayah,5
+2024-02-01,Sarawak,Sarawak,Sivil,51
+2024-02-01,Sarawak,Sarawak,Syariah,78
+2024-02-01,Sarawak,Sibu,Sivil,51
+2024-02-01,Sarawak,Sibu,Syariah,15
+2024-02-01,Selangor,Selangor,Jenayah,40
+2024-02-01,Selangor,Selangor,Sivil,138
+2024-02-01,Selangor,Selangor,Syariah,112
+2024-02-01,Terengganu,Terengganu,Jenayah,24
+2024-02-01,Terengganu,Terengganu,Sivil,12
+2024-02-01,Terengganu,Terengganu,Syariah,98
+2024-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,51
+2024-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,41
+2024-02-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,49
+2024-02-01,W.P. Labuan,Labuan,Sivil,14
+2024-02-01,W.P. Labuan,Labuan,Syariah,16
+2024-02-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,2
+2024-02-01,W.P. Putrajaya,Ibu Pejabat,Sivil,16
+2024-02-01,W.P. Putrajaya,Ibu Pejabat,Syariah,13
+2024-03-01,Johor,Johor,Jenayah,1
+2024-03-01,Johor,Johor,Sivil,78
+2024-03-01,Johor,Johor,Syariah,77
+2024-03-01,Johor,Muar,Jenayah,1
+2024-03-01,Johor,Muar,Sivil,36
+2024-03-01,Johor,Muar,Syariah,46
+2024-03-01,Kedah,Kedah,Jenayah,45
+2024-03-01,Kedah,Kedah,Sivil,48
+2024-03-01,Kedah,Kedah,Syariah,60
+2024-03-01,Kedah,Langkawi,Jenayah,4
+2024-03-01,Kedah,Langkawi,Sivil,8
+2024-03-01,Kedah,Langkawi,Syariah,14
+2024-03-01,Kelantan,Gua Musang,Sivil,2
+2024-03-01,Kelantan,Gua Musang,Syariah,22
+2024-03-01,Kelantan,Kelantan,Jenayah,24
+2024-03-01,Kelantan,Kelantan,Sivil,32
+2024-03-01,Kelantan,Kelantan,Syariah,119
+2024-03-01,Melaka,Melaka,Jenayah,2
+2024-03-01,Melaka,Melaka,Sivil,22
+2024-03-01,Melaka,Melaka,Syariah,44
+2024-03-01,Negeri Sembilan,Negeri Sembilan,Jenayah,13
+2024-03-01,Negeri Sembilan,Negeri Sembilan,Sivil,84
+2024-03-01,Negeri Sembilan,Negeri Sembilan,Syariah,45
+2024-03-01,Pahang,Pahang,Jenayah,4
+2024-03-01,Pahang,Pahang,Sivil,21
+2024-03-01,Pahang,Pahang,Syariah,34
+2024-03-01,Pahang,Raub,Jenayah,1
+2024-03-01,Pahang,Raub,Sivil,10
+2024-03-01,Pahang,Raub,Syariah,24
+2024-03-01,Perak,Perak,Sivil,128
+2024-03-01,Perak,Perak,Syariah,88
+2024-03-01,Perak,Taiping,Jenayah,32
+2024-03-01,Perak,Taiping,Sivil,36
+2024-03-01,Perak,Taiping,Syariah,38
+2024-03-01,Perlis,Perlis,Jenayah,5
+2024-03-01,Perlis,Perlis,Sivil,25
+2024-03-01,Perlis,Perlis,Syariah,38
+2024-03-01,Pulau Pinang,Pulau Pinang,Jenayah,12
+2024-03-01,Pulau Pinang,Pulau Pinang,Sivil,76
+2024-03-01,Pulau Pinang,Pulau Pinang,Syariah,75
+2024-03-01,Sabah,Sabah,Jenayah,6
+2024-03-01,Sabah,Sabah,Sivil,98
+2024-03-01,Sabah,Sabah,Syariah,72
+2024-03-01,Sarawak,Miri,Sivil,52
+2024-03-01,Sarawak,Miri,Syariah,22
+2024-03-01,Sarawak,Sarawak,Jenayah,1
+2024-03-01,Sarawak,Sarawak,Sivil,54
+2024-03-01,Sarawak,Sarawak,Syariah,77
+2024-03-01,Sarawak,Sibu,Sivil,50
+2024-03-01,Sarawak,Sibu,Syariah,22
+2024-03-01,Selangor,Selangor,Jenayah,1
+2024-03-01,Selangor,Selangor,Sivil,128
+2024-03-01,Selangor,Selangor,Syariah,87
+2024-03-01,Terengganu,Terengganu,Jenayah,9
+2024-03-01,Terengganu,Terengganu,Sivil,16
+2024-03-01,Terengganu,Terengganu,Syariah,86
+2024-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,66
+2024-03-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,67
+2024-03-01,W.P. Labuan,Labuan,Jenayah,1
+2024-03-01,W.P. Labuan,Labuan,Sivil,1
+2024-03-01,W.P. Labuan,Labuan,Syariah,13
+2024-03-01,W.P. Putrajaya,Ibu Pejabat,Sivil,16
+2024-03-01,W.P. Putrajaya,Ibu Pejabat,Syariah,18
+2024-04-01,Johor,Johor,Jenayah,46
+2024-04-01,Johor,Johor,Sivil,58
+2024-04-01,Johor,Johor,Syariah,74
+2024-04-01,Johor,Muar,Jenayah,4
+2024-04-01,Johor,Muar,Sivil,44
+2024-04-01,Johor,Muar,Syariah,47
+2024-04-01,Kedah,Kedah,Jenayah,23
+2024-04-01,Kedah,Kedah,Sivil,43
+2024-04-01,Kedah,Kedah,Syariah,102
+2024-04-01,Kedah,Langkawi,Jenayah,2
+2024-04-01,Kedah,Langkawi,Sivil,8
+2024-04-01,Kedah,Langkawi,Syariah,25
+2024-04-01,Kelantan,Gua Musang,Jenayah,20
+2024-04-01,Kelantan,Gua Musang,Sivil,4
+2024-04-01,Kelantan,Gua Musang,Syariah,18
+2024-04-01,Kelantan,Kelantan,Jenayah,87
+2024-04-01,Kelantan,Kelantan,Sivil,13
+2024-04-01,Kelantan,Kelantan,Syariah,122
+2024-04-01,Melaka,Melaka,Jenayah,2
+2024-04-01,Melaka,Melaka,Sivil,19
+2024-04-01,Melaka,Melaka,Syariah,28
+2024-04-01,Negeri Sembilan,Negeri Sembilan,Jenayah,8
+2024-04-01,Negeri Sembilan,Negeri Sembilan,Sivil,41
+2024-04-01,Negeri Sembilan,Negeri Sembilan,Syariah,39
+2024-04-01,Pahang,Pahang,Jenayah,81
+2024-04-01,Pahang,Pahang,Sivil,14
+2024-04-01,Pahang,Pahang,Syariah,22
+2024-04-01,Pahang,Raub,Jenayah,1
+2024-04-01,Pahang,Raub,Sivil,6
+2024-04-01,Pahang,Raub,Syariah,17
+2024-04-01,Perak,Perak,Jenayah,5
+2024-04-01,Perak,Perak,Sivil,75
+2024-04-01,Perak,Perak,Syariah,42
+2024-04-01,Perak,Taiping,Jenayah,2
+2024-04-01,Perak,Taiping,Sivil,28
+2024-04-01,Perak,Taiping,Syariah,25
+2024-04-01,Perlis,Perlis,Sivil,13
+2024-04-01,Perlis,Perlis,Syariah,21
+2024-04-01,Pulau Pinang,Pulau Pinang,Jenayah,10
+2024-04-01,Pulau Pinang,Pulau Pinang,Sivil,64
+2024-04-01,Pulau Pinang,Pulau Pinang,Syariah,77
+2024-04-01,Sabah,Sabah,Jenayah,7
+2024-04-01,Sabah,Sabah,Sivil,91
+2024-04-01,Sabah,Sabah,Syariah,61
+2024-04-01,Sarawak,Miri,Sivil,45
+2024-04-01,Sarawak,Miri,Syariah,8
+2024-04-01,Sarawak,Sarawak,Jenayah,1
+2024-04-01,Sarawak,Sarawak,Sivil,24
+2024-04-01,Sarawak,Sarawak,Syariah,29
+2024-04-01,Sarawak,Sibu,Sivil,22
+2024-04-01,Sarawak,Sibu,Syariah,16
+2024-04-01,Selangor,Selangor,Sivil,123
+2024-04-01,Selangor,Selangor,Syariah,107
+2024-04-01,Terengganu,Terengganu,Jenayah,19
+2024-04-01,Terengganu,Terengganu,Sivil,14
+2024-04-01,Terengganu,Terengganu,Syariah,114
+2024-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2024-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,66
+2024-04-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,60
+2024-04-01,W.P. Labuan,Labuan,Sivil,2
+2024-04-01,W.P. Labuan,Labuan,Syariah,12
+2024-04-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,3
+2024-04-01,W.P. Putrajaya,Ibu Pejabat,Sivil,9
+2024-04-01,W.P. Putrajaya,Ibu Pejabat,Syariah,16
+2024-05-01,Johor,Johor,Jenayah,4
+2024-05-01,Johor,Johor,Sivil,79
+2024-05-01,Johor,Johor,Syariah,105
+2024-05-01,Johor,Muar,Jenayah,49
+2024-05-01,Johor,Muar,Sivil,50
+2024-05-01,Johor,Muar,Syariah,62
+2024-05-01,Kedah,Kedah,Jenayah,52
+2024-05-01,Kedah,Kedah,Sivil,56
+2024-05-01,Kedah,Kedah,Syariah,170
+2024-05-01,Kedah,Langkawi,Jenayah,1
+2024-05-01,Kedah,Langkawi,Sivil,5
+2024-05-01,Kedah,Langkawi,Syariah,34
+2024-05-01,Kelantan,Gua Musang,Jenayah,4
+2024-05-01,Kelantan,Gua Musang,Sivil,2
+2024-05-01,Kelantan,Gua Musang,Syariah,12
+2024-05-01,Kelantan,Kelantan,Jenayah,13
+2024-05-01,Kelantan,Kelantan,Sivil,31
+2024-05-01,Kelantan,Kelantan,Syariah,158
+2024-05-01,Melaka,Melaka,Jenayah,21
+2024-05-01,Melaka,Melaka,Sivil,38
+2024-05-01,Melaka,Melaka,Syariah,45
+2024-05-01,Negeri Sembilan,Negeri Sembilan,Jenayah,4
+2024-05-01,Negeri Sembilan,Negeri Sembilan,Sivil,89
+2024-05-01,Negeri Sembilan,Negeri Sembilan,Syariah,80
+2024-05-01,Pahang,Pahang,Jenayah,4
+2024-05-01,Pahang,Pahang,Sivil,21
+2024-05-01,Pahang,Pahang,Syariah,65
+2024-05-01,Pahang,Raub,Jenayah,3
+2024-05-01,Pahang,Raub,Sivil,14
+2024-05-01,Pahang,Raub,Syariah,40
+2024-05-01,Perak,Perak,Jenayah,2
+2024-05-01,Perak,Perak,Sivil,103
+2024-05-01,Perak,Perak,Syariah,83
+2024-05-01,Perak,Taiping,Jenayah,32
+2024-05-01,Perak,Taiping,Sivil,18
+2024-05-01,Perak,Taiping,Syariah,26
+2024-05-01,Perlis,Perlis,Jenayah,24
+2024-05-01,Perlis,Perlis,Sivil,25
+2024-05-01,Perlis,Perlis,Syariah,34
+2024-05-01,Pulau Pinang,Pulau Pinang,Jenayah,11
+2024-05-01,Pulau Pinang,Pulau Pinang,Sivil,92
+2024-05-01,Pulau Pinang,Pulau Pinang,Syariah,83
+2024-05-01,Sabah,Sabah,Jenayah,13
+2024-05-01,Sabah,Sabah,Sivil,71
+2024-05-01,Sabah,Sabah,Syariah,67
+2024-05-01,Sarawak,Miri,Jenayah,1
+2024-05-01,Sarawak,Miri,Sivil,52
+2024-05-01,Sarawak,Miri,Syariah,16
+2024-05-01,Sarawak,Sarawak,Jenayah,22
+2024-05-01,Sarawak,Sarawak,Sivil,47
+2024-05-01,Sarawak,Sarawak,Syariah,68
+2024-05-01,Sarawak,Sibu,Sivil,36
+2024-05-01,Sarawak,Sibu,Syariah,28
+2024-05-01,Selangor,Selangor,Jenayah,12
+2024-05-01,Selangor,Selangor,Sivil,152
+2024-05-01,Selangor,Selangor,Syariah,121
+2024-05-01,Terengganu,Terengganu,Jenayah,34
+2024-05-01,Terengganu,Terengganu,Sivil,24
+2024-05-01,Terengganu,Terengganu,Syariah,100
+2024-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2024-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,54
+2024-05-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,74
+2024-05-01,W.P. Labuan,Labuan,Jenayah,1
+2024-05-01,W.P. Labuan,Labuan,Sivil,14
+2024-05-01,W.P. Labuan,Labuan,Syariah,10
+2024-05-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,4
+2024-05-01,W.P. Putrajaya,Ibu Pejabat,Sivil,15
+2024-05-01,W.P. Putrajaya,Ibu Pejabat,Syariah,14
+2024-06-01,Johor,Johor,Jenayah,1
+2024-06-01,Johor,Johor,Sivil,91
+2024-06-01,Johor,Johor,Syariah,109
+2024-06-01,Johor,Muar,Jenayah,3
+2024-06-01,Johor,Muar,Sivil,43
+2024-06-01,Johor,Muar,Syariah,44
+2024-06-01,Kedah,Kedah,Jenayah,10
+2024-06-01,Kedah,Kedah,Sivil,43
+2024-06-01,Kedah,Kedah,Syariah,114
+2024-06-01,Kedah,Langkawi,Jenayah,1
+2024-06-01,Kedah,Langkawi,Sivil,5
+2024-06-01,Kedah,Langkawi,Syariah,20
+2024-06-01,Kelantan,Gua Musang,Jenayah,7
+2024-06-01,Kelantan,Gua Musang,Sivil,2
+2024-06-01,Kelantan,Gua Musang,Syariah,17
+2024-06-01,Kelantan,Kelantan,Jenayah,8
+2024-06-01,Kelantan,Kelantan,Sivil,28
+2024-06-01,Kelantan,Kelantan,Syariah,122
+2024-06-01,Melaka,Melaka,Jenayah,3
+2024-06-01,Melaka,Melaka,Sivil,19
+2024-06-01,Melaka,Melaka,Syariah,39
+2024-06-01,Negeri Sembilan,Negeri Sembilan,Jenayah,43
+2024-06-01,Negeri Sembilan,Negeri Sembilan,Sivil,62
+2024-06-01,Negeri Sembilan,Negeri Sembilan,Syariah,32
+2024-06-01,Pahang,Pahang,Jenayah,2
+2024-06-01,Pahang,Pahang,Sivil,24
+2024-06-01,Pahang,Pahang,Syariah,51
+2024-06-01,Pahang,Raub,Jenayah,1
+2024-06-01,Pahang,Raub,Sivil,5
+2024-06-01,Pahang,Raub,Syariah,31
+2024-06-01,Perak,Perak,Jenayah,1
+2024-06-01,Perak,Perak,Sivil,96
+2024-06-01,Perak,Perak,Syariah,57
+2024-06-01,Perak,Taiping,Jenayah,3
+2024-06-01,Perak,Taiping,Sivil,33
+2024-06-01,Perak,Taiping,Syariah,35
+2024-06-01,Perlis,Perlis,Jenayah,56
+2024-06-01,Perlis,Perlis,Sivil,12
+2024-06-01,Perlis,Perlis,Syariah,60
+2024-06-01,Pulau Pinang,Pulau Pinang,Jenayah,2
+2024-06-01,Pulau Pinang,Pulau Pinang,Sivil,49
+2024-06-01,Pulau Pinang,Pulau Pinang,Syariah,77
+2024-06-01,Sabah,Sabah,Jenayah,21
+2024-06-01,Sabah,Sabah,Sivil,57
+2024-06-01,Sabah,Sabah,Syariah,66
+2024-06-01,Sarawak,Miri,Sivil,50
+2024-06-01,Sarawak,Miri,Syariah,3
+2024-06-01,Sarawak,Sarawak,Jenayah,2
+2024-06-01,Sarawak,Sarawak,Sivil,31
+2024-06-01,Sarawak,Sarawak,Syariah,49
+2024-06-01,Sarawak,Sibu,Sivil,32
+2024-06-01,Sarawak,Sibu,Syariah,12
+2024-06-01,Selangor,Selangor,Jenayah,1
+2024-06-01,Selangor,Selangor,Sivil,110
+2024-06-01,Selangor,Selangor,Syariah,106
+2024-06-01,Terengganu,Terengganu,Jenayah,14
+2024-06-01,Terengganu,Terengganu,Sivil,13
+2024-06-01,Terengganu,Terengganu,Syariah,144
+2024-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,62
+2024-06-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,77
+2024-06-01,W.P. Labuan,Labuan,Jenayah,1
+2024-06-01,W.P. Labuan,Labuan,Sivil,1
+2024-06-01,W.P. Labuan,Labuan,Syariah,9
+2024-06-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,3
+2024-06-01,W.P. Putrajaya,Ibu Pejabat,Sivil,17
+2024-06-01,W.P. Putrajaya,Ibu Pejabat,Syariah,12
+2024-07-01,Johor,Johor,Jenayah,44
+2024-07-01,Johor,Johor,Sivil,110
+2024-07-01,Johor,Johor,Syariah,78
+2024-07-01,Johor,Muar,Jenayah,39
+2024-07-01,Johor,Muar,Sivil,59
+2024-07-01,Johor,Muar,Syariah,60
+2024-07-01,Kedah,Kedah,Jenayah,21
+2024-07-01,Kedah,Kedah,Sivil,62
+2024-07-01,Kedah,Kedah,Syariah,119
+2024-07-01,Kedah,Langkawi,Jenayah,1
+2024-07-01,Kedah,Langkawi,Sivil,13
+2024-07-01,Kedah,Langkawi,Syariah,25
+2024-07-01,Kelantan,Gua Musang,Jenayah,29
+2024-07-01,Kelantan,Gua Musang,Sivil,5
+2024-07-01,Kelantan,Gua Musang,Syariah,30
+2024-07-01,Kelantan,Kelantan,Jenayah,67
+2024-07-01,Kelantan,Kelantan,Sivil,26
+2024-07-01,Kelantan,Kelantan,Syariah,149
+2024-07-01,Melaka,Melaka,Sivil,29
+2024-07-01,Melaka,Melaka,Syariah,42
+2024-07-01,Negeri Sembilan,Negeri Sembilan,Jenayah,44
+2024-07-01,Negeri Sembilan,Negeri Sembilan,Sivil,79
+2024-07-01,Negeri Sembilan,Negeri Sembilan,Syariah,43
+2024-07-01,Pahang,Pahang,Jenayah,39
+2024-07-01,Pahang,Pahang,Sivil,11
+2024-07-01,Pahang,Pahang,Syariah,48
+2024-07-01,Pahang,Raub,Sivil,4
+2024-07-01,Pahang,Raub,Syariah,15
+2024-07-01,Perak,Perak,Sivil,86
+2024-07-01,Perak,Perak,Syariah,91
+2024-07-01,Perak,Taiping,Jenayah,5
+2024-07-01,Perak,Taiping,Sivil,37
+2024-07-01,Perak,Taiping,Syariah,36
+2024-07-01,Perlis,Perlis,Jenayah,33
+2024-07-01,Perlis,Perlis,Sivil,12
+2024-07-01,Perlis,Perlis,Syariah,36
+2024-07-01,Pulau Pinang,Pulau Pinang,Jenayah,7
+2024-07-01,Pulau Pinang,Pulau Pinang,Sivil,50
+2024-07-01,Pulau Pinang,Pulau Pinang,Syariah,81
+2024-07-01,Sabah,Sabah,Jenayah,5
+2024-07-01,Sabah,Sabah,Sivil,91
+2024-07-01,Sabah,Sabah,Syariah,62
+2024-07-01,Sarawak,Miri,Jenayah,1
+2024-07-01,Sarawak,Miri,Sivil,34
+2024-07-01,Sarawak,Miri,Syariah,41
+2024-07-01,Sarawak,Sarawak,Jenayah,3
+2024-07-01,Sarawak,Sarawak,Sivil,74
+2024-07-01,Sarawak,Sarawak,Syariah,50
+2024-07-01,Sarawak,Sibu,Sivil,44
+2024-07-01,Sarawak,Sibu,Syariah,15
+2024-07-01,Selangor,Selangor,Jenayah,4
+2024-07-01,Selangor,Selangor,Sivil,176
+2024-07-01,Selangor,Selangor,Syariah,107
+2024-07-01,Terengganu,Terengganu,Jenayah,19
+2024-07-01,Terengganu,Terengganu,Sivil,27
+2024-07-01,Terengganu,Terengganu,Syariah,141
+2024-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,13
+2024-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,63
+2024-07-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,53
+2024-07-01,W.P. Labuan,Labuan,Sivil,2
+2024-07-01,W.P. Labuan,Labuan,Syariah,11
+2024-07-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,3
+2024-07-01,W.P. Putrajaya,Ibu Pejabat,Sivil,21
+2024-07-01,W.P. Putrajaya,Ibu Pejabat,Syariah,8
+2024-08-01,Johor,Johor,Jenayah,54
+2024-08-01,Johor,Johor,Sivil,76
+2024-08-01,Johor,Johor,Syariah,60
+2024-08-01,Johor,Muar,Jenayah,17
+2024-08-01,Johor,Muar,Sivil,30
+2024-08-01,Johor,Muar,Syariah,42
+2024-08-01,Kedah,Kedah,Jenayah,28
+2024-08-01,Kedah,Kedah,Sivil,46
+2024-08-01,Kedah,Kedah,Syariah,127
+2024-08-01,Kedah,Langkawi,Jenayah,1
+2024-08-01,Kedah,Langkawi,Sivil,4
+2024-08-01,Kedah,Langkawi,Syariah,18
+2024-08-01,Kelantan,Gua Musang,Jenayah,3
+2024-08-01,Kelantan,Gua Musang,Sivil,3
+2024-08-01,Kelantan,Gua Musang,Syariah,22
+2024-08-01,Kelantan,Kelantan,Jenayah,10
+2024-08-01,Kelantan,Kelantan,Sivil,22
+2024-08-01,Kelantan,Kelantan,Syariah,161
+2024-08-01,Melaka,Melaka,Jenayah,15
+2024-08-01,Melaka,Melaka,Sivil,30
+2024-08-01,Melaka,Melaka,Syariah,48
+2024-08-01,Negeri Sembilan,Negeri Sembilan,Jenayah,2
+2024-08-01,Negeri Sembilan,Negeri Sembilan,Sivil,74
+2024-08-01,Negeri Sembilan,Negeri Sembilan,Syariah,54
+2024-08-01,Pahang,Pahang,Jenayah,1
+2024-08-01,Pahang,Pahang,Sivil,25
+2024-08-01,Pahang,Pahang,Syariah,55
+2024-08-01,Pahang,Raub,Jenayah,1
+2024-08-01,Pahang,Raub,Sivil,9
+2024-08-01,Pahang,Raub,Syariah,39
+2024-08-01,Perak,Perak,Sivil,96
+2024-08-01,Perak,Perak,Syariah,72
+2024-08-01,Perak,Taiping,Jenayah,32
+2024-08-01,Perak,Taiping,Sivil,34
+2024-08-01,Perak,Taiping,Syariah,33
+2024-08-01,Perlis,Perlis,Jenayah,3
+2024-08-01,Perlis,Perlis,Sivil,23
+2024-08-01,Perlis,Perlis,Syariah,34
+2024-08-01,Pulau Pinang,Pulau Pinang,Jenayah,5
+2024-08-01,Pulau Pinang,Pulau Pinang,Sivil,63
+2024-08-01,Pulau Pinang,Pulau Pinang,Syariah,89
+2024-08-01,Sabah,Sabah,Jenayah,23
+2024-08-01,Sabah,Sabah,Sivil,86
+2024-08-01,Sabah,Sabah,Syariah,66
+2024-08-01,Sarawak,Miri,Jenayah,1
+2024-08-01,Sarawak,Miri,Sivil,42
+2024-08-01,Sarawak,Miri,Syariah,15
+2024-08-01,Sarawak,Sarawak,Jenayah,4
+2024-08-01,Sarawak,Sarawak,Sivil,73
+2024-08-01,Sarawak,Sarawak,Syariah,55
+2024-08-01,Sarawak,Sibu,Sivil,52
+2024-08-01,Sarawak,Sibu,Syariah,17
+2024-08-01,Selangor,Selangor,Jenayah,27
+2024-08-01,Selangor,Selangor,Sivil,228
+2024-08-01,Selangor,Selangor,Syariah,155
+2024-08-01,Terengganu,Terengganu,Jenayah,25
+2024-08-01,Terengganu,Terengganu,Sivil,26
+2024-08-01,Terengganu,Terengganu,Syariah,177
+2024-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,1
+2024-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,51
+2024-08-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,72
+2024-08-01,W.P. Labuan,Labuan,Syariah,5
+2024-08-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,6
+2024-08-01,W.P. Putrajaya,Ibu Pejabat,Sivil,15
+2024-08-01,W.P. Putrajaya,Ibu Pejabat,Syariah,21
+2024-09-01,Johor,Johor,Jenayah,5
+2024-09-01,Johor,Johor,Sivil,93
+2024-09-01,Johor,Johor,Syariah,74
+2024-09-01,Johor,Muar,Jenayah,14
+2024-09-01,Johor,Muar,Sivil,101
+2024-09-01,Johor,Muar,Syariah,48
+2024-09-01,Kedah,Kedah,Jenayah,30
+2024-09-01,Kedah,Kedah,Sivil,52
+2024-09-01,Kedah,Kedah,Syariah,101
+2024-09-01,Kedah,Langkawi,Sivil,3
+2024-09-01,Kedah,Langkawi,Syariah,27
+2024-09-01,Kelantan,Gua Musang,Jenayah,2
+2024-09-01,Kelantan,Gua Musang,Sivil,1
+2024-09-01,Kelantan,Gua Musang,Syariah,25
+2024-09-01,Kelantan,Kelantan,Jenayah,5
+2024-09-01,Kelantan,Kelantan,Sivil,30
+2024-09-01,Kelantan,Kelantan,Syariah,130
+2024-09-01,Melaka,Melaka,Jenayah,2
+2024-09-01,Melaka,Melaka,Sivil,37
+2024-09-01,Melaka,Melaka,Syariah,49
+2024-09-01,Negeri Sembilan,Negeri Sembilan,Jenayah,24
+2024-09-01,Negeri Sembilan,Negeri Sembilan,Sivil,72
+2024-09-01,Negeri Sembilan,Negeri Sembilan,Syariah,51
+2024-09-01,Pahang,Pahang,Jenayah,3
+2024-09-01,Pahang,Pahang,Sivil,22
+2024-09-01,Pahang,Pahang,Syariah,41
+2024-09-01,Pahang,Raub,Sivil,1
+2024-09-01,Pahang,Raub,Syariah,23
+2024-09-01,Perak,Perak,Jenayah,1
+2024-09-01,Perak,Perak,Sivil,74
+2024-09-01,Perak,Perak,Syariah,82
+2024-09-01,Perak,Taiping,Jenayah,4
+2024-09-01,Perak,Taiping,Sivil,23
+2024-09-01,Perak,Taiping,Syariah,33
+2024-09-01,Perlis,Perlis,Jenayah,46
+2024-09-01,Perlis,Perlis,Sivil,33
+2024-09-01,Perlis,Perlis,Syariah,29
+2024-09-01,Pulau Pinang,Pulau Pinang,Jenayah,24
+2024-09-01,Pulau Pinang,Pulau Pinang,Sivil,76
+2024-09-01,Pulau Pinang,Pulau Pinang,Syariah,58
+2024-09-01,Sabah,Sabah,Jenayah,13
+2024-09-01,Sabah,Sabah,Sivil,78
+2024-09-01,Sabah,Sabah,Syariah,70
+2024-09-01,Sarawak,Miri,Sivil,17
+2024-09-01,Sarawak,Miri,Syariah,10
+2024-09-01,Sarawak,Sarawak,Jenayah,3
+2024-09-01,Sarawak,Sarawak,Sivil,58
+2024-09-01,Sarawak,Sarawak,Syariah,43
+2024-09-01,Sarawak,Sibu,Jenayah,12
+2024-09-01,Sarawak,Sibu,Sivil,53
+2024-09-01,Sarawak,Sibu,Syariah,24
+2024-09-01,Selangor,Selangor,Jenayah,15
+2024-09-01,Selangor,Selangor,Sivil,177
+2024-09-01,Selangor,Selangor,Syariah,158
+2024-09-01,Terengganu,Terengganu,Jenayah,20
+2024-09-01,Terengganu,Terengganu,Sivil,22
+2024-09-01,Terengganu,Terengganu,Syariah,130
+2024-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,2
+2024-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,58
+2024-09-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,51
+2024-09-01,W.P. Labuan,Labuan,Jenayah,2
+2024-09-01,W.P. Labuan,Labuan,Sivil,15
+2024-09-01,W.P. Labuan,Labuan,Syariah,26
+2024-09-01,W.P. Putrajaya,Ibu Pejabat,Sivil,17
+2024-09-01,W.P. Putrajaya,Ibu Pejabat,Syariah,20
+2024-10-01,Johor,Johor,Jenayah,2
+2024-10-01,Johor,Johor,Sivil,92
+2024-10-01,Johor,Johor,Syariah,90
+2024-10-01,Johor,Muar,Jenayah,3
+2024-10-01,Johor,Muar,Sivil,56
+2024-10-01,Johor,Muar,Syariah,38
+2024-10-01,Kedah,Kedah,Jenayah,22
+2024-10-01,Kedah,Kedah,Sivil,47
+2024-10-01,Kedah,Kedah,Syariah,126
+2024-10-01,Kedah,Langkawi,Jenayah,1
+2024-10-01,Kedah,Langkawi,Sivil,8
+2024-10-01,Kedah,Langkawi,Syariah,19
+2024-10-01,Kelantan,Gua Musang,Jenayah,10
+2024-10-01,Kelantan,Gua Musang,Sivil,4
+2024-10-01,Kelantan,Gua Musang,Syariah,32
+2024-10-01,Kelantan,Kelantan,Jenayah,118
+2024-10-01,Kelantan,Kelantan,Sivil,19
+2024-10-01,Kelantan,Kelantan,Syariah,159
+2024-10-01,Melaka,Melaka,Jenayah,2
+2024-10-01,Melaka,Melaka,Sivil,52
+2024-10-01,Melaka,Melaka,Syariah,48
+2024-10-01,Negeri Sembilan,Negeri Sembilan,Jenayah,6
+2024-10-01,Negeri Sembilan,Negeri Sembilan,Sivil,48
+2024-10-01,Negeri Sembilan,Negeri Sembilan,Syariah,39
+2024-10-01,Pahang,Pahang,Jenayah,2
+2024-10-01,Pahang,Pahang,Sivil,33
+2024-10-01,Pahang,Pahang,Syariah,55
+2024-10-01,Pahang,Raub,Jenayah,23
+2024-10-01,Pahang,Raub,Sivil,4
+2024-10-01,Pahang,Raub,Syariah,16
+2024-10-01,Perak,Perak,Sivil,70
+2024-10-01,Perak,Perak,Syariah,86
+2024-10-01,Perak,Taiping,Jenayah,36
+2024-10-01,Perak,Taiping,Sivil,26
+2024-10-01,Perak,Taiping,Syariah,39
+2024-10-01,Perlis,Perlis,Jenayah,1
+2024-10-01,Perlis,Perlis,Sivil,21
+2024-10-01,Perlis,Perlis,Syariah,36
+2024-10-01,Pulau Pinang,Pulau Pinang,Jenayah,7
+2024-10-01,Pulau Pinang,Pulau Pinang,Sivil,74
+2024-10-01,Pulau Pinang,Pulau Pinang,Syariah,73
+2024-10-01,Sabah,Sabah,Jenayah,8
+2024-10-01,Sabah,Sabah,Sivil,67
+2024-10-01,Sabah,Sabah,Syariah,61
+2024-10-01,Sarawak,Miri,Jenayah,2
+2024-10-01,Sarawak,Miri,Sivil,37
+2024-10-01,Sarawak,Miri,Syariah,20
+2024-10-01,Sarawak,Sarawak,Jenayah,2
+2024-10-01,Sarawak,Sarawak,Sivil,78
+2024-10-01,Sarawak,Sarawak,Syariah,36
+2024-10-01,Sarawak,Sibu,Jenayah,1
+2024-10-01,Sarawak,Sibu,Sivil,41
+2024-10-01,Sarawak,Sibu,Syariah,13
+2024-10-01,Selangor,Selangor,Jenayah,8
+2024-10-01,Selangor,Selangor,Sivil,179
+2024-10-01,Selangor,Selangor,Syariah,156
+2024-10-01,Terengganu,Terengganu,Jenayah,19
+2024-10-01,Terengganu,Terengganu,Sivil,24
+2024-10-01,Terengganu,Terengganu,Syariah,159
+2024-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,15
+2024-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,126
+2024-10-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,79
+2024-10-01,W.P. Labuan,Labuan,Sivil,6
+2024-10-01,W.P. Labuan,Labuan,Syariah,15
+2024-10-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2024-10-01,W.P. Putrajaya,Ibu Pejabat,Sivil,12
+2024-10-01,W.P. Putrajaya,Ibu Pejabat,Syariah,15
+2024-11-01,Johor,Johor,Jenayah,8
+2024-11-01,Johor,Johor,Sivil,104
+2024-11-01,Johor,Johor,Syariah,90
+2024-11-01,Johor,Muar,Jenayah,7
+2024-11-01,Johor,Muar,Sivil,60
+2024-11-01,Johor,Muar,Syariah,67
+2024-11-01,Kedah,Kedah,Jenayah,50
+2024-11-01,Kedah,Kedah,Sivil,69
+2024-11-01,Kedah,Kedah,Syariah,115
+2024-11-01,Kedah,Langkawi,Sivil,4
+2024-11-01,Kedah,Langkawi,Syariah,25
+2024-11-01,Kelantan,Gua Musang,Jenayah,15
+2024-11-01,Kelantan,Gua Musang,Sivil,2
+2024-11-01,Kelantan,Gua Musang,Syariah,26
+2024-11-01,Kelantan,Kelantan,Jenayah,90
+2024-11-01,Kelantan,Kelantan,Sivil,17
+2024-11-01,Kelantan,Kelantan,Syariah,150
+2024-11-01,Melaka,Melaka,Jenayah,5
+2024-11-01,Melaka,Melaka,Sivil,35
+2024-11-01,Melaka,Melaka,Syariah,66
+2024-11-01,Negeri Sembilan,Negeri Sembilan,Jenayah,6
+2024-11-01,Negeri Sembilan,Negeri Sembilan,Sivil,66
+2024-11-01,Negeri Sembilan,Negeri Sembilan,Syariah,69
+2024-11-01,Pahang,Pahang,Jenayah,31
+2024-11-01,Pahang,Pahang,Sivil,25
+2024-11-01,Pahang,Pahang,Syariah,73
+2024-11-01,Pahang,Raub,Sivil,10
+2024-11-01,Pahang,Raub,Syariah,33
+2024-11-01,Perak,Perak,Sivil,59
+2024-11-01,Perak,Perak,Syariah,73
+2024-11-01,Perak,Taiping,Jenayah,3
+2024-11-01,Perak,Taiping,Sivil,23
+2024-11-01,Perak,Taiping,Syariah,36
+2024-11-01,Perlis,Perlis,Jenayah,4
+2024-11-01,Perlis,Perlis,Sivil,19
+2024-11-01,Perlis,Perlis,Syariah,42
+2024-11-01,Pulau Pinang,Pulau Pinang,Jenayah,2
+2024-11-01,Pulau Pinang,Pulau Pinang,Sivil,74
+2024-11-01,Pulau Pinang,Pulau Pinang,Syariah,95
+2024-11-01,Sabah,Sabah,Jenayah,16
+2024-11-01,Sabah,Sabah,Sivil,59
+2024-11-01,Sabah,Sabah,Syariah,57
+2024-11-01,Sarawak,Miri,Jenayah,1
+2024-11-01,Sarawak,Miri,Sivil,23
+2024-11-01,Sarawak,Miri,Syariah,33
+2024-11-01,Sarawak,Sarawak,Jenayah,3
+2024-11-01,Sarawak,Sarawak,Sivil,85
+2024-11-01,Sarawak,Sarawak,Syariah,36
+2024-11-01,Sarawak,Sibu,Sivil,27
+2024-11-01,Sarawak,Sibu,Syariah,26
+2024-11-01,Selangor,Selangor,Jenayah,6
+2024-11-01,Selangor,Selangor,Sivil,160
+2024-11-01,Selangor,Selangor,Syariah,151
+2024-11-01,Terengganu,Terengganu,Jenayah,20
+2024-11-01,Terengganu,Terengganu,Sivil,30
+2024-11-01,Terengganu,Terengganu,Syariah,152
+2024-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,4
+2024-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,97
+2024-11-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,96
+2024-11-01,W.P. Labuan,Labuan,Jenayah,1
+2024-11-01,W.P. Labuan,Labuan,Syariah,11
+2024-11-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2024-11-01,W.P. Putrajaya,Ibu Pejabat,Sivil,17
+2024-11-01,W.P. Putrajaya,Ibu Pejabat,Syariah,20
+2024-12-01,Johor,Johor,Jenayah,11
+2024-12-01,Johor,Johor,Sivil,105
+2024-12-01,Johor,Johor,Syariah,113
+2024-12-01,Johor,Muar,Sivil,23
+2024-12-01,Johor,Muar,Syariah,7
+2024-12-01,Kedah,Kedah,Jenayah,50
+2024-12-01,Kedah,Kedah,Sivil,46
+2024-12-01,Kedah,Kedah,Syariah,89
+2024-12-01,Kedah,Langkawi,Sivil,2
+2024-12-01,Kedah,Langkawi,Syariah,1
+2024-12-01,Kelantan,Gua Musang,Jenayah,2
+2024-12-01,Kelantan,Gua Musang,Sivil,2
+2024-12-01,Kelantan,Gua Musang,Syariah,11
+2024-12-01,Kelantan,Kelantan,Jenayah,99
+2024-12-01,Kelantan,Kelantan,Sivil,23
+2024-12-01,Kelantan,Kelantan,Syariah,110
+2024-12-01,Melaka,Melaka,Jenayah,1
+2024-12-01,Melaka,Melaka,Sivil,34
+2024-12-01,Melaka,Melaka,Syariah,39
+2024-12-01,Negeri Sembilan,Negeri Sembilan,Sivil,65
+2024-12-01,Negeri Sembilan,Negeri Sembilan,Syariah,38
+2024-12-01,Pahang,Pahang,Jenayah,1
+2024-12-01,Pahang,Pahang,Sivil,28
+2024-12-01,Pahang,Pahang,Syariah,65
+2024-12-01,Pahang,Raub,Sivil,7
+2024-12-01,Pahang,Raub,Syariah,16
+2024-12-01,Perak,Perak,Jenayah,1
+2024-12-01,Perak,Perak,Sivil,51
+2024-12-01,Perak,Perak,Syariah,29
+2024-12-01,Perak,Taiping,Jenayah,2
+2024-12-01,Perak,Taiping,Sivil,13
+2024-12-01,Perak,Taiping,Syariah,33
+2024-12-01,Perlis,Perlis,Jenayah,3
+2024-12-01,Perlis,Perlis,Sivil,14
+2024-12-01,Perlis,Perlis,Syariah,30
+2024-12-01,Pulau Pinang,Pulau Pinang,Jenayah,1
+2024-12-01,Pulau Pinang,Pulau Pinang,Sivil,50
+2024-12-01,Pulau Pinang,Pulau Pinang,Syariah,58
+2024-12-01,Sabah,Sabah,Jenayah,9
+2024-12-01,Sabah,Sabah,Sivil,43
+2024-12-01,Sabah,Sabah,Syariah,22
+2024-12-01,Sarawak,Miri,Sivil,14
+2024-12-01,Sarawak,Miri,Syariah,11
+2024-12-01,Sarawak,Sarawak,Jenayah,1
+2024-12-01,Sarawak,Sarawak,Sivil,37
+2024-12-01,Sarawak,Sarawak,Syariah,5
+2024-12-01,Sarawak,Sibu,Sivil,4
+2024-12-01,Sarawak,Sibu,Syariah,2
+2024-12-01,Selangor,Selangor,Jenayah,8
+2024-12-01,Selangor,Selangor,Sivil,105
+2024-12-01,Selangor,Selangor,Syariah,102
+2024-12-01,Terengganu,Terengganu,Jenayah,15
+2024-12-01,Terengganu,Terengganu,Sivil,16
+2024-12-01,Terengganu,Terengganu,Syariah,113
+2024-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Jenayah,7
+2024-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Sivil,52
+2024-12-01,W.P. Kuala Lumpur,Kuala Lumpur,Syariah,61
+2024-12-01,W.P. Labuan,Labuan,Syariah,17
+2024-12-01,W.P. Putrajaya,Ibu Pejabat,Jenayah,1
+2024-12-01,W.P. Putrajaya,Ibu Pejabat,Sivil,8
+2024-12-01,W.P. Putrajaya,Ibu Pejabat,Syariah,23

@@ -1,0 +1,673 @@
+state,type,date,sex,abs,rate
+Johor,neonatal,2017-01-01,both,274,4.485552918064991
+Johor,neonatal,2017-01-01,female,123,4.178414919998642
+Johor,neonatal,2017-01-01,male,151,4.771233569261881
+Johor,neonatal,2018-01-01,both,265,4.3
+Johor,neonatal,2018-01-01,female,126,4.3
+Johor,neonatal,2018-01-01,male,139,4.4
+Johor,neonatal,2019-01-01,both,236,3.9269193650371057
+Johor,neonatal,2019-01-01,female,106,3.641360357265544
+Johor,neonatal,2019-01-01,male,130,4.195172324770879
+Johor,neonatal,2020-01-01,both,238,4.1886659626891944
+Johor,neonatal,2020-01-01,female,109,3.965655242668995
+Johor,neonatal,2020-01-01,male,129,4.397627326651667
+Johor,neonatal,2021-01-01,both,221,4.420884176835368
+Johor,neonatal,2021-01-01,female,96,3.953545836422041
+Johor,neonatal,2021-01-01,male,125,4.862299673253462
+Johor,neonatal,2022-01-01,both,202,4.2
+Johor,neonatal,2022-01-01,female,88,3.7
+Johor,neonatal,2022-01-01,male,114,4.6
+Johor,neonatal,2024-01-01,both,219,4.3
+Johor,neonatal,2024-01-01,female,93,3.8
+Johor,neonatal,2024-01-01,male,126,4.8
+Johor,infant,2017-01-01,both,413,6.761070639273144
+Johor,infant,2017-01-01,female,187,6.35254951251826
+Johor,infant,2017-01-01,male,226,7.141051567239636
+Johor,infant,2018-01-01,both,422,6.9
+Johor,infant,2018-01-01,female,201,6.8
+Johor,infant,2018-01-01,male,221,7.0
+Johor,infant,2019-01-01,both,379,6.306366268428233
+Johor,infant,2019-01-01,female,170,6.744546275977798
+Johor,infant,2019-01-01,male,209,5.839917554105119
+Johor,infant,2020-01-01,both,346,6.089405139035551
+Johor,infant,2020-01-01,female,158,5.748380993960561
+Johor,infant,2020-01-01,male,188,6.40894525124429
+Johor,infant,2021-01-01,both,343,6.861372274454891
+Johor,infant,2021-01-01,female,152,6.259780907668231
+Johor,infant,2021-01-01,male,191,7.42959390073129
+Johor,infant,2022-01-01,both,323,6.7
+Johor,infant,2022-01-01,female,145,6.2
+Johor,infant,2022-01-01,male,178,7.2
+Johor,infant,2024-01-01,both,360,7.1
+Johor,infant,2024-01-01,female,159,6.5
+Johor,infant,2024-01-01,male,201,7.6
+Kedah,neonatal,2017-01-01,both,140,3.8154416373695255
+Kedah,neonatal,2017-01-01,female,70,3.9543554400632694
+Kedah,neonatal,2017-01-01,male,70,3.6859565057132326
+Kedah,neonatal,2018-01-01,both,151,4.2
+Kedah,neonatal,2018-01-01,female,63,3.7
+Kedah,neonatal,2018-01-01,male,88,4.8
+Kedah,neonatal,2019-01-01,both,137,3.980937990352764
+Kedah,neonatal,2019-01-01,female,57,3.4293965465375127
+Kedah,neonatal,2019-01-01,male,80,4.496150171415725
+Kedah,neonatal,2020-01-01,both,126,3.728913879846108
+Kedah,neonatal,2020-01-01,female,53,3.2525314513654497
+Kedah,neonatal,2020-01-01,male,73,4.172620748785367
+Kedah,neonatal,2021-01-01,both,146,4.418886198547216
+Kedah,neonatal,2021-01-01,female,68,4.2478760619690155
+Kedah,neonatal,2021-01-01,male,78,4.579614842649131
+Kedah,neonatal,2022-01-01,both,114,3.7
+Kedah,neonatal,2022-01-01,female,60,4.0
+Kedah,neonatal,2022-01-01,male,54,3.4
+Kedah,neonatal,2024-01-01,both,151,4.9
+Kedah,neonatal,2024-01-01,female,73,4.9
+Kedah,neonatal,2024-01-01,male,78,5.0
+Kedah,infant,2017-01-01,both,215,5.859428228817485
+Kedah,infant,2017-01-01,female,109,6.15749632809852
+Kedah,infant,2017-01-01,male,106,5.581591280080038
+Kedah,infant,2018-01-01,both,229,6.4
+Kedah,infant,2018-01-01,female,93,5.4
+Kedah,infant,2018-01-01,male,136,7.4
+Kedah,infant,2019-01-01,both,220,6.3927471377927585
+Kedah,infant,2019-01-01,female,91,7.250042151407857
+Kedah,infant,2019-01-01,male,129,5.475001504121293
+Kedah,infant,2020-01-01,both,171,5.060668836934004
+Kedah,infant,2020-01-01,female,71,4.357164774470697
+Kedah,infant,2020-01-01,male,100,5.715918833952558
+Kedah,infant,2021-01-01,both,203,6.1440677966101696
+Kedah,infant,2021-01-01,female,93,5.809595202398801
+Kedah,infant,2021-01-01,male,110,6.458431188351339
+Kedah,infant,2022-01-01,both,193,6.3
+Kedah,infant,2022-01-01,female,95,6.3
+Kedah,infant,2022-01-01,male,98,6.2
+Kedah,infant,2024-01-01,both,225,7.3
+Kedah,infant,2024-01-01,female,107,7.2
+Kedah,infant,2024-01-01,male,118,7.5
+Kelantan,neonatal,2017-01-01,both,198,5.061090946270641
+Kelantan,neonatal,2017-01-01,female,92,4.832440382393109
+Kelantan,neonatal,2017-01-01,male,106,5.277833100975902
+Kelantan,neonatal,2018-01-01,both,195,5.1
+Kelantan,neonatal,2018-01-01,female,75,4.1
+Kelantan,neonatal,2018-01-01,male,120,6.0
+Kelantan,neonatal,2019-01-01,both,182,4.953998584571833
+Kelantan,neonatal,2019-01-01,female,72,4.07147704139335
+Kelantan,neonatal,2019-01-01,male,110,5.773066022882334
+Kelantan,neonatal,2020-01-01,both,145,4.003313086692435
+Kelantan,neonatal,2020-01-01,female,58,3.3125821006339597
+Kelantan,neonatal,2020-01-01,male,87,4.649671316337983
+Kelantan,neonatal,2021-01-01,both,181,5.2065354964906225
+Kelantan,neonatal,2021-01-01,female,70,4.142992424242424
+Kelantan,neonatal,2021-01-01,male,111,6.212222968435191
+Kelantan,neonatal,2022-01-01,both,168,5.0
+Kelantan,neonatal,2022-01-01,female,70,4.3
+Kelantan,neonatal,2022-01-01,male,98,5.6
+Kelantan,neonatal,2024-01-01,both,131,4.1
+Kelantan,neonatal,2024-01-01,female,60,3.9
+Kelantan,neonatal,2024-01-01,male,71,4.3
+Kelantan,infant,2017-01-01,both,302,7.719441746331987
+Kelantan,infant,2017-01-01,female,142,7.458766677171972
+Kelantan,infant,2017-01-01,male,160,7.966540529774946
+Kelantan,infant,2018-01-01,both,288,7.5
+Kelantan,infant,2018-01-01,female,115,6.3
+Kelantan,infant,2018-01-01,male,173,8.7
+Kelantan,infant,2019-01-01,both,266,7.240459469758833
+Kelantan,infant,2019-01-01,female,113,8.02981001364543
+Kelantan,infant,2019-01-01,male,153,6.389957023297897
+Kelantan,infant,2020-01-01,both,214,5.908337934842629
+Kelantan,infant,2020-01-01,female,87,4.96887315095094
+Kelantan,infant,2020-01-01,male,127,6.787451231895676
+Kelantan,infant,2021-01-01,both,249,7.162581981360027
+Kelantan,infant,2021-01-01,female,104,6.15530303030303
+Kelantan,infant,2021-01-01,male,145,8.115066039847774
+Kelantan,infant,2022-01-01,both,264,7.8
+Kelantan,infant,2022-01-01,female,106,6.5
+Kelantan,infant,2022-01-01,male,158,9.0
+Kelantan,infant,2024-01-01,both,202,6.3
+Kelantan,infant,2024-01-01,female,89,5.8
+Kelantan,infant,2024-01-01,male,113,6.8
+Melaka,neonatal,2017-01-01,both,60,4.169851970255055
+Melaka,neonatal,2017-01-01,female,29,4.18168709444845
+Melaka,neonatal,2017-01-01,male,31,4.1588408907968875
+Melaka,neonatal,2018-01-01,both,71,4.9
+Melaka,neonatal,2018-01-01,female,28,4.0
+Melaka,neonatal,2018-01-01,male,43,5.8
+Melaka,neonatal,2019-01-01,both,64,4.543518387050972
+Melaka,neonatal,2019-01-01,female,29,4.321263597079422
+Melaka,neonatal,2019-01-01,male,35,4.745762711864407
+Melaka,neonatal,2020-01-01,both,66,4.768441586590565
+Melaka,neonatal,2020-01-01,female,26,3.874813710879285
+Melaka,neonatal,2020-01-01,male,40,5.60931145701865
+Melaka,neonatal,2021-01-01,both,62,4.6998180715585205
+Melaka,neonatal,2021-01-01,female,31,4.858934169278997
+Melaka,neonatal,2021-01-01,male,31,4.550792718731651
+Melaka,neonatal,2022-01-01,both,64,4.9
+Melaka,neonatal,2022-01-01,female,20,3.1
+Melaka,neonatal,2022-01-01,male,44,6.5
+Melaka,neonatal,2024-01-01,both,74,5.9
+Melaka,neonatal,2024-01-01,female,42,6.9
+Melaka,neonatal,2024-01-01,male,32,4.9
+Melaka,infant,2017-01-01,both,95,6.602265619570505
+Melaka,infant,2017-01-01,female,40,5.767844268204758
+Melaka,infant,2017-01-01,male,55,7.378588677220284
+Melaka,infant,2018-01-01,both,110,7.6
+Melaka,infant,2018-01-01,female,39,5.6
+Melaka,infant,2018-01-01,male,71,9.6
+Melaka,infant,2019-01-01,both,89,6.318330256992759
+Melaka,infant,2019-01-01,female,39,6.779661016949152
+Melaka,infant,2019-01-01,male,50,5.811354492624051
+Melaka,infant,2020-01-01,both,88,6.357922115454086
+Melaka,infant,2020-01-01,female,38,5.663189269746646
+Melaka,infant,2020-01-01,male,50,7.0116393212733135
+Melaka,infant,2021-01-01,both,94,7.125530624620982
+Melaka,infant,2021-01-01,female,44,6.896551724137931
+Melaka,infant,2021-01-01,male,50,7.339988256018791
+Melaka,infant,2022-01-01,both,88,6.7
+Melaka,infant,2022-01-01,female,34,5.3
+Melaka,infant,2022-01-01,male,54,8.0
+Melaka,infant,2024-01-01,both,103,8.2
+Melaka,infant,2024-01-01,female,57,9.4
+Melaka,infant,2024-01-01,male,46,7.1
+Negeri Sembilan,neonatal,2017-01-01,both,103,5.6975329129328465
+Negeri Sembilan,neonatal,2017-01-01,female,43,4.949355432780847
+Negeri Sembilan,neonatal,2017-01-01,male,60,6.3897763578274756
+Negeri Sembilan,neonatal,2018-01-01,both,111,6.1
+Negeri Sembilan,neonatal,2018-01-01,female,48,5.4
+Negeri Sembilan,neonatal,2018-01-01,male,63,6.8
+Negeri Sembilan,neonatal,2019-01-01,both,91,5.229283990345937
+Negeri Sembilan,neonatal,2019-01-01,female,42,5.01432664756447
+Negeri Sembilan,neonatal,2019-01-01,male,49,5.428761356082428
+Negeri Sembilan,neonatal,2020-01-01,both,70,4.095004095004095
+Negeri Sembilan,neonatal,2020-01-01,female,30,3.6456434560699966
+Negeri Sembilan,neonatal,2020-01-01,male,40,4.512126339537508
+Negeri Sembilan,neonatal,2021-01-01,both,72,4.291589676342612
+Negeri Sembilan,neonatal,2021-01-01,female,31,3.8490191209336975
+Negeri Sembilan,neonatal,2021-01-01,male,41,4.700217814971913
+Negeri Sembilan,neonatal,2022-01-01,both,63,3.9
+Negeri Sembilan,neonatal,2022-01-01,female,32,4.2
+Negeri Sembilan,neonatal,2022-01-01,male,31,3.7
+Negeri Sembilan,neonatal,2024-01-01,both,90,6.1
+Negeri Sembilan,neonatal,2024-01-01,female,41,5.7
+Negeri Sembilan,neonatal,2024-01-01,male,49,6.5
+Negeri Sembilan,infant,2017-01-01,both,148,8.186746321495741
+Negeri Sembilan,infant,2017-01-01,female,57,6.560773480662983
+Negeri Sembilan,infant,2017-01-01,male,91,9.691160809371672
+Negeri Sembilan,infant,2018-01-01,both,162,8.9
+Negeri Sembilan,infant,2018-01-01,female,73,8.2
+Negeri Sembilan,infant,2018-01-01,male,89,9.5
+Negeri Sembilan,infant,2019-01-01,both,132,7.585335018963337
+Negeri Sembilan,infant,2019-01-01,female,66,7.312209173498782
+Negeri Sembilan,infant,2019-01-01,male,66,7.8796561604584525
+Negeri Sembilan,infant,2020-01-01,both,100,5.85000585000585
+Negeri Sembilan,infant,2020-01-01,female,46,5.589986632640661
+Negeri Sembilan,infant,2020-01-01,male,54,6.091370558375634
+Negeri Sembilan,infant,2021-01-01,both,111,6.6162007510281935
+Negeri Sembilan,infant,2021-01-01,female,59,7.325552520486714
+Negeri Sembilan,infant,2021-01-01,male,52,5.961251862891207
+Negeri Sembilan,infant,2022-01-01,both,99,6.2
+Negeri Sembilan,infant,2022-01-01,female,44,5.8
+Negeri Sembilan,infant,2022-01-01,male,55,6.5
+Negeri Sembilan,infant,2024-01-01,both,138,9.4
+Negeri Sembilan,infant,2024-01-01,female,69,9.6
+Negeri Sembilan,infant,2024-01-01,male,69,9.2
+Pahang,neonatal,2017-01-01,both,130,4.717837053166395
+Pahang,neonatal,2017-01-01,female,51,3.793513835168105
+Pahang,neonatal,2017-01-01,male,79,5.598469279285664
+Pahang,neonatal,2018-01-01,both,125,4.6
+Pahang,neonatal,2018-01-01,female,57,4.4
+Pahang,neonatal,2018-01-01,male,68,4.9
+Pahang,neonatal,2019-01-01,both,118,4.577901924270639
+Pahang,neonatal,2019-01-01,female,54,4.296968250179041
+Pahang,neonatal,2019-01-01,male,64,4.845181315769551
+Pahang,neonatal,2020-01-01,both,88,3.4811503619605206
+Pahang,neonatal,2020-01-01,female,46,3.745318352059925
+Pahang,neonatal,2020-01-01,male,42,3.231514964991921
+Pahang,neonatal,2021-01-01,both,109,4.447708817888766
+Pahang,neonatal,2021-01-01,female,45,3.786922494319617
+Pahang,neonatal,2021-01-01,male,64,5.069708491761723
+Pahang,neonatal,2022-01-01,both,94,4.0
+Pahang,neonatal,2022-01-01,female,44,3.9
+Pahang,neonatal,2022-01-01,male,50,4.1
+Pahang,neonatal,2024-01-01,both,89,4.1
+Pahang,neonatal,2024-01-01,female,44,4.3
+Pahang,neonatal,2024-01-01,male,45,4.0
+Pahang,infant,2017-01-01,both,205,7.439666122300853
+Pahang,infant,2017-01-01,female,82,6.099375185956561
+Pahang,infant,2017-01-01,male,123,8.716604067748564
+Pahang,infant,2018-01-01,both,197,7.3
+Pahang,infant,2018-01-01,female,88,6.7
+Pahang,infant,2018-01-01,male,109,7.8
+Pahang,infant,2019-01-01,both,183,7.099627560521416
+Pahang,infant,2019-01-01,female,88,7.192066015595428
+Pahang,infant,2019-01-01,male,95,7.002466778069547
+Pahang,infant,2020-01-01,both,140,5.538193757664464
+Pahang,infant,2020-01-01,female,64,5.210877707213809
+Pahang,infant,2020-01-01,male,76,5.84750326998538
+Pahang,infant,2021-01-01,both,148,6.039090871995756
+Pahang,infant,2021-01-01,female,70,5.890768324497181
+Pahang,infant,2021-01-01,male,78,6.178707224334601
+Pahang,infant,2022-01-01,both,164,7.0
+Pahang,infant,2022-01-01,female,75,6.6
+Pahang,infant,2022-01-01,male,89,7.3
+Pahang,infant,2024-01-01,both,138,6.4
+Pahang,infant,2024-01-01,female,61,5.9
+Pahang,infant,2024-01-01,male,77,6.9
+Perak,neonatal,2017-01-01,both,161,4.621390435731098
+Perak,neonatal,2017-01-01,female,72,4.264139769025762
+Perak,neonatal,2017-01-01,male,89,4.9573887372583965
+Perak,neonatal,2018-01-01,both,150,4.4
+Perak,neonatal,2018-01-01,female,77,4.7
+Perak,neonatal,2018-01-01,male,73,4.2
+Perak,neonatal,2019-01-01,both,147,4.469035965098957
+Perak,neonatal,2019-01-01,female,66,4.154601535943598
+Perak,neonatal,2019-01-01,male,81,4.762744752160875
+Perak,neonatal,2020-01-01,both,143,4.534931658897029
+Perak,neonatal,2020-01-01,female,62,4.108681245858184
+Perak,neonatal,2020-01-01,male,81,4.926108374384237
+Perak,neonatal,2021-01-01,both,130,4.21858774662513
+Perak,neonatal,2021-01-01,female,56,3.7189533802629833
+Perak,neonatal,2021-01-01,male,74,4.6960274146465295
+Perak,neonatal,2022-01-01,both,139,4.7
+Perak,neonatal,2022-01-01,female,62,4.3
+Perak,neonatal,2022-01-01,male,77,5.1
+Perak,neonatal,2024-01-01,both,139,5.0
+Perak,neonatal,2024-01-01,female,53,3.9
+Perak,neonatal,2024-01-01,male,86,6.1
+Perak,infant,2017-01-01,both,242,6.946437797806992
+Perak,infant,2017-01-01,female,108,6.396209653538644
+Perak,infant,2017-01-01,male,134,7.463933604411519
+Perak,infant,2018-01-01,both,223,6.6
+Perak,infant,2018-01-01,female,111,6.8
+Perak,infant,2018-01-01,male,112,6.4
+Perak,infant,2019-01-01,both,230,6.992369197093606
+Perak,infant,2019-01-01,female,104,7.4087140589169165
+Perak,infant,2019-01-01,male,126,6.546644844517186
+Perak,infant,2020-01-01,both,197,6.247423334284718
+Perak,infant,2020-01-01,female,85,5.632869449966865
+Perak,infant,2020-01-01,male,112,6.811409110259685
+Perak,infant,2021-01-01,both,192,6.230529595015576
+Perak,infant,2021-01-01,female,88,5.844069597556116
+Perak,infant,2021-01-01,male,104,6.599822312476203
+Perak,infant,2022-01-01,both,216,7.3
+Perak,infant,2022-01-01,female,93,6.5
+Perak,infant,2022-01-01,male,123,8.1
+Perak,infant,2024-01-01,both,210,7.6
+Perak,infant,2024-01-01,female,85,6.3
+Perak,infant,2024-01-01,male,125,8.8
+Perlis,neonatal,2017-01-01,both,11,2.4735776928266247
+Perlis,neonatal,2017-01-01,female,4,1.9047619047619049
+Perlis,neonatal,2017-01-01,male,7,2.982530890498509
+Perlis,neonatal,2018-01-01,both,28,6.4
+Perlis,neonatal,2018-01-01,female,16,7.5
+Perlis,neonatal,2018-01-01,male,12,5.3
+Perlis,neonatal,2019-01-01,both,18,4.451038575667656
+Perlis,neonatal,2019-01-01,female,7,3.680336487907466
+Perlis,neonatal,2019-01-01,male,11,5.135387488328665
+Perlis,neonatal,2020-01-01,both,27,6.588579795021962
+Perlis,neonatal,2020-01-01,female,10,5.015045135406218
+Perlis,neonatal,2020-01-01,male,17,8.079847908745247
+Perlis,neonatal,2021-01-01,both,21,5.152109911678116
+Perlis,neonatal,2021-01-01,female,13,6.742738589211618
+Perlis,neonatal,2021-01-01,male,8,3.7243947858473
+Perlis,neonatal,2022-01-01,both,24,6.4
+Perlis,neonatal,2022-01-01,female,10,5.6
+Perlis,neonatal,2022-01-01,male,14,7.1
+Perlis,neonatal,2024-01-01,both,23,6.4
+Perlis,neonatal,2024-01-01,female,10,5.7
+Perlis,neonatal,2024-01-01,male,13,7.1
+Perlis,infant,2017-01-01,both,25,5.621767483696874
+Perlis,infant,2017-01-01,female,10,4.761904761904763
+Perlis,infant,2017-01-01,male,15,6.391137622496805
+Perlis,infant,2018-01-01,both,39,8.9
+Perlis,infant,2018-01-01,female,25,11.8
+Perlis,infant,2018-01-01,male,14,6.2
+Perlis,infant,2019-01-01,both,23,5.687438180019782
+Perlis,infant,2019-01-01,female,8,7.002801120448179
+Perlis,infant,2019-01-01,male,15,4.206098843322818
+Perlis,infant,2020-01-01,both,35,8.54075158613958
+Perlis,infant,2020-01-01,female,13,6.519558676028084
+Perlis,infant,2020-01-01,male,22,10.456273764258556
+Perlis,infant,2021-01-01,both,31,7.605495583905791
+Perlis,infant,2021-01-01,female,19,9.854771784232366
+Perlis,infant,2021-01-01,male,12,5.58659217877095
+Perlis,infant,2022-01-01,both,35,9.3
+Perlis,infant,2022-01-01,female,12,6.7
+Perlis,infant,2022-01-01,male,23,11.7
+Perlis,infant,2024-01-01,both,31,8.7
+Perlis,infant,2024-01-01,female,17,9.7
+Perlis,infant,2024-01-01,male,14,7.7
+Pulau Pinang,neonatal,2017-01-01,both,83,3.866939992545658
+Pulau Pinang,neonatal,2017-01-01,female,33,3.168202764976958
+Pulau Pinang,neonatal,2017-01-01,male,50,4.525706010137582
+Pulau Pinang,neonatal,2018-01-01,both,89,4.3
+Pulau Pinang,neonatal,2018-01-01,female,42,4.2
+Pulau Pinang,neonatal,2018-01-01,male,47,4.4
+Pulau Pinang,neonatal,2019-01-01,both,79,3.9213739700188626
+Pulau Pinang,neonatal,2019-01-01,female,31,3.197854342892511
+Pulau Pinang,neonatal,2019-01-01,male,48,4.5924225028702645
+Pulau Pinang,neonatal,2020-01-01,both,70,3.569607343192249
+Pulau Pinang,neonatal,2020-01-01,female,30,3.1789763696089857
+Pulau Pinang,neonatal,2020-01-01,male,40,3.931976801336872
+Pulau Pinang,neonatal,2021-01-01,both,66,3.5539281675730976
+Pulau Pinang,neonatal,2021-01-01,female,31,3.421255932016334
+Pulau Pinang,neonatal,2021-01-01,male,35,3.680336487907466
+Pulau Pinang,neonatal,2022-01-01,both,63,3.6
+Pulau Pinang,neonatal,2022-01-01,female,27,3.1
+Pulau Pinang,neonatal,2022-01-01,male,36,4.0
+Pulau Pinang,neonatal,2024-01-01,both,67,3.7
+Pulau Pinang,neonatal,2024-01-01,female,24,2.8
+Pulau Pinang,neonatal,2024-01-01,male,43,4.5
+Pulau Pinang,infant,2017-01-01,both,125,5.82370480805069
+Pulau Pinang,infant,2017-01-01,female,54,5.184331797235023
+Pulau Pinang,infant,2017-01-01,male,71,6.4265025343953655
+Pulau Pinang,infant,2018-01-01,both,133,6.4
+Pulau Pinang,infant,2018-01-01,female,60,6.0
+Pulau Pinang,infant,2018-01-01,male,73,6.8
+Pulau Pinang,infant,2019-01-01,both,110,5.46014097091234
+Pulau Pinang,infant,2019-01-01,female,43,6.41025641025641
+Pulau Pinang,infant,2019-01-01,male,67,4.435733443367031
+Pulau Pinang,infant,2020-01-01,both,100,5.099439061703213
+Pulau Pinang,infant,2020-01-01,female,47,4.980396312387411
+Pulau Pinang,infant,2020-01-01,male,53,5.209869261771355
+Pulau Pinang,infant,2021-01-01,both,100,5.3847396478380265
+Pulau Pinang,infant,2021-01-01,female,43,4.745613066990399
+Pulau Pinang,infant,2021-01-01,male,57,5.993690851735016
+Pulau Pinang,infant,2022-01-01,both,102,5.8
+Pulau Pinang,infant,2022-01-01,female,42,4.8
+Pulau Pinang,infant,2022-01-01,male,60,6.6
+Pulau Pinang,infant,2024-01-01,both,111,6.1
+Pulau Pinang,infant,2024-01-01,female,42,4.8
+Pulau Pinang,infant,2024-01-01,male,69,7.3
+Sabah,neonatal,2017-01-01,both,322,6.130063965884862
+Sabah,neonatal,2017-01-01,female,130,5.116498740554156
+Sabah,neonatal,2017-01-01,male,192,7.079646017699115
+Sabah,neonatal,2018-01-01,both,335,6.3
+Sabah,neonatal,2018-01-01,female,155,6.1
+Sabah,neonatal,2018-01-01,male,180,6.5
+Sabah,neonatal,2019-01-01,both,205,3.890976730061117
+Sabah,neonatal,2019-01-01,female,93,3.6801076332555103
+Sabah,neonatal,2019-01-01,male,112,4.085354732810505
+Sabah,neonatal,2020-01-01,both,273,5.547652916073969
+Sabah,neonatal,2020-01-01,female,129,5.497783839072622
+Sabah,neonatal,2020-01-01,male,144,5.59310184106269
+Sabah,neonatal,2021-01-01,both,232,5.575850797923477
+Sabah,neonatal,2021-01-01,female,115,5.7316586921850075
+Sabah,neonatal,2021-01-01,male,117,5.4307463795024145
+Sabah,neonatal,2022-01-01,both,227,5.2
+Sabah,neonatal,2022-01-01,female,90,4.3
+Sabah,neonatal,2022-01-01,male,137,6.1
+Sabah,neonatal,2024-01-01,both,224,5.3
+Sabah,neonatal,2024-01-01,female,85,4.2
+Sabah,neonatal,2024-01-01,male,139,6.4
+Sabah,infant,2017-01-01,both,502,9.556807797745964
+Sabah,infant,2017-01-01,female,205,8.068324937027707
+Sabah,infant,2017-01-01,male,297,10.95132743362832
+Sabah,infant,2018-01-01,both,534,10.1
+Sabah,infant,2018-01-01,female,237,9.3
+Sabah,infant,2018-01-01,male,297,10.8
+Sabah,infant,2019-01-01,both,347,6.586189879664428
+Sabah,infant,2019-01-01,female,158,6.894036111617727
+Sabah,infant,2019-01-01,male,189,6.252225871552372
+Sabah,infant,2020-01-01,both,419,8.514529567161146
+Sabah,infant,2020-01-01,female,194,8.267984998295262
+Sabah,infant,2020-01-01,male,225,8.739221626660452
+Sabah,infant,2021-01-01,both,374,8.988656027686984
+Sabah,infant,2021-01-01,female,178,8.871610845295056
+Sabah,infant,2021-01-01,male,196,9.0976606015596
+Sabah,infant,2022-01-01,both,392,9.0
+Sabah,infant,2022-01-01,female,170,8.0
+Sabah,infant,2022-01-01,male,222,9.9
+Sabah,infant,2024-01-01,both,405,9.6
+Sabah,infant,2024-01-01,female,169,8.3
+Sabah,infant,2024-01-01,male,236,10.9
+Sarawak,neonatal,2017-01-01,both,158,4.1961013438147345
+Sarawak,neonatal,2017-01-01,female,62,3.4233338854839603
+Sarawak,neonatal,2017-01-01,male,96,4.912244793532211
+Sarawak,neonatal,2018-01-01,both,139,3.8
+Sarawak,neonatal,2018-01-01,female,54,3.0
+Sarawak,neonatal,2018-01-01,male,85,4.5
+Sarawak,neonatal,2019-01-01,both,118,3.23837751797574
+Sarawak,neonatal,2019-01-01,female,60,3.423875827436658
+Sarawak,neonatal,2019-01-01,male,58,3.066511578724754
+Sarawak,neonatal,2020-01-01,both,120,3.3946251768033946
+Sarawak,neonatal,2020-01-01,female,43,2.533584727786943
+Sarawak,neonatal,2020-01-01,male,77,4.18979214277941
+Sarawak,neonatal,2021-01-01,both,97,3.10161795740871
+Sarawak,neonatal,2021-01-01,female,42,2.7609781751249014
+Sarawak,neonatal,2021-01-01,male,55,3.424231104470178
+Sarawak,neonatal,2022-01-01,both,131,4.2
+Sarawak,neonatal,2022-01-01,female,54,3.6
+Sarawak,neonatal,2022-01-01,male,77,4.8
+Sarawak,neonatal,2024-01-01,both,134,4.4
+Sarawak,neonatal,2024-01-01,female,60,4.1
+Sarawak,neonatal,2024-01-01,male,74,4.7
+Sarawak,infant,2017-01-01,both,238,6.320709619163966
+Sarawak,infant,2017-01-01,female,102,5.631936392247805
+Sarawak,infant,2017-01-01,male,136,6.959013457503965
+Sarawak,infant,2018-01-01,both,262,7.2
+Sarawak,infant,2018-01-01,female,114,6.4
+Sarawak,infant,2018-01-01,male,148,7.8
+Sarawak,infant,2019-01-01,both,208,5.708326472364016
+Sarawak,infant,2019-01-01,female,103,5.5514433752775725
+Sarawak,infant,2019-01-01,male,105,5.877653503766263
+Sarawak,infant,2020-01-01,both,200,5.657708628005658
+Sarawak,infant,2020-01-01,female,79,4.654725430120198
+Sarawak,infant,2020-01-01,male,121,6.583959081510502
+Sarawak,infant,2021-01-01,both,152,4.860267314702308
+Sarawak,infant,2021-01-01,female,71,4.667367867473048
+Sarawak,infant,2021-01-01,male,81,5.042958535674262
+Sarawak,infant,2022-01-01,both,183,5.9
+Sarawak,infant,2022-01-01,female,83,5.5
+Sarawak,infant,2022-01-01,male,100,6.3
+Sarawak,infant,2024-01-01,both,221,7.3
+Sarawak,infant,2024-01-01,female,92,6.3
+Sarawak,infant,2024-01-01,male,129,8.3
+Selangor,neonatal,2017-01-01,both,386,3.712002461846192
+Selangor,neonatal,2017-01-01,female,185,3.6879036759429074
+Selangor,neonatal,2017-01-01,male,201,3.734462961930773
+Selangor,neonatal,2018-01-01,both,422,4.1
+Selangor,neonatal,2018-01-01,female,183,3.7
+Selangor,neonatal,2018-01-01,male,239,4.5
+Selangor,neonatal,2019-01-01,both,365,3.8335906565417863
+Selangor,neonatal,2019-01-01,female,185,4.0002594762903545
+Selangor,neonatal,2019-01-01,male,180,3.676170247528797
+Selangor,neonatal,2020-01-01,both,279,2.9917325241000676
+Selangor,neonatal,2020-01-01,female,116,2.5721761497183913
+Selangor,neonatal,2020-01-01,male,163,3.384621773707926
+Selangor,neonatal,2021-01-01,both,264,2.9294924432410836
+Selangor,neonatal,2021-01-01,female,121,2.782888684452622
+Selangor,neonatal,2021-01-01,male,143,3.0661692182340583
+Selangor,neonatal,2022-01-01,both,286,3.4
+Selangor,neonatal,2022-01-01,female,116,2.9
+Selangor,neonatal,2022-01-01,male,170,3.9
+Selangor,neonatal,2024-01-01,both,326,3.9
+Selangor,neonatal,2024-01-01,female,144,3.6
+Selangor,neonatal,2024-01-01,male,182,4.3
+Selangor,infant,2017-01-01,both,620,5.962283747006837
+Selangor,infant,2017-01-01,female,291,5.80097280918587
+Selangor,infant,2017-01-01,male,329,6.112628430224996
+Selangor,infant,2018-01-01,both,662,6.5
+Selangor,infant,2018-01-01,female,300,6.1
+Selangor,infant,2018-01-01,male,362,6.9
+Selangor,infant,2019-01-01,both,582,6.112739074266629
+Selangor,infant,2019-01-01,female,273,6.310758924924435
+Selangor,infant,2019-01-01,male,309,5.903085605552793
+Selangor,infant,2020-01-01,both,417,4.471514202687198
+Selangor,infant,2020-01-01,female,186,4.124351412479489
+Selangor,infant,2020-01-01,male,231,4.79661122531614
+Selangor,infant,2021-01-01,both,402,4.4608180385716505
+Selangor,infant,2021-01-01,female,185,4.254829806807727
+Selangor,infant,2021-01-01,male,217,4.652858184313221
+Selangor,infant,2022-01-01,both,495,5.9
+Selangor,infant,2022-01-01,female,212,5.3
+Selangor,infant,2022-01-01,male,283,6.5
+Selangor,infant,2024-01-01,both,519,6.2
+Selangor,infant,2024-01-01,female,229,5.7
+Selangor,infant,2024-01-01,male,290,6.8
+Terengganu,neonatal,2017-01-01,both,114,4.084411164057181
+Terengganu,neonatal,2017-01-01,female,44,3.203727974370176
+Terengganu,neonatal,2017-01-01,male,70,4.937574945333992
+Terengganu,neonatal,2018-01-01,both,118,4.2
+Terengganu,neonatal,2018-01-01,female,52,3.8
+Terengganu,neonatal,2018-01-01,male,66,4.5
+Terengganu,neonatal,2019-01-01,both,129,4.776008885597927
+Terengganu,neonatal,2019-01-01,female,57,4.398487537618643
+Terengganu,neonatal,2019-01-01,male,72,5.124190449078358
+Terengganu,neonatal,2020-01-01,both,107,3.940487589305443
+Terengganu,neonatal,2020-01-01,female,45,3.4493331289284073
+Terengganu,neonatal,2020-01-01,male,62,4.394669690955486
+Terengganu,neonatal,2021-01-01,both,127,4.822113376618446
+Terengganu,neonatal,2021-01-01,female,61,4.801259346713892
+Terengganu,neonatal,2021-01-01,male,66,4.841549295774647
+Terengganu,neonatal,2022-01-01,both,126,5.0
+Terengganu,neonatal,2022-01-01,female,53,4.3
+Terengganu,neonatal,2022-01-01,male,73,5.6
+Terengganu,neonatal,2024-01-01,both,113,4.8
+Terengganu,neonatal,2024-01-01,female,53,4.6
+Terengganu,neonatal,2024-01-01,male,60,4.9
+Terengganu,infant,2017-01-01,both,173,6.198273082297303
+Terengganu,infant,2017-01-01,female,73,5.315275957477793
+Terengganu,infant,2017-01-01,male,100,7.0536784933342735
+Terengganu,infant,2018-01-01,both,173,6.1
+Terengganu,infant,2018-01-01,female,77,5.6
+Terengganu,infant,2018-01-01,male,96,6.6
+Terengganu,infant,2019-01-01,both,198,7.330618289522398
+Terengganu,infant,2019-01-01,female,87,7.8997936089958
+Terengganu,infant,2019-01-01,male,111,6.71348097847056
+Terengganu,infant,2020-01-01,both,153,5.634528982838624
+Terengganu,infant,2020-01-01,female,68,5.212325617047371
+Terengganu,infant,2020-01-01,male,85,6.024950382761554
+Terengganu,infant,2021-01-01,both,167,6.340889243269925
+Terengganu,infant,2021-01-01,female,81,6.375442739079103
+Terengganu,infant,2021-01-01,male,86,6.30868544600939
+Terengganu,infant,2022-01-01,both,167,6.6
+Terengganu,infant,2022-01-01,female,68,5.6
+Terengganu,infant,2022-01-01,male,99,7.6
+Terengganu,infant,2024-01-01,both,170,7.2
+Terengganu,infant,2024-01-01,female,81,7.0
+Terengganu,infant,2024-01-01,male,89,7.3
+W.P. Kuala Lumpur,neonatal,2017-01-01,both,94,3.8007439754164647
+W.P. Kuala Lumpur,neonatal,2017-01-01,female,39,3.24729392173189
+W.P. Kuala Lumpur,neonatal,2017-01-01,male,55,4.323219619556673
+W.P. Kuala Lumpur,neonatal,2018-01-01,both,98,4.0
+W.P. Kuala Lumpur,neonatal,2018-01-01,female,42,3.6
+W.P. Kuala Lumpur,neonatal,2018-01-01,male,56,4.5
+W.P. Kuala Lumpur,neonatal,2019-01-01,both,76,2.8110667258470188
+W.P. Kuala Lumpur,neonatal,2019-01-01,female,30,2.305564094681832
+W.P. Kuala Lumpur,neonatal,2019-01-01,male,46,3.2800912721049627
+W.P. Kuala Lumpur,neonatal,2020-01-01,both,57,2.4689219041018755
+W.P. Kuala Lumpur,neonatal,2020-01-01,female,25,2.2657241254304874
+W.P. Kuala Lumpur,neonatal,2020-01-01,male,32,2.654940678669211
+W.P. Kuala Lumpur,neonatal,2021-01-01,both,74,3.516107573885774
+W.P. Kuala Lumpur,neonatal,2021-01-01,female,26,2.58603540879252
+W.P. Kuala Lumpur,neonatal,2021-01-01,male,48,4.366812227074235
+W.P. Kuala Lumpur,neonatal,2022-01-01,both,70,3.5
+W.P. Kuala Lumpur,neonatal,2022-01-01,female,28,2.9
+W.P. Kuala Lumpur,neonatal,2022-01-01,male,42,4.1
+W.P. Kuala Lumpur,neonatal,2024-01-01,both,62,2.9
+W.P. Kuala Lumpur,neonatal,2024-01-01,female,32,3.1
+W.P. Kuala Lumpur,neonatal,2024-01-01,male,30,2.7
+W.P. Kuala Lumpur,infant,2017-01-01,both,160,6.469351447517387
+W.P. Kuala Lumpur,infant,2017-01-01,female,75,6.244796003330557
+W.P. Kuala Lumpur,infant,2017-01-01,male,85,6.681339412042131
+W.P. Kuala Lumpur,infant,2018-01-01,both,150,6.2
+W.P. Kuala Lumpur,infant,2018-01-01,female,68,5.8
+W.P. Kuala Lumpur,infant,2018-01-01,male,82,6.6
+W.P. Kuala Lumpur,infant,2019-01-01,both,120,4.438526409232135
+W.P. Kuala Lumpur,infant,2019-01-01,female,49,5.062749572162008
+W.P. Kuala Lumpur,infant,2019-01-01,male,71,3.765754687980326
+W.P. Kuala Lumpur,infant,2020-01-01,both,90,3.898297743318751
+W.P. Kuala Lumpur,infant,2020-01-01,female,43,3.897045495740439
+W.P. Kuala Lumpur,infant,2020-01-01,male,47,3.899444121795404
+W.P. Kuala Lumpur,infant,2021-01-01,both,116,5.5117361969020235
+W.P. Kuala Lumpur,infant,2021-01-01,female,48,4.774219216232345
+W.P. Kuala Lumpur,infant,2021-01-01,male,68,6.186317321688501
+W.P. Kuala Lumpur,infant,2022-01-01,both,122,6.1
+W.P. Kuala Lumpur,infant,2022-01-01,female,51,5.3
+W.P. Kuala Lumpur,infant,2022-01-01,male,71,6.9
+W.P. Kuala Lumpur,infant,2024-01-01,both,104,4.9
+W.P. Kuala Lumpur,infant,2024-01-01,female,58,5.7
+W.P. Kuala Lumpur,infant,2024-01-01,male,46,4.2
+W.P. Labuan,neonatal,2017-01-01,both,7,4.154302670623145
+W.P. Labuan,neonatal,2017-01-01,female,5,6.105006105006105
+W.P. Labuan,neonatal,2017-01-01,male,2,2.3094688221709005
+W.P. Labuan,neonatal,2018-01-01,both,12,7.1
+W.P. Labuan,neonatal,2018-01-01,female,4,5.1
+W.P. Labuan,neonatal,2018-01-01,male,8,8.8
+W.P. Labuan,neonatal,2019-01-01,both,7,4.2042042042042045
+W.P. Labuan,neonatal,2019-01-01,female,3,3.75
+W.P. Labuan,neonatal,2019-01-01,male,4,4.624277456647399
+W.P. Labuan,neonatal,2020-01-01,both,9,5.263157894736842
+W.P. Labuan,neonatal,2020-01-01,female,5,5.793742757821553
+W.P. Labuan,neonatal,2020-01-01,male,4,4.7225501770956315
+W.P. Labuan,neonatal,2021-01-01,both,8,5.256241787122208
+W.P. Labuan,neonatal,2021-01-01,female,1,1.303780964797914
+W.P. Labuan,neonatal,2021-01-01,male,7,9.271523178807948
+W.P. Labuan,neonatal,2022-01-01,both,10,7.3
+W.P. Labuan,neonatal,2022-01-01,female,5,7.5
+W.P. Labuan,neonatal,2022-01-01,male,5,7.1
+W.P. Labuan,neonatal,2024-01-01,both,15,11.5
+W.P. Labuan,neonatal,2024-01-01,female,5,8.2
+W.P. Labuan,neonatal,2024-01-01,male,10,14.3
+W.P. Labuan,infant,2017-01-01,both,12,7.121661721068249
+W.P. Labuan,infant,2017-01-01,female,10,12.21001221001221
+W.P. Labuan,infant,2017-01-01,male,2,2.3094688221709005
+W.P. Labuan,infant,2018-01-01,both,16,9.5
+W.P. Labuan,infant,2018-01-01,female,7,9.0
+W.P. Labuan,infant,2018-01-01,male,9,9.9
+W.P. Labuan,infant,2019-01-01,both,11,6.606606606606606
+W.P. Labuan,infant,2019-01-01,female,4,8.092485549132947
+W.P. Labuan,infant,2019-01-01,male,7,5.0
+W.P. Labuan,infant,2020-01-01,both,12,7.017543859649123
+W.P. Labuan,infant,2020-01-01,female,7,8.111239860950173
+W.P. Labuan,infant,2020-01-01,male,5,5.903187721369539
+W.P. Labuan,infant,2021-01-01,both,9,5.913272010512484
+W.P. Labuan,infant,2021-01-01,female,1,1.303780964797914
+W.P. Labuan,infant,2021-01-01,male,8,10.596026490066226
+W.P. Labuan,infant,2022-01-01,both,13,9.5
+W.P. Labuan,infant,2022-01-01,female,7,10.4
+W.P. Labuan,infant,2022-01-01,male,6,8.5
+W.P. Labuan,infant,2024-01-01,both,21,16.0
+W.P. Labuan,infant,2024-01-01,female,7,11.5
+W.P. Labuan,infant,2024-01-01,male,14,20.0
+W.P. Putrajaya,neonatal,2017-01-01,both,12,4.767580452920143
+W.P. Putrajaya,neonatal,2017-01-01,female,5,4.101722723543888
+W.P. Putrajaya,neonatal,2017-01-01,male,7,5.3929121725731894
+W.P. Putrajaya,neonatal,2018-01-01,both,12,5.0
+W.P. Putrajaya,neonatal,2018-01-01,female,4,3.5
+W.P. Putrajaya,neonatal,2018-01-01,male,8,6.4
+W.P. Putrajaya,neonatal,2019-01-01,both,8,3.457216940363008
+W.P. Putrajaya,neonatal,2019-01-01,female,3,2.7198549410698094
+W.P. Putrajaya,neonatal,2019-01-01,male,5,4.1288191577208915
+W.P. Putrajaya,neonatal,2020-01-01,both,9,4.201680672268908
+W.P. Putrajaya,neonatal,2020-01-01,female,6,5.612722170252572
+W.P. Putrajaya,neonatal,2020-01-01,male,3,2.7958993476234855
+W.P. Putrajaya,neonatal,2021-01-01,both,8,3.798670465337133
+W.P. Putrajaya,neonatal,2021-01-01,female,4,3.937007874015748
+W.P. Putrajaya,neonatal,2021-01-01,male,4,3.669724770642202
+W.P. Putrajaya,neonatal,2022-01-01,both,8,4.4
+W.P. Putrajaya,neonatal,2022-01-01,female,6,6.8
+W.P. Putrajaya,neonatal,2022-01-01,male,2,2.1
+W.P. Putrajaya,neonatal,2024-01-01,both,6,3.9
+W.P. Putrajaya,neonatal,2024-01-01,female,4,5.3
+W.P. Putrajaya,neonatal,2024-01-01,male,2,2.5
+W.P. Putrajaya,infant,2017-01-01,both,21,8.34326579261025
+W.P. Putrajaya,infant,2017-01-01,female,12,9.844134536505331
+W.P. Putrajaya,infant,2017-01-01,male,9,6.933744221879815
+W.P. Putrajaya,infant,2018-01-01,both,22,9.2
+W.P. Putrajaya,infant,2018-01-01,female,10,8.7
+W.P. Putrajaya,infant,2018-01-01,male,12,9.6
+W.P. Putrajaya,infant,2019-01-01,both,19,8.210890233362145
+W.P. Putrajaya,infant,2019-01-01,female,10,7.431874483897605
+W.P. Putrajaya,infant,2019-01-01,male,9,9.066183136899364
+W.P. Putrajaya,infant,2020-01-01,both,14,6.5359477124183005
+W.P. Putrajaya,infant,2020-01-01,female,8,7.483629560336763
+W.P. Putrajaya,infant,2020-01-01,male,6,5.591798695246971
+W.P. Putrajaya,infant,2021-01-01,both,13,6.172839506172839
+W.P. Putrajaya,infant,2021-01-01,female,5,4.921259842519685
+W.P. Putrajaya,infant,2021-01-01,male,8,7.339449541284404
+W.P. Putrajaya,infant,2022-01-01,both,15,8.2
+W.P. Putrajaya,infant,2022-01-01,female,9,10.2
+W.P. Putrajaya,infant,2022-01-01,male,6,6.3
+W.P. Putrajaya,infant,2024-01-01,both,16,10.3
+W.P. Putrajaya,infant,2024-01-01,female,7,9.3
+W.P. Putrajaya,infant,2024-01-01,male,9,11.3

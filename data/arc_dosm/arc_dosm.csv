@@ -1,0 +1,319 @@
+publication_id,release_date,title_en,title_bm,publication_type,publication_type_en,publication_type_bm,frequency,release_series,release_series_date,release_series_en,release_series_bm
+agriculture_2025,2026-10-29 12:00:00,Agriculture: 2025,Pertanian: 2025,agriculture,Agriculture,Pertanian,YEARLY,2025-01-01,2025,2025,2025
+agriculture_supply_util_2025,2026-09-29 12:00:00,Agriculture Supply & Utilisation: 2025,Penggunaan & Penawaran Pertanian: 2025,agriculture,Agriculture,Pertanian,YEARLY,2025-01-01,2025,2025,2025
+bci_2025-12,2026-01-12 12:00:00,Building Materials Cost Index: Dec 2025,Indeks Kos Bahan Binaan: Dis 2025,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+bci_2026-01,2026-02-11 12:00:00,Building Materials Cost Index: Jan 2026,Indeks Kos Bahan Binaan: Jan 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+bci_2026-02,2026-03-11 12:00:00,Building Materials Cost Index: Feb 2026,Indeks Kos Bahan Binaan: Feb 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+bci_2026-03,2026-04-09 12:00:00,Building Materials Cost Index: Mar 2026,Indeks Kos Bahan Binaan: Mac 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+bci_2026-04,2026-05-12 12:00:00,Building Materials Cost Index: Apr 2026,Indeks Kos Bahan Binaan: Apr 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+bci_2026-05,2026-06-10 12:00:00,Building Materials Cost Index: May 2026,Indeks Kos Bahan Binaan: Mei 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+bci_2026-06,2026-07-09 12:00:00,Building Materials Cost Index: Jun 2026,Indeks Kos Bahan Binaan: Jun 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+bci_2026-07,2026-08-10 12:00:00,Building Materials Cost Index: Jul 2026,Indeks Kos Bahan Binaan: Jul 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+bci_2026-08,2026-09-10 12:00:00,Building Materials Cost Index: Aug 2026,Indeks Kos Bahan Binaan: Ogo 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+bci_2026-09,2026-10-12 12:00:00,Building Materials Cost Index: Sep 2026,Indeks Kos Bahan Binaan: Sep 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+bci_2026-10,2026-11-10 12:00:00,Building Materials Cost Index: Oct 2026,Indeks Kos Bahan Binaan: Okt 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+bci_2026-11,2026-12-10 12:00:00,Building Materials Cost Index: Nov 2026,Indeks Kos Bahan Binaan: Nov 2026,bci,Building Materials Cost Index,Indeks Kos Bahan Binaan,MONTHLY,2026-11-01,2026-11,Nov 2026,Nov 2026
+bop_2025-q4,2026-02-13 12:00:00,Balance of Payments: 4Q 2025,Imbangan Pembayaran: ST4 2025,bop,Balance of Payments,Imbangan Pembayaran,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+bop_2026-q1,2026-05-15 12:00:00,Balance of Payments: 1Q 2026,Imbangan Pembayaran: ST1 2026,bop,Balance of Payments,Imbangan Pembayaran,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+bop_2026-q2,2026-08-14 12:00:00,Balance of Payments: 2Q 2026,Imbangan Pembayaran: ST2 2026,bop,Balance of Payments,Imbangan Pembayaran,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+bop_2026-q3,2026-11-18 12:00:00,Balance of Payments: 3Q 2026,Imbangan Pembayaran: ST3 2026,bop,Balance of Payments,Imbangan Pembayaran,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+bop_annual_dia_2025,2026-06-24 12:00:00,Direct Investment Abroad: 2025,Pelaburan Langsung Luar Negeri: 2025,bop,Balance of Payments,Imbangan Pembayaran,YEARLY,2025-01-01,2025,2025,2025
+bop_annual_fdi_2025,2026-06-24 12:00:00,Foreign Direct Investment: 2025,Pelaburan Langsung Asing: 2025,bop,Balance of Payments,Imbangan Pembayaran,YEARLY,2025-01-01,2025,2025,2025
+bts_2026-q1,2026-02-27 12:00:00,Business Tendency: 1Q 2026,Kecenderungan Perniagaan: ST1 2026,businesses,Businesses,Perniagaan,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+bts_2026-q2,2026-05-26 12:00:00,Business Tendency: 2Q 2026,Kecenderungan Perniagaan: ST2 2026,businesses,Businesses,Perniagaan,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+bts_2026-q3,2026-08-27 12:00:00,Business Tendency: 3Q 2026,Kecenderungan Perniagaan: ST3 2026,businesses,Businesses,Perniagaan,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+bts_2026-q4,2026-11-30 12:00:00,Business Tendency: 4Q 2026,Kecenderungan Perniagaan: ST4 2026,businesses,Businesses,Perniagaan,QUARTERLY,2026-10-01,2026-q4,4Q 2026,ST4 2026
+bumiputera_2025,2026-11-19 12:00:00,Bumiputera: 2025,Bumiputera: 2025,bumi,Bumiputera,Bumiputera,YEARLY,2025-01-01,2025,2025,2025
+businesses_2025,2026-09-29 12:00:00,Businesses: 2025,Perniagaan: 2025,businesses,Businesses,Perniagaan,YEARLY,2025-01-01,2025,2025,2025
+capstock_2025,2026-10-01 12:00:00,Capital Stock: 2025,Stok Modal: 2025,satacc,Satellite Accounts & Others,Akaun Satelit & Lain-Lain,YEARLY,2025-01-01,2025,2025,2025
+census_agriculture_state_2023,2026-04-16 12:00:00,Agricultural Census by State: 2023,Banci Pertanian mengikut Negeri: 2023,census_agriculture,Agricultural Census,Banci Pertanian,YEARLY,2023-01-01,2023,2023,2023
+children_2025,2026-11-04 12:00:00,Children: 2025,Kanak-Kanak: 2025,children,Children,Kanak-Kanak,YEARLY,2025-01-01,2025,2025,2025
+cod_2025,2026-10-29 12:00:00,Causes of Death: 2025,Punca Kematian: 2025,cod,Causes of Death,Punca Kematian,YEARLY,2025-01-01,2025,2025,2025
+col_2025,2026-10-30 12:00:00,Cost of Living: 2025,Kos Sara Hidup: 2025,col,Cost of Living,Kos Sara Hidup,YEARLY,2025-01-01,2025,2025,2025
+construction_2025-q4,2026-02-11 12:00:00,Construction: 4Q 2025,Pembinaan: ST4 2025,construction,Construction,Pembinaan,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+construction_2026-q1,2026-05-13 12:00:00,Construction: 1Q 2026,Pembinaan: ST1 2026,construction,Construction,Pembinaan,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+construction_2026-q2,2026-08-13 12:00:00,Construction: 2Q 2026,Pembinaan: ST2 2026,construction,Construction,Pembinaan,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+construction_2026-q3,2026-11-12 12:00:00,Construction: 3Q 2026,Pembinaan: ST3 2026,construction,Construction,Pembinaan,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+cpi_2025-12,2026-01-20 12:00:00,Consumer Price Index: Dec 2025,Indeks Harga Pengguna: Dis 2025,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+cpi_2026-01,2026-02-19 12:00:00,Consumer Price Index: Jan 2026,Indeks Harga Pengguna: Jan 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+cpi_2026-02,2026-03-19 12:00:00,Consumer Price Index: Feb 2026,Indeks Harga Pengguna: Feb 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+cpi_2026-03,2026-04-17 12:00:00,Consumer Price Index: Mar 2026,Indeks Harga Pengguna: Mac 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+cpi_2026-04,2026-05-19 12:00:00,Consumer Price Index: Apr 2026,Indeks Harga Pengguna: Apr 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+cpi_2026-05,2026-06-19 12:00:00,Consumer Price Index: May 2026,Indeks Harga Pengguna: Mei 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+cpi_2026-06,2026-07-17 12:00:00,Consumer Price Index: Jun 2026,Indeks Harga Pengguna: Jun 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+cpi_2026-07,2026-08-17 12:00:00,Consumer Price Index: Jul 2026,Indeks Harga Pengguna: Jul 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+cpi_2026-08,2026-09-18 12:00:00,Consumer Price Index: Aug 2026,Indeks Harga Pengguna: Ogo 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+cpi_2026-09,2026-10-19 12:00:00,Consumer Price Index: Sep 2026,Indeks Harga Pengguna: Sep 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+cpi_2026-10,2026-11-19 12:00:00,Consumer Price Index: Oct 2026,Indeks Harga Pengguna: Okt 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+cpi_2026-11,2026-12-18 12:00:00,Consumer Price Index: Nov 2026,Indeks Harga Pengguna: Nov 2026,cpi,Consumer Price Index,Indeks Harga Pengguna,MONTHLY,2026-11-01,2026-11,Nov 2026,Nov 2026
+cpi_annual_2025,2026-04-29 12:00:00,Consumer Price Index: 2025,Indeks Harga Pengguna: 2025,cpi,Consumer Price Index,Indeks Harga Pengguna,YEARLY,2025-01-01,2025,2025,2025
+crime_2025,2026-10-16 12:00:00,Crime: 2025,Jenayah: 2025,crime,Crime,Jenayah,YEARLY,2025-01-01,2025,2025,2025
+demography_2025-q4,2026-02-12 12:00:00,Demography: 4Q 2025,Demografi: ST4 2025,population,Current Population Estimates,Anggaran Penduduk Semasa,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+demography_2026-q1,2026-05-14 12:00:00,Demography: 1Q 2026,Demografi: ST1 2026,population,Current Population Estimates,Anggaran Penduduk Semasa,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+demography_2026-q2,2026-08-13 12:00:00,Demography: 2Q 2026,Demografi: ST2 2026,population,Current Population Estimates,Anggaran Penduduk Semasa,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+demography_2026-q3,2026-11-12 12:00:00,Demography: 3Q 2026,Demografi: ST3 2026,population,Current Population Estimates,Anggaran Penduduk Semasa,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+digitaleconomy_2025,2026-11-26 12:00:00,Digital Economy: 2025,Ekonomi Digital: 2025,satacc,Satellite Accounts & Others,Akaun Satelit & Lain-Lain,YEARLY,2025-01-01,2025,2025,2025
+employment_2025-q4,2026-02-12 12:00:00,Employment: 4Q 2025,Guna Tenaga: ST4 2025,employment,Employment,Guna Tenaga,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+employment_2026-q1,2026-05-14 12:00:00,Employment: 1Q 2026,Guna Tenaga: ST1 2026,employment,Employment,Guna Tenaga,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+employment_2026-q2,2026-08-13 12:00:00,Employment: 2Q 2026,Guna Tenaga: ST2 2026,employment,Employment,Guna Tenaga,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+employment_2026-q3,2026-11-12 12:00:00,Employment: 3Q 2026,Guna Tenaga: ST3 2026,employment,Employment,Guna Tenaga,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+environment_2025,2026-11-26 12:00:00,Environment: 2025,Alam Sekitar: 2025,environment,Environment,Alam Sekitar,YEARLY,2025-01-01,2025,2025,2025
+environment_protection_2025,2026-10-30 12:00:00,Environmental Protection: 2025,Perlindungan Alam Sekitar: 2025,environment,Environment,Alam Sekitar,YEARLY,2025-01-01,2025,2025,2025
+fats_2025,2026-09-30 12:00:00,Foreign Affiliates: 2025,Affiliate Asing: 2025,trade,External Trade,Perdagangan Luar,YEARLY,2025-01-01,2025,2025,2025
+flood_impact_2025,2026-04-15 12:00:00,Impact of Floods: 2025,Impak Banjir: 2025,floods,Impact of Floods,Impak Banjir,YEARLY,2025-01-01,2025,2025,2025
+formal_wages_2025-q3,2026-01-27 12:00:00,Formal Sector Wages: 3Q 2025,Gaji Sektor Formal: ST3 2025,formal_wages,Formal Sector Wages,Gaji Sektor Formal,QUARTERLY,2025-07-01,2025-q3,3Q 2025,ST3 2025
+formal_wages_2025-q4,2026-04-29 12:00:00,Formal Sector Wages: 4Q 2025,Gaji Sektor Formal: ST4 2025,formal_wages,Formal Sector Wages,Gaji Sektor Formal,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+formal_wages_2026-q1,2026-07-29 12:00:00,Formal Sector Wages: 1Q 2026,Gaji Sektor Formal: ST1 2026,formal_wages,Formal Sector Wages,Gaji Sektor Formal,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+formal_wages_2026-q2,2026-10-27 12:00:00,Formal Sector Wages: 2Q 2026,Gaji Sektor Formal: ST2 2026,formal_wages,Formal Sector Wages,Gaji Sektor Formal,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+gdp_2025-q4,2026-02-13 12:00:00,Gross Domestic Product: 4Q 2025,Keluaran Dalam Negeri Kasar: ST4 2025,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+gdp_2026-q1,2026-05-15 12:00:00,Gross Domestic Product: 1Q 2026,Keluaran Dalam Negeri Kasar: ST1 2026,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+gdp_2026-q2,2026-08-14 12:00:00,Gross Domestic Product: 2Q 2026,Keluaran Dalam Negeri Kasar: ST2 2026,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+gdp_2026-q3,2026-11-18 12:00:00,Gross Domestic Product: 3Q 2026,Keluaran Dalam Negeri Kasar: ST3 2026,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+gdp_advance_2025-q4,2026-01-16 12:00:00,Advance Gross Domestic Product: 4Q 2025,Keluaran Dalam Negeri Kasar Awalan: ST4 2025,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+gdp_advance_2026-q1,2026-04-17 12:00:00,Advance Gross Domestic Product: 1Q 2026,Keluaran Dalam Negeri Kasar Awalan: ST1 2026,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+gdp_advance_2026-q2,2026-07-17 12:00:00,Advance Gross Domestic Product: 2Q 2026,Keluaran Dalam Negeri Kasar Awalan: ST2 2026,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+gdp_advance_2026-q3,2026-10-16 12:00:00,Advance Gross Domestic Product: 3Q 2026,Keluaran Dalam Negeri Kasar Awalan: ST3 2026,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+gdp_annual_2025,2026-05-15 12:00:00,Gross Domestic Product: 2025,Keluaran Dalam Negeri Kasar: 2025,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,YEARLY,2025-01-01,2025,2025,2025
+gdp_income_2025,2026-07-29 12:00:00,"Gross Domestic Product, Income Approach: 2025","Keluaran Dalam Negeri Kasar, Kaedah Pendapatan: 2025",gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,YEARLY,2025-01-01,2025,2025,2025
+gdp_state_2025,2026-07-01 12:00:00,Gross Domestic Product by State: 2025,Keluaran Dalam Negeri Kasar mengikut Negeri: 2025,gdp,Gross Domestic Product,Keluaran Dalam Negeri Kasar,YEARLY,2025-01-01,2025,2025,2025
+gfcf_2025,2026-07-28 12:00:00,Gross Fixed Capital Formation: 2025,Pembentukan Modal Tetap Kasar: 2025,satacc,Satellite Accounts & Others,Akaun Satelit & Lain-Lain,YEARLY,2025-01-01,2025,2025,2025
+graduates_2025,2026-11-05 12:00:00,Graduates: 2025,Graduan: 2025,graduates,Graduates,Siswazah,YEARLY,2025-01-01,2025,2025,2025
+handbook_2025,2026-09-03 12:00:00,Statistics Handbook: 2025,Buku Panduan Statistik: 2025,review_annual,Annual Reviews,Sorotan Tahunan,YEARLY,2025-01-01,2025,2025,2025
+hdi_2025,2026-11-17 12:00:00,Human Development Index: 2025,Human Development Index: 2025,hdi,Human Development Index,Human Development Index,YEARLY,2025-01-01,2025,2025,2025
+ictes_2025,2026-06-30 12:00:00,ICT Use & Access (Establishments): 2025,Penggunaan & Capaian ICT (Perniagaan): 2025,icths,ICT Use & Access,Penggunaan & Capaian ICT,YEARLY,2025-01-01,2025,2025,2025
+icths_2025,2026-04-23 12:00:00,ICT Use & Access (Households): 2025,Penggunaan & Capaian ICT (Isi Rumah): 2025,icths,ICT Use & Access,Penggunaan & Capaian ICT,YEARLY,2025-01-01,2025,2025,2025
+ictsa_2025,2026-10-15 12:00:00,ICT Satellite Account: 2025,Akaun Satelit TMK: 2025,satacc,Satellite Accounts & Others,Akaun Satelit & Lain-Lain,YEARLY,2025-01-01,2025,2025,2025
+iip_2025-q4,2026-02-13 12:00:00,International Investment Position: 4Q 2025,Kedudukan Pelaburan Antarabangsa: ST4 2025,iip,International Investment Position,Kedudukan Pelaburan Antarabangsa,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+iip_2026-q1,2026-05-15 12:00:00,International Investment Position: 1Q 2026,Kedudukan Pelaburan Antarabangsa: ST1 2026,iip,International Investment Position,Kedudukan Pelaburan Antarabangsa,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+iip_2026-q2,2026-08-14 12:00:00,International Investment Position: 2Q 2026,Kedudukan Pelaburan Antarabangsa: ST2 2026,iip,International Investment Position,Kedudukan Pelaburan Antarabangsa,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+iip_2026-q3,2026-11-18 12:00:00,International Investment Position: 3Q 2026,Kedudukan Pelaburan Antarabangsa: ST3 2026,iip,International Investment Position,Kedudukan Pelaburan Antarabangsa,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+io_tables_2025,2026-10-30 12:00:00,Input-Output Tables: 2025,Jadual Input-Output: 2025,satacc,Satellite Accounts & Others,Akaun Satelit & Lain-Lain,YEARLY,2025-01-01,2025,2025,2025
+ipi_2025-11,2026-01-09 12:00:00,Industrial Production: Nov 2025,Pengeluaran Perindustrian: Nov 2025,mfg,Manufacturing,Pembuatan,MONTHLY,2025-11-01,2025-11,Nov 2025,Nov 2025
+ipi_2025-12,2026-02-09 12:00:00,Industrial Production: Dec 2025,Pengeluaran Perindustrian: Dis 2025,mfg,Manufacturing,Pembuatan,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+ipi_2026-01,2026-03-10 12:00:00,Industrial Production: Jan 2026,Pengeluaran Perindustrian: Jan 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+ipi_2026-02,2026-04-09 12:00:00,Industrial Production: Feb 2026,Pengeluaran Perindustrian: Feb 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+ipi_2026-03,2026-05-08 12:00:00,Industrial Production: Mar 2026,Pengeluaran Perindustrian: Mac 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+ipi_2026-04,2026-06-12 12:00:00,Industrial Production: Apr 2026,Pengeluaran Perindustrian: Apr 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+ipi_2026-05,2026-07-09 12:00:00,Industrial Production: May 2026,Pengeluaran Perindustrian: Mei 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+ipi_2026-06,2026-08-11 12:00:00,Industrial Production: Jun 2026,Pengeluaran Perindustrian: Jun 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+ipi_2026-07,2026-09-09 12:00:00,Industrial Production: Jul 2026,Pengeluaran Perindustrian: Jul 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+ipi_2026-08,2026-10-09 12:00:00,Industrial Production: Aug 2026,Pengeluaran Perindustrian: Ogo 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+ipi_2026-09,2026-11-10 12:00:00,Industrial Production: Sep 2026,Pengeluaran Perindustrian: Sep 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+ipi_2026-10,2026-12-11 12:00:00,Industrial Production: Oct 2026,Pengeluaran Perindustrian: Okt 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+jobs_2025-q1,2026-01-30 12:00:00,Job Market Insights: 1Q 2025,Analisa Pasaran Buruh: ST1 2025,jobs,Job Market Insights,Analisa Pasaran Buruh,QUARTERLY,2025-01-01,2025-q1,1Q 2025,ST1 2025
+jobs_2025-q2,2026-02-26 12:00:00,Job Market Insights: 2Q 2025,Analisa Pasaran Buruh: ST2 2025,jobs,Job Market Insights,Analisa Pasaran Buruh,QUARTERLY,2025-04-01,2025-q2,2Q 2025,ST2 2025
+jobs_2025-q3,2026-04-28 12:00:00,Job Market Insights: 3Q 2025,Analisa Pasaran Buruh: ST3 2025,jobs,Job Market Insights,Analisa Pasaran Buruh,QUARTERLY,2025-07-01,2025-q3,3Q 2025,ST3 2025
+jobs_2025-q4,2026-05-25 12:00:00,Job Market Insights: 4Q 2025,Analisa Pasaran Buruh: ST4 2025,jobs,Job Market Insights,Analisa Pasaran Buruh,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+jobs_2026-q1,2026-06-25 12:00:00,Job Market Insights: 1Q 2026,Analisa Pasaran Buruh: ST1 2026,jobs,Job Market Insights,Analisa Pasaran Buruh,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+jobs_2026-q2,2026-08-18 12:00:00,Job Market Insights: 2Q 2026,Analisa Pasaran Buruh: ST2 2026,jobs,Job Market Insights,Analisa Pasaran Buruh,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+jobs_2026-q3,2026-11-17 12:00:00,Job Market Insights: 3Q 2026,Analisa Pasaran Buruh: ST3 2026,jobs,Job Market Insights,Analisa Pasaran Buruh,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+lfs_2025-11,2026-01-09 12:00:00,Labour Force Survey: Nov 2025,Survei Tenaga Buruh: Nov 2025,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2025-11-01,2025-11,Nov 2025,Nov 2025
+lfs_2025-12,2026-02-11 12:00:00,Labour Force Survey: Dec 2025,Survei Tenaga Buruh: Dis 2025,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+lfs_2026-01,2026-03-11 12:00:00,Labour Force Survey: Jan 2026,Survei Tenaga Buruh: Jan 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+lfs_2026-02,2026-04-10 12:00:00,Labour Force Survey: Feb 2026,Survei Tenaga Buruh: Feb 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+lfs_2026-03,2026-05-12 12:00:00,Labour Force Survey: Mar 2026,Survei Tenaga Buruh: Mac 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+lfs_2026-04,2026-06-11 12:00:00,Labour Force Survey: Apr 2026,Survei Tenaga Buruh: Apr 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+lfs_2026-05,2026-07-10 12:00:00,Labour Force Survey: May 2026,Survei Tenaga Buruh: Mei 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+lfs_2026-06,2026-08-11 12:00:00,Labour Force Survey: Jun 2026,Survei Tenaga Buruh: Jun 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+lfs_2026-07,2026-09-11 12:00:00,Labour Force Survey: Jul 2026,Survei Tenaga Buruh: Jul 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+lfs_2026-08,2026-10-09 12:00:00,Labour Force Survey: Aug 2026,Survei Tenaga Buruh: Ogo 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+lfs_2026-09,2026-11-11 12:00:00,Labour Force Survey: Sep 2026,Survei Tenaga Buruh: Sep 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+lfs_2026-10,2026-12-11 12:00:00,Labour Force Survey: Oct 2026,Survei Tenaga Buruh: Okt 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+lfs_annual_2025,2026-06-26 12:00:00,Labour Force Survey: 2025,Survei Tenaga Buruh: 2025,lfs,Labour Force Survey,Survei Tenaga Buruh,YEARLY,2025-01-01,2025,2025,2025
+lfs_informal_2025,2026-09-09 12:00:00,Informal Sector Employment: 2025,Guna Tenaga Sektor Informal: 2025,lfs_informal,Informal Sector Workforce,Tenaga Buruh Tidak Formal,YEARLY,2025-01-01,2025,2025,2025
+lfs_qtr_2025-q4,2026-02-11 12:00:00,Labour Force Survey: 4Q 2025,Survei Tenaga Buruh: ST4 2025,lfs,Labour Force Survey,Survei Tenaga Buruh,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+lfs_qtr_2026-q1,2026-05-12 12:00:00,Labour Force Survey: 1Q 2026,Survei Tenaga Buruh: ST1 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+lfs_qtr_2026-q2,2026-08-11 12:00:00,Labour Force Survey: 2Q 2026,Survei Tenaga Buruh: ST2 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+lfs_qtr_2026-q3,2026-11-11 12:00:00,Labour Force Survey: 3Q 2026,Survei Tenaga Buruh: ST3 2026,lfs,Labour Force Survey,Survei Tenaga Buruh,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+life_expectancy_2026,2026-09-30 12:00:00,Life Expectancy: 2026,Jangkaan Hayat: 2026,lifetables,Life Expectancy,Jangkaan Hayat,YEARLY,2026-01-01,2026,2026,2026
+living_quarters_2020,2026-04-23 12:00:00,Living Quarters: 2020,Tempat Tinggal: 2020,hh_lq,Households & Living Quarters,Isi Rumah & Tempat Tinggal,YEARLY,2020-01-01,2020,2020,2020
+lmr_2025-q4,2026-02-26 12:00:00,Labour Market Review: 4Q 2025,Sorotan Pasaran Buruh: ST4 2025,lmr,Labour Market Review,Sorotan Pasaran Buruh,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+lmr_2026-q1,2026-05-22 12:00:00,Labour Market Review: 1Q 2026,Sorotan Pasaran Buruh: ST1 2026,lmr,Labour Market Review,Sorotan Pasaran Buruh,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+lmr_2026-q2,2026-08-27 12:00:00,Labour Market Review: 2Q 2026,Sorotan Pasaran Buruh: ST2 2026,lmr,Labour Market Review,Sorotan Pasaran Buruh,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+lmr_2026-q3,2026-11-25 12:00:00,Labour Market Review: 3Q 2026,Sorotan Pasaran Buruh: ST3 2026,lmr,Labour Market Review,Sorotan Pasaran Buruh,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+matrimony_2025,2026-11-19 12:00:00,"Marriage, Divorce & Rujuk: 2025","Perkahwinan, Penceraian & Rujuk: 2025",matrimony,Marriage & Divorce,Perkahwinan & Penceraian,YEARLY,2025-01-01,2025,2025,2025
+mei_2025-11,2026-01-23 12:00:00,Economic Indicators: Nov 2025,Indikator Ekonomi: Nov 2025,mei,Composite Indicators,Indikator Komposit,MONTHLY,2025-11-01,2025-11,Nov 2025,Nov 2025
+mei_2025-12,2026-02-20 12:00:00,Economic Indicators: Dec 2025,Indikator Ekonomi: Dis 2025,mei,Composite Indicators,Indikator Komposit,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+mei_2026-01,2026-03-19 12:00:00,Economic Indicators: Jan 2026,Indikator Ekonomi: Jan 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+mei_2026-02,2026-04-24 12:00:00,Economic Indicators: Feb 2026,Indikator Ekonomi: Feb 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+mei_2026-03,2026-05-25 12:00:00,Economic Indicators: Mar 2026,Indikator Ekonomi: Mac 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+mei_2026-04,2026-06-25 12:00:00,Economic Indicators: Apr 2026,Indikator Ekonomi: Apr 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+mei_2026-05,2026-07-24 12:00:00,Economic Indicators: May 2026,Indikator Ekonomi: Mei 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+mei_2026-06,2026-08-24 12:00:00,Economic Indicators: Jun 2026,Indikator Ekonomi: Jun 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+mei_2026-07,2026-09-25 12:00:00,Economic Indicators: Jul 2026,Indikator Ekonomi: Jul 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+mei_2026-08,2026-10-23 12:00:00,Economic Indicators: Aug 2026,Indikator Ekonomi: Ogo 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+mei_2026-09,2026-11-25 12:00:00,Economic Indicators: Sep 2026,Indikator Ekonomi: Sep 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+mei_2026-10,2026-12-24 12:00:00,Economic Indicators: Oct 2026,Indikator Ekonomi: Okt 2026,mei,Composite Indicators,Indikator Komposit,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+mesr_2026-01,2026-01-30 12:00:00,Economic Statistics Review: Jan 2026,Sorotan Statistik Ekonomi: Jan 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+mesr_2026-02,2026-02-27 12:00:00,Economic Statistics Review: Feb 2026,Sorotan Statistik Ekonomi: Feb 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+mesr_2026-03,2026-03-31 12:00:00,Economic Statistics Review: Mar 2026,Sorotan Statistik Ekonomi: Mac 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+mesr_2026-04,2026-04-30 12:00:00,Economic Statistics Review: Apr 2026,Sorotan Statistik Ekonomi: Apr 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+mesr_2026-05,2026-05-26 12:00:00,Economic Statistics Review: May 2026,Sorotan Statistik Ekonomi: Mei 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+mesr_2026-06,2026-06-30 12:00:00,Economic Statistics Review: Jun 2026,Sorotan Statistik Ekonomi: Jun 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+mesr_2026-07,2026-07-31 12:00:00,Economic Statistics Review: Jul 2026,Sorotan Statistik Ekonomi: Jul 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+mesr_2026-08,2026-08-28 12:00:00,Economic Statistics Review: Aug 2026,Sorotan Statistik Ekonomi: Ogo 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+mesr_2026-09,2026-09-30 12:00:00,Economic Statistics Review: Sep 2026,Sorotan Statistik Ekonomi: Sep 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+mesr_2026-10,2026-10-30 12:00:00,Economic Statistics Review: Oct 2026,Sorotan Statistik Ekonomi: Okt 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+mesr_2026-11,2026-11-30 12:00:00,Economic Statistics Review: Nov 2026,Sorotan Statistik Ekonomi: Nov 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-11-01,2026-11,Nov 2026,Nov 2026
+mesr_2026-12,2026-12-31 12:00:00,Economic Statistics Review: Dec 2026,Sorotan Statistik Ekonomi: Dis 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-12-01,2026-12,Dec 2026,Dis 2026
+mfg_2025-11,2026-01-09 12:00:00,Manufacturing: Nov 2025,Pembuatan: Nov 2025,mfg,Manufacturing,Pembuatan,MONTHLY,2025-11-01,2025-11,Nov 2025,Nov 2025
+mfg_2025-12,2026-02-09 12:00:00,Manufacturing: Dec 2025,Pembuatan: Dis 2025,mfg,Manufacturing,Pembuatan,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+mfg_2026-01,2026-03-10 12:00:00,Manufacturing: Jan 2026,Pembuatan: Jan 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+mfg_2026-02,2026-04-09 12:00:00,Manufacturing: Feb 2026,Pembuatan: Feb 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+mfg_2026-03,2026-05-08 12:00:00,Manufacturing: Mar 2026,Pembuatan: Mac 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+mfg_2026-04,2026-06-12 12:00:00,Manufacturing: Apr 2026,Pembuatan: Apr 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+mfg_2026-05,2026-07-09 12:00:00,Manufacturing: May 2026,Pembuatan: Mei 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+mfg_2026-06,2026-08-11 12:00:00,Manufacturing: Jun 2026,Pembuatan: Jun 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+mfg_2026-07,2026-09-09 12:00:00,Manufacturing: Jul 2026,Pembuatan: Jul 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+mfg_2026-08,2026-10-09 12:00:00,Manufacturing: Aug 2026,Pembuatan: Ogo 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+mfg_2026-09,2026-11-10 12:00:00,Manufacturing: Sep 2026,Pembuatan: Sep 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+mfg_2026-10,2026-12-11 12:00:00,Manufacturing: Oct 2026,Pembuatan: Okt 2026,mfg,Manufacturing,Pembuatan,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+mfg_util_2025-q4,2026-02-24 12:00:00,Manufacturing Capacity Utilisation: 4Q 2025,Penggunaan Kapisiti Pembuatan: ST4 2025,mfg,Manufacturing,Pembuatan,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+mfg_util_2026-q1,2026-05-20 12:00:00,Manufacturing Capacity Utilisation: 1Q 2026,Penggunaan Kapisiti Pembuatan: ST1 2026,mfg,Manufacturing,Pembuatan,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+mfg_util_2026-q2,2026-08-19 12:00:00,Manufacturing Capacity Utilisation: 2Q 2026,Penggunaan Kapisiti Pembuatan: ST2 2026,mfg,Manufacturing,Pembuatan,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+mfg_util_2026-q3,2026-11-19 12:00:00,Manufacturing Capacity Utilisation: 3Q 2026,Penggunaan Kapisiti Pembuatan: ST3 2026,mfg,Manufacturing,Pembuatan,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+migration_intl_2025,2026-11-25 12:00:00,Immigration & Emigration: 2025,Imigrasi & Emigrasi: 2025,migration,Migration,Migrasi,YEARLY,2025-01-01,2025,2025,2025
+mining_png_2025-q4,2026-03-04 12:00:00,Mining (Petroleum & Natural Gas): 4Q 2025,Perlombongan (Petroleum & Gas Asli): ST4 2025,mining,Mining,Perlombongan,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+mining_png_2026-q1,2026-06-05 12:00:00,Mining (Petroleum & Natural Gas): 1Q 2026,Perlombongan (Petroleum & Gas Asli): ST1 2026,mining,Mining,Perlombongan,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+mining_png_2026-q2,2026-09-03 12:00:00,Mining (Petroleum & Natural Gas): 2Q 2026,Perlombongan (Petroleum & Gas Asli): ST2 2026,mining,Mining,Perlombongan,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+mining_png_2026-q3,2026-12-03 12:00:00,Mining (Petroleum & Natural Gas): 3Q 2026,Perlombongan (Petroleum & Gas Asli): ST3 2026,mining,Mining,Perlombongan,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+mpi_2025,2026-02-20 12:00:00,Multidimensional Poverty: 2025,Kemiskinan Multidimensi: 2025,poverty,Poverty,Kemiskinan,YEARLY,2025-01-01,2025,2025,2025
+msb_2025-11,2026-01-29 12:00:00,Statistical Bulletin: Nov 2025,Buletin Statistik: Nov 2025,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2025-11-01,2025-11,Nov 2025,Nov 2025
+msb_2025-12,2026-02-26 12:00:00,Statistical Bulletin: Dec 2025,Buletin Statistik: Dis 2025,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+msb_2026-01,2026-03-30 12:00:00,Statistical Bulletin: Jan 2026,Buletin Statistik: Jan 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+msb_2026-02,2026-04-30 12:00:00,Statistical Bulletin: Feb 2026,Buletin Statistik: Feb 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+msb_2026-03,2026-05-29 12:00:00,Statistical Bulletin: Mar 2026,Buletin Statistik: Mac 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+msb_2026-04,2026-06-29 12:00:00,Statistical Bulletin: Apr 2026,Buletin Statistik: Apr 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+msb_2026-05,2026-07-27 12:00:00,Statistical Bulletin: May 2026,Buletin Statistik: Mei 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+msb_2026-06,2026-08-26 12:00:00,Statistical Bulletin: Jun 2026,Buletin Statistik: Jun 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+msb_2026-07,2026-09-28 12:00:00,Statistical Bulletin: Jul 2026,Buletin Statistik: Jul 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+msb_2026-08,2026-10-28 12:00:00,Statistical Bulletin: Aug 2026,Buletin Statistik: Ogo 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+msb_2026-09,2026-11-26 12:00:00,Statistical Bulletin: Sep 2026,Buletin Statistik: Sep 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+msb_2026-10,2026-12-29 12:00:00,Statistical Bulletin: Oct 2026,Buletin Statistik: Okt 2026,review_monthly,Monthly Reviews,Sorotan Bulanan,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+msme_2025,2026-07-30 12:00:00,"Performance of Micro, Small & Medium Enterprises (MSMEs): 2025","Prestasi Perniagaan Mikro, Kecil & Sederhana (MSME): 2025",satacc,Satellite Accounts & Others,Akaun Satelit & Lain-Lain,YEARLY,2025-01-01,2025,2025,2025
+mywi_2025,2026-12-03 12:00:00,Well-Being: 2025,Kesejahteraan: 2025,mywi,Well-Being,Kesejahteraan,YEARLY,2025-01-01,2025,2025,2025
+nea_2025,2026-11-27 12:00:00,National Economic Accounts: 2025,Akaun Ekonomi Negara: 2025,satacc,Satellite Accounts & Others,Akaun Satelit & Lain-Lain,YEARLY,2025-01-01,2025,2025,2025
+pocketstats_2025-q4,2026-02-13 12:00:00,Pocket Stats: 4Q 2025,Pocket Stats: ST4 2025,review_quarterly,Quarterly Reviews,Sorotan Suku Tahunan,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+pocketstats_2026-q1,2026-05-15 12:00:00,Pocket Stats: 1Q 2026,Pocket Stats: ST1 2026,review_quarterly,Quarterly Reviews,Sorotan Suku Tahunan,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+pocketstats_2026-q2,2026-08-14 12:00:00,Pocket Stats: 2Q 2026,Pocket Stats: ST2 2026,review_quarterly,Quarterly Reviews,Sorotan Suku Tahunan,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+pocketstats_2026-q3,2026-11-18 12:00:00,Pocket Stats: 3Q 2026,Pocket Stats: ST3 2026,review_quarterly,Quarterly Reviews,Sorotan Suku Tahunan,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+pocketstats_state_2025-q4,2026-02-13 12:00:00,Pocket Stats (States): 4Q 2025,Pocket Stats (Negeri): ST4 2025,review_quarterly,Quarterly Reviews,Sorotan Suku Tahunan,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+population_2026,2026-07-31 12:00:00,Current Population Estimates: 2026,Anggaran Penduduk Semasa: 2026,population,Current Population Estimates,Anggaran Penduduk Semasa,YEARLY,2026-01-01,2026,2026,2026
+population_district_2026,2026-09-29 12:00:00,Current Population Estimates by District: 2026,Anggaran Penduduk Semasa mengikut Daerah: 2026,population,Current Population Estimates,Anggaran Penduduk Semasa,YEARLY,2026-01-01,2026,2026,2026
+ppi_2025,2026-07-14 12:00:00,Producer Price Index: 2025,Indeks Harga Pengeluar: 2025,ppi,Producer Price Index,Indeks Harga Pengeluar,YEARLY,2025-01-01,2025,2025,2025
+ppi_2025-12,2026-01-28 12:00:00,Producer Price Index: Dec 2025,Indeks Harga Pengeluar: Dis 2025,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+ppi_2026-01,2026-02-26 12:00:00,Producer Price Index: Jan 2026,Indeks Harga Pengeluar: Jan 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+ppi_2026-02,2026-03-27 12:00:00,Producer Price Index: Feb 2026,Indeks Harga Pengeluar: Feb 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+ppi_2026-03,2026-04-27 12:00:00,Producer Price Index: Mar 2026,Indeks Harga Pengeluar: Mac 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+ppi_2026-04,2026-05-25 12:00:00,Producer Price Index: Apr 2026,Indeks Harga Pengeluar: Apr 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+ppi_2026-05,2026-06-29 12:00:00,Producer Price Index: May 2026,Indeks Harga Pengeluar: Mei 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+ppi_2026-06,2026-07-28 12:00:00,Producer Price Index: Jun 2026,Indeks Harga Pengeluar: Jun 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+ppi_2026-07,2026-08-28 12:00:00,Producer Price Index: Jul 2026,Indeks Harga Pengeluar: Jul 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+ppi_2026-08,2026-09-28 12:00:00,Producer Price Index: Aug 2026,Indeks Harga Pengeluar: Ogo 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+ppi_2026-09,2026-10-28 12:00:00,Producer Price Index: Sep 2026,Indeks Harga Pengeluar: Sep 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+ppi_2026-10,2026-11-27 12:00:00,Producer Price Index: Oct 2026,Indeks Harga Pengeluar: Okt 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+ppi_2026-11,2026-12-28 12:00:00,Producer Price Index: Nov 2026,Indeks Harga Pengeluar: Nov 2026,ppi,Producer Price Index,Indeks Harga Pengeluar,MONTHLY,2026-11-01,2026-11,Nov 2026,Nov 2026
+productivity_2025-q4,2026-02-23 12:00:00,Labour Productivity: 4Q 2025,Produktiviti Tenaga Buruh: ST4 2025,productivity,Labour Productivity,Produktiviti Tenaga Buruh,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+productivity_2026-q1,2026-05-21 12:00:00,Labour Productivity: 1Q 2026,Produktiviti Tenaga Buruh: ST1 2026,productivity,Labour Productivity,Produktiviti Tenaga Buruh,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+productivity_2026-q2,2026-08-20 12:00:00,Labour Productivity: 2Q 2026,Produktiviti Tenaga Buruh: ST2 2026,productivity,Labour Productivity,Produktiviti Tenaga Buruh,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+productivity_2026-q3,2026-11-24 12:00:00,Labour Productivity: 3Q 2026,Produktiviti Tenaga Buruh: ST3 2026,productivity,Labour Productivity,Produktiviti Tenaga Buruh,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+productivity_state_2025,2026-10-29 12:00:00,Labour Productivity by State: 2025,Produktiviti Tenaga Buruh mengikut Negeri: 2025,productivity,Labour Productivity,Produktiviti Tenaga Buruh,YEARLY,2025-01-01,2025,2025,2025
+pwd_2025,2026-12-10 12:00:00,Persons With Disabilities: 2025,Orang Kurang Upaya: 2025,pwd,Persons With Disabilities,Orang Kurang Upaya,YEARLY,2025-01-01,2025,2025,2025
+rubber_2025-11,2026-01-13 12:00:00,Rubber: Nov 2025,Getah: Nov 2025,agriculture,Agriculture,Pertanian,MONTHLY,2025-11-01,2025-11,Nov 2025,Nov 2025
+rubber_2025-12,2026-02-12 12:00:00,Rubber: Dec 2025,Getah: Dis 2025,agriculture,Agriculture,Pertanian,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+rubber_2026-01,2026-03-12 12:00:00,Rubber: Jan 2026,Getah: Jan 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+rubber_2026-02,2026-04-13 12:00:00,Rubber: Feb 2026,Getah: Feb 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+rubber_2026-03,2026-05-13 12:00:00,Rubber: Mar 2026,Getah: Mac 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+rubber_2026-04,2026-06-11 12:00:00,Rubber: Apr 2026,Getah: Apr 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+rubber_2026-05,2026-07-13 12:00:00,Rubber: May 2026,Getah: Mei 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+rubber_2026-06,2026-08-13 12:00:00,Rubber: Jun 2026,Getah: Jun 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+rubber_2026-07,2026-09-10 12:00:00,Rubber: Jul 2026,Getah: Jul 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+rubber_2026-08,2026-10-12 12:00:00,Rubber: Aug 2026,Getah: Ogo 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+rubber_2026-09,2026-11-10 12:00:00,Rubber: Sep 2026,Getah: Sep 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+rubber_2026-10,2026-12-10 12:00:00,Rubber: Oct 2026,Getah: Okt 2026,agriculture,Agriculture,Pertanian,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+salaries_wages_2025,2026-09-29 12:00:00,Salaries & Wages: 2025,Gaji & Upah: 2025,wages,Salaries & Wages,Gaji & Upah,YEARLY,2025-01-01,2025,2025,2025
+sdg_2025,2026-12-04 12:00:00,Sustainable Development Goals: 2025,Matlamat Pembangunan Mampan: 2025,sdg,Sustainable Development Goals,Matlamat Pembangunan Mampan,YEARLY,2025-01-01,2025,2025,2025
+services_2025-q4,2026-02-10 12:00:00,Services: 4Q 2025,Perkhidmatan: ST4 2025,services,Services,Perkhidmatan,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+services_2026-q1,2026-05-11 12:00:00,Services: 1Q 2026,Perkhidmatan: ST1 2026,services,Services,Perkhidmatan,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+services_2026-q2,2026-08-12 12:00:00,Services: 2Q 2026,Perkhidmatan: ST2 2026,services,Services,Perkhidmatan,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+services_2026-q3,2026-11-13 12:00:00,Services: 3Q 2026,Perkhidmatan: ST3 2026,services,Services,Perkhidmatan,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+social_bulletin_2025,2026-11-24 12:00:00,Social Statistical Bulletin: 2025,Buletin Statistik Sosial: 2025,review_annual,Annual Reviews,Sorotan Tahunan,YEARLY,2025-01-01,2025,2025,2025
+socioecon_state_2025,2026-08-05 12:00:00,Socioeconomy by State: 2025,Sosioekonomi mengikut Negeri: 2025,socioecon_state,Socioeconomy by State,Sosioekonomi mengikut Negeri,YEARLY,2025-01-01,2025,2025,2025
+socioecon_state_2026-q1,2026-05-21 12:00:00,Socioeconomy by State: 1Q 2026,Sosioekonomi mengikut Negeri: ST1 2026,socioecon_state,Socioeconomy by State,Sosioekonomi mengikut Negeri,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+socioecon_state_2026-q2,2026-08-20 12:00:00,Socioeconomy by State: 2Q 2026,Sosioekonomi mengikut Negeri: ST2 2026,socioecon_state,Socioeconomy by State,Sosioekonomi mengikut Negeri,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+socioecon_state_2026-q3,2026-11-20 12:00:00,Socioeconomy by State: 3Q 2026,Sosioekonomi mengikut Negeri: ST3 2026,socioecon_state,Socioeconomy by State,Sosioekonomi mengikut Negeri,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+sppi_2025-q4,2026-02-05 12:00:00,Services Producer Price Index: 4Q 2025,Indeks Harga Pengeluar Perkhidmatan: ST4 2025,sppi,Services Producer Price Index,Indeks Harga Pengeluar Perkhidmatan,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+sppi_2026-q1,2026-05-07 12:00:00,Services Producer Price Index: 1Q 2026,Indeks Harga Pengeluar Perkhidmatan: ST1 2026,sppi,Services Producer Price Index,Indeks Harga Pengeluar Perkhidmatan,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+sppi_2026-q2,2026-08-06 12:00:00,Services Producer Price Index: 2Q 2026,Indeks Harga Pengeluar Perkhidmatan: ST2 2026,sppi,Services Producer Price Index,Indeks Harga Pengeluar Perkhidmatan,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+sppi_2026-q3,2026-11-06 12:00:00,Services Producer Price Index: 3Q 2026,Indeks Harga Pengeluar Perkhidmatan: ST3 2026,sppi,Services Producer Price Index,Indeks Harga Pengeluar Perkhidmatan,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+tourism_2025,2026-09-15 12:00:00,Tourism Satellite Account: 2025,Akaun Satelit Pelancongan: 2025,satacc,Satellite Accounts & Others,Akaun Satelit & Lain-Lain,YEARLY,2025-01-01,2025,2025,2025
+tourism_domestic_2025-q4,2026-03-17 12:00:00,Domestic Tourism: 4Q 2025,Pelancongan Domestik: ST4 2025,tourism,Tourism,Pelancongan,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+tourism_domestic_2026-q1,2026-06-24 12:00:00,Domestic Tourism: 1Q 2026,Pelancongan Domestik: ST1 2026,tourism,Tourism,Pelancongan,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+tourism_domestic_2026-q2,2026-09-23 12:00:00,Domestic Tourism: 2Q 2026,Pelancongan Domestik: ST2 2026,tourism,Tourism,Pelancongan,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+tourism_domestic_2026-q3,2026-12-03 12:00:00,Domestic Tourism: 3Q 2026,Pelancongan Domestik: ST3 2026,tourism,Tourism,Pelancongan,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+tourism_domestic_annual_2025,2026-06-16 12:00:00,Domestic Tourism: 2025,Pelancongan Domestik: 2025,tourism,Tourism,Pelancongan,YEARLY,2025-01-01,2025,2025,2025
+tourism_domestic_state_2025,2026-09-15 12:00:00,Domestic Tourism by State: 2025,Pelancongan Domestik mengikut Negeri: 2025,tourism,Tourism,Pelancongan,YEARLY,2025-01-01,2025,2025,2025
+tourism_sabah_2025,2026-11-25 12:00:00,Tourism Satellite Account for Sabah: 2025,Akaun Satelit Pelancongan bagi Sabah: 2025,tourism,Tourism,Pelancongan,YEARLY,2025-01-01,2025,2025,2025
+trade_2025-12,2026-01-28 12:00:00,External Trade: Dec 2025,Perdagangan Luar: Dis 2025,trade,External Trade,Perdagangan Luar,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+trade_2026-01,2026-02-27 12:00:00,External Trade: Jan 2026,Perdagangan Luar: Jan 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+trade_2026-02,2026-03-27 12:00:00,External Trade: Feb 2026,Perdagangan Luar: Feb 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+trade_2026-03,2026-04-28 12:00:00,External Trade: Mar 2026,Perdagangan Luar: Mac 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+trade_2026-04,2026-05-26 12:00:00,External Trade: Apr 2026,Perdagangan Luar: Apr 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+trade_2026-05,2026-06-26 12:00:00,External Trade: May 2026,Perdagangan Luar: Mei 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+trade_2026-06,2026-07-28 12:00:00,External Trade: Jun 2026,Perdagangan Luar: Jun 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+trade_2026-07,2026-08-28 12:00:00,External Trade: Jul 2026,Perdagangan Luar: Jul 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+trade_2026-08,2026-09-28 12:00:00,External Trade: Aug 2026,Perdagangan Luar: Ogo 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+trade_2026-09,2026-10-28 12:00:00,External Trade: Sep 2026,Perdagangan Luar: Sep 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+trade_2026-10,2026-11-27 12:00:00,External Trade: Oct 2026,Perdagangan Luar: Okt 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+trade_2026-11,2026-12-28 12:00:00,External Trade: Nov 2026,Perdagangan Luar: Nov 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-11-01,2026-11,Nov 2026,Nov 2026
+trade_annual_2025,2026-07-30 12:00:00,External Trade: 2025,Perdagangan Luar: 2025,trade,External Trade,Perdagangan Luar,YEARLY,2025-01-01,2025,2025,2025
+trade_annual_sbh_2025,2026-07-30 12:00:00,External Trade of Sabah: 2025,Perdagangan Luar Sabah: 2025,trade,External Trade,Perdagangan Luar,YEARLY,2025-01-01,2025,2025,2025
+trade_annual_services_2025,2026-06-25 12:00:00,External Trade in Services: 2025,Perdagangan Luar Perkhidmatan: 2025,trade,External Trade,Perdagangan Luar,YEARLY,2025-01-01,2025,2025,2025
+trade_annual_state_2025,2026-06-16 12:00:00,External Trade by State: 2025,Perdagangan Luar mengikut Negeri: 2025,trade,External Trade,Perdagangan Luar,YEARLY,2025-01-01,2025,2025,2025
+trade_annual_swk_2025,2026-07-30 12:00:00,External Trade of Sarawak: 2025,Perdagangan Luar Sarawak: 2025,trade,External Trade,Perdagangan Luar,YEARLY,2025-01-01,2025,2025,2025
+trade_headline_2025-12,2026-01-20 12:00:00,External Trade (Headline): Dec 2025,Perdagangan Luar (Ringkasan): Dis 2025,trade,External Trade,Perdagangan Luar,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+trade_headline_2026-01,2026-02-20 12:00:00,External Trade (Headline): Jan 2026,Perdagangan Luar (Ringkasan): Jan 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+trade_headline_2026-02,2026-03-19 12:00:00,External Trade (Headline): Feb 2026,Perdagangan Luar (Ringkasan): Feb 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+trade_headline_2026-03,2026-04-20 12:00:00,External Trade (Headline): Mar 2026,Perdagangan Luar (Ringkasan): Mac 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+trade_headline_2026-04,2026-05-20 12:00:00,External Trade (Headline): Apr 2026,Perdagangan Luar (Ringkasan): Apr 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+trade_headline_2026-05,2026-06-19 12:00:00,External Trade (Headline): May 2026,Perdagangan Luar (Ringkasan): Mei 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+trade_headline_2026-06,2026-07-20 12:00:00,External Trade (Headline): Jun 2026,Perdagangan Luar (Ringkasan): Jun 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+trade_headline_2026-07,2026-08-20 12:00:00,External Trade (Headline): Jul 2026,Perdagangan Luar (Ringkasan): Jul 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+trade_headline_2026-08,2026-09-18 12:00:00,External Trade (Headline): Aug 2026,Perdagangan Luar (Ringkasan): Ogo 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+trade_headline_2026-09,2026-10-19 12:00:00,External Trade (Headline): Sep 2026,Perdagangan Luar (Ringkasan): Sep 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+trade_headline_2026-10,2026-11-20 12:00:00,External Trade: Oct 2026,Perdagangan Luar: Okt 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+trade_headline_2026-11,2026-12-18 12:00:00,External Trade (Headline): Nov 2026,Perdagangan Luar (Ringkasan): Nov 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-11-01,2026-11,Nov 2026,Nov 2026
+tradeindices_2025-12,2026-01-28 12:00:00,External Trade Indices: Dec 2025,Indeks Perdagangan Luar: Dis 2025,trade,External Trade,Perdagangan Luar,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+tradeindices_2026-01,2026-02-27 12:00:00,External Trade Indices: Jan 2026,Indeks Perdagangan Luar: Jan 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+tradeindices_2026-02,2026-03-27 12:00:00,External Trade Indices: Feb 2026,Indeks Perdagangan Luar: Feb 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+tradeindices_2026-03,2026-04-28 12:00:00,External Trade Indices: Mar 2026,Indeks Perdagangan Luar: Mac 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+tradeindices_2026-04,2026-05-26 12:00:00,External Trade Indices: Apr 2026,Indeks Perdagangan Luar: Apr 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+tradeindices_2026-05,2026-06-26 12:00:00,External Trade Indices: May 2026,Indeks Perdagangan Luar: Mei 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+tradeindices_2026-06,2026-07-28 12:00:00,External Trade Indices: Jun 2026,Indeks Perdagangan Luar: Jun 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+tradeindices_2026-07,2026-08-28 12:00:00,External Trade Indices: Jul 2026,Indeks Perdagangan Luar: Jul 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+tradeindices_2026-08,2026-09-28 12:00:00,External Trade Indices: Aug 2026,Indeks Perdagangan Luar: Ogo 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+tradeindices_2026-09,2026-10-28 12:00:00,External Trade Indices: Sep 2026,Indeks Perdagangan Luar: Sep 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+tradeindices_2026-10,2026-11-27 12:00:00,External Trade Indices: Oct 2026,Indeks Perdagangan Luar: Okt 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+tradeindices_2026-11,2026-12-28 12:00:00,External Trade Indices: Nov 2026,Indeks Perdagangan Luar: Nov 2026,trade,External Trade,Perdagangan Luar,MONTHLY,2026-11-01,2026-11,Nov 2026,Nov 2026
+transfer_2022,2026-04-29 12:00:00,National Transfer Accounts: 2022,Akaun Pindahan Negara: 2022,satacc,Satellite Accounts & Others,Akaun Satelit & Lain-Lain,YEARLY,2022-01-01,2022,2022,2022
+vitalstatistics_2025,2026-10-15 12:00:00,Vital Statistics: 2025,Perangkaan Penting: 2025,vitalstatistics,Births & Deaths,Kelahiran & Kematian,YEARLY,2025-01-01,2025,2025,2025
+women_2025,2026-11-26 12:00:00,Women Empowerment: 2025,Pemerkasaan Wanita: 2025,women,Women Empowerment,Pemerkasaan Wanita,YEARLY,2025-01-01,2025,2025,2025
+wrt_2025-11,2026-01-09 12:00:00,Wholesale & Retail Trade: Nov 2025,Perdagangan Borong & Runcit: Nov 2025,services,Services,Perkhidmatan,MONTHLY,2025-11-01,2025-11,Nov 2025,Nov 2025
+wrt_2025-12,2026-02-10 12:00:00,Wholesale & Retail Trade: Dec 2025,Perdagangan Borong & Runcit: Dis 2025,services,Services,Perkhidmatan,MONTHLY,2025-12-01,2025-12,Dec 2025,Dis 2025
+wrt_2026-01,2026-03-12 12:00:00,Wholesale & Retail Trade: Jan 2026,Perdagangan Borong & Runcit: Jan 2026,services,Services,Perkhidmatan,MONTHLY,2026-01-01,2026-01,Jan 2026,Jan 2026
+wrt_2026-02,2026-04-10 12:00:00,Wholesale & Retail Trade: Feb 2026,Perdagangan Borong & Runcit: Feb 2026,services,Services,Perkhidmatan,MONTHLY,2026-02-01,2026-02,Feb 2026,Feb 2026
+wrt_2026-03,2026-05-11 12:00:00,Wholesale & Retail Trade: Mar 2026,Perdagangan Borong & Runcit: Mac 2026,services,Services,Perkhidmatan,MONTHLY,2026-03-01,2026-03,Mar 2026,Mac 2026
+wrt_2026-04,2026-06-12 12:00:00,Wholesale & Retail Trade: Apr 2026,Perdagangan Borong & Runcit: Apr 2026,services,Services,Perkhidmatan,MONTHLY,2026-04-01,2026-04,Apr 2026,Apr 2026
+wrt_2026-05,2026-07-10 12:00:00,Wholesale & Retail Trade: May 2026,Perdagangan Borong & Runcit: Mei 2026,services,Services,Perkhidmatan,MONTHLY,2026-05-01,2026-05,May 2026,Mei 2026
+wrt_2026-06,2026-08-12 12:00:00,Wholesale & Retail Trade: Jun 2026,Perdagangan Borong & Runcit: Jun 2026,services,Services,Perkhidmatan,MONTHLY,2026-06-01,2026-06,Jun 2026,Jun 2026
+wrt_2026-07,2026-09-11 12:00:00,Wholesale & Retail Trade: Jul 2026,Perdagangan Borong & Runcit: Jul 2026,services,Services,Perkhidmatan,MONTHLY,2026-07-01,2026-07,Jul 2026,Jul 2026
+wrt_2026-08,2026-10-09 12:00:00,Wholesale & Retail Trade: Aug 2026,Perdagangan Borong & Runcit: Ogo 2026,services,Services,Perkhidmatan,MONTHLY,2026-08-01,2026-08,Aug 2026,Ogo 2026
+wrt_2026-09,2026-11-13 12:00:00,Wholesale & Retail Trade: Sep 2026,Perdagangan Borong & Runcit: Sep 2026,services,Services,Perkhidmatan,MONTHLY,2026-09-01,2026-09,Sep 2026,Sep 2026
+wrt_2026-10,2026-12-11 12:00:00,Wholesale & Retail Trade: Oct 2026,Perdagangan Borong & Runcit: Okt 2026,services,Services,Perkhidmatan,MONTHLY,2026-10-01,2026-10,Oct 2026,Okt 2026
+wrt_volume_2025-q4,2026-02-10 12:00:00,Wholesale & Retail Trade: 4Q 2025,Perdagangan Borong & Runcit: ST4 2025,services,Services,Perkhidmatan,QUARTERLY,2025-10-01,2025-q4,4Q 2025,ST4 2025
+wrt_volume_2026-q1,2026-05-11 12:00:00,Wholesale & Retail Trade: 1Q 2026,Perdagangan Borong & Runcit: ST1 2026,services,Services,Perkhidmatan,QUARTERLY,2026-01-01,2026-q1,1Q 2026,ST1 2026
+wrt_volume_2026-q2,2026-08-12 12:00:00,Wholesale & Retail Trade: 2Q 2026,Perdagangan Borong & Runcit: ST2 2026,services,Services,Perkhidmatan,QUARTERLY,2026-04-01,2026-q2,2Q 2026,ST2 2026
+wrt_volume_2026-q3,2026-11-13 12:00:00,Wholesale & Retail Trade: 3Q 2026,Perdagangan Borong & Runcit: ST3 2026,services,Services,Perkhidmatan,QUARTERLY,2026-07-01,2026-q3,3Q 2026,ST3 2026
+yearbook_2025,2026-11-05 12:00:00,Statistics Yearbook: 2025,Buku Tahunan Statistik: 2025,review_annual,Annual Reviews,Sorotan Tahunan,YEARLY,2025-01-01,2025,2025,2025
+yearbook_sabah_2025,2026-12-17 12:00:00,Sabah Yearbook: 2025,Buku Tahunan Sabah: 2025,review_annual,Annual Reviews,Sorotan Tahunan,YEARLY,2025-01-01,2025,2025,2025
+yearbook_sarawak_2025,2026-12-17 12:00:00,Sarawak Yearbook: 2025,Buku Tahunan Sarawak: 2025,review_annual,Annual Reviews,Sorotan Tahunan,YEARLY,2025-01-01,2025,2025,2025

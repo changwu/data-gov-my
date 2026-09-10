@@ -1,0 +1,865 @@
+state,date,crop_type,planted_area,production
+Malaysia,2017-01-01,cash_crops,20763.1,217847.5
+Malaysia,2018-01-01,cash_crops,19028.2,215087.6
+Malaysia,2019-01-01,cash_crops,17082.0,221310.2
+Malaysia,2020-01-01,cash_crops,19090.9,223506.8
+Malaysia,2021-01-01,cash_crops,20070.3,239011.9
+Malaysia,2022-01-01,cash_crops,18329.1,215632.4
+Malaysia,2017-01-01,coconut,83250.1,517588.5
+Malaysia,2018-01-01,coconut,83436.4,491465.4
+Malaysia,2019-01-01,coconut,86466.3,536605.7
+Malaysia,2020-01-01,coconut,84942.0,560984.3
+Malaysia,2021-01-01,coconut,81469.6,557353.7
+Malaysia,2022-01-01,coconut,84935.9,604428.4
+Malaysia,2017-01-01,flower,2605.1,509085932.0
+Malaysia,2018-01-01,flower,2652.0,518249478.0
+Malaysia,2019-01-01,flower,2702.3,528096218.0
+Malaysia,2020-01-01,flower,2626.7,402409318.0
+Malaysia,2021-01-01,flower,2554.4,348326666.0
+Malaysia,2022-01-01,flower,2588.4,355423782.2
+Malaysia,2017-01-01,fruits,208590.1,1492600.9
+Malaysia,2018-01-01,fruits,195480.6,1543086.0
+Malaysia,2019-01-01,fruits,184549.5,1560906.0
+Malaysia,2020-01-01,fruits,191865.9,1549790.6
+Malaysia,2021-01-01,fruits,199419.8,1686875.5
+Malaysia,2022-01-01,fruits,203431.3,1827992.3
+Malaysia,2017-01-01,herbs,2424.2,11741.9
+Malaysia,2018-01-01,herbs,3010.5,12389.4
+Malaysia,2019-01-01,herbs,2315.7,9018.6
+Malaysia,2020-01-01,herbs,2079.6,9077.1
+Malaysia,2021-01-01,herbs,2017.7,9339.8
+Malaysia,2022-01-01,herbs,2108.0,9951.2
+Malaysia,2017-01-01,industrial_crops,133928.5,758335.0
+Malaysia,2018-01-01,industrial_crops,132761.2,589940.1
+Malaysia,2019-01-01,industrial_crops,138490.0,755630.0
+Malaysia,2020-01-01,industrial_crops,159486.0,716977.6
+Malaysia,2021-01-01,industrial_crops,156385.0,713949.5
+Malaysia,2022-01-01,industrial_crops,127771.6,741168.3
+Malaysia,2017-01-01,paddy,685548.0,2570513.0
+Malaysia,2018-01-01,paddy,699980.0,2639202.0
+Malaysia,2019-01-01,paddy,672084.0,2352870.0
+Malaysia,2020-01-01,paddy,644908.2,2356391.9
+Malaysia,2021-01-01,paddy,647936.0,2441597.0
+Malaysia,2022-01-01,paddy,637935.0,2281739.0
+Malaysia,2017-01-01,spices,7467.3,60457.8
+Malaysia,2018-01-01,spices,6552.6,55195.1
+Malaysia,2019-01-01,spices,5815.6,51336.7
+Malaysia,2020-01-01,spices,5958.6,52541.3
+Malaysia,2021-01-01,spices,5978.1,54037.9
+Malaysia,2022-01-01,spices,5913.8,53727.4
+Malaysia,2017-01-01,vegetables,62538.5,1003536.5
+Malaysia,2018-01-01,vegetables,58817.7,997745.4
+Malaysia,2019-01-01,vegetables,62025.9,1020713.7
+Malaysia,2020-01-01,vegetables,61613.6,1030064.1
+Malaysia,2021-01-01,vegetables,65911.0,1088038.6
+Malaysia,2022-01-01,vegetables,68111.6,1163793.3
+Johor,2017-01-01,cash_crops,3780.3,42424.1
+Johor,2018-01-01,cash_crops,3483.7,43420.4
+Johor,2019-01-01,cash_crops,3007.5,38566.7
+Johor,2020-01-01,cash_crops,3056.2,42963.0
+Johor,2021-01-01,cash_crops,3522.4,47538.7
+Johor,2022-01-01,cash_crops,3397.3,46960.0
+Johor,2017-01-01,coconut,14931.6,107731.0
+Johor,2018-01-01,coconut,12949.7,95495.7
+Johor,2019-01-01,coconut,10762.9,99375.1
+Johor,2020-01-01,coconut,11887.0,106723.2
+Johor,2021-01-01,coconut,12380.5,118278.2
+Johor,2022-01-01,coconut,13269.8,124062.2
+Johor,2017-01-01,flower,1455.2,245074825.0
+Johor,2018-01-01,flower,1481.4,249486172.0
+Johor,2019-01-01,flower,1509.6,254226409.0
+Johor,2020-01-01,flower,1467.3,193720524.0
+Johor,2021-01-01,flower,1442.4,164836794.0
+Johor,2022-01-01,flower,1461.1,168133530.0
+Johor,2017-01-01,fruits,59264.8,603693.0
+Johor,2018-01-01,fruits,46698.3,567300.8
+Johor,2019-01-01,fruits,41504.2,543387.3
+Johor,2020-01-01,fruits,44779.0,557842.7
+Johor,2021-01-01,fruits,50231.6,631711.1
+Johor,2022-01-01,fruits,50217.0,772317.4
+Johor,2017-01-01,herbs,394.8,2316.5
+Johor,2018-01-01,herbs,453.4,3060.2
+Johor,2019-01-01,herbs,189.7,1936.3
+Johor,2020-01-01,herbs,179.0,2586.1
+Johor,2021-01-01,herbs,266.8,2642.8
+Johor,2022-01-01,herbs,256.2,2722.4
+Johor,2017-01-01,industrial_crops,16161.0,117769.7
+Johor,2018-01-01,industrial_crops,13625.3,98700.0
+Johor,2019-01-01,industrial_crops,11369.7,102455.0
+Johor,2020-01-01,industrial_crops,12463.1,110575.5
+Johor,2021-01-01,industrial_crops,12975.7,123560.5
+Johor,2022-01-01,industrial_crops,13820.5,128173.1
+Johor,2017-01-01,paddy,3000.0,8563.0
+Johor,2018-01-01,paddy,2866.0,9424.0
+Johor,2019-01-01,paddy,2555.0,7704.0
+Johor,2020-01-01,paddy,2547.0,7502.0
+Johor,2021-01-01,paddy,2505.0,9031.0
+Johor,2022-01-01,paddy,2776.0,10832.0
+Johor,2017-01-01,spices,1507.6,14532.3
+Johor,2018-01-01,spices,999.0,11548.8
+Johor,2019-01-01,spices,962.0,13679.7
+Johor,2020-01-01,spices,1211.6,15368.5
+Johor,2021-01-01,spices,1645.5,18401.5
+Johor,2022-01-01,spices,1568.0,17925.1
+Johor,2017-01-01,vegetables,16117.2,203846.0
+Johor,2018-01-01,vegetables,14502.9,198459.8
+Johor,2019-01-01,vegetables,15359.3,203996.5
+Johor,2020-01-01,vegetables,14843.7,208260.3
+Johor,2021-01-01,vegetables,17186.9,242213.7
+Johor,2022-01-01,vegetables,17188.3,245330.4
+Kedah,2017-01-01,cash_crops,760.4,5439.2
+Kedah,2018-01-01,cash_crops,662.3,5429.3
+Kedah,2019-01-01,cash_crops,611.8,5341.0
+Kedah,2020-01-01,cash_crops,579.5,3318.3
+Kedah,2021-01-01,cash_crops,517.1,4093.7
+Kedah,2022-01-01,cash_crops,496.2,4462.4
+Kedah,2017-01-01,coconut,1289.4,5754.5
+Kedah,2018-01-01,coconut,897.0,6558.9
+Kedah,2019-01-01,coconut,995.7,5131.3
+Kedah,2020-01-01,coconut,2155.1,10046.3
+Kedah,2021-01-01,coconut,1854.4,10185.3
+Kedah,2022-01-01,coconut,1773.7,31787.5
+Kedah,2017-01-01,flower,33.9,746350.0
+Kedah,2018-01-01,flower,34.5,759785.0
+Kedah,2019-01-01,flower,35.2,774221.0
+Kedah,2020-01-01,flower,34.2,589956.0
+Kedah,2021-01-01,flower,40.9,724037.0
+Kedah,2022-01-01,flower,40.5,718245.0
+Kedah,2017-01-01,fruits,10687.0,49420.8
+Kedah,2018-01-01,fruits,11972.4,69874.0
+Kedah,2019-01-01,fruits,11242.0,71440.5
+Kedah,2020-01-01,fruits,11175.4,61839.5
+Kedah,2021-01-01,fruits,9733.8,73092.9
+Kedah,2022-01-01,fruits,9762.2,96009.6
+Kedah,2017-01-01,herbs,169.8,563.0
+Kedah,2018-01-01,herbs,175.0,532.6
+Kedah,2019-01-01,herbs,174.9,442.7
+Kedah,2020-01-01,herbs,196.4,367.2
+Kedah,2021-01-01,herbs,103.5,319.7
+Kedah,2022-01-01,herbs,176.5,282.7
+Kedah,2017-01-01,industrial_crops,2378.1,8081.6
+Kedah,2018-01-01,industrial_crops,1178.6,8929.7
+Kedah,2019-01-01,industrial_crops,1248.4,8448.9
+Kedah,2020-01-01,industrial_crops,2440.4,12265.2
+Kedah,2021-01-01,industrial_crops,2119.7,12885.6
+Kedah,2022-01-01,industrial_crops,2051.5,35503.6
+Kedah,2017-01-01,paddy,214585.0,939308.0
+Kedah,2018-01-01,paddy,214592.0,955662.0
+Kedah,2019-01-01,paddy,214252.0,859018.0
+Kedah,2020-01-01,paddy,214328.0,914200.0
+Kedah,2021-01-01,paddy,214880.0,906692.0
+Kedah,2022-01-01,paddy,213718.0,834901.0
+Kedah,2017-01-01,spices,651.5,1383.3
+Kedah,2018-01-01,spices,562.5,1440.9
+Kedah,2019-01-01,spices,548.2,1302.6
+Kedah,2020-01-01,spices,577.9,971.5
+Kedah,2021-01-01,spices,351.6,965.3
+Kedah,2022-01-01,spices,419.9,2166.5
+Kedah,2017-01-01,vegetables,1691.9,17111.7
+Kedah,2018-01-01,vegetables,1345.9,14115.0
+Kedah,2019-01-01,vegetables,1631.3,16823.1
+Kedah,2020-01-01,vegetables,1555.0,12790.5
+Kedah,2021-01-01,vegetables,1317.8,12909.6
+Kedah,2022-01-01,vegetables,1051.2,15812.1
+Kelantan,2017-01-01,cash_crops,1099.7,13133.7
+Kelantan,2018-01-01,cash_crops,1239.1,14079.0
+Kelantan,2019-01-01,cash_crops,1469.4,16657.5
+Kelantan,2020-01-01,cash_crops,1727.0,20770.6
+Kelantan,2021-01-01,cash_crops,1666.6,20735.8
+Kelantan,2022-01-01,cash_crops,1597.7,18574.6
+Kelantan,2017-01-01,coconut,7115.7,60008.6
+Kelantan,2018-01-01,coconut,9542.1,73676.0
+Kelantan,2019-01-01,coconut,9978.7,77807.1
+Kelantan,2020-01-01,coconut,10398.9,79953.4
+Kelantan,2021-01-01,coconut,10340.3,76673.8
+Kelantan,2022-01-01,coconut,11435.6,77467.0
+Kelantan,2017-01-01,flower,34.9,4695479.0
+Kelantan,2018-01-01,flower,35.6,4779998.0
+Kelantan,2019-01-01,flower,36.2,4870818.0
+Kelantan,2020-01-01,flower,35.2,3711563.0
+Kelantan,2021-01-01,flower,35.6,3958011.0
+Kelantan,2022-01-01,flower,35.9,4013423.0
+Kelantan,2017-01-01,fruits,17263.5,88107.3
+Kelantan,2018-01-01,fruits,18880.6,132629.3
+Kelantan,2019-01-01,fruits,19573.3,139396.2
+Kelantan,2020-01-01,fruits,20712.3,141461.8
+Kelantan,2021-01-01,fruits,19759.7,145161.2
+Kelantan,2022-01-01,fruits,21326.5,134277.4
+Kelantan,2017-01-01,herbs,122.8,645.2
+Kelantan,2018-01-01,herbs,129.7,969.1
+Kelantan,2019-01-01,herbs,135.7,793.8
+Kelantan,2020-01-01,herbs,160.3,802.0
+Kelantan,2021-01-01,herbs,133.5,709.7
+Kelantan,2022-01-01,herbs,161.8,786.4
+Kelantan,2017-01-01,industrial_crops,7274.4,60592.7
+Kelantan,2018-01-01,industrial_crops,10048.1,74053.1
+Kelantan,2019-01-01,industrial_crops,10391.3,78301.7
+Kelantan,2020-01-01,industrial_crops,10863.9,80897.9
+Kelantan,2021-01-01,industrial_crops,10466.6,77236.0
+Kelantan,2022-01-01,industrial_crops,11593.7,78070.5
+Kelantan,2017-01-01,paddy,74531.0,309582.0
+Kelantan,2018-01-01,paddy,74149.0,319774.0
+Kelantan,2019-01-01,paddy,71240.0,268831.0
+Kelantan,2020-01-01,paddy,73717.0,305675.0
+Kelantan,2021-01-01,paddy,74972.0,333868.0
+Kelantan,2022-01-01,paddy,74017.0,272633.0
+Kelantan,2017-01-01,spices,607.5,4399.3
+Kelantan,2018-01-01,spices,571.8,4462.1
+Kelantan,2019-01-01,spices,569.3,4157.2
+Kelantan,2020-01-01,spices,514.4,4903.1
+Kelantan,2021-01-01,spices,532.7,4428.4
+Kelantan,2022-01-01,spices,583.0,4730.9
+Kelantan,2017-01-01,vegetables,3808.9,116909.8
+Kelantan,2018-01-01,vegetables,4311.6,125499.9
+Kelantan,2019-01-01,vegetables,4639.5,132188.2
+Kelantan,2020-01-01,vegetables,4511.6,128327.4
+Kelantan,2021-01-01,vegetables,4640.7,132052.7
+Kelantan,2022-01-01,vegetables,4892.1,137912.7
+Melaka,2017-01-01,cash_crops,551.2,5457.2
+Melaka,2018-01-01,cash_crops,495.5,3828.3
+Melaka,2019-01-01,cash_crops,387.6,3192.5
+Melaka,2020-01-01,cash_crops,314.9,2546.6
+Melaka,2021-01-01,cash_crops,558.7,2882.3
+Melaka,2022-01-01,cash_crops,398.4,3120.0
+Melaka,2017-01-01,coconut,1455.9,10393.5
+Melaka,2018-01-01,coconut,1779.8,10972.9
+Melaka,2019-01-01,coconut,1530.3,9195.8
+Melaka,2020-01-01,coconut,2923.4,19376.2
+Melaka,2021-01-01,coconut,2189.3,14040.2
+Melaka,2022-01-01,coconut,3013.8,20659.9
+Melaka,2017-01-01,flower,33.9,639502.0
+Melaka,2018-01-01,flower,34.5,651013.0
+Melaka,2019-01-01,flower,35.2,663382.0
+Melaka,2020-01-01,flower,34.2,505497.0
+Melaka,2021-01-01,flower,38.3,647085.0
+Melaka,2022-01-01,flower,38.0,643850.0
+Melaka,2017-01-01,fruits,3587.7,31383.1
+Melaka,2018-01-01,fruits,3328.9,23245.4
+Melaka,2019-01-01,fruits,3025.4,15435.1
+Melaka,2020-01-01,fruits,4539.8,24708.0
+Melaka,2021-01-01,fruits,2861.9,19133.9
+Melaka,2022-01-01,fruits,5631.5,28518.7
+Melaka,2017-01-01,herbs,26.5,235.3
+Melaka,2018-01-01,herbs,9.3,103.1
+Melaka,2019-01-01,herbs,3.4,58.7
+Melaka,2020-01-01,herbs,12.4,53.8
+Melaka,2021-01-01,herbs,5.3,61.7
+Melaka,2022-01-01,herbs,14.4,59.3
+Melaka,2017-01-01,industrial_crops,1478.2,10511.2
+Melaka,2018-01-01,industrial_crops,1806.3,11106.7
+Melaka,2019-01-01,industrial_crops,1565.2,9351.9
+Melaka,2020-01-01,industrial_crops,2958.3,19699.8
+Melaka,2021-01-01,industrial_crops,2227.4,14265.1
+Melaka,2022-01-01,industrial_crops,3065.4,20882.7
+Melaka,2017-01-01,paddy,3510.0,12135.0
+Melaka,2018-01-01,paddy,3135.0,9352.0
+Melaka,2019-01-01,paddy,3360.0,9323.0
+Melaka,2020-01-01,paddy,3360.0,8550.0
+Melaka,2021-01-01,paddy,3462.0,10287.0
+Melaka,2022-01-01,paddy,3318.0,10314.0
+Melaka,2017-01-01,spices,85.4,1348.9
+Melaka,2018-01-01,spices,128.7,1063.4
+Melaka,2019-01-01,spices,122.9,659.2
+Melaka,2020-01-01,spices,135.3,705.9
+Melaka,2021-01-01,spices,62.1,460.2
+Melaka,2022-01-01,spices,102.2,798.9
+Melaka,2017-01-01,vegetables,1350.3,17606.3
+Melaka,2018-01-01,vegetables,1246.5,17948.3
+Melaka,2019-01-01,vegetables,1059.3,15062.4
+Melaka,2020-01-01,vegetables,940.6,13222.4
+Melaka,2021-01-01,vegetables,769.2,10940.5
+Melaka,2022-01-01,vegetables,748.5,12181.4
+Negeri Sembilan,2017-01-01,cash_crops,303.3,3630.6
+Negeri Sembilan,2018-01-01,cash_crops,407.3,4153.5
+Negeri Sembilan,2019-01-01,cash_crops,437.9,4919.1
+Negeri Sembilan,2020-01-01,cash_crops,289.8,3621.6
+Negeri Sembilan,2021-01-01,cash_crops,432.1,5200.8
+Negeri Sembilan,2022-01-01,cash_crops,446.4,5315.4
+Negeri Sembilan,2017-01-01,coconut,1476.2,11932.1
+Negeri Sembilan,2018-01-01,coconut,1362.5,11689.0
+Negeri Sembilan,2019-01-01,coconut,1290.3,12768.3
+Negeri Sembilan,2020-01-01,coconut,1346.7,12841.4
+Negeri Sembilan,2021-01-01,coconut,1500.5,13856.9
+Negeri Sembilan,2022-01-01,coconut,1491.2,14521.2
+Negeri Sembilan,2017-01-01,flower,22.0,3472390.0
+Negeri Sembilan,2018-01-01,flower,22.4,3534893.0
+Negeri Sembilan,2019-01-01,flower,22.8,3602056.0
+Negeri Sembilan,2020-01-01,flower,22.1,2744766.0
+Negeri Sembilan,2021-01-01,flower,23.2,2752960.0
+Negeri Sembilan,2022-01-01,flower,23.5,2797007.0
+Negeri Sembilan,2017-01-01,fruits,5789.9,45220.9
+Negeri Sembilan,2018-01-01,fruits,5687.5,57281.3
+Negeri Sembilan,2019-01-01,fruits,5552.7,64512.0
+Negeri Sembilan,2020-01-01,fruits,5384.8,66524.5
+Negeri Sembilan,2021-01-01,fruits,5572.0,68549.3
+Negeri Sembilan,2022-01-01,fruits,6107.7,68198.9
+Negeri Sembilan,2017-01-01,herbs,41.1,88.0
+Negeri Sembilan,2018-01-01,herbs,7.3,49.7
+Negeri Sembilan,2019-01-01,herbs,4.5,8.6
+Negeri Sembilan,2020-01-01,herbs,3.0,21.2
+Negeri Sembilan,2021-01-01,herbs,15.6,53.7
+Negeri Sembilan,2022-01-01,herbs,18.2,104.7
+Negeri Sembilan,2017-01-01,industrial_crops,1547.0,12608.9
+Negeri Sembilan,2018-01-01,industrial_crops,1406.1,12330.7
+Negeri Sembilan,2019-01-01,industrial_crops,1326.8,13340.2
+Negeri Sembilan,2020-01-01,industrial_crops,1394.4,13509.4
+Negeri Sembilan,2021-01-01,industrial_crops,1563.0,14678.7
+Negeri Sembilan,2022-01-01,industrial_crops,1554.7,15170.3
+Negeri Sembilan,2017-01-01,paddy,2040.0,10261.0
+Negeri Sembilan,2018-01-01,paddy,1896.0,7504.0
+Negeri Sembilan,2019-01-01,paddy,1936.0,7670.0
+Negeri Sembilan,2020-01-01,paddy,1989.0,8942.0
+Negeri Sembilan,2021-01-01,paddy,1480.0,4662.0
+Negeri Sembilan,2022-01-01,paddy,1313.0,4941.0
+Negeri Sembilan,2017-01-01,spices,379.4,2597.1
+Negeri Sembilan,2018-01-01,spices,223.8,2692.6
+Negeri Sembilan,2019-01-01,spices,252.2,3653.2
+Negeri Sembilan,2020-01-01,spices,412.7,5420.0
+Negeri Sembilan,2021-01-01,spices,528.3,7078.2
+Negeri Sembilan,2022-01-01,spices,341.9,4674.0
+Negeri Sembilan,2017-01-01,vegetables,1556.0,22026.3
+Negeri Sembilan,2018-01-01,vegetables,1519.5,21190.2
+Negeri Sembilan,2019-01-01,vegetables,1751.3,24419.1
+Negeri Sembilan,2020-01-01,vegetables,1757.5,23393.2
+Negeri Sembilan,2021-01-01,vegetables,1719.7,21367.5
+Negeri Sembilan,2022-01-01,vegetables,1791.5,21022.5
+Pahang,2017-01-01,cash_crops,1497.4,11895.9
+Pahang,2018-01-01,cash_crops,1185.0,8956.2
+Pahang,2019-01-01,cash_crops,943.1,6446.5
+Pahang,2020-01-01,cash_crops,1013.2,6452.1
+Pahang,2021-01-01,cash_crops,1084.7,7743.5
+Pahang,2022-01-01,cash_crops,943.4,8412.1
+Pahang,2017-01-01,coconut,4633.2,35196.6
+Pahang,2018-01-01,coconut,4321.8,27059.0
+Pahang,2019-01-01,coconut,4205.5,24263.2
+Pahang,2020-01-01,coconut,3997.2,26915.8
+Pahang,2021-01-01,coconut,3433.0,28180.5
+Pahang,2022-01-01,coconut,2899.7,27270.0
+Pahang,2017-01-01,flower,421.2,142585087.0
+Pahang,2018-01-01,flower,428.8,145151619.0
+Pahang,2019-01-01,flower,436.9,147909499.0
+Pahang,2020-01-01,flower,424.7,112707039.0
+Pahang,2021-01-01,flower,384.9,95169823.0
+Pahang,2022-01-01,flower,393.0,97549069.0
+Pahang,2017-01-01,fruits,33209.9,195934.8
+Pahang,2018-01-01,fruits,26323.1,208730.9
+Pahang,2019-01-01,fruits,22760.7,200044.8
+Pahang,2020-01-01,fruits,24836.8,201494.6
+Pahang,2021-01-01,fruits,25679.1,244209.0
+Pahang,2022-01-01,fruits,27331.1,271797.9
+Pahang,2017-01-01,herbs,363.6,2260.8
+Pahang,2018-01-01,herbs,404.2,2438.8
+Pahang,2019-01-01,herbs,218.0,757.4
+Pahang,2020-01-01,herbs,162.4,634.9
+Pahang,2021-01-01,herbs,220.5,396.8
+Pahang,2022-01-01,herbs,164.3,923.1
+Pahang,2017-01-01,industrial_crops,6871.1,45421.8
+Pahang,2018-01-01,industrial_crops,6234.6,37202.0
+Pahang,2019-01-01,industrial_crops,5349.0,29858.7
+Pahang,2020-01-01,industrial_crops,5795.5,35934.5
+Pahang,2021-01-01,industrial_crops,5427.3,34941.4
+Pahang,2022-01-01,industrial_crops,4885.8,43331.6
+Pahang,2017-01-01,paddy,13006.0,28434.0
+Pahang,2018-01-01,paddy,12300.0,34657.0
+Pahang,2019-01-01,paddy,12435.0,31234.0
+Pahang,2020-01-01,paddy,10572.0,35524.0
+Pahang,2021-01-01,paddy,13639.0,50866.0
+Pahang,2022-01-01,paddy,13757.0,51185.0
+Pahang,2017-01-01,spices,2115.8,18341.5
+Pahang,2018-01-01,spices,2105.6,18109.9
+Pahang,2019-01-01,spices,1569.8,13226.8
+Pahang,2020-01-01,spices,1385.3,12147.3
+Pahang,2021-01-01,spices,1044.8,8619.4
+Pahang,2022-01-01,spices,1081.2,10571.9
+Pahang,2017-01-01,vegetables,17173.1,355743.9
+Pahang,2018-01-01,vegetables,15840.6,368063.0
+Pahang,2019-01-01,vegetables,15181.0,335935.0
+Pahang,2020-01-01,vegetables,15967.3,361971.3
+Pahang,2021-01-01,vegetables,18159.1,381530.1
+Pahang,2022-01-01,vegetables,21391.2,455641.4
+Perak,2017-01-01,cash_crops,4119.9,68209.1
+Perak,2018-01-01,cash_crops,5262.3,85883.3
+Perak,2019-01-01,cash_crops,5187.2,92392.5
+Perak,2020-01-01,cash_crops,5072.2,89080.8
+Perak,2021-01-01,cash_crops,5607.9,97159.7
+Perak,2022-01-01,cash_crops,4620.0,79518.2
+Perak,2017-01-01,coconut,9337.0,82466.3
+Perak,2018-01-01,coconut,7835.3,65900.6
+Perak,2019-01-01,coconut,7594.1,78644.3
+Perak,2020-01-01,coconut,7522.8,71588.6
+Perak,2021-01-01,coconut,7568.2,81288.4
+Perak,2022-01-01,coconut,7727.7,88291.6
+Perak,2017-01-01,flower,148.7,35271364.0
+Perak,2018-01-01,flower,151.4,35906248.0
+Perak,2019-01-01,flower,154.3,36588467.0
+Perak,2020-01-01,flower,150.0,27880412.0
+Perak,2021-01-01,flower,147.4,24403724.0
+Perak,2022-01-01,flower,149.5,24842991.0
+Perak,2017-01-01,fruits,10914.0,106278.7
+Perak,2018-01-01,fruits,11406.1,107891.4
+Perak,2019-01-01,fruits,11441.9,116374.2
+Perak,2020-01-01,fruits,10310.8,97985.2
+Perak,2021-01-01,fruits,11439.3,121457.8
+Perak,2022-01-01,fruits,11588.7,101488.2
+Perak,2017-01-01,herbs,377.6,1040.2
+Perak,2018-01-01,herbs,594.5,1503.9
+Perak,2019-01-01,herbs,560.1,1027.6
+Perak,2020-01-01,herbs,498.4,1016.4
+Perak,2021-01-01,herbs,422.8,1305.6
+Perak,2022-01-01,herbs,457.9,1096.7
+Perak,2017-01-01,industrial_crops,9355.9,82842.1
+Perak,2018-01-01,industrial_crops,7886.1,66301.4
+Perak,2019-01-01,industrial_crops,7674.7,79052.6
+Perak,2020-01-01,industrial_crops,7589.9,71997.8
+Perak,2021-01-01,industrial_crops,7640.9,81798.8
+Perak,2022-01-01,industrial_crops,7786.7,88839.5
+Perak,2017-01-01,paddy,81284.0,293715.0
+Perak,2018-01-01,paddy,81699.0,292063.0
+Perak,2019-01-01,paddy,81380.0,257605.0
+Perak,2020-01-01,paddy,76201.0,232437.0
+Perak,2021-01-01,paddy,74949.0,244397.0
+Perak,2022-01-01,paddy,74594.0,269790.0
+Perak,2017-01-01,spices,374.4,4426.4
+Perak,2018-01-01,spices,427.1,4645.8
+Perak,2019-01-01,spices,372.9,3741.3
+Perak,2020-01-01,spices,358.5,3469.9
+Perak,2021-01-01,spices,387.7,3668.7
+Perak,2022-01-01,spices,430.5,2923.1
+Perak,2017-01-01,vegetables,6529.2,107265.8
+Perak,2018-01-01,vegetables,6512.0,103631.2
+Perak,2019-01-01,vegetables,6628.2,116983.6
+Perak,2020-01-01,vegetables,7191.9,120423.8
+Perak,2021-01-01,vegetables,7190.0,125308.4
+Perak,2022-01-01,vegetables,6702.4,116765.5
+Perlis,2017-01-01,cash_crops,12.8,122.0
+Perlis,2018-01-01,cash_crops,29.7,339.3
+Perlis,2019-01-01,cash_crops,17.8,188.5
+Perlis,2020-01-01,cash_crops,10.2,87.4
+Perlis,2021-01-01,cash_crops,43.8,235.7
+Perlis,2022-01-01,cash_crops,63.3,214.6
+Perlis,2017-01-01,coconut,401.3,2749.4
+Perlis,2018-01-01,coconut,400.6,2529.3
+Perlis,2019-01-01,coconut,429.6,3405.0
+Perlis,2020-01-01,coconut,400.0,3360.0
+Perlis,2021-01-01,coconut,391.1,3133.8
+Perlis,2022-01-01,coconut,575.7,4813.9
+Perlis,2017-01-01,flower,3.0,384508.0
+Perlis,2018-01-01,flower,3.0,391430.0
+Perlis,2019-01-01,flower,3.1,398867.0
+Perlis,2020-01-01,flower,3.0,303936.0
+Perlis,2021-01-01,flower,3.1,329974.0
+Perlis,2022-01-01,flower,3.2,330634.0
+Perlis,2017-01-01,fruits,4120.8,27847.9
+Perlis,2018-01-01,fruits,3662.7,24316.9
+Perlis,2019-01-01,fruits,2895.5,10580.9
+Perlis,2020-01-01,fruits,1957.1,8631.3
+Perlis,2021-01-01,fruits,1485.6,6575.4
+Perlis,2022-01-01,fruits,2266.3,7744.2
+Perlis,2017-01-01,herbs,0.3,4.6
+Perlis,2018-01-01,herbs,1.6,12.1
+Perlis,2019-01-01,herbs,2.1,18.2
+Perlis,2020-01-01,herbs,3.5,20.3
+Perlis,2021-01-01,herbs,8.4,52.8
+Perlis,2022-01-01,herbs,6.8,5.7
+Perlis,2017-01-01,industrial_crops,402.5,2797.4
+Perlis,2018-01-01,industrial_crops,405.1,2592.0
+Perlis,2019-01-01,industrial_crops,445.8,3470.0
+Perlis,2020-01-01,industrial_crops,410.4,3399.3
+Perlis,2021-01-01,industrial_crops,393.0,3149.4
+Perlis,2022-01-01,industrial_crops,615.6,4883.8
+Perlis,2017-01-01,paddy,51531.0,231328.0
+Perlis,2018-01-01,paddy,51612.0,240615.0
+Perlis,2019-01-01,paddy,51612.0,209828.0
+Perlis,2020-01-01,paddy,51598.0,203275.0
+Perlis,2021-01-01,paddy,60478.0,256034.0
+Perlis,2022-01-01,paddy,60470.0,233781.0
+Perlis,2017-01-01,spices,0.8,3.3
+Perlis,2018-01-01,spices,2.3,16.3
+Perlis,2019-01-01,spices,2.1,13.0
+Perlis,2020-01-01,spices,0.0,0.0
+Perlis,2021-01-01,spices,0.0,0.0
+Perlis,2022-01-01,spices,18.0,40.1
+Perlis,2017-01-01,vegetables,99.1,1288.1
+Perlis,2018-01-01,vegetables,155.3,2206.3
+Perlis,2019-01-01,vegetables,320.3,2350.0
+Perlis,2020-01-01,vegetables,265.6,2023.4
+Perlis,2021-01-01,vegetables,403.6,1839.5
+Perlis,2022-01-01,vegetables,542.9,2310.0
+Pulau Pinang,2017-01-01,cash_crops,91.4,834.5
+Pulau Pinang,2018-01-01,cash_crops,123.8,1056.3
+Pulau Pinang,2019-01-01,cash_crops,168.1,1656.3
+Pulau Pinang,2020-01-01,cash_crops,170.3,1674.7
+Pulau Pinang,2021-01-01,cash_crops,197.9,1955.7
+Pulau Pinang,2022-01-01,cash_crops,157.0,1668.7
+Pulau Pinang,2017-01-01,coconut,48.5,248.4
+Pulau Pinang,2018-01-01,coconut,37.0,227.8
+Pulau Pinang,2019-01-01,coconut,40.2,263.1
+Pulau Pinang,2020-01-01,coconut,45.0,245.6
+Pulau Pinang,2021-01-01,coconut,35.7,246.5
+Pulau Pinang,2022-01-01,coconut,12.3,77.8
+Pulau Pinang,2017-01-01,flower,4.0,92626.0
+Pulau Pinang,2018-01-01,flower,4.1,94293.0
+Pulau Pinang,2019-01-01,flower,4.1,96085.0
+Pulau Pinang,2020-01-01,flower,4.0,73217.0
+Pulau Pinang,2021-01-01,flower,4.4,88480.0
+Pulau Pinang,2022-01-01,flower,4.5,89985.0
+Pulau Pinang,2017-01-01,fruits,2529.4,16590.8
+Pulau Pinang,2018-01-01,fruits,2452.5,18214.8
+Pulau Pinang,2019-01-01,fruits,2542.9,24072.2
+Pulau Pinang,2020-01-01,fruits,2619.5,23743.2
+Pulau Pinang,2021-01-01,fruits,2525.4,22688.1
+Pulau Pinang,2022-01-01,fruits,2536.7,23911.1
+Pulau Pinang,2017-01-01,herbs,0.4,5.4
+Pulau Pinang,2018-01-01,herbs,0.0,0.0
+Pulau Pinang,2019-01-01,herbs,0.0,0.0
+Pulau Pinang,2020-01-01,herbs,0.1,0.8
+Pulau Pinang,2021-01-01,herbs,0.5,2.1
+Pulau Pinang,2022-01-01,herbs,0.7,4.3
+Pulau Pinang,2017-01-01,industrial_crops,58.6,377.4
+Pulau Pinang,2018-01-01,industrial_crops,44.7,264.3
+Pulau Pinang,2019-01-01,industrial_crops,44.1,280.8
+Pulau Pinang,2020-01-01,industrial_crops,47.7,261.6
+Pulau Pinang,2021-01-01,industrial_crops,40.3,278.8
+Pulau Pinang,2022-01-01,industrial_crops,14.1,86.9
+Pulau Pinang,2017-01-01,paddy,25564.0,146660.0
+Pulau Pinang,2018-01-01,paddy,25564.0,133636.0
+Pulau Pinang,2019-01-01,paddy,25564.0,128127.0
+Pulau Pinang,2020-01-01,paddy,24210.0,121594.0
+Pulau Pinang,2021-01-01,paddy,24210.0,136919.0
+Pulau Pinang,2022-01-01,paddy,24210.0,122321.0
+Pulau Pinang,2017-01-01,spices,39.7,297.3
+Pulau Pinang,2018-01-01,spices,40.6,242.0
+Pulau Pinang,2019-01-01,spices,31.8,172.5
+Pulau Pinang,2020-01-01,spices,30.1,289.6
+Pulau Pinang,2021-01-01,spices,42.8,282.2
+Pulau Pinang,2022-01-01,spices,35.6,285.6
+Pulau Pinang,2017-01-01,vegetables,821.0,11218.1
+Pulau Pinang,2018-01-01,vegetables,923.4,10711.7
+Pulau Pinang,2019-01-01,vegetables,935.5,10985.8
+Pulau Pinang,2020-01-01,vegetables,813.3,10323.6
+Pulau Pinang,2021-01-01,vegetables,996.6,12154.5
+Pulau Pinang,2022-01-01,vegetables,687.1,8653.9
+Sabah,2017-01-01,cash_crops,2048.9,12515.7
+Sabah,2018-01-01,cash_crops,1212.6,10465.0
+Sabah,2019-01-01,cash_crops,1482.7,14580.2
+Sabah,2020-01-01,cash_crops,1298.4,11209.7
+Sabah,2021-01-01,cash_crops,1323.7,11143.9
+Sabah,2022-01-01,cash_crops,1485.6,10526.0
+Sabah,2017-01-01,coconut,16726.2,49335.3
+Sabah,2018-01-01,coconut,16968.4,50477.5
+Sabah,2019-01-01,coconut,17041.0,55337.1
+Sabah,2020-01-01,coconut,17274.7,57392.1
+Sabah,2021-01-01,coconut,18257.7,59214.8
+Sabah,2022-01-01,coconut,18631.8,61517.9
+Sabah,2017-01-01,flower,59.9,7976625.0
+Sabah,2018-01-01,flower,61.0,8120204.0
+Sabah,2019-01-01,flower,62.1,8274488.0
+Sabah,2020-01-01,flower,60.4,6305160.0
+Sabah,2021-01-01,flower,62.7,6662662.0
+Sabah,2022-01-01,flower,63.5,6782590.0
+Sabah,2017-01-01,fruits,17592.5,108917.5
+Sabah,2018-01-01,fruits,18093.2,108138.7
+Sabah,2019-01-01,fruits,18484.0,127771.1
+Sabah,2020-01-01,fruits,19112.5,123396.6
+Sabah,2021-01-01,fruits,20301.3,123132.2
+Sabah,2022-01-01,fruits,20922.2,106700.0
+Sabah,2017-01-01,herbs,0.0,0.0
+Sabah,2018-01-01,herbs,0.0,0.0
+Sabah,2019-01-01,herbs,1.2,0.9
+Sabah,2020-01-01,herbs,1.2,0.4
+Sabah,2021-01-01,herbs,1.2,0.4
+Sabah,2022-01-01,herbs,6.2,0.0
+Sabah,2017-01-01,industrial_crops,18990.1,54902.3
+Sabah,2018-01-01,industrial_crops,19388.0,55713.9
+Sabah,2019-01-01,industrial_crops,19501.6,60823.8
+Sabah,2020-01-01,industrial_crops,19287.6,61436.4
+Sabah,2021-01-01,industrial_crops,20336.0,62926.4
+Sabah,2022-01-01,industrial_crops,20836.1,64810.3
+Sabah,2017-01-01,paddy,42157.0,110936.0
+Sabah,2018-01-01,paddy,42442.0,122390.0
+Sabah,2019-01-01,paddy,43546.0,112569.0
+Sabah,2020-01-01,paddy,40446.0,117846.0
+Sabah,2021-01-01,paddy,38732.0,112284.0
+Sabah,2022-01-01,paddy,37323.0,107565.0
+Sabah,2017-01-01,spices,461.6,2386.8
+Sabah,2018-01-01,spices,398.8,2193.2
+Sabah,2019-01-01,spices,387.0,2442.2
+Sabah,2020-01-01,spices,463.1,2536.2
+Sabah,2021-01-01,spices,430.5,2744.8
+Sabah,2022-01-01,spices,452.1,2921.6
+Sabah,2017-01-01,vegetables,4350.7,43623.7
+Sabah,2018-01-01,vegetables,4348.4,42767.0
+Sabah,2019-01-01,vegetables,4541.9,46227.3
+Sabah,2020-01-01,vegetables,4363.8,43271.7
+Sabah,2021-01-01,vegetables,4160.9,41448.8
+Sabah,2022-01-01,vegetables,4353.1,46681.9
+Sarawak,2017-01-01,cash_crops,4533.3,27179.8
+Sarawak,2018-01-01,cash_crops,3078.8,14335.9
+Sarawak,2019-01-01,cash_crops,1789.0,16805.9
+Sarawak,2020-01-01,cash_crops,4108.1,25114.6
+Sarawak,2021-01-01,cash_crops,3780.1,24524.4
+Sarawak,2022-01-01,cash_crops,3705.3,23436.0
+Sarawak,2017-01-01,coconut,12635.1,30627.8
+Sarawak,2018-01-01,coconut,13258.7,30113.5
+Sarawak,2019-01-01,coconut,12401.1,54023.3
+Sarawak,2020-01-01,coconut,12003.3,51490.3
+Sarawak,2021-01-01,coconut,11947.8,24139.1
+Sarawak,2022-01-01,coconut,12100.3,24522.3
+Sarawak,2017-01-01,flower,72.9,1208083.0
+Sarawak,2018-01-01,flower,74.2,1229829.0
+Sarawak,2019-01-01,flower,75.6,1253195.0
+Sarawak,2020-01-01,flower,73.5,954935.0
+Sarawak,2021-01-01,flower,76.2,1009080.0
+Sarawak,2022-01-01,flower,77.1,1025225.0
+Sarawak,2017-01-01,fruits,35248.7,150688.5
+Sarawak,2018-01-01,fruits,37078.3,141047.3
+Sarawak,2019-01-01,fruits,35769.8,160713.7
+Sarawak,2020-01-01,fruits,36868.7,174313.9
+Sarawak,2021-01-01,fruits,36814.1,145573.0
+Sarawak,2022-01-01,fruits,36397.5,147922.3
+Sarawak,2017-01-01,herbs,685.4,3016.4
+Sarawak,2018-01-01,herbs,666.5,2842.4
+Sarawak,2019-01-01,herbs,665.0,2854.7
+Sarawak,2020-01-01,herbs,654.4,2809.4
+Sarawak,2021-01-01,herbs,643.6,2947.6
+Sarawak,2022-01-01,herbs,637.9,2981.2
+Sarawak,2017-01-01,industrial_crops,55903.7,239297.5
+Sarawak,2018-01-01,industrial_crops,55459.1,104710.7
+Sarawak,2019-01-01,industrial_crops,58192.5,249948.7
+Sarawak,2020-01-01,industrial_crops,80396.3,182901.1
+Sarawak,2021-01-01,industrial_crops,80408.3,155557.2
+Sarawak,2022-01-01,industrial_crops,48509.1,127987.5
+Sarawak,2017-01-01,paddy,120713.0,246305.0
+Sarawak,2018-01-01,paddy,135426.0,265358.0
+Sarawak,2019-01-01,paddy,109261.0,215491.0
+Sarawak,2020-01-01,paddy,90865.2,167588.9
+Sarawak,2021-01-01,paddy,83143.0,148903.0
+Sarawak,2022-01-01,paddy,77943.0,147272.0
+Sarawak,2017-01-01,spices,544.0,3556.3
+Sarawak,2018-01-01,spices,473.7,2744.3
+Sarawak,2019-01-01,spices,465.7,2700.5
+Sarawak,2020-01-01,spices,498.9,2988.4
+Sarawak,2021-01-01,spices,496.7,2919.6
+Sarawak,2022-01-01,spices,481.8,2863.1
+Sarawak,2017-01-01,vegetables,5031.1,51872.4
+Sarawak,2018-01-01,vegetables,4533.7,43691.0
+Sarawak,2019-01-01,vegetables,6098.2,61348.8
+Sarawak,2020-01-01,vegetables,6057.6,62163.5
+Sarawak,2021-01-01,vegetables,5595.3,56647.8
+Sarawak,2022-01-01,vegetables,5255.3,53191.2
+Selangor,2017-01-01,cash_crops,1295.4,20445.2
+Selangor,2018-01-01,cash_crops,1220.5,17368.8
+Selangor,2019-01-01,cash_crops,1108.3,16707.2
+Selangor,2020-01-01,cash_crops,1061.8,13330.3
+Selangor,2021-01-01,cash_crops,936.9,11764.4
+Selangor,2022-01-01,cash_crops,605.6,9411.1
+Selangor,2017-01-01,coconut,8816.5,103435.4
+Selangor,2018-01-01,coconut,9860.2,95641.5
+Selangor,2019-01-01,coconut,15075.7,99760.7
+Selangor,2020-01-01,coconut,10239.1,105129.1
+Selangor,2021-01-01,coconut,9119.7,107558.9
+Selangor,2022-01-01,coconut,9526.4,110783.8
+Selangor,2017-01-01,flower,289.5,65598764.0
+Selangor,2018-01-01,flower,294.7,66779541.0
+Selangor,2019-01-01,flower,300.3,68048353.0
+Selangor,2020-01-01,flower,291.9,51852845.0
+Selangor,2021-01-01,flower,267.3,46579410.0
+Selangor,2022-01-01,flower,270.5,47324681.0
+Selangor,2017-01-01,fruits,2055.1,19392.2
+Selangor,2018-01-01,fruits,2019.0,33180.1
+Selangor,2019-01-01,fruits,2038.2,29414.3
+Selangor,2020-01-01,fruits,2096.1,33288.1
+Selangor,2021-01-01,fruits,5288.1,35605.4
+Selangor,2022-01-01,fruits,1971.6,41376.1
+Selangor,2017-01-01,herbs,85.8,1206.6
+Selangor,2018-01-01,herbs,91.2,668.8
+Selangor,2019-01-01,herbs,91.9,710.6
+Selangor,2020-01-01,herbs,88.3,496.7
+Selangor,2021-01-01,herbs,82.7,513.2
+Selangor,2022-01-01,herbs,82.8,758.2
+Selangor,2017-01-01,industrial_crops,9101.4,105262.3
+Selangor,2018-01-01,industrial_crops,10144.9,96713.3
+Selangor,2019-01-01,industrial_crops,15351.1,103500.1
+Selangor,2020-01-01,industrial_crops,10522.2,108042.6
+Selangor,2021-01-01,industrial_crops,9398.3,111953.0
+Selangor,2022-01-01,industrial_crops,9596.9,114565.9
+Selangor,2017-01-01,paddy,36708.0,165571.0
+Selangor,2018-01-01,paddy,36868.0,174432.0
+Selangor,2019-01-01,paddy,36602.0,174088.0
+Selangor,2020-01-01,paddy,36004.0,159535.0
+Selangor,2021-01-01,paddy,35885.0,155631.0
+Selangor,2022-01-01,paddy,35539.0,153492.0
+Selangor,2017-01-01,spices,476.2,5875.8
+Selangor,2018-01-01,spices,394.9,4984.1
+Selangor,2019-01-01,spices,401.4,4712.3
+Selangor,2020-01-01,spices,259.7,2742.3
+Selangor,2021-01-01,spices,280.4,3672.6
+Selangor,2022-01-01,spices,231.8,2871.7
+Selangor,2017-01-01,vegetables,2626.1,36690.1
+Selangor,2018-01-01,vegetables,2323.9,32258.5
+Selangor,2019-01-01,vegetables,2683.4,38795.7
+Selangor,2020-01-01,vegetables,2337.7,31659.7
+Selangor,2021-01-01,vegetables,2520.6,34051.3
+Selangor,2022-01-01,vegetables,2365.4,32896.7
+Terengganu,2017-01-01,cash_crops,664.9,6525.1
+Terengganu,2018-01-01,cash_crops,624.0,5741.1
+Terengganu,2019-01-01,cash_crops,468.3,3825.1
+Terengganu,2020-01-01,cash_crops,388.3,3328.8
+Terengganu,2021-01-01,cash_crops,398.2,4033.4
+Terengganu,2022-01-01,cash_crops,413.0,4013.4
+Terengganu,2017-01-01,coconut,4231.0,17079.8
+Terengganu,2018-01-01,coconut,4064.9,20607.0
+Terengganu,2019-01-01,coconut,4991.9,16144.2
+Terengganu,2020-01-01,coconut,4657.9,15513.6
+Terengganu,2021-01-01,coconut,2359.8,20120.7
+Terengganu,2022-01-01,coconut,2406.5,18248.3
+Terengganu,2017-01-01,flower,10.0,251040.0
+Terengganu,2018-01-01,flower,10.2,255559.0
+Terengganu,2019-01-01,flower,10.4,260414.0
+Terengganu,2020-01-01,flower,10.1,198436.0
+Terengganu,2021-01-01,flower,11.1,254772.0
+Terengganu,2022-01-01,flower,11.3,258593.0
+Terengganu,2017-01-01,fruits,6151.2,48781.4
+Terengganu,2018-01-01,fruits,7709.0,50831.2
+Terengganu,2019-01-01,fruits,7579.6,57368.9
+Terengganu,2020-01-01,fruits,7399.6,34879.6
+Terengganu,2021-01-01,fruits,7652.9,49649.6
+Terengganu,2022-01-01,fruits,7184.4,27278.9
+Terengganu,2017-01-01,herbs,156.2,359.9
+Terengganu,2018-01-01,herbs,477.7,208.6
+Terengganu,2019-01-01,herbs,269.1,409.0
+Terengganu,2020-01-01,herbs,120.1,267.9
+Terengganu,2021-01-01,herbs,113.4,333.9
+Terengganu,2022-01-01,herbs,124.4,226.6
+Terengganu,2017-01-01,industrial_crops,4253.9,17240.2
+Terengganu,2018-01-01,industrial_crops,4975.8,20803.0
+Terengganu,2019-01-01,industrial_crops,5900.3,16309.2
+Terengganu,2020-01-01,industrial_crops,5225.0,15645.2
+Terengganu,2021-01-01,industrial_crops,3297.2,20282.1
+Terengganu,2022-01-01,industrial_crops,3369.3,18454.1
+Terengganu,2017-01-01,paddy,16919.0,67715.0
+Terengganu,2018-01-01,paddy,17431.0,74335.0
+Terengganu,2019-01-01,paddy,18341.0,71382.0
+Terengganu,2020-01-01,paddy,19071.0,73723.0
+Terengganu,2021-01-01,paddy,19601.0,72023.0
+Terengganu,2022-01-01,paddy,18957.0,62712.0
+Terengganu,2017-01-01,spices,219.3,1303.7
+Terengganu,2018-01-01,spices,222.4,1043.6
+Terengganu,2019-01-01,spices,129.0,864.9
+Terengganu,2020-01-01,spices,110.9,990.2
+Terengganu,2021-01-01,spices,175.1,797.0
+Terengganu,2022-01-01,spices,167.9,955.0
+Terengganu,2017-01-01,vegetables,1306.1,18018.0
+Terengganu,2018-01-01,vegetables,1181.5,16870.0
+Terengganu,2019-01-01,vegetables,1139.6,15264.2
+Terengganu,2020-01-01,vegetables,981.4,11874.2
+Terengganu,2021-01-01,vegetables,1185.3,15112.1
+Terengganu,2022-01-01,vegetables,1069.3,15052.6
+W.P. Kuala Lumpur,2017-01-01,cash_crops,0.0,0.0
+W.P. Kuala Lumpur,2018-01-01,cash_crops,0.0,0.0
+W.P. Kuala Lumpur,2019-01-01,cash_crops,0.0,0.0
+W.P. Kuala Lumpur,2020-01-01,cash_crops,0.0,0.0
+W.P. Kuala Lumpur,2021-01-01,cash_crops,0.0,0.0
+W.P. Kuala Lumpur,2022-01-01,cash_crops,0.0,0.0
+W.P. Kuala Lumpur,2017-01-01,coconut,0.0,0.0
+W.P. Kuala Lumpur,2018-01-01,coconut,0.0,0.0
+W.P. Kuala Lumpur,2019-01-01,coconut,0.0,0.0
+W.P. Kuala Lumpur,2020-01-01,coconut,0.0,0.0
+W.P. Kuala Lumpur,2021-01-01,coconut,0.0,0.0
+W.P. Kuala Lumpur,2022-01-01,coconut,0.0,0.0
+W.P. Kuala Lumpur,2017-01-01,flower,8.0,977475.0
+W.P. Kuala Lumpur,2018-01-01,flower,8.1,995069.0
+W.P. Kuala Lumpur,2019-01-01,flower,8.3,1013976.0
+W.P. Kuala Lumpur,2020-01-01,flower,8.1,772649.0
+W.P. Kuala Lumpur,2021-01-01,flower,8.4,816459.0
+W.P. Kuala Lumpur,2022-01-01,flower,8.4,819724.0
+W.P. Kuala Lumpur,2017-01-01,fruits,0.0,0.0
+W.P. Kuala Lumpur,2018-01-01,fruits,0.0,0.0
+W.P. Kuala Lumpur,2019-01-01,fruits,0.0,0.0
+W.P. Kuala Lumpur,2020-01-01,fruits,0.0,0.0
+W.P. Kuala Lumpur,2021-01-01,fruits,0.0,0.0
+W.P. Kuala Lumpur,2022-01-01,fruits,0.0,0.0
+W.P. Kuala Lumpur,2017-01-01,herbs,0.0,0.0
+W.P. Kuala Lumpur,2018-01-01,herbs,0.0,0.0
+W.P. Kuala Lumpur,2019-01-01,herbs,0.0,0.0
+W.P. Kuala Lumpur,2020-01-01,herbs,0.0,0.0
+W.P. Kuala Lumpur,2021-01-01,herbs,0.0,0.0
+W.P. Kuala Lumpur,2022-01-01,herbs,0.0,0.0
+W.P. Kuala Lumpur,2017-01-01,industrial_crops,0.0,0.0
+W.P. Kuala Lumpur,2018-01-01,industrial_crops,0.0,0.0
+W.P. Kuala Lumpur,2019-01-01,industrial_crops,0.0,0.0
+W.P. Kuala Lumpur,2020-01-01,industrial_crops,0.0,0.0
+W.P. Kuala Lumpur,2021-01-01,industrial_crops,0.0,0.0
+W.P. Kuala Lumpur,2022-01-01,industrial_crops,0.0,0.0
+W.P. Kuala Lumpur,2017-01-01,paddy,0.0,0.0
+W.P. Kuala Lumpur,2018-01-01,paddy,0.0,0.0
+W.P. Kuala Lumpur,2019-01-01,paddy,0.0,0.0
+W.P. Kuala Lumpur,2020-01-01,paddy,0.0,0.0
+W.P. Kuala Lumpur,2021-01-01,paddy,0.0,0.0
+W.P. Kuala Lumpur,2022-01-01,paddy,0.0,0.0
+W.P. Kuala Lumpur,2017-01-01,spices,0.0,0.0
+W.P. Kuala Lumpur,2018-01-01,spices,0.0,0.0
+W.P. Kuala Lumpur,2019-01-01,spices,0.0,0.0
+W.P. Kuala Lumpur,2020-01-01,spices,0.0,0.0
+W.P. Kuala Lumpur,2021-01-01,spices,0.0,0.0
+W.P. Kuala Lumpur,2022-01-01,spices,0.0,0.0
+W.P. Kuala Lumpur,2017-01-01,vegetables,0.0,0.0
+W.P. Kuala Lumpur,2018-01-01,vegetables,0.0,0.0
+W.P. Kuala Lumpur,2019-01-01,vegetables,0.0,0.0
+W.P. Kuala Lumpur,2020-01-01,vegetables,0.0,0.0
+W.P. Kuala Lumpur,2021-01-01,vegetables,0.0,0.0
+W.P. Kuala Lumpur,2022-01-01,vegetables,0.0,0.0
+W.P. Labuan,2017-01-01,cash_crops,4.3,35.4
+W.P. Labuan,2018-01-01,cash_crops,3.5,31.2
+W.P. Labuan,2019-01-01,cash_crops,3.4,31.2
+W.P. Labuan,2020-01-01,cash_crops,1.2,8.4
+W.P. Labuan,2021-01-01,cash_crops,0.0,0.0
+W.P. Labuan,2022-01-01,cash_crops,0.0,0.0
+W.P. Labuan,2017-01-01,coconut,152.5,630.1
+W.P. Labuan,2018-01-01,coconut,158.4,516.8
+W.P. Labuan,2019-01-01,coconut,129.3,487.2
+W.P. Labuan,2020-01-01,coconut,90.9,408.9
+W.P. Labuan,2021-01-01,coconut,91.4,436.5
+W.P. Labuan,2022-01-01,coconut,71.3,405.1
+W.P. Labuan,2017-01-01,flower,8.0,111813.0
+W.P. Labuan,2018-01-01,flower,8.1,113826.0
+W.P. Labuan,2019-01-01,flower,8.3,115989.0
+W.P. Labuan,2020-01-01,flower,8.1,88383.0
+W.P. Labuan,2021-01-01,flower,8.4,93395.0
+W.P. Labuan,2022-01-01,flower,8.4,94235.0
+W.P. Labuan,2017-01-01,fruits,175.6,343.9
+W.P. Labuan,2018-01-01,fruits,168.9,404.0
+W.P. Labuan,2019-01-01,fruits,139.1,394.7
+W.P. Labuan,2020-01-01,fruits,73.6,372.5
+W.P. Labuan,2021-01-01,fruits,74.9,336.5
+W.P. Labuan,2022-01-01,fruits,187.8,451.8
+W.P. Labuan,2017-01-01,herbs,0.0,0.0
+W.P. Labuan,2018-01-01,herbs,0.0,0.0
+W.P. Labuan,2019-01-01,herbs,0.0,0.0
+W.P. Labuan,2020-01-01,herbs,0.0,0.0
+W.P. Labuan,2021-01-01,herbs,0.0,0.0
+W.P. Labuan,2022-01-01,herbs,0.0,0.0
+W.P. Labuan,2017-01-01,industrial_crops,152.5,630.1
+W.P. Labuan,2018-01-01,industrial_crops,158.6,519.2
+W.P. Labuan,2019-01-01,industrial_crops,129.5,488.4
+W.P. Labuan,2020-01-01,industrial_crops,91.5,411.3
+W.P. Labuan,2021-01-01,industrial_crops,91.4,436.5
+W.P. Labuan,2022-01-01,industrial_crops,72.2,408.4
+W.P. Labuan,2017-01-01,paddy,0.0,0.0
+W.P. Labuan,2018-01-01,paddy,0.0,0.0
+W.P. Labuan,2019-01-01,paddy,0.0,0.0
+W.P. Labuan,2020-01-01,paddy,0.0,0.0
+W.P. Labuan,2021-01-01,paddy,0.0,0.0
+W.P. Labuan,2022-01-01,paddy,0.0,0.0
+W.P. Labuan,2017-01-01,spices,3.9,5.8
+W.P. Labuan,2018-01-01,spices,1.4,8.2
+W.P. Labuan,2019-01-01,spices,1.4,11.3
+W.P. Labuan,2020-01-01,spices,0.5,8.4
+W.P. Labuan,2021-01-01,spices,0.0,0.0
+W.P. Labuan,2022-01-01,spices,0.0,0.0
+W.P. Labuan,2017-01-01,vegetables,77.8,316.2
+W.P. Labuan,2018-01-01,vegetables,72.5,333.4
+W.P. Labuan,2019-01-01,vegetables,57.1,334.0
+W.P. Labuan,2020-01-01,vegetables,26.9,358.9
+W.P. Labuan,2021-01-01,vegetables,65.1,462.2
+W.P. Labuan,2022-01-01,vegetables,73.4,340.8

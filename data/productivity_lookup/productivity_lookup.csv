@@ -1,0 +1,37 @@
+code,desc_en,desc_bm
+p0,Overall,Keseluruhan
+p1,Agriculture,Pertanian
+p2,Mining and quarrying,Perlombongan dan pengkuarian
+p3,Manufacturing,Pembuatan
+p3.1,Vegetable and animal oils & fats and food processing,Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan
+p3.2,Beverages and tobacco products,Minuman dan produk tembakau
+p3.3,"Textiles, wearing apparel and leather products","Produk tekstil, pakaian dan kulit"
+p3.4,"Wood products, furniture, paper products and printing","Produk kayu, perabot, keluaran kertas dan percetakan"
+p3.5,"Petroleum, chemical, rubber and plastic products","Produk petroleum, kimia, getah dan plastik"
+p3.6,"Non-metallic mineral products, basic metal and fabricated metal products","Produk mineral bukan logam, logam asas dan produk logam yang direka"
+p3.7,"Electrical, electronic and optical products","Produk elektrik, elektronik dan optikal"
+p3.8,"Transport equipment, other manufacturing and repair","Peralatan pengangkutan, pembuatan lain dan pembaikan"
+p4,Construction,Pembinaan
+p5,Services,Perkhidmatan
+p5.1,Utilities,Utiliti
+p5.2,Wholesale and retail trade,Perdagangan borong dan runcit
+p5.3,Food & beverages and accommodation,Makanan & minuman dan penginapan
+p5.4,Transportation and storage,Pengangkutan dan penyimpanan
+p5.5,Information and communication,Maklumat dan komunikasi
+p5.6,Finance and insurance,Kewangan dan insurans
+p5.7,Real estate and business services,Hartanah dan perkhidmatan perniagaan
+p5.8,Other services,Perkhidmatan lain
+special.01,Agro-food,Agro-makanan
+special.02,Chemicals and chemical products,Kimia dan produk kimia
+special.03,Pharmaceutical,Farmaseutikal
+special.04,Electrical and electronics,Elektrik dan elektronik
+special.05,Machinery and equipment,Mesin dan peralatan
+special.06,Automotive,Automotif
+special.07,Aerospace,Aeroangkasa
+special.08,Construction & built environment,Pembinaan & alam bina
+special.09,Retail and food & beverages,Peruncitan dan makanan & minuman
+special.10,Logistics,Logistik
+special.11,Tourism,Pelancongan
+special.12,"Information, communication and technology (ICT)","Teknologi, maklumat dan komunikasi (ICT)"
+special.13,Professional services,Perkhidmatan profesional
+special.14,Private healthcare,Penjagaan kesihatan swasta

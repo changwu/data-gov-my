@@ -1,0 +1,2251 @@
+state,university,citizenship,sex,date,staff
+Malaysia,All Universities,all,both,2014-01-01,31917
+Malaysia,All Universities,all,both,2015-01-01,31877
+Malaysia,All Universities,all,both,2016-01-01,31712
+Malaysia,All Universities,all,both,2017-01-01,31740
+Malaysia,All Universities,all,both,2018-01-01,31528
+Malaysia,All Universities,all,both,2019-01-01,31626
+Malaysia,All Universities,all,both,2020-01-01,31508
+Malaysia,All Universities,all,both,2021-01-01,31568
+Malaysia,All Universities,all,both,2022-01-01,31392
+Malaysia,All Universities,all,both,2023-01-01,31631
+Malaysia,All Universities,all,female,2014-01-01,16872
+Malaysia,All Universities,all,female,2015-01-01,17081
+Malaysia,All Universities,all,female,2016-01-01,17298
+Malaysia,All Universities,all,female,2017-01-01,17490
+Malaysia,All Universities,all,female,2018-01-01,17503
+Malaysia,All Universities,all,female,2019-01-01,17657
+Malaysia,All Universities,all,female,2020-01-01,17818
+Malaysia,All Universities,all,female,2021-01-01,18005
+Malaysia,All Universities,all,female,2022-01-01,18025
+Malaysia,All Universities,all,female,2023-01-01,18250
+Malaysia,All Universities,all,male,2014-01-01,15045
+Malaysia,All Universities,all,male,2015-01-01,14796
+Malaysia,All Universities,all,male,2016-01-01,14414
+Malaysia,All Universities,all,male,2017-01-01,14250
+Malaysia,All Universities,all,male,2018-01-01,14025
+Malaysia,All Universities,all,male,2019-01-01,13969
+Malaysia,All Universities,all,male,2020-01-01,13690
+Malaysia,All Universities,all,male,2021-01-01,13563
+Malaysia,All Universities,all,male,2022-01-01,13367
+Malaysia,All Universities,all,male,2023-01-01,13381
+Malaysia,All Universities,citizen,both,2014-01-01,29487
+Malaysia,All Universities,citizen,both,2015-01-01,29678
+Malaysia,All Universities,citizen,both,2016-01-01,29993
+Malaysia,All Universities,citizen,both,2017-01-01,30200
+Malaysia,All Universities,citizen,both,2018-01-01,30076
+Malaysia,All Universities,citizen,both,2019-01-01,30154
+Malaysia,All Universities,citizen,both,2020-01-01,30220
+Malaysia,All Universities,citizen,both,2021-01-01,30380
+Malaysia,All Universities,citizen,both,2022-01-01,30238
+Malaysia,All Universities,citizen,both,2023-01-01,30432
+Malaysia,All Universities,citizen,female,2014-01-01,16264
+Malaysia,All Universities,citizen,female,2015-01-01,16508
+Malaysia,All Universities,citizen,female,2016-01-01,16907
+Malaysia,All Universities,citizen,female,2017-01-01,17130
+Malaysia,All Universities,citizen,female,2018-01-01,17181
+Malaysia,All Universities,citizen,female,2019-01-01,17335
+Malaysia,All Universities,citizen,female,2020-01-01,17544
+Malaysia,All Universities,citizen,female,2021-01-01,17751
+Malaysia,All Universities,citizen,female,2022-01-01,17780
+Malaysia,All Universities,citizen,female,2023-01-01,17981
+Malaysia,All Universities,citizen,male,2014-01-01,13223
+Malaysia,All Universities,citizen,male,2015-01-01,13170
+Malaysia,All Universities,citizen,male,2016-01-01,13086
+Malaysia,All Universities,citizen,male,2017-01-01,13070
+Malaysia,All Universities,citizen,male,2018-01-01,12895
+Malaysia,All Universities,citizen,male,2019-01-01,12819
+Malaysia,All Universities,citizen,male,2020-01-01,12676
+Malaysia,All Universities,citizen,male,2021-01-01,12629
+Malaysia,All Universities,citizen,male,2022-01-01,12458
+Malaysia,All Universities,citizen,male,2023-01-01,12451
+Malaysia,All Universities,non_citizen,both,2014-01-01,2430
+Malaysia,All Universities,non_citizen,both,2015-01-01,2199
+Malaysia,All Universities,non_citizen,both,2016-01-01,1719
+Malaysia,All Universities,non_citizen,both,2017-01-01,1540
+Malaysia,All Universities,non_citizen,both,2018-01-01,1452
+Malaysia,All Universities,non_citizen,both,2019-01-01,1472
+Malaysia,All Universities,non_citizen,both,2020-01-01,1288
+Malaysia,All Universities,non_citizen,both,2021-01-01,1188
+Malaysia,All Universities,non_citizen,both,2022-01-01,1154
+Malaysia,All Universities,non_citizen,both,2023-01-01,1199
+Malaysia,All Universities,non_citizen,female,2014-01-01,608
+Malaysia,All Universities,non_citizen,female,2015-01-01,573
+Malaysia,All Universities,non_citizen,female,2016-01-01,391
+Malaysia,All Universities,non_citizen,female,2017-01-01,360
+Malaysia,All Universities,non_citizen,female,2018-01-01,322
+Malaysia,All Universities,non_citizen,female,2019-01-01,322
+Malaysia,All Universities,non_citizen,female,2020-01-01,274
+Malaysia,All Universities,non_citizen,female,2021-01-01,254
+Malaysia,All Universities,non_citizen,female,2022-01-01,245
+Malaysia,All Universities,non_citizen,female,2023-01-01,269
+Malaysia,All Universities,non_citizen,male,2014-01-01,1822
+Malaysia,All Universities,non_citizen,male,2015-01-01,1626
+Malaysia,All Universities,non_citizen,male,2016-01-01,1328
+Malaysia,All Universities,non_citizen,male,2017-01-01,1180
+Malaysia,All Universities,non_citizen,male,2018-01-01,1130
+Malaysia,All Universities,non_citizen,male,2019-01-01,1150
+Malaysia,All Universities,non_citizen,male,2020-01-01,1014
+Malaysia,All Universities,non_citizen,male,2021-01-01,934
+Malaysia,All Universities,non_citizen,male,2022-01-01,909
+Malaysia,All Universities,non_citizen,male,2023-01-01,930
+Johor,All Universities,all,both,2014-01-01,3081
+Johor,All Universities,all,both,2015-01-01,3071
+Johor,All Universities,all,both,2016-01-01,2889
+Johor,All Universities,all,both,2017-01-01,2902
+Johor,All Universities,all,both,2018-01-01,2821
+Johor,All Universities,all,both,2019-01-01,2819
+Johor,All Universities,all,both,2020-01-01,2789
+Johor,All Universities,all,both,2021-01-01,2782
+Johor,All Universities,all,both,2022-01-01,2766
+Johor,All Universities,all,both,2023-01-01,2783
+Johor,All Universities,all,female,2014-01-01,1274
+Johor,All Universities,all,female,2015-01-01,1285
+Johor,All Universities,all,female,2016-01-01,1258
+Johor,All Universities,all,female,2017-01-01,1280
+Johor,All Universities,all,female,2018-01-01,1267
+Johor,All Universities,all,female,2019-01-01,1285
+Johor,All Universities,all,female,2020-01-01,1283
+Johor,All Universities,all,female,2021-01-01,1318
+Johor,All Universities,all,female,2022-01-01,1344
+Johor,All Universities,all,female,2023-01-01,1374
+Johor,All Universities,all,male,2014-01-01,1807
+Johor,All Universities,all,male,2015-01-01,1786
+Johor,All Universities,all,male,2016-01-01,1631
+Johor,All Universities,all,male,2017-01-01,1622
+Johor,All Universities,all,male,2018-01-01,1554
+Johor,All Universities,all,male,2019-01-01,1534
+Johor,All Universities,all,male,2020-01-01,1506
+Johor,All Universities,all,male,2021-01-01,1464
+Johor,All Universities,all,male,2022-01-01,1422
+Johor,All Universities,all,male,2023-01-01,1409
+Johor,All Universities,citizen,both,2014-01-01,2879
+Johor,All Universities,citizen,both,2015-01-01,2869
+Johor,All Universities,citizen,both,2016-01-01,2772
+Johor,All Universities,citizen,both,2017-01-01,2800
+Johor,All Universities,citizen,both,2018-01-01,2722
+Johor,All Universities,citizen,both,2019-01-01,2715
+Johor,All Universities,citizen,both,2020-01-01,2671
+Johor,All Universities,citizen,both,2021-01-01,2687
+Johor,All Universities,citizen,both,2022-01-01,2680
+Johor,All Universities,citizen,both,2023-01-01,2692
+Johor,All Universities,citizen,female,2014-01-01,1249
+Johor,All Universities,citizen,female,2015-01-01,1261
+Johor,All Universities,citizen,female,2016-01-01,1239
+Johor,All Universities,citizen,female,2017-01-01,1261
+Johor,All Universities,citizen,female,2018-01-01,1247
+Johor,All Universities,citizen,female,2019-01-01,1268
+Johor,All Universities,citizen,female,2020-01-01,1264
+Johor,All Universities,citizen,female,2021-01-01,1302
+Johor,All Universities,citizen,female,2022-01-01,1328
+Johor,All Universities,citizen,female,2023-01-01,1359
+Johor,All Universities,citizen,male,2014-01-01,1630
+Johor,All Universities,citizen,male,2015-01-01,1608
+Johor,All Universities,citizen,male,2016-01-01,1533
+Johor,All Universities,citizen,male,2017-01-01,1539
+Johor,All Universities,citizen,male,2018-01-01,1475
+Johor,All Universities,citizen,male,2019-01-01,1447
+Johor,All Universities,citizen,male,2020-01-01,1407
+Johor,All Universities,citizen,male,2021-01-01,1385
+Johor,All Universities,citizen,male,2022-01-01,1352
+Johor,All Universities,citizen,male,2023-01-01,1333
+Johor,All Universities,non_citizen,both,2014-01-01,202
+Johor,All Universities,non_citizen,both,2015-01-01,202
+Johor,All Universities,non_citizen,both,2016-01-01,117
+Johor,All Universities,non_citizen,both,2017-01-01,102
+Johor,All Universities,non_citizen,both,2018-01-01,99
+Johor,All Universities,non_citizen,both,2019-01-01,104
+Johor,All Universities,non_citizen,both,2020-01-01,118
+Johor,All Universities,non_citizen,both,2021-01-01,95
+Johor,All Universities,non_citizen,both,2022-01-01,86
+Johor,All Universities,non_citizen,both,2023-01-01,91
+Johor,All Universities,non_citizen,female,2014-01-01,25
+Johor,All Universities,non_citizen,female,2015-01-01,24
+Johor,All Universities,non_citizen,female,2016-01-01,19
+Johor,All Universities,non_citizen,female,2017-01-01,19
+Johor,All Universities,non_citizen,female,2018-01-01,20
+Johor,All Universities,non_citizen,female,2019-01-01,17
+Johor,All Universities,non_citizen,female,2020-01-01,19
+Johor,All Universities,non_citizen,female,2021-01-01,16
+Johor,All Universities,non_citizen,female,2022-01-01,16
+Johor,All Universities,non_citizen,female,2023-01-01,15
+Johor,All Universities,non_citizen,male,2014-01-01,177
+Johor,All Universities,non_citizen,male,2015-01-01,178
+Johor,All Universities,non_citizen,male,2016-01-01,98
+Johor,All Universities,non_citizen,male,2017-01-01,83
+Johor,All Universities,non_citizen,male,2018-01-01,79
+Johor,All Universities,non_citizen,male,2019-01-01,87
+Johor,All Universities,non_citizen,male,2020-01-01,99
+Johor,All Universities,non_citizen,male,2021-01-01,79
+Johor,All Universities,non_citizen,male,2022-01-01,70
+Johor,All Universities,non_citizen,male,2023-01-01,76
+Selangor,All Universities,all,both,2014-01-01,14991
+Selangor,All Universities,all,both,2015-01-01,14872
+Selangor,All Universities,all,both,2016-01-01,14748
+Selangor,All Universities,all,both,2017-01-01,14797
+Selangor,All Universities,all,both,2018-01-01,14690
+Selangor,All Universities,all,both,2019-01-01,14695
+Selangor,All Universities,all,both,2020-01-01,14814
+Selangor,All Universities,all,both,2021-01-01,14788
+Selangor,All Universities,all,both,2022-01-01,14712
+Selangor,All Universities,all,both,2023-01-01,14758
+Selangor,All Universities,all,female,2014-01-01,8876
+Selangor,All Universities,all,female,2015-01-01,8924
+Selangor,All Universities,all,female,2016-01-01,8932
+Selangor,All Universities,all,female,2017-01-01,9042
+Selangor,All Universities,all,female,2018-01-01,8994
+Selangor,All Universities,all,female,2019-01-01,9036
+Selangor,All Universities,all,female,2020-01-01,9211
+Selangor,All Universities,all,female,2021-01-01,9264
+Selangor,All Universities,all,female,2022-01-01,9268
+Selangor,All Universities,all,female,2023-01-01,9315
+Selangor,All Universities,all,male,2014-01-01,6115
+Selangor,All Universities,all,male,2015-01-01,5948
+Selangor,All Universities,all,male,2016-01-01,5816
+Selangor,All Universities,all,male,2017-01-01,5755
+Selangor,All Universities,all,male,2018-01-01,5696
+Selangor,All Universities,all,male,2019-01-01,5659
+Selangor,All Universities,all,male,2020-01-01,5603
+Selangor,All Universities,all,male,2021-01-01,5524
+Selangor,All Universities,all,male,2022-01-01,5444
+Selangor,All Universities,all,male,2023-01-01,5443
+Selangor,All Universities,citizen,both,2014-01-01,14078
+Selangor,All Universities,citizen,both,2015-01-01,14037
+Selangor,All Universities,citizen,both,2016-01-01,14183
+Selangor,All Universities,citizen,both,2017-01-01,14295
+Selangor,All Universities,citizen,both,2018-01-01,14194
+Selangor,All Universities,citizen,both,2019-01-01,14194
+Selangor,All Universities,citizen,both,2020-01-01,14423
+Selangor,All Universities,citizen,both,2021-01-01,14427
+Selangor,All Universities,citizen,both,2022-01-01,14350
+Selangor,All Universities,citizen,both,2023-01-01,14390
+Selangor,All Universities,citizen,female,2014-01-01,8603
+Selangor,All Universities,citizen,female,2015-01-01,8671
+Selangor,All Universities,citizen,female,2016-01-01,8822
+Selangor,All Universities,citizen,female,2017-01-01,8949
+Selangor,All Universities,citizen,female,2018-01-01,8906
+Selangor,All Universities,citizen,female,2019-01-01,8947
+Selangor,All Universities,citizen,female,2020-01-01,9143
+Selangor,All Universities,citizen,female,2021-01-01,9202
+Selangor,All Universities,citizen,female,2022-01-01,9206
+Selangor,All Universities,citizen,female,2023-01-01,9249
+Selangor,All Universities,citizen,male,2014-01-01,5475
+Selangor,All Universities,citizen,male,2015-01-01,5366
+Selangor,All Universities,citizen,male,2016-01-01,5361
+Selangor,All Universities,citizen,male,2017-01-01,5346
+Selangor,All Universities,citizen,male,2018-01-01,5288
+Selangor,All Universities,citizen,male,2019-01-01,5247
+Selangor,All Universities,citizen,male,2020-01-01,5280
+Selangor,All Universities,citizen,male,2021-01-01,5225
+Selangor,All Universities,citizen,male,2022-01-01,5144
+Selangor,All Universities,citizen,male,2023-01-01,5141
+Selangor,All Universities,non_citizen,both,2014-01-01,913
+Selangor,All Universities,non_citizen,both,2015-01-01,835
+Selangor,All Universities,non_citizen,both,2016-01-01,565
+Selangor,All Universities,non_citizen,both,2017-01-01,502
+Selangor,All Universities,non_citizen,both,2018-01-01,496
+Selangor,All Universities,non_citizen,both,2019-01-01,501
+Selangor,All Universities,non_citizen,both,2020-01-01,391
+Selangor,All Universities,non_citizen,both,2021-01-01,361
+Selangor,All Universities,non_citizen,both,2022-01-01,362
+Selangor,All Universities,non_citizen,both,2023-01-01,368
+Selangor,All Universities,non_citizen,female,2014-01-01,273
+Selangor,All Universities,non_citizen,female,2015-01-01,253
+Selangor,All Universities,non_citizen,female,2016-01-01,110
+Selangor,All Universities,non_citizen,female,2017-01-01,93
+Selangor,All Universities,non_citizen,female,2018-01-01,88
+Selangor,All Universities,non_citizen,female,2019-01-01,89
+Selangor,All Universities,non_citizen,female,2020-01-01,68
+Selangor,All Universities,non_citizen,female,2021-01-01,62
+Selangor,All Universities,non_citizen,female,2022-01-01,62
+Selangor,All Universities,non_citizen,female,2023-01-01,66
+Selangor,All Universities,non_citizen,male,2014-01-01,640
+Selangor,All Universities,non_citizen,male,2015-01-01,582
+Selangor,All Universities,non_citizen,male,2016-01-01,455
+Selangor,All Universities,non_citizen,male,2017-01-01,409
+Selangor,All Universities,non_citizen,male,2018-01-01,408
+Selangor,All Universities,non_citizen,male,2019-01-01,412
+Selangor,All Universities,non_citizen,male,2020-01-01,323
+Selangor,All Universities,non_citizen,male,2021-01-01,299
+Selangor,All Universities,non_citizen,male,2022-01-01,300
+Selangor,All Universities,non_citizen,male,2023-01-01,302
+Terengganu,All Universities,all,both,2014-01-01,1231
+Terengganu,All Universities,all,both,2015-01-01,1250
+Terengganu,All Universities,all,both,2016-01-01,1267
+Terengganu,All Universities,all,both,2017-01-01,1255
+Terengganu,All Universities,all,both,2018-01-01,1328
+Terengganu,All Universities,all,both,2019-01-01,1410
+Terengganu,All Universities,all,both,2020-01-01,1379
+Terengganu,All Universities,all,both,2021-01-01,1386
+Terengganu,All Universities,all,both,2022-01-01,1438
+Terengganu,All Universities,all,both,2023-01-01,1420
+Terengganu,All Universities,all,female,2014-01-01,629
+Terengganu,All Universities,all,female,2015-01-01,643
+Terengganu,All Universities,all,female,2016-01-01,671
+Terengganu,All Universities,all,female,2017-01-01,679
+Terengganu,All Universities,all,female,2018-01-01,701
+Terengganu,All Universities,all,female,2019-01-01,760
+Terengganu,All Universities,all,female,2020-01-01,759
+Terengganu,All Universities,all,female,2021-01-01,774
+Terengganu,All Universities,all,female,2022-01-01,795
+Terengganu,All Universities,all,female,2023-01-01,802
+Terengganu,All Universities,all,male,2014-01-01,602
+Terengganu,All Universities,all,male,2015-01-01,607
+Terengganu,All Universities,all,male,2016-01-01,596
+Terengganu,All Universities,all,male,2017-01-01,576
+Terengganu,All Universities,all,male,2018-01-01,627
+Terengganu,All Universities,all,male,2019-01-01,650
+Terengganu,All Universities,all,male,2020-01-01,620
+Terengganu,All Universities,all,male,2021-01-01,612
+Terengganu,All Universities,all,male,2022-01-01,643
+Terengganu,All Universities,all,male,2023-01-01,618
+Terengganu,All Universities,citizen,both,2014-01-01,1123
+Terengganu,All Universities,citizen,both,2015-01-01,1151
+Terengganu,All Universities,citizen,both,2016-01-01,1183
+Terengganu,All Universities,citizen,both,2017-01-01,1183
+Terengganu,All Universities,citizen,both,2018-01-01,1215
+Terengganu,All Universities,citizen,both,2019-01-01,1291
+Terengganu,All Universities,citizen,both,2020-01-01,1271
+Terengganu,All Universities,citizen,both,2021-01-01,1289
+Terengganu,All Universities,citizen,both,2022-01-01,1326
+Terengganu,All Universities,citizen,both,2023-01-01,1322
+Terengganu,All Universities,citizen,female,2014-01-01,602
+Terengganu,All Universities,citizen,female,2015-01-01,621
+Terengganu,All Universities,citizen,female,2016-01-01,653
+Terengganu,All Universities,citizen,female,2017-01-01,664
+Terengganu,All Universities,citizen,female,2018-01-01,679
+Terengganu,All Universities,citizen,female,2019-01-01,736
+Terengganu,All Universities,citizen,female,2020-01-01,735
+Terengganu,All Universities,citizen,female,2021-01-01,751
+Terengganu,All Universities,citizen,female,2022-01-01,769
+Terengganu,All Universities,citizen,female,2023-01-01,778
+Terengganu,All Universities,citizen,male,2014-01-01,521
+Terengganu,All Universities,citizen,male,2015-01-01,530
+Terengganu,All Universities,citizen,male,2016-01-01,530
+Terengganu,All Universities,citizen,male,2017-01-01,519
+Terengganu,All Universities,citizen,male,2018-01-01,536
+Terengganu,All Universities,citizen,male,2019-01-01,555
+Terengganu,All Universities,citizen,male,2020-01-01,536
+Terengganu,All Universities,citizen,male,2021-01-01,538
+Terengganu,All Universities,citizen,male,2022-01-01,557
+Terengganu,All Universities,citizen,male,2023-01-01,544
+Terengganu,All Universities,non_citizen,both,2014-01-01,108
+Terengganu,All Universities,non_citizen,both,2015-01-01,99
+Terengganu,All Universities,non_citizen,both,2016-01-01,84
+Terengganu,All Universities,non_citizen,both,2017-01-01,72
+Terengganu,All Universities,non_citizen,both,2018-01-01,113
+Terengganu,All Universities,non_citizen,both,2019-01-01,119
+Terengganu,All Universities,non_citizen,both,2020-01-01,108
+Terengganu,All Universities,non_citizen,both,2021-01-01,97
+Terengganu,All Universities,non_citizen,both,2022-01-01,112
+Terengganu,All Universities,non_citizen,both,2023-01-01,98
+Terengganu,All Universities,non_citizen,female,2014-01-01,27
+Terengganu,All Universities,non_citizen,female,2015-01-01,22
+Terengganu,All Universities,non_citizen,female,2016-01-01,18
+Terengganu,All Universities,non_citizen,female,2017-01-01,15
+Terengganu,All Universities,non_citizen,female,2018-01-01,22
+Terengganu,All Universities,non_citizen,female,2019-01-01,24
+Terengganu,All Universities,non_citizen,female,2020-01-01,24
+Terengganu,All Universities,non_citizen,female,2021-01-01,23
+Terengganu,All Universities,non_citizen,female,2022-01-01,26
+Terengganu,All Universities,non_citizen,female,2023-01-01,24
+Terengganu,All Universities,non_citizen,male,2014-01-01,81
+Terengganu,All Universities,non_citizen,male,2015-01-01,77
+Terengganu,All Universities,non_citizen,male,2016-01-01,66
+Terengganu,All Universities,non_citizen,male,2017-01-01,57
+Terengganu,All Universities,non_citizen,male,2018-01-01,91
+Terengganu,All Universities,non_citizen,male,2019-01-01,95
+Terengganu,All Universities,non_citizen,male,2020-01-01,84
+Terengganu,All Universities,non_citizen,male,2021-01-01,74
+Terengganu,All Universities,non_citizen,male,2022-01-01,86
+Terengganu,All Universities,non_citizen,male,2023-01-01,74
+W.P. Kuala Lumpur,All Universities,all,both,2014-01-01,2800
+W.P. Kuala Lumpur,All Universities,all,both,2015-01-01,2543
+W.P. Kuala Lumpur,All Universities,all,both,2016-01-01,2623
+W.P. Kuala Lumpur,All Universities,all,both,2017-01-01,2600
+W.P. Kuala Lumpur,All Universities,all,both,2018-01-01,2470
+W.P. Kuala Lumpur,All Universities,all,both,2019-01-01,2491
+W.P. Kuala Lumpur,All Universities,all,both,2020-01-01,2427
+W.P. Kuala Lumpur,All Universities,all,both,2021-01-01,2489
+W.P. Kuala Lumpur,All Universities,all,both,2022-01-01,2428
+W.P. Kuala Lumpur,All Universities,all,both,2023-01-01,2586
+W.P. Kuala Lumpur,All Universities,all,female,2014-01-01,1356
+W.P. Kuala Lumpur,All Universities,all,female,2015-01-01,1288
+W.P. Kuala Lumpur,All Universities,all,female,2016-01-01,1352
+W.P. Kuala Lumpur,All Universities,all,female,2017-01-01,1366
+W.P. Kuala Lumpur,All Universities,all,female,2018-01-01,1342
+W.P. Kuala Lumpur,All Universities,all,female,2019-01-01,1344
+W.P. Kuala Lumpur,All Universities,all,female,2020-01-01,1312
+W.P. Kuala Lumpur,All Universities,all,female,2021-01-01,1356
+W.P. Kuala Lumpur,All Universities,all,female,2022-01-01,1321
+W.P. Kuala Lumpur,All Universities,all,female,2023-01-01,1398
+W.P. Kuala Lumpur,All Universities,all,male,2014-01-01,1444
+W.P. Kuala Lumpur,All Universities,all,male,2015-01-01,1255
+W.P. Kuala Lumpur,All Universities,all,male,2016-01-01,1271
+W.P. Kuala Lumpur,All Universities,all,male,2017-01-01,1234
+W.P. Kuala Lumpur,All Universities,all,male,2018-01-01,1128
+W.P. Kuala Lumpur,All Universities,all,male,2019-01-01,1147
+W.P. Kuala Lumpur,All Universities,all,male,2020-01-01,1115
+W.P. Kuala Lumpur,All Universities,all,male,2021-01-01,1133
+W.P. Kuala Lumpur,All Universities,all,male,2022-01-01,1107
+W.P. Kuala Lumpur,All Universities,all,male,2023-01-01,1188
+W.P. Kuala Lumpur,All Universities,citizen,both,2014-01-01,2376
+W.P. Kuala Lumpur,All Universities,citizen,both,2015-01-01,2245
+W.P. Kuala Lumpur,All Universities,citizen,both,2016-01-01,2312
+W.P. Kuala Lumpur,All Universities,citizen,both,2017-01-01,2306
+W.P. Kuala Lumpur,All Universities,citizen,both,2018-01-01,2254
+W.P. Kuala Lumpur,All Universities,citizen,both,2019-01-01,2245
+W.P. Kuala Lumpur,All Universities,citizen,both,2020-01-01,2211
+W.P. Kuala Lumpur,All Universities,citizen,both,2021-01-01,2283
+W.P. Kuala Lumpur,All Universities,citizen,both,2022-01-01,2229
+W.P. Kuala Lumpur,All Universities,citizen,both,2023-01-01,2320
+W.P. Kuala Lumpur,All Universities,citizen,female,2014-01-01,1257
+W.P. Kuala Lumpur,All Universities,citizen,female,2015-01-01,1208
+W.P. Kuala Lumpur,All Universities,citizen,female,2016-01-01,1267
+W.P. Kuala Lumpur,All Universities,citizen,female,2017-01-01,1272
+W.P. Kuala Lumpur,All Universities,citizen,female,2018-01-01,1275
+W.P. Kuala Lumpur,All Universities,citizen,female,2019-01-01,1265
+W.P. Kuala Lumpur,All Universities,citizen,female,2020-01-01,1249
+W.P. Kuala Lumpur,All Universities,citizen,female,2021-01-01,1294
+W.P. Kuala Lumpur,All Universities,citizen,female,2022-01-01,1257
+W.P. Kuala Lumpur,All Universities,citizen,female,2023-01-01,1312
+W.P. Kuala Lumpur,All Universities,citizen,male,2014-01-01,1119
+W.P. Kuala Lumpur,All Universities,citizen,male,2015-01-01,1037
+W.P. Kuala Lumpur,All Universities,citizen,male,2016-01-01,1045
+W.P. Kuala Lumpur,All Universities,citizen,male,2017-01-01,1034
+W.P. Kuala Lumpur,All Universities,citizen,male,2018-01-01,979
+W.P. Kuala Lumpur,All Universities,citizen,male,2019-01-01,980
+W.P. Kuala Lumpur,All Universities,citizen,male,2020-01-01,962
+W.P. Kuala Lumpur,All Universities,citizen,male,2021-01-01,989
+W.P. Kuala Lumpur,All Universities,citizen,male,2022-01-01,972
+W.P. Kuala Lumpur,All Universities,citizen,male,2023-01-01,1008
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2014-01-01,424
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2015-01-01,298
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2016-01-01,311
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2017-01-01,294
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2018-01-01,216
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2019-01-01,246
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2020-01-01,216
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2021-01-01,206
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2022-01-01,199
+W.P. Kuala Lumpur,All Universities,non_citizen,both,2023-01-01,266
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2014-01-01,99
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2015-01-01,80
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2016-01-01,85
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2017-01-01,94
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2018-01-01,67
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2019-01-01,79
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2020-01-01,63
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2021-01-01,62
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2022-01-01,64
+W.P. Kuala Lumpur,All Universities,non_citizen,female,2023-01-01,86
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2014-01-01,325
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2015-01-01,218
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2016-01-01,226
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2017-01-01,200
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2018-01-01,149
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2019-01-01,167
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2020-01-01,153
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2021-01-01,144
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2022-01-01,135
+W.P. Kuala Lumpur,All Universities,non_citizen,male,2023-01-01,180
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2014-01-01,2006
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2015-01-01,1965
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2016-01-01,1833
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2017-01-01,1849
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2018-01-01,1746
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2019-01-01,1724
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2020-01-01,1697
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2021-01-01,1661
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2022-01-01,1633
+Johor,Universiti Teknologi Malaysia (UTM),all,both,2023-01-01,1654
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2014-01-01,792
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2015-01-01,784
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2016-01-01,765
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2017-01-01,780
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2018-01-01,758
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2019-01-01,767
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2020-01-01,770
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2021-01-01,783
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2022-01-01,803
+Johor,Universiti Teknologi Malaysia (UTM),all,female,2023-01-01,826
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2014-01-01,1214
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2015-01-01,1181
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2016-01-01,1068
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2017-01-01,1069
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2018-01-01,988
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2019-01-01,957
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2020-01-01,927
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2021-01-01,878
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2022-01-01,830
+Johor,Universiti Teknologi Malaysia (UTM),all,male,2023-01-01,828
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2014-01-01,1836
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2015-01-01,1798
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2016-01-01,1740
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2017-01-01,1765
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2018-01-01,1668
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2019-01-01,1655
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2020-01-01,1620
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2021-01-01,1607
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2022-01-01,1587
+Johor,Universiti Teknologi Malaysia (UTM),citizen,both,2023-01-01,1598
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2014-01-01,772
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2015-01-01,765
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2016-01-01,751
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2017-01-01,767
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2018-01-01,746
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2019-01-01,754
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2020-01-01,755
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2021-01-01,772
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2022-01-01,792
+Johor,Universiti Teknologi Malaysia (UTM),citizen,female,2023-01-01,815
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2014-01-01,1064
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2015-01-01,1033
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2016-01-01,989
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2017-01-01,998
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2018-01-01,922
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2019-01-01,901
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2020-01-01,865
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2021-01-01,835
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2022-01-01,795
+Johor,Universiti Teknologi Malaysia (UTM),citizen,male,2023-01-01,783
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2014-01-01,170
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2015-01-01,167
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2016-01-01,93
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2017-01-01,84
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2018-01-01,78
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2019-01-01,69
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2020-01-01,77
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2021-01-01,54
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2022-01-01,46
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,both,2023-01-01,56
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2014-01-01,20
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2015-01-01,19
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2016-01-01,14
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2017-01-01,13
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2018-01-01,12
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2019-01-01,13
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2020-01-01,15
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2021-01-01,11
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2022-01-01,11
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,female,2023-01-01,11
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2014-01-01,150
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2015-01-01,148
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2016-01-01,79
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2017-01-01,71
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2018-01-01,66
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2019-01-01,56
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2020-01-01,62
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2021-01-01,43
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2022-01-01,35
+Johor,Universiti Teknologi Malaysia (UTM),non_citizen,male,2023-01-01,45
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2014-01-01,1075
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2015-01-01,1106
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2016-01-01,1056
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2017-01-01,1053
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2018-01-01,1075
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2019-01-01,1095
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2020-01-01,1092
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2021-01-01,1121
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2022-01-01,1133
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,both,2023-01-01,1129
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2014-01-01,482
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2015-01-01,501
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2016-01-01,493
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2017-01-01,500
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2018-01-01,509
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2019-01-01,518
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2020-01-01,513
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2021-01-01,535
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2022-01-01,541
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,female,2023-01-01,548
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2014-01-01,593
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2015-01-01,605
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2016-01-01,563
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2017-01-01,553
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2018-01-01,566
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2019-01-01,577
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2020-01-01,579
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2021-01-01,586
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2022-01-01,592
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),all,male,2023-01-01,581
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2014-01-01,1043
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2015-01-01,1071
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2016-01-01,1032
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2017-01-01,1035
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2018-01-01,1054
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2019-01-01,1060
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2020-01-01,1051
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2021-01-01,1080
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2022-01-01,1093
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,both,2023-01-01,1094
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2014-01-01,477
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2015-01-01,496
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2016-01-01,488
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2017-01-01,494
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2018-01-01,501
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2019-01-01,514
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2020-01-01,509
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2021-01-01,530
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2022-01-01,536
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,female,2023-01-01,544
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2014-01-01,566
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2015-01-01,575
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2016-01-01,544
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2017-01-01,541
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2018-01-01,553
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2019-01-01,546
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2020-01-01,542
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2021-01-01,550
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2022-01-01,557
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),citizen,male,2023-01-01,550
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2014-01-01,32
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2015-01-01,35
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2016-01-01,24
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2017-01-01,18
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2018-01-01,21
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2019-01-01,35
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2020-01-01,41
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2021-01-01,41
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2022-01-01,40
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,both,2023-01-01,35
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2014-01-01,5
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2015-01-01,5
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2016-01-01,5
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2017-01-01,6
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2018-01-01,8
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2019-01-01,4
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2020-01-01,4
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2021-01-01,5
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2022-01-01,5
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,female,2023-01-01,4
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2014-01-01,27
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2015-01-01,30
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2016-01-01,19
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2017-01-01,12
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2018-01-01,13
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2019-01-01,31
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2020-01-01,37
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2021-01-01,36
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2022-01-01,35
+Johor,Universiti Tun Hussein Onn Malaysia (UTHM),non_citizen,male,2023-01-01,31
+Kedah,Universiti Utara Malaysia (UUM),all,both,2014-01-01,1478
+Kedah,Universiti Utara Malaysia (UUM),all,both,2015-01-01,1494
+Kedah,Universiti Utara Malaysia (UUM),all,both,2016-01-01,1397
+Kedah,Universiti Utara Malaysia (UUM),all,both,2017-01-01,1366
+Kedah,Universiti Utara Malaysia (UUM),all,both,2018-01-01,1350
+Kedah,Universiti Utara Malaysia (UUM),all,both,2019-01-01,1297
+Kedah,Universiti Utara Malaysia (UUM),all,both,2020-01-01,1246
+Kedah,Universiti Utara Malaysia (UUM),all,both,2021-01-01,1235
+Kedah,Universiti Utara Malaysia (UUM),all,both,2022-01-01,1179
+Kedah,Universiti Utara Malaysia (UUM),all,both,2023-01-01,1186
+Kedah,Universiti Utara Malaysia (UUM),all,female,2014-01-01,757
+Kedah,Universiti Utara Malaysia (UUM),all,female,2015-01-01,771
+Kedah,Universiti Utara Malaysia (UUM),all,female,2016-01-01,748
+Kedah,Universiti Utara Malaysia (UUM),all,female,2017-01-01,740
+Kedah,Universiti Utara Malaysia (UUM),all,female,2018-01-01,735
+Kedah,Universiti Utara Malaysia (UUM),all,female,2019-01-01,716
+Kedah,Universiti Utara Malaysia (UUM),all,female,2020-01-01,707
+Kedah,Universiti Utara Malaysia (UUM),all,female,2021-01-01,707
+Kedah,Universiti Utara Malaysia (UUM),all,female,2022-01-01,679
+Kedah,Universiti Utara Malaysia (UUM),all,female,2023-01-01,684
+Kedah,Universiti Utara Malaysia (UUM),all,male,2014-01-01,721
+Kedah,Universiti Utara Malaysia (UUM),all,male,2015-01-01,723
+Kedah,Universiti Utara Malaysia (UUM),all,male,2016-01-01,649
+Kedah,Universiti Utara Malaysia (UUM),all,male,2017-01-01,626
+Kedah,Universiti Utara Malaysia (UUM),all,male,2018-01-01,615
+Kedah,Universiti Utara Malaysia (UUM),all,male,2019-01-01,581
+Kedah,Universiti Utara Malaysia (UUM),all,male,2020-01-01,539
+Kedah,Universiti Utara Malaysia (UUM),all,male,2021-01-01,528
+Kedah,Universiti Utara Malaysia (UUM),all,male,2022-01-01,500
+Kedah,Universiti Utara Malaysia (UUM),all,male,2023-01-01,502
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2014-01-01,1363
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2015-01-01,1370
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2016-01-01,1316
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2017-01-01,1291
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2018-01-01,1281
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2019-01-01,1239
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2020-01-01,1192
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2021-01-01,1174
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2022-01-01,1119
+Kedah,Universiti Utara Malaysia (UUM),citizen,both,2023-01-01,1135
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2014-01-01,738
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2015-01-01,747
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2016-01-01,735
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2017-01-01,722
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2018-01-01,717
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2019-01-01,703
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2020-01-01,698
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2021-01-01,697
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2022-01-01,670
+Kedah,Universiti Utara Malaysia (UUM),citizen,female,2023-01-01,673
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2014-01-01,625
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2015-01-01,623
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2016-01-01,581
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2017-01-01,569
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2018-01-01,564
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2019-01-01,536
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2020-01-01,494
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2021-01-01,477
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2022-01-01,449
+Kedah,Universiti Utara Malaysia (UUM),citizen,male,2023-01-01,462
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2014-01-01,115
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2015-01-01,124
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2016-01-01,81
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2017-01-01,75
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2018-01-01,69
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2019-01-01,58
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2020-01-01,54
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2021-01-01,61
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2022-01-01,60
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,both,2023-01-01,51
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2014-01-01,19
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2015-01-01,24
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2016-01-01,13
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2017-01-01,18
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2018-01-01,18
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2019-01-01,13
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2020-01-01,9
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2021-01-01,10
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2022-01-01,9
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,female,2023-01-01,11
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2014-01-01,96
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2015-01-01,100
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2016-01-01,68
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2017-01-01,57
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2018-01-01,51
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2019-01-01,45
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2020-01-01,45
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2021-01-01,51
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2022-01-01,51
+Kedah,Universiti Utara Malaysia (UUM),non_citizen,male,2023-01-01,40
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2014-01-01,533
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2015-01-01,553
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2016-01-01,561
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2017-01-01,559
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2018-01-01,541
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2019-01-01,514
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2020-01-01,521
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2021-01-01,545
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2022-01-01,534
+Kelantan,Universiti Malaysia Kelantan (UMK),all,both,2023-01-01,524
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2014-01-01,290
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2015-01-01,304
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2016-01-01,318
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2017-01-01,309
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2018-01-01,306
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2019-01-01,298
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2020-01-01,301
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2021-01-01,308
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2022-01-01,303
+Kelantan,Universiti Malaysia Kelantan (UMK),all,female,2023-01-01,301
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2014-01-01,243
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2015-01-01,249
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2016-01-01,243
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2017-01-01,250
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2018-01-01,235
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2019-01-01,216
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2020-01-01,220
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2021-01-01,237
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2022-01-01,231
+Kelantan,Universiti Malaysia Kelantan (UMK),all,male,2023-01-01,223
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2014-01-01,487
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2015-01-01,510
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2016-01-01,524
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2017-01-01,522
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2018-01-01,510
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2019-01-01,493
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2020-01-01,496
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2021-01-01,511
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2022-01-01,499
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,both,2023-01-01,498
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2014-01-01,282
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2015-01-01,293
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2016-01-01,307
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2017-01-01,299
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2018-01-01,297
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2019-01-01,293
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2020-01-01,295
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2021-01-01,302
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2022-01-01,296
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,female,2023-01-01,295
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2014-01-01,205
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2015-01-01,217
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2016-01-01,217
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2017-01-01,223
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2018-01-01,213
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2019-01-01,200
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2020-01-01,201
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2021-01-01,209
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2022-01-01,203
+Kelantan,Universiti Malaysia Kelantan (UMK),citizen,male,2023-01-01,203
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2014-01-01,46
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2015-01-01,43
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2016-01-01,37
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2017-01-01,37
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2018-01-01,31
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2019-01-01,21
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2020-01-01,25
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2021-01-01,34
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2022-01-01,35
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,both,2023-01-01,26
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2014-01-01,8
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2015-01-01,11
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2016-01-01,11
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2017-01-01,10
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2018-01-01,9
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2019-01-01,5
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2020-01-01,6
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2021-01-01,6
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2022-01-01,7
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,female,2023-01-01,6
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2014-01-01,38
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2015-01-01,32
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2016-01-01,26
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2017-01-01,27
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2018-01-01,22
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2019-01-01,16
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2020-01-01,19
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2021-01-01,28
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2022-01-01,28
+Kelantan,Universiti Malaysia Kelantan (UMK),non_citizen,male,2023-01-01,20
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2014-01-01,838
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2015-01-01,908
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2016-01-01,899
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2017-01-01,881
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2018-01-01,885
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2019-01-01,882
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2020-01-01,866
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2021-01-01,856
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2022-01-01,856
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,both,2023-01-01,868
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2014-01-01,325
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2015-01-01,340
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2016-01-01,336
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2017-01-01,335
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2018-01-01,338
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2019-01-01,339
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2020-01-01,336
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2021-01-01,336
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2022-01-01,337
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,female,2023-01-01,345
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2014-01-01,513
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2015-01-01,568
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2016-01-01,563
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2017-01-01,546
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2018-01-01,547
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2019-01-01,543
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2020-01-01,530
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2021-01-01,520
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2022-01-01,519
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),all,male,2023-01-01,523
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2014-01-01,805
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2015-01-01,877
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2016-01-01,874
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2017-01-01,864
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2018-01-01,865
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2019-01-01,856
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2020-01-01,844
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2021-01-01,839
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2022-01-01,843
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,both,2023-01-01,848
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2014-01-01,321
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2015-01-01,337
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2016-01-01,335
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2017-01-01,335
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2018-01-01,338
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2019-01-01,337
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2020-01-01,334
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2021-01-01,335
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2022-01-01,336
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,female,2023-01-01,345
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2014-01-01,484
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2015-01-01,540
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2016-01-01,539
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2017-01-01,529
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2018-01-01,527
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2019-01-01,519
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2020-01-01,510
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2021-01-01,504
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2022-01-01,507
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),citizen,male,2023-01-01,503
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2014-01-01,33
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2015-01-01,31
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2016-01-01,25
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2017-01-01,17
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2018-01-01,20
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2019-01-01,26
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2020-01-01,22
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2021-01-01,17
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2022-01-01,13
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,both,2023-01-01,20
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2014-01-01,4
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2015-01-01,3
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2016-01-01,1
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2017-01-01,0
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2018-01-01,0
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2019-01-01,2
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2020-01-01,2
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2021-01-01,1
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2022-01-01,1
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,female,2023-01-01,0
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2014-01-01,29
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2015-01-01,28
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2016-01-01,24
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2017-01-01,17
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2018-01-01,20
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2019-01-01,24
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2020-01-01,20
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2021-01-01,16
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2022-01-01,12
+Melaka,Universiti Teknikal Malaysia Melaka (UTeM),non_citizen,male,2023-01-01,20
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2014-01-01,643
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2015-01-01,664
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2016-01-01,717
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2017-01-01,728
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2018-01-01,759
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2019-01-01,768
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2020-01-01,785
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2021-01-01,804
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2022-01-01,839
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,both,2023-01-01,832
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2014-01-01,355
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2015-01-01,367
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2016-01-01,404
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2017-01-01,417
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2018-01-01,433
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2019-01-01,442
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2020-01-01,455
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2021-01-01,471
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2022-01-01,497
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,female,2023-01-01,496
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2014-01-01,288
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2015-01-01,297
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2016-01-01,313
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2017-01-01,311
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2018-01-01,326
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2019-01-01,326
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2020-01-01,330
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2021-01-01,333
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2022-01-01,342
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),all,male,2023-01-01,336
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2014-01-01,588
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2015-01-01,610
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2016-01-01,661
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2017-01-01,677
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2018-01-01,701
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2019-01-01,712
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2020-01-01,737
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2021-01-01,758
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2022-01-01,794
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,both,2023-01-01,789
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2014-01-01,350
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2015-01-01,361
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2016-01-01,397
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2017-01-01,410
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2018-01-01,425
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2019-01-01,435
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2020-01-01,450
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2021-01-01,468
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2022-01-01,494
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,female,2023-01-01,493
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2014-01-01,238
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2015-01-01,249
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2016-01-01,264
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2017-01-01,267
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2018-01-01,276
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2019-01-01,277
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2020-01-01,287
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2021-01-01,290
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2022-01-01,300
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),citizen,male,2023-01-01,296
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2014-01-01,55
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2015-01-01,54
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2016-01-01,56
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2017-01-01,51
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2018-01-01,58
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2019-01-01,56
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2020-01-01,48
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2021-01-01,46
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2022-01-01,45
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,both,2023-01-01,43
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2014-01-01,5
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2015-01-01,6
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2016-01-01,7
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2017-01-01,7
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2018-01-01,8
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2019-01-01,7
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2020-01-01,5
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2021-01-01,3
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2022-01-01,3
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,female,2023-01-01,3
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2014-01-01,50
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2015-01-01,48
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2016-01-01,49
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2017-01-01,44
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2018-01-01,50
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2019-01-01,49
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2020-01-01,43
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2021-01-01,43
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2022-01-01,42
+Negeri Sembilan,Universiti Sains Islam Malaysia (USIM),non_citizen,male,2023-01-01,40
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2014-01-01,720
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2015-01-01,757
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2016-01-01,800
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2017-01-01,799
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2018-01-01,794
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2019-01-01,783
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2020-01-01,764
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2021-01-01,764
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2022-01-01,759
+Pahang,Universiti Malaysia Pahang (UMPSA),all,both,2023-01-01,758
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2014-01-01,325
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2015-01-01,343
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2016-01-01,367
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2017-01-01,362
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2018-01-01,371
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2019-01-01,370
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2020-01-01,367
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2021-01-01,370
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2022-01-01,375
+Pahang,Universiti Malaysia Pahang (UMPSA),all,female,2023-01-01,384
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2014-01-01,395
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2015-01-01,414
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2016-01-01,433
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2017-01-01,437
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2018-01-01,423
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2019-01-01,413
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2020-01-01,397
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2021-01-01,394
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2022-01-01,384
+Pahang,Universiti Malaysia Pahang (UMPSA),all,male,2023-01-01,374
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2014-01-01,626
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2015-01-01,657
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2016-01-01,701
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2017-01-01,705
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2018-01-01,719
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2019-01-01,719
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2020-01-01,716
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2021-01-01,729
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2022-01-01,741
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,both,2023-01-01,744
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2014-01-01,312
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2015-01-01,332
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2016-01-01,355
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2017-01-01,350
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2018-01-01,363
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2019-01-01,362
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2020-01-01,362
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2021-01-01,366
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2022-01-01,374
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,female,2023-01-01,383
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2014-01-01,314
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2015-01-01,325
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2016-01-01,346
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2017-01-01,355
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2018-01-01,356
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2019-01-01,357
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2020-01-01,354
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2021-01-01,363
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2022-01-01,367
+Pahang,Universiti Malaysia Pahang (UMPSA),citizen,male,2023-01-01,361
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2014-01-01,94
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2015-01-01,100
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2016-01-01,99
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2017-01-01,94
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2018-01-01,75
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2019-01-01,64
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2020-01-01,48
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2021-01-01,35
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2022-01-01,18
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,both,2023-01-01,14
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2014-01-01,13
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2015-01-01,11
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2016-01-01,12
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2017-01-01,12
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2018-01-01,8
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2019-01-01,8
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2020-01-01,5
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2021-01-01,4
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2022-01-01,1
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,female,2023-01-01,1
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2014-01-01,81
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2015-01-01,89
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2016-01-01,87
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2017-01-01,82
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2018-01-01,67
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2019-01-01,56
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2020-01-01,43
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2021-01-01,31
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2022-01-01,17
+Pahang,Universiti Malaysia Pahang (UMPSA),non_citizen,male,2023-01-01,13
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2014-01-01,857
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2015-01-01,850
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2016-01-01,832
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2017-01-01,891
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2018-01-01,864
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2019-01-01,875
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2020-01-01,872
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2021-01-01,876
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2022-01-01,852
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,both,2023-01-01,844
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2014-01-01,442
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2015-01-01,439
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2016-01-01,440
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2017-01-01,477
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2018-01-01,470
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2019-01-01,470
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2020-01-01,468
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2021-01-01,474
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2022-01-01,465
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,female,2023-01-01,464
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2014-01-01,415
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2015-01-01,411
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2016-01-01,392
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2017-01-01,414
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2018-01-01,394
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2019-01-01,405
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2020-01-01,404
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2021-01-01,402
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2022-01-01,387
+Perak,Universiti Pendidikan Sultan Idris (UPSI),all,male,2023-01-01,380
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2014-01-01,828
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2015-01-01,821
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2016-01-01,800
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2017-01-01,857
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2018-01-01,831
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2019-01-01,832
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2020-01-01,829
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2021-01-01,836
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2022-01-01,811
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,both,2023-01-01,806
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2014-01-01,430
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2015-01-01,428
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2016-01-01,429
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2017-01-01,465
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2018-01-01,461
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2019-01-01,460
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2020-01-01,459
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2021-01-01,465
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2022-01-01,455
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,female,2023-01-01,455
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2014-01-01,398
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2015-01-01,393
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2016-01-01,371
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2017-01-01,392
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2018-01-01,370
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2019-01-01,372
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2020-01-01,370
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2021-01-01,371
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2022-01-01,356
+Perak,Universiti Pendidikan Sultan Idris (UPSI),citizen,male,2023-01-01,351
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2014-01-01,29
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2015-01-01,29
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2016-01-01,32
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2017-01-01,34
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2018-01-01,33
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2019-01-01,43
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2020-01-01,43
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2021-01-01,40
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2022-01-01,41
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,both,2023-01-01,38
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2014-01-01,12
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2015-01-01,11
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2016-01-01,11
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2017-01-01,12
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2018-01-01,9
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2019-01-01,10
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2020-01-01,9
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2021-01-01,9
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2022-01-01,10
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,female,2023-01-01,9
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2014-01-01,17
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2015-01-01,18
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2016-01-01,21
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2017-01-01,22
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2018-01-01,24
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2019-01-01,33
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2020-01-01,34
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2021-01-01,31
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2022-01-01,31
+Perak,Universiti Pendidikan Sultan Idris (UPSI),non_citizen,male,2023-01-01,29
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2014-01-01,991
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2015-01-01,1050
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2016-01-01,1037
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2017-01-01,1061
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2018-01-01,1064
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2019-01-01,1095
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2020-01-01,1109
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2021-01-01,1123
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2022-01-01,1116
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,both,2023-01-01,1121
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2014-01-01,416
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2015-01-01,453
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2016-01-01,469
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2017-01-01,482
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2018-01-01,492
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2019-01-01,518
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2020-01-01,534
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2021-01-01,541
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2022-01-01,549
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,female,2023-01-01,557
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2014-01-01,575
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2015-01-01,597
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2016-01-01,568
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2017-01-01,579
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2018-01-01,572
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2019-01-01,577
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2020-01-01,575
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2021-01-01,582
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2022-01-01,567
+Perlis,Universiti Malaysia Perlis (UNIMAP),all,male,2023-01-01,564
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2014-01-01,920
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2015-01-01,983
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2016-01-01,998
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2017-01-01,1031
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2018-01-01,1042
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2019-01-01,1074
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2020-01-01,1095
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2021-01-01,1110
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2022-01-01,1104
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,both,2023-01-01,1105
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2014-01-01,405
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2015-01-01,441
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2016-01-01,460
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2017-01-01,476
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2018-01-01,487
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2019-01-01,513
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2020-01-01,530
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2021-01-01,537
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2022-01-01,546
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,female,2023-01-01,553
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2014-01-01,515
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2015-01-01,542
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2016-01-01,538
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2017-01-01,555
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2018-01-01,555
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2019-01-01,561
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2020-01-01,565
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2021-01-01,573
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2022-01-01,558
+Perlis,Universiti Malaysia Perlis (UNIMAP),citizen,male,2023-01-01,552
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2014-01-01,71
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2015-01-01,67
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2016-01-01,39
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2017-01-01,30
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2018-01-01,22
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2019-01-01,21
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2020-01-01,14
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2021-01-01,13
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2022-01-01,12
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,both,2023-01-01,16
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2014-01-01,11
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2015-01-01,12
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2016-01-01,9
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2017-01-01,6
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2018-01-01,5
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2019-01-01,5
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2020-01-01,4
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2021-01-01,4
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2022-01-01,3
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,female,2023-01-01,4
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2014-01-01,60
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2015-01-01,55
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2016-01-01,30
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2017-01-01,24
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2018-01-01,17
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2019-01-01,16
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2020-01-01,10
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2021-01-01,9
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2022-01-01,9
+Perlis,Universiti Malaysia Perlis (UNIMAP),non_citizen,male,2023-01-01,12
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2014-01-01,1933
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2015-01-01,1963
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2016-01-01,1961
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2017-01-01,1983
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2018-01-01,2050
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2019-01-01,2077
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2020-01-01,2064
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2021-01-01,2036
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2022-01-01,2012
+Pulau Pinang,Universiti Sains Malaysia (USM),all,both,2023-01-01,1983
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2014-01-01,939
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2015-01-01,970
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2016-01-01,1017
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2017-01-01,1039
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2018-01-01,1093
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2019-01-01,1106
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2020-01-01,1111
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2021-01-01,1105
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2022-01-01,1097
+Pulau Pinang,Universiti Sains Malaysia (USM),all,female,2023-01-01,1102
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2014-01-01,994
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2015-01-01,993
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2016-01-01,944
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2017-01-01,944
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2018-01-01,957
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2019-01-01,971
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2020-01-01,953
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2021-01-01,931
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2022-01-01,915
+Pulau Pinang,Universiti Sains Malaysia (USM),all,male,2023-01-01,881
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2014-01-01,1821
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2015-01-01,1861
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2016-01-01,1908
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2017-01-01,1938
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2018-01-01,2001
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2019-01-01,2020
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2020-01-01,1997
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2021-01-01,1972
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2022-01-01,1943
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,both,2023-01-01,1918
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2014-01-01,910
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2015-01-01,943
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2016-01-01,1003
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2017-01-01,1031
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2018-01-01,1084
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2019-01-01,1094
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2020-01-01,1098
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2021-01-01,1093
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2022-01-01,1084
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,female,2023-01-01,1087
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2014-01-01,911
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2015-01-01,918
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2016-01-01,905
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2017-01-01,907
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2018-01-01,917
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2019-01-01,926
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2020-01-01,899
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2021-01-01,879
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2022-01-01,859
+Pulau Pinang,Universiti Sains Malaysia (USM),citizen,male,2023-01-01,831
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2014-01-01,112
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2015-01-01,102
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2016-01-01,53
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2017-01-01,45
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2018-01-01,49
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2019-01-01,57
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2020-01-01,67
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2021-01-01,64
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2022-01-01,69
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,both,2023-01-01,65
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2014-01-01,29
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2015-01-01,27
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2016-01-01,14
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2017-01-01,8
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2018-01-01,9
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2019-01-01,12
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2020-01-01,13
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2021-01-01,12
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2022-01-01,13
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,female,2023-01-01,15
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2014-01-01,83
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2015-01-01,75
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2016-01-01,39
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2017-01-01,37
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2018-01-01,40
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2019-01-01,45
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2020-01-01,54
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2021-01-01,52
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2022-01-01,56
+Pulau Pinang,Universiti Sains Malaysia (USM),non_citizen,male,2023-01-01,50
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2014-01-01,944
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2015-01-01,1063
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2016-01-01,1104
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2017-01-01,1064
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2018-01-01,1085
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2019-01-01,1082
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2020-01-01,1042
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2021-01-01,1062
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2022-01-01,1068
+Sabah,Universiti Malaysia Sabah (UMS),all,both,2023-01-01,1101
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2014-01-01,455
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2015-01-01,524
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2016-01-01,537
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2017-01-01,518
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2018-01-01,529
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2019-01-01,527
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2020-01-01,528
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2021-01-01,541
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2022-01-01,545
+Sabah,Universiti Malaysia Sabah (UMS),all,female,2023-01-01,562
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2014-01-01,489
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2015-01-01,539
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2016-01-01,567
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2017-01-01,546
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2018-01-01,556
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2019-01-01,555
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2020-01-01,514
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2021-01-01,521
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2022-01-01,523
+Sabah,Universiti Malaysia Sabah (UMS),all,male,2023-01-01,539
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2014-01-01,829
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2015-01-01,930
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2016-01-01,976
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2017-01-01,951
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2018-01-01,984
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2019-01-01,992
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2020-01-01,966
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2021-01-01,995
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2022-01-01,1008
+Sabah,Universiti Malaysia Sabah (UMS),citizen,both,2023-01-01,1043
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2014-01-01,411
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2015-01-01,468
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2016-01-01,488
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2017-01-01,478
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2018-01-01,496
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2019-01-01,500
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2020-01-01,502
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2021-01-01,520
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2022-01-01,531
+Sabah,Universiti Malaysia Sabah (UMS),citizen,female,2023-01-01,549
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2014-01-01,418
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2015-01-01,462
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2016-01-01,488
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2017-01-01,473
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2018-01-01,488
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2019-01-01,492
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2020-01-01,464
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2021-01-01,475
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2022-01-01,477
+Sabah,Universiti Malaysia Sabah (UMS),citizen,male,2023-01-01,494
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2014-01-01,115
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2015-01-01,133
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2016-01-01,128
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2017-01-01,113
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2018-01-01,101
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2019-01-01,90
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2020-01-01,76
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2021-01-01,67
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2022-01-01,60
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,both,2023-01-01,58
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2014-01-01,44
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2015-01-01,56
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2016-01-01,49
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2017-01-01,40
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2018-01-01,33
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2019-01-01,27
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2020-01-01,26
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2021-01-01,21
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2022-01-01,14
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,female,2023-01-01,13
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2014-01-01,71
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2015-01-01,77
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2016-01-01,79
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2017-01-01,73
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2018-01-01,68
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2019-01-01,63
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2020-01-01,50
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2021-01-01,46
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2022-01-01,46
+Sabah,Universiti Malaysia Sabah (UMS),non_citizen,male,2023-01-01,45
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2014-01-01,877
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2015-01-01,839
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2016-01-01,877
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2017-01-01,854
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2018-01-01,827
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2019-01-01,838
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2020-01-01,830
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2021-01-01,822
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2022-01-01,833
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,both,2023-01-01,867
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2014-01-01,433
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2015-01-01,430
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2016-01-01,449
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2017-01-01,444
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2018-01-01,432
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2019-01-01,446
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2020-01-01,446
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2021-01-01,440
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2022-01-01,450
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,female,2023-01-01,466
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2014-01-01,444
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2015-01-01,409
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2016-01-01,428
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2017-01-01,410
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2018-01-01,395
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2019-01-01,392
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2020-01-01,384
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2021-01-01,382
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2022-01-01,383
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),all,male,2023-01-01,401
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2014-01-01,764
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2015-01-01,757
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2016-01-01,785
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2017-01-01,780
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2018-01-01,757
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2019-01-01,772
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2020-01-01,772
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2021-01-01,770
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2022-01-01,791
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,both,2023-01-01,822
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2014-01-01,394
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2015-01-01,397
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2016-01-01,417
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2017-01-01,418
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2018-01-01,406
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2019-01-01,422
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2020-01-01,425
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2021-01-01,419
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2022-01-01,434
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,female,2023-01-01,450
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2014-01-01,370
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2015-01-01,360
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2016-01-01,368
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2017-01-01,362
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2018-01-01,351
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2019-01-01,350
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2020-01-01,347
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2021-01-01,351
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2022-01-01,357
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),citizen,male,2023-01-01,372
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2014-01-01,113
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2015-01-01,82
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2016-01-01,92
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2017-01-01,74
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2018-01-01,70
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2019-01-01,66
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2020-01-01,58
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2021-01-01,52
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2022-01-01,42
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,both,2023-01-01,45
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2014-01-01,39
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2015-01-01,33
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2016-01-01,32
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2017-01-01,26
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2018-01-01,26
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2019-01-01,24
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2020-01-01,21
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2021-01-01,21
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2022-01-01,16
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,female,2023-01-01,16
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2014-01-01,74
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2015-01-01,49
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2016-01-01,60
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2017-01-01,48
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2018-01-01,44
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2019-01-01,42
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2020-01-01,37
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2021-01-01,31
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2022-01-01,26
+Sarawak,Universiti Malaysia Sarawak (UNIMAS),non_citizen,male,2023-01-01,29
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2014-01-01,1918
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2015-01-01,1926
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2016-01-01,1955
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2017-01-01,2005
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2018-01-01,2074
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2019-01-01,2176
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2020-01-01,1979
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2021-01-01,1960
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2022-01-01,2009
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,both,2023-01-01,2064
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2014-01-01,1005
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2015-01-01,1014
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2016-01-01,1041
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2017-01-01,1069
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2018-01-01,1109
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2019-01-01,1158
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2020-01-01,1108
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2021-01-01,1097
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2022-01-01,1119
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,female,2023-01-01,1148
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2014-01-01,913
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2015-01-01,912
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2016-01-01,914
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2017-01-01,936
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2018-01-01,965
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2019-01-01,1018
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2020-01-01,871
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2021-01-01,863
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2022-01-01,890
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),all,male,2023-01-01,916
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2014-01-01,1569
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2015-01-01,1586
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2016-01-01,1639
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2017-01-01,1694
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2018-01-01,1745
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2019-01-01,1818
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2020-01-01,1744
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2021-01-01,1738
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2022-01-01,1773
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,both,2023-01-01,1823
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2014-01-01,955
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2015-01-01,964
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2016-01-01,996
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2017-01-01,1025
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2018-01-01,1061
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2019-01-01,1102
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2020-01-01,1070
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2021-01-01,1063
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2022-01-01,1081
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,female,2023-01-01,1111
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2014-01-01,614
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2015-01-01,622
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2016-01-01,643
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2017-01-01,669
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2018-01-01,684
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2019-01-01,716
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2020-01-01,674
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2021-01-01,675
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2022-01-01,692
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),citizen,male,2023-01-01,712
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2014-01-01,349
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2015-01-01,340
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2016-01-01,316
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2017-01-01,311
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2018-01-01,329
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2019-01-01,358
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2020-01-01,235
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2021-01-01,222
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2022-01-01,236
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,both,2023-01-01,241
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2014-01-01,50
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2015-01-01,50
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2016-01-01,45
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2017-01-01,44
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2018-01-01,48
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2019-01-01,56
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2020-01-01,38
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2021-01-01,34
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2022-01-01,38
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,female,2023-01-01,37
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2014-01-01,299
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2015-01-01,290
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2016-01-01,271
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2017-01-01,267
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2018-01-01,281
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2019-01-01,302
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2020-01-01,197
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2021-01-01,188
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2022-01-01,198
+Selangor,Universiti Islam Antarabangsa Malaysia (UIAM),non_citizen,male,2023-01-01,204
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2014-01-01,2365
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2015-01-01,2159
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2016-01-01,2163
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2017-01-01,2163
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2018-01-01,2103
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2019-01-01,2005
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2020-01-01,2094
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2021-01-01,2041
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2022-01-01,1999
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,both,2023-01-01,1990
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2014-01-01,1273
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2015-01-01,1198
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2016-01-01,1208
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2017-01-01,1211
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2018-01-01,1172
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2019-01-01,1124
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2020-01-01,1160
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2021-01-01,1146
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2022-01-01,1131
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,female,2023-01-01,1146
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2014-01-01,1092
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2015-01-01,961
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2016-01-01,955
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2017-01-01,952
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2018-01-01,931
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2019-01-01,881
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2020-01-01,934
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2021-01-01,895
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2022-01-01,868
+Selangor,Universiti Kebangsaan Malaysia (UKM),all,male,2023-01-01,844
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2014-01-01,2278
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2015-01-01,2102
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2016-01-01,2117
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2017-01-01,2125
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2018-01-01,2068
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2019-01-01,1980
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2020-01-01,2024
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2021-01-01,1982
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2022-01-01,1954
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,both,2023-01-01,1957
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2014-01-01,1252
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2015-01-01,1183
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2016-01-01,1198
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2017-01-01,1202
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2018-01-01,1164
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2019-01-01,1117
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2020-01-01,1148
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2021-01-01,1136
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2022-01-01,1127
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,female,2023-01-01,1144
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2014-01-01,1026
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2015-01-01,919
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2016-01-01,919
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2017-01-01,923
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2018-01-01,904
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2019-01-01,863
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2020-01-01,876
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2021-01-01,846
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2022-01-01,827
+Selangor,Universiti Kebangsaan Malaysia (UKM),citizen,male,2023-01-01,813
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2014-01-01,87
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2015-01-01,57
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2016-01-01,46
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2017-01-01,38
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2018-01-01,35
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2019-01-01,25
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2020-01-01,70
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2021-01-01,59
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2022-01-01,45
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,both,2023-01-01,33
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2014-01-01,21
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2015-01-01,15
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2016-01-01,10
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2017-01-01,9
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2018-01-01,8
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2019-01-01,7
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2020-01-01,12
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2021-01-01,10
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2022-01-01,4
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,female,2023-01-01,2
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2014-01-01,66
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2015-01-01,42
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2016-01-01,36
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2017-01-01,29
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2018-01-01,27
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2019-01-01,18
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2020-01-01,58
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2021-01-01,49
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2022-01-01,41
+Selangor,Universiti Kebangsaan Malaysia (UKM),non_citizen,male,2023-01-01,31
+Selangor,Universiti Putra Malaysia (UPM),all,both,2014-01-01,1810
+Selangor,Universiti Putra Malaysia (UPM),all,both,2015-01-01,1812
+Selangor,Universiti Putra Malaysia (UPM),all,both,2016-01-01,1770
+Selangor,Universiti Putra Malaysia (UPM),all,both,2017-01-01,1873
+Selangor,Universiti Putra Malaysia (UPM),all,both,2018-01-01,1854
+Selangor,Universiti Putra Malaysia (UPM),all,both,2019-01-01,1889
+Selangor,Universiti Putra Malaysia (UPM),all,both,2020-01-01,1837
+Selangor,Universiti Putra Malaysia (UPM),all,both,2021-01-01,1830
+Selangor,Universiti Putra Malaysia (UPM),all,both,2022-01-01,1792
+Selangor,Universiti Putra Malaysia (UPM),all,both,2023-01-01,1795
+Selangor,Universiti Putra Malaysia (UPM),all,female,2014-01-01,890
+Selangor,Universiti Putra Malaysia (UPM),all,female,2015-01-01,905
+Selangor,Universiti Putra Malaysia (UPM),all,female,2016-01-01,900
+Selangor,Universiti Putra Malaysia (UPM),all,female,2017-01-01,1018
+Selangor,Universiti Putra Malaysia (UPM),all,female,2018-01-01,1023
+Selangor,Universiti Putra Malaysia (UPM),all,female,2019-01-01,1068
+Selangor,Universiti Putra Malaysia (UPM),all,female,2020-01-01,1060
+Selangor,Universiti Putra Malaysia (UPM),all,female,2021-01-01,1057
+Selangor,Universiti Putra Malaysia (UPM),all,female,2022-01-01,1054
+Selangor,Universiti Putra Malaysia (UPM),all,female,2023-01-01,1048
+Selangor,Universiti Putra Malaysia (UPM),all,male,2014-01-01,920
+Selangor,Universiti Putra Malaysia (UPM),all,male,2015-01-01,907
+Selangor,Universiti Putra Malaysia (UPM),all,male,2016-01-01,870
+Selangor,Universiti Putra Malaysia (UPM),all,male,2017-01-01,855
+Selangor,Universiti Putra Malaysia (UPM),all,male,2018-01-01,831
+Selangor,Universiti Putra Malaysia (UPM),all,male,2019-01-01,821
+Selangor,Universiti Putra Malaysia (UPM),all,male,2020-01-01,777
+Selangor,Universiti Putra Malaysia (UPM),all,male,2021-01-01,773
+Selangor,Universiti Putra Malaysia (UPM),all,male,2022-01-01,738
+Selangor,Universiti Putra Malaysia (UPM),all,male,2023-01-01,747
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2014-01-01,1629
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2015-01-01,1646
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2016-01-01,1648
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2017-01-01,1781
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2018-01-01,1778
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2019-01-01,1831
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2020-01-01,1806
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2021-01-01,1799
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2022-01-01,1759
+Selangor,Universiti Putra Malaysia (UPM),citizen,both,2023-01-01,1762
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2014-01-01,850
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2015-01-01,868
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2016-01-01,871
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2017-01-01,995
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2018-01-01,1007
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2019-01-01,1056
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2020-01-01,1056
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2021-01-01,1052
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2022-01-01,1048
+Selangor,Universiti Putra Malaysia (UPM),citizen,female,2023-01-01,1040
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2014-01-01,779
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2015-01-01,778
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2016-01-01,777
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2017-01-01,786
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2018-01-01,771
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2019-01-01,775
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2020-01-01,750
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2021-01-01,747
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2022-01-01,711
+Selangor,Universiti Putra Malaysia (UPM),citizen,male,2023-01-01,722
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2014-01-01,181
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2015-01-01,166
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2016-01-01,122
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2017-01-01,92
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2018-01-01,76
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2019-01-01,58
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2020-01-01,31
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2021-01-01,31
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2022-01-01,33
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,both,2023-01-01,33
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2014-01-01,40
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2015-01-01,37
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2016-01-01,29
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2017-01-01,23
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2018-01-01,16
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2019-01-01,12
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2020-01-01,4
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2021-01-01,5
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2022-01-01,6
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,female,2023-01-01,8
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2014-01-01,141
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2015-01-01,129
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2016-01-01,93
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2017-01-01,69
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2018-01-01,60
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2019-01-01,46
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2020-01-01,27
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2021-01-01,26
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2022-01-01,27
+Selangor,Universiti Putra Malaysia (UPM),non_citizen,male,2023-01-01,25
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2014-01-01,8898
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2015-01-01,8975
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2016-01-01,8860
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2017-01-01,8756
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2018-01-01,8659
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2019-01-01,8625
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2020-01-01,8904
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2021-01-01,8957
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2022-01-01,8912
+Selangor,Universiti Teknologi MARA (UiTM),all,both,2023-01-01,8909
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2014-01-01,5708
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2015-01-01,5807
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2016-01-01,5783
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2017-01-01,5744
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2018-01-01,5690
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2019-01-01,5686
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2020-01-01,5883
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2021-01-01,5964
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2022-01-01,5964
+Selangor,Universiti Teknologi MARA (UiTM),all,female,2023-01-01,5973
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2014-01-01,3190
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2015-01-01,3168
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2016-01-01,3077
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2017-01-01,3012
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2018-01-01,2969
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2019-01-01,2939
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2020-01-01,3021
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2021-01-01,2993
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2022-01-01,2948
+Selangor,Universiti Teknologi MARA (UiTM),all,male,2023-01-01,2936
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2014-01-01,8602
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2015-01-01,8703
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2016-01-01,8779
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2017-01-01,8695
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2018-01-01,8603
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2019-01-01,8565
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2020-01-01,8849
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2021-01-01,8908
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2022-01-01,8864
+Selangor,Universiti Teknologi MARA (UiTM),citizen,both,2023-01-01,8848
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2014-01-01,5546
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2015-01-01,5656
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2016-01-01,5757
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2017-01-01,5727
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2018-01-01,5674
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2019-01-01,5672
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2020-01-01,5869
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2021-01-01,5951
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2022-01-01,5950
+Selangor,Universiti Teknologi MARA (UiTM),citizen,female,2023-01-01,5954
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2014-01-01,3056
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2015-01-01,3047
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2016-01-01,3022
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2017-01-01,2968
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2018-01-01,2929
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2019-01-01,2893
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2020-01-01,2980
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2021-01-01,2957
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2022-01-01,2914
+Selangor,Universiti Teknologi MARA (UiTM),citizen,male,2023-01-01,2894
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2014-01-01,296
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2015-01-01,272
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2016-01-01,81
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2017-01-01,61
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2018-01-01,56
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2019-01-01,60
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2020-01-01,55
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2021-01-01,49
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2022-01-01,48
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,both,2023-01-01,61
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2014-01-01,162
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2015-01-01,151
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2016-01-01,26
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2017-01-01,17
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2018-01-01,16
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2019-01-01,14
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2020-01-01,14
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2021-01-01,13
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2022-01-01,14
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,female,2023-01-01,19
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2014-01-01,134
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2015-01-01,121
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2016-01-01,55
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2017-01-01,44
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2018-01-01,40
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2019-01-01,46
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2020-01-01,41
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2021-01-01,36
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2022-01-01,34
+Selangor,Universiti Teknologi MARA (UiTM),non_citizen,male,2023-01-01,42
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2014-01-01,593
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2015-01-01,595
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2016-01-01,636
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2017-01-01,625
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2018-01-01,691
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2019-01-01,699
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2020-01-01,668
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2021-01-01,671
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2022-01-01,695
+Terengganu,Universiti Malaysia Terengganu (UMT),all,both,2023-01-01,647
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2014-01-01,327
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2015-01-01,327
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2016-01-01,363
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2017-01-01,363
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2018-01-01,380
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2019-01-01,383
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2020-01-01,376
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2021-01-01,388
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2022-01-01,399
+Terengganu,Universiti Malaysia Terengganu (UMT),all,female,2023-01-01,387
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2014-01-01,266
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2015-01-01,268
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2016-01-01,273
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2017-01-01,262
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2018-01-01,311
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2019-01-01,316
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2020-01-01,292
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2021-01-01,283
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2022-01-01,296
+Terengganu,Universiti Malaysia Terengganu (UMT),all,male,2023-01-01,260
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2014-01-01,560
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2015-01-01,567
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2016-01-01,611
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2017-01-01,610
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2018-01-01,637
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2019-01-01,635
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2020-01-01,616
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2021-01-01,629
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2022-01-01,641
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,both,2023-01-01,608
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2014-01-01,320
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2015-01-01,323
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2016-01-01,357
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2017-01-01,360
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2018-01-01,371
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2019-01-01,372
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2020-01-01,366
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2021-01-01,379
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2022-01-01,387
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,female,2023-01-01,377
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2014-01-01,240
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2015-01-01,244
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2016-01-01,254
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2017-01-01,250
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2018-01-01,266
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2019-01-01,263
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2020-01-01,250
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2021-01-01,250
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2022-01-01,254
+Terengganu,Universiti Malaysia Terengganu (UMT),citizen,male,2023-01-01,231
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2014-01-01,33
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2015-01-01,28
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2016-01-01,25
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2017-01-01,15
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2018-01-01,54
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2019-01-01,64
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2020-01-01,52
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2021-01-01,42
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2022-01-01,54
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,both,2023-01-01,39
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2014-01-01,7
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2015-01-01,4
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2016-01-01,6
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2017-01-01,3
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2018-01-01,9
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2019-01-01,11
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2020-01-01,10
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2021-01-01,9
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2022-01-01,12
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,female,2023-01-01,10
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2014-01-01,26
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2015-01-01,24
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2016-01-01,19
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2017-01-01,12
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2018-01-01,45
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2019-01-01,53
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2020-01-01,42
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2021-01-01,33
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2022-01-01,42
+Terengganu,Universiti Malaysia Terengganu (UMT),non_citizen,male,2023-01-01,29
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2014-01-01,638
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2015-01-01,655
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2016-01-01,631
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2017-01-01,630
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2018-01-01,637
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2019-01-01,711
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2020-01-01,711
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2021-01-01,715
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2022-01-01,743
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,both,2023-01-01,773
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2014-01-01,302
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2015-01-01,316
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2016-01-01,308
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2017-01-01,316
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2018-01-01,321
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2019-01-01,377
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2020-01-01,383
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2021-01-01,386
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2022-01-01,396
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,female,2023-01-01,415
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2014-01-01,336
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2015-01-01,339
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2016-01-01,323
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2017-01-01,314
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2018-01-01,316
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2019-01-01,334
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2020-01-01,328
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2021-01-01,329
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2022-01-01,347
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),all,male,2023-01-01,358
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2014-01-01,563
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2015-01-01,584
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2016-01-01,572
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2017-01-01,573
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2018-01-01,578
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2019-01-01,656
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2020-01-01,655
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2021-01-01,660
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2022-01-01,685
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,both,2023-01-01,714
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2014-01-01,282
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2015-01-01,298
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2016-01-01,296
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2017-01-01,304
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2018-01-01,308
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2019-01-01,364
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2020-01-01,369
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2021-01-01,372
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2022-01-01,382
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,female,2023-01-01,401
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2014-01-01,281
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2015-01-01,286
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2016-01-01,276
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2017-01-01,269
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2018-01-01,270
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2019-01-01,292
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2020-01-01,286
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2021-01-01,288
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2022-01-01,303
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),citizen,male,2023-01-01,313
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2014-01-01,75
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2015-01-01,71
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2016-01-01,59
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2017-01-01,57
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2018-01-01,59
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2019-01-01,55
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2020-01-01,56
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2021-01-01,55
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2022-01-01,58
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,both,2023-01-01,59
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2014-01-01,20
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2015-01-01,18
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2016-01-01,12
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2017-01-01,12
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2018-01-01,13
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2019-01-01,13
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2020-01-01,14
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2021-01-01,14
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2022-01-01,14
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,female,2023-01-01,14
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2014-01-01,55
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2015-01-01,53
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2016-01-01,47
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2017-01-01,45
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2018-01-01,46
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2019-01-01,42
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2020-01-01,42
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2021-01-01,41
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2022-01-01,44
+Terengganu,Universiti Sultan Zainal Abidin (UniSZA),non_citizen,male,2023-01-01,45
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2014-01-01,2466
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2015-01-01,2177
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2016-01-01,2237
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2017-01-01,2211
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2018-01-01,2082
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2019-01-01,2102
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2020-01-01,2045
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2021-01-01,2088
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2022-01-01,2037
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,both,2023-01-01,2194
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2014-01-01,1192
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2015-01-01,1101
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2016-01-01,1154
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2017-01-01,1168
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2018-01-01,1141
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2019-01-01,1143
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2020-01-01,1114
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2021-01-01,1146
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2022-01-01,1115
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,female,2023-01-01,1189
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2014-01-01,1274
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2015-01-01,1076
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2016-01-01,1083
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2017-01-01,1043
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2018-01-01,941
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2019-01-01,959
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2020-01-01,931
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2021-01-01,942
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2022-01-01,922
+W.P. Kuala Lumpur,Universiti Malaya (UM),all,male,2023-01-01,1005
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2014-01-01,2055
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2015-01-01,1896
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2016-01-01,1951
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2017-01-01,1939
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2018-01-01,1882
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2019-01-01,1870
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2020-01-01,1839
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2021-01-01,1891
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2022-01-01,1843
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,both,2023-01-01,1933
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2014-01-01,1097
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2015-01-01,1026
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2016-01-01,1076
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2017-01-01,1080
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2018-01-01,1077
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2019-01-01,1067
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2020-01-01,1053
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2021-01-01,1086
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2022-01-01,1051
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,female,2023-01-01,1103
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2014-01-01,958
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2015-01-01,870
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2016-01-01,875
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2017-01-01,859
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2018-01-01,805
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2019-01-01,803
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2020-01-01,786
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2021-01-01,805
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2022-01-01,792
+W.P. Kuala Lumpur,Universiti Malaya (UM),citizen,male,2023-01-01,830
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2014-01-01,411
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2015-01-01,281
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2016-01-01,286
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2017-01-01,272
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2018-01-01,200
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2019-01-01,232
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2020-01-01,206
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2021-01-01,197
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2022-01-01,194
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,both,2023-01-01,261
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2014-01-01,95
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2015-01-01,75
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2016-01-01,78
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2017-01-01,88
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2018-01-01,64
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2019-01-01,76
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2020-01-01,61
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2021-01-01,60
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2022-01-01,64
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,female,2023-01-01,86
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2014-01-01,316
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2015-01-01,206
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2016-01-01,208
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2017-01-01,184
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2018-01-01,136
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2019-01-01,156
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2020-01-01,145
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2021-01-01,137
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2022-01-01,130
+W.P. Kuala Lumpur,Universiti Malaya (UM),non_citizen,male,2023-01-01,175
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2014-01-01,334
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2015-01-01,366
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2016-01-01,386
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2017-01-01,389
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2018-01-01,388
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2019-01-01,389
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2020-01-01,382
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2021-01-01,401
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2022-01-01,391
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,both,2023-01-01,392
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2014-01-01,164
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2015-01-01,187
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2016-01-01,198
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2017-01-01,198
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2018-01-01,201
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2019-01-01,201
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2020-01-01,198
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2021-01-01,210
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2022-01-01,206
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,female,2023-01-01,209
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2014-01-01,170
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2015-01-01,179
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2016-01-01,188
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2017-01-01,191
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2018-01-01,187
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2019-01-01,188
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2020-01-01,184
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2021-01-01,191
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2022-01-01,185
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),all,male,2023-01-01,183
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2014-01-01,321
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2015-01-01,349
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2016-01-01,361
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2017-01-01,367
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2018-01-01,372
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2019-01-01,375
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2020-01-01,372
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2021-01-01,392
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2022-01-01,386
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,both,2023-01-01,387
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2014-01-01,160
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2015-01-01,182
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2016-01-01,191
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2017-01-01,192
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2018-01-01,198
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2019-01-01,198
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2020-01-01,196
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2021-01-01,208
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2022-01-01,206
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,female,2023-01-01,209
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2014-01-01,161
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2015-01-01,167
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2016-01-01,170
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2017-01-01,175
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2018-01-01,174
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2019-01-01,177
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2020-01-01,176
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2021-01-01,184
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2022-01-01,180
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),citizen,male,2023-01-01,178
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2014-01-01,13
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2015-01-01,17
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2016-01-01,25
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2017-01-01,22
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2018-01-01,16
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2019-01-01,14
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2020-01-01,10
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2021-01-01,9
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2022-01-01,5
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,both,2023-01-01,5
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2014-01-01,4
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2015-01-01,5
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2016-01-01,7
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2017-01-01,6
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2018-01-01,3
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2019-01-01,3
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2020-01-01,2
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2021-01-01,2
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2022-01-01,0
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,female,2023-01-01,0
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2014-01-01,9
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2015-01-01,12
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2016-01-01,18
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2017-01-01,16
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2018-01-01,13
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2019-01-01,11
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2020-01-01,8
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2021-01-01,7
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2022-01-01,5
+W.P. Kuala Lumpur,Universiti Pertahanan Nasional Malaysia (UPNM),non_citizen,male,2023-01-01,5
