@@ -1,0 +1,61 @@
+{
+ "id": "lookup_premise",
+ "title": "PriceCatcher: Premise Lookup",
+ "description": "Lookup table, to be left-joined against premise code in the main PriceCatcher data.",
+ "data_as_of": "2026-09-07 23:59",
+ "last_updated": "2026-09-08 12:00",
+ "next_update": "—",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "KPDN",
+  "DOSM"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.data.gov.my/pricecatcher/lookup_premise.csv",
+ "link_parquet": "https://storage.data.gov.my/pricecatcher/lookup_premise.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "premise_code",
+   "title": "Premise Code",
+   "description": "[Integer] Column for left-join"
+  },
+  {
+   "name": "premise",
+   "title": "Premise",
+   "description": "[Categorical] Name of premise"
+  },
+  {
+   "name": "address",
+   "title": "Address",
+   "description": "[String] Full address"
+  },
+  {
+   "name": "premise_type",
+   "title": "Premise Type",
+   "description": "[Categorical] Type of premise"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] Name of state"
+  },
+  {
+   "name": "district",
+   "title": "District",
+   "description": "[Categorical] Name of district"
+  }
+ ],
+ "methodology": " Prices are collected and verified by groundstaff on a daily basis, with over 2 million prices collected every month.",
+ "caveat": "This data is collected for the purpose of price surveillance, and is excellent for high-frequency analysis of specific items in specific locations. Inflation surveillance requires a different approach, in particular to ensure proper representativeness. Inflation analysis should be conducted using DOSM's CPI data.",
+ "publication": "—",
+ "params": {
+  "id": "lookup_premise"
+ },
+ "query": {
+  "id": "lookup_premise"
+ },
+ "agency": "KPDN,DOSM",
+ "category": null
+}

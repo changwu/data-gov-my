@@ -1,0 +1,60 @@
+{
+ "id": "teachers_district",
+ "title": "Teachers in Government Schools by District",
+ "description": "Number of teachers in primary and secondary government schools at national, state, and district level.",
+ "data_as_of": "2025",
+ "last_updated": "2026-08-03 12:00",
+ "next_update": "—",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOE"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/education/teachers_district.csv",
+ "link_parquet": "https://storage.data.gov.my/education/teachers_district.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia for national-level data"
+  },
+  {
+   "name": "district",
+   "title": "District",
+   "description": "[Categorical] One of the administrative districts, or 'All Districts' for state-level data"
+  },
+  {
+   "name": "stage",
+   "title": "School Stage",
+   "description": "[Categorical] Either primary or secondary education"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes ('both'), male ('male'), or female ('female')"
+  },
+  {
+   "name": "teachers",
+   "title": "Number of Teachers",
+   "description": "[Integer] Number of teachers"
+  }
+ ],
+ "methodology": "This dataset is tabulated from individual-level administrative records maintained by the Ministry of Education Malaysia via the Education Management Information System (EMIS).",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "teachers_district"
+ },
+ "query": {
+  "id": "teachers_district"
+ },
+ "agency": "MOE",
+ "category": null
+}

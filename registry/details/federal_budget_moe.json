@@ -1,0 +1,45 @@
+{
+ "id": "federal_budget_moe",
+ "title": "Annual Budget Allocation for the Ministry of Education",
+ "description": "Annual federal budget allocated to the Ministry of Education (B/P.63) with a breakdown by expenditure categories, including development expenditure (DE) and operating expenditure (OE).",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "—",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOF"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/budget_allocation_moe.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/budget_allocation_moe.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "category",
+   "title": "Expenditure Category",
+   "description": "[Categorical] The category of expenditure; either development expenditure (DE), operating expenditure (OE), or a more detailed OE breakdown covering Emoluments (oe_10000), Services and Supplies (oe_20000), Assets (oe_30000), Fixed Payments (oe_40000), and Other Expenditures (oe_50000)."
+  },
+  {
+   "name": "allocation",
+   "title": "Allocation",
+   "description": "[Integer] Budgeted expenditure for the given category"
+  }
+ ],
+ "methodology": "This dataset is produced from the [Budget Book tabled in Parliament](https://belanjawan.mof.gov.my/pdf/belanjawan2024/perbelanjaan/BP.63.pdf) and subsequently published by the Ministry of Finance. Categorisation of expenditure is based on the [Classification Codes for Revenue and Expenditure](https://storage.data.gov.my/publicadmin/penjenisan_kod.pdf) published by the Federal Treasury.",
+ "caveat": "This data reflects budgeted rather than actual expenditures.",
+ "publication": "—",
+ "params": {
+  "id": "federal_budget_moe"
+ },
+ "query": {
+  "id": "federal_budget_moe"
+ },
+ "agency": "MOF",
+ "category": null
+}

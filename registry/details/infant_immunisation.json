@@ -1,0 +1,45 @@
+{
+ "id": "infant_immunisation",
+ "title": "Infant Immunisation Coverage",
+ "description": "Annual infant immunisation coverage rates at national level.",
+ "data_as_of": "2023",
+ "last_updated": "2024-11-20 12:00",
+ "next_update": "2025-11-30 12:00",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/infant_immunisation.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/infant_immunisation.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The year of the immunisation data in YYYY-MM-DD format, with MM-DD set to 01-01 because the data is annual."
+  },
+  {
+   "name": "disease",
+   "title": "Disease",
+   "description": "[Categorical] The disease for which immunisation coverage is reported, such as measles, MMR, DPT, Hepatitis B, or polio."
+  },
+  {
+   "name": "rate",
+   "title": "Coverage Rate (%)",
+   "description": "[Float] The immunisation coverage rate as a percentage."
+  }
+ ],
+ "methodology": "This data is derived by comparing aggregate records showing the number of infants immunised against each disease against official population estimates from the Department of Statistics Malaysia.",
+ "caveat": "Coverage data for measles after 2015 is not provided as Malaysia transitioned fully to vaccination against MMR (measles, mumps, rubella). The declining coverage against measles should therefore be interpreted together with the rising coverage for MMR in order to obtain a holistic picture, rather than as a decline in measles coverage. Furthermore, because the coverage rates are derived from aggregated data rather than individual records indexed by birth certificate number, coverage rates may exceed 100% if the number of infants immunised is greater than the official population estimates.",
+ "publication": "—",
+ "params": {
+  "id": "infant_immunisation"
+ },
+ "query": {
+  "id": "infant_immunisation"
+ },
+ "agency": "MOH",
+ "category": null
+}

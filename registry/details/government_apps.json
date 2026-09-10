@@ -1,0 +1,66 @@
+{
+ "id": "government_apps",
+ "title": "Transactional Data: Official Government Mobile Applications",
+ "description": "List of official government mobile applications registered with GAMMA, including their names, platforms, date of publication and purpose.",
+ "data_as_of": "2026-04-21 23:59",
+ "last_updated": "2026-04-22 02:00",
+ "next_update": "2026-04-23 02:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "JDN",
+  "KD"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/government_apps.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/government_apps.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "app_id",
+   "title": "Application ID",
+   "description": "[Integer] Unique identifier for each government mobile application; this is intended as a lookup reference only, and has no external meaning."
+  },
+  {
+   "name": "app_name",
+   "title": "Application Name",
+   "description": "[String] The official name of the government mobile application."
+  },
+  {
+   "name": "app_os_platform",
+   "title": "Operating System Platform",
+   "description": "[Categorical] The operating system platform for the application: Android, iOS, or Huawei."
+  },
+  {
+   "name": "released",
+   "title": "Released Date",
+   "description": "[Date] The date when the application was first published to the app store for that OS, in YYYY-MM-DD format."
+  },
+  {
+   "name": "last_updated",
+   "title": "Last Updated Date",
+   "description": "[Date] The date when the application was last updated on the app store for that OS, in YYYY-MM-DD format."
+  },
+  {
+   "name": "shutdown",
+   "title": "Shutdown",
+   "description": "[Date] The date when the application was shutdown or removed from the app store, in YYYY-MM-DD format. Null if still active."
+  },
+  {
+   "name": "purpose",
+   "title": "Purpose",
+   "description": "[String] Description of the application's purpose and functionality."
+  }
+ ],
+ "methodology": "Under the standards specified by the National Digital Department (JDN), all government mobile applications must be registered with the Malaysia Government Mobile Applications Gallery (GAMMA). This dataset represents an exact copy of the transactional data stored in the GAMMA database.",
+ "caveat": "The data represents applications tracked via the Malaysia Government Mobile Applications Gallery (GAMMA) only. As such, official applications not yet registered in GAMMA may be absent from this dataset.",
+ "publication": "—",
+ "params": {
+  "id": "government_apps"
+ },
+ "query": {
+  "id": "government_apps"
+ },
+ "agency": "JDN,KD",
+ "category": null
+}

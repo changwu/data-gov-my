@@ -1,0 +1,50 @@
+{
+ "id": "fish_landings",
+ "title": "Monthly Landings of Marine Fish by State",
+ "description": "Monthly landings of marine fish by state and coast from 2018 to 2023.",
+ "data_as_of": "2023-12",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "Perikanan"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/agriculture/fish_landings.csv",
+ "link_parquet": "https://storage.data.gov.my/agriculture/fish_landings.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency"
+  },
+  {
+   "name": "coast",
+   "title": "Coast",
+   "description": "[Categorical] The coast where the fish was landed; either all coasts ('all'), the east coast of Peninsular Malaysia ('east'), west coast of Peninsular Malaysia ('west') or Borneo ('borneo')"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] The state where the fish was landed; one of 14 states (excludiing W.P. Kuala Lumpur and W.P. Putrajaya, which do not have coastlines) or Malaysia (included for ease of analysis). It should be noted that Johor is a part of both the east and west coast data."
+  },
+  {
+   "name": "landings",
+   "title": "Landings",
+   "description": "[Float] The total landings of marine fish in metric tonnes"
+  }
+ ],
+ "methodology": "Data on landings of marine fish in Malaysia is collected via establishment-level surveys and censuses conducted by the Department of Fisheries (DOF). Accordingly, this data reflects the production of establishments registered with the DOF only. In layperson terms, this means that the fish caught by individuals fishing for personal consumption are not included in this data.\n\nIt should be noted that W.P. Kuala Lumpur and W.P. Putrajaya are excluded from the data as they do not have coastlines. Classification by coast and state is conducted based on the location of where the fish was landed, not where it was caught or the registered address of the establishment. In general, fisheries data for Malaysia is published based on landings, not catches.",
+ "caveat": "National totals may be slightly different to the sum of state values due to rounding.",
+ "publication": "—",
+ "params": {
+  "id": "fish_landings"
+ },
+ "query": {
+  "id": "fish_landings"
+ },
+ "agency": "Perikanan",
+ "category": null
+}

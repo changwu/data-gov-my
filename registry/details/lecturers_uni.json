@@ -1,0 +1,60 @@
+{
+ "id": "lecturers_uni",
+ "title": "Lecturers in Public Universities by Citizenship & Sex",
+ "description": "Number of lecturers in public universities at national and state level, broken down by citizenship and sex.",
+ "data_as_of": "2023",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOHE"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/education/lecturers_uni.csv",
+ "link_parquet": "https://storage.data.gov.my/education/lecturers_uni.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia for national-level data"
+  },
+  {
+   "name": "university",
+   "title": "University",
+   "description": "[Categorical] Name of the university, or 'All Universities' for state-level data (for states with more than 1 public university)"
+  },
+  {
+   "name": "citizenship",
+   "title": "Citizenship",
+   "description": "[Categorical] Either all nationalities ('all'), citizens ('citizen'), or non-citizens ('non_citizen')"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes ('both'), male ('male'), or female ('female')"
+  },
+  {
+   "name": "staff",
+   "title": "Academic Staff",
+   "description": "[Integer] Number of academic staff"
+  }
+ ],
+ "methodology": "This dataset is tabulated from administrative records maintained by the Ministry of Higher Education.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "lecturers_uni"
+ },
+ "query": {
+  "id": "lecturers_uni"
+ },
+ "agency": "MOHE",
+ "category": null
+}

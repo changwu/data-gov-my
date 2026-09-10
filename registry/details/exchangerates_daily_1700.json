@@ -1,0 +1,45 @@
+{
+ "id": "exchangerates_daily_1700",
+ "title": "Daily Exchange Rates (1700)",
+ "description": "Daily rates of exchange of the Malaysian ringgit vis-à-vis selected currencies at 1700, acting as a end-of-day reference. The table and charts provide a preview using the latest 1 year of data, but you may download the full dataset containing daily rates since 2003.",
+ "data_as_of": "2026-09-08 17:00",
+ "last_updated": "2026-09-08 17:30",
+ "next_update": "2026-09-09 17:30",
+ "frequency": "DAILY",
+ "data_source": [
+  "BNM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/finsector/exr/daily_1700.csv",
+ "link_parquet": "https://storage.data.gov.my/finsector/exr/daily_1700.parquet",
+ "link_preview": "https://storage.data.gov.my/finsector/exr/daily_1700_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format"
+  },
+  {
+   "name": "rate_type",
+   "title": "Rate Type",
+   "description": "[String] Rate for buying the ringgit using foreign currency ('buying'), selling the ringgit for foreign currency ('selling'), or the midpoint of the two ('middle'). In general, the selling rate is higher than the buying rate, as the opposite would imply that you could profit from arbitrage."
+  },
+  {
+   "name": "<currency_code>",
+   "title": "Currency",
+   "description": "[Float] One of 27 columns indicating the rate of exchange of MYR to that currency (3-letter code), for that day and rate type. The currency name can be derived from the [currency code lookup table](https://data.gov.my/data-catalogue/currency_codes). It should be noted that the ringgit is the numerator, so higher values indicate a depreciation while lower values indicate an appreciation."
+  }
+ ],
+ "methodology": "The Malaysian ringgit (MYR) is a non-internationalised currency, meaning it can only be traded and settled within Malaysia under the regulation of Bank Negara Malaysia (BNM). To combat speculation, offshore trading of the ringgit is not permitted, and any foreign market activity — such as non-deliverable forwards (NDFs) — is purely indicative and settled in foreign currencies rather than MYR.\n\nConsequently, BNM has full oversight over trading over the ringgit, and compiles official exchange rate data based on buy and sell quotations at set times on all trading days:\n- 0900: Reference rate for start of day\n- 1130: Best counter rates offered by selected commercial banks\n- 1200: Reference rate for mid-day\n- 1700: Reference rate for end of day",
+ "caveat": "N/A",
+ "publication": "N/A",
+ "params": {
+  "id": "exchangerates_daily_1700"
+ },
+ "query": {
+  "id": "exchangerates_daily_1700"
+ },
+ "agency": "BNM",
+ "category": null
+}

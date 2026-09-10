@@ -1,0 +1,50 @@
+{
+ "id": "sitc_sop",
+ "title": "SITC: Stage of Processing",
+ "description": "This table provides a complete lookup for the classification of stage of processing, as applied and used by publications in Malaysia, primarily by DOSM.",
+ "data_as_of": "2006",
+ "last_updated": "2024-03-09",
+ "next_update": "-",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/dictionaries/sitc_sop.csv",
+ "link_parquet": "https://storage.dosm.gov.my/dictionaries/sitc_sop.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "digits",
+   "title": "Digits",
+   "description": "[Integer] Number of digits; this column can be used as a filter if you only want to keep 1 digit codes, for example"
+  },
+  {
+   "name": "code",
+   "title": "Code",
+   "description": "[String] 1-4 digit codes; please ensure that you read this column as a string."
+  },
+  {
+   "name": "desc_en",
+   "title": "Description (EN)",
+   "description": "[String] Description for the code, in English"
+  },
+  {
+   "name": "desc_bm",
+   "title": "Description (BM)",
+   "description": "[String] Description for the code, in Malay"
+  }
+ ],
+ "methodology": "The classification of stage of processing is consistent with the [Standard International Trade Classification (SITC) Revision 4](https://unstats.un.org/unsd/trade/sitcrev4.htm) published by the United Nations Statistics Division, which is used as a global reference in the classification of international merchandise trade.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "sitc_sop"
+ },
+ "query": {
+  "id": "sitc_sop"
+ },
+ "agency": "DOSM",
+ "category": null
+}

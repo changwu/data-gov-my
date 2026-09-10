@@ -1,0 +1,60 @@
+{
+ "id": "covid_cases_vaxstatus",
+ "title": "Daily COVID-19 Cases by Vaccination Status & State",
+ "description": "Daily COVID-19 cases at national and state level, broken down by vaccination status.",
+ "data_as_of": "2025-05-31 23:59",
+ "last_updated": "2025-06-01 12:00",
+ "next_update": "2025-06-08 12:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/covid_cases_vaxstatus.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/covid_cases_vaxstatus.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/covid_cases_vaxstatus.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia"
+  },
+  {
+   "name": "cases_unvax",
+   "title": "Unvaccinated Cases",
+   "description": "[Integer] Number of new cases for which no vaccination record is found"
+  },
+  {
+   "name": "cases_pvax",
+   "title": "Partially Vaccinated Cases",
+   "description": "[Integer] Number of new cases where the individual received at least 1 dose of any vaccine, but has not yet been fully vaccinated"
+  },
+  {
+   "name": "cases_fvax",
+   "title": "Fully Vaccinated Cases",
+   "description": "[Integer] Number of new cases where the individual received the second dose of a two-dose vaccine at least 14 days ago, or the first dose of a one-dose vaccine at least 28 days ago; boosted cases are removed from this number"
+  },
+  {
+   "name": "cases_boost",
+   "title": "Boosted Cases",
+   "description": "[Integer] Number of new cases where the individual received a booster dose at least 7 days ago"
+  }
+ ],
+ "methodology": "Building on the [base dataset](https://data.moh.gov.my/data-catalogue/healthcare_covid_cases), this dataset tabules new COVID-19 cases by vaccination status by deterministically matching individual-level COVID-19 case data with COVID-19 vaccination records from the Malaysian Vaccine Administration System (MyVAS). Matching is done using the individual's IC/BC number (for Malaysians) or passport (for non-Malaysians), with only exact matches permitted.",
+ "caveat": "It is possible that the number of vaccinated cases exceeds the tabulated number, for instance if an individual was vaccinated under an ID different from the ID used in the COVID-19 test result declaration, or if an individual was vaccinated outside the country and has not yet uploaded their records to MyVAS. However, these issues are negligible in magnitude.",
+ "publication": "KKMNOW features a [dashboard on COVID-19](https://data.moh.gov.my/dashboard/covid-19) where you can explore the data in a more interactive manner!",
+ "params": {
+  "id": "covid_cases_vaxstatus"
+ },
+ "query": {
+  "id": "covid_cases_vaxstatus"
+ },
+ "agency": "MOH",
+ "category": null
+}

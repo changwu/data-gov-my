@@ -1,0 +1,80 @@
+{
+ "id": "lfs_state_sex",
+ "title": "Annual Principal Labour Force Statistics by State & Sex",
+ "description": "Annual principal labour force statistics at state level by sex, including unemployment and participation rates.",
+ "data_as_of": "2023",
+ "last_updated": "2024-07-30 12:00",
+ "next_update": "2025-06-24 12:00",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/labour/lfs_state_sex.csv",
+ "link_parquet": "https://storage.dosm.gov.my/labour/lfs_state_sex.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes ('both'), male ('male') or female ('female')"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "lf",
+   "title": "Labour Force Size",
+   "description": "[Float, '000] The number (in thousands) of employed and unemployed individuals. This figure also represents the number of people participating in the labour force."
+  },
+  {
+   "name": "lf_employed",
+   "title": "Employed Persons",
+   "description": "[Float, '000] The number (in thousands) of people who worked at least one hour for pay, profit or family gain, in thousands of people"
+  },
+  {
+   "name": "lf_unemployed",
+   "title": "Unemployed Persons",
+   "description": "[Float, '000] The number (in thousands) of people who did not work but were looking for work or available to work"
+  },
+  {
+   "name": "lf_outside",
+   "title": "Persons outside Labour Force",
+   "description": "[Float, '000] The number (in thousands) of people not classified as employed or unemployed, including housewives, students, early retired, disabled persons and those not interested in looking for a job"
+  },
+  {
+   "name": "u_rate",
+   "title": "Unemployment Rate",
+   "description": "[Float] Ratio of unemployed to labour force size"
+  },
+  {
+   "name": "p_rate",
+   "title": "Participation Rate",
+   "description": "[Float] Ratio of the labour force size to the working-age (15-64) population"
+  },
+  {
+   "name": "ep_ratio",
+   "title": "Employment-Population Ratio",
+   "description": "[Float] Ratio of the number of employed people to the working-age (15-64) population"
+  }
+ ],
+ "methodology": "This data is produced based on the Labour Force Survey (LFS), which is designed to collect representative data on the labour force at national and state level. Consistency in methodology has been maintained to ensure that the data is comparable over time. Survey findings are a monthly, quarterly and annual basis. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/lfs-technotes).",
+ "caveat": "Data for 1991 and 1994 are not available at all due to limitations in the sample data from those years; data for W.P. Labuan and W.P. Putrajaya begin in 1992 and 2011 respectively. Furthermore, the sum of each category may not always equal to the totals shown in related tables because of independent rounding to one decimal place. However, the differences are not obvious.",
+ "publication": "The [Labour Force Report, 2023](https://open.dosm.gov.my/publications/labour_annual_2023), the latest edition of the annual labour force statistics published by DOSM. OpenDOSM also features a [dashboard on the labour force](https://open.dosm.gov.my/dashboard/labour-market).",
+ "params": {
+  "id": "lfs_state_sex"
+ },
+ "query": {
+  "id": "lfs_state_sex"
+ },
+ "agency": "DOSM",
+ "category": null
+}

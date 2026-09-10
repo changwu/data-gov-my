@@ -1,0 +1,60 @@
+{
+ "id": "gdp_gni_annual_real",
+ "title": "Annual Real GDP & GNI: 1970 to Present",
+ "description": "Long time series of annual real gross domestic product (GDP) and gross national income (GNI), including per capita values.",
+ "data_as_of": "2025",
+ "last_updated": "2026-02-13 12:00",
+ "next_update": "2027-02-12 12:00",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_real.csv",
+ "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_real.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[String] Series type, either absolute values ('abs') or annual growth ('growth_yoy')"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "gdp",
+   "title": "GDP",
+   "description": "[Float, RM mil] The total value of goods and services produced within that year, after deducting the cost of goods and services used in production, but before deducting the consumption of fixed capital. The values are in constant 2015 prices, i.e. with base 2015 = 100."
+  },
+  {
+   "name": "gni",
+   "title": "GNI",
+   "description": "[Float, RM mil] The total value of the production of the nationals of the country, whether they are in residence in Malaysia or not. Mechnically, it is defined as GDP plus net factor incomes from abroad. The values are in constant 2015 prices, i.e. with base 2015 = 100."
+  },
+  {
+   "name": "gdp_capita",
+   "title": "GDP per Capita",
+   "description": "[Float, RM] The ratio of GDP to the total population of Malaysia in that year"
+  },
+  {
+   "name": "gni_capita",
+   "title": "GNI per Capita",
+   "description": "[Float, RM] The ratio of GNI to the total population of Malaysia in that year"
+  }
+ ],
+ "methodology": "Gross domestic product (GDP) is the total value of goods and services produced within that year, after deducting the cost of goods and services used in production, but before deducting the consumption of fixed capital. In Malaysia, GDP is estimated in compliance with the [System of National Accounts (2008)](https://storage.dosm.gov.my/technotes/sna_2008.pdf). Gross national income (GNI) is derived as GDP plus net factor incomes from abroad. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/gdp-technotes).",
+ "caveat": "GDP and GNI values for 2022 and 2023 may be revised in future releases. Furthermore, per capita values will be revised in parallel with any published revisions to [Malaysia's population data](https://open.dosm.gov.my/data-catalogue/population_malaysia).",
+ "publication": "—",
+ "params": {
+  "id": "gdp_gni_annual_real"
+ },
+ "query": {
+  "id": "gdp_gni_annual_real"
+ },
+ "agency": "DOSM",
+ "category": null
+}

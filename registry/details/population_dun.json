@@ -1,0 +1,70 @@
+{
+ "id": "population_dun",
+ "title": "Population Table: State Legislative Assemblies (DUNs)",
+ "description": "Population at state legislative assembly (DUN) level from 2020 to 2022, with breakdowns by sex and nationality. The preview table shows data for the latest year only, but you may download the data in full.",
+ "data_as_of": "2024",
+ "last_updated": "2025-10-31 13:00",
+ "next_update": "2026-10-31 13:00",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.dosm.gov.my/population/population_dun.csv",
+ "link_parquet": "https://storage.dosm.gov.my/population/population_dun.parquet",
+ "link_preview": "https://storage.dosm.gov.my/population/population_dun_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as this is annual data"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 13 states; the 3 federal territories are not present in this dataset because they do not have state legislative assemblies."
+  },
+  {
+   "name": "parlimen",
+   "title": "Parliament",
+   "description": "[Categorical] One of 209 parliamentary constituencies; the remaining 13 constituencies in the 3 federal territories are not present in this dataset because they do not contain state legislative assemblies."
+  },
+  {
+   "name": "dun",
+   "title": "DUN",
+   "description": "[Categorical] One of 600 DUNs; for the avoidance of doubt, every DUN is a subset of exactly 1 Parliament (in geographical terms: every DUN is enclaved within a Parliament)."
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes ('both'), male ('male') or female ('female')"
+  },
+  {
+   "name": "age",
+   "title": "Age Group",
+   "description": "[Categorical] Only data for all age groups ('overall') is available for now; the column is included to allow for expansion in future."
+  },
+  {
+   "name": "ethnicity",
+   "title": "Ethnicity",
+   "description": "[Categorical] All ethnic groups ('overall'), citizen ('citizen'), or non-citizen residents ('other_noncitizen')."
+  },
+  {
+   "name": "population",
+   "title": "Population ('000)",
+   "description": "[Float] Thousands of people ('000 people)"
+  }
+ ],
+ "methodology": "The 600 DUNs enumerated in this dataset are based on the most recent electoral boundaries per the redelineation exercises in 2015 (Sabah), 2017 (Sarawak) and 2018 (Peninsular Malaysia). Values for 2020 are based on adjusted data from the Population Census conducted in that year. Values for all other years are intercensal mid-year population estimates. The intercensal estimates were generated using the cohort-component method, which estimates the latest year's population by taking the previous year's value, then adding births, subtracting deaths, and adding net migration. For a deeper understanding of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/population-technotes).",
+ "caveat": "Values for breakdowns may be slightly different to totals when summed, due to rounding to one decimal place.",
+ "publication": "OpenDOSM's [Kawasanku dashboard](https://open.dosm.gov.my/dashboard/kawasanku) allows you to explore a wide range of indicators for any DUN, including its population.",
+ "params": {
+  "id": "population_dun"
+ },
+ "query": {
+  "id": "population_dun"
+ },
+ "agency": "DOSM",
+ "category": null
+}

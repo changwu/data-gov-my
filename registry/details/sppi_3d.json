@@ -1,0 +1,50 @@
+{
+ "id": "sppi_3d",
+ "title": "SPPI by Group (3 digits)",
+ "description": "Services producer price index (SPPI) by MSIC group (3 digits). The table provides a preview of the full dataset using the most recent 4 quarters of data.",
+ "data_as_of": "2026-Q1",
+ "last_updated": "2026-05-07 12:30",
+ "next_update": "2026-08-06 12:30",
+ "frequency": "QUARTERLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.dosm.gov.my/ppi/sppi_3d.csv",
+ "link_parquet": "https://storage.dosm.gov.my/ppi/sppi_3d.parquet",
+ "link_preview": "https://storage.dosm.gov.my/ppi/sppi_3d_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[String] Series type, either absolute values ('abs'), year-on-year growth ('growth_yoy') or quarter-on-quarter growth ('growth_qoq')"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format. The earliest date in the quarter is chosen, e.g. YYYY-01-01 for the 1st quarter and YYYY-04-01 for the 2nd quarter."
+  },
+  {
+   "name": "group",
+   "title": "Group",
+   "description": "[String] 3-digit code, to be matched using the 'group' column in the [MSIC Lookup](https://open.dosm.gov.my/data-catalogue/msic). The MSIC lookup table will give you the English and Malay definitions."
+  },
+  {
+   "name": "index",
+   "title": "Index",
+   "description": "[Float] Level of services producer prices, expressed as an index with base 2010 = 100"
+  }
+ ],
+ "methodology": "The Services Producer Price Index (SPPI) measures the level of prices charged by 8 key services industries in Malaysia, relative to a base year (2010 = 100). Given that the services sector accounts for over 50% of Malaysia's GDP, the SPPI is an important policy indicator which helps gauge cost pressures before they reach consumers. The prices used in compilation of the SPPI include surcharges, but exclude discounts, rebates and taxes imposed on consumers. For a deeper understanding of the PPI compilation methodology and related concepts, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/sppi).",
+ "caveat": "Data for the most recent 4 quarters may be revised in subsequent releases.",
+ "publication": "[Services Producer Price Index, 1Q 2026](https://open.dosm.gov.my/publications/sppi_2026-q1), the latest edition of the monthly producer price statistics published by DOSM. OpenDOSM also features a [dashboard on services producer prices](https://open.dosm.gov.my/dashboard/services-producer-prices) where you can explore this data in a more interactive manner.",
+ "params": {
+  "id": "sppi_3d"
+ },
+ "query": {
+  "id": "sppi_3d"
+ },
+ "agency": "DOSM",
+ "category": null
+}

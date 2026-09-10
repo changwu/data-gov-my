@@ -1,0 +1,110 @@
+{
+ "id": "covid_cases_age",
+ "title": "Daily COVID-19 Cases by Age Group & State",
+ "description": "Daily COVID-19 cases at national and state level, broken down by age group.",
+ "data_as_of": "2025-05-31 23:59",
+ "last_updated": "2025-06-01 12:00",
+ "next_update": "2025-06-08 12:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/covid_cases_age.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/covid_cases_age.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/covid_cases_age.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia"
+  },
+  {
+   "name": "cases_child",
+   "title": "Child Cases",
+   "description": "[Integer] Number of new COVID-19 cases aged 11 and under"
+  },
+  {
+   "name": "cases_adolescent",
+   "title": "Adolescent Cases",
+   "description": "[Integer] Number of new COVID-19 cases aged 12-17"
+  },
+  {
+   "name": "cases_adult",
+   "title": "Adult Cases",
+   "description": "[Integer] Number of new COVID-19 cases aged 18-59"
+  },
+  {
+   "name": "cases_elderly",
+   "title": "Elderly Cases",
+   "description": "[Integer] Number of new COVID-19 cases aged 60 and above"
+  },
+  {
+   "name": "cases_0_4",
+   "title": "Cases Aged 0-4",
+   "description": "[Integer] Number of new COVID-19 cases aged 0-4"
+  },
+  {
+   "name": "cases_5_11",
+   "title": "Cases Aged 5-11",
+   "description": "[Integer] Number of new COVID-19 cases aged 5-11"
+  },
+  {
+   "name": "cases_12_17",
+   "title": "Cases Aged 12-17",
+   "description": "[Integer] Number of new COVID-19 cases aged 12-17"
+  },
+  {
+   "name": "cases_18_29",
+   "title": "Cases Aged 18-29",
+   "description": "[Integer] Number of new COVID-19 cases aged 18-29"
+  },
+  {
+   "name": "cases_30_39",
+   "title": "Cases Aged 30-39",
+   "description": "[Integer] Number of new COVID-19 cases aged 30-39"
+  },
+  {
+   "name": "cases_40_49",
+   "title": "Cases Aged 40-49",
+   "description": "[Integer] Number of new COVID-19 cases aged 40-49"
+  },
+  {
+   "name": "cases_50_59",
+   "title": "Cases Aged 50-59",
+   "description": "[Integer] Number of new COVID-19 cases aged 50-59"
+  },
+  {
+   "name": "cases_60_69",
+   "title": "Cases Aged 60-69",
+   "description": "[Integer] Number of new COVID-19 cases aged 60-69"
+  },
+  {
+   "name": "cases_70_79",
+   "title": "Cases Aged 70-79",
+   "description": "[Integer] Number of new COVID-19 cases aged 70-79"
+  },
+  {
+   "name": "cases_80",
+   "title": "Cases Aged 80",
+   "description": "[Integer] Number of new COVID-19 cases aged 80 and above"
+  }
+ ],
+ "methodology": "Building on the [base dataset](https://data.moh.gov.my/data-catalogue/healthcare_covid_cases), this dataset tabules new COVID-19 cases by age either based on the individual's IC number (for Malaysians with an IC number) or based on the age declared in the COVID-19 test result declaration (for cases without an IC number or non-Malaysians).",
+ "caveat": "In a small minority (~1.5%) of cases, no age was declared or able to be derived. As such, the total number of cases derived from summing the cases for all age groups in this dataset will be less than the number of cases in the [base dataset](https://data.moh.gov.my/data-catalogue/healthcare_covid_cases).",
+ "publication": "KKMNOW features a [dashboard on COVID-19](https://data.moh.gov.my/dashboard/covid-19) where you can explore the data in a more interactive manner!",
+ "params": {
+  "id": "covid_cases_age"
+ },
+ "query": {
+  "id": "covid_cases_age"
+ },
+ "agency": "MOH",
+ "category": null
+}

@@ -1,0 +1,56 @@
+{
+ "id": "mineral_extraction",
+ "title": "Extraction of Minerals by State and Commodity",
+ "description": "Annual extraction of mineral commodities by state from 2016 to 2021.",
+ "data_as_of": "2021",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "JMG",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/mining/mineral_extraction.csv",
+ "link_parquet": "https://storage.data.gov.my/mining/mineral_extraction.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia; note that W.P. Labuan is not present in the dataset due to an absence of mineral extraction activitiy in the state."
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "type",
+   "title": "Commodity Type",
+   "description": "[Categorical] The type of commodity in snake case; either energy ('energy'), metallic ('metallic') or non-metallic ('non_metallic')."
+  },
+  {
+   "name": "commodity",
+   "title": "Commodity",
+   "description": "[Categorical] The mineral commodity extracted in snake case, such as coal, bauxite, gold, feldspare, limestone, etc."
+  },
+  {
+   "name": "production",
+   "title": "Extraction",
+   "description": "[Float] The quantity of the commodity extracted; all values are in metric tonnes except for gold and silver, which are denominated in grammes"
+  }
+ ],
+ "methodology": "Data on mineral extraction in Malaysia is produced by the Mineral Intelligence Unit based on data collected via establishment-level surveys and censuses conducted by the Department of Mineral and Geoscience (JMG), in collaboration with the Department of Statistics Malaysia (DOSM). Accordingly, this data reflects the extractive activities of establishments registered with the DMG only. The data shown here is also used for the production of Malaysia's official GDP statistics.\n\nFrom a definitional perspective, it should be noted that:\n- The production of non-metallic aggregates in Sabah and Sarawak includes gravel.\n- Silica production includes silica sand, as well as sand as a by-product of tin mining and crushed quartz rock.",
+ "caveat": "National totals may be slightly different to the sum of state values due to rounding.",
+ "publication": "—",
+ "params": {
+  "id": "mineral_extraction"
+ },
+ "query": {
+  "id": "mineral_extraction"
+ },
+ "agency": "JMG,DOSM",
+ "category": null
+}

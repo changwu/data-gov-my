@@ -1,0 +1,50 @@
+{
+ "id": "parliament_sex",
+ "title": "Female Representation in Parliament",
+ "description": "Proportion of women and men in Malaysian Parliament, covering both the House of Representatives (Dewan Rakyat) and the Senate (Dewan Negara).",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "-",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "Parlimen"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/parliament_sex.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/parliament_sex.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency."
+  },
+  {
+   "name": "house",
+   "title": "House of Parliament",
+   "description": "[Categorical] Either House of Representatives (Dewan Rakyat) or Senate (Dewan Negara)"
+  },
+  {
+   "name": "female",
+   "title": "Women",
+   "description": "[Float, %] Women as a percentage of total filled seats"
+  },
+  {
+   "name": "male",
+   "title": "Men",
+   "description": "[Float, %] Men as a percentage of total filled seats"
+  }
+ ],
+ "methodology": "This dataset is compiled from official records of the Malaysian Parliament as of January 1st each year. The proportions of women and men are computed using the total number of filled seats as the denominator, meaning that vacancies are not included.",
+ "caveat": "The data reflects the composition of Parliament at the start of the year. Therefore, it does not capture any changes in composition that occur during the year. However, the proportions usually do not fluctuate significantly.",
+ "publication": "—",
+ "params": {
+  "id": "parliament_sex"
+ },
+ "query": {
+  "id": "parliament_sex"
+ },
+ "agency": "Parlimen",
+ "category": null
+}

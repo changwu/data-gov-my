@@ -1,0 +1,45 @@
+{
+ "id": "births",
+ "title": "Daily Live Births",
+ "description": "Number of people born daily in Malaysia, based on registrations with JPN from 1920 to the present.",
+ "data_as_of": "2023-07-31 23:59",
+ "last_updated": "2023-09-09 08:00",
+ "next_update": "—",
+ "frequency": "DAILY",
+ "data_source": [
+  "JPN"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/demography/births.csv",
+ "link_parquet": "https://storage.data.gov.my/demography/births.parquet",
+ "link_preview": "https://storage.data.gov.my/demography/births_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date of Birth",
+   "description": "[Date] Date of birth in YYYY-MM-DD format; note that this date represents the actual date of birth and NOT the date of registration with JPN"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] Name of the state, with only Malaysia included for now"
+  },
+  {
+   "name": "births",
+   "title": "Births",
+   "description": "[Integer] Number of births for the date"
+  }
+ ],
+ "methodology": "This dataset tabulates the number of people born in Malaysia and registered with JPN from 1920 to the present.",
+ "caveat": "There are several nuances to bear in mind when using this data:\n 1. The data is derived based on births registerd with JPN. Accordingly, if a birth is not registered with JPN (for instance, if a foreigner chooses to register their child in their home country, or if a resident in a remote area does not register the birth of their child), it will not count in this dataset.\n 2. This dataset tabulate births for each day of birth, rather than the date of registration with JPN. Therefore, to ensure accuracy, the data is provided with a 1 month lag, since most people do not register their child on the exact day they are born.\n 3. Data for past dates may be revised in future updates; this represents people registering children outside a 1 month window from their date of birth. However, our update procedure should ensure that there is no significant change to the trend. ",
+ "publication": "data.gov.my features a dashboard on [Birthday Popularity](https://data.gov.my/dashboard/birthday-explorer) where you can explore this dataset in a more interactive way!",
+ "params": {
+  "id": "births"
+ },
+ "query": {
+  "id": "births"
+ },
+ "agency": "JPN",
+ "category": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "air_pollution",
+ "title": "Monthly Air Pollution",
+ "description": "Average monthly concentration of key air pollutants.",
+ "data_as_of": "2022-12-31 23:59",
+ "last_updated": "2023-11-27 12:00",
+ "next_update": "2024-11-27 12:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "JAS",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/environment/air_pollution.csv",
+ "link_parquet": "https://storage.data.gov.my/environment/air_pollution.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency."
+  },
+  {
+   "name": "pollutant",
+   "title": "Pollutant",
+   "description": "[Categorical] The type of air pollutant ('CO', 'NO²', 'O³', 'PM₁₀', 'PM₂.₅', 'SO²')."
+  },
+  {
+   "name": "concentration",
+   "title": "Concentration",
+   "description": "[Float] The concentration of the pollutant in parts per million (ppm) or micrograms per cubic meter (µg/m³). All pollutants are measured in ppm except for PM₁₀ and PM₂.₅, which are measured in µg/m³."
+  }
+ ],
+ "methodology": "This dataset presents monthly concentrations of various air pollutants, including carbon monoxide (CO), nitrogen dioxide (NO²), ozone (O³), particulate matter (PM₁₀, PM₂.₅), and sulfur dioxide (SO²). The data is tabulated from hourly observational data collected from monitoring stations across Malaysia.",
+ "caveat": "A small minority of values in 2017 are null due to inavailability of data.",
+ "publication": "—",
+ "params": {
+  "id": "air_pollution"
+ },
+ "query": {
+  "id": "air_pollution"
+ },
+ "agency": "JAS,DOSM",
+ "category": null
+}

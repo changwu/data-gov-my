@@ -1,0 +1,50 @@
+{
+ "id": "bec",
+ "title": "Broad Economic Categories (BEC)",
+ "description": "This table provides a lookup for codes under the Broad Economic Categories (BEC) classification, as applied and used by publications in Malaysia. The BEC is primarily used by the Department of Statistics Malaysia (DOSM), for instance when categorising and analysing imports by end-use.",
+ "data_as_of": "2026-03",
+ "last_updated": "2026-04-28",
+ "next_update": "-",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/dictionaries/bec.csv",
+ "link_parquet": "https://storage.dosm.gov.my/dictionaries/bec.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "bec_code",
+   "title": "BEC Code",
+   "description": "[String] 3-digit BEC code; please ensure that you read this column as a string."
+  },
+  {
+   "name": "end_use",
+   "title": "End Use",
+   "description": "[String] Broad end-use category of the goods: Durable assets ('capital'), goods used as inputs to the production of other goods ('intermediate'), consumption goods ('consumption'), dual-use goods ('dual_use'), goods not elsewhere specified ('nes'), or transactions below RM5000 ('below_5000')."
+  },
+  {
+   "name": "desc_en",
+   "title": "Description (EN)",
+   "description": "[String] Description for the code, in English"
+  },
+  {
+   "name": "desc_bm",
+   "title": "Description (BM)",
+   "description": "[String] Description for the code, in Malay"
+  }
+ ],
+ "methodology": "The BEC used in Malaysia is based on the [BEC published by the United Nations Statistics Division](https://unstats.un.org/unsd/trade/classifications/bec.asp), which provides a framework for classifying internationally traded goods by their broad economic end-use. The code 000 does not exist in the international version, but is included here for analytical ease to indicate overall values.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "bec"
+ },
+ "query": {
+  "id": "bec"
+ },
+ "agency": "DOSM",
+ "category": null
+}

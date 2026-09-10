@@ -1,0 +1,51 @@
+{
+ "id": "drug_addicts_drugtype",
+ "title": "Drug Addicts by State & Drug Type",
+ "description": "This dataset provides information on the types of drugs reported by each state in Malaysia, as recorded by the National Anti-Drugs Agency (AADK). The data is categorized based on the type of drug as defined by relevant acts, and includes the number of addicts associated with each drug type per state.",
+ "data_as_of": "2023-12-31 09:41:00.000 +08:00",
+ "last_updated": "2023-12-31 09:22:58.510 +08:00",
+ "next_update": "-",
+ "frequency": "YEARLY",
+ "data_source": [
+  "AADK",
+  "KDN"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicsafety/drug_addicts_drugtype.csv",
+ "link_parquet": "https://storage.data.gov.my/publicsafety/drug_addicts_drugtype.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "The date when the data was recorded, typically representing the start of the year for annual data."
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "The state in Malaysia where the data was collected, covering all states and federal territories."
+  },
+  {
+   "name": "drugs",
+   "title": "Drugs",
+   "description": "The type of drug reported, categorized based on legal definitions and classifications."
+  },
+  {
+   "name": "addicts",
+   "title": "Addicts",
+   "description": "The number of addicts associated with the reported type of drug in the respective state."
+  }
+ ],
+ "methodology": "The data is collected annually from records maintained by the National Anti-Drugs Agency (AADK). Each entry in the dataset corresponds to a specific state and includes the type of drug and the number of addicts reported for that drug type. The categorization of drugs is based on existing legal definitions and classifications.",
+ "caveat": "The data represents annual records and may not reflect real-time changes or updates. Additionally, the number of addicts is reported as recorded and may not account for unreported cases or discrepancies in data collection methods across different states.",
+ "publication": "N/A",
+ "params": {
+  "id": "drug_addicts_drugtype"
+ },
+ "query": {
+  "id": "drug_addicts_drugtype"
+ },
+ "agency": "AADK,KDN",
+ "category": null
+}

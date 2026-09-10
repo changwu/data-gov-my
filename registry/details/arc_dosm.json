@@ -1,0 +1,90 @@
+{
+ "id": "arc_dosm",
+ "title": "DOSM's Advance Release Calendar",
+ "description": "Release date and metadata for all DOSM's publications in 2026.",
+ "data_as_of": "2026-09-09 08:00",
+ "last_updated": "2026-09-09 07:59",
+ "next_update": "2026-09-10 08:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/meta/arc.csv",
+ "link_parquet": "https://storage.dosm.gov.my/meta/arc.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "publication_id",
+   "title": "Publication ID",
+   "description": "[String] Unique ID identifying the publication; this should be the primary key if used in a database."
+  },
+  {
+   "name": "release_date",
+   "title": "Release Date",
+   "description": "[Timestamp] Date and time of release in YYYY-MM-DD HH:MM:SS format. The publication is embargoed until such time."
+  },
+  {
+   "name": "title_en",
+   "title": "Publication Title (EN)",
+   "description": "[String] Title of the publication in English, in the format {title}: {data up to}"
+  },
+  {
+   "name": "title_bm",
+   "title": "Title Publication (MS)",
+   "description": "[String] Title of the publication in Malay, in the format {title}: {data up to}"
+  },
+  {
+   "name": "publication_type",
+   "title": "Publication Category",
+   "description": "[String] Category of the publication indicating its broad domain. For example, all publications relating to GDP and satellite accounts are categorised as 'gdp'."
+  },
+  {
+   "name": "publication_type_en",
+   "title": "Publication Category (EN)",
+   "description": "[String] Category of the publication in English"
+  },
+  {
+   "name": "publication_type_bm",
+   "title": "Publication Category (MS)",
+   "description": "[String] Category of the publication in Malay"
+  },
+  {
+   "name": "frequency",
+   "title": "Frequency of data",
+   "description": "[Categorical] Either YEARLY, QUARTERLY, or MONTHLY. Note that this is the frequency of the data series within the publication, NOT the frequency of the publication itself."
+  },
+  {
+   "name": "release_series",
+   "title": "Series",
+   "description": "[Date] Data as of this date, in YYYY-MM-DD format. The earliest date in the period is chosen, e.g. YYYY-01-01 for annual data and YYYY-04-01 for 2nd quarter data."
+  },
+  {
+   "name": "release_series_date",
+   "title": "Series (Formatted Date)",
+   "description": "[String] The 'release_series' field formatted according to frequency. For instance, 2023-01-01 is formatted as 2023 for yearly data, 2023-q1 for quarterly data, and 2023-01 for monthly data."
+  },
+  {
+   "name": "release_series_en",
+   "title": "Series (EN)",
+   "description": "[String] The 'release_series' field formatted as natural language in English. For instance, 2023-01-01 is formatted as 2023 for yearly data, Q1 2023 for quarterly data, and Jan 2023 for monthly data."
+  },
+  {
+   "name": "release_series_bm",
+   "title": "Series (MS)",
+   "description": "[String] The 'release_series' field formatted as natural language in Malay. For instance, 2023-01-01 is formatted as 2023 for yearly data, ST1 2023 for quarterly data, and Jan 2023 for monthly data."
+  }
+ ],
+ "methodology": "DOSM's [advance release calendar](https://www.dosm.gov.my/portal-main/arc) is compiled and coordinated by the Strategic Communications Division for the purpose of display on the main DOSM portal. It contains three fields, namely the title in English, title in Malay, and release date. To produce the structured dataset shown here, the OpenDOSM team conducts standardisation of naming conventions and adds several metadata fields which are typically helpful for users, such as category, frequency, and release series (in date and natural language formats).",
+ "caveat": "—",
+ "publication": "The data shown here tallies exactly with the [Upcoming Publications calendar](https://open.dosm.gov.my/publications/upcoming) on OpenDOSM. Furthermore, to facilitate integration of this data, we have made the dataset available as:\n- A [public Google Calendar](https://calendar.google.com/calendar/embed?src=u89n9ehgt51hs5lj5m2pc49h9c834ta2%40import.calendar.google.com&ctz=Asia%2FKuala_Lumpur) which you can add to your own Google Calendar.\n- An iCalendar (.ics) file which you can [download](https://storage.dosm.gov.my/meta/arc_en.ics) and add to the calendar application of your choice.",
+ "params": {
+  "id": "arc_dosm"
+ },
+ "query": {
+  "id": "arc_dosm"
+ },
+ "agency": "DOSM",
+ "category": null
+}

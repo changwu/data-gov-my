@@ -1,0 +1,46 @@
+{
+ "id": "trnsc_daily_jompay",
+ "title": "Daily JomPAY Transactions",
+ "description": "Daily volume and value of JomPAY transactions.",
+ "data_as_of": "2026-09-01 23:59",
+ "last_updated": "2026-09-02 01:31",
+ "next_update": "2026-09-03 02:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "PayNet",
+  "BNM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/finsector/payments/trnsc_daily_jompay.csv",
+ "link_parquet": "https://storage.data.gov.my/finsector/payments/trnsc_daily_jompay.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format"
+  },
+  {
+   "name": "volume",
+   "title": "Transaction Volume",
+   "description": "[Integer] Number of JomPAY transactions for the date."
+  },
+  {
+   "name": "value",
+   "title": "Transaction Value (RM)",
+   "description": "[Float, RM] Value of JomPAY transactions for the date in Ringgit Malaysia (RM)."
+  }
+ ],
+ "methodology": "This data is derived from transactional records of bill payments settled through the JomPAY national bill payment scheme operated by PayNet, Malaysia's national payments network and central financial infrastructure. JomPAY transactions are recorded in real time as they occur through participating banks' internet or mobile banking channels, where customers authorise payments to registered billers. Each transaction is captured centrally by PayNet's infrastructure.\n\nFor the purpose of publication via data.gov.my, PayNet conducts the aggregation and provides only the daily totals; no transaction-level data is ever disseminated outside PayNet's systems.",
+ "caveat": "This dataset is provided with the highest practical timeliness (updated by 2am daily for data up to the previous day) due to its high potential for use in nowcasting and forecasting models. However, there may occasional revisions to ensure eventual consistency with the monthly payment statistics published by the Central Bank of Malaysia (BNM).",
+ "publication": "N/A",
+ "params": {
+  "id": "trnsc_daily_jompay"
+ },
+ "query": {
+  "id": "trnsc_daily_jompay"
+ },
+ "agency": "PayNet,BNM",
+ "category": null
+}

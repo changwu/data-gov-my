@@ -1,0 +1,80 @@
+{
+ "id": "lfs_parlimen",
+ "title": "Annual Principal Labour Force Statistics by Parliament",
+ "description": "Annual principal labour force statistics at Parliament constituency level, including unemployment and participation rates.",
+ "data_as_of": "2023",
+ "last_updated": "2025-12-31 12:00",
+ "next_update": "2026-12-31 12:00",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/labour/lfs_parlimen.csv",
+ "link_parquet": "https://storage.dosm.gov.my/labour/lfs_parlimen.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states"
+  },
+  {
+   "name": "parlimen",
+   "title": "Parliamentary Constituency",
+   "description": "[Categorical] One of 222 parliamentary constituencies"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "lf",
+   "title": "Labour Force Size",
+   "description": "[Float, '000] The number (in thousands) of employed and unemployed individuals. This figure also represents the number of people participating in the labour force."
+  },
+  {
+   "name": "lf_employed",
+   "title": "Employed Persons",
+   "description": "[Float, '000] The number (in thousands) of people who worked at least one hour for pay, profit or family gain, in thousands of people"
+  },
+  {
+   "name": "lf_unemployed",
+   "title": "Unemployed Persons",
+   "description": "[Float, '000] The number (in thousands) of people who did not work but were looking for work or available to work"
+  },
+  {
+   "name": "lf_outside",
+   "title": "Persons outside Labour Force",
+   "description": "[Float, '000] The number (in thousands) of people not classified as employed or unemployed, including housewives, students, early retired, disabled persons and those not interested in looking for a job"
+  },
+  {
+   "name": "u_rate",
+   "title": "Unemployment Rate",
+   "description": "[Float] Ratio of unemployed to labour force size"
+  },
+  {
+   "name": "p_rate",
+   "title": "Participation Rate",
+   "description": "[Float] Ratio of the labour force size to the working-age (15-64) population"
+  },
+  {
+   "name": "ep_ratio",
+   "title": "Employment-Population Ratio",
+   "description": "[Float] Ratio of the number of employed people to the working-age (15-64) population"
+  }
+ ],
+ "methodology": "This data is produced based on the Labour Force Survey (LFS), which is designed to collect representative data on the labour force at national, state, and administrative district level. The raw survey data was subsequently aggregated at the parliamentary constituency level. Consistency in methodology has been maintained to ensure that the data is comparable over time. Survey findings are a monthly, quarterly and annual basis. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/lfs-technotes).",
+ "caveat": "The sum of each category may not always equal to the totals shown in related tables because of independent rounding to one decimal place. However, the differences are not obvious.",
+ "publication": "N/A",
+ "params": {
+  "id": "lfs_parlimen"
+ },
+ "query": {
+  "id": "lfs_parlimen"
+ },
+ "agency": "DOSM",
+ "category": null
+}

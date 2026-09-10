@@ -1,0 +1,49 @@
+{
+ "id": "electricity_supply",
+ "title": "Electricity Supply",
+ "description": "Monthly electricity supply by sector.",
+ "data_as_of": "2024-09-30 23:59",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "2024-10-01 12:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "TNB",
+  "SESB",
+  "SWK-ENERGY",
+  "ST",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/energy/electricity_supply.csv",
+ "link_parquet": "https://storage.data.gov.my/energy/electricity_supply.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency."
+  },
+  {
+   "name": "sector",
+   "title": "Sector",
+   "description": "[Categorical] All sectors ('total'), local ('local') with breakdown into public (local_public') and private ('local_private') installations, imports ('imports'), or distribution ('distribution')."
+  },
+  {
+   "name": "supply",
+   "title": "Electricity Supply",
+   "description": "[Float] Amount of electricity supplied in millions of kilowatt-hours (MKWh)."
+  }
+ ],
+ "methodology": "The Malaysian electrical grid is managed by Tenaga Nasional Berhad (for Peninsular Malaysia), Sabah Electricity Sdn. Bhd., and Sarawak Energy Berhad. Independent power producers also supply electricity. This dataset includes monthly electricity supply data categorized by sector, compiled from the operational records of these providers.",
+ "caveat": "Data for the most recent 6 months is provisional and subject to revision in future updates.",
+ "publication": "—",
+ "params": {
+  "id": "electricity_supply"
+ },
+ "query": {
+  "id": "electricity_supply"
+ },
+ "agency": "TNB,SESB,SWK-ENERGY,ST,DOSM",
+ "category": null
+}

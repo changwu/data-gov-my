@@ -1,0 +1,55 @@
+{
+ "id": "completion_school_state",
+ "title": "School Completion Rates by State",
+ "description": "Proportion of students who complete primary, lower secondary, and upper secondary education at national and state level.",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOE"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/education/completion_school_state.csv",
+ "link_parquet": "https://storage.data.gov.my/education/completion_school_state.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia for national-level data"
+  },
+  {
+   "name": "stage",
+   "title": "School Stage",
+   "description": "[Categorical] Either primary (Standards 1 to 6), lower secondary (Form 1 to 3), or upper secondary (Form 4 to 5)"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes, male, or female"
+  },
+  {
+   "name": "completion",
+   "title": "Completion Rate",
+   "description": "[Float] Proportion of students who complete that stage of education, relative to the total cohort that started that stage"
+  }
+ ],
+ "methodology": "This dataset is derived from administrative records maintained by the Ministry of Education Malaysia via the Education Management Information System (EMIS). Completion rates are calculated by comparing the number of students who complete a given education level with the total cohort that started that level.",
+ "caveat": "Because Malaysia's dropout rates are extremely low, completion rates may exceed 100% due to a small number of students repeating grades or transferring between states. Furthermore, it should be noted that the data refers to government schools only.",
+ "publication": "—",
+ "params": {
+  "id": "completion_school_state"
+ },
+ "query": {
+  "id": "completion_school_state"
+ },
+ "agency": "MOE",
+ "category": null
+}

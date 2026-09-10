@@ -1,0 +1,4550 @@
+{
+ "population_parlimen": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/population/population_parlimen.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_parlimen\\population_parlimen.parquet",
+   "downloaded_at": "2026-09-09 15:57:24"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/population/population_parlimen.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_parlimen\\population_parlimen.csv",
+   "downloaded_at": "2026-09-09 15:57:25"
+  }
+ },
+ "population_dun": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/population/population_dun.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_dun\\population_dun.parquet",
+   "downloaded_at": "2026-09-09 15:57:24"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/population/population_dun.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_dun\\population_dun.csv",
+   "downloaded_at": "2026-09-09 15:57:25"
+  }
+ },
+ "population_malaysia": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/population/population_malaysia.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_malaysia\\population_malaysia.parquet",
+   "downloaded_at": "2026-09-09 15:57:25"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/population/population_malaysia.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_malaysia\\population_malaysia.csv",
+   "downloaded_at": "2026-09-09 15:57:25"
+  }
+ },
+ "births": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/demography/births.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births\\births.parquet",
+   "downloaded_at": "2026-09-09 15:57:25"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/demography/births.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births\\births.csv",
+   "downloaded_at": "2026-09-09 15:57:25"
+  }
+ },
+ "population_district": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/population/population_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_district\\population_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:25"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/population/population_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_district\\population_district.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "population_state": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/population/population_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_state\\population_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:25"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/population/population_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\population_state\\population_state.csv",
+   "downloaded_at": "2026-09-09 15:57:27"
+  }
+ },
+ "births_annual": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/birth.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_annual\\births_annual.csv",
+   "downloaded_at": "2026-09-09 15:57:25"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/birth.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_annual\\births_annual.parquet",
+   "downloaded_at": "2026-09-09 15:57:25"
+  }
+ },
+ "births_annual_state": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/birth_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_annual_state\\births_annual_state.csv",
+   "downloaded_at": "2026-09-09 15:57:25"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/birth_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_annual_state\\births_annual_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:25"
+  }
+ },
+ "births_annual_sex_ethnic": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/birth_sex_ethnic.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_annual_sex_ethnic\\births_annual_sex_ethnic.csv",
+   "downloaded_at": "2026-09-09 15:57:25"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/birth_sex_ethnic.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_annual_sex_ethnic\\births_annual_sex_ethnic.parquet",
+   "downloaded_at": "2026-09-09 15:57:25"
+  }
+ },
+ "stillbirths": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/stillbirth.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\stillbirths\\stillbirths.csv",
+   "downloaded_at": "2026-09-09 15:57:26"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/stillbirth.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\stillbirths\\stillbirths.parquet",
+   "downloaded_at": "2026-09-09 15:57:26"
+  }
+ },
+ "births_annual_sex_ethnic_state": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/birth_sex_ethnic_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_annual_sex_ethnic_state\\births_annual_sex_ethnic_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:26"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/birth_sex_ethnic_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_annual_sex_ethnic_state\\births_annual_sex_ethnic_state.csv",
+   "downloaded_at": "2026-09-09 15:57:27"
+  }
+ },
+ "stillbirths_state": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/stillbirth_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\stillbirths_state\\stillbirths_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:26"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/stillbirth_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\stillbirths_state\\stillbirths_state.csv",
+   "downloaded_at": "2026-09-09 15:57:26"
+  }
+ },
+ "births_district_sex": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/birth_district_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_district_sex\\births_district_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:26"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/birth_district_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\births_district_sex\\births_district_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:26"
+  }
+ },
+ "deaths": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/death.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths\\deaths.parquet",
+   "downloaded_at": "2026-09-09 15:57:26"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/death.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths\\deaths.csv",
+   "downloaded_at": "2026-09-09 15:57:26"
+  }
+ },
+ "deaths_state": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/death_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_state\\deaths_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:26"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/death_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_state\\deaths_state.csv",
+   "downloaded_at": "2026-09-09 15:57:26"
+  }
+ },
+ "deaths_sex_ethnic": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/death_sex_ethnic.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_sex_ethnic\\deaths_sex_ethnic.csv",
+   "downloaded_at": "2026-09-09 15:57:27"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/death_sex_ethnic.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_sex_ethnic\\deaths_sex_ethnic.parquet",
+   "downloaded_at": "2026-09-09 15:57:27"
+  }
+ },
+ "deaths_sex_ethnic_state": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/death_sex_ethnic_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_sex_ethnic_state\\deaths_sex_ethnic_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:27"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/death_sex_ethnic_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_sex_ethnic_state\\deaths_sex_ethnic_state.csv",
+   "downloaded_at": "2026-09-09 15:57:27"
+  }
+ },
+ "deaths_early_childhood": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/deaths_early_childhood.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_early_childhood\\deaths_early_childhood.csv",
+   "downloaded_at": "2026-09-09 15:57:27"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/deaths_early_childhood.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_early_childhood\\deaths_early_childhood.parquet",
+   "downloaded_at": "2026-09-09 15:57:27"
+  }
+ },
+ "deaths_district_sex": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/death_district_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_district_sex\\deaths_district_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:27"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/death_district_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_district_sex\\deaths_district_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:27"
+  }
+ },
+ "deaths_early_childhood_sex": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/deaths_early_childhood_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_early_childhood_sex\\deaths_early_childhood_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:27"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/deaths_early_childhood_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_early_childhood_sex\\deaths_early_childhood_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:27"
+  }
+ },
+ "deaths_early_childhood_state": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/deaths_early_childhood_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_early_childhood_state\\deaths_early_childhood_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/deaths_early_childhood_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_early_childhood_state\\deaths_early_childhood_state.csv",
+   "downloaded_at": "2026-09-09 15:57:28"
+  }
+ },
+ "deaths_early_childhood_state_sex": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/deaths_early_childhood_state_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_early_childhood_state_sex\\deaths_early_childhood_state_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/deaths_early_childhood_state_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_early_childhood_state_sex\\deaths_early_childhood_state_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:28"
+  }
+ },
+ "deaths_maternal": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/death_maternal.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_maternal\\deaths_maternal.csv",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/death_maternal.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_maternal\\deaths_maternal.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  }
+ },
+ "deaths_maternal_state": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/death_maternal_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_maternal_state\\deaths_maternal_state.csv",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/death_maternal_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\deaths_maternal_state\\deaths_maternal_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  }
+ },
+ "marriages": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/marriages.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\marriages\\marriages.csv",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/marriages.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\marriages\\marriages.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  }
+ },
+ "marriages_age": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/marriages_age.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\marriages_age\\marriages_age.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/marriages_age.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\marriages_age\\marriages_age.csv",
+   "downloaded_at": "2026-09-09 15:57:28"
+  }
+ },
+ "marriages_state": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/marriages_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\marriages_state\\marriages_state.csv",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/marriages_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\marriages_state\\marriages_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  }
+ },
+ "fertility": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/fertility.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fertility\\fertility.csv",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/fertility.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fertility\\fertility.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  }
+ },
+ "marriages_state_age": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/marriages_state_age.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\marriages_state_age\\marriages_state_age.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/marriages_state_age.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\marriages_state_age\\marriages_state_age.csv",
+   "downloaded_at": "2026-09-09 15:57:28"
+  }
+ },
+ "fertility_state": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/fertility_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fertility_state\\fertility_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:28"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/fertility_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fertility_state\\fertility_state.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "arrivals": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/demography/arrivals.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\arrivals\\arrivals.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/demography/arrivals.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\arrivals\\arrivals.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "hh_profile": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/hh_lq.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_profile\\hh_profile.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/hh_lq.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_profile\\hh_profile.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "passports": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/demography/passports.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\passports\\passports.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/demography/passports.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\passports\\passports.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "hh_profile_state": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/demography/hh_lq_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_profile_state\\hh_profile_state.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/demography/hh_lq_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_profile_state\\hh_profile_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "arrivals_soe": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/demography/arrivals_soe.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\arrivals_soe\\arrivals_soe.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/demography/arrivals_soe.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\arrivals_soe\\arrivals_soe.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "hh_income": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income\\hh_income.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income\\hh_income.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "hies_malaysia_percentile": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hies_malaysia_percentile.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hies_malaysia_percentile\\hies_malaysia_percentile.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hies_malaysia_percentile.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hies_malaysia_percentile\\hies_malaysia_percentile.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "hh_income_state": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income_state\\hh_income_state.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income_state\\hh_income_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "hh_income_district": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income_district\\hh_income_district.csv",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income_district\\hh_income_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  }
+ },
+ "hies_state_percentile": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hies_state_percentile.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hies_state_percentile\\hies_state_percentile.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hies_state_percentile.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hies_state_percentile\\hies_state_percentile.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_income_parlimen": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income_parlimen.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income_parlimen\\hh_income_parlimen.parquet",
+   "downloaded_at": "2026-09-09 15:57:29"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income_parlimen.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income_parlimen\\hh_income_parlimen.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_poverty": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty\\hh_poverty.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty\\hh_poverty.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_income_dun": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income_dun.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income_dun\\hh_income_dun.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_income_dun.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_income_dun\\hh_income_dun.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_poverty_state": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty_state\\hh_poverty_state.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty_state\\hh_poverty_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_poverty_district": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty_district\\hh_poverty_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty_district\\hh_poverty_district.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_poverty_parlimen": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty_parlimen.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty_parlimen\\hh_poverty_parlimen.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty_parlimen.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty_parlimen\\hh_poverty_parlimen.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_inequality": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality\\hh_inequality.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality\\hh_inequality.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_inequality_state": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality_state\\hh_inequality_state.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality_state\\hh_inequality_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_poverty_dun": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty_dun.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty_dun\\hh_poverty_dun.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_poverty_dun.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_poverty_dun\\hh_poverty_dun.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_inequality_district": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality_district\\hh_inequality_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality_district\\hh_inequality_district.csv",
+   "downloaded_at": "2026-09-09 15:57:30"
+  }
+ },
+ "hh_inequality_parlimen": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality_parlimen.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality_parlimen\\hh_inequality_parlimen.parquet",
+   "downloaded_at": "2026-09-09 15:57:30"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality_parlimen.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality_parlimen\\hh_inequality_parlimen.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "hh_inequality_dun": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality_dun.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality_dun\\hh_inequality_dun.parquet",
+   "downloaded_at": "2026-09-09 15:57:31"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_inequality_dun.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_inequality_dun\\hh_inequality_dun.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "hies_state": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hies_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hies_state\\hies_state.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hies_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hies_state\\hies_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "hies_district": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hies_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hies_district\\hies_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:31"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hies_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hies_district\\hies_district.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "hh_expenditure_parlimen": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_expenditure_parlimen.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_expenditure_parlimen\\hh_expenditure_parlimen.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_expenditure_parlimen.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_expenditure_parlimen\\hh_expenditure_parlimen.parquet",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "hh_expenditure_dun": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_expenditure_dun.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_expenditure_dun\\hh_expenditure_dun.parquet",
+   "downloaded_at": "2026-09-09 15:57:31"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_expenditure_dun.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_expenditure_dun\\hh_expenditure_dun.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "gdp_gni_annual_nominal": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_nominal.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_gni_annual_nominal\\gdp_gni_annual_nominal.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_nominal.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_gni_annual_nominal\\gdp_gni_annual_nominal.parquet",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "hh_access_amenities": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/hies/hh_access_amenities.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_access_amenities\\hh_access_amenities.parquet",
+   "downloaded_at": "2026-09-09 15:57:31"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/hies/hh_access_amenities.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hh_access_amenities\\hh_access_amenities.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "gdp_gni_annual_real": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_real.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_gni_annual_real\\gdp_gni_annual_real.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_real.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_gni_annual_real\\gdp_gni_annual_real.parquet",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "gdp_annual_nominal_supply": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_supply.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_supply\\gdp_annual_nominal_supply.csv",
+   "downloaded_at": "2026-09-09 15:57:31"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_supply.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_supply\\gdp_annual_nominal_supply.parquet",
+   "downloaded_at": "2026-09-09 15:57:31"
+  }
+ },
+ "gdp_annual_nominal_demand": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_demand.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_demand\\gdp_annual_nominal_demand.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_demand.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_demand\\gdp_annual_nominal_demand.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_annual_nominal_supply_granular": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_supply_sub.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_supply_granular\\gdp_annual_nominal_supply_granular.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_supply_sub.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_supply_granular\\gdp_annual_nominal_supply_granular.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_annual_nominal_demand_granular": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_demand_sub.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_demand_granular\\gdp_annual_nominal_demand_granular.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_demand_sub.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_demand_granular\\gdp_annual_nominal_demand_granular.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_annual_nominal_income": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_income.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_income\\gdp_annual_nominal_income.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_income.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_nominal_income\\gdp_annual_nominal_income.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_annual_real_supply": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_real_supply.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_real_supply\\gdp_annual_real_supply.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_real_supply.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_real_supply\\gdp_annual_real_supply.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_annual_real_supply_granular": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_real_supply_sub.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_real_supply_granular\\gdp_annual_real_supply_granular.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_real_supply_sub.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_real_supply_granular\\gdp_annual_real_supply_granular.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_annual_real_demand": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_real_demand.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_real_demand\\gdp_annual_real_demand.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_real_demand.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_real_demand\\gdp_annual_real_demand.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_annual_real_demand_granular": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_real_demand_sub.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_real_demand_granular\\gdp_annual_real_demand_granular.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_annual_real_demand_sub.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_annual_real_demand_granular\\gdp_annual_real_demand_granular.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_qtr_nominal": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal\\gdp_qtr_nominal.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal\\gdp_qtr_nominal.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_qtr_nominal_supply": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal_supply\\gdp_qtr_nominal_supply.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal_supply\\gdp_qtr_nominal_supply.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_qtr_nominal_supply_granular": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply_sub.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal_supply_granular\\gdp_qtr_nominal_supply_granular.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply_sub.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal_supply_granular\\gdp_qtr_nominal_supply_granular.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_qtr_nominal_demand": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_demand.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal_demand\\gdp_qtr_nominal_demand.parquet",
+   "downloaded_at": "2026-09-09 15:57:32"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_demand.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal_demand\\gdp_qtr_nominal_demand.csv",
+   "downloaded_at": "2026-09-09 15:57:32"
+  }
+ },
+ "gdp_qtr_real": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real\\gdp_qtr_real.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real\\gdp_qtr_real.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_qtr_nominal_demand_granular": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_demand_sub.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal_demand_granular\\gdp_qtr_nominal_demand_granular.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_demand_sub.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_nominal_demand_granular\\gdp_qtr_nominal_demand_granular.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_qtr_real_supply": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_supply.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_supply\\gdp_qtr_real_supply.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_supply.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_supply\\gdp_qtr_real_supply.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_qtr_real_supply_granular": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_supply_sub.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_supply_granular\\gdp_qtr_real_supply_granular.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_supply_sub.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_supply_granular\\gdp_qtr_real_supply_granular.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_qtr_real_demand": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_demand.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_demand\\gdp_qtr_real_demand.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_demand.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_demand\\gdp_qtr_real_demand.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_qtr_real_sa_supply": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa_supply.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_sa_supply\\gdp_qtr_real_sa_supply.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa_supply.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_sa_supply\\gdp_qtr_real_sa_supply.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_qtr_real_sa": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_sa\\gdp_qtr_real_sa.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_sa\\gdp_qtr_real_sa.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_qtr_real_demand_granular": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_demand_sub.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_demand_granular\\gdp_qtr_real_demand_granular.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_demand_sub.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_demand_granular\\gdp_qtr_real_demand_granular.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_qtr_real_sa_demand": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa_demand.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_sa_demand\\gdp_qtr_real_sa_demand.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa_demand.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_qtr_real_sa_demand\\gdp_qtr_real_sa_demand.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_state_real_supply": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_state_real_supply.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_state_real_supply\\gdp_state_real_supply.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_state_real_supply.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_state_real_supply\\gdp_state_real_supply.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "bop_balance": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/bop/bop_balance.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\bop_balance\\bop_balance.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/bop/bop_balance.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\bop_balance\\bop_balance.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "fdi_flows": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/bop/fdi_flows.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fdi_flows\\fdi_flows.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/bop/fdi_flows.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fdi_flows\\fdi_flows.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "gdp_lookup": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_lookup.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_lookup\\gdp_lookup.csv",
+   "downloaded_at": "2026-09-09 15:57:33"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_lookup.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_lookup\\gdp_lookup.parquet",
+   "downloaded_at": "2026-09-09 15:57:33"
+  }
+ },
+ "gdp_district_real_supply": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_district_real_supply.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_district_real_supply\\gdp_district_real_supply.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/gdp/gdp_district_real_supply.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\gdp_district_real_supply\\gdp_district_real_supply.csv",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "schools_district": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/education/schools_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\schools_district\\schools_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/education/schools_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\schools_district\\schools_district.csv",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "teachers_district": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/education/teachers_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\teachers_district\\teachers_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/education/teachers_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\teachers_district\\teachers_district.csv",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "lecturers_uni": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/education/lecturers_uni.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lecturers_uni\\lecturers_uni.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/education/lecturers_uni.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lecturers_uni\\lecturers_uni.csv",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "completion_school_state": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/education/completion_school_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\completion_school_state\\completion_school_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/education/completion_school_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\completion_school_state\\completion_school_state.csv",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "nutrition_children_sex": {
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/nutrition_status_u5_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\nutrition_children_sex\\nutrition_children_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:34"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/nutrition_status_u5_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\nutrition_children_sex\\nutrition_children_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "enrolment_school_district": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/education/enrolment_school_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\enrolment_school_district\\enrolment_school_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/education/enrolment_school_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\enrolment_school_district\\enrolment_school_district.csv",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "nutrition_children_strata": {
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/nutrition_status_u5_strata.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\nutrition_children_strata\\nutrition_children_strata.csv",
+   "downloaded_at": "2026-09-09 15:57:34"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/nutrition_status_u5_strata.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\nutrition_children_strata\\nutrition_children_strata.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "sanitation_access": {
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/sanitation_access.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sanitation_access\\sanitation_access.csv",
+   "downloaded_at": "2026-09-09 15:57:34"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/sanitation_access.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sanitation_access\\sanitation_access.parquet",
+   "downloaded_at": "2026-09-09 15:57:34"
+  }
+ },
+ "healthcare_staff": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/healthcare_staff.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\healthcare_staff\\healthcare_staff.parquet",
+   "downloaded_at": "2026-09-09 15:57:35"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/healthcare_staff.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\healthcare_staff\\healthcare_staff.csv",
+   "downloaded_at": "2026-09-09 15:57:35"
+  }
+ },
+ "hospital_beds": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/hospital_beds.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hospital_beds\\hospital_beds.parquet",
+   "downloaded_at": "2026-09-09 15:57:35"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/hospital_beds.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\hospital_beds\\hospital_beds.csv",
+   "downloaded_at": "2026-09-09 15:57:35"
+  }
+ },
+ "organ_pledges": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/organ_pledges.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\organ_pledges\\organ_pledges.parquet",
+   "downloaded_at": "2026-09-09 15:57:35"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/organ_pledges.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\organ_pledges\\organ_pledges.csv",
+   "downloaded_at": "2026-09-09 15:57:35"
+  }
+ },
+ "blood_donations": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/blood_donations.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\blood_donations\\blood_donations.parquet",
+   "downloaded_at": "2026-09-09 15:57:35"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/blood_donations.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\blood_donations\\blood_donations.csv",
+   "downloaded_at": "2026-09-09 15:57:35"
+  }
+ },
+ "pekab40_screenings": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/pekab40_screenings.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pekab40_screenings\\pekab40_screenings.parquet",
+   "downloaded_at": "2026-09-09 15:57:35"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/pekab40_screenings.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pekab40_screenings\\pekab40_screenings.csv",
+   "downloaded_at": "2026-09-09 15:57:35"
+  }
+ },
+ "blood_donations_state": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/blood_donations_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\blood_donations_state\\blood_donations_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:35"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/blood_donations_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\blood_donations_state\\blood_donations_state.csv",
+   "downloaded_at": "2026-09-09 15:57:37"
+  }
+ },
+ "organ_pledges_state": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/organ_pledges_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\organ_pledges_state\\organ_pledges_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:35"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/organ_pledges_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\organ_pledges_state\\organ_pledges_state.csv",
+   "downloaded_at": "2026-09-09 15:57:36"
+  }
+ },
+ "infant_immunisation": {
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/infant_immunisation.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\infant_immunisation\\infant_immunisation.csv",
+   "downloaded_at": "2026-09-09 15:57:35"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/infant_immunisation.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\infant_immunisation\\infant_immunisation.parquet",
+   "downloaded_at": "2026-09-09 15:57:35"
+  }
+ },
+ "pekab40_screenings_state": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/pekab40_screenings_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pekab40_screenings_state\\pekab40_screenings_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:36"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/pekab40_screenings_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pekab40_screenings_state\\pekab40_screenings_state.csv",
+   "downloaded_at": "2026-09-09 15:57:36"
+  }
+ },
+ "covid_deaths_linelist": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/covid_deaths_linelist.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\covid_deaths_linelist\\covid_deaths_linelist.parquet",
+   "downloaded_at": "2026-09-09 15:57:36"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/covid_deaths_linelist.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\covid_deaths_linelist\\covid_deaths_linelist.csv",
+   "downloaded_at": "2026-09-09 15:57:37"
+  }
+ },
+ "covid_cases_vaxstatus": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/covid_cases_vaxstatus.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\covid_cases_vaxstatus\\covid_cases_vaxstatus.parquet",
+   "downloaded_at": "2026-09-09 15:57:37"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/covid_cases_vaxstatus.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\covid_cases_vaxstatus\\covid_cases_vaxstatus.csv",
+   "downloaded_at": "2026-09-09 15:57:37"
+  }
+ },
+ "covid_cases": {
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/covid_cases.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\covid_cases\\covid_cases.csv",
+   "downloaded_at": "2026-09-09 15:57:37"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/covid_cases.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\covid_cases\\covid_cases.parquet",
+   "downloaded_at": "2026-09-09 15:57:37"
+  }
+ },
+ "vaxreg_covid": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/vaxreg_covid.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\vaxreg_covid\\vaxreg_covid.parquet",
+   "downloaded_at": "2026-09-09 15:57:37"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/vaxreg_covid.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\vaxreg_covid\\vaxreg_covid.csv",
+   "downloaded_at": "2026-09-09 15:57:37"
+  }
+ },
+ "covid_cases_age": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/covid_cases_age.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\covid_cases_age\\covid_cases_age.parquet",
+   "downloaded_at": "2026-09-09 15:57:37"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/covid_cases_age.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\covid_cases_age\\covid_cases_age.csv",
+   "downloaded_at": "2026-09-09 15:57:38"
+  }
+ },
+ "vaxreg_covid_demog": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/vaxreg_covid_demog.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\vaxreg_covid_demog\\vaxreg_covid_demog.parquet",
+   "downloaded_at": "2026-09-09 15:57:38"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/vaxreg_covid_demog.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\vaxreg_covid_demog\\vaxreg_covid_demog.csv",
+   "downloaded_at": "2026-09-09 15:57:39"
+  }
+ },
+ "std_state": {
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/std_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\std_state\\std_state.csv",
+   "downloaded_at": "2026-09-09 15:57:38"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/std_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\std_state\\std_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:38"
+  }
+ },
+ "pharmaceutical_manufacturers": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_manufacturers.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_manufacturers\\pharmaceutical_manufacturers.parquet",
+   "downloaded_at": "2026-09-09 15:57:39"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_manufacturers.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_manufacturers\\pharmaceutical_manufacturers.csv",
+   "downloaded_at": "2026-09-09 15:57:39"
+  }
+ },
+ "pharmaceutical_importers": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_importers.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_importers\\pharmaceutical_importers.parquet",
+   "downloaded_at": "2026-09-09 15:57:39"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_importers.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_importers\\pharmaceutical_importers.csv",
+   "downloaded_at": "2026-09-09 15:57:39"
+  }
+ },
+ "cosmetics_manufacturers": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/cosmetic_manufacturers.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cosmetics_manufacturers\\cosmetics_manufacturers.parquet",
+   "downloaded_at": "2026-09-09 15:57:39"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/cosmetic_manufacturers.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cosmetics_manufacturers\\cosmetics_manufacturers.csv",
+   "downloaded_at": "2026-09-09 15:57:39"
+  }
+ },
+ "pharmaceutical_wholesalers": {
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_wholesalers.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_wholesalers\\pharmaceutical_wholesalers.csv",
+   "downloaded_at": "2026-09-09 15:57:39"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_wholesalers.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_wholesalers\\pharmaceutical_wholesalers.parquet",
+   "downloaded_at": "2026-09-09 15:57:39"
+  }
+ },
+ "cosmetic_notifications_cancelled": {
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/cosmetic_notifications_cancelled.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cosmetic_notifications_cancelled\\cosmetic_notifications_cancelled.csv",
+   "downloaded_at": "2026-09-09 15:57:39"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/cosmetic_notifications_cancelled.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cosmetic_notifications_cancelled\\cosmetic_notifications_cancelled.parquet",
+   "downloaded_at": "2026-09-09 15:57:39"
+  }
+ },
+ "pharmaceutical_products_cancelled": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_products_cancelled\\pharmaceutical_products_cancelled.parquet",
+   "downloaded_at": "2026-09-09 15:57:39"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_products_cancelled\\pharmaceutical_products_cancelled.csv",
+   "downloaded_at": "2026-09-09 15:57:39"
+  }
+ },
+ "mnha": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/mnha.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\mnha\\mnha.parquet",
+   "downloaded_at": "2026-09-09 15:57:39"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/mnha.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\mnha\\mnha.csv",
+   "downloaded_at": "2026-09-09 15:57:39"
+  }
+ },
+ "mnha_moh": {
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/mnha_moh.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\mnha_moh\\mnha_moh.csv",
+   "downloaded_at": "2026-09-09 15:57:40"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/mnha_moh.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\mnha_moh\\mnha_moh.parquet",
+   "downloaded_at": "2026-09-09 15:57:40"
+  }
+ },
+ "ridership_ktmb_monthly": {
+  "csv": {
+   "url": "https://storage.data.gov.my/transportation/ktmb/ridership_ktmb_monthly.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_ktmb_monthly\\ridership_ktmb_monthly.csv",
+   "downloaded_at": "2026-09-09 15:57:40"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/transportation/ktmb/ridership_ktmb_monthly.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_ktmb_monthly\\ridership_ktmb_monthly.parquet",
+   "downloaded_at": "2026-09-09 15:57:40"
+  }
+ },
+ "ridership_ktmb_daily": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/transportation/ktmb/ridership_ktmb_daily.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_ktmb_daily\\ridership_ktmb_daily.parquet",
+   "downloaded_at": "2026-09-09 15:57:40"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/transportation/ktmb/ridership_ktmb_daily.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_ktmb_daily\\ridership_ktmb_daily.csv",
+   "downloaded_at": "2026-09-09 15:57:41"
+  }
+ },
+ "ridership_od_komuter": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "pharmaceutical_products": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_products\\pharmaceutical_products.parquet",
+   "downloaded_at": "2026-09-09 15:57:40"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pharmaceutical_products\\pharmaceutical_products.csv",
+   "downloaded_at": "2026-09-09 15:57:41"
+  }
+ },
+ "ridership_od_komuter_utara": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "ridership_od_intercity": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "ridership_od_ets": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "ridership_od_shuttle_tebrau": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "ridership_od_rapidrail_daily": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "ridership_od_brt_daily": {
+  "parquet": {
+   "unavailable": true
+  },
+  "csv": {
+   "unavailable": true
+  }
+ },
+ "cosmetic_notifications": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/healthcare/cosmetic_notifications.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cosmetic_notifications\\cosmetic_notifications.parquet",
+   "downloaded_at": "2026-09-09 15:57:41"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/healthcare/cosmetic_notifications.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cosmetic_notifications\\cosmetic_notifications.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "registration_transactions_all": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "registration_transactions_car": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "registration_transactions_motorcycle": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "ridership_headline": {
+  "csv": {
+   "url": "https://storage.data.gov.my/transportation/ridership_headline.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_headline\\ridership_headline.csv",
+   "downloaded_at": "2026-09-09 15:57:42"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/transportation/ridership_headline.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_headline\\ridership_headline.parquet",
+   "downloaded_at": "2026-09-09 15:57:42"
+  }
+ },
+ "registrations_type_fuel": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/transportation/registrations_type_fuel.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registrations_type_fuel\\registrations_type_fuel.parquet",
+   "downloaded_at": "2026-09-09 15:57:42"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/transportation/registrations_type_fuel.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registrations_type_fuel\\registrations_type_fuel.csv",
+   "downloaded_at": "2026-09-09 15:57:42"
+  }
+ },
+ "crime_district": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicsafety/crime_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\crime_district\\crime_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:42"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicsafety/crime_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\crime_district\\crime_district.csv",
+   "downloaded_at": "2026-09-09 15:57:42"
+  }
+ },
+ "legal_advisory_branch": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/legal_advisory_branch.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\legal_advisory_branch\\legal_advisory_branch.parquet",
+   "downloaded_at": "2026-09-09 15:57:42"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/legal_advisory_branch.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\legal_advisory_branch\\legal_advisory_branch.csv",
+   "downloaded_at": "2026-09-09 15:57:42"
+  }
+ },
+ "prisoners_state": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicsafety/prisoners_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\prisoners_state\\prisoners_state.csv",
+   "downloaded_at": "2026-09-09 15:57:42"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicsafety/prisoners_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\prisoners_state\\prisoners_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:42"
+  }
+ },
+ "legal_advisory_category": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/legal_advisory_category.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\legal_advisory_category\\legal_advisory_category.parquet",
+   "downloaded_at": "2026-09-09 15:57:42"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/legal_advisory_category.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\legal_advisory_category\\legal_advisory_category.csv",
+   "downloaded_at": "2026-09-09 15:57:42"
+  }
+ },
+ "prisoners_prison": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicsafety/prisoners_prison.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\prisoners_prison\\prisoners_prison.parquet",
+   "downloaded_at": "2026-09-09 15:57:43"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicsafety/prisoners_prison.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\prisoners_prison\\prisoners_prison.csv",
+   "downloaded_at": "2026-09-09 15:57:43"
+  }
+ },
+ "legal_advisory_subcategory": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/legal_advisory_subcategory.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\legal_advisory_subcategory\\legal_advisory_subcategory.parquet",
+   "downloaded_at": "2026-09-09 15:57:43"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/legal_advisory_subcategory.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\legal_advisory_subcategory\\legal_advisory_subcategory.csv",
+   "downloaded_at": "2026-09-09 15:57:43"
+  }
+ },
+ "drug_arrests_ethnicity": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_arrests_ethnicity.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_arrests_ethnicity\\drug_arrests_ethnicity.csv",
+   "downloaded_at": "2026-09-09 15:57:43"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_arrests_ethnicity.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_arrests_ethnicity\\drug_arrests_ethnicity.parquet",
+   "downloaded_at": "2026-09-09 15:57:43"
+  }
+ },
+ "legal_advisory_case_type": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/legal_advisory_case_type.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\legal_advisory_case_type\\legal_advisory_case_type.parquet",
+   "downloaded_at": "2026-09-09 15:57:43"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/legal_advisory_case_type.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\legal_advisory_case_type\\legal_advisory_case_type.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "drug_arrests_age": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_arrests_age.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_arrests_age\\drug_arrests_age.parquet",
+   "downloaded_at": "2026-09-09 15:57:43"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_arrests_age.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_arrests_age\\drug_arrests_age.csv",
+   "downloaded_at": "2026-09-09 15:57:43"
+  }
+ },
+ "drug_addicts_drugtype": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_addicts_drugtype.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_addicts_drugtype\\drug_addicts_drugtype.csv",
+   "downloaded_at": "2026-09-09 15:57:43"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_addicts_drugtype.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_addicts_drugtype\\drug_addicts_drugtype.parquet",
+   "downloaded_at": "2026-09-09 15:57:43"
+  }
+ },
+ "drug_addicts_age": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_addicts_age.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_addicts_age\\drug_addicts_age.parquet",
+   "downloaded_at": "2026-09-09 15:57:43"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_addicts_age.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_addicts_age\\drug_addicts_age.csv",
+   "downloaded_at": "2026-09-09 15:57:43"
+  }
+ },
+ "drug_addicts_education": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_addicts_education.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_addicts_education\\drug_addicts_education.parquet",
+   "downloaded_at": "2026-09-09 15:57:43"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_addicts_education.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_addicts_education\\drug_addicts_education.csv",
+   "downloaded_at": "2026-09-09 15:57:43"
+  }
+ },
+ "drug_addicts_occupation": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_addicts_occupation.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_addicts_occupation\\drug_addicts_occupation.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicsafety/drug_addicts_occupation.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\drug_addicts_occupation\\drug_addicts_occupation.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "epf_dividend": {
+  "csv": {
+   "url": "https://storage.data.gov.my/welfare/epf_dividend.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\epf_dividend\\epf_dividend.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/welfare/epf_dividend.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\epf_dividend\\epf_dividend.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "forest_reserve": {
+  "csv": {
+   "url": "https://storage.data.gov.my/environment/forest_reserve.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\forest_reserve\\forest_reserve.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/environment/forest_reserve.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\forest_reserve\\forest_reserve.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "forest_reserve_state": {
+  "csv": {
+   "url": "https://storage.data.gov.my/environment/forest_reserve_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\forest_reserve_state\\forest_reserve_state.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/environment/forest_reserve_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\forest_reserve_state\\forest_reserve_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "electricity_consumption": {
+  "csv": {
+   "url": "https://storage.data.gov.my/energy/electricity_consumption.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\electricity_consumption\\electricity_consumption.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/energy/electricity_consumption.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\electricity_consumption\\electricity_consumption.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "electricity_supply": {
+  "csv": {
+   "url": "https://storage.data.gov.my/energy/electricity_supply.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\electricity_supply\\electricity_supply.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/energy/electricity_supply.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\electricity_supply\\electricity_supply.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "water_consumption": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/water/water_consumption.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\water_consumption\\water_consumption.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/water/water_consumption.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\water_consumption\\water_consumption.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "electricity_access": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/energy/electricity_access.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\electricity_access\\electricity_access.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/energy/electricity_access.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\electricity_access\\electricity_access.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "water_production": {
+  "csv": {
+   "url": "https://storage.data.gov.my/water/water_production.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\water_production\\water_production.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/water/water_production.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\water_production\\water_production.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "water_access": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/water/water_access.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\water_access\\water_access.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/water/water_access.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\water_access\\water_access.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "air_pollution": {
+  "csv": {
+   "url": "https://storage.data.gov.my/environment/air_pollution.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\air_pollution\\air_pollution.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/environment/air_pollution.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\air_pollution\\air_pollution.parquet",
+   "downloaded_at": "2026-09-09 15:57:44"
+  }
+ },
+ "ghg_emissions": {
+  "csv": {
+   "url": "https://storage.data.gov.my/environment/ghg_emissions.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ghg_emissions\\ghg_emissions.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/environment/ghg_emissions.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ghg_emissions\\ghg_emissions.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "water_pollution_basin": {
+  "csv": {
+   "url": "https://storage.data.gov.my/environment/water_pollution_basin.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\water_pollution_basin\\water_pollution_basin.csv",
+   "downloaded_at": "2026-09-09 15:57:44"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/environment/water_pollution_basin.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\water_pollution_basin\\water_pollution_basin.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "cellular_subscribers": {
+  "csv": {
+   "url": "https://storage.data.gov.my/communications/cellular_subscribers.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cellular_subscribers\\cellular_subscribers.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/communications/cellular_subscribers.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cellular_subscribers\\cellular_subscribers.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_month": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month\\lfs_month.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month\\lfs_month.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_month_sa": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month_sa.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month_sa\\lfs_month_sa.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month_sa.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month_sa\\lfs_month_sa.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_month_status": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month_status.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month_status\\lfs_month_status.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month_status.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month_status\\lfs_month_status.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_month_duration": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month_duration.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month_duration\\lfs_month_duration.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month_duration.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month_duration\\lfs_month_duration.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_month_youth": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month_youth.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month_youth\\lfs_month_youth.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_month_youth.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_month_youth\\lfs_month_youth.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_qtr": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr\\lfs_qtr.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr\\lfs_qtr.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_qtr_sru_age": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_age.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_sru_age\\lfs_qtr_sru_age.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_age.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_sru_age\\lfs_qtr_sru_age.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_qtr_sru_sex": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_sru_sex\\lfs_qtr_sru_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_sru_sex\\lfs_qtr_sru_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_qtr_tru_age": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_age.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_tru_age\\lfs_qtr_tru_age.csv",
+   "downloaded_at": "2026-09-09 15:57:45"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_age.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_tru_age\\lfs_qtr_tru_age.parquet",
+   "downloaded_at": "2026-09-09 15:57:45"
+  }
+ },
+ "lfs_qtr_tru_sex": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_tru_sex\\lfs_qtr_tru_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_tru_sex\\lfs_qtr_tru_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "lfs_qtr_state": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_state\\lfs_qtr_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_qtr_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_qtr_state\\lfs_qtr_state.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "lfs_year": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_year.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_year\\lfs_year.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_year.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_year\\lfs_year.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "lfs_year_sex": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_year_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_year_sex\\lfs_year_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_year_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_year_sex\\lfs_year_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "lfs_district": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_district.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_district\\lfs_district.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_district.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_district\\lfs_district.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "lfs_state_sex": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_state_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_state_sex\\lfs_state_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_state_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_state_sex\\lfs_state_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "lfs_parlimen": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_parlimen.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_parlimen\\lfs_parlimen.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_parlimen.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_parlimen\\lfs_parlimen.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "employment_sector": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/employment_sector.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\employment_sector\\employment_sector.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/employment_sector.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\employment_sector\\employment_sector.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "lfs_dun": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_dun.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_dun\\lfs_dun.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/lfs_dun.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lfs_dun\\lfs_dun.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "productivity_annual": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/productivity_annual.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\productivity_annual\\productivity_annual.parquet",
+   "downloaded_at": "2026-09-09 15:57:46"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/productivity_annual.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\productivity_annual\\productivity_annual.csv",
+   "downloaded_at": "2026-09-09 15:57:46"
+  }
+ },
+ "productivity_annual_priority": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/productivity_annual_p14.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\productivity_annual_priority\\productivity_annual_priority.csv",
+   "downloaded_at": "2026-09-09 15:57:47"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/productivity_annual_p14.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\productivity_annual_priority\\productivity_annual_priority.parquet",
+   "downloaded_at": "2026-09-09 15:57:47"
+  }
+ },
+ "productivity_lookup": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/productivity_lookup.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\productivity_lookup\\productivity_lookup.csv",
+   "downloaded_at": "2026-09-09 15:57:47"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/productivity_lookup.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\productivity_lookup\\productivity_lookup.parquet",
+   "downloaded_at": "2026-09-09 15:57:47"
+  }
+ },
+ "productivity_qtr": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/labour/productivity_qtr.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\productivity_qtr\\productivity_qtr.parquet",
+   "downloaded_at": "2026-09-09 15:57:47"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/labour/productivity_qtr.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\productivity_qtr\\productivity_qtr.csv",
+   "downloaded_at": "2026-09-09 15:57:47"
+  }
+ },
+ "monetary_aggregates": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/money_aggregates.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\monetary_aggregates\\monetary_aggregates.parquet",
+   "downloaded_at": "2026-09-09 15:57:47"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/money_aggregates.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\monetary_aggregates\\monetary_aggregates.csv",
+   "downloaded_at": "2026-09-09 15:57:47"
+  }
+ },
+ "currency_in_circulation": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/currency_in_circulation.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\currency_in_circulation\\currency_in_circulation.parquet",
+   "downloaded_at": "2026-09-09 15:57:47"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/currency_in_circulation.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\currency_in_circulation\\currency_in_circulation.csv",
+   "downloaded_at": "2026-09-09 15:57:47"
+  }
+ },
+ "currency_in_circulation_annual": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/currency_in_circulation_annual.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\currency_in_circulation_annual\\currency_in_circulation_annual.parquet",
+   "downloaded_at": "2026-09-09 15:57:47"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/currency_in_circulation_annual.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\currency_in_circulation_annual\\currency_in_circulation_annual.csv",
+   "downloaded_at": "2026-09-09 15:57:47"
+  }
+ },
+ "interestrates_annual": {
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/interest_rates_annual.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\interestrates_annual\\interestrates_annual.csv",
+   "downloaded_at": "2026-09-09 15:57:47"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/interest_rates_annual.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\interestrates_annual\\interestrates_annual.parquet",
+   "downloaded_at": "2026-09-09 15:57:47"
+  }
+ },
+ "interestrates": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/interest_rates.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\interestrates\\interestrates.parquet",
+   "downloaded_at": "2026-09-09 15:57:47"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/interest_rates.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\interestrates\\interestrates.csv",
+   "downloaded_at": "2026-09-09 15:57:47"
+  }
+ },
+ "trnsc_daily_jompay": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/payments/trnsc_daily_jompay.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trnsc_daily_jompay\\trnsc_daily_jompay.parquet",
+   "downloaded_at": "2026-09-09 15:57:47"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/payments/trnsc_daily_jompay.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trnsc_daily_jompay\\trnsc_daily_jompay.csv",
+   "downloaded_at": "2026-09-09 15:57:48"
+  }
+ },
+ "trnsc_daily_fpx": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/payments/trnsc_daily_fpx.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trnsc_daily_fpx\\trnsc_daily_fpx.parquet",
+   "downloaded_at": "2026-09-09 15:57:48"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/payments/trnsc_daily_fpx.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trnsc_daily_fpx\\trnsc_daily_fpx.csv",
+   "downloaded_at": "2026-09-09 15:57:48"
+  }
+ },
+ "trnsc_daily_directdebit": {
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/payments/trnsc_daily_directdebit.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trnsc_daily_directdebit\\trnsc_daily_directdebit.csv",
+   "downloaded_at": "2026-09-09 15:57:48"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/payments/trnsc_daily_directdebit.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trnsc_daily_directdebit\\trnsc_daily_directdebit.parquet",
+   "downloaded_at": "2026-09-09 15:57:48"
+  }
+ },
+ "trnsc_daily_san": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/payments/trnsc_daily_san.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trnsc_daily_san\\trnsc_daily_san.parquet",
+   "downloaded_at": "2026-09-09 15:57:48"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/payments/trnsc_daily_san.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trnsc_daily_san\\trnsc_daily_san.csv",
+   "downloaded_at": "2026-09-09 15:57:48"
+  }
+ },
+ "payment_channels": {
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/payments/channels.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\payment_channels\\payment_channels.csv",
+   "downloaded_at": "2026-09-09 15:57:48"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/payments/channels.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\payment_channels\\payment_channels.parquet",
+   "downloaded_at": "2026-09-09 15:57:48"
+  }
+ },
+ "payment_instruments": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/payments/instruments.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\payment_instruments\\payment_instruments.parquet",
+   "downloaded_at": "2026-09-09 15:57:48"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/payments/instruments.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\payment_instruments\\payment_instruments.csv",
+   "downloaded_at": "2026-09-09 15:57:48"
+  }
+ },
+ "payment_systems": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/payments/systems.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\payment_systems\\payment_systems.parquet",
+   "downloaded_at": "2026-09-09 15:57:48"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/payments/systems.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\payment_systems\\payment_systems.csv",
+   "downloaded_at": "2026-09-09 15:57:48"
+  }
+ },
+ "exchangerates_daily_1130": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/exr/daily_1130.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates_daily_1130\\exchangerates_daily_1130.parquet",
+   "downloaded_at": "2026-09-09 15:57:48"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/exr/daily_1130.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates_daily_1130\\exchangerates_daily_1130.csv",
+   "downloaded_at": "2026-09-09 15:57:49"
+  }
+ },
+ "cpi_annual": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_annual.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_annual\\cpi_annual.csv",
+   "downloaded_at": "2026-09-09 15:57:49"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_annual.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_annual\\cpi_annual.parquet",
+   "downloaded_at": "2026-09-09 15:57:49"
+  }
+ },
+ "exchangerates": {
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/exr/monthly.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates\\exchangerates.csv",
+   "downloaded_at": "2026-09-09 15:57:49"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/exr/monthly.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates\\exchangerates.parquet",
+   "downloaded_at": "2026-09-09 15:57:49"
+  }
+ },
+ "exchangerates_daily_0900": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/exr/daily_0900.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates_daily_0900\\exchangerates_daily_0900.parquet",
+   "downloaded_at": "2026-09-09 15:57:49"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/exr/daily_0900.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates_daily_0900\\exchangerates_daily_0900.csv",
+   "downloaded_at": "2026-09-09 15:57:50"
+  }
+ },
+ "cpi_annual_inflation": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_annual_inflation.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_annual_inflation\\cpi_annual_inflation.csv",
+   "downloaded_at": "2026-09-09 15:57:49"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_annual_inflation.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_annual_inflation\\cpi_annual_inflation.parquet",
+   "downloaded_at": "2026-09-09 15:57:49"
+  }
+ },
+ "exchangerates_daily_1200": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/exr/daily_1200.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates_daily_1200\\exchangerates_daily_1200.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/exr/daily_1200.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates_daily_1200\\exchangerates_daily_1200.csv",
+   "downloaded_at": "2026-09-09 15:57:50"
+  }
+ },
+ "cpi_headline": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_headline\\cpi_headline.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_headline\\cpi_headline.csv",
+   "downloaded_at": "2026-09-09 15:57:50"
+  }
+ },
+ "exchangerates_daily_1700": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/exr/daily_1700.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates_daily_1700\\exchangerates_daily_1700.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/exr/daily_1700.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\exchangerates_daily_1700\\exchangerates_daily_1700.csv",
+   "downloaded_at": "2026-09-09 15:57:50"
+  }
+ },
+ "cpi_headline_inflation": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_inflation.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_headline_inflation\\cpi_headline_inflation.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_inflation.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_headline_inflation\\cpi_headline_inflation.csv",
+   "downloaded_at": "2026-09-09 15:57:50"
+  }
+ },
+ "cpi_core": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_core.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_core\\cpi_core.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_core.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_core\\cpi_core.csv",
+   "downloaded_at": "2026-09-09 15:57:50"
+  }
+ },
+ "cpi_core_inflation": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_core_inflation.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_core_inflation\\cpi_core_inflation.csv",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_core_inflation.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_core_inflation\\cpi_core_inflation.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  }
+ },
+ "cpi_state": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_state\\cpi_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_state\\cpi_state.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "cpi_3d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_3d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_3d\\cpi_3d.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_3d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_3d\\cpi_3d.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "cpi_state_inflation": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_state_inflation.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_state_inflation\\cpi_state_inflation.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_state_inflation.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_state_inflation\\cpi_state_inflation.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "cpi_4d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_4d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_4d\\cpi_4d.parquet",
+   "downloaded_at": "2026-09-09 15:57:50"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_4d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_4d\\cpi_4d.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "cpi_strata": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_strata.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_strata\\cpi_strata.parquet",
+   "downloaded_at": "2026-09-09 15:57:51"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_strata.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_strata\\cpi_strata.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "cpi_5d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_5d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_5d\\cpi_5d.parquet",
+   "downloaded_at": "2026-09-09 15:57:51"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_5d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_5d\\cpi_5d.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "pricecatcher": {
+  "csv": {
+   "unavailable": true
+  },
+  "parquet": {
+   "unavailable": true
+  }
+ },
+ "cpi_lowincome": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_lowincome.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_lowincome\\cpi_lowincome.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/cpi/cpi_2d_lowincome.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\cpi_lowincome\\cpi_lowincome.parquet",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "lookup_item": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/pricecatcher/lookup_item.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lookup_item\\lookup_item.parquet",
+   "downloaded_at": "2026-09-09 15:57:51"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/pricecatcher/lookup_item.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lookup_item\\lookup_item.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "ppi": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi\\ppi.parquet",
+   "downloaded_at": "2026-09-09 15:57:51"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi\\ppi.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "lookup_premise": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/pricecatcher/lookup_premise.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lookup_premise\\lookup_premise.parquet",
+   "downloaded_at": "2026-09-09 15:57:51"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/pricecatcher/lookup_premise.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lookup_premise\\lookup_premise.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "ppi_1d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_1d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_1d\\ppi_1d.parquet",
+   "downloaded_at": "2026-09-09 15:57:51"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_1d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_1d\\ppi_1d.csv",
+   "downloaded_at": "2026-09-09 15:57:51"
+  }
+ },
+ "ppi_2d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_2d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_2d\\ppi_2d.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_2d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_2d\\ppi_2d.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "ppi_3d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_3d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_3d\\ppi_3d.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_3d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_3d\\ppi_3d.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "ppi_sitc": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_sitc.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_sitc\\ppi_sitc.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_sitc.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_sitc\\ppi_sitc.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "sppi": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/sppi.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sppi\\sppi.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/sppi.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sppi\\sppi.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "ppi_sop": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_sop.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_sop\\ppi_sop.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/ppi_sop.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ppi_sop\\ppi_sop.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "sppi_1d": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/sppi_1d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sppi_1d\\sppi_1d.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/sppi_1d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sppi_1d\\sppi_1d.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "sppi_2d": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/sppi_2d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sppi_2d\\sppi_2d.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/sppi_2d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sppi_2d\\sppi_2d.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "sppi_3d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ppi/sppi_3d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sppi_3d\\sppi_3d.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ppi/sppi_3d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sppi_3d\\sppi_3d.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "fuelprice": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/commodities/fuelprice.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fuelprice\\fuelprice.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/commodities/fuelprice.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fuelprice\\fuelprice.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "federal_finance_qtr": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_qtr.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_qtr\\federal_finance_qtr.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_qtr.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_qtr\\federal_finance_qtr.csv",
+   "downloaded_at": "2026-09-09 15:57:52"
+  }
+ },
+ "federal_finance_qtr_revenue": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_revenue.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_qtr_revenue\\federal_finance_qtr_revenue.parquet",
+   "downloaded_at": "2026-09-09 15:57:52"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_revenue.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_qtr_revenue\\federal_finance_qtr_revenue.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "federal_finance_qtr_oe": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_oe.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_qtr_oe\\federal_finance_qtr_oe.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_oe.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_qtr_oe\\federal_finance_qtr_oe.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "federal_finance_qtr_de": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_de.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_qtr_de\\federal_finance_qtr_de.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_de.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_qtr_de\\federal_finance_qtr_de.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "federal_finance_year": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_year.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_year\\federal_finance_year.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_year.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_year\\federal_finance_year.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "federal_finance_year_oe": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_year_oe.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_year_oe\\federal_finance_year_oe.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_year_oe.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_year_oe\\federal_finance_year_oe.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "federal_finance_year_revenue": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_year_revenue.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_year_revenue\\federal_finance_year_revenue.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_year_revenue.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_year_revenue\\federal_finance_year_revenue.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "federal_finance_year_de": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_year_de.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_year_de\\federal_finance_year_de.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_year_de.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_finance_year_de\\federal_finance_year_de.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "state_finance_expenditure": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/state_finance_expenditure.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\state_finance_expenditure\\state_finance_expenditure.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/state_finance_expenditure.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\state_finance_expenditure\\state_finance_expenditure.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "state_finance_revenue": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/state_finance_revenue.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\state_finance_revenue\\state_finance_revenue.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/state_finance_revenue.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\state_finance_revenue\\state_finance_revenue.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "federal_budget_moe": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/budget_allocation_moe.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_budget_moe\\federal_budget_moe.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/budget_allocation_moe.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_budget_moe\\federal_budget_moe.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "federal_budget_moh": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/budget_allocation_moh.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_budget_moh\\federal_budget_moh.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/budget_allocation_moh.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\federal_budget_moh\\federal_budget_moh.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "parliament_sex": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/parliament_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\parliament_sex\\parliament_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:53"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/parliament_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\parliament_sex\\parliament_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:53"
+  }
+ },
+ "local_authority_sex": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/local_authority_sex.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\local_authority_sex\\local_authority_sex.csv",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/local_authority_sex.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\local_authority_sex\\local_authority_sex.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  }
+ },
+ "government_apps": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/government_apps.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\government_apps\\government_apps.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/government_apps.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\government_apps\\government_apps.csv",
+   "downloaded_at": "2026-09-09 15:57:54"
+  }
+ },
+ "government_apps_active": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/government_apps_active.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\government_apps_active\\government_apps_active.csv",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/government_apps_active.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\government_apps_active\\government_apps_active.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  }
+ },
+ "government_apps_reviews": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/government_apps_reviews.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\government_apps_reviews\\government_apps_reviews.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/government_apps_reviews.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\government_apps_reviews\\government_apps_reviews.csv",
+   "downloaded_at": "2026-09-09 15:57:54"
+  }
+ },
+ "government_apps_downloads": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/government_apps_downloads.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\government_apps_downloads\\government_apps_downloads.csv",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/government_apps_downloads.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\government_apps_downloads\\government_apps_downloads.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  }
+ },
+ "domains": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/domains.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\domains\\domains.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/domains.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\domains\\domains.csv",
+   "downloaded_at": "2026-09-09 15:57:54"
+  }
+ },
+ "domains_ipv6": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/domains_ipv6.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\domains_ipv6\\domains_ipv6.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/domains_ipv6.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\domains_ipv6\\domains_ipv6.csv",
+   "downloaded_at": "2026-09-09 15:57:54"
+  }
+ },
+ "domains_dnssec": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/domains_dnssec.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\domains_dnssec\\domains_dnssec.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/domains_dnssec.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\domains_dnssec\\domains_dnssec.csv",
+   "downloaded_at": "2026-09-09 15:57:54"
+  }
+ },
+ "domains_idn": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/domains_idn.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\domains_idn\\domains_idn.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/domains_idn.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\domains_idn\\domains_idn.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "iowrt": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/iowrt/iowrt.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\iowrt\\iowrt.csv",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/iowrt/iowrt.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\iowrt\\iowrt.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  }
+ },
+ "iowrt_2d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/iowrt/iowrt_2d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\iowrt_2d\\iowrt_2d.parquet",
+   "downloaded_at": "2026-09-09 15:57:54"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/iowrt/iowrt_2d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\iowrt_2d\\iowrt_2d.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "iowrt_3d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/iowrt/iowrt_3d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\iowrt_3d\\iowrt_3d.parquet",
+   "downloaded_at": "2026-09-09 15:57:55"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/iowrt/iowrt_3d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\iowrt_3d\\iowrt_3d.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "ipi": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi\\ipi.parquet",
+   "downloaded_at": "2026-09-09 15:57:55"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi\\ipi.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "ipi_1d": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_1d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_1d\\ipi_1d.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_1d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_1d\\ipi_1d.parquet",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "ipi_2d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_2d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_2d\\ipi_2d.parquet",
+   "downloaded_at": "2026-09-09 15:57:55"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_2d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_2d\\ipi_2d.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "ipi_export": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_export.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_export\\ipi_export.parquet",
+   "downloaded_at": "2026-09-09 15:57:55"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_export.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_export\\ipi_export.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "ipi_3d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_3d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_3d\\ipi_3d.parquet",
+   "downloaded_at": "2026-09-09 15:57:55"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_3d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_3d\\ipi_3d.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "crops_state": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/agriculture/crops_state.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\crops_state\\crops_state.parquet",
+   "downloaded_at": "2026-09-09 15:57:55"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/agriculture/crops_state.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\crops_state\\crops_state.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "ipi_domestic": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_domestic.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_domestic\\ipi_domestic.parquet",
+   "downloaded_at": "2026-09-09 15:57:55"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_domestic.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_domestic\\ipi_domestic.csv",
+   "downloaded_at": "2026-09-09 15:57:55"
+  }
+ },
+ "ipi_5d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_5d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_5d\\ipi_5d.parquet",
+   "downloaded_at": "2026-09-09 15:57:55"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/ipi/ipi_5d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ipi_5d\\ipi_5d.csv",
+   "downloaded_at": "2026-09-09 15:57:56"
+  }
+ },
+ "crops_district_area": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/agriculture/crops_district_area.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\crops_district_area\\crops_district_area.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/agriculture/crops_district_area.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\crops_district_area\\crops_district_area.csv",
+   "downloaded_at": "2026-09-09 15:57:56"
+  }
+ },
+ "timber_production": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/agriculture/timber_products.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\timber_production\\timber_production.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/agriculture/timber_products.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\timber_production\\timber_production.csv",
+   "downloaded_at": "2026-09-09 15:57:56"
+  }
+ },
+ "crops_district_production": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/agriculture/crops_district_production.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\crops_district_production\\crops_district_production.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/agriculture/crops_district_production.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\crops_district_production\\crops_district_production.csv",
+   "downloaded_at": "2026-09-09 15:57:56"
+  }
+ },
+ "fish_landings": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/agriculture/fish_landings.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fish_landings\\fish_landings.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/agriculture/fish_landings.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\fish_landings\\fish_landings.csv",
+   "downloaded_at": "2026-09-09 15:57:56"
+  }
+ },
+ "mineral_extraction": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/mining/mineral_extraction.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\mineral_extraction\\mineral_extraction.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/mining/mineral_extraction.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\mineral_extraction\\mineral_extraction.csv",
+   "downloaded_at": "2026-09-09 15:57:56"
+  }
+ },
+ "trade_headline": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/trade/trade_headline.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trade_headline\\trade_headline.csv",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/trade/trade_headline.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trade_headline\\trade_headline.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  }
+ },
+ "sdg_03-3-1": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_03-3-1.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_03-3-1\\sdg_03-3-1.csv",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_03-3-1.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_03-3-1\\sdg_03-3-1.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  }
+ },
+ "sdg_04-6-1": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_04-6-1.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_04-6-1\\sdg_04-6-1.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_04-6-1.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_04-6-1\\sdg_04-6-1.csv",
+   "downloaded_at": "2026-09-09 15:57:57"
+  }
+ },
+ "trade_sitc_1d": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/trade/trade_sitc_1d.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trade_sitc_1d\\trade_sitc_1d.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/trade/trade_sitc_1d.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trade_sitc_1d\\trade_sitc_1d.csv",
+   "downloaded_at": "2026-09-09 15:57:56"
+  }
+ },
+ "trade_enduse_bec": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/trade/trade_enduse_bec.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trade_enduse_bec\\trade_enduse_bec.parquet",
+   "downloaded_at": "2026-09-09 15:57:56"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/trade/trade_enduse_bec.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\trade_enduse_bec\\trade_enduse_bec.csv",
+   "downloaded_at": "2026-09-09 15:57:57"
+  }
+ },
+ "sdg_10-c-1": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_10-c-1.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_10-c-1\\sdg_10-c-1.csv",
+   "downloaded_at": "2026-09-09 15:57:57"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_10-c-1.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_10-c-1\\sdg_10-c-1.parquet",
+   "downloaded_at": "2026-09-09 15:57:57"
+  }
+ },
+ "sdg_16-1-1": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_16-1-1.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_16-1-1\\sdg_16-1-1.csv",
+   "downloaded_at": "2026-09-09 15:57:57"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_16-1-1.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_16-1-1\\sdg_16-1-1.parquet",
+   "downloaded_at": "2026-09-09 15:57:57"
+  }
+ },
+ "sdg_16-2-2": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_16-2-2.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_16-2-2\\sdg_16-2-2.parquet",
+   "downloaded_at": "2026-09-09 15:57:57"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/sdg/sdg_16-2-2.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sdg_16-2-2\\sdg_16-2-2.csv",
+   "downloaded_at": "2026-09-09 15:57:57"
+  }
+ },
+ "economic_indicators": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/mei/mei.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\economic_indicators\\economic_indicators.csv",
+   "downloaded_at": "2026-09-09 15:57:57"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/mei/mei.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\economic_indicators\\economic_indicators.parquet",
+   "downloaded_at": "2026-09-09 15:57:57"
+  }
+ },
+ "currency_codes": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/exr/currency_codes.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\currency_codes\\currency_codes.parquet",
+   "downloaded_at": "2026-09-09 15:57:57"
+  },
+  "csv": {
+   "unavailable": true
+  }
+ },
+ "poskod": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/dictionaries/postcodes.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\poskod\\poskod.parquet",
+   "downloaded_at": "2026-09-09 15:57:57"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/dictionaries/postcodes.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\poskod\\poskod.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "msic": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/dictionaries/msic.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\msic\\msic.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/dictionaries/msic.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\msic\\msic.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "sitc": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/dictionaries/sitc.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sitc\\sitc.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/dictionaries/sitc.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sitc\\sitc.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "mcoicop": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/dictionaries/mcoicop.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\mcoicop\\mcoicop.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/dictionaries/mcoicop.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\mcoicop\\mcoicop.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "sitc_sop": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/dictionaries/sitc_sop.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sitc_sop\\sitc_sop.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/dictionaries/sitc_sop.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\sitc_sop\\sitc_sop.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "bec": {
+  "csv": {
+   "url": "https://storage.dosm.gov.my/dictionaries/bec.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\bec\\bec.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/dictionaries/bec.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\bec\\bec.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "lookup_federal_finance": {
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_lookup.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lookup_federal_finance\\lookup_federal_finance.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/federal_finance_lookup.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lookup_federal_finance\\lookup_federal_finance.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "lookup_money_banking": {
+  "csv": {
+   "url": "https://storage.data.gov.my/finsector/money_banking_lookup.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lookup_money_banking\\lookup_money_banking.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/finsector/money_banking_lookup.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\lookup_money_banking\\lookup_money_banking.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "usage_metrics": {
+  "csv": {
+   "url": "https://storage.data.gov.my/metrics/metrics_agg.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\usage_metrics\\usage_metrics.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/metrics/metrics_agg.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\usage_metrics\\usage_metrics.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "usage_metrics_openapi_cumul": {
+  "csv": {
+   "url": "https://storage.data.gov.my/metrics/metrics_openapi_cumul.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\usage_metrics_openapi_cumul\\usage_metrics_openapi_cumul.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/metrics/metrics_openapi_cumul.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\usage_metrics_openapi_cumul\\usage_metrics_openapi_cumul.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "almanak_astronomi": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/publicadmin/alamanak_astronomi.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\almanak_astronomi\\almanak_astronomi.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/publicadmin/alamanak_astronomi.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\almanak_astronomi\\almanak_astronomi.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "usage_metrics_openapi": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/metrics/metrics_openapi.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\usage_metrics_openapi\\usage_metrics_openapi.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/metrics/metrics_openapi.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\usage_metrics_openapi\\usage_metrics_openapi.csv",
+   "downloaded_at": "2026-09-09 15:57:59"
+  }
+ },
+ "metrics_content": {
+  "csv": {
+   "url": "https://storage.data.gov.my/metrics/metrics_content.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\metrics_content\\metrics_content.csv",
+   "downloaded_at": "2026-09-09 15:57:58"
+  },
+  "parquet": {
+   "url": "https://storage.data.gov.my/metrics/metrics_content.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\metrics_content\\metrics_content.parquet",
+   "downloaded_at": "2026-09-09 15:57:58"
+  }
+ },
+ "metrics_dataset_cumul": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/metrics/metrics_dataset_cumul.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\metrics_dataset_cumul\\metrics_dataset_cumul.parquet",
+   "downloaded_at": "2026-09-09 15:57:59"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/metrics/metrics_dataset_cumul.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\metrics_dataset_cumul\\metrics_dataset_cumul.csv",
+   "downloaded_at": "2026-09-09 15:57:59"
+  }
+ },
+ "datasets": {
+  "parquet": {
+   "url": "https://storage.data.gov.my/metrics/dataset_list.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\datasets\\datasets.parquet",
+   "downloaded_at": "2026-09-09 15:57:59"
+  },
+  "csv": {
+   "url": "https://storage.data.gov.my/metrics/dataset_list.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\datasets\\datasets.csv",
+   "downloaded_at": "2026-09-09 15:57:59"
+  }
+ },
+ "arc_dosm": {
+  "parquet": {
+   "url": "https://storage.dosm.gov.my/meta/arc.parquet",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\arc_dosm\\arc_dosm.parquet",
+   "downloaded_at": "2026-09-09 15:57:59"
+  },
+  "csv": {
+   "url": "https://storage.dosm.gov.my/meta/arc.csv",
+   "bytes": null,
+   "etag": "",
+   "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\arc_dosm\\arc_dosm.csv",
+   "downloaded_at": "2026-09-09 15:57:59"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "sitc",
+ "title": "SITC",
+ "description": "This table provides a partial lookup for codes under the Standard International Trade Classification (SITC) Revision 4, as applied and used by publications in Malaysia. The SITC is primarily used by the Department of Statistics Malaysia (DOSM), for instance when categorising and analysing external trade and commodity data.",
+ "data_as_of": "2006",
+ "last_updated": "2024-03-09",
+ "next_update": "-",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/dictionaries/sitc.csv",
+ "link_parquet": "https://storage.dosm.gov.my/dictionaries/sitc.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "digits",
+   "title": "Digits",
+   "description": "[Integer] Number of digits; this column can be used as a filter if you only want to keep 1 digit codes, for example"
+  },
+  {
+   "name": "section",
+   "title": "Section",
+   "description": "[String] 1-digit code; please ensure that you read this column as a string."
+  },
+  {
+   "name": "desc_en",
+   "title": "Description (EN)",
+   "description": "[String] Description for the code, in English"
+  },
+  {
+   "name": "desc_bm",
+   "title": "Description (BM)",
+   "description": "[String] Description for the code, in Malay"
+  }
+ ],
+ "methodology": "The SITC used in Malaysia is based on the [SITC published by the United Nations Statistics Division](https://unstats.un.org/unsd/trade/sitcrev4.htm), which is used as a global reference in the classification of international merchandise trade.",
+ "caveat": "This lookup only contains 1-digit codes for now. Its granularity will be increased from time to time, in line with the expansion of datasets on the site.",
+ "publication": "—",
+ "params": {
+  "id": "sitc"
+ },
+ "query": {
+  "id": "sitc"
+ },
+ "agency": "DOSM",
+ "category": null
+}

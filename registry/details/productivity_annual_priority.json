@@ -1,0 +1,55 @@
+{
+ "id": "productivity_annual_priority",
+ "title": "Annual Productivity for Priority Subsectors",
+ "description": "Annual labour productivity for 14 priority subsectors, with metrics on value added per worker, value added per hour worked, and total hours worked.",
+ "data_as_of": "2025",
+ "last_updated": "2026-02-23 12:30",
+ "next_update": "2027-02-23 12:30",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/labour/productivity_annual_p14.csv",
+ "link_parquet": "https://storage.dosm.gov.my/labour/productivity_annual_p14.parquet",
+ "link_preview": "https://storage.dosm.gov.my/labour/productivity_annual_p14.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[String] Series type, either absolute values ('abs') or year-on-year growth ('growth_yoy')"
+  },
+  {
+   "name": "subsector",
+   "title": "Priority Subsector",
+   "description": "[String] Code for the priority subsector, to be mapped using the [Lookup Table](https://open.dosm.gov.my/data-catalogue/productivity_lookup). The lookup table will give you the English and Malay definitions."
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "output_hour",
+   "title": "Output per Hour",
+   "description": "[Float, RM] The ratio of GDP to hours worked"
+  },
+  {
+   "name": "output_employment",
+   "title": "Output per Worker",
+   "description": "[Float, RM] The ratio of GDP to the number of employed persons"
+  }
+ ],
+ "methodology": "This dataset specifically focuses on providing productivity metrics for 11 priority subsectors identified by the Malaysia Productivity Blueprint (May 2017, revised 2023) as presenting high growth potential for the country, in line with the 11th Malaysia Plan.\n\nIn general, labour productivity is primarily measured using two metrics:\n\n- **Value added per worker**: Calculated by dividing GDP at constant prices (to strip out the effects of inflation) for a particular time period, by the number of workers in that period.\n- **Value added per hour worked**: Calculated by dividing GDP at constant prices for a particular time period, by the total hours worked in that period.\n\nIn short, labour productivity is a derived indicator which draws from national statistics on GDP and the labour force. For a deeper understanding of the compilation methodology and related concepts, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/productivity).",
+ "caveat": "Although these indicators are classified as measures of *labour* productivity, the definitions provided above make it clear that they do not refer to any notion of intrinsic labour capacity. In technical terms, the measures presented here are Single Factor Productivity measures, which implicitly include the contributions of all other factors of production. Consequently, this data should not be used for inference on how 'hardworking' or 'skilled' the Malaysian labour force is - more precise data is needed for such analysis.\n\nFurthermore, note that data for the most recent 3 years may be revised in subsequent releases. This is especially to ensure consistency with revisions to GDP data, since GDP serves as the numerator in calculation of labour productivity metrics.",
+ "publication": "[Labour Productivity, 4Q 2025](https://open.dosm.gov.my/publications/productivity_2025-q4), the latest edition of the quarterly labour productivity statistics published by DOSM. OpenDOSM also features a [dashboard on labour productivity](https://open.dosm.gov.my/dashboard/labour-productivity) where you can explore this data in a more interactive manner.",
+ "params": {
+  "id": "productivity_annual_priority"
+ },
+ "query": {
+  "id": "productivity_annual_priority"
+ },
+ "agency": "DOSM",
+ "category": null
+}

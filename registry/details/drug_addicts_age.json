@@ -1,0 +1,51 @@
+{
+ "id": "drug_addicts_age",
+ "title": "Drug Addicts by State & Age Group",
+ "description": "This dataset provides yearly statistics on the number of drug addicts in Malaysia, broken down by state and age group. It offers insights into the demographic distribution of drug addiction across different regions and age categories in the country.",
+ "data_as_of": "2023",
+ "last_updated": "2023-12-31",
+ "next_update": "-",
+ "frequency": "YEARLY",
+ "data_source": [
+  "AADK",
+  "KDN"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicsafety/drug_addicts_age.csv",
+ "link_parquet": "https://storage.data.gov.my/publicsafety/drug_addicts_age.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "The date on which the data was recorded, in YYYY-MM-DD format."
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "The state in Malaysia where the data on drug addiction was recorded. Includes all states and federal territories."
+  },
+  {
+   "name": "age_group",
+   "title": "Age Group",
+   "description": "The age group of the drug addicts, categorized into specific ranges such as 16-19, 20-24, etc."
+  },
+  {
+   "name": "addicts",
+   "title": "Number of Addicts",
+   "description": "The number of drug addicts recorded for the specified state and age group."
+  }
+ ],
+ "methodology": "The data is collected annually from national and state-level reports on drug addiction. The age groups are categorized into specific ranges to facilitate a detailed analysis of the demographic distribution of addicts. The dataset includes data from all Malaysian states and territories.",
+ "caveat": "The dataset may not account for unreported cases of drug addiction. Additionally, the age group labeled 'total' includes all age categories, which might lead to discrepancies if summed with other specific age groups.",
+ "publication": "N/A",
+ "params": {
+  "id": "drug_addicts_age"
+ },
+ "query": {
+  "id": "drug_addicts_age"
+ },
+ "agency": "AADK,KDN",
+ "category": null
+}

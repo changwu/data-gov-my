@@ -1,0 +1,60 @@
+{
+ "id": "schools_district",
+ "title": "Public Education Institutions by District",
+ "description": "Number of primary, secondary, and tertiary public education institutions at national, state, and district level.",
+ "data_as_of": "2025",
+ "last_updated": "2026-08-03 12:00",
+ "next_update": "—",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOE"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/education/schools_district.csv",
+ "link_parquet": "https://storage.data.gov.my/education/schools_district.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia for national-level data"
+  },
+  {
+   "name": "district",
+   "title": "District",
+   "description": "[Categorical] One of 160 administrative districts, or 'All Districts' for state-level data"
+  },
+  {
+   "name": "stage",
+   "title": "Education Stage",
+   "description": "[Categorical] Either primary, secondary, or tertiary education"
+  },
+  {
+   "name": "type",
+   "title": "School Type",
+   "description": "[Categorical] Type of public school or institution"
+  },
+  {
+   "name": "schools",
+   "title": "Number of Schools",
+   "description": "[Integer] Number of schools or institutions"
+  }
+ ],
+ "methodology": "This dataset is tabulated from school-level administrative records maintained by the Ministry of Education Malaysia via the Education Management Information System (EMIS).",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "schools_district"
+ },
+ "query": {
+  "id": "schools_district"
+ },
+ "agency": "MOE",
+ "category": null
+}

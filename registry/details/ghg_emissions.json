@@ -1,0 +1,46 @@
+{
+ "id": "ghg_emissions",
+ "title": "Greenhouse Gas Emissions",
+ "description": "Annual greenhouse gas (GHG) emissions by source.",
+ "data_as_of": "2021",
+ "last_updated": "2024-09-01",
+ "next_update": "-",
+ "frequency": "YEARLY",
+ "data_source": [
+  "NRES",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/environment/ghg_emissions.csv",
+ "link_parquet": "https://storage.data.gov.my/environment/ghg_emissions.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "source",
+   "title": "Source",
+   "description": "[Categorical] Either total emissions excluding LULUCF ('total'), net emissions including LULUCF ('net'), or the source of emissions ('industrial_processes', 'agriculture', 'waste', 'lulucf'). It should be noted that although LULUCF values can, in principle, be positive (representing emissions) or negative (representing removals), the values for Malaysia are all negative."
+  },
+  {
+   "name": "emissions",
+   "title": "Emissions",
+   "description": "[Float] The amount of GHG emissions in gigagrams (Gg) of CO₂ equivalent (CO₂e)."
+  }
+ ],
+ "methodology": "Official data on GHG emissions is compiled by the Ministry of Natural Resources and Environmental Sustainbility (NRES), following the Intergovernmental Panel on Climate Change (IPCC) guidelines for national greenhouse gas inventories. The GHG emissions data is derived from multiple sectors including energy, industrial processes, agriculture, waste, as well as land use, land-use change, and forestry (LULUCF). LULUCF data reflects both emissions and removals based on land management practices, contributing to the net emissions calculations.",
+ "caveat": "Data for 2020 and 2021 is provisional and subject to revision. Furthermore, no breakdown is provided for those years, i.e. only values for total emissions are provided.",
+ "publication": "—",
+ "params": {
+  "id": "ghg_emissions"
+ },
+ "query": {
+  "id": "ghg_emissions"
+ },
+ "agency": "NRES,DOSM",
+ "category": null
+}

@@ -1,0 +1,61 @@
+{
+ "id": "crime_district",
+ "title": "Crimes by District & Crime Type",
+ "description": "Number of crimes in Malaysia by district, crime category, and type of crime.",
+ "data_as_of": "2023-12-31 23:59",
+ "last_updated": "2024-10-16 12:00",
+ "next_update": "2025-12-31 12:00",
+ "frequency": "YEARLY",
+ "data_source": [
+  "PDRM",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicsafety/crime_district.csv",
+ "link_parquet": "https://storage.data.gov.my/publicsafety/crime_district.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia; however, data for W.P. Putrajaya and W.P. Labuan are subsumed under W.P. Kuala Lumpur and Sabah respectively."
+  },
+  {
+   "name": "district",
+   "title": "Police District",
+   "description": "[Categorical] Name of the police district; note that this is different from the administrative district."
+  },
+  {
+   "name": "category",
+   "title": "Crime Category",
+   "description": "[Categorical] Either violent crime ('assault') or property crime ('property')"
+  },
+  {
+   "name": "type",
+   "title": "Crime Type",
+   "description": "[Categorical] The specific type of crime in snake case"
+  },
+  {
+   "name": "crimes",
+   "title": "Number of Crimes",
+   "description": "[Integer] The number of actual crimes where a conviction was secured"
+  }
+ ],
+ "methodology": "This dataset is tabulated from transactional report-level data collected by the Police Reporting System administered by the Royal Malaysian Police. Most importantly, it shows the number of **actual crimes** (i.e. where a conviction has already occurred) rather than the number of **reported crimes**, which may include false reports. This dataset can also be used in analyses of sexual crime towards women, because all victims of rape as defined by the laws of Malaysia are female (i.e. there is no need to provide a separate dataset with disaggregation by sex).\n\nFor a deeper understanding of the methodology and associated concepts, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/crime-technotes). Finally, it should be noted that Malaysia's national statistics on crime are compiled in accordance with the International Classification of Crime for Statistical Purpose Version 1.0, which was published by the United Nations Office on Drugs and Crime (UNODC), to ensure international comparability.",
+ "caveat": "Unreported crimes are not included in this dataset. In general, it is acknowledged that the true crime rate may exceed the reported crime rate, especially for crimes where there are significant disincentives or barriers to reporting.",
+ "publication": "—",
+ "params": {
+  "id": "crime_district"
+ },
+ "query": {
+  "id": "crime_district"
+ },
+ "agency": "PDRM,DOSM",
+ "category": null
+}

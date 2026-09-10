@@ -1,0 +1,2532 @@
+{
+ "pricecatcher": {
+  "csv": {
+   "2022-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-03.csv",
+    "bytes": 59298955,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-03.csv",
+    "downloaded_at": "2026-09-09 16:12:32"
+   },
+   "2022-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-07.csv",
+    "bytes": 56702271,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-07.csv",
+    "downloaded_at": "2026-09-09 16:12:32"
+   },
+   "2022-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-01.csv",
+    "bytes": 65359198,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-01.csv",
+    "downloaded_at": "2026-09-09 16:12:32"
+   },
+   "2022-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-05.csv",
+    "bytes": 48563255,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-05.csv",
+    "downloaded_at": "2026-09-09 16:12:32"
+   },
+   "2022-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-02.csv",
+    "bytes": 49562052,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-02.csv",
+    "downloaded_at": "2026-09-09 16:12:32"
+   },
+   "2022-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-04.csv",
+    "bytes": 59090020,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-04.csv",
+    "downloaded_at": "2026-09-09 16:12:32"
+   },
+   "2022-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-06.csv",
+    "bytes": 58209357,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-06.csv",
+    "downloaded_at": "2026-09-09 16:12:32"
+   },
+   "2022-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-08.csv",
+    "bytes": 71257473,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-08.csv",
+    "downloaded_at": "2026-09-09 16:12:32"
+   },
+   "2022-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-09.csv",
+    "bytes": 66624596,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-09.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2022-11": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-11.csv",
+    "bytes": 61660956,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-11.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-04.csv",
+    "bytes": 62552398,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-04.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-02.csv",
+    "bytes": 60232589,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-02.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2022-12": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-12.csv",
+    "bytes": 66051091,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-12.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-03.csv",
+    "bytes": 70058210,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-03.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-01.csv",
+    "bytes": 66706854,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-01.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2022-10": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-10.csv",
+    "bytes": 68731588,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-10.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-07.csv",
+    "bytes": 69028986,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-07.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-09.csv",
+    "bytes": 61348842,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-09.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-05.csv",
+    "bytes": 57473644,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-05.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-08.csv",
+    "bytes": 64028369,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-08.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-11": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-11.csv",
+    "bytes": 61567173,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-11.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-10": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-10.csv",
+    "bytes": 70668255,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-10.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-12": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-12.csv",
+    "bytes": 55962503,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-12.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2023-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-06.csv",
+    "bytes": 62214077,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-06.csv",
+    "downloaded_at": "2026-09-09 16:12:33"
+   },
+   "2024-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-03.csv",
+    "bytes": 55469108,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-03.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-05.csv",
+    "bytes": 66880424,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-05.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-04.csv",
+    "bytes": 62699238,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-04.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-07.csv",
+    "bytes": 67250206,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-07.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-08.csv",
+    "bytes": 54407156,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-08.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-01.csv",
+    "bytes": 68750168,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-01.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-06.csv",
+    "bytes": 57357331,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-06.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-02.csv",
+    "bytes": 53640951,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-02.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2025-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-04.csv",
+    "bytes": 61066454,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-04.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-12": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-12.csv",
+    "bytes": 66299565,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-12.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-11": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-11.csv",
+    "bytes": 63654235,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-11.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2025-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-03.csv",
+    "bytes": 67516146,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-03.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2025-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-02.csv",
+    "bytes": 57601686,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-02.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-09.csv",
+    "bytes": 69714265,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-09.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2024-10": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-10.csv",
+    "bytes": 68090893,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-10.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2025-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-01.csv",
+    "bytes": 68788646,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-01.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2025-12": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-12.csv",
+    "bytes": 46219837,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-12.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2025-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-09.csv",
+    "bytes": 42573107,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-09.csv",
+    "downloaded_at": "2026-09-09 16:12:34"
+   },
+   "2025-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-08.csv",
+    "bytes": 51201565,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-08.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2025-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-05.csv",
+    "bytes": 70346938,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-05.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2025-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-07.csv",
+    "bytes": 60037182,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-07.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2025-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-06.csv",
+    "bytes": 60235293,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-06.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2025-10": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-10.csv",
+    "bytes": 47179056,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-10.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2025-11": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-11.csv",
+    "bytes": 46176100,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-11.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2026-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-04.csv",
+    "bytes": 46178982,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-04.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2026-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-03.csv",
+    "bytes": 40111054,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-03.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2026-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-07.csv",
+    "bytes": 47001357,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-07.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2026-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-05.csv",
+    "bytes": 44495356,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-05.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2026-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-01.csv",
+    "bytes": 51319075,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-01.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2026-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-02.csv",
+    "bytes": 35489980,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-02.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2026-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-06.csv",
+    "bytes": 45719312,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-06.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2026-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-08.csv",
+    "bytes": 50122871,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-08.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2026-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-09.csv",
+    "bytes": 11939118,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-09.csv",
+    "downloaded_at": "2026-09-09 16:12:35"
+   }
+  },
+  "parquet": {
+   "2022-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-03.parquet",
+    "bytes": 2697985,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-03.parquet",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2022-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-04.parquet",
+    "bytes": 2966134,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-04.parquet",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2022-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-05.parquet",
+    "bytes": 2373165,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-05.parquet",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2022-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-02.parquet",
+    "bytes": 2400126,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-02.parquet",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2022-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-06.parquet",
+    "bytes": 2820852,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-06.parquet",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2022-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-01.parquet",
+    "bytes": 3222043,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-01.parquet",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2022-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-07.parquet",
+    "bytes": 2751894,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-07.parquet",
+    "downloaded_at": "2026-09-09 16:12:35"
+   },
+   "2022-11": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-11.parquet",
+    "bytes": 2970362,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-11.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2022-12": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-12.parquet",
+    "bytes": 3086264,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-12.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-02.parquet",
+    "bytes": 2924947,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-02.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2022-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-08.parquet",
+    "bytes": 3447470,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-08.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2022-10": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-10.parquet",
+    "bytes": 3293377,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-10.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2022-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2022-09.parquet",
+    "bytes": 3125946,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2022-09.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-01.parquet",
+    "bytes": 3311424,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-01.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-03.parquet",
+    "bytes": 3269325,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-03.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-07.parquet",
+    "bytes": 3359971,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-07.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-04.parquet",
+    "bytes": 3067745,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-04.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-09.parquet",
+    "bytes": 3212534,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-09.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-06.parquet",
+    "bytes": 3008262,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-06.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-08.parquet",
+    "bytes": 3007841,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-08.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-11": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-11.parquet",
+    "bytes": 3098799,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-11.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-05.parquet",
+    "bytes": 2769660,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-05.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2023-10": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-10.parquet",
+    "bytes": 3577636,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-10.parquet",
+    "downloaded_at": "2026-09-09 16:12:36"
+   },
+   "2024-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-03.parquet",
+    "bytes": 2963405,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-03.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2023-12": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2023-12.parquet",
+    "bytes": 2903002,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2023-12.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-05.parquet",
+    "bytes": 3543892,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-05.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-02.parquet",
+    "bytes": 2833151,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-02.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-04.parquet",
+    "bytes": 3349391,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-04.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-01.parquet",
+    "bytes": 3587288,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-01.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-07.parquet",
+    "bytes": 3468825,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-07.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-06.parquet",
+    "bytes": 2945539,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-06.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-11": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-11.parquet",
+    "bytes": 3482045,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-11.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-08.parquet",
+    "bytes": 2716838,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-08.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-01.parquet",
+    "bytes": 3685351,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-01.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-10": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-10.parquet",
+    "bytes": 3396531,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-10.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-03.parquet",
+    "bytes": 3634578,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-03.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-09.parquet",
+    "bytes": 3557188,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-09.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2024-12": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2024-12.parquet",
+    "bytes": 3623242,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2024-12.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-02.parquet",
+    "bytes": 3168370,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-02.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-07.parquet",
+    "bytes": 3169118,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-07.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-06.parquet",
+    "bytes": 3154779,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-06.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-09.parquet",
+    "bytes": 2091771,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-09.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-04.parquet",
+    "bytes": 3323204,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-04.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-11": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-11.parquet",
+    "bytes": 2266310,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-11.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-08.parquet",
+    "bytes": 2566084,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-08.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-05.parquet",
+    "bytes": 3615189,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-05.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2025-10": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-10.parquet",
+    "bytes": 2274448,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-10.parquet",
+    "downloaded_at": "2026-09-09 16:12:37"
+   },
+   "2026-03": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-03.parquet",
+    "bytes": 2110054,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-03.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2026-02": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-02.parquet",
+    "bytes": 1827405,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-02.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2026-07": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-07.parquet",
+    "bytes": 2286215,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-07.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2026-05": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-05.parquet",
+    "bytes": 2240220,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-05.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2026-01": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-01.parquet",
+    "bytes": 2676463,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-01.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2025-12": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2025-12.parquet",
+    "bytes": 2305795,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2025-12.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2026-04": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-04.parquet",
+    "bytes": 2280468,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-04.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2026-06": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-06.parquet",
+    "bytes": 2331845,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-06.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2026-09": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-09.parquet",
+    "bytes": 598585,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-09.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2026-08": {
+    "url": "https://storage.data.gov.my/pricecatcher/pricecatcher_2026-08.parquet",
+    "bytes": 2517483,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\pricecatcher\\pricecatcher_2026-08.parquet",
+    "downloaded_at": "2026-09-09 16:12:38"
+   }
+  }
+ },
+ "registration_transactions_all": {
+  "csv": {
+   "2001": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2001.csv",
+    "bytes": 34461190,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2001.csv",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2000": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2000.csv",
+    "bytes": 31784206,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2000.csv",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2003": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2003.csv",
+    "bytes": 40958621,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2003.csv",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2005": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2005.csv",
+    "bytes": 54631289,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2005.csv",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2002": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2002.csv",
+    "bytes": 36459581,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2002.csv",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2004": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2004.csv",
+    "bytes": 48354676,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2004.csv",
+    "downloaded_at": "2026-09-09 16:12:38"
+   },
+   "2009": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2009.csv",
+    "bytes": 54773952,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2009.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2008": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2008.csv",
+    "bytes": 60583606,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2008.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2013": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2013.csv",
+    "bytes": 70453244,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2013.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2006": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2006.csv",
+    "bytes": 51249608,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2006.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2007": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2007.csv",
+    "bytes": 53528507,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2007.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2012": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2012.csv",
+    "bytes": 69023055,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2012.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2010": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2010.csv",
+    "bytes": 62116838,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2010.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2011": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2011.csv",
+    "bytes": 64032917,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2011.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2017": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2017.csv",
+    "bytes": 59256642,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2017.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2016": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2016.csv",
+    "bytes": 57377505,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2016.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2021.csv",
+    "bytes": 62840993,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2021.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2015": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2015.csv",
+    "bytes": 62388838,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2015.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2014": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2014.csv",
+    "bytes": 67529260,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2014.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2019": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2019.csv",
+    "bytes": 65995735,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2019.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2020.csv",
+    "bytes": 60947625,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2020.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2018": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2018.csv",
+    "bytes": 64211934,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2018.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2024.csv",
+    "bytes": 81988066,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2024.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2023.csv",
+    "bytes": 80166074,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2023.csv",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2022.csv",
+    "bytes": 79924115,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2022.csv",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2026.csv",
+    "bytes": 51856081,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2026.csv",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2025.csv",
+    "bytes": 84999694,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2025.csv",
+    "downloaded_at": "2026-09-09 16:12:41"
+   }
+  },
+  "parquet": {
+   "2002": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2002.parquet",
+    "bytes": 643067,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2002.parquet",
+    "downloaded_at": "2026-09-09 16:12:39"
+   },
+   "2000": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2000.parquet",
+    "bytes": 509213,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2000.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2001": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2001.parquet",
+    "bytes": 551763,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2001.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2005": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2005.parquet",
+    "bytes": 862535,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2005.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2010": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2010.parquet",
+    "bytes": 957771,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2010.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2004": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2004.parquet",
+    "bytes": 761901,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2004.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2003": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2003.parquet",
+    "bytes": 711821,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2003.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2008": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2008.parquet",
+    "bytes": 949837,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2008.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2009": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2009.parquet",
+    "bytes": 859645,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2009.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2007": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2007.parquet",
+    "bytes": 852683,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2007.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2013": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2013.parquet",
+    "bytes": 1268215,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2013.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2018": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2018.parquet",
+    "bytes": 887027,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2018.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2012": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2012.parquet",
+    "bytes": 1070144,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2012.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2011": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2011.parquet",
+    "bytes": 993231,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2011.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2016": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2016.parquet",
+    "bytes": 869440,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2016.parquet",
+    "downloaded_at": "2026-09-09 16:12:40"
+   },
+   "2015": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2015.parquet",
+    "bytes": 989125,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2015.parquet",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2017": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2017.parquet",
+    "bytes": 857381,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2017.parquet",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2026.parquet",
+    "bytes": 628238,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2026.parquet",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2021.parquet",
+    "bytes": 709144,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2021.parquet",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2020.parquet",
+    "bytes": 773447,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2020.parquet",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2019": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2019.parquet",
+    "bytes": 894297,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2019.parquet",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2024.parquet",
+    "bytes": 963613,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2024.parquet",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2025.parquet",
+    "bytes": 939224,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2025.parquet",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2023.parquet",
+    "bytes": 943321,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2023.parquet",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2006": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2006.parquet",
+    "bytes": 909651,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2006.parquet",
+    "downloaded_at": "2026-09-09 16:12:42"
+   },
+   "2014": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2014.parquet",
+    "bytes": 1148831,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2014.parquet",
+    "downloaded_at": "2026-09-09 16:12:46"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/vehicles_2022.parquet",
+    "bytes": 897589,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_all\\vehicles_2022.parquet",
+    "downloaded_at": "2026-09-09 16:12:48"
+   }
+  }
+ },
+ "registration_transactions_car": {
+  "csv": {
+   "2001": {
+    "url": "https://storage.data.gov.my/transportation/cars_2001.csv",
+    "bytes": 23595323,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2001.csv",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2007": {
+    "url": "https://storage.data.gov.my/transportation/cars_2007.csv",
+    "bytes": 28394129,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2007.csv",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2002": {
+    "url": "https://storage.data.gov.my/transportation/cars_2002.csv",
+    "bytes": 26127627,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2002.csv",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2005": {
+    "url": "https://storage.data.gov.my/transportation/cars_2005.csv",
+    "bytes": 33689943,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2005.csv",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2006": {
+    "url": "https://storage.data.gov.my/transportation/cars_2006.csv",
+    "bytes": 28371069,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2006.csv",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2004": {
+    "url": "https://storage.data.gov.my/transportation/cars_2004.csv",
+    "bytes": 28799871,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2004.csv",
+    "downloaded_at": "2026-09-09 16:12:41"
+   },
+   "2009": {
+    "url": "https://storage.data.gov.my/transportation/cars_2009.csv",
+    "bytes": 32141296,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2009.csv",
+    "downloaded_at": "2026-09-09 16:12:42"
+   },
+   "2013": {
+    "url": "https://storage.data.gov.my/transportation/cars_2013.csv",
+    "bytes": 40152791,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2013.csv",
+    "downloaded_at": "2026-09-09 16:12:42"
+   },
+   "2017": {
+    "url": "https://storage.data.gov.my/transportation/cars_2017.csv",
+    "bytes": 34399168,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2017.csv",
+    "downloaded_at": "2026-09-09 16:12:42"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/cars_2021.csv",
+    "bytes": 30375190,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2021.csv",
+    "downloaded_at": "2026-09-09 16:12:42"
+   },
+   "2000": {
+    "url": "https://storage.data.gov.my/transportation/cars_2000.csv",
+    "bytes": 20356221,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2000.csv",
+    "downloaded_at": "2026-09-09 16:12:44"
+   },
+   "2012": {
+    "url": "https://storage.data.gov.my/transportation/cars_2012.csv",
+    "bytes": 38494159,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2012.csv",
+    "downloaded_at": "2026-09-09 16:12:48"
+   },
+   "2015": {
+    "url": "https://storage.data.gov.my/transportation/cars_2015.csv",
+    "bytes": 40177464,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2015.csv",
+    "downloaded_at": "2026-09-09 16:12:52"
+   },
+   "2014": {
+    "url": "https://storage.data.gov.my/transportation/cars_2014.csv",
+    "bytes": 40747245,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2014.csv",
+    "downloaded_at": "2026-09-09 16:12:52"
+   },
+   "2008": {
+    "url": "https://storage.data.gov.my/transportation/cars_2008.csv",
+    "bytes": 32734635,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2008.csv",
+    "downloaded_at": "2026-09-09 16:13:04"
+   },
+   "2010": {
+    "url": "https://storage.data.gov.my/transportation/cars_2010.csv",
+    "bytes": 37036551,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2010.csv",
+    "downloaded_at": "2026-09-09 16:13:05"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/cars_2020.csv",
+    "bytes": 31721704,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2020.csv",
+    "downloaded_at": "2026-09-09 16:13:09"
+   },
+   "2003": {
+    "url": "https://storage.data.gov.my/transportation/cars_2003.csv",
+    "bytes": 25395762,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2003.csv",
+    "downloaded_at": "2026-09-09 16:13:10"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/cars_2025.csv",
+    "bytes": 50227723,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2025.csv",
+    "downloaded_at": "2026-09-09 16:13:12"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/cars_2022.csv",
+    "bytes": 42940716,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2022.csv",
+    "downloaded_at": "2026-09-09 16:13:19"
+   },
+   "2016": {
+    "url": "https://storage.data.gov.my/transportation/cars_2016.csv",
+    "bytes": 34671222,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2016.csv",
+    "downloaded_at": "2026-09-09 16:13:20"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/cars_2023.csv",
+    "bytes": 48219940,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2023.csv",
+    "downloaded_at": "2026-09-09 16:13:25"
+   },
+   "2011": {
+    "url": "https://storage.data.gov.my/transportation/cars_2011.csv",
+    "bytes": 36783344,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2011.csv",
+    "downloaded_at": "2026-09-09 16:13:31"
+   },
+   "2018": {
+    "url": "https://storage.data.gov.my/transportation/cars_2018.csv",
+    "bytes": 35856253,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2018.csv",
+    "downloaded_at": "2026-09-09 16:13:33"
+   },
+   "2019": {
+    "url": "https://storage.data.gov.my/transportation/cars_2019.csv",
+    "bytes": 35407835,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2019.csv",
+    "downloaded_at": "2026-09-09 16:13:50"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/cars_2024.csv",
+    "bytes": 49506118,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2024.csv",
+    "downloaded_at": "2026-09-09 16:13:53"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/cars_2026.csv",
+    "bytes": 28212367,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2026.csv",
+    "downloaded_at": "2026-09-09 16:13:57"
+   }
+  },
+  "parquet": {
+   "2002": {
+    "url": "https://storage.data.gov.my/transportation/cars_2002.parquet",
+    "bytes": 495301,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2002.parquet",
+    "downloaded_at": "2026-09-09 16:12:43"
+   },
+   "2010": {
+    "url": "https://storage.data.gov.my/transportation/cars_2010.parquet",
+    "bytes": 636563,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2010.parquet",
+    "downloaded_at": "2026-09-09 16:12:44"
+   },
+   "2018": {
+    "url": "https://storage.data.gov.my/transportation/cars_2018.parquet",
+    "bytes": 509893,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2018.parquet",
+    "downloaded_at": "2026-09-09 16:12:44"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/cars_2026.parquet",
+    "bytes": 388048,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2026.parquet",
+    "downloaded_at": "2026-09-09 16:12:48"
+   },
+   "2001": {
+    "url": "https://storage.data.gov.my/transportation/cars_2001.parquet",
+    "bytes": 422086,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2001.parquet",
+    "downloaded_at": "2026-09-09 16:13:10"
+   },
+   "2009": {
+    "url": "https://storage.data.gov.my/transportation/cars_2009.parquet",
+    "bytes": 571698,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2009.parquet",
+    "downloaded_at": "2026-09-09 16:13:12"
+   },
+   "2006": {
+    "url": "https://storage.data.gov.my/transportation/cars_2006.parquet",
+    "bytes": 516752,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2006.parquet",
+    "downloaded_at": "2026-09-09 16:13:13"
+   },
+   "2017": {
+    "url": "https://storage.data.gov.my/transportation/cars_2017.parquet",
+    "bytes": 511199,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2017.parquet",
+    "downloaded_at": "2026-09-09 16:13:14"
+   },
+   "2014": {
+    "url": "https://storage.data.gov.my/transportation/cars_2014.parquet",
+    "bytes": 745424,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2014.parquet",
+    "downloaded_at": "2026-09-09 16:13:15"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/cars_2025.parquet",
+    "bytes": 670447,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2025.parquet",
+    "downloaded_at": "2026-09-09 16:13:15"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/cars_2022.parquet",
+    "bytes": 577372,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2022.parquet",
+    "downloaded_at": "2026-09-09 16:13:16"
+   },
+   "2003": {
+    "url": "https://storage.data.gov.my/transportation/cars_2003.parquet",
+    "bytes": 486043,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2003.parquet",
+    "downloaded_at": "2026-09-09 16:13:21"
+   },
+   "2011": {
+    "url": "https://storage.data.gov.my/transportation/cars_2011.parquet",
+    "bytes": 636174,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2011.parquet",
+    "downloaded_at": "2026-09-09 16:13:23"
+   },
+   "2019": {
+    "url": "https://storage.data.gov.my/transportation/cars_2019.parquet",
+    "bytes": 508654,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2019.parquet",
+    "downloaded_at": "2026-09-09 16:13:25"
+   },
+   "2004": {
+    "url": "https://storage.data.gov.my/transportation/cars_2004.parquet",
+    "bytes": 533103,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2004.parquet",
+    "downloaded_at": "2026-09-09 16:13:27"
+   },
+   "2012": {
+    "url": "https://storage.data.gov.my/transportation/cars_2012.parquet",
+    "bytes": 673809,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2012.parquet",
+    "downloaded_at": "2026-09-09 16:13:29"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/cars_2020.parquet",
+    "bytes": 435664,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2020.parquet",
+    "downloaded_at": "2026-09-09 16:13:30"
+   },
+   "2000": {
+    "url": "https://storage.data.gov.my/transportation/cars_2000.parquet",
+    "bytes": 370059,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2000.parquet",
+    "downloaded_at": "2026-09-09 16:13:51"
+   },
+   "2008": {
+    "url": "https://storage.data.gov.my/transportation/cars_2008.parquet",
+    "bytes": 579711,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2008.parquet",
+    "downloaded_at": "2026-09-09 16:13:53"
+   },
+   "2016": {
+    "url": "https://storage.data.gov.my/transportation/cars_2016.parquet",
+    "bytes": 544727,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2016.parquet",
+    "downloaded_at": "2026-09-09 16:13:54"
+   },
+   "2005": {
+    "url": "https://storage.data.gov.my/transportation/cars_2005.parquet",
+    "bytes": 613690,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2005.parquet",
+    "downloaded_at": "2026-09-09 16:13:54"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/cars_2024.parquet",
+    "bytes": 647967,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2024.parquet",
+    "downloaded_at": "2026-09-09 16:13:55"
+   },
+   "2013": {
+    "url": "https://storage.data.gov.my/transportation/cars_2013.parquet",
+    "bytes": 711564,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2013.parquet",
+    "downloaded_at": "2026-09-09 16:13:56"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/cars_2021.parquet",
+    "bytes": 423032,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2021.parquet",
+    "downloaded_at": "2026-09-09 16:13:57"
+   },
+   "2007": {
+    "url": "https://storage.data.gov.my/transportation/cars_2007.parquet",
+    "bytes": 519807,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2007.parquet",
+    "downloaded_at": "2026-09-09 16:14:00"
+   },
+   "2015": {
+    "url": "https://storage.data.gov.my/transportation/cars_2015.parquet",
+    "bytes": 659719,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2015.parquet",
+    "downloaded_at": "2026-09-09 16:14:03"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/cars_2023.parquet",
+    "bytes": 650201,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_car\\cars_2023.parquet",
+    "downloaded_at": "2026-09-09 16:14:04"
+   }
+  }
+ },
+ "registration_transactions_motorcycle": {
+  "csv": {
+   "2007": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2007.csv",
+    "bytes": 24364845,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2007.csv",
+    "downloaded_at": "2026-09-09 16:13:06"
+   },
+   "2003": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2003.csv",
+    "bytes": 16348160,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2003.csv",
+    "downloaded_at": "2026-09-09 16:13:24"
+   },
+   "2015": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2015.csv",
+    "bytes": 24018754,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2015.csv",
+    "downloaded_at": "2026-09-09 16:13:28"
+   },
+   "2006": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2006.csv",
+    "bytes": 22642725,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2006.csv",
+    "downloaded_at": "2026-09-09 16:13:30"
+   },
+   "2000": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2000.csv",
+    "bytes": 11924652,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2000.csv",
+    "downloaded_at": "2026-09-09 16:13:36"
+   },
+   "2011": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2011.csv",
+    "bytes": 27236470,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2011.csv",
+    "downloaded_at": "2026-09-09 16:13:37"
+   },
+   "2001": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2001.csv",
+    "bytes": 11813439,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2001.csv",
+    "downloaded_at": "2026-09-09 16:13:39"
+   },
+   "2014": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2014.csv",
+    "bytes": 27941357,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2014.csv",
+    "downloaded_at": "2026-09-09 16:13:49"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2023.csv",
+    "bytes": 33525595,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2023.csv",
+    "downloaded_at": "2026-09-09 16:13:52"
+   },
+   "2019": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2019.csv",
+    "bytes": 30928329,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2019.csv",
+    "downloaded_at": "2026-09-09 16:13:53"
+   },
+   "2008": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2008.csv",
+    "bytes": 27185519,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2008.csv",
+    "downloaded_at": "2026-09-09 16:13:54"
+   },
+   "2009": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2009.csv",
+    "bytes": 22792528,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2009.csv",
+    "downloaded_at": "2026-09-09 16:13:56"
+   },
+   "2016": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2016.csv",
+    "bytes": 24001921,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2016.csv",
+    "downloaded_at": "2026-09-09 16:14:04"
+   },
+   "2002": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2002.csv",
+    "bytes": 11272130,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2002.csv",
+    "downloaded_at": "2026-09-09 16:14:04"
+   },
+   "2005": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2005.csv",
+    "bytes": 21950521,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2005.csv",
+    "downloaded_at": "2026-09-09 16:14:08"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2022.csv",
+    "bytes": 37424207,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2022.csv",
+    "downloaded_at": "2026-09-09 16:14:09"
+   },
+   "2004": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2004.csv",
+    "bytes": 20232493,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2004.csv",
+    "downloaded_at": "2026-09-09 16:14:14"
+   },
+   "2017": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2017.csv",
+    "bytes": 25732485,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2017.csv",
+    "downloaded_at": "2026-09-09 16:14:15"
+   },
+   "2010": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2010.csv",
+    "bytes": 25147527,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2010.csv",
+    "downloaded_at": "2026-09-09 16:14:18"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2024.csv",
+    "bytes": 34243719,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2024.csv",
+    "downloaded_at": "2026-09-09 16:14:23"
+   },
+   "2012": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2012.csv",
+    "bytes": 30540121,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2012.csv",
+    "downloaded_at": "2026-09-09 16:14:25"
+   },
+   "2013": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2013.csv",
+    "bytes": 30670711,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2013.csv",
+    "downloaded_at": "2026-09-09 16:14:33"
+   },
+   "2018": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2018.csv",
+    "bytes": 28725467,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2018.csv",
+    "downloaded_at": "2026-09-09 16:14:39"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2020.csv",
+    "bytes": 29528848,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2020.csv",
+    "downloaded_at": "2026-09-09 16:14:43"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2025.csv",
+    "bytes": 36763934,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2025.csv",
+    "downloaded_at": "2026-09-09 16:14:44"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2021.csv",
+    "bytes": 32041665,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2021.csv",
+    "downloaded_at": "2026-09-09 16:14:50"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2026.csv",
+    "bytes": 24365214,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2026.csv",
+    "downloaded_at": "2026-09-09 16:14:52"
+   }
+  },
+  "parquet": {
+   "2004": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2004.parquet",
+    "bytes": 313465,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2004.parquet",
+    "downloaded_at": "2026-09-09 16:13:53"
+   },
+   "2000": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2000.parquet",
+    "bytes": 181386,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2000.parquet",
+    "downloaded_at": "2026-09-09 16:13:54"
+   },
+   "2012": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2012.parquet",
+    "bytes": 505217,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2012.parquet",
+    "downloaded_at": "2026-09-09 16:13:54"
+   },
+   "2008": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2008.parquet",
+    "bytes": 437858,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2008.parquet",
+    "downloaded_at": "2026-09-09 16:13:56"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2020.parquet",
+    "bytes": 435394,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2020.parquet",
+    "downloaded_at": "2026-09-09 16:13:56"
+   },
+   "2016": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2016.parquet",
+    "bytes": 413597,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2016.parquet",
+    "downloaded_at": "2026-09-09 16:13:57"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2024.parquet",
+    "bytes": 412108,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2024.parquet",
+    "downloaded_at": "2026-09-09 16:14:00"
+   },
+   "2003": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2003.parquet",
+    "bytes": 253287,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2003.parquet",
+    "downloaded_at": "2026-09-09 16:14:11"
+   },
+   "2011": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2011.parquet",
+    "bytes": 450573,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2011.parquet",
+    "downloaded_at": "2026-09-09 16:14:12"
+   },
+   "2019": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2019.parquet",
+    "bytes": 505269,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2019.parquet",
+    "downloaded_at": "2026-09-09 16:14:14"
+   },
+   "2005": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2005.parquet",
+    "bytes": 343192,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2005.parquet",
+    "downloaded_at": "2026-09-09 16:14:25"
+   },
+   "2013": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2013.parquet",
+    "bytes": 527235,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2013.parquet",
+    "downloaded_at": "2026-09-09 16:14:26"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2021.parquet",
+    "bytes": 377420,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2021.parquet",
+    "downloaded_at": "2026-09-09 16:14:28"
+   },
+   "2001": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2001.parquet",
+    "bytes": 180234,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2001.parquet",
+    "downloaded_at": "2026-09-09 16:14:44"
+   },
+   "2006": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2006.parquet",
+    "bytes": 365929,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2006.parquet",
+    "downloaded_at": "2026-09-09 16:14:45"
+   },
+   "2009": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2009.parquet",
+    "bytes": 369073,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2009.parquet",
+    "downloaded_at": "2026-09-09 16:14:45"
+   },
+   "2014": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2014.parquet",
+    "bytes": 462015,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2014.parquet",
+    "downloaded_at": "2026-09-09 16:14:46"
+   },
+   "2017": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2017.parquet",
+    "bytes": 445313,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2017.parquet",
+    "downloaded_at": "2026-09-09 16:14:48"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2022.parquet",
+    "bytes": 442780,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2022.parquet",
+    "downloaded_at": "2026-09-09 16:14:49"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2025.parquet",
+    "bytes": 440232,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2025.parquet",
+    "downloaded_at": "2026-09-09 16:14:49"
+   },
+   "2002": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2002.parquet",
+    "bytes": 178797,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2002.parquet",
+    "downloaded_at": "2026-09-09 16:14:51"
+   },
+   "2010": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2010.parquet",
+    "bytes": 411509,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2010.parquet",
+    "downloaded_at": "2026-09-09 16:14:53"
+   },
+   "2007": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2007.parquet",
+    "bytes": 396021,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2007.parquet",
+    "downloaded_at": "2026-09-09 16:14:53"
+   },
+   "2018": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2018.parquet",
+    "bytes": 484576,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2018.parquet",
+    "downloaded_at": "2026-09-09 16:14:54"
+   },
+   "2015": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2015.parquet",
+    "bytes": 417002,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2015.parquet",
+    "downloaded_at": "2026-09-09 16:14:55"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2026.parquet",
+    "bytes": 289841,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2026.parquet",
+    "downloaded_at": "2026-09-09 16:14:56"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/motorcycles_2023.parquet",
+    "bytes": 442215,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\registration_transactions_motorcycle\\motorcycles_2023.parquet",
+    "downloaded_at": "2026-09-09 16:14:57"
+   }
+  }
+ },
+ "ridership_od_brt_daily": {
+  "csv": {
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/bus/brt_2024_daily.csv",
+    "bytes": 1185676,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_brt_daily\\brt_2024_daily.csv",
+    "downloaded_at": "2026-09-09 16:13:58"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/bus/brt_2023_daily.csv",
+    "bytes": 890148,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_brt_daily\\brt_2023_daily.csv",
+    "downloaded_at": "2026-09-09 16:14:15"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/bus/brt_2025_daily.csv",
+    "bytes": 1183494,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_brt_daily\\brt_2025_daily.csv",
+    "downloaded_at": "2026-09-09 16:14:29"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/bus/brt_2026_daily.csv",
+    "bytes": 765938,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_brt_daily\\brt_2026_daily.csv",
+    "downloaded_at": "2026-09-09 16:14:50"
+   }
+  },
+  "parquet": {
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/bus/brt_2024_daily.parquet",
+    "bytes": 45633,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_brt_daily\\brt_2024_daily.parquet",
+    "downloaded_at": "2026-09-09 16:14:01"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/bus/brt_2025_daily.parquet",
+    "bytes": 47667,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_brt_daily\\brt_2025_daily.parquet",
+    "downloaded_at": "2026-09-09 16:14:50"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/bus/brt_2026_daily.parquet",
+    "bytes": 32003,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_brt_daily\\brt_2026_daily.parquet",
+    "downloaded_at": "2026-09-09 16:14:57"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/bus/brt_2023_daily.parquet",
+    "bytes": 36433,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_brt_daily\\brt_2023_daily.parquet",
+    "downloaded_at": "2026-09-09 16:14:58"
+   }
+  }
+ },
+ "ridership_od_ets": {
+  "csv": {
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2021.csv",
+    "bytes": 4648255,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2021.csv",
+    "downloaded_at": "2026-09-09 16:14:02"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2025.csv",
+    "bytes": 20371479,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2025.csv",
+    "downloaded_at": "2026-09-09 16:14:16"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2020.csv",
+    "bytes": 1462823,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2020.csv",
+    "downloaded_at": "2026-09-09 16:14:18"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2022.csv",
+    "bytes": 20323416,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2022.csv",
+    "downloaded_at": "2026-09-09 16:14:43"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2026.csv",
+    "bytes": 23608713,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2026.csv",
+    "downloaded_at": "2026-09-09 16:15:04"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2023.csv",
+    "bytes": 21637800,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2023.csv",
+    "downloaded_at": "2026-09-09 16:15:04"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2024.csv",
+    "bytes": 20731433,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2024.csv",
+    "downloaded_at": "2026-09-09 16:15:05"
+   }
+  },
+  "parquet": {
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2022.parquet",
+    "bytes": 670878,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2022.parquet",
+    "downloaded_at": "2026-09-09 16:14:04"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2021.parquet",
+    "bytes": 158097,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2021.parquet",
+    "downloaded_at": "2026-09-09 16:14:19"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2026.parquet",
+    "bytes": 806208,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2026.parquet",
+    "downloaded_at": "2026-09-09 16:14:19"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2023.parquet",
+    "bytes": 706832,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2023.parquet",
+    "downloaded_at": "2026-09-09 16:14:45"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2020.parquet",
+    "bytes": 55600,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2020.parquet",
+    "downloaded_at": "2026-09-09 16:14:58"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2024.parquet",
+    "bytes": 689725,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2024.parquet",
+    "downloaded_at": "2026-09-09 16:15:06"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/ets_2025.parquet",
+    "bytes": 691682,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_ets\\ets_2025.parquet",
+    "downloaded_at": "2026-09-09 16:15:07"
+   }
+  }
+ },
+ "ridership_od_intercity": {
+  "csv": {
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2023.csv",
+    "bytes": 8807228,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2023.csv",
+    "downloaded_at": "2026-09-09 16:14:13"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2022.csv",
+    "bytes": 7105826,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2022.csv",
+    "downloaded_at": "2026-09-09 16:14:26"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2024.csv",
+    "bytes": 9107609,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2024.csv",
+    "downloaded_at": "2026-09-09 16:14:49"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2021.csv",
+    "bytes": 2643797,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2021.csv",
+    "downloaded_at": "2026-09-09 16:15:00"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2020.csv",
+    "bytes": 823431,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2020.csv",
+    "downloaded_at": "2026-09-09 16:15:06"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2025.csv",
+    "bytes": 9130982,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2025.csv",
+    "downloaded_at": "2026-09-09 16:15:10"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2026.csv",
+    "bytes": 5266041,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2026.csv",
+    "downloaded_at": "2026-09-09 16:15:12"
+   }
+  },
+  "parquet": {
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2024.parquet",
+    "bytes": 420392,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2024.parquet",
+    "downloaded_at": "2026-09-09 16:14:14"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2020.parquet",
+    "bytes": 41647,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2020.parquet",
+    "downloaded_at": "2026-09-09 16:14:20"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2023.parquet",
+    "bytes": 394850,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2023.parquet",
+    "downloaded_at": "2026-09-09 16:14:28"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2025.parquet",
+    "bytes": 390205,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2025.parquet",
+    "downloaded_at": "2026-09-09 16:14:50"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2022.parquet",
+    "bytes": 310750,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2022.parquet",
+    "downloaded_at": "2026-09-09 16:15:01"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2021.parquet",
+    "bytes": 120801,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2021.parquet",
+    "downloaded_at": "2026-09-09 16:15:07"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/intercity_2026.parquet",
+    "bytes": 224927,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_intercity\\intercity_2026.parquet",
+    "downloaded_at": "2026-09-09 16:15:11"
+   }
+  }
+ },
+ "ridership_od_komuter": {
+  "parquet": {
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_2024.parquet",
+    "bytes": 5255688,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter\\komuter_2024.parquet",
+    "downloaded_at": "2026-09-09 16:14:18"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_2023.parquet",
+    "bytes": 1312754,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter\\komuter_2023.parquet",
+    "downloaded_at": "2026-09-09 16:14:30"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_2025.parquet",
+    "bytes": 2671881,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter\\komuter_2025.parquet",
+    "downloaded_at": "2026-09-09 16:14:53"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_2026.parquet",
+    "bytes": 1762377,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter\\komuter_2026.parquet",
+    "downloaded_at": "2026-09-09 16:15:13"
+   }
+  },
+  "csv": {
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_2023.csv",
+    "bytes": 28342244,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter\\komuter_2023.csv",
+    "downloaded_at": "2026-09-09 16:15:24"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_2026.csv",
+    "bytes": 51803308,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter\\komuter_2026.csv",
+    "downloaded_at": "2026-09-09 16:15:24"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_2024.csv",
+    "bytes": 110896435,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter\\komuter_2024.csv",
+    "downloaded_at": "2026-09-09 16:15:33"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_2025.csv",
+    "bytes": 86407489,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter\\komuter_2025.csv",
+    "downloaded_at": "2026-09-09 16:15:50"
+   }
+  }
+ },
+ "ridership_od_komuter_utara": {
+  "csv": {
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2025.csv",
+    "bytes": 58119635,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2025.csv",
+    "downloaded_at": "2026-09-09 16:14:54"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2024.csv",
+    "bytes": 54099604,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2024.csv",
+    "downloaded_at": "2026-09-09 16:15:01"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2026.csv",
+    "bytes": 41071402,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2026.csv",
+    "downloaded_at": "2026-09-09 16:15:10"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2020.csv",
+    "bytes": 4059232,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2020.csv",
+    "downloaded_at": "2026-09-09 16:15:27"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2021.csv",
+    "bytes": 16327343,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2021.csv",
+    "downloaded_at": "2026-09-09 16:15:39"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2023.csv",
+    "bytes": 42261056,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2023.csv",
+    "downloaded_at": "2026-09-09 16:15:49"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2022.csv",
+    "bytes": 32429155,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2022.csv",
+    "downloaded_at": "2026-09-09 16:16:04"
+   }
+  },
+  "parquet": {
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2026.parquet",
+    "bytes": 1022005,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2026.parquet",
+    "downloaded_at": "2026-09-09 16:14:56"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2025.parquet",
+    "bytes": 1494305,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2025.parquet",
+    "downloaded_at": "2026-09-09 16:15:04"
+   },
+   "2020": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2020.parquet",
+    "bytes": 122692,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2020.parquet",
+    "downloaded_at": "2026-09-09 16:15:14"
+   },
+   "2021": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2021.parquet",
+    "bytes": 469171,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2021.parquet",
+    "downloaded_at": "2026-09-09 16:15:28"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2022.parquet",
+    "bytes": 836225,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2022.parquet",
+    "downloaded_at": "2026-09-09 16:15:40"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2024.parquet",
+    "bytes": 1409329,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2024.parquet",
+    "downloaded_at": "2026-09-09 16:15:50"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_2023.parquet",
+    "bytes": 1080109,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_komuter_utara\\komuter_utara_2023.parquet",
+    "downloaded_at": "2026-09-09 16:16:05"
+   }
+  }
+ },
+ "ridership_od_rapidrail_daily": {
+  "parquet": {
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/rail/rapidrail_2026_daily.parquet",
+    "bytes": 3507219,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_rapidrail_daily\\rapidrail_2026_daily.parquet",
+    "downloaded_at": "2026-09-09 16:14:59"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/rail/rapidrail_2025_daily.parquet",
+    "bytes": 5491753,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_rapidrail_daily\\rapidrail_2025_daily.parquet",
+    "downloaded_at": "2026-09-09 16:15:07"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/rail/rapidrail_2024_daily.parquet",
+    "bytes": 5267304,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_rapidrail_daily\\rapidrail_2024_daily.parquet",
+    "downloaded_at": "2026-09-09 16:15:55"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/rail/rapidrail_2023_daily.parquet",
+    "bytes": 3716735,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_rapidrail_daily\\rapidrail_2023_daily.parquet",
+    "downloaded_at": "2026-09-09 16:16:08"
+   }
+  },
+  "csv": {
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/rail/rapidrail_2023_daily.csv",
+    "bytes": 232804290,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_rapidrail_daily\\rapidrail_2023_daily.csv",
+    "downloaded_at": "2026-09-09 16:16:56"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/rail/rapidrail_2026_daily.csv",
+    "bytes": 197700033,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_rapidrail_daily\\rapidrail_2026_daily.csv",
+    "downloaded_at": "2026-09-09 16:17:01"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/rail/rapidrail_2024_daily.csv",
+    "bytes": 310225664,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_rapidrail_daily\\rapidrail_2024_daily.csv",
+    "downloaded_at": "2026-09-09 16:17:07"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/rail/rapidrail_2025_daily.csv",
+    "bytes": 309579953,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_rapidrail_daily\\rapidrail_2025_daily.csv",
+    "downloaded_at": "2026-09-09 16:17:14"
+   }
+  }
+ },
+ "ridership_od_shuttle_tebrau": {
+  "parquet": {
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2024.parquet",
+    "bytes": 16059,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2024.parquet",
+    "downloaded_at": "2026-09-09 16:14:59"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2023.parquet",
+    "bytes": 15573,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2023.parquet",
+    "downloaded_at": "2026-09-09 16:15:08"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2022.parquet",
+    "bytes": 11192,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2022.parquet",
+    "downloaded_at": "2026-09-09 16:15:55"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2025.parquet",
+    "bytes": 16698,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2025.parquet",
+    "downloaded_at": "2026-09-09 16:16:57"
+   },
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2026.parquet",
+    "bytes": 12125,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2026.parquet",
+    "downloaded_at": "2026-09-09 16:17:09"
+   }
+  },
+  "csv": {
+   "2026": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2026.csv",
+    "bytes": 316890,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2026.csv",
+    "downloaded_at": "2026-09-09 16:16:09"
+   },
+   "2022": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2022.csv",
+    "bytes": 251939,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2022.csv",
+    "downloaded_at": "2026-09-09 16:16:57"
+   },
+   "2025": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2025.csv",
+    "bytes": 462266,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2025.csv",
+    "downloaded_at": "2026-09-09 16:17:02"
+   },
+   "2023": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2023.csv",
+    "bytes": 469608,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2023.csv",
+    "downloaded_at": "2026-09-09 16:17:08"
+   },
+   "2024": {
+    "url": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_2024.csv",
+    "bytes": 465327,
+    "etag": "",
+    "path": "C:\\Users\\user\\Documents\\data-gov-my\\data\\ridership_od_shuttle_tebrau\\shuttle_tebrau_2024.csv",
+    "downloaded_at": "2026-09-09 16:17:15"
+   }
+  }
+ }
+}

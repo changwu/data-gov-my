@@ -1,0 +1,46 @@
+{
+ "id": "blood_donations",
+ "title": "Daily Blood Donations by Blood Group",
+ "description": "Daily blood donations at national level for each of the 4 major blood groups. The table provides a preview of the dataset using the most recent 2 years of data.",
+ "data_as_of": "2026-09-07 23:59",
+ "last_updated": "2026-09-08 10:00",
+ "next_update": "2026-09-09 10:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "PDN",
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/blood_donations.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/blood_donations.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/blood_donations_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format"
+  },
+  {
+   "name": "blood_type",
+   "title": "Blood Type",
+   "description": "[Categorical] One of 4 major blood groups (A, B, AB, O) or all groups ('all')"
+  },
+  {
+   "name": "donations",
+   "title": "Blood Donations",
+   "description": "[Integer] Number of blood donation transactions on that date."
+  }
+ ],
+ "methodology": "This dataset is produced from transactional data recorded in the Blood Bank Information System (BBISv2), a vein-to-vein blood-tracking system used by 22 main blood collection sites under MoH which covers the majority of blood donations in Malaysia.",
+ "caveat": "The true number of daily blood donations is higher than the number recorded in this dataset, which does not reflect donations made at locations other than the 22 main sites integrated with BBISv2. However, the 22 main sites cover the large majority of blood donations in Malaysia (~80%), and therefore provide a representative view of blood donation trends.",
+ "publication": "KKMNOW features a [dashboard on blood donation](https://data.moh.gov.my/ms-MY/dashboard/blood-donation) where you can explore the data in a more interactive manner!",
+ "params": {
+  "id": "blood_donations"
+ },
+ "query": {
+  "id": "blood_donations"
+ },
+ "agency": "PDN,MOH",
+ "category": null
+}

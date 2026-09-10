@@ -1,0 +1,45 @@
+{
+ "id": "exchangerates",
+ "title": "Monthly Exchange Rates",
+ "description": "Monthly rates of exchange of the Malaysian ringgit vis-à-vis selected currencies.",
+ "data_as_of": "2026-04-30 12:00",
+ "last_updated": "2026-04-30 12:30",
+ "next_update": "2026-05-29 12:30",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "BNM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/finsector/exr/monthly.csv",
+ "link_parquet": "https://storage.data.gov.my/finsector/exr/monthly.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 to indicate monthly-frequency data"
+  },
+  {
+   "name": "indicator",
+   "title": "Indicator",
+   "description": "[String] The specific computation applied. There are 5 provided in the dataset, namely the highest rate in the month ('high'), lowest rate in the month ('low'), the average across trading days in the month ('avg'), the rate on the first trading day of the month ('start'), and the rate on the last trading day of the month ('end')."
+  },
+  {
+   "name": "<currency_code>",
+   "title": "Currency",
+   "description": "[Float] One of 27 columns indicating the rate of exchange of MYR to that currency (3-letter code), for that month and computation type. The currency name can be derived from the [currency code lookup table](https://data.gov.my/data-catalogue/currency_codes). It should be noted that the ringgit is the numerator, so higher values indicate a depreciation while lower values indicate an appreciation."
+  }
+ ],
+ "methodology": "The Malaysian ringgit (MYR) is a non-internationalised currency, meaning it can only be traded and settled within Malaysia under the regulation of Bank Negara Malaysia (BNM). To combat speculation, offshore trading of the ringgit is not permitted, and any foreign market activity — such as non-deliverable forwards (NDFs) — is purely indicative and settled in foreign currencies rather than MYR.\n\nConsequently, BNM has full oversight over trading over the ringgit, and compiles official exchange rate data based on buy and sell quotations at set times on all trading days:\n- 0900: Reference rate for start of day\n- 1130: Best counter rates offered by selected commercial banks\n- 1200: Reference rate for mid-day\n- 1700: Reference rate for end of day\n\nThis monthly dataset, which is provided for analytical purposes, is derived using middle rates at 1200.",
+ "caveat": "N/A",
+ "publication": "N/A",
+ "params": {
+  "id": "exchangerates"
+ },
+ "query": {
+  "id": "exchangerates"
+ },
+ "agency": "BNM",
+ "category": null
+}

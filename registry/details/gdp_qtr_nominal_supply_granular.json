@@ -1,0 +1,50 @@
+{
+ "id": "gdp_qtr_nominal_supply_granular",
+ "title": "Quarterly Nominal GDP by Economic Subsector",
+ "description": "Quarterly gross domestic product (GDP) at current prices by economic subsector. The table provides a preview of the full dataset using the latest year's data only.",
+ "data_as_of": "2026-Q2",
+ "last_updated": "2026-08-14 12:00",
+ "next_update": "2026-11-18 12:00",
+ "frequency": "QUARTERLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply_sub.csv",
+ "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply_sub.parquet",
+ "link_preview": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply_sub_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[String] Series type, either absolute values ('abs') or quarterly growth ('growth_yoy')"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format. The earliest date in the quarter is chosen, e.g. YYYY-01-01 for the 1st quarter and YYYY-04-01 for the 2nd quarter."
+  },
+  {
+   "name": "sector",
+   "title": "Economic Sector",
+   "description": "[String] Code for the economic sector or subsector, to be mapped using the [Lookup Table](https://open.dosm.gov.my/data-catalogue/gdp_lookup). The lookup table will give you the English and Malay definitions."
+  },
+  {
+   "name": "value",
+   "title": "Value",
+   "description": "[Float] Either the value of GDP in RM millions (for rows with series type 'abs') or GDP growth as a percentage (for rows with series type 'growth_yoy')"
+  }
+ ],
+ "methodology": "Gross domestic product (GDP) is the total value of goods and services produced within that year, after deducting the cost of goods and services used in production, but before deducting the consumption of fixed capital. In Malaysia, GDP is estimated in compliance with the [System of National Accounts (2008)](https://storage.dosm.gov.my/technotes/sna_2008.pdf).\n\nIn general, GDP can be measured via 3 approaches, namely production, expenditure, and income. Because the measurement employs double entry accounting, the overall value must be the same across all 3 approaches. However, the different approaches allow GDP to be analysed in different ways. The GDP estimates in this dataset were produced using the production method, also known as the value added approach, which allows insight into the specific contribution of each economic sector. The values are measured at current prices, i.e. without removing price effects. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/gdp-technotes).",
+ "caveat": "Values for 2022, 2023 and 2024 may be revised in future releases. Furthermore, the sum of GDP for all sectors may not always equal to the values for overall GDP because of independent rounding to one decimal place. However, the differences are not obvious.",
+ "publication": "[Gross Domestic Product, 1Q 2025](https://open.dosm.gov.my/publications/gdp_2025-q1), the latest edition of the quarterly GDP statistics published by DOSM. OpenDOSM also features a [dashboard on GDP](https://open.dosm.gov.my/dashboard/gdp) which enables you to explore Malaysia's GDP data interactively.",
+ "params": {
+  "id": "gdp_qtr_nominal_supply_granular"
+ },
+ "query": {
+  "id": "gdp_qtr_nominal_supply_granular"
+ },
+ "agency": "DOSM",
+ "category": null
+}

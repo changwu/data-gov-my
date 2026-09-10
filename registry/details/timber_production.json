@@ -1,0 +1,51 @@
+{
+ "id": "timber_production",
+ "title": "Production of Major Timber Products by State",
+ "description": "Production of major timber products by state from 2000 to 2021, broken down by product type.",
+ "data_as_of": "2021",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "YEARLY",
+ "data_source": [
+  "Perhutanan",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/agriculture/timber_products.csv",
+ "link_parquet": "https://storage.data.gov.my/agriculture/timber_products.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia (included for ease of analysis). Note that there is no data for W.P. Putrajaya, due to the lack of commercial logging in the state."
+  },
+  {
+   "name": "product",
+   "title": "Product Type",
+   "description": "[Categorical] The type of timber product in snake case; the 6 major products covered are logs, sawn timber, plywood, veneer, blockboard (discontinued since 2013), and moulding."
+  },
+  {
+   "name": "production",
+   "title": "Production",
+   "description": "[Float] The total production of the timber product in cubic meters (m³)"
+  }
+ ],
+ "methodology": "Data on timber production in Malaysia is collected via establishment-level surveys and censuses conducted by the Forestry Department. Accordingly, this data reflects the production of establishments registered with Forestry Department of Peninsular Malaysia, Forestry Department of Sabah, Forestry Department of Sarawak, and Sarawak Timber Industry Development Corporation only. From a definitional perspective, it should be noted that:\n- The data on timber logs excludes the production of hevea logs, poles, coconut trunks and oil palm trunks.\n- Data for W.P. Kuala Lumpur is subsumed under Selangor. Logging activity is not conducted in W.P. Putrajaya.\n- Blockboard data was discontinued in 2013.",
+ "caveat": "National totals may be slightly different to the sum of state values due to rounding.",
+ "publication": "—",
+ "params": {
+  "id": "timber_production"
+ },
+ "query": {
+  "id": "timber_production"
+ },
+ "agency": "Perhutanan,DOSM",
+ "category": null
+}

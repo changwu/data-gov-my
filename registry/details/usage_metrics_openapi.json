@@ -1,0 +1,46 @@
+{
+ "id": "usage_metrics_openapi",
+ "title": "Daily OpenAPI Hits by Endpoint",
+ "description": "Daily GET requests made to api.data.gov.my, disaggregated by endpoint.",
+ "data_as_of": "2026-09-08 23:59",
+ "last_updated": "2026-09-09 08:32",
+ "next_update": "2026-09-10 00:10",
+ "frequency": "DAILY",
+ "data_source": [
+  "JDN",
+  "KD"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/metrics/metrics_openapi.csv",
+ "link_parquet": "https://storage.data.gov.my/metrics/metrics_openapi.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format"
+  },
+  {
+   "name": "endpoint",
+   "title": "Endpoint",
+   "description": "[String] The endpoint being requested; full documentation of available endpoints is available via the [Developer Portal](https://developer.data.gov.my/)"
+  },
+  {
+   "name": "hits",
+   "title": "Hits",
+   "description": "[Integer] Number of requests made to the specific endpoint for the given date."
+  }
+ ],
+ "methodology": "This data is aggregated from transactional records produced by web analytics tools which monitor user interactions across the data.gov.my platform in real time. The data does not contain any personally identifiable information, as there is no component of data.gov.my which requires an authenticated login to access.",
+ "caveat": "Although the OpenAPI was live from 13 Sep 2023, disaggregated usage data is only available from 15 Dec 2023.",
+ "publication": "When aggregated on a daily basis, the data shown here is consistent with the OpenAPI hits displayed on the site's [homepage](https://data.gov.my/).",
+ "params": {
+  "id": "usage_metrics_openapi"
+ },
+ "query": {
+  "id": "usage_metrics_openapi"
+ },
+ "agency": "JDN,KD",
+ "category": null
+}

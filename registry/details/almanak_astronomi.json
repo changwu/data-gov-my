@@ -1,0 +1,45 @@
+{
+ "id": "almanak_astronomi",
+ "title": "Astronomy Almanac ",
+ "description": "This dataset provides information on astronomical phenomena observable from Malaysia, including the phases of the Moon, the Moon's perigee and apogee, Earth's perihelion and aphelion, meteor showers, planetary elongations, the solstices, equinoxes, and other related astronomical events. The data are calculated using Kuala Lumpur as the reference location and Malaysia Time (MYT, UTC+8), based on internationally recognized astronomical sources. This almanac is intended to support astronomical observations, education, and the planning of astronomy-related activities.",
+ "data_as_of": "2026-04-01 16:11:00.000 +08:00",
+ "last_updated": "2026-04-23 16:10:38.307 +08:00",
+ "next_update": "-",
+ "frequency": "DAILY",
+ "data_source": [
+  "MYSA"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/alamanak_astronomi.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/alamanak_astronomi.parquet",
+ "link_preview": "https://storage.data.gov.my/publicadmin/alamanak_astronomi.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "timestamp",
+   "title": "DateTime",
+   "description": "The date and exact time (Local Malaysian Time) of the event. "
+  },
+  {
+   "name": "fenomena",
+   "title": "String",
+   "description": "The name/category of the astronomical event."
+  },
+  {
+   "name": "penerangan\r",
+   "title": "String",
+   "description": "A textual description of the event, including observation tips or scientific significance."
+  }
+ ],
+ "methodology": "This Astronomical Almanac has been produced by the Malaysian Space Agency (MYSA) through astronomical calculations and simulations using professional software such as TheSkyX and Stellarium to determine the positions of celestial bodies based on the geographical coordinates of Kuala Lumpur. The generated data are subsequently reviewed and validated by comparison with internationally and locally recognized astronomical reference sources to ensure their accuracy and reliability. The Astronomical Almanac serves as an annual reference that provides information on astronomical phenomena to support observation and educational activities, while promoting greater public understanding of astronomical events and space science in Malaysia.",
+ "caveat": "The information presented in this Astronomical Almanac is provided as a reference based on astronomical calculations and computer simulations. The timing and visibility of astronomical phenomena are based on the specified reference location and may vary depending on the observer's geographical location, particularly between Peninsular Malaysia, Sabah, and Sarawak. These geographical differences may affect the rise and set times of celestial bodies, their apparent positions in the sky, and the duration for which the phenomena remain observable. In addition, the actual visibility of astronomical phenomena is influenced by atmospheric conditions and environmental factors such as weather, cloud cover, haze, atmospheric transparency, and the level of light pollution. These factors may reduce visibility or prevent observations altogether, even when the phenomena occur as predicted.",
+ "publication": "N/A",
+ "params": {
+  "id": "almanak_astronomi"
+ },
+ "query": {
+  "id": "almanak_astronomi"
+ },
+ "agency": "MYSA",
+ "category": null
+}

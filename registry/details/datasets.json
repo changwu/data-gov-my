@@ -1,0 +1,101 @@
+{
+ "id": "datasets",
+ "title": "List of Datasets on data.gov.my",
+ "description": "List of datasets published via the data catalogue",
+ "data_as_of": "2026-09-08 23:59",
+ "last_updated": "2026-09-09 08:32",
+ "next_update": "2026-09-10 00:10",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "JDN",
+  "KD"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/metrics/dataset_list.csv",
+ "link_parquet": "https://storage.data.gov.my/metrics/dataset_list.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "id",
+   "title": "Dataset ID",
+   "description": "[String] Unique identifier for the dataset"
+  },
+  {
+   "name": "date_created",
+   "title": "Date Created",
+   "description": "[Date] Date the dataset was created, in YYYY-MM-DD format"
+  },
+  {
+   "name": "title_en",
+   "title": "Title (English)",
+   "description": "[String] Title of the dataset in English"
+  },
+  {
+   "name": "category_en",
+   "title": "Category (English)",
+   "description": "[String] Dataset's category in English"
+  },
+  {
+   "name": "subcategory_en",
+   "title": "Subcategory (English)",
+   "description": "[String] Dataset's subcategory in English"
+  },
+  {
+   "name": "title_bm",
+   "title": "Title (Malay)",
+   "description": "[String] Title of the dataset in Malay"
+  },
+  {
+   "name": "category_bm",
+   "title": "Category (Malay)",
+   "description": "[String] Dataset's category in Malay"
+  },
+  {
+   "name": "subcategory_bm",
+   "title": "Subcategory (Malay)",
+   "description": "[String] Dataset's subcategory in Malay"
+  },
+  {
+   "name": "source",
+   "title": "Source",
+   "description": "[String] Name(s) of the dataset's source agency"
+  },
+  {
+   "name": "frequency",
+   "title": "Data Frequency",
+   "description": "[String] The frequency of the data contained within the dataset"
+  },
+  {
+   "name": "geography",
+   "title": "Geography",
+   "description": "[String] Geographical level covered by the dataset"
+  },
+  {
+   "name": "demography",
+   "title": "Demography",
+   "description": "[String] Demographic breakdowns contained within the dataset"
+  },
+  {
+   "name": "dataset_begin",
+   "title": "First Year",
+   "description": "[Integer] Earliest year covered by the dataset"
+  },
+  {
+   "name": "dataset_end",
+   "title": "Last Year",
+   "description": "[Integer] Most recent year covered by the dataset"
+  }
+ ],
+ "methodology": "This data is aggregated from the list of datasets extracted from the site's internal API.",
+ "caveat": "—",
+ "publication": "The list of datasets here is fully consistent with the site's [data catalogue](https://data.gov.my/data-catalogue/).",
+ "params": {
+  "id": "datasets"
+ },
+ "query": {
+  "id": "datasets"
+ },
+ "agency": "JDN,KD",
+ "category": null
+}

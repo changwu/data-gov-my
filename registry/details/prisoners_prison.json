@@ -1,0 +1,55 @@
+{
+ "id": "prisoners_prison",
+ "title": "Prisoners by Prison Centre and Sex",
+ "description": "Number of prisoners in Malaysia by prison centre and sex from 2017 to 2022.",
+ "data_as_of": "2022-12-31 23:59",
+ "last_updated": "2023-12-31 12:00",
+ "next_update": "2024-12-31 12:00",
+ "frequency": "YEARLY",
+ "data_source": [
+  "Penjara"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicsafety/prisoners_prison.csv",
+ "link_parquet": "https://storage.data.gov.my/publicsafety/prisoners_prison.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states"
+  },
+  {
+   "name": "prison",
+   "title": "Prison Centre",
+   "description": "[Categorical] Name of the prison centre"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes ('both'), male ('male') or female ('female')"
+  },
+  {
+   "name": "prisoners",
+   "title": "Number of Prisoners",
+   "description": "[Integer] The number of prisoners as of 31st December in the given year"
+  }
+ ],
+ "methodology": "In Malaysia, there are two types of prisoners:\n\n- **Convicted prisoners**: Individuals who have been convicted of a crime and subsequently imprisoned.\n- **Remand prisoners**: Individuals who have been detained and are awaiting trial.\n\nThis data shows the total number of prisoners, both convicted and remand, and is tabulated from the individual-level administrative records of prisoners managed by the Prisons Department, which is the single source of truth for all prison data in Malaysia.",
+ "caveat": "This data is intended to provide a snapshot of the prison population as at the end of each reporting year. It should not be used to assess trends in crime, recidivism, or other criminal justice indicators.",
+ "publication": "—",
+ "params": {
+  "id": "prisoners_prison"
+ },
+ "query": {
+  "id": "prisoners_prison"
+ },
+ "agency": "Penjara",
+ "category": null
+}

@@ -1,0 +1,51 @@
+{
+ "id": "births_annual_state",
+ "title": "Annual Live Births by State",
+ "description": "Annual number of births with signs of life upon delivery, by state.",
+ "data_as_of": "2024",
+ "last_updated": "2025-10-16 12:00",
+ "next_update": "2026-10-15 12:30",
+ "frequency": "YEARLY",
+ "data_source": [
+  "JPN",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/demography/birth_state.csv",
+ "link_parquet": "https://storage.dosm.gov.my/demography/birth_state.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "abs",
+   "title": "Live Births",
+   "description": "[Integer] Number of live births in that year"
+  },
+  {
+   "name": "rate",
+   "title": "Crude Birth Rate",
+   "description": "[Float] Number of live births per 1000 population"
+  }
+ ],
+ "methodology": "A live birth is a birth with signs of life upon delivery, even if only for a short while. The data on live births by state is tabulated based on information reported during the births registration process, specifically in the in Register of Birth Form (JPN.LM01). In particular, the 'state' reported in this dataset is based on the place of usual residence of the mother, not the geographical location in which the baby was born. For example, a baby born in a hospital in Kedah to a family who resides in Perlis will be counted as a live birth for Perlis. For a deeper understanding of the methodology and associated definition, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/vitalstats-technotes).",
+ "caveat": "This data is derived based on births registered with JPN. Accordingly, if a birth is not registered with JPN (for instance, if a foreigner chooses to register their child in their home country, or if a resident in a remote area does not register the birth of their child), it will not count in this dataset.",
+ "publication": "There are two dashboards where you can explore this (and related) data more interactively:\n - data.gov.my features a dashboard on [Birthday Popularity](https://data.gov.my/dashboard/birthday-explorer)\n - OpenDOSM features a dashboard on [Population & Vital Statistics](https://open.dosm.gov.my/dashboard/population)",
+ "params": {
+  "id": "births_annual_state"
+ },
+ "query": {
+  "id": "births_annual_state"
+ },
+ "agency": "JPN,DOSM",
+ "category": null
+}

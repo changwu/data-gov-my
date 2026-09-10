@@ -1,0 +1,17 @@
+# runtime artifacts
+__pycache__/
+*.pyc
+*.part
+*.log
+
+# credentials — never commit
+.gh_pat*
+.env
+
+# GitHub hard limit: single files >100 MB cannot be pushed.
+# These 5 files are documented with sizes + source URLs in README (section 9).
+data/ridership_od_rapidrail_daily/rapidrail_2023_daily.csv
+data/ridership_od_rapidrail_daily/rapidrail_2024_daily.csv
+data/ridership_od_rapidrail_daily/rapidrail_2025_daily.csv
+data/ridership_od_rapidrail_daily/rapidrail_2026_daily.csv
+data/ridership_od_komuter/komuter_2024.csv

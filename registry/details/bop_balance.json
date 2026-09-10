@@ -1,0 +1,45 @@
+{
+ "id": "bop_balance",
+ "title": "Balance of Key BOP Components",
+ "description": "Overall balance of the 4 main components of Malaysia's balance of payments (BOP).",
+ "data_as_of": "2026-Q2",
+ "last_updated": "2026-08-14 12:00",
+ "next_update": "2026-11-18 12:00",
+ "frequency": "QUARTERLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/bop/bop_balance.csv",
+ "link_parquet": "https://storage.dosm.gov.my/bop/bop_balance.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format. The earliest date in the quarter is chosen, e.g. YYYY-01-01 for the 1st quarter and YYYY-04-01 for the 2nd quarter."
+  },
+  {
+   "name": "account",
+   "title": "Component",
+   "description": "[Categorical] The type of account in the balance of payments: Current Account ('ca'), Capital Account ('ka'), Financial Account ('fa'),  Official Reserve Account ('reserves'), or Net Errors and Omissions ('neo')."
+  },
+  {
+   "name": "balance",
+   "title": "Balance (RM mil)",
+   "description": "[Float] The balance in RM millions. These are net values, derived by subtracting debits from credits for that account."
+  }
+ ],
+ "methodology": "In general, Malaysia's balance of payments (BOP) record all international economic transactions between Malaysia and other nations. This dataset presents the overall balance of the main components of Malaysia's BOP, that is the current account, capital account, financial account, and official reserve account. It is compiled based on the IMF's BPM6 guidelines. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/bop-technotes).",
+ "caveat": "Values for the most recent 8 quarters may be revised in future releases.",
+ "publication": "[Balance of Payments, 3Q 2024](https://open.dosm.gov.my/publications/bop_2024-q3), the latest edition of the quarterly BOP statistics published by DOSM. OpenDOSM also features a [dashboard on BOP](https://open.dosm.gov.my/dashboard/balance-of-payments) which enables you to explore Malaysia's BOP data interactively.",
+ "params": {
+  "id": "bop_balance"
+ },
+ "query": {
+  "id": "bop_balance"
+ },
+ "agency": "DOSM",
+ "category": null
+}

@@ -1,0 +1,50 @@
+{
+ "id": "fdi_flows",
+ "title": "Foreign Direct Investment (FDI) Flows",
+ "description": "Inflows, outflows, and net flows of foreign direct investment (FDI) into Malaysia.",
+ "data_as_of": "2025-Q3",
+ "last_updated": "2025-11-14 12:00",
+ "next_update": "2026-02-13 12:00",
+ "frequency": "QUARTERLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/bop/fdi_flows.csv",
+ "link_parquet": "https://storage.dosm.gov.my/bop/fdi_flows.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format. The earliest date in the quarter is chosen, e.g. YYYY-01-01 for the 1st quarter and YYYY-04-01 for the 2nd quarter."
+  },
+  {
+   "name": "inflow",
+   "title": "FDI Inflows",
+   "description": "[Float, RM bil] Inflows of FDI during the period"
+  },
+  {
+   "name": "outflow",
+   "title": "FDI Outflows",
+   "description": "[Float, RM bil] Outflows of FDI during the period"
+  },
+  {
+   "name": "net",
+   "title": "Net FDI Flows",
+   "description": "[Float, RM bil] Net flows of FDI, calculated as inflows minus outflows"
+  }
+ ],
+ "methodology": "FDI into Malaysia is a category of investment by non-residents that reflects the objective of obtaining a lasting interest in Malaysia. Financial instruments covered under direct investment include equity, reinvestment of earnings and debt instruments (such as inter-company loans and advances, trade credits). FDI statistics for Malaysia are compiled as part of the balance of payments, which is compiled based on the IMF's BPM6 guidelines. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/bop-technotes), particularly the definitions relating to FDI.",
+ "caveat": "Values for the most recent 8 quarters may be revised in future releases.",
+ "publication": "[Balance of Payments, 3Q 2025](https://open.dosm.gov.my/publications/bop_2025-q3), the latest edition of the quarterly BOP statistics published by DOSM. OpenDOSM also features a [dashboard on BOP](https://open.dosm.gov.my/dashboard/balance-of-payments) which enables you to explore Malaysia's BOP data interactively.",
+ "params": {
+  "id": "fdi_flows"
+ },
+ "query": {
+  "id": "fdi_flows"
+ },
+ "agency": "DOSM",
+ "category": null
+}

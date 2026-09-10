@@ -1,0 +1,55 @@
+{
+ "id": "ppi_sitc",
+ "title": "Monthly PPI by SITC Section (1 digit)",
+ "description": "Monthly producer price index (PPI) by SITC section (1 digit).",
+ "data_as_of": "2026-07",
+ "last_updated": "2026-08-28 12:00",
+ "next_update": "2026-09-28 12:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/ppi/ppi_sitc.csv",
+ "link_parquet": "https://storage.dosm.gov.my/ppi/ppi_sitc.parquet",
+ "link_preview": "https://storage.dosm.gov.my/ppi/ppi_sitc.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[String] Series type, either absolute values ('abs'), year-on-year growth ('growth_yoy') or month-on-month growth ('growth_mom')"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency"
+  },
+  {
+   "name": "section",
+   "title": "Section",
+   "description": "[String] 1-digit SITC code, to be matched using the 'section' column in the [SITC Lookup](https://open.dosm.gov.my/data-catalogue/sitc). The SITC lookup table will give you the English and Malay definitions."
+  },
+  {
+   "name": "index",
+   "title": "Index",
+   "description": "[Float] Level of producer prices, expressed as an index with base 2010 = 100"
+  },
+  {
+   "name": "index_sa",
+   "title": "Index (sa)",
+   "description": "[Float] Level of producer prices, expressed as a seasonally adjusted index with base 2010 = 100"
+  }
+ ],
+ "methodology": "The Producer Price Index (PPI) measures the level of prices received by the producer at the first stage of commercialisation (also known as the ex-factory price), relative to a base year (2010 = 100). Ex-factory prices exclude indirect taxes and any transport charges invoiced separately by the producer, unless the transport charges are too difficult to segregate (usually because the firm utilises their own transport facilities rather than hiring transport services). For a deeper understanding of the PPI compilation methodology and related concepts, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/ppi).",
+ "caveat": "Data for the most recent 3 months may be revised in subsequent releases.",
+ "publication": "[Producer Price Index, Jul 2026](https://open.dosm.gov.my/publications/ppi_2026-07), the latest edition of the monthly producer price statistics published by DOSM. OpenDOSM also features a [dashboard on producer prices](https://open.dosm.gov.my/dashboard/producer-prices) where you can explore this data in a more interactive manner.",
+ "params": {
+  "id": "ppi_sitc"
+ },
+ "query": {
+  "id": "ppi_sitc"
+ },
+ "agency": "DOSM",
+ "category": null
+}

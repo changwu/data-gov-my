@@ -1,0 +1,46 @@
+{
+ "id": "pekab40_screenings_state",
+ "title": "Daily PeKaB40 Health Screenings by State",
+ "description": "Daily healthcare screenings conducted under the PeKaB40 program, at state level. The table provides a preview of the dataset using the most recent year of data.",
+ "data_as_of": "2026-09-06 23:59",
+ "last_updated": "2026-09-07 10:00",
+ "next_update": "2026-09-08 10:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "PHCorp",
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/pekab40_screenings_state.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/pekab40_screenings_state.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/pekab40_screenings_state_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states"
+  },
+  {
+   "name": "screenings",
+   "title": "Screenings",
+   "description": "[Integer] Number of health screenings conducted on that date"
+  }
+ ],
+ "methodology": "This dataset is produced from the transactional database operated by Protect Health Corporation to administer the PeKaB40 program. PeKa B40 is a MoH initiative which aims to sustain the healthcare needs of low income groups by focusing on non-communicable diseases (NCDs). Recipients of government cash assistance and their spouses aged 40 and above are automatically eligible for free health screenings.",
+ "caveat": "—",
+ "publication": "KKMNOW features a [dashboard on Peka B40](https://data.moh.gov.my/dashboard/peka-b40) where you can explore the data in a more interactive manner!",
+ "params": {
+  "id": "pekab40_screenings_state"
+ },
+ "query": {
+  "id": "pekab40_screenings_state"
+ },
+ "agency": "PHCorp,MOH",
+ "category": null
+}

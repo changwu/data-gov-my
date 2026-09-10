@@ -1,0 +1,51 @@
+{
+ "id": "usage_metrics",
+ "title": "Daily Usage Metrics for data.gov.my",
+ "description": "Total views, OpenAPI hits, and downloads for data.gov.my",
+ "data_as_of": "2026-09-08 23:59",
+ "last_updated": "2026-09-09 08:32",
+ "next_update": "2026-09-10 00:10",
+ "frequency": "DAILY",
+ "data_source": [
+  "JDN",
+  "KD"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/metrics/metrics_agg.csv",
+ "link_parquet": "https://storage.data.gov.my/metrics/metrics_agg.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format"
+  },
+  {
+   "name": "views",
+   "title": "Views",
+   "description": "[Integer] Total number of views on data.gov.my for the given date; this should not be taken as the total number of unique visitors."
+  },
+  {
+   "name": "api_hits",
+   "title": "OpenAPI Hits",
+   "description": "[Integer] Number of requests made to the OpenAPI (api.data.gov.my) for the given date."
+  },
+  {
+   "name": "downloads",
+   "title": "Downloads",
+   "description": "[Integer] Number of dataset downloads for the given date; this only includes downloads made via the data.gov.my portal, and does not include programmatic access via the permalinks provided."
+  }
+ ],
+ "methodology": "This data is aggregated from transactional records produced by web analytics tools which monitor user interactions across the data.gov.my platform in real time. The data does not contain any personally identifiable information, as there is no component of data.gov.my which requires an authenticated login to access.",
+ "caveat": "—",
+ "publication": "The data shown here is exactly the same as the usage metrics displayed on the site's [homepage](https://data.gov.my/).",
+ "params": {
+  "id": "usage_metrics"
+ },
+ "query": {
+  "id": "usage_metrics"
+ },
+ "agency": "JDN,KD",
+ "category": null
+}

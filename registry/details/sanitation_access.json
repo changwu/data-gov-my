@@ -1,0 +1,45 @@
+{
+ "id": "sanitation_access",
+ "title": "Access to Sanitary Latrines by State",
+ "description": "Proportion of households in rural areas covered by sanitary latrines by state.",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/sanitation_access.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/sanitation_access.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia"
+  },
+  {
+   "name": "proportion",
+   "title": "Access (%)",
+   "description": "[Float] Proportion of households with access to sanitary latrines, expressed as a percentage"
+  }
+ ],
+ "methodology": "This data shows the proportion of households in rural areas covered by sanitary latrines, and is tabulated from annual ground-level surveillance conducted by the Water Supply and Environmental Sanitation (BAKAS) unit at the Ministry of Health. The reason that the survey focuses on rural areas is for cost effectiveness, since data from the Department of Statistics' surveys on household access to basic amenities shows that urban access to improved sanitation has been stable at or near 100% throughout the country.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "sanitation_access"
+ },
+ "query": {
+  "id": "sanitation_access"
+ },
+ "agency": "MOH",
+ "category": null
+}

@@ -1,0 +1,45 @@
+{
+ "id": "currency_in_circulation",
+ "title": "Monthly Currency in Circulation",
+ "description": "The value of currency in circulation by denomination, for instance RM 1, RM 5, RM 10.",
+ "data_as_of": "2026-06",
+ "last_updated": "2026-07-31 18:00",
+ "next_update": "2027-08-31 18:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "BNM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/finsector/currency_in_circulation.csv",
+ "link_parquet": "https://storage.data.gov.my/finsector/currency_in_circulation.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 since the data is at monthly frequency"
+  },
+  {
+   "name": "denomination",
+   "title": "Denomination",
+   "description": "[String] Either 'total' or a specific denomination in the format {type}_{value}, where type can be 'note' or 'coin', and value refers to the specific denomination."
+  },
+  {
+   "name": "value",
+   "title": "Value in Circulation",
+   "description": "[Float, RM mil] Value in circulation as at the end of the period, in RM millions"
+  }
+ ],
+ "methodology": "Bank Negara Malaysia (BNM) is the sole issuer of currency in Malaysia, and has a duty to ensure a sufficient supply of notes and coins at all times, including during festive seasons when demand for cash is higher than normal. Accordingly, BNM is able to track how much currency is in circulation at any given point in time. That data is summarised in this dataset at monthly frequency.",
+ "caveat": "Bank Negara Malaysia commenced the issue of Malaysian currency on 12 June 1967. Accordingly, although not caveats per se, it is helpful to bear the following dates in mind when analysing currency in circulation.\n\nWith respect to notes in circulation:\n1. The RM500 and RM1,000 banknotes were demonetised on 1 July 1999.\n2. The second banknote series of RM1, RM5, RM10, RM20, RM50, RM100, RM500 and RM1,000  was issued from 1982.\n3. The third banknote series of RM1, RM2, RM5, RM10, RM50 and RM100 was issued from 1996.\n4. The fourth banknote series of RM50 was issued from 2009, with the corresponding fourth series of RM1, RM5, RM10, RM20 and RM100 issued from 16 July 2012.\n\nWith respect to coins:\n1. The one ringgit coin ceased to be legal tender on 7 December 2005.\n2. The second coin series of 1sen, 5sen, 10sen, 20sen, 50sen and RM1 was issued from 1989.\n3. The third coin series of 1sen, 5sen, 10sen, 20sen, and 50sen was issued from 16 January 2012.",
+ "publication": "Our site features a [dashboard on currency in circulation](https://data.gov.my/dashboard/currency-in-circulation). This dataset is also published as part of BNM's [monthly highlights and statistics](https://www.bnm.gov.my/publications/mhs).",
+ "params": {
+  "id": "currency_in_circulation"
+ },
+ "query": {
+  "id": "currency_in_circulation"
+ },
+ "agency": "BNM",
+ "category": null
+}

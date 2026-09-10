@@ -1,0 +1,50 @@
+{
+ "id": "local_authority_sex",
+ "title": "Female Representation in Local Authorities",
+ "description": "Proportion of women and men in Malaysian local authorities.",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "-",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "KPKT"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/local_authority_sex.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/local_authority_sex.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency."
+  },
+  {
+   "name": "local_authority",
+   "title": "Local Authority",
+   "description": "[Kategori] Nama pihak berkuasa tempatan"
+  },
+  {
+   "name": "female",
+   "title": "Women",
+   "description": "[Float, %] Women as a percentage of total filled positions"
+  },
+  {
+   "name": "male",
+   "title": "Men",
+   "description": "[Float, %] Men as a percentage of total filled positions"
+  }
+ ],
+ "methodology": "This dataset is compiled from official records of Malaysian local authorities as of January 1st each year. The proportions of women and men are computed using the total number of filled positions as the denominator, meaning that vacancies are not included.",
+ "caveat": "The data reflects the composition of local authorities at the start of the year. Therefore, it does not capture any changes in composition that occur during the year. However, the proportions usually do not fluctuate significantly.",
+ "publication": "—",
+ "params": {
+  "id": "local_authority_sex"
+ },
+ "query": {
+  "id": "local_authority_sex"
+ },
+ "agency": "KPKT",
+ "category": null
+}

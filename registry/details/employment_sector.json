@@ -1,0 +1,50 @@
+{
+ "id": "employment_sector",
+ "title": "Employment by MSIC Sector and Sex",
+ "description": "Annual distribution of employment by MSIC sector and sex.",
+ "data_as_of": "2022",
+ "last_updated": "2024-11-08 12:00",
+ "next_update": "2025-01-01 12:00",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/labour/employment_sector.csv",
+ "link_parquet": "https://storage.dosm.gov.my/labour/employment_sector.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The year of the data in YYYY format, with MM-DD set to 01-01 because the data is at annual frequency."
+  },
+  {
+   "name": "sector",
+   "title": "Sector",
+   "description": "[Kategori] Sektor pekerjaan: pertanian (MSIC sections A and B), industri (C,D,E,F) atau perkhidmatan (G,H,I,J,K,L,M,N,O,P,Q)."
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] The sex of the employed individuals: male, female, or both."
+  },
+  {
+   "name": "proportion",
+   "title": "Proportion (%)",
+   "description": "[Float] The proportion of employment in the sector as a percentage."
+  }
+ ],
+ "methodology": "This data is produced based on the Labour Force Survey (LFS), which is designed to collect representative data on the labour force at national and state level. Consistency in methodology has been maintained to ensure that the data is comparable over time. Survey findings are a monthly, quarterly and annual basis. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/lfs-technotes).",
+ "caveat": "The proportions may not sum to 100% due to rounding.",
+ "publication": "The [Labour Force Report](https://open.dosm.gov.my/publications/labour_month_2024-09), providing detailed insights into employment trends.",
+ "params": {
+  "id": "employment_sector"
+ },
+ "query": {
+  "id": "employment_sector"
+ },
+ "agency": "DOSM",
+ "category": null
+}

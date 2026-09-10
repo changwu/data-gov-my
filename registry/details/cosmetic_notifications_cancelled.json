@@ -1,0 +1,56 @@
+{
+ "id": "cosmetic_notifications_cancelled",
+ "title": "Cancelled Cosmetic Product Notifications",
+ "description": "Complete list of comsetic products found to contain banned substances, with their notification subsequently cancelled by the Drug Control Authority. The table provides a preview of the dataset using 10 records as a sample.",
+ "data_as_of": "2026-09-07 23:59",
+ "last_updated": "2026-09-08 08:21",
+ "next_update": "2026-09-09 12:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "NPRA",
+  "MOH"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.data.gov.my/healthcare/cosmetic_notifications_cancelled.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/cosmetic_notifications_cancelled.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/cosmetic_notifications_cancelled_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "notif_no",
+   "title": "Notification Number",
+   "description": "[String] Unique identifier for the product's notification"
+  },
+  {
+   "name": "product",
+   "title": "Product Name",
+   "description": "[String] Name of the product"
+  },
+  {
+   "name": "holder",
+   "title": "Holder",
+   "description": "[String] Company or entity holding the notification"
+  },
+  {
+   "name": "manufacturer",
+   "title": "Manufacturer",
+   "description": "[String] Name of the manufacturer of the product"
+  },
+  {
+   "name": "substance_detected",
+   "title": "Substance Detected",
+   "description": "[String] Banned substance(s) found in the product causing its notification to be cancelled"
+  }
+ ],
+ "methodology": "In accordance with the Control of Drugs and Cosmetics Regulations 1984, all pharmaceutical, health and personal care products marketed in Malaysia must be registered and approved by the Drug Control Authority (DCA). For cosmetics specifically, a 'notification' must be submitted to NPRA via the QUEST3+ system, which is the administrative system used by NPRA to enable the online management of product registrations, variations, licensing, market sampling, renewal and others. This dataset is an exact copy of the administrative record of cosmetic products with cancelled notifications, with any columns containing personal data excluded.\n\nThese products have been found to contain prohibited substances, including scheduled poisons that are not permitted in cosmetic products. The use of cosmetic products adulterated with such chemicals as detected can cause serious adverse effects.",
+ "caveat": "Although this data represents administrative records, it nevertheless remains a static dataset which is updated once per day, rather than in real time. As such, this dataset should not be used as the basis for any legal action. Any queries on enforcement of the relevant laws of Malaysia should always be referred to the National Pharmaceutical Regulatory Agency (NPRA).",
+ "publication": "—",
+ "params": {
+  "id": "cosmetic_notifications_cancelled"
+ },
+ "query": {
+  "id": "cosmetic_notifications_cancelled"
+ },
+ "agency": "NPRA,MOH",
+ "category": null
+}

@@ -1,0 +1,51 @@
+{
+ "id": "government_apps_active",
+ "title": "Number of Active Government Mobile Applications",
+ "description": "Monthly data on the number of active government mobile applications, including data on the number of apps published and shut down.",
+ "data_as_of": "2026-04-21 23:59",
+ "last_updated": "2026-04-22 02:00",
+ "next_update": "2026-04-23 02:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "JDN",
+  "KD"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/government_apps_active.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/government_apps_active.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with DD set to 01 as this is monthly data."
+  },
+  {
+   "name": "published",
+   "title": "Published",
+   "description": "[Integer] Number of new government mobile applications published in that month."
+  },
+  {
+   "name": "shutdown",
+   "title": "Shut Down",
+   "description": "[Integer] Number of government mobile applications that were shut down in that month."
+  },
+  {
+   "name": "active",
+   "title": "Active",
+   "description": "[Integer] Total number of active government mobile applications as of that month, derived as the number of published applications minus the number of shut down applications."
+  }
+ ],
+ "methodology": "This data is aggregated from the transactional data on government mobile applications made available [here](https://data.gov.my/data-catalogue/government_apps).",
+ "caveat": "The data represents applications tracked via the Malaysia Government Mobile Applications Gallery (GAMMA) only. As such, official applications not yet registered in GAMMA may be absent from this dataset.",
+ "publication": "—",
+ "params": {
+  "id": "government_apps_active"
+ },
+ "query": {
+  "id": "government_apps_active"
+ },
+ "agency": "JDN,KD",
+ "category": null
+}

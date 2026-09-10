@@ -1,0 +1,76 @@
+{
+ "id": "pharmaceutical_wholesalers",
+ "title": "Approved Wholesalers of Pharmaceutical Products",
+ "description": "Complete list of approved wholesalers of pharmaceutical products with an active license from NPRA. The table provides a preview of the dataset using 10 records as a sample.",
+ "data_as_of": "2026-09-07 23:59",
+ "last_updated": "2026-09-08 08:21",
+ "next_update": "2026-09-09 12:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "NPRA",
+  "MOH"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.data.gov.my/healthcare/pharmaceutical_wholesalers.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/pharmaceutical_wholesalers.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/pharmaceutical_wholesalers_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "company",
+   "title": "Company",
+   "description": "[String] Name of the company holding the license"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] The state in which the company is located; one of 16 states"
+  },
+  {
+   "name": "postcode",
+   "title": "Postcode",
+   "description": "[String] 5-digit postal code for the company's address"
+  },
+  {
+   "name": "poison",
+   "title": "Poison Products",
+   "description": "[Integer] Binary variable indicating whether the company is approved (1) to sell poison products or not (0)"
+  },
+  {
+   "name": "non_poison",
+   "title": "Non-Poison Products",
+   "description": "[Integer] Binary variable indicating whether the company is approved (1) to sell non-poison products or not (0)"
+  },
+  {
+   "name": "traditional",
+   "title": "Traditional Products",
+   "description": "[Integer] Binary variable indicating whether the company is approved (1) to sell traditional products or not (0)"
+  },
+  {
+   "name": "health_supplement",
+   "title": "Health Supplements",
+   "description": "[Integer] Binary variable indicating whether the company is approved (1) to sell health supplements or not (0)"
+  },
+  {
+   "name": "poison_vet",
+   "title": "Veterinary Poison Products",
+   "description": "[Integer] Binary variable indicating whether the company is approved (1) to sell veterinary poison products or not (0)"
+  },
+  {
+   "name": "non_poison_vet",
+   "title": "Veterinary Non-Poison Products",
+   "description": "[Integer] Binary variable indicating whether the company is approved (1) to sell veterinary non-poison products or not (0)"
+  }
+ ],
+ "methodology": "This dataset represents an exact copy of the administrative records managed by the National Pharmaceutical Regulatory Agency (NPRA) using the QUEST3+ system, with any columns containing personal data excluded. QUEST3+ is the administrative system used by NPRA to enable the online management of product registrations, variations, licensing, market sampling, renewal and others.",
+ "caveat": "Although this data represents administrative records, it nevertheless remains a static dataset which is updated once per day, rather than in real time. As such, this dataset should not be used as the basis for any legal action. Any queries on enforcement of the relevant laws of Malaysia should always be referred to the National Pharmaceutical Regulatory Agency (NPRA).",
+ "publication": "—",
+ "params": {
+  "id": "pharmaceutical_wholesalers"
+ },
+ "query": {
+  "id": "pharmaceutical_wholesalers"
+ },
+ "agency": "NPRA,MOH",
+ "category": null
+}

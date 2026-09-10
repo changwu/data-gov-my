@@ -1,0 +1,40 @@
+{
+ "id": "mnha_moh",
+ "title": "MNHA: MOH Expenditure on Health",
+ "description": "Annual total expenditure on health by the Ministry of Health Malaysia.",
+ "data_as_of": "2022",
+ "last_updated": "2024-11-11",
+ "next_update": "-",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/mnha_moh.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/mnha_moh.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The year of the expenditure in YYYY-MM-DD format, with MM-DD set to 01-01 because the data is an annual frequency."
+  },
+  {
+   "name": "expenditure",
+   "title": "Expenditure (RM)",
+   "description": "[Float] The amount of expenditure in Malaysian Ringgit."
+  }
+ ],
+ "methodology": "In general, national health accounts (NHA) seek to answer 4 questions pertaining to healthcare spending:\n1. How much is spent?\n2. Who spent it? (sources of financing)\n3. Where was it spent? (providers of healthcare)\n4. What was it spent for?(functions)\n\nMalaysia's national health accounts are based on the Malaysian National Health Accounts (MNHA) framework, which is consistent with international NHA classifications but with minor modifications to suit local policy needs.\n\nThis dataset zooms into sources of financing, focusing specifically on expenditure by the Ministry of Health Malaysia (MOH), which is an important policy variable. For a fuller description of the MNHA framework, you may refer to Chapter 2 of the [most recent MNHA publication](https://storage.data.gov.my/healthcare/pub/mnha_2022.pdf).",
+ "caveat": "The data may be revised in future updates, in accordance with the latest methodologies.",
+ "publication": "[MNHA 2022](https://storage.data.gov.my/healthcare/pub/mnha_2022.pdf), the latest edition of the Malaysian National Health Accounts published by the Ministry of Health Malaysia.",
+ "params": {
+  "id": "mnha_moh"
+ },
+ "query": {
+  "id": "mnha_moh"
+ },
+ "agency": "MOH",
+ "category": null
+}

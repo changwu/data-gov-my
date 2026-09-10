@@ -1,0 +1,61 @@
+{
+ "id": "government_apps_reviews",
+ "title": "Transactional Data: User Reviews of Government Mobile Applications",
+ "description": "Transactional data on the user reviews of government mobile applications",
+ "data_as_of": "2026-04-21 23:59",
+ "last_updated": "2026-04-22 02:00",
+ "next_update": "2026-04-23 02:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "JDN",
+  "KD"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/government_apps_reviews.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/government_apps_reviews.parquet",
+ "link_preview": "https://storage.data.gov.my/publicadmin/government_apps_reviews_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "id",
+   "title": "Application ID",
+   "description": "[Integer] Unique identifier for each government mobile application; this can be matched against the app_id field in the main dataset."
+  },
+  {
+   "name": "app_name",
+   "title": "Application Name",
+   "description": "[String] The official name of the government mobile application."
+  },
+  {
+   "name": "app_os_platform",
+   "title": "Operating System Platform",
+   "description": "[Categorical] The OS platform on which the review was submitted: Android, iOS, or Huawei."
+  },
+  {
+   "name": "review",
+   "title": "User Review",
+   "description": "[String] User-submitted review text for the application. May be empty if no review was provided."
+  },
+  {
+   "name": "created_date",
+   "title": "Date",
+   "description": "[Timestamp] The timestamp when the review was submitted."
+  },
+  {
+   "name": "star_rating",
+   "title": "Star Rating",
+   "description": "[Integer] The star rating given by the user, ranging from 1 to 5 stars. -1 indicates ratings without a star value."
+  }
+ ],
+ "methodology": "Under the standards specified by the National Digital Department (JDN), all government mobile applications must be registered with the Malaysia Government Mobile Applications Gallery (GAMMA). This dataset represents an exact copy of the transactional data on user reviews stored in the GAMMA database.",
+ "caveat": "The data represents applications tracked via the Malaysia Government Mobile Applications Gallery (GAMMA) only. As such, official applications not yet registered in GAMMA may be absent from this dataset.",
+ "publication": "—",
+ "params": {
+  "id": "government_apps_reviews"
+ },
+ "query": {
+  "id": "government_apps_reviews"
+ },
+ "agency": "JDN,KD",
+ "category": null
+}

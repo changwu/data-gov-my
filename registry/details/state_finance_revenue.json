@@ -1,0 +1,50 @@
+{
+ "id": "state_finance_revenue",
+ "title": "State Government Revenue",
+ "description": "Annual data on state government revenue by source, covering tax, non-tax, and non-revenue receipts.",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "—",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "AUDIT"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/state_finance_revenue.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/state_finance_revenue.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 13 states with their own State Legislative Assembly (does not include Federal Territories)"
+  },
+  {
+   "name": "category",
+   "title": "Revenue Category",
+   "description": "[Categorical] Either total revenue ('total') or the category of revenue comprising tax revenue ('revenue_60000'), non-tax revenue ('revenue_70000'), and non-revenue receipts ('revenue_80000')"
+  },
+  {
+   "name": "expenditure",
+   "title": "Acutal Revenue",
+   "description": "[Float, RM mil] Actual revenue for the given category; note that this may be different from the original projection presented in the state budget"
+  }
+ ],
+ "methodology": "This dataset is produced from the financial statements of state governments in Malaysia, as published by the National Audit Department in the Auditor General's Report. Categorisation of revenue is based on the [Classification Codes for Revenue and Expenditure](https://storage.data.gov.my/publicadmin/penjenisan_kod.pdf) published by the Federal Treasury.",
+ "caveat": "The latest actual revenue data (rather than projected revenue) is as of 2022, except for Sarawak which is as of 2020. Values for Sarawak will be updated to 2022 when available. Furthermore, it should be noted that because this dataset shows the revenue of state governments, it does not include the Federal Territories of Kuala Lumpur, Labuan, and Putrajaya, which do not have their own State Legislative Assemblies.",
+ "publication": "—",
+ "params": {
+  "id": "state_finance_revenue"
+ },
+ "query": {
+  "id": "state_finance_revenue"
+ },
+ "agency": "AUDIT",
+ "category": null
+}

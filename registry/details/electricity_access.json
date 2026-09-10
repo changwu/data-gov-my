@@ -1,0 +1,48 @@
+{
+ "id": "electricity_access",
+ "title": "Households with Access to Electricity",
+ "description": "Number of households with access to electricity at home.",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "YEARLY",
+ "data_source": [
+  "TNB",
+  "SESB",
+  "SWK-ENERGY",
+  "ST"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/energy/electricity_access.csv",
+ "link_parquet": "https://storage.data.gov.my/energy/electricity_access.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at yearly frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] Either Malaysia, Semenanjung Malaysia (supplied by Tenaga Nasional Berhad), Sabah (supplied by Sabah Electricity Sdn. Bhd.), or Sarawak (supplied by Sarawak Energy Berhad)"
+  },
+  {
+   "name": "households",
+   "title": "Households",
+   "description": "[Float] Number of households with access to electricity at home"
+  }
+ ],
+ "methodology": "In Malaysia, the electrical grid is operated by various parties, primarily Tenaga Nasional Berhad (for Peninsular Malaysia), Sabah Electricity Sdn. Bhd., and Sarawak Energy Berhad. Independent power producers also contribute to the grid. This dataset is tabulated from the operational records of these providers, and shows the number of households (i.e. domestic consumers) with access to electricity at home.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "electricity_access"
+ },
+ "query": {
+  "id": "electricity_access"
+ },
+ "agency": "TNB,SESB,SWK-ENERGY,ST",
+ "category": null
+}

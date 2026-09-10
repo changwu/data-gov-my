@@ -1,0 +1,60 @@
+{
+ "id": "economic_indicators",
+ "title": "Malaysian Economic Indicators",
+ "description": "Indices for the purpose of monitoring Malaysia's economic situation on a monthly basis, consisting of leading, lagging, and coincidence indicators.",
+ "data_as_of": "2026-05",
+ "last_updated": "2026-07-24 12:30",
+ "next_update": "2026-08-24 12:30",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/mei/mei.csv",
+ "link_parquet": "https://storage.dosm.gov.my/mei/mei.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format"
+  },
+  {
+   "name": "leading",
+   "title": "Leading Index",
+   "description": "[Float] The Leading Index measures anticipations of the overall economic activity in the months ahead. The index tells us where the economy is going."
+  },
+  {
+   "name": "coincident",
+   "title": "Coincident Index",
+   "description": "[Float] The Coincident Index is a comprehensive measure of the overall current economic performance."
+  },
+  {
+   "name": "lagging",
+   "title": "Lagging Index",
+   "description": "[Float] The Lagging Index is to validate the signal of the Leading and Coincident Indexes"
+  },
+  {
+   "name": "leading_diffusion",
+   "title": "Leading Index (Diffusion)",
+   "description": "[Float] The Diffusion Index is a complement to the Composite Index. It is used to assist in making a decision especially in determining turning point of economic cycle. The value of 100 for Diffusion Index implies that all components are increasing and the value of zero shows that all components are decreasing."
+  },
+  {
+   "name": "coincident_diffusion",
+   "title": "Coincident Index (Diffusion)",
+   "description": "[Float] The Diffusion Index is a complement to the Composite Index. It is used to assist in making a decision especially in determining turning point of economic cycle. The value of 100 for Diffusion Index implies that all components are increasing and the value of zero shows that all components are decreasing"
+  }
+ ],
+ "methodology": "Data for the compilation of Composite and Diffusion Indexes is obtained from the Department of Statistics Malaysia and the following agencies:\n 1. Ministry of Housing and Local Government (MHLG)\n 2. Bank Negara Malaysia (BNM)\n 3. Road Transport Department (RTD)\n 4. Malaysian Investment Development Authority (MIDA)\n 5. Employees Provident Fund (EPF)",
+ "caveat": "The economic indicators are unable to take into account internal or/and external shocks to the economy.",
+ "publication": "[Malaysian Economic Indicators, Nov 2024](https://open.dosm.gov.my/publications/mei_2024-11), the latest edition of the monthly economic indicators published by DOSM. OpenDOSM also features a [dashboard on these indicators](https://open.dosm.gov.my/dashboard/composite-indices).",
+ "params": {
+  "id": "economic_indicators"
+ },
+ "query": {
+  "id": "economic_indicators"
+ },
+ "agency": "DOSM",
+ "category": null
+}

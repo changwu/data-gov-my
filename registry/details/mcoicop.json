@@ -1,0 +1,65 @@
+{
+ "id": "mcoicop",
+ "title": "MCOICOP",
+ "description": "This table provides a complete lookup for 2, 3, 4, and 5-digit codes under Malaysia's COICOP (Classification of Individual Consumption According to Purpose), as applied and used in data publications in Malaysia. The MCOICOP is primarily used by the Department of Statistics Malaysia (DOSM), for instance when categorising and analysing consumer price inflation.",
+ "data_as_of": "2018",
+ "last_updated": "2024-04-16",
+ "next_update": "—",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/dictionaries/mcoicop.csv",
+ "link_parquet": "https://storage.dosm.gov.my/dictionaries/mcoicop.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "digits",
+   "title": "Digits",
+   "description": "[Integer] Number of digits; this column can be used as a filter if you only want to keep 2 digit codes, for example"
+  },
+  {
+   "name": "division",
+   "title": "Division",
+   "description": "[String] 2-digit code; please ensure that you read this column as a string, because the (intentional) leading zeroes will be dropped if read as an integer (e.g. upon opening in Microsoft Excel)"
+  },
+  {
+   "name": "group",
+   "title": "Group",
+   "description": "[String] 3-digit code, with dashes where not applicable (e.g. for rows providing 2-digit definitions)"
+  },
+  {
+   "name": "class",
+   "title": "Class",
+   "description": "[String] 4-digit code, with dashes where not applicable (e.g. for rows providing 2 and 3-digit definitions)"
+  },
+  {
+   "name": "subclass",
+   "title": "Subclass",
+   "description": "[String] 5-digit code, with dashes where not applicable (e.g. for rows providing 2 and 3-digit definitions)"
+  },
+  {
+   "name": "desc_en",
+   "title": "Description (EN)",
+   "description": "[String] Description for the code, in English"
+  },
+  {
+   "name": "desc_bm",
+   "title": "Description (BM)",
+   "description": "[String] Description for the code, in Malay"
+  }
+ ],
+ "methodology": "The MCOICOP was adapted from the [latest COICOP published by the United Nations Statistics Division](https://unstats.un.org/unsd/classifications/Econ), which is used as a global reference in the classification of individual and household consumption.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "mcoicop"
+ },
+ "query": {
+  "id": "mcoicop"
+ },
+ "agency": "DOSM",
+ "category": null
+}

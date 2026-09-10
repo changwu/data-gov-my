@@ -1,0 +1,56 @@
+{
+ "id": "drug_arrests_age",
+ "title": "Drug Arrests by Sex & Age",
+ "description": "This dataset provides information on drug-related arrests categorized by sex and age group. It includes data on the type of arrest, whether for possession, supply, or positive urine tests, and is compiled on a yearly basis at the national level.",
+ "data_as_of": "2023",
+ "last_updated": "2023-12-31",
+ "next_update": "-",
+ "frequency": "YEARLY",
+ "data_source": [
+  "PDRM",
+  "KDN"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicsafety/drug_arrests_age.csv",
+ "link_parquet": "https://storage.data.gov.my/publicsafety/drug_arrests_age.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "arrest_type",
+   "title": "Arrest Type",
+   "description": "The type of drug-related arrest, such as possession, supply, or urine positive."
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "The date of the arrest record, formatted as YYYY-MM-DD."
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "The sex of the individuals involved in the arrests, categorized as male, female, or both."
+  },
+  {
+   "name": "age",
+   "title": "Age Group",
+   "description": "The age group of individuals involved in the arrests, categorized into ranges such as <13, 14-18, 19-24, etc."
+  },
+  {
+   "name": "drug_arrests",
+   "title": "Drug Arrests",
+   "description": "The number of drug-related arrests recorded for the specified category."
+  }
+ ],
+ "methodology": "The dataset is compiled annually and includes data on drug-related arrests at the national level. The data is categorized by sex and age group, and the types of arrests include possession, supply, and positive urine tests. Data is collected from law enforcement records and is intended to provide insights into drug-related offenses across different demographics.",
+ "caveat": "The dataset represents annual data and may not reflect real-time changes in drug-related arrest patterns. Additionally, some age groups or sex categories may have small sample sizes, which could affect the reliability of trends over time. Users should exercise caution when interpreting trends from this dataset.",
+ "publication": "N/A",
+ "params": {
+  "id": "drug_arrests_age"
+ },
+ "query": {
+  "id": "drug_arrests_age"
+ },
+ "agency": "PDRM,KDN",
+ "category": null
+}

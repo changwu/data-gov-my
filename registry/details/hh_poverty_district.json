@@ -1,0 +1,55 @@
+{
+ "id": "hh_poverty_district",
+ "title": "Poverty by Administrative District",
+ "description": "Poverty rates by administrative district from 2019 to 2024.",
+ "data_as_of": "2024",
+ "last_updated": "2025-12-31 12:00",
+ "next_update": "—",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/hies/hh_poverty_district.csv",
+ "link_parquet": "https://storage.dosm.gov.my/hies/hh_poverty_district.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, including the 3 Federal Territories"
+  },
+  {
+   "name": "district",
+   "title": "District",
+   "description": "[Categorical] One of 160 administrative districts, including the 4 states (Perlis and the 3 Federal Territories) which do not have subdivisions"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "poverty_absolute",
+   "title": "Absolute Poverty Rate",
+   "description": "[Float] Proportion of households with monthly income below the Poverty Line Income (PLI)"
+  },
+  {
+   "name": "poverty_relative",
+   "title": "Relative Poverty Rate",
+   "description": "[Float] Proportion of households with monthly income below half the district median income"
+  }
+ ],
+ "methodology": "In general, poverty is defined as having household income below a specific benchmark. Accordingly, statistics on poverty in Malaysia are produced and published together with statistics on household income derived from the Household Income and Expenditure Survey (HIES), which is conducted at least twice within any 5-year period. This dataset presents 2 definitions of poverty:\n 1. **Absolute Poverty**: A household is considered to be in absolute poverty if their gross monthly household income is below the Poverty Line Income (PLI). This indicates that the household does not earn sufficient income to meet basic needs for a dignified life.\n 2. **Relative Poverty**: A household is considered to be in relative poverty if their gross monthly household income is below half the national median income. This measure is used to assess relative deprivation within the district, especially as absolute and hardcore poverty rates approach 0, as is the case for Malaysia.\n\n For full details on the methodology, especially the computation of the PLI and its evolution and nuances, please refer to the [technical notes](https://open.dosm.gov.my/publications/technical-notes/hies-technotes).",
+ "caveat": "Data on hardcore poverty is not available at district level. Furthermore, district-level data is only published from 2019 (relative to [state-level data](https://open.dosm.gov.my/data-catalogue/hh_poverty_state) which is available from 1970) as prior HIES samples were not sufficient to support district-level granularity.",
+ "publication": "The [Household Income Survey Report, 2022](https://open.dosm.gov.my/hies/household_income_2022.pdf), the latest edition of the household income statistics published by DOSM. OpenDOSM also features a [dashboard on household income](https://open.dosm.gov.my/dashboard/household-income-expenditure) which enables you to explore Malaysia's household income data interactively.",
+ "params": {
+  "id": "hh_poverty_district"
+ },
+ "query": {
+  "id": "hh_poverty_district"
+ },
+ "agency": "DOSM",
+ "category": null
+}

@@ -1,0 +1,50 @@
+{
+ "id": "lookup_money_banking",
+ "title": "Lookup Table: Money & Banking",
+ "description": "Lookup table, to be left-joined against variable name in the other Money and Banking datasets if specified.",
+ "data_as_of": "2024-01",
+ "last_updated": "2024-02-13 00:01",
+ "next_update": "—",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "BNM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/finsector/money_banking_lookup.csv",
+ "link_parquet": "https://storage.data.gov.my/finsector/money_banking_lookup.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "file",
+   "title": "Dataset",
+   "description": "[Categorical] Referenced dataset"
+  },
+  {
+   "name": "variable",
+   "title": "Variable",
+   "description": "[String] Name of the variable as contained within the dataset"
+  },
+  {
+   "name": "variable_en",
+   "title": "Variable Definition (EN)",
+   "description": "[String] Definition of the variable in English"
+  },
+  {
+   "name": "variable_bm",
+   "title": "Variable Definition (MS)",
+   "description": "[String] Definition of the variable in Malay"
+  }
+ ],
+ "methodology": "This lookup table is not part of any standardised data dictionary; it was custom-made to serve the datasets on money and banking made available via data.gov.my only.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "lookup_money_banking"
+ },
+ "query": {
+  "id": "lookup_money_banking"
+ },
+ "agency": "BNM",
+ "category": null
+}

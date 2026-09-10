@@ -1,0 +1,71 @@
+{
+ "id": "metrics_dataset_cumul",
+ "title": "Cumulative Views and Downloads by Dataset",
+ "description": "Total views and downloads of datasets on data.gov.my, disaggregated by dataset.",
+ "data_as_of": "2026-09-08 23:59",
+ "last_updated": "2026-09-09 08:32",
+ "next_update": "2026-09-10 00:10",
+ "frequency": "DAILY",
+ "data_source": [
+  "JDN",
+  "KD"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/metrics/metrics_dataset_cumul.csv",
+ "link_parquet": "https://storage.data.gov.my/metrics/metrics_dataset_cumul.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "id",
+   "title": "Dataset ID",
+   "description": "[String] Unique dataset identifier, used as part of the URL for the dataset's catalogue entry"
+  },
+  {
+   "name": "title_en",
+   "title": "Title (EN)",
+   "description": "[String] Dataset title in English"
+  },
+  {
+   "name": "title_bm",
+   "title": "Title (BM)",
+   "description": "[String] Dataset title in Malay"
+  },
+  {
+   "name": "views",
+   "title": "Views",
+   "description": "[Integer] Number of times the dataset's catalogue entry was accessed via data.gov.my"
+  },
+  {
+   "name": "download_csv",
+   "title": "Download CSV",
+   "description": "[Integer] Number of times this dataset was downloaded in CSV format"
+  },
+  {
+   "name": "download_parquet",
+   "title": "Download Parquet",
+   "description": "[Integer] Number of times this dataset was downloaded in Parquet format"
+  },
+  {
+   "name": "download_svg",
+   "title": "Download SVG",
+   "description": "[Integer] Number of times an associated data visualisation was downloaded in SVG format"
+  },
+  {
+   "name": "download_png",
+   "title": "Download PNG",
+   "description": "[Integer] Number of times an associated data visualisation was downloaded in PNG format"
+  }
+ ],
+ "methodology": "This data is aggregated from transactional records produced by web analytics tools which monitor user interactions across the data.gov.my platform in real time. The data does not contain any personally identifiable information, as there is no component of data.gov.my which requires an authenticated login to access.",
+ "caveat": "This dataset is updated on a daily basis, shortly after midnight. As such, there may be mild discrepancies between the counts provided in this dataset, relative to the realtime counts shown on each catalogue page.",
+ "publication": "N/A",
+ "params": {
+  "id": "metrics_dataset_cumul"
+ },
+ "query": {
+  "id": "metrics_dataset_cumul"
+ },
+ "agency": "JDN,KD",
+ "category": null
+}

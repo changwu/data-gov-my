@@ -1,0 +1,51 @@
+{
+ "id": "water_access",
+ "title": "Access to Treated Water by State & Strata",
+ "description": "Annual access of households to treated piped water by state and strata.",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "YEARLY",
+ "data_source": [
+  "SPAN",
+  "NRES"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/water/water_access.csv",
+ "link_parquet": "https://storage.data.gov.my/water/water_access.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia"
+  },
+  {
+   "name": "strata",
+   "title": "Strata",
+   "description": "[Categorical] Either overall ('overall'), urban ('urban') or rural ('rural')"
+  },
+  {
+   "name": "proportion",
+   "title": "Access (%)",
+   "description": "[Float] Proportion of households with access to treated piped water, expressed as a percentage"
+  }
+ ],
+ "methodology": "In Malaysia, all public and private operators of water provision services must be licensed by the National Water Services Commission (SPAN), and must report key performance indicators as specified in the terms of the license issued by SPAN. This dataset represents part of that reporting, and is compiled from the transactional operational records of water supply companies across Malaysia. Official data on the [number of households](https://data.gov.my/data-catalogue/hh_profile_state) from the Department of Statistics (DOSM) is used as the target population, or the denominator for calculating percentage coverage.\n\nIt should be noted that:\n- Data for Sarawak includes LAKU Management Sdn. Bhd. (Bintulu, Miri & Limbang, Sibu Water Board, Kuching Water Board and Sarawak Rural Water Supply Department (JBALB). Figures for the rural areas of Sarawak exclude partly treated portable water supplied by the other agencies such as Ministry of Rural and Regional Development, Ministry of Health and private water supply.\n- Data for W.P. Kuala Lumpur and W.P. Putrajaya are subsumed under Selangor.",
+ "caveat": "This data shows the proportion of households with connected water supply. This is different from access to the public water supply system, as households may choose not to have a connected water supply, and instead use alternative sources such as ground water. This phenomenon is especially prevalent in Kelantan.",
+ "publication": "—",
+ "params": {
+  "id": "water_access"
+ },
+ "query": {
+  "id": "water_access"
+ },
+ "agency": "SPAN,NRES",
+ "category": null
+}

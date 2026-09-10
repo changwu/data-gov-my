@@ -1,0 +1,51 @@
+{
+ "id": "domains_idn",
+ "title": "Number of Registered Internationalised .MY Domains",
+ "description": "Number of internationalised .MY domains registered with MYNIC Berhad.",
+ "data_as_of": "2025-01",
+ "last_updated": "2025-02-15 12:00",
+ "next_update": "2025-03-15 12:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "MYNIC",
+  "KD"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/domains_idn.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/domains_idn.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[String] Either cumulative ('cumulative') or net new registrations ('new_net'). Note that net new registrations is the sum of new domain registrations minus domain deletions."
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with DD set to 01 as this is monthly data."
+  },
+  {
+   "name": "domain",
+   "title": "Domain Category",
+   "description": "[String] The category of .MY domain (such as .com.my, .edu.my, etc.), or total ('overall')."
+  },
+  {
+   "name": "registrations",
+   "title": "Number of Registrations",
+   "description": "[Integer] The number of domain registrations."
+  }
+ ],
+ "methodology": "MYNIC Berhad is the sole official .MY domain registry recognised by the ICANN (Internet Corporation for Assigned Names and Numbers). As such, MYNIC stores transactional records on all .MY domain registrations. As a complement to the [main dataset](https://data.gov.my/data-catalogue/domains) showing the total number of active .MY domains, this dataset tracks the number of internationalised .MY domains, i.e. domain names utilising Arabic, Hanzi (Chinese), Tamil, and other non-Latin scripts requiring the use of non-ASCII characters.\n\nThe data is disaggregated into the following domain categories:\n- **.my** : For all individuals, companies and organisations from any country\n- **.com.my** : For commercial organisations/activities\n- **.biz.my** : For commercial organisations/activities and MSMEs\n- **.net.my** : For network-related organisations/activities\n- **.org.my** : For other organisations/activitie registered under the Registrar of Societies\n- **.edu.my** : For registered Malaysian educational institutions/organisations\n- **.gov.my** : For official Malaysian government agencies/organisations\n- **.mil.my** : For official Malaysian military agencies/organisations\n- **.name.my** : For the personal use of Malaysian citizens\n- **.coop.my** : For Malaysian cooperatives registered under the Cooperative Commission of Malaysia",
+ "caveat": "–",
+ "publication": "This data is fully consistent with the data published on [MYNIC's official statistics page](https://mynic.my/media/statistics).",
+ "params": {
+  "id": "domains_idn"
+ },
+ "query": {
+  "id": "domains_idn"
+ },
+ "agency": "MYNIC,KD",
+ "category": null
+}

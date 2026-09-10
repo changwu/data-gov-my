@@ -1,0 +1,51 @@
+{
+ "id": "cosmetics_manufacturers",
+ "title": "Approved Manufacturers of Cosmetic Products",
+ "description": "Complete list of approved manufacturers of cosmetic products with an active license from NPRA. The table provides a preview of the dataset using 10 records as a sample.",
+ "data_as_of": "2026-09-07 23:59",
+ "last_updated": "2026-09-08 08:21",
+ "next_update": "2026-09-09 12:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "NPRA",
+  "MOH"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.data.gov.my/healthcare/cosmetic_manufacturers.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/cosmetic_manufacturers.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/cosmetic_manufacturers_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "company",
+   "title": "Company",
+   "description": "[String] Name of the company holding the license"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] The state in which the company is located; one of 16 states"
+  },
+  {
+   "name": "postcode",
+   "title": "Postcode",
+   "description": "[String] 5-digit postal code for the company's address"
+  },
+  {
+   "name": "phone",
+   "title": "Phone Number",
+   "description": "[String] Contact number for the company"
+  }
+ ],
+ "methodology": "This dataset represents an exact copy of the administrative records managed by the National Pharmaceutical Regulatory Agency (NPRA) using the QUEST3+ system, with any columns containing personal data excluded. QUEST3+ is the administrative system used by NPRA to enable the online management of product registrations, variations, licensing, market sampling, renewal and others.",
+ "caveat": "Although this data represents administrative records, it nevertheless remains a static dataset which is updated once per day, rather than in real time. As such, this dataset should not be used as the basis for any legal action. Any queries on enforcement of the relevant laws of Malaysia should always be referred to the National Pharmaceutical Regulatory Agency (NPRA).",
+ "publication": "—",
+ "params": {
+  "id": "cosmetics_manufacturers"
+ },
+ "query": {
+  "id": "cosmetics_manufacturers"
+ },
+ "agency": "NPRA,MOH",
+ "category": null
+}

@@ -1,0 +1,70 @@
+{
+ "id": "hies_district",
+ "title": "Household Income and Expenditure: Administrative Districts",
+ "description": "This dataset tabulates household-level income, expenditure, poverty, and income inequality at administrative district level. It is based on the Household Income & Expenditure Surveys (HIES) carried in 2022.",
+ "data_as_of": "2024",
+ "last_updated": "2025-12-31 12:00",
+ "next_update": "—",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/hies/hies_district.csv",
+ "link_parquet": "https://storage.dosm.gov.my/hies/hies_district.parquet",
+ "link_preview": "https://storage.dosm.gov.my/hies/hies_district.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as this is annual data"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states"
+  },
+  {
+   "name": "district",
+   "title": "District",
+   "description": "[Categorical] One of 160 administrative districts, including the 4 states (Perlis and the 3 Federal Territories) which do not have subdivisions"
+  },
+  {
+   "name": "income_mean",
+   "title": "Mean Income",
+   "description": "[Integer] Average (across households) gross monthly household income, in RM"
+  },
+  {
+   "name": "income_median",
+   "title": "Median Income",
+   "description": "[Integer] Median (across households) gross monthly household income, in RM"
+  },
+  {
+   "name": "expenditure_mean",
+   "title": "Mean Expenditure",
+   "description": "[Integer] Average (across households) gross monthly household expenditure, in RM"
+  },
+  {
+   "name": "gini",
+   "title": "Gini Coefficient",
+   "description": "[Float] Gini coefficient, with higher values indicating greater inequality of income between households"
+  },
+  {
+   "name": "poverty",
+   "title": "Poverty Rate",
+   "description": "[Float] Proportion of households with monthly income below the Poverty Line Income (PLI)"
+  }
+ ],
+ "methodology": "This data is is based on Household Income Surveys (HIS) and Household Income & Expenditure Surveys (HIES) carried out from 1970 to 2024, the latest of which is HIES 2022. The survey is carried out at least twice in a rolling five-year period to produce representative data regarding income, poverty and access to basic amenities for Malaysian households.",
+ "caveat": "For a full account of the relative standard errors for the survey as well as the detailed survey methodology, please refer to the [HIES Technical Notes](https://storage.googleapis.com/dosm-public-publications/technote_hies_income_en.pdf).",
+ "publication": "The [Household Income & Expenditure Survey Report, 2022](https://storage.googleapis.com/dosm-public-publications/multiyear_2022_hies.pdf).",
+ "params": {
+  "id": "hies_district"
+ },
+ "query": {
+  "id": "hies_district"
+ },
+ "agency": "DOSM",
+ "category": null
+}

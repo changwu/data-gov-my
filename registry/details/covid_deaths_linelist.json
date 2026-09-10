@@ -1,0 +1,105 @@
+{
+ "id": "covid_deaths_linelist",
+ "title": "Transactional Records: Deaths due to COVID-19",
+ "description": "Transactional records of deaths due to COVID-19, with various demographic and medical dimensions including COVID-19 vaccination records. The preview shows the most recent 200 records.",
+ "data_as_of": "2025-05-31 23:59",
+ "last_updated": "2025-06-01 12:00",
+ "next_update": "2025-06-08 12:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.data.gov.my/healthcare/covid_deaths_linelist.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/covid_deaths_linelist.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/covid_deaths_linelist_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date of Death",
+   "description": "[Date] Date on which the deceased was pronunced dead, in YYYY-MM-DD format"
+  },
+  {
+   "name": "date_announced",
+   "title": "Date of Announcement",
+   "description": "[Date] Date on which the death was registered into the COVID-19 deaths database, in YYYY-MM-DD format"
+  },
+  {
+   "name": "date_positive",
+   "title": "Date of Positive Test",
+   "description": "[Date] Date on which the deceased was confirmed to be COVID-19 positive, in YYYY-MM-DD format"
+  },
+  {
+   "name": "date_dose1",
+   "title": "Date of Vaccination (1st dose)",
+   "description": "[Date] Date of the deceased's first COVID-19 vaccination, if any, in YYYY-MM-DD format"
+  },
+  {
+   "name": "date_dose2",
+   "title": "Date of Vaccination (1st dose)",
+   "description": "[Date] Date of the deceased's second COVID-19 vaccination, if any, in YYYY-MM-DD format. This field is intentionally nulled for individuals who received a single-dose COVID-19 vaccine such as Cansino."
+  },
+  {
+   "name": "date_dose3",
+   "title": "Date of Vaccination (booster dose)",
+   "description": "[Date] Date of the deceased's booster COVID-19 vaccination, if any, in YYYY-MM-DD format"
+  },
+  {
+   "name": "brand1",
+   "title": "Vaccine Brand (1st dose)",
+   "description": "[Categorical] Either Pfizer, Sinovac, AstraZeneca, Cansino, Sinopharm, or Moderna. Values of 'Pending VMS sync' reflect issues with retrieving the vaccine brand from the Malaysia Vaccine Administration System (MyVAS)."
+  },
+  {
+   "name": "brand2",
+   "title": "Vaccine Brand (2nd dose)",
+   "description": "[Categorical] Either Pfizer, Sinovac, AstraZeneca, Cansino, Sinopharm, or Moderna. Values of 'Pending VMS sync' reflect issues with retrieving the vaccine brand from the Malaysia Vaccine Administration System (MyVAS). This field is intentionally nulled for individuals who received a single-dose COVID-19 vaccine such as Cansino."
+  },
+  {
+   "name": "brand3",
+   "title": "Vaccine Brand (booster dose)",
+   "description": "[Categorical] Either Pfizer, Sinovac, AstraZeneca, Cansino, Sinopharm, or Moderna. Values of 'Pending VMS sync' reflect issues with retrieving the vaccine brand from the Malaysia Vaccine Administration System (MyVAS)."
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states"
+  },
+  {
+   "name": "age",
+   "title": "Age",
+   "description": "[Integer] Age at the time of death, rounded to the nearest integer."
+  },
+  {
+   "name": "male",
+   "title": "Sex",
+   "description": "[Integer] Binary variable indicating the deceased's sex, either male (1) or female (0)"
+  },
+  {
+   "name": "bid",
+   "title": "Brought In Dead",
+   "description": "[Integer] Binary variable indicating whether the deceased died in a hospital (0), or was brought in dead (1)."
+  },
+  {
+   "name": "malaysian",
+   "title": "Citizenship",
+   "description": "[Integer] Binary variable indicating whether the deceased was Malaysian (1) or non-Malaysian (0)"
+  },
+  {
+   "name": "comorb",
+   "title": "Comorbidity",
+   "description": "[Integer] Binary variable indicating whether the deceased had comorbidities (1) or was otherwise healthy (0)."
+  }
+ ],
+ "methodology": "This dataset is produced by the Crisis Preparedness and Response Centre (CPRC) at the Ministry of Health, based on daily ground-level surveillance conducted to monitor the evolution of COVID-19 in Malaysia. Following Malaysia's transition to endemicity, the public reporting frequency was altered from daily to weekly. Nevertheless, internal surveillance is still conducted on a daily basis.",
+ "caveat": "As a general rule, deaths due to COVID-19 are not announced on the day that the death occurs. This is because it takes time to medically verify cause of death (via autopsy), as well as to register the death in accordance with the laws of Malaysia. Therefore, there may be future records where the date of death is prior to records already in the dataset. Phrased differently, aggregation based on the date of death will produce a dynamic dataset, where the number of deaths for a certain date may increase in future.",
+ "publication": "KKMNOW features a [dashboard on COVID-19](https://data.moh.gov.my/dashboard/covid-19) where you can explore the data in a more interactive manner!",
+ "params": {
+  "id": "covid_deaths_linelist"
+ },
+ "query": {
+  "id": "covid_deaths_linelist"
+ },
+ "agency": "MOH",
+ "category": null
+}

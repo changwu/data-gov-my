@@ -1,0 +1,51 @@
+{
+ "id": "deaths_early_childhood",
+ "title": "Annual Early Childhood Deaths",
+ "description": "Annual number of deaths aged less than 5 year old, broken down into perinatal, neonatal, infant and toddler deaths.",
+ "data_as_of": "2024",
+ "last_updated": "2025-10-16 12:00",
+ "next_update": "2026-10-15 12:30",
+ "frequency": "YEARLY",
+ "data_source": [
+  "JPN",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/demography/deaths_early_childhood.csv",
+ "link_parquet": "https://storage.dosm.gov.my/demography/deaths_early_childhood.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "type",
+   "title": "Type",
+   "description": "[Categorical] The type of early childhood death, either total under-5 deaths ('total'), toddler ('toddler'), infant ('infant'), neonatal ('neonatal'), or perinatal ('perinatal')."
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "abs",
+   "title": "Deaths",
+   "description": "[Integer] Number of deaths in that year"
+  },
+  {
+   "name": "rate",
+   "title": "Mortality Rate",
+   "description": "[Float] Number of deaths per 1000 births (for perinatal deaths), 1000 live births (for neonatal and infant deaths), or 1000 population aged 1-4 years (for toddler deaths)"
+  }
+ ],
+ "methodology": "This data is a subset of the data on [deaths](https://data.gov.my/data-catalogue/deaths), for which the following definitions should be noted:\n - **Toddler Death**: Death of a person aged 1 to 4 years old.\n- **Infant Death**: Death of a person less than 1 year old.\n - **Neonatal Death**: Death of a infant aged  less than 28 days old (subset of infant deaths).\n - **Perinatal Death**: Death of an infant less than 7 days old (subset of infant deaths), and [stillbirths](https://data.gov.my/data-catalogue/stillbirths).\n\n For a deeper understanding of the methodology and associated definitions, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/vitalstats-technotes).",
+ "caveat": "This data is derived based on deaths registered with JPN. Therefore, if an early childhood death is not registered with JPN (for instance, if the infant death of a foreigner is registered in their home country, or the infant death of citizen in a remote area is not registered), it will generally not count in this dataset. However, adjustment has been made to the number of deaths in Sabah to account for the under-reporting of deaths detected based on the 'Study of Under Reporting of Deaths in Sabah', which was conducted by DOSM and approved by the Steering Committee on Implementation of Civil Registration and Vital Statistics in 2016.",
+ "publication": "OpenDOSM features a dashboard on [Population & Vital Statistics](https://open.dosm.gov.my/dashboard/population) where you can explore this data in a more interactive manner.",
+ "params": {
+  "id": "deaths_early_childhood"
+ },
+ "query": {
+  "id": "deaths_early_childhood"
+ },
+ "agency": "JPN,DOSM",
+ "category": null
+}

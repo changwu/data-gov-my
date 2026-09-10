@@ -1,0 +1,45 @@
+{
+ "id": "monetary_aggregates",
+ "title": "Monetary Aggregates: M1, M2, M3",
+ "description": "The total value of the money supply, as measured by M1, M2, and M3.",
+ "data_as_of": "2026-06",
+ "last_updated": "2026-07-31 18:00",
+ "next_update": "2027-08-31 18:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "BNM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/finsector/money_aggregates.csv",
+ "link_parquet": "https://storage.data.gov.my/finsector/money_aggregates.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 since the data is at monthly frequency"
+  },
+  {
+   "name": "measure",
+   "title": "Measure",
+   "description": "[String] Type of measure, to be mapped using the [Lookup Table](https://data.gov.my/data-catalogue/lookup_money_banking) where file = 'money_aggregates'. The lookup table will give you the English and Malay definitions."
+  },
+  {
+   "name": "value",
+   "title": "Supply",
+   "description": "[Float, RM mil] Supply as at the end of the period, in RM millions"
+  }
+ ],
+ "methodology": "Bank Negara Malaysia (BNM) is the sole issuer of currency in Malaysia and is mandated to ensure monetary stability pursuant to the Central Bank Act (2009). Accordingly, BNM is able to track the money supply at any given point in time. That data is summarised in this dataset at monthly frequency.\n\nThe following conceptual definitions of monetary aggregates are used:\n- M1 = Currency in Circulation + Demand Deposits\n- M2 = M1 + Narrow Quasi-Money (Savings Deposits + Fixed Deposits + NIDs + Repos + Foreign Currency Deposits)\n- M3 = M2 + Deposits Placed with Other Banking Institutions, i.e. deposits and interest bearing instruments (including SPI deposits and instruments) placed by the non-bank private sector with investment banks (excluding inter-placements among banking institutions).",
+ "caveat": "This dataset begin in January 2013 because the compilation of money supply data utilised a new taxonomy from January 2014, resulting in a break with the historical series.",
+ "publication": "Our site features an [interactive dashboard on the money supply](https://data.gov.my/dashboard/money-supply). This dataset is also published as part of BNM's [monthly highlights and statistics](https://www.bnm.gov.my/publications/mhs).",
+ "params": {
+  "id": "monetary_aggregates"
+ },
+ "query": {
+  "id": "monetary_aggregates"
+ },
+ "agency": "BNM",
+ "category": null
+}

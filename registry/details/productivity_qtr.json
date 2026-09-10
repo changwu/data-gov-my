@@ -1,0 +1,70 @@
+{
+ "id": "productivity_qtr",
+ "title": "Quarterly Productivity by Economic Sector",
+ "description": "Quarterly labour productivity by economic sector, with metrics on value added per worker, value added per hour worked, and total hours worked.",
+ "data_as_of": "2025-Q4",
+ "last_updated": "2026-02-23 12:30",
+ "next_update": "2026-05-21 12:30",
+ "frequency": "QUARTERLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/labour/productivity_qtr.csv",
+ "link_parquet": "https://storage.dosm.gov.my/labour/productivity_qtr.parquet",
+ "link_preview": "https://storage.dosm.gov.my/labour/productivity_qtr.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[String] Series type, either absolute values ('abs') or year-on-year growth ('growth_yoy')"
+  },
+  {
+   "name": "sector",
+   "title": "Economic Sector",
+   "description": "[String] Code for the economic sector, to be mapped using the [Lookup Table](https://open.dosm.gov.my/data-catalogue/productivity_lookup). The lookup table will give you the English and Malay definitions."
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format. The earliest date in the quarter is chosen, e.g. YYYY-01-01 for the 1st quarter and YYYY-04-01 for the 2nd quarter."
+  },
+  {
+   "name": "gdp",
+   "title": "GDP",
+   "description": "[Float, RM million] Gross domestic product at constant 2015 prices."
+  },
+  {
+   "name": "hours",
+   "title": "Hours Worked",
+   "description": "[Float, mil hours] Aggregate hours worked"
+  },
+  {
+   "name": "employment",
+   "title": "Employment",
+   "description": "[Float, thousands] Number of employed persons in the sector"
+  },
+  {
+   "name": "output_hour",
+   "title": "Output per Hour",
+   "description": "[Float, RM] The ratio of GDP to hours worked"
+  },
+  {
+   "name": "output_employment",
+   "title": "Output per Worker",
+   "description": "[Float, RM] The ratio of GDP to the number of employed persons"
+  }
+ ],
+ "methodology": "Labour productivity is primarily measured using two metrics:\n\n- **Value added per worker**: Calculated by dividing GDP at constant prices (to strip out the effects of inflation) for a particular time period, by the number of workers in that period.\n- **Value added per hour worked**: Calculated by dividing GDP at constant prices for a particular time period, by the total hours worked in that period.\n\nIn short, labour productivity is a derived indicator which draws from national statistics on GDP and the labour force. For a deeper understanding of the compilation methodology and related concepts, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/productivity).",
+ "caveat": "Although these indicators are classified as measures of *labour* productivity, the definitions provided above make it clear that they do not refer to any notion of intrinsic labour capacity. In technical terms, the measures presented here are Single Factor Productivity measures, which implicitly include the contributions of all other factors of production. Consequently, this data should not be used for inference on how 'hardworking' or 'skilled' the Malaysian labour force is - more precise data is needed for such analysis.\n\nFurthermore, note that data for the most recent 3 years (12 quarters) may be revised in subsequent releases. This is especially to ensure consistency with revisions to GDP data, since GDP serves as the numerator in calculation of labour productivity metrics.",
+ "publication": "[Labour Productivity, 4Q 2025](https://open.dosm.gov.my/publications/productivity_2025-q4), the latest edition of the quarterly labour productivity statistics published by DOSM. OpenDOSM also features a [dashboard on labour productivity](https://open.dosm.gov.my/dashboard/labour-productivity) where you can explore this data in a more interactive manner.",
+ "params": {
+  "id": "productivity_qtr"
+ },
+ "query": {
+  "id": "productivity_qtr"
+ },
+ "agency": "DOSM",
+ "category": null
+}

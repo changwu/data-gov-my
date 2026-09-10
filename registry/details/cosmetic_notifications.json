@@ -1,0 +1,51 @@
+{
+ "id": "cosmetic_notifications",
+ "title": "Notified Cosmetic Products",
+ "description": "Complete list of comsetic products notified to and approved by the Drug Control Authority. The table provides a preview of the dataset using 10 records as a sample.",
+ "data_as_of": "2026-09-07 23:59",
+ "last_updated": "2026-09-08 08:21",
+ "next_update": "2026-09-09 12:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "NPRA",
+  "MOH"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.data.gov.my/healthcare/cosmetic_notifications.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/cosmetic_notifications.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/cosmetic_notifications_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "notif_no",
+   "title": "Notification Number",
+   "description": "[String] Unique identifier for the product's notification"
+  },
+  {
+   "name": "product",
+   "title": "Product Name",
+   "description": "[String] Name of the product"
+  },
+  {
+   "name": "company",
+   "title": "Holder",
+   "description": "[String] Company or entity holding the notification"
+  },
+  {
+   "name": "date_notif",
+   "title": "Notification Date",
+   "description": "[Date] Date when product's notification took or takes effect in YYYY-MM-DD format"
+  }
+ ],
+ "methodology": "In accordance with the Control of Drugs and Cosmetics Regulations 1984, all pharmaceutical, health and personal care products marketed in Malaysia must be registered and approved by the Drug Control Authority (DCA). For cosmetics specifically, a 'notification' must be submitted to NPRA via the QUEST3+ system, which is the administrative system used by NPRA to enable the online management of product registrations, variations, licensing, market sampling, renewal and others. This dataset is an exact copy of the administrative record of cosmetic products with approved notifications, with any columns containing personal data excluded.",
+ "caveat": "Although this data represents administrative records, it nevertheless remains a static dataset which is updated once per day, rather than in real time. As such, this dataset should not be used as the basis for any legal action. Any queries on enforcement of the relevant laws of Malaysia should always be referred to the National Pharmaceutical Regulatory Agency (NPRA).",
+ "publication": "—",
+ "params": {
+  "id": "cosmetic_notifications"
+ },
+ "query": {
+  "id": "cosmetic_notifications"
+ },
+ "agency": "NPRA,MOH",
+ "category": null
+}

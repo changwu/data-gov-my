@@ -1,0 +1,50 @@
+{
+ "id": "gdp_lookup",
+ "title": "Lookup Table: GDP",
+ "description": "Lookup table, to be left-joined against other GDP datasets if specified.",
+ "data_as_of": "2024-Q1",
+ "last_updated": "2024-05-17 12:00",
+ "next_update": "—",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/gdp/gdp_lookup.csv",
+ "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_lookup.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "method",
+   "title": "Method",
+   "description": "[Categorical] Either the production approach ('production'), expenditure approach ('expenditure'), or income approach ('income')"
+  },
+  {
+   "name": "code",
+   "title": "Code",
+   "description": "[String] Reference for the variable as contained within the dataset"
+  },
+  {
+   "name": "variable_en",
+   "title": "Variable Definition (EN)",
+   "description": "[String] Definition of the variable in English"
+  },
+  {
+   "name": "variable_bm",
+   "title": "Variable Definition (MS)",
+   "description": "[String] Definition of the variable in Malay"
+  }
+ ],
+ "methodology": "This lookup table is not part of any standardised data dictionary; it was custom-made to serve the GDP datasets made available via data.gov.my and OpenDOSM only. Furthermore, the coding employed here is similar to (but not the same as) the coding used in DOSM's GDP publications, because it has been calibrated to ensure consistency across annual and quarterly GDP publications, as well as national and state GDP publications.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "gdp_lookup"
+ },
+ "query": {
+  "id": "gdp_lookup"
+ },
+ "agency": "DOSM",
+ "category": null
+}

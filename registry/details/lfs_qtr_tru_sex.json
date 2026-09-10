@@ -1,0 +1,50 @@
+{
+ "id": "lfs_qtr_tru_sex",
+ "title": "Quarterly Time-Related Underemployment by Sex",
+ "description": "Number and proportion of working individuals who worked less than 30 hours per week even though they were willing to work more, i.e. due to unavailability of work.",
+ "data_as_of": "2025-Q3",
+ "last_updated": "2025-11-10 12:00",
+ "next_update": "2026-02-11 12:00",
+ "frequency": "QUARTERLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_sex.csv",
+ "link_parquet": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_sex.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 since the data is at quarterly frequency"
+  },
+  {
+   "name": "variable",
+   "title": "Variable",
+   "description": "[Categorical] Rate (%) or persons ('000)"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Male, female, or overall"
+  },
+  {
+   "name": "tru",
+   "title": "Time-Related Underemployment",
+   "description": "[Float] Number or proportion of working individuals who worked less than 30 hours per week even though they were willing to work more, i.e. due to unavailability of work"
+  }
+ ],
+ "methodology": "This data is produced based on the Labour Force Survey (LFS), which is designed to collect representative data on the labour force at national and state level. Consistency in methodology has been maintained to ensure that the data is comparable over time. Survey findings are a monthly, quarterly and annual basis. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/lfs-technotes).",
+ "caveat": "The sum of each category may not always equal to the totals shown in related tables because of independent rounding to one decimal place. However, the differences are not obvious.",
+ "publication": "The [Labour Force Report, 3Q 2025](https://open.dosm.gov.my/publications/labour_qtr_2025-q3), the latest edition of the monthly labour force statistics published by DOSM. OpenDOSM also features a [dashboard on the labour force](https://open.dosm.gov.my/dashboard/labour-market).",
+ "params": {
+  "id": "lfs_qtr_tru_sex"
+ },
+ "query": {
+  "id": "lfs_qtr_tru_sex"
+ },
+ "agency": "DOSM",
+ "category": null
+}

@@ -1,0 +1,56 @@
+{
+ "id": "deaths_sex_ethnic",
+ "title": "Annual Deaths by Sex & Ethnicity",
+ "description": "Annual number of deaths, with breakdowns by sex and ethnic group.",
+ "data_as_of": "2024",
+ "last_updated": "2025-10-16 12:00",
+ "next_update": "2026-10-15 12:30",
+ "frequency": "YEARLY",
+ "data_source": [
+  "JPN",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/demography/death_sex_ethnic.csv",
+ "link_parquet": "https://storage.dosm.gov.my/demography/death_sex_ethnic.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes ('both'), male ('male') or female ('female')"
+  },
+  {
+   "name": "ethnicity",
+   "title": "Ethnicity",
+   "description": "[Categorical] All ethnic groups ('overall'), Malay ('bumi_malay'), other Bumiputera ('bumi_other'), Chinese ('chinese'), Indian ('indian'), other citizens ('other_citizen'), or non-citizen residents ('other_noncitizen')"
+  },
+  {
+   "name": "abs",
+   "title": "Deaths",
+   "description": "[Integer] Number of deaths in that year"
+  },
+  {
+   "name": "rate",
+   "title": "Crude Death Rate",
+   "description": "[Float] Number of deaths per 1000 population"
+  }
+ ],
+ "methodology": "The data on deaths in Malaysia is tabulated based on information reported during the deaths registration process, specifically in the in Register of Death Form (JPN.LM02). For a deeper understanding of the methodology and associated definition, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/vitalstats-technotes).",
+ "caveat": "This data is derived based on deaths registered with JPN. Therefore, if a death is not registered with JPN (for instance, if the death of a foreigner is registered in their home country, or the death of resident in a remote area is not registered), it will generally not count in this dataset. However, adjustment has been made to the number of deaths in Sabah to account for the under-reporting of deaths detected based on the 'Study of Under Reporting of Deaths in Sabah', which was conducted by DOSM and approved by the Steering Committee on Implementation of Civil Registration and Vital Statistics in 2016.",
+ "publication": "OpenDOSM features a dashboard on [Population & Vital Statistics](https://open.dosm.gov.my/dashboard/population) where you can explore this data in a more interactive manner!",
+ "params": {
+  "id": "deaths_sex_ethnic"
+ },
+ "query": {
+  "id": "deaths_sex_ethnic"
+ },
+ "agency": "JPN,DOSM",
+ "category": null
+}

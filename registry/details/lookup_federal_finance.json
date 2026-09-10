@@ -1,0 +1,55 @@
+{
+ "id": "lookup_federal_finance",
+ "title": "Lookup Table: Federal Finance",
+ "description": "Lookup table, to be left-joined against category and variable name in the other Federal Government Finance datasets if specified.",
+ "data_as_of": "2024-01",
+ "last_updated": "2024-02-13 00:01",
+ "next_update": "-",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "JANM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_lookup.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_lookup.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "file",
+   "title": "Dataset",
+   "description": "[Categorical] Referenced dataset"
+  },
+  {
+   "name": "category",
+   "title": "Category",
+   "description": "[Categorical] Name of category within the referenced dataset, if any"
+  },
+  {
+   "name": "variable",
+   "title": "Variable",
+   "description": "[String] Name of the variable as contained within the dataset"
+  },
+  {
+   "name": "variable_en",
+   "title": "Variable Definition (EN)",
+   "description": "[String] Definition of the variable in English"
+  },
+  {
+   "name": "variable_bm",
+   "title": "Variable Definition (MS)",
+   "description": "[String] Definition of the variable in Malay"
+  }
+ ],
+ "methodology": "This lookup table is not part of any standardised data dictionary; it was custom-made to serve the datasets on federal government finance made available via data.gov.my only.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "lookup_federal_finance"
+ },
+ "query": {
+  "id": "lookup_federal_finance"
+ },
+ "agency": "JANM",
+ "category": null
+}

@@ -1,0 +1,89 @@
+{
+ "id": "registration_transactions_motorcycle",
+ "title": "Motorcycle Registration Transactions",
+ "description": "Motorcycle registration transactions from 2000 to the present. The table below provides a preview of the full dataset, which contains hundreds of thousands of transactions per year.",
+ "data_as_of": "2026-07-31 23:59",
+ "last_updated": "2026-08-18 06:46",
+ "next_update": "2026-09-10 16:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "JPJ",
+  "MOT"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.data.gov.my/transportation/motorcycles_YYYY-MM-DD.csv",
+ "link_parquet": "https://storage.data.gov.my/transportation/motorcycles_YYYY-MM-DD.parquet",
+ "link_preview": "https://storage.data.gov.my/transportation/motorcycles_preview.parquet",
+ "link_editions": [
+  "2026",
+  "2025",
+  "2024",
+  "2023",
+  "2022",
+  "2021",
+  "2020",
+  "2019",
+  "2018",
+  "2017",
+  "2016",
+  "2015",
+  "2014",
+  "2013",
+  "2012",
+  "2011",
+  "2010",
+  "2009",
+  "2008",
+  "2007",
+  "2006",
+  "2005",
+  "2004",
+  "2003",
+  "2002",
+  "2001",
+  "2000"
+ ],
+ "fields": [
+  {
+   "name": "date_reg",
+   "title": "Date of Registration",
+   "description": "[Date] The date of registration of the vehicle in YYYY-MM-DD format; please note that this date may not be the same as the date of purchase"
+  },
+  {
+   "name": "type",
+   "title": "Motorcycle Type",
+   "description": "[Categorical] One of the following motorcycle types: motorcycles ('motosikal'), motorcycles with two front wheels ('motosikal_dua_roda_hadapan'), motorcycles with two rear wheels ('motosikal_dua_roda_belakang'), motorcycles with goods sidecar ('motosikal_dengan_side_car_barangan'), and motorcycles with passenger sidecar ('motosikal_dengan_side_car_penumpang')."
+  },
+  {
+   "name": "maker",
+   "title": "Motorcycle Maker",
+   "description": "[String] Maker of the vehicle (e.g. Yamaha, Honda, Modenas, Harley Davidson)"
+  },
+  {
+   "name": "colour",
+   "title": "Motorcycle Colour",
+   "description": "[String] Colour of the motorcycle in lower-case English text; please note these are broadly defined colours which do not distinguish between shades of the same colour (e.g. light blue and dark blue are both classed as blue)"
+  },
+  {
+   "name": "fuel",
+   "title": "Fuel",
+   "description": "[String] Fuel used by the motorcycle's engine(s); there are 7 types, namely petrol ('petrol'), diesel ('diesel'), green diesel ('greendiesel'), natural gas ('ng'), liquefied natural gas ('lng'), hydrogen ('hydrogen'), and electricity ('electric'). motorcycles which can run on electricity or fuel are classed as hybrid (either 'hybrid_petrol' or 'hybrid_diesel'). Combinations of two fuels indicate that the motorcycle's engine can use more than one type of fuel; for instance, 'diesel_ng' means the motorcycle's engine can use both diesel and natural gas as fuel."
+  },
+  {
+   "name": "state",
+   "title": "State of Registration",
+   "description": "[String] One of 16 states, or 'Rakan Niaga'; this either indicates the state of the JPJ office the motorcycle was registered at, or that the motorcycle was registered through an official JPJ partner portal ('Rakan Niaga'). Please note that this data field has no relation to the motorcycle's number plate, which may be freely chosen with no dependence on where the motorcycle was registered."
+  }
+ ],
+ "methodology": "This dataset contains the actual transactional records of all motorcycles registered with the Road Transport Department (JPJ) since 2000, excluding any personal identifiable data **(note: no personal data as defined by Act 709 is ever handled or even received by the data.gov.my team in the process of producing this dataset)**. Under Malaysian law, all vehicles must be registered with JPJ and be assigned a registration plate number before they can be used on the road.\n\nWhile there has been cleaning and validation conducted prior to publication, no other amendment or aggregation has been performed; each row in the dataset represents 1 registration transaction. This is the most granular form of the data, i.e. the single source of truth from which all other motorcycle registration statistics are derived, including those shown on data.gov.my.",
+ "caveat": "This dataset captures the registration of motorcycles, not the sale or import or any other transaction. Therefore, if a motorcycle is not registered for use on the road, it will not be present in this dataset (e.g. motorcycles which are purchased purely for private display).\n\nFurthermore, it should be noted that this dataset was extremely difficult to prepare, especially for data from the early 2000s when data collection systems were not as sophisticated as they are now. Accordingly, if you spot any errors in the dataset or have any suggestions to improve its quality, please write to help.dtsa@jdn.gov.my so the data.gov.my team can work with JPJ to fix or improve it as soon as possible.",
+ "publication": "datagovmy features a [dashboard on vehicle registrations](https://data.gov.my/dashboard/vehicle-registrations), which enables you to explore this dataset in an interactive manner!",
+ "params": {
+  "id": "registration_transactions_motorcycle"
+ },
+ "query": {
+  "id": "registration_transactions_motorcycle"
+ },
+ "agency": "JPJ,MOT",
+ "category": null
+}

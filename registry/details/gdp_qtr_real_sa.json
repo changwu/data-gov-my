@@ -1,0 +1,45 @@
+{
+ "id": "gdp_qtr_real_sa",
+ "title": "Quarterly Real GDP (Seasonally Adjusted)",
+ "description": "Seasonally adjusted quarterly gross domestic product (GDP) at constant 2015 prices.",
+ "data_as_of": "2026-Q2",
+ "last_updated": "2026-08-14 12:00",
+ "next_update": "2026-11-18 12:00",
+ "frequency": "QUARTERLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa.csv",
+ "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[String] Series type, either absolute values ('abs') or quarter-on-quarter growth ('growth_qoq')"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format. The earliest date in the quarter is chosen, e.g. YYYY-01-01 for the 1st quarter and YYYY-04-01 for the 2nd quarter."
+  },
+  {
+   "name": "value",
+   "title": "Value",
+   "description": "[Float] Either the value of GDP in RM millions (for rows with series type 'abs') or GDP growth as a percentage (for rows with series type 'growth_qoq')"
+  }
+ ],
+ "methodology": "Gross domestic product (GDP) is the total value of goods and services produced within that year, after deducting the cost of goods and services used in production, but before deducting the consumption of fixed capital. In Malaysia, GDP is estimated in compliance with the [System of National Accounts (2008)](https://storage.dosm.gov.my/technotes/sna_2008.pdf).\n\nThe values in this dataset are measured at constant 2015 prices, i.e. with price effects removed relative to a base year (2015 = 100). Seasonal adjustment was conducted using X-12-ARIMA, augmented with the Seasonal Adjustment for Malaysia (SEAM) procedure to account for moving holiday effects specific to Malaysia's unique multicultural national calendar. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/gdp-technotes).",
+ "caveat": "Values for 2022, 2023 and 2024 may be revised in future releases.",
+ "publication": "[Gross Domestic Product, 1Q 2025](https://open.dosm.gov.my/publications/gdp_2025-q1), the latest edition of the quarterly GDP statistics published by DOSM. OpenDOSM also features a [dashboard on GDP](https://open.dosm.gov.my/dashboard/gdp) which enables you to explore Malaysia's GDP data interactively.",
+ "params": {
+  "id": "gdp_qtr_real_sa"
+ },
+ "query": {
+  "id": "gdp_qtr_real_sa"
+ },
+ "agency": "DOSM",
+ "category": null
+}

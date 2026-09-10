@@ -1,0 +1,50 @@
+{
+ "id": "healthcare_staff",
+ "title": "Healthcare Staff by State and Staff Type",
+ "description": "Number of public sector healthcare staff at national and state level, with a breakdown by staff type.",
+ "data_as_of": "2022-12-31 23:59",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/healthcare_staff.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/healthcare_staff.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia for national-level data"
+  },
+  {
+   "name": "staff_type",
+   "title": "Staff Type",
+   "description": "[Categorical] Either doctors ('doctor'), nurses ('nurse'), community nurses ('nurse_community'), dentists ('dentist'), or all staff ('all')"
+  },
+  {
+   "name": "staff",
+   "title": "Staff Count",
+   "description": "[Integer] Number of active staff"
+  }
+ ],
+ "methodology": "This dataset is tabulated from the operational individual-level records maintained by the Health Informatics Centre (PIK) of the Ministry of Health. The data reflects the number of active healthcare staff as at 31 December each year.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "healthcare_staff"
+ },
+ "query": {
+  "id": "healthcare_staff"
+ },
+ "agency": "MOH",
+ "category": null
+}

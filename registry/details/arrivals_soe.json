@@ -1,0 +1,60 @@
+{
+ "id": "arrivals_soe",
+ "title": "Monthly Arrivals by State of Entry, Nationality & Sex",
+ "description": "Monthly foreign arrivals in Malaysia by state of entry, nationality and sex. The table shows a preview of the full dataset using the latest month of data only.",
+ "data_as_of": "2024-10-31 23:59",
+ "last_updated": "2024-11-25 16:00",
+ "next_update": "2024-12-25 16:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "Imigresen"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.data.gov.my/demography/arrivals_soe.csv",
+ "link_parquet": "https://storage.data.gov.my/demography/arrivals_soe.parquet",
+ "link_preview": "https://storage.data.gov.my/demography/arrivals_soe_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with DD set to 01 as this is monthly data"
+  },
+  {
+   "name": "country",
+   "title": "Nationality",
+   "description": "[String] Standardised ISO-3 code representing the nationality of individuals entering Malaysia. The code XXX is used to represent arrivals where no nationality was specified, including diplomats, stateless individuals and refugees."
+  },
+  {
+   "name": "soe",
+   "title": "State of Entry",
+   "description": "[String] State of the point of entry of the individual; note that this may not be their final destination in Malaysia, and should therefore not be used for inference about tourist destinations"
+  },
+  {
+   "name": "arrivals",
+   "title": "Arrivals",
+   "description": "[Integer] Number of people, derived as the sum of male and female arrivals"
+  },
+  {
+   "name": "arrivals_male",
+   "title": "Male Arrivals",
+   "description": "[Integer] Number of male arrivals"
+  },
+  {
+   "name": "arrivals_female",
+   "title": "Female Arrivals",
+   "description": "[Integer] Number of female arrivals"
+  }
+ ],
+ "methodology": "The Immigration Department of Malaysia operates the Malaysian Immigration System (MyIMMs), which is used to record arrivals and departures by air, land, and sea at all international points of entry to Malaysia. The dataset shown here is aggregated from the transactional data stored in MyIMMs, which is the single source of truth for movement in and out of Malaysia.",
+ "caveat": "This data is based solely on records in MyIMMS. Furthermore, it should be noted that approximately 0.01% of arrivals do not have a nationality specified, including stateless individuals and refugees.",
+ "publication": "Our site features a [dashboard on immigration](https://data.gov.my/dashboard/immigration) where you can explore this data in a more interactive manner.",
+ "params": {
+  "id": "arrivals_soe"
+ },
+ "query": {
+  "id": "arrivals_soe"
+ },
+ "agency": "Imigresen",
+ "category": null
+}

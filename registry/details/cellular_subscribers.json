@@ -1,0 +1,45 @@
+{
+ "id": "cellular_subscribers",
+ "title": "Cellular Subscribers by Plan Type",
+ "description": "Annual data on the number of postpaid and prepaid cellular subscribers in Malaysia.",
+ "data_as_of": "2021",
+ "last_updated": "2024-11-26 12:00",
+ "next_update": "2025-12-31 12:00",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "MCMC"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/communications/cellular_subscribers.csv",
+ "link_parquet": "https://storage.data.gov.my/communications/cellular_subscribers.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The year of the data in YYYY-MM-DD format, with MM-DD set to 01-01 because the data is annual."
+  },
+  {
+   "name": "plan",
+   "title": "Plan Type",
+   "description": "[Categorical] The type of cellular plan: total, postpaid, or prepaid."
+  },
+  {
+   "name": "subscriptions",
+   "title": "Number of Subscriptions",
+   "description": "[Integer] The number of cellular subscriptions."
+  }
+ ],
+ "methodology": "This dataset is compiled from the data provided by all telecommunications service providers in Malaysia to the Malaysian Communications and Multimedia Commission (MCMC). As the regulator of the telecommunications industry, MCMC compiles data from all telecommunications service providers in Malaysia in order to track and monitor the implementation of government policies and regulations pertaining to communications.",
+ "caveat": "This dataset shows the number of subscriptions, not the number of unique subscribers. As such, the number of subscriptions may exceed the population size, as a subscriber may purchase multiple cellular subscriptions.",
+ "publication": "—",
+ "params": {
+  "id": "cellular_subscribers"
+ },
+ "query": {
+  "id": "cellular_subscribers"
+ },
+ "agency": "MCMC",
+ "category": null
+}

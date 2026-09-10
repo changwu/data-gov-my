@@ -1,0 +1,50 @@
+{
+ "id": "legal_advisory_branch",
+ "title": "Legal Advisory Services by Branch",
+ "description": "Number of legal advisory sessions provided by the Legal Aid Department (JBG) each month, by branch.",
+ "data_as_of": "2024-12-31 23:59",
+ "last_updated": "2026-08-07 12:00",
+ "next_update": "2027-08-31 12:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "JBG"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/legal_advisory_branch.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/legal_advisory_branch.parquet",
+ "link_preview": "https://storage.data.gov.my/publicadmin/legal_advisory_branch.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states; the state in which the JBG branch is located"
+  },
+  {
+   "name": "branch",
+   "title": "Branch",
+   "description": "[Categorical] One of 23 JBG branches; 15 are state or federal territory offices, 7 are sub-state offices, and 'Ibu Pejabat' is the department's headquarters in W.P. Putrajaya"
+  },
+  {
+   "name": "cases",
+   "title": "Legal Advisory Sessions",
+   "description": "[Integer] The number of legal advisory sessions registered"
+  }
+ ],
+ "methodology": "This dataset is tabulated from records in the Legal Aid Department's case management system (*Sistem Pengurusan Kes Jabatan Bantuan Guaman*, SPK-JBG). Each legal advisory session provided at a JBG branch is registered in the system with its date, branch, and a classification of the legal matter; this dataset counts those registrations. Every row is the number of sessions for a unique combination of month and branch.\n\nLegal matters are classified in three levels. **Category** is the branch of law: criminal (*Jenayah*), civil (*Sivil*), or Syariah. **Subcategory** distinguishes matters within JBG's statutory remit to represent clients (*bidang kuasa*) from those outside it (*luar bidang kuasa*), where JBG may advise but not act. **Case type** is the specific matter, given either as the statute engaged (e.g. *Akta Kontrak 1950*) or the relief sought (e.g. *Tuntutan Nafkah Anak*).\n\nValues in the categorical columns are given in Malay.",
+ "caveat": "**Coverage.** Only advisory sessions registered in SPK-JBG are captured. Informal advice, sessions handled outside the system, and demand that never reaches a JBG counter are not represented.\n\n**Sabah is absent for 2022.** JBG's 2022 records contain no entries for the Sabah branch. Sabah figures for 2022 are therefore zero rather than missing, and the 2022 national total is understated by roughly the 1,000-2,000 sessions Sabah records in a typical year.\n\n**Sessions, not people.** The figures count advisory sessions, not distinct individuals. A person who returns for further advice is counted each time.\n\n**Branch, not residence.** The branch records where advice was given, not where the client lives. State figures describe where JBG delivered services, and should not be read as demand by state of residence - particularly for *Ibu Pejabat* in W.P. Putrajaya, which serves walk-ins from across the Klang Valley.",
+ "publication": "—",
+ "params": {
+  "id": "legal_advisory_branch"
+ },
+ "query": {
+  "id": "legal_advisory_branch"
+ },
+ "agency": "JBG",
+ "category": null
+}

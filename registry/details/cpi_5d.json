@@ -1,0 +1,45 @@
+{
+ "id": "cpi_5d",
+ "title": "Monthly CPI by Subclass (5-digit)",
+ "description": "National-level CPI at subclass granularity. The table below provides a preview of the full dataset using the latest month of data only.",
+ "data_as_of": "2026-07",
+ "last_updated": "2026-08-17 16:07",
+ "next_update": "2026-09-18 12:30",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.dosm.gov.my/cpi/cpi_5d.csv",
+ "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_5d.parquet",
+ "link_preview": "https://storage.dosm.gov.my/cpi/cpi_5d_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency"
+  },
+  {
+   "name": "subclass",
+   "title": "Subclass",
+   "description": "[String] 5-digit code, to be matched using the 'subclass' column in the [MCOICOP Lookup](https://open.dosm.gov.my/data-catalogue/mcoicop). The MCOICOP lookup table will give you the English and Malay definitions."
+  },
+  {
+   "name": "index",
+   "title": "Index",
+   "description": "[Float] Index value, with base 2010 = 100"
+  }
+ ],
+ "methodology": "The CPI measures the cost of purchasing a constant, representative 'basket' of goods and services. The quantity and quality of goods in the basket are kept constant, so that changes in the cost of the basket are purely due to price changes. The changes in the cost of this basket represent the rate of inflation. For a deeper understanding of the price collection and CPI computation methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/cpi-technotes). Finally, it should be noted that Malaysia's CPI classification is deliberately consistent with the United Nations Classification of Individual Consumption According to Purpose (COICOP) to ensure international comparability.",
+ "caveat": "When interpreting inflation rates derived from the CPI, it is important to remember that the rate of inflation experienced by a specific individual may be higher or lower than this number. This does not invalidate the CPI, which is meant to be an average value representative of the entire population.",
+ "publication": "[Consumer Price Index, Jul 2026](https://open.dosm.gov.my/publications/cpi_2026-07), the latest edition of the monthly consumer price statistics published by DOSM. OpenDOSM also features a [dashboard on consumer prices](https://open.dosm.gov.my/dashboard/consumer-prices).",
+ "params": {
+  "id": "cpi_5d"
+ },
+ "query": {
+  "id": "cpi_5d"
+ },
+ "agency": "DOSM",
+ "category": null
+}

@@ -1,0 +1,50 @@
+{
+ "id": "payment_channels",
+ "title": "Monthly Usage of Payment Channels",
+ "description": "Monthly volume and value of transactions, disaggregated by payment channel.",
+ "data_as_of": "2026-06",
+ "last_updated": "2026-08-06 18:00",
+ "next_update": "2026-09-06 18:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "BNM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/finsector/payments/channels.csv",
+ "link_parquet": "https://storage.data.gov.my/finsector/payments/channels.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency"
+  },
+  {
+   "name": "channel",
+   "title": "Payment Channel",
+   "description": "[String] One of 5 payment channels: ATM for cash withdrawals ('atm_cwd'), ATM for financial transactions ('atm_fin'), internet banking by corporate accounts ('internet_corp'), internet banking by individual accounts ('internet_indiv'), and mobile banking ('mobile')."
+  },
+  {
+   "name": "volume",
+   "title": "Transaction Volume",
+   "description": "[Integer] Number of transactions conducted using that channel in that month"
+  },
+  {
+   "name": "value",
+   "title": "Transaction Value (RM)",
+   "description": "[Float, RM] Value of transactions conducted using that channel in that month"
+  }
+ ],
+ "methodology": "Every electronic payment is conducted using a payment instrument (e.g. a debit or credit card), via a payment channel (e.g. via your modile phone), and processed through a payment system (e.g. DuitNow, FPX, etc.). As the primary regulator of the financial sector, Bank Negara Malaysia (BNM) collects aggregated data on the volume and value of transactions conducted using each payment instrument, channel, and system from all relevant reporting entities in the financial industry, per its mandate as a statuory body under the laws of Malaysia. This datasets presents that data at monthly frequency, disaggregated by payment channel.",
+ "caveat": "N/A",
+ "publication": "data.gov.my provides a [dashboard on electronic payments](https://data.gov.my/dashboard/electronic-payments) where you can explore this data in an interactive and holistic manner.",
+ "params": {
+  "id": "payment_channels"
+ },
+ "query": {
+  "id": "payment_channels"
+ },
+ "agency": "BNM",
+ "category": null
+}

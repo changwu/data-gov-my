@@ -1,0 +1,65 @@
+{
+ "id": "covid_cases",
+ "title": "Daily COVID-19 Cases by State",
+ "description": "Daily COVID-19 cases at national and state level, with details on imported, recovered, active, and cluster cases.",
+ "data_as_of": "2025-05-31 23:59",
+ "last_updated": "2025-06-01 12:00",
+ "next_update": "2025-06-08 12:00",
+ "frequency": "DAILY",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/covid_cases.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/covid_cases.parquet",
+ "link_preview": "https://storage.data.gov.my/healthcare/covid_cases.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia"
+  },
+  {
+   "name": "cases_new",
+   "title": "New Cases",
+   "description": "[Integer] Number of new cases reported in the 24 hours since the last report; note that this is based on the date of report and not the date of the test."
+  },
+  {
+   "name": "cases_import",
+   "title": "Imported Cases",
+   "description": "[Integer] Number of new cases imported from abroad, i.e. inviduals who were infected outside the country"
+  },
+  {
+   "name": "cases_recovered",
+   "title": "Recoveries",
+   "description": "[Integer] Number of recoveries from COVID-19 reported in the 24 hours since the last report"
+  },
+  {
+   "name": "cases_active",
+   "title": "Active Cases",
+   "description": "[Integer] Number of COVID-19 cases who have not recovered or died"
+  },
+  {
+   "name": "cases_cluster",
+   "title": "Cluster-related Cases",
+   "description": "[Integer] Number of cases attributable to clusters; the difference between new cases and the sum of cases attributable to clusters is the number of sporadic cases"
+  }
+ ],
+ "methodology": "This dataset is produced by the Crisis Preparedness and Response Centre (CPRC) at the Ministry of Health, based on daily ground-level surveillance conducted to monitor the evolution of COVID-19 in Malaysia. Following Malaysia's transition to endemicity, the public reporting frequency was altered from daily to weekly. Nevertheless, internal surveillance is still conducted on a daily basis.",
+ "caveat": "In general, the data presented here is based on the date of report rather than the date of the event.",
+ "publication": "KKMNOW features a [dashboard on COVID-19](https://data.moh.gov.my/dashboard/covid-19) where you can explore the data in a more interactive manner!",
+ "params": {
+  "id": "covid_cases"
+ },
+ "query": {
+  "id": "covid_cases"
+ },
+ "agency": "MOH",
+ "category": null
+}

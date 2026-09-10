@@ -1,0 +1,50 @@
+{
+ "id": "federal_finance_qtr_de",
+ "title": "Quarterly Federal Government Development Expenditure by Function",
+ "description": "Breakdown of quarterly Federal Government development expenditure by key sectors describing the area of impact of development projects.",
+ "data_as_of": "2024-Q1",
+ "last_updated": "2024-05-31 15:00",
+ "next_update": "2024-08-30 15:00",
+ "frequency": "QUARTERLY",
+ "data_source": [
+  "JANM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_de.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_de.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 since the data is at quarterly frequency"
+  },
+  {
+   "name": "category",
+   "title": "Category",
+   "description": "[Categorical] Overall expenditure, defence & security, economic services, social services, or general administration"
+  },
+  {
+   "name": "function",
+   "title": "Function",
+   "description": "[String] Variable name, to be mapped using the [Lookup Table](https://data.gov.my/data-catalogue/lookup_federal_finance) where file = 'de'. The lookup table will give you the English and Malay definitions."
+  },
+  {
+   "name": "value",
+   "title": "Expenditure (RM mil)",
+   "description": "[Float] Development expenditure in millions of ringgit (RM mil)"
+  }
+ ],
+ "methodology": "This data is produced by the Accountant-General's Department in compliance with the [Malaysian Public Sector Accounting Standards](https://www2.anm.gov.my/akruan/Pages/MPSAS.aspx) and the IMF's Dissemination Standards. Within this dataset, values for the general administration function include public services, statistics, Royal Customs and Excise, Inland Revenue Departments and the Ministry of Foreign Affairs.",
+ "caveat": "Numbers may not add up due to rounding during derivation. Furthermore, data for 2023 are preliminary and are subject to revision in future releases.",
+ "publication": "—",
+ "params": {
+  "id": "federal_finance_qtr_de"
+ },
+ "query": {
+  "id": "federal_finance_qtr_de"
+ },
+ "agency": "JANM",
+ "category": null
+}

@@ -1,0 +1,55 @@
+{
+ "id": "currency_codes",
+ "title": "Currency Codes (ISO 4217)",
+ "description": "ISO 4127-compliant lookup for currency codes used on the site.",
+ "data_as_of": "2025",
+ "last_updated": "2025-10-24 11:32",
+ "next_update": "-",
+ "frequency": "ONE-OFF",
+ "data_source": [
+  "JDN"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/dictionaries/currency_codes.csv",
+ "link_parquet": "https://storage.data.gov.my/finsector/exr/currency_codes.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "code",
+   "title": "Currency Code",
+   "description": "[String] Standard currency alphabetic code according to ISO 4217 (e.g. 'MYR', 'USD')"
+  },
+  {
+   "name": "code_numeric",
+   "title": "Numeric Code",
+   "description": "[Integer] Standard currency numeric code according to ISO 4217 (e.g. 458 for MYR, 840 for USD)"
+  },
+  {
+   "name": "currency",
+   "title": "Currency Name",
+   "description": "[String] Full name of the currency"
+  },
+  {
+   "name": "symbol",
+   "title": "Symbol",
+   "description": "[String] Most common symbol used for the currency"
+  },
+  {
+   "name": "suffix",
+   "title": "Suffix Indicator",
+   "description": "[Integer] 1 if the symbol is a suffix (i.e. after the monetary value), 0 if the symbol is a prefix."
+  }
+ ],
+ "methodology": "Alpha codes, numeric codes, and currency names are fully compliant with the [ISO 4217](https://www.iso.org/iso-4217-currency-codes.html) standard. Symbols and suffix indicators were added by the open data team to assist with internal operations.",
+ "caveat": "N/A",
+ "publication": "N/A",
+ "params": {
+  "id": "currency_codes"
+ },
+ "query": {
+  "id": "currency_codes"
+ },
+ "agency": "JDN",
+ "category": null
+}

@@ -1,0 +1,50 @@
+{
+ "id": "ipi_domestic",
+ "title": "IPI for Domestic-Oriented Divisions (2 digit)",
+ "description": "Real output of the three main industrial sectors for specific MSIC divisions (2 digit) which are critical for Malaysia's domestic economic performance. The table provides a preview of the full dataset using the latest month of data only.",
+ "data_as_of": "2026-05",
+ "last_updated": "2026-07-09 12:30",
+ "next_update": "2026-08-11 12:30",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": true,
+ "link_csv": "https://storage.dosm.gov.my/ipi/ipi_domestic.csv",
+ "link_parquet": "https://storage.dosm.gov.my/ipi/ipi_domestic.parquet",
+ "link_preview": "https://storage.dosm.gov.my/ipi/ipi_domestic_preview.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[String] Series type, either absolute values ('abs'), year-on-year growth ('growth_yoy') or month-on-month growth ('growth_mom')"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency"
+  },
+  {
+   "name": "division",
+   "title": "Division",
+   "description": "[String] 2 or 3-digit code, to be matched using the 'division' and 'group' columns in the [MSIC Lookup](https://open.dosm.gov.my/data-catalogue/msic), except for the value 'overall' which is not present in the MSIC table, but which reflects the summary performance of domestic-oriented industrial output. Other than 'overall', the MSIC lookup table will give you the English and Malay definitions."
+  },
+  {
+   "name": "index",
+   "title": "Index",
+   "description": "[Float] Quantity of output expressed as an index with base 2015 = 100"
+  }
+ ],
+ "methodology": "The Industrial Production Index (IPI) is designed to measure the production of industrial commodities in the mining, manufacturing, and electricity sectors in real terms (i.e. in terms of output, not sales value). The IPI is produced using the following data:\n - Monthly data on the production of crude oil and natural gas from PETRONAS.\n - Monthly production data for 245 selected industries in the manufacturing sector from the Monthly Manufacturing Survey, which covers establishments with significant sales.\n - Monthly data on the production of crude palm oil, refined palm kernel oil and palm kernel oil from the Malaysian Palm Oil Board (MPOB).\n - Monthly data on the generation of electricity from Tenaga Nasional Berhad (TNB), Sabah Electricity Sdn. Bhd. (SESB) and Sarawak Energy Berhad (SEB).\n\n For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/ipi-technotes).",
+ "caveat": "Seasonally adjusted data is not provided for this dataset.",
+ "publication": "[Index of Industrial Production, May 2026](https://open.dosm.gov.my/publications/ipi_2026-05), the latest edition of the monthly industrial production statistics published by DOSM. OpenDOSM also features a [dashboard on industrial production](https://open.dosm.gov.my/dashboard/industrial-production).",
+ "params": {
+  "id": "ipi_domestic"
+ },
+ "query": {
+  "id": "ipi_domestic"
+ },
+ "agency": "DOSM",
+ "category": null
+}

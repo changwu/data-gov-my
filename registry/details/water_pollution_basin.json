@@ -1,0 +1,60 @@
+{
+ "id": "water_pollution_basin",
+ "title": "River Basin Pollution Monitoring",
+ "description": "Proportion of river basins classified as clean, slightly polluted, or polluted based on 3 primary indicators of water pollution.",
+ "data_as_of": "2021",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "2024-12-31 12:00",
+ "frequency": "YEARLY",
+ "data_source": [
+  "JAS"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/environment/water_pollution_basin.csv",
+ "link_parquet": "https://storage.data.gov.my/environment/water_pollution_basin.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at yearly frequency."
+  },
+  {
+   "name": "basins_monitored",
+   "title": "Basins Monitored",
+   "description": "[Integer] The number of river basins monitored during the year."
+  },
+  {
+   "name": "measure",
+   "title": "Pollution Indicator",
+   "description": "[Categorical] The pollution indicator measured, either Biochemical Oxygen Demand ('bod5'), Ammoniacal Nitrogen ('nh3n'), or Suspended Solids ('ss')."
+  },
+  {
+   "name": "status",
+   "title": "Pollution Status",
+   "description": "[Categorical] The classification of the river basins based on pollution levels, either Clean ('clean'), Slightly Polluted ('slightly_polluted'), or Polluted ('polluted')."
+  },
+  {
+   "name": "n_basins",
+   "title": "Number of Basins",
+   "description": "[Integer] The number of basins that fall under each pollution classification."
+  },
+  {
+   "name": "proportion",
+   "title": "Proportion",
+   "description": "[Float] The number of basins divided by the total number of basins monitored, expressed as a percentage."
+  }
+ ],
+ "methodology": "The Department of Environment (DOE) is mandated to monitor the quality of environmental resources in Malaysia. As part of this mandate, the DOE monitors the water quality of rivers in Malaysia via a combination of manual and automated monitoring at over 1300 stations, covering nearly 700 rivers and 150 river basins. This dataset presents the results of this monitoring on an annual basis.\n\n There are 3 primary water pollution indicators monitored by the DOE presented in this dataset:\n - *Biochemical Oxygen Demand (BOD)*, which measures the amount of oxygen that microorganisms require to decompose organic matter in the water. High BOD levels indicate the presence of a large amount of organic pollution, which can deplete oxygen in the water, harming aquatic life.\n - Ammoniacal *Nitrogen (NH₃-N)*, which is a measure of ammonia in the water primarily coming from agricultural runoff, sewage, and industrial discharges. High levels of ammoniacal nitrogen are toxic to fish and other aquatic organisms and can lead to the depletion of dissolved oxygen as it is broken down.\n - *Suspended Solids (SS)*, which are tiny particles suspended in the water, including soil, silt, organic matter, and industrial waste. High concentrations of suspended solids can reduce water clarity, block sunlight for aquatic plants, and clog the gills of fish.\n\n River basins are classified as clean, slightly polluted, or polluted based on Water Quality Index (WQI) values for each of these 3 indicators. For a deeper understanding of the methodology, please refer to the DOE's [Environmental Quality Report](https://storage.data.gov.my/environment/eqr_2023.pdf).",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "water_pollution_basin"
+ },
+ "query": {
+  "id": "water_pollution_basin"
+ },
+ "agency": "JAS",
+ "category": null
+}

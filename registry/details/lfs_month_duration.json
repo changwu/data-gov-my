@@ -1,0 +1,70 @@
+{
+ "id": "lfs_month_duration",
+ "title": "Monthly Unemployment by Duration",
+ "description": "Breakdown of monthly unemployed figures by duration of unemployment.",
+ "data_as_of": "2026-06",
+ "last_updated": "2026-08-11 12:30",
+ "next_update": "2026-09-11 12:30",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/labour/lfs_month_duration.csv",
+ "link_parquet": "https://storage.dosm.gov.my/labour/lfs_month_duration.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 since the data is at monthly frequency"
+  },
+  {
+   "name": "unemployed",
+   "title": "Unemployed Persons",
+   "description": "[Float] The number (in thousands) of people who did not work but were looking for work or available to work"
+  },
+  {
+   "name": "unemployed_active",
+   "title": "Active",
+   "description": "[Float] The number (in thousands) of people who were unemployed, but were actively looking for employment"
+  },
+  {
+   "name": "unemployed_inactive",
+   "title": "Inactive",
+   "description": "[Float] The number (in thousands) of people who were unemployed, but were not actively looking for employment due to waiting for ongoing job application results, being ill or believing that there was no work they could have successfully applied for "
+  },
+  {
+   "name": "unemployed_active_3mo",
+   "title": "Active",
+   "description": "[Float] The number (in thousands) of people who have been actively unemployed for less than 3 months"
+  },
+  {
+   "name": "unemployed_active_6mo",
+   "title": "Active",
+   "description": "[Float] The number (in thousands) of people who have been actively unemployed for between 3 to 6 months"
+  },
+  {
+   "name": "unemployed_active_12mo",
+   "title": "Active",
+   "description": "[Float] The number (in thousands) of people who have been actively unemployed for between 6 to 12 months"
+  },
+  {
+   "name": "unemployed_active_long",
+   "title": "Active",
+   "description": "[Float] The number (in thousands) of people who have been actively unemployed for more than 12 months"
+  }
+ ],
+ "methodology": "This data is produced based on the Labour Force Survey (LFS), which is designed to collect representative data on the labour force at national and state level. Consistency in methodology has been maintained to ensure that the data is comparable over time. Survey findings are a monthly, quarterly and annual basis. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/lfs-technotes).",
+ "caveat": "Data prior to 2025 is compiled in concordance with population data from the 2010 Census. Data from 2025 onwards is compiled in concordance with population data from the 2020 Census. As such, you may observe a trend break in the series due to the different references used. Furthermore, sums of each category may not always equal to the totals shown in related tables because of independent rounding to one decimal place. However, the differences are not obvious.",
+ "publication": "The [Labour Force Report, Jun 2026](https://open.dosm.gov.my/publications/labour_month_2026-06), the latest edition of the monthly labour force statistics published by DOSM. OpenDOSM also features a [dashboard on the labour force](https://open.dosm.gov.my/dashboard/labour-market).",
+ "params": {
+  "id": "lfs_month_duration"
+ },
+ "query": {
+  "id": "lfs_month_duration"
+ },
+ "agency": "DOSM",
+ "category": null
+}

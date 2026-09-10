@@ -1,0 +1,50 @@
+{
+ "id": "mnha",
+ "title": "MNHA: Total (TEH) and Current (CHE) Expenditure on Health",
+ "description": "Total and current expenditure on health in Malaysia, with a breakdown into public and private sectors.",
+ "data_as_of": "2022",
+ "last_updated": "2024-11-11",
+ "next_update": "-",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/mnha.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/mnha.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The year of the expenditure in YYYY-MM-DD format, with MM-DD set to 01-01 because the data is an annual frequency."
+  },
+  {
+   "name": "variable",
+   "title": "Variable",
+   "description": "[Categorical] Type of expenditure: Total Expenditure on Health (TEH) or Current Expenditure on Health (CEH)."
+  },
+  {
+   "name": "sector",
+   "title": "Sector",
+   "description": "[Categorical] Sector of expenditure: total, private, or public."
+  },
+  {
+   "name": "expenditure",
+   "title": "Expenditure (RM)",
+   "description": "[Float] The amount of expenditure in Malaysian Ringgit."
+  }
+ ],
+ "methodology": "In general, national health accounts (NHA) seek to answer 4 questions pertaining to healthcare spending:\n1. How much is spent?\n2. Who spent it? (sources of financing)\n3. Where was it spent? (providers of healthcare)\n4. What was it spent for?(functions)\n\nMalaysia's national health accounts are based on the Malaysian National Health Accounts (MNHA) framework, which is consistent with international NHA classifications but with minor modifications to suit local policy needs.\n\nFor this dataset specifically, **total expenditure on health (TEH)** comprises 'health expenditure' and 'health-related' expenditure from both public and private sectors.\n- *Health expenditure* consists of all expenditures or outlays of medical care, prevention, promotion, rehabilitation, community health activities, health administration and regulation with the predominant objective to improve health.\n- *Health-related expenditure* covers capital formation of healthcare provider institutions, education and training of health personnel, research and development, and all other health-related expenditures.\n\n**Current expenditure on health (CEH)** is conceptually similar, but covers only health expenditure, i.e. it excludes *health-related* expenditure. The reason for publication of both TEH and CHE is that TEH (which has a broader scope) is used for domestic policy planning, while CHE is published for international comparability, as practiced by OECD and WHO countries since 2017. For a fuller description of the MNHA framework, you may refer to Chapter 2 of the [most recent MNHA publication](https://storage.data.gov.my/healthcare/pub/mnha_2022.pdf).",
+ "caveat": "The data may be revised in future updates, in accordance with the latest methodologies.",
+ "publication": "[MNHA 2022](https://storage.data.gov.my/healthcare/pub/mnha_2022.pdf), the latest edition of the Malaysian National Health Accounts published by the Ministry of Health Malaysia.",
+ "params": {
+  "id": "mnha"
+ },
+ "query": {
+  "id": "mnha"
+ },
+ "agency": "MOH",
+ "category": null
+}

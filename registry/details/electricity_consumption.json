@@ -1,0 +1,49 @@
+{
+ "id": "electricity_consumption",
+ "title": "Monthly Electricity Consumption",
+ "description": "Monthly electricity consumption by sector.",
+ "data_as_of": "2024-09-30 23:59",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "2024-10-01 12:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "TNB",
+  "SESB",
+  "SWK-ENERGY",
+  "ST",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/energy/electricity_consumption.csv",
+ "link_parquet": "https://storage.data.gov.my/energy/electricity_consumption.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency"
+  },
+  {
+   "name": "sector",
+   "title": "Sector",
+   "description": "[Categorical] All sectors ('total'), local ('local') with breakdowns into commercial ('local_commercial') and domestic ('local_domestic') use, exports ('exports'), or losses ('losses'). Commercial usage includes the industrial and mining sectors, while domestic usage includes public lighting."
+  },
+  {
+   "name": "consumption",
+   "title": "Electricity Consumption",
+   "description": "[Float] Amount of electricity consumed in millions of kilowatt-hours (MKWh)"
+  }
+ ],
+ "methodology": "In Malaysia, the electrical grid is operated by various parties, primarily Tenaga Nasional Berhad (for Peninsular Malaysia), Sabah Electricity Sdn. Bhd., and Sarawak Energy Berhad. Independent power producers also contribute to the grid. This dataset is tabulated from the operational records of these providers, and shows monthly electricity consumption in Malaysia, categorized by the sector in which it is consumed.",
+ "caveat": "Data for the most recent 6 months is still provisional and may be revised in future updates.",
+ "publication": "—",
+ "params": {
+  "id": "electricity_consumption"
+ },
+ "query": {
+  "id": "electricity_consumption"
+ },
+ "agency": "TNB,SESB,SWK-ENERGY,ST,DOSM",
+ "category": null
+}

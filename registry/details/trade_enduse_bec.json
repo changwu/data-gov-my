@@ -1,0 +1,55 @@
+{
+ "id": "trade_enduse_bec",
+ "title": "Monthly Retained Imports by End Use and BEC",
+ "description": "Monthly retained imports by end use and Broad Economic Categories (BEC).",
+ "data_as_of": "2026-07",
+ "last_updated": "2026-08-28 12:30",
+ "next_update": "2026-09-28 12:30",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/trade/trade_enduse_bec.csv",
+ "link_parquet": "https://storage.dosm.gov.my/trade/trade_enduse_bec.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "series",
+   "title": "Series Type",
+   "description": "[Categorical] Either absolute values ('abs'), year-on-year growth ('growth_yoy') or month-on-month growth ('growth_mom')"
+  },
+  {
+   "name": "end_use",
+   "title": "End Use",
+   "description": "[Categorical] BEC end-use category: total retained imports ('retained_imports'), durable assets ('capital'), goods used as inputs to production ('intermediate'), household consumption goods ('consumption'), dual-use goods ('dual_use'), goods not elsewhere specified ('nes'), or low-value transactions ('below_5000')"
+  },
+  {
+   "name": "bec",
+   "title": "BEC Code",
+   "description": "[String] 3-digit BEC code, to be matched using the 'bec_code' column in the [BEC Data Dictionary](https://open.dosm.gov.my/data-catalogue/bec). The BEC data dictionary will give you the English and Malay definitions. The code '000' represents the aggregate across all BEC codes within the given end-use category."
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 since the data is at monthly frequency"
+  },
+  {
+   "name": "imports",
+   "title": "Imports",
+   "description": "[Float, RM] The value of retained imports for that end use and BEC"
+  }
+ ],
+ "methodology": "This dataset presents monthly retained imports, broken down by Broad Economic Categories (BEC) and end use. The classification of BEC is based on the [4th revision of the BEC published by the United Nations Statistics Division](https://unstats.un.org/unsd/trade/classifications/bec.asp), which maps HS codes onto the basic classes of goods in national accounts (capital, intermediate, and consumer goods). For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/trade-technotes).",
+ "caveat": "Data for the most recent two months is provisional and subject to revision in future updates.",
+ "publication": "[External Trade, Mar 2026](https://open.dosm.gov.my/publications/trade_2026-03), the latest edition of the monthly trade statistics published by DOSM. OpenDOSM also features a [dashboard on trade](https://open.dosm.gov.my/dashboard/external-trade).",
+ "params": {
+  "id": "trade_enduse_bec"
+ },
+ "query": {
+  "id": "trade_enduse_bec"
+ },
+ "agency": "DOSM",
+ "category": null
+}

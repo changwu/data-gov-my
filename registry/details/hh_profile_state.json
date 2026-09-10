@@ -1,0 +1,50 @@
+{
+ "id": "hh_profile_state",
+ "title": "Number of Households and Living Quarters by State",
+ "description": "Number of households and living quarters by state from 1970 to 2024.",
+ "data_as_of": "2024",
+ "last_updated": "2024-07-31 12:00",
+ "next_update": "2025-07-31 12:00",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/demography/hh_lq_state.csv",
+ "link_parquet": "https://storage.dosm.gov.my/demography/hh_lq_state.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, including the 3 Federal Territories"
+  },
+  {
+   "name": "households",
+   "title": "Number of Households",
+   "description": "[Numeric] The total number of households for the given year and state"
+  },
+  {
+   "name": "living_quarters",
+   "title": "Number of Living Quarters",
+   "description": "[Numeric] The total number of living quarters for the given year and state; note that this also includes empty dwellings."
+  }
+ ],
+ "methodology": "Values for 1970, 1980, 1991, 2000, 2010 and 2020 are based on adjusted data from the Population Censuses conducted in those years. Values for all other years are intercensal mid-year population estimates. For a deeper understanding of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/population-technotes).",
+ "caveat": "Values for breakdowns may be slightly different to totals when summed, due to rounding to one decimal place.",
+ "publication": "OpenDOSM features a [dashboard on the population of Malaysia](https://open.dosm.gov.my/dashboard/population).",
+ "params": {
+  "id": "hh_profile_state"
+ },
+ "query": {
+  "id": "hh_profile_state"
+ },
+ "agency": "DOSM",
+ "category": null
+}

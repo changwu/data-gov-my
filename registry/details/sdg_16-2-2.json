@@ -1,0 +1,55 @@
+{
+ "id": "sdg_16-2-2",
+ "title": "SDG 16-2-2: Victims of Human Trafficking",
+ "description": "Number of victims of human trafficking per 100,000 population by sex, age, and form of exploitation, as per the specifications of SDG Indicator 16-2-2.",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "-",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "KDN"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/sdg/sdg_16-2-2.csv",
+ "link_parquet": "https://storage.dosm.gov.my/sdg/sdg_16-2-2.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency."
+  },
+  {
+   "name": "type",
+   "title": "Type of Exploitation",
+   "description": "[Categorical] All forms of trafficking ('all'), human trafficking for forced labour, servitude and slavery ('forced_labour'), or human trafficking for sexual exploitation ('sexual_exploitation')"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes ('both'), male ('male') or female ('female')"
+  },
+  {
+   "name": "age",
+   "title": "Age Group",
+   "description": "[Categorical] Either all ages ('all'), individuals less than 18 years old ('18_below'), or individuals aged 18 and above ('18_and_above')"
+  },
+  {
+   "name": "value",
+   "title": "Victims per 100,000 Population",
+   "description": "[Float] The number of victims of human trafficking per 100,000 population of that sex and age group"
+  }
+ ],
+ "methodology": "This dataset is produced based on ground-level surveillance coordinated by the Council for Anti-Trafficking in Persons and Anti-Smuggling of Migrants, which is tasked with implementing and coordinating national security policies and programmes on the aspects of trafficking in persons and smuggling of migrants. Besides for operational purposes, this data is reported as part of Malaysia's monitoring of the Sustainable Development Goals (SDGs), in line with the most recent [SDG Global Indicator Framework](https://storage.dosm.gov.my/technotes/sdg.pdf).",
+ "caveat": "The data is subject to revision in future updates.",
+ "publication": "—",
+ "params": {
+  "id": "sdg_16-2-2"
+ },
+ "query": {
+  "id": "sdg_16-2-2"
+ },
+ "agency": "KDN",
+ "category": null
+}

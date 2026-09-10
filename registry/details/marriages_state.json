@@ -1,0 +1,55 @@
+{
+ "id": "marriages_state",
+ "title": "Annual Marriages by State",
+ "description": "Number of marriages registered annually by state of residence, including marriage rates per 1,000 unmarried population.",
+ "data_as_of": "2022-12-31 23:59",
+ "last_updated": "2023-11-23 12:00",
+ "next_update": "2024-11-21 12:00",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/demography/marriages_state.csv",
+ "link_parquet": "https://storage.dosm.gov.my/demography/marriages_state.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, including the 3 Federal Territories"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date of marriage registration in YYYY-MM-DD format, with MM-DD set to 01-01 as this is annual data"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either male ('male') or female ('female')"
+  },
+  {
+   "name": "abs",
+   "title": "Number of Marriages",
+   "description": "[Integer] Number of marriages registered in that year"
+  },
+  {
+   "name": "rate",
+   "title": "Marriage Rate",
+   "description": "[Float] Number of marriages per 1000 currently unmarried population of the same sex in that state (including widowers and divorcees)"
+  }
+ ],
+ "methodology": "In Malaysia, there are two parallel systems for marriage registration; non-Muslim marriages are registered with the National Registration Department (JPN), while Muslim marriages are registered with the Syariah Court. This dataset is tabulated from the transactional administrative data collected by both administrative systems. Classification by state is based on the state of residence of the bride and groom respectively, meaning that the total number of male and female marriages in a state does not necessarily have to be the same (however, the national totals must match).",
+ "caveat": "The data represents registered marriages only. Unregistered marriages (including couples originally registered outside Malaysia who have not yet registered their marriage with local authorities) are not included in this dataset.",
+ "publication": "—",
+ "params": {
+  "id": "marriages_state"
+ },
+ "query": {
+  "id": "marriages_state"
+ },
+ "agency": "DOSM",
+ "category": null
+}

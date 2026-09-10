@@ -1,0 +1,4932 @@
+[
+ {
+  "id": "population_malaysia",
+  "title": "Population Table: Malaysia",
+  "data_as_of": "2026",
+  "description": "Population at national level from 1970 to 2026, by sex, age group and ethnicity. The preview table shows data for the latest year only, but you may download the data in full.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/population/population_malaysia.parquet",
+  "link_csv": "https://storage.dosm.gov.my/population/population_malaysia.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Population"
+ },
+ {
+  "id": "population_state",
+  "title": "Population Table: States",
+  "data_as_of": "2026",
+  "description": "Population at state level from 1970 to 2026, by sex, age group and ethnicity. The preview table shows data for the latest year only, but you may download the data in full.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/population/population_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/population/population_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Population"
+ },
+ {
+  "id": "population_district",
+  "title": "Population Table: Administrative Districts",
+  "data_as_of": "2025",
+  "description": "Population at district level from 2020 to 2024, by sex, age group and ethnicity. The preview table shows data for the latest year only, but you may download the data in full.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/population/population_district.parquet",
+  "link_csv": "https://storage.dosm.gov.my/population/population_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Population"
+ },
+ {
+  "id": "population_parlimen",
+  "title": "Population Table: Parliamentary Constituencies",
+  "data_as_of": "2024",
+  "description": "Population at parliamentary constituency level from 2020 to 2022, with breakdowns by sex and nationality. The preview table shows data for the latest year only, but you may download the data in full.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/population/population_parlimen.parquet",
+  "link_csv": "https://storage.dosm.gov.my/population/population_parlimen.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Population"
+ },
+ {
+  "id": "population_dun",
+  "title": "Population Table: State Legislative Assemblies (DUNs)",
+  "data_as_of": "2024",
+  "description": "Population at state legislative assembly (DUN) level from 2020 to 2022, with breakdowns by sex and nationality. The preview table shows data for the latest year only, but you may download the data in full.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/population/population_dun.parquet",
+  "link_csv": "https://storage.dosm.gov.my/population/population_dun.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Population"
+ },
+ {
+  "id": "births",
+  "title": "Daily Live Births",
+  "data_as_of": "2023-07-31 23:59",
+  "description": "Number of people born daily in Malaysia, based on registrations with JPN from 1920 to the present.",
+  "data_source": [
+   "JPN"
+  ],
+  "link_parquet": "https://storage.data.gov.my/demography/births.parquet",
+  "link_csv": "https://storage.data.gov.my/demography/births.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Births"
+ },
+ {
+  "id": "births_annual",
+  "title": "Annual Live Births",
+  "data_as_of": "2024",
+  "description": "Annual number of births with signs of life upon delivery.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/birth.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/birth.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Births"
+ },
+ {
+  "id": "births_annual_state",
+  "title": "Annual Live Births by State",
+  "data_as_of": "2024",
+  "description": "Annual number of births with signs of life upon delivery, by state.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/birth_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/birth_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Births"
+ },
+ {
+  "id": "births_annual_sex_ethnic",
+  "title": "Annual Live Births by Sex & Ethnicity",
+  "data_as_of": "2024",
+  "description": "Annual number of births with signs of life upon delivery, with breakdowns by sex and ethnic group.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/birth_sex_ethnic.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/birth_sex_ethnic.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Births"
+ },
+ {
+  "id": "births_annual_sex_ethnic_state",
+  "title": "Annual Live Births by State, Sex, & Ethnicity",
+  "data_as_of": "2024",
+  "description": "Annual number of births with signs of life upon delivery, with breakdowns by sex, ethnic group and state.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/birth_sex_ethnic_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/birth_sex_ethnic_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Births"
+ },
+ {
+  "id": "births_district_sex",
+  "title": "Annual Live Births by District & Sex",
+  "data_as_of": "2024",
+  "description": "Annual number of births with signs of life upon delivery, by district and sex.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/birth_district_sex.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/birth_district_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Births"
+ },
+ {
+  "id": "stillbirths",
+  "title": "Annual Stillbirths",
+  "data_as_of": "2024",
+  "description": "Annual number of stillbirths recorded by the Ministry of Health.",
+  "data_source": [
+   "MOH",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/stillbirth.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/stillbirth.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Births"
+ },
+ {
+  "id": "stillbirths_state",
+  "title": "Annual Stillbirths by State",
+  "data_as_of": "2024",
+  "description": "Annual number of stillbirths recorded by the Ministry of Health, by state.",
+  "data_source": [
+   "MOH",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/stillbirth_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/stillbirth_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Births"
+ },
+ {
+  "id": "deaths",
+  "title": "Annual Deaths",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths registered with JPN.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/death.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/death.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_state",
+  "title": "Annual Deaths by State",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths registered with JPN, by state.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/death_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/death_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_sex_ethnic",
+  "title": "Annual Deaths by Sex & Ethnicity",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths, with breakdowns by sex and ethnic group.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/death_sex_ethnic.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/death_sex_ethnic.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_sex_ethnic_state",
+  "title": "Annual Deaths by State, Sex, & Ethnicity",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths, with breakdowns by sex, ethnic group and state.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/death_sex_ethnic_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/death_sex_ethnic_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_district_sex",
+  "title": "Annual Deaths by District & Sex",
+  "data_as_of": "2024",
+  "description": "Annual number and rate of deaths by administrative district and sex.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/death_district_sex.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/death_district_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_early_childhood",
+  "title": "Annual Early Childhood Deaths",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths aged less than 5 year old, broken down into perinatal, neonatal, infant and toddler deaths.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/deaths_early_childhood.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/deaths_early_childhood.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_early_childhood_sex",
+  "title": "Annual Early Childhood Deaths by Sex",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths aged less than 5 year old by sex, broken down into neonatal and infant deaths.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/deaths_early_childhood_sex.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/deaths_early_childhood_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_early_childhood_state",
+  "title": "Annual Early Childhood Deaths by State",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths aged less than 5 year old by state, broken down into perinatal, neonatal, infant and toddler deaths.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/deaths_early_childhood_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/deaths_early_childhood_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_early_childhood_state_sex",
+  "title": "Annual Early Childhood Deaths by State & Sex",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths aged less than 5 year old by state and sex, broken down into neonatal and infant deaths.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/deaths_early_childhood_state_sex.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/deaths_early_childhood_state_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_maternal",
+  "title": "Annual Maternal Deaths",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths of women during pregnancy or childbirth.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/death_maternal.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/death_maternal.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "deaths_maternal_state",
+  "title": "Annual Maternal Deaths by State",
+  "data_as_of": "2024",
+  "description": "Annual number of deaths of women during pregnancy or childbirth, by state.",
+  "data_source": [
+   "JPN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/death_maternal_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/death_maternal_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Deaths"
+ },
+ {
+  "id": "marriages",
+  "title": "Annual Marriages",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Number of marriages registered annually in Malaysia, including marriage rates per 1,000 unmarried population.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/marriages.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/marriages.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Marriage"
+ },
+ {
+  "id": "marriages_age",
+  "title": "Annual Marriage by Age Group",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Number of marriages registered annually in Malaysia by age group, including marriage rates per 1,000 unmarried population.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/marriages_age.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/marriages_age.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Marriage"
+ },
+ {
+  "id": "marriages_state",
+  "title": "Annual Marriages by State",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Number of marriages registered annually by state of residence, including marriage rates per 1,000 unmarried population.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/marriages_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/marriages_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Marriage"
+ },
+ {
+  "id": "marriages_state_age",
+  "title": "Annual Marriage by State & Age Group",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Number of marriages registered annually by state and age group, including marriage rates per 1,000 unmarried population.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/marriages_state_age.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/marriages_state_age.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Marriage"
+ },
+ {
+  "id": "fertility",
+  "title": "TFR and ASFR",
+  "data_as_of": "2024",
+  "description": "Total fertility rate (TFR) and age-specific fertility rates (ASFR) from 1958 to the present at national level.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/fertility.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/fertility.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Fertility"
+ },
+ {
+  "id": "fertility_state",
+  "title": "TFR and ASFR by State",
+  "data_as_of": "2024",
+  "description": "Total fertility rate (TFR) and age-specific fertility rates (ASFR) by state.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/fertility_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/fertility_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Fertility"
+ },
+ {
+  "id": "arrivals",
+  "title": "Monthly Arrivals by Nationality & Sex",
+  "data_as_of": "2024-10-31 23:59",
+  "description": "Monthly foreign arrivals in Malaysia by nationality and sex.",
+  "data_source": [
+   "Imigresen"
+  ],
+  "link_parquet": "https://storage.data.gov.my/demography/arrivals.parquet",
+  "link_csv": "https://storage.data.gov.my/demography/arrivals.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Migration"
+ },
+ {
+  "id": "arrivals_soe",
+  "title": "Monthly Arrivals by State of Entry, Nationality & Sex",
+  "data_as_of": "2024-10-31 23:59",
+  "description": "Monthly foreign arrivals in Malaysia by state of entry, nationality and sex. The table shows a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "Imigresen"
+  ],
+  "link_parquet": "https://storage.data.gov.my/demography/arrivals_soe.parquet",
+  "link_csv": "https://storage.data.gov.my/demography/arrivals_soe.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Migration"
+ },
+ {
+  "id": "passports",
+  "title": "Monthly Passport Issuances by State and Branch",
+  "data_as_of": "2024-10-31 23:59",
+  "description": "Monthly issuances of Malaysian passports by state and office.",
+  "data_source": [
+   "Imigresen"
+  ],
+  "link_parquet": "https://storage.data.gov.my/demography/passports.parquet",
+  "link_csv": "https://storage.data.gov.my/demography/passports.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Demography",
+  "subcategory": "Migration"
+ },
+ {
+  "id": "hh_profile",
+  "title": "Number of Households and Living Quarters",
+  "data_as_of": "2024",
+  "description": "Number of households and living quarters in Malaysia from 1970 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/hh_lq.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/hh_lq.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Profile"
+ },
+ {
+  "id": "hh_profile_state",
+  "title": "Number of Households and Living Quarters by State",
+  "data_as_of": "2024",
+  "description": "Number of households and living quarters by state from 1970 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/demography/hh_lq_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/demography/hh_lq_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Profile"
+ },
+ {
+  "id": "hh_income",
+  "title": "Household Income",
+  "data_as_of": "2024",
+  "description": "Mean and median monthly gross household income in Malaysia from 1970 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_income.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_income.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Income"
+ },
+ {
+  "id": "hies_malaysia_percentile",
+  "title": "Household Income by Percentile",
+  "data_as_of": "2024",
+  "description": "Percentile-resolution household income data at national level.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hies_malaysia_percentile.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hies_malaysia_percentile.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Income"
+ },
+ {
+  "id": "hh_income_state",
+  "title": "Household Income by State",
+  "data_as_of": "2024",
+  "description": "Mean and median gross monthly household income by state from 1970 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_income_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_income_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Income"
+ },
+ {
+  "id": "hies_state_percentile",
+  "title": "Household Income by State & Percentile",
+  "data_as_of": "2024",
+  "description": "Percentile-resolution household income data at state level.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hies_state_percentile.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hies_state_percentile.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Income"
+ },
+ {
+  "id": "hh_income_district",
+  "title": "Household Income by Administrative District",
+  "data_as_of": "2024",
+  "description": "Mean and median gross monthly household income by administrative district from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_income_district.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_income_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Income"
+ },
+ {
+  "id": "hh_income_parlimen",
+  "title": "Household Income by Parliament",
+  "data_as_of": "2024",
+  "description": "Mean and median gross monthly household income by parliamentary constituency from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_income_parlimen.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_income_parlimen.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Income"
+ },
+ {
+  "id": "hh_income_dun",
+  "title": "Household Income by DUN",
+  "data_as_of": "2024",
+  "description": "Mean and median gross monthly household income by DUN constituency from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_income_dun.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_income_dun.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Income"
+ },
+ {
+  "id": "hh_poverty",
+  "title": "Poverty",
+  "data_as_of": "2024",
+  "description": "Poverty rates in Malaysia from 1970 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_poverty.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_poverty.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Poverty"
+ },
+ {
+  "id": "hh_poverty_state",
+  "title": "Poverty by State",
+  "data_as_of": "2024",
+  "description": "Poverty rates by state from 1970 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_poverty_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_poverty_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Poverty"
+ },
+ {
+  "id": "hh_poverty_district",
+  "title": "Poverty by Administrative District",
+  "data_as_of": "2024",
+  "description": "Poverty rates by administrative district from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_poverty_district.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_poverty_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Poverty"
+ },
+ {
+  "id": "hh_poverty_parlimen",
+  "title": "Poverty by Parliament",
+  "data_as_of": "2024",
+  "description": "Poverty rates by parliamentary constituency from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_poverty_parlimen.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_poverty_parlimen.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Poverty"
+ },
+ {
+  "id": "hh_poverty_dun",
+  "title": "Poverty by DUN",
+  "data_as_of": "2024",
+  "description": "Poverty rates by DUN constituency from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_poverty_dun.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_poverty_dun.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Poverty"
+ },
+ {
+  "id": "hh_inequality",
+  "title": "Income Inequality",
+  "data_as_of": "2024",
+  "description": "Gini coefficient for Malaysia from 1970 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_inequality.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_inequality.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Inequality"
+ },
+ {
+  "id": "hh_inequality_state",
+  "title": "Income Inequality by State",
+  "data_as_of": "2024",
+  "description": "Gini coefficient by state from 1974 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_inequality_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_inequality_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Inequality"
+ },
+ {
+  "id": "hh_inequality_district",
+  "title": "Income Inequality by District",
+  "data_as_of": "2024",
+  "description": "Gini coefficient by administrative district from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_inequality_district.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_inequality_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Inequality"
+ },
+ {
+  "id": "hh_inequality_parlimen",
+  "title": "Income Inequality by Parliament",
+  "data_as_of": "2024",
+  "description": "Gini coefficient by parliamentary constituency from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_inequality_parlimen.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_inequality_parlimen.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Inequality"
+ },
+ {
+  "id": "hh_inequality_dun",
+  "title": "Income Inequality by DUN",
+  "data_as_of": "2024",
+  "description": "Gini coefficient at DUN constituency level from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_inequality_dun.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_inequality_dun.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Inequality"
+ },
+ {
+  "id": "hies_state",
+  "title": "Household Income and Expenditure: States",
+  "data_as_of": "2024",
+  "description": "This dataset tabulates household-level income, expenditure, poverty, and income inequality at state level. It is based on the Household Income & Expenditure Surveys (HIES) carried in 2022.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hies_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hies_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Expenditure"
+ },
+ {
+  "id": "hies_district",
+  "title": "Household Income and Expenditure: Administrative Districts",
+  "data_as_of": "2024",
+  "description": "This dataset tabulates household-level income, expenditure, poverty, and income inequality at administrative district level. It is based on the Household Income & Expenditure Surveys (HIES) carried in 2022.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hies_district.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hies_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Expenditure"
+ },
+ {
+  "id": "hh_expenditure_parlimen",
+  "title": "Household Expenditure by Parliament",
+  "data_as_of": "2024",
+  "description": "Mean gross monthly household expenditure by parliamentary constituency from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_expenditure_parlimen.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_expenditure_parlimen.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Expenditure"
+ },
+ {
+  "id": "hh_expenditure_dun",
+  "title": "Household Expenditure by DUN",
+  "data_as_of": "2024",
+  "description": "Mean gross monthly household expenditure by DUN constituency from 2019 to 2024.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_expenditure_dun.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_expenditure_dun.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Expenditure"
+ },
+ {
+  "id": "hh_access_amenities",
+  "title": "Access to Basic Amenities by State & District",
+  "data_as_of": "2024",
+  "description": "Proportion of households with access to basic amenities such as electricity, piped water, and sanitary latrines by state and district.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/hies/hh_access_amenities.parquet",
+  "link_csv": "https://storage.dosm.gov.my/hies/hh_access_amenities.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Households",
+  "subcategory": "Basic Amenities"
+ },
+ {
+  "id": "gdp_gni_annual_nominal",
+  "title": "Annual Nominal GDP & GNI: 1947 to Present",
+  "data_as_of": "2025",
+  "description": "Long time series of annual nominal gross domestic product (GDP) and gross national income (GNI), including per capita values.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_nominal.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_nominal.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_gni_annual_real",
+  "title": "Annual Real GDP & GNI: 1970 to Present",
+  "data_as_of": "2025",
+  "description": "Long time series of annual real gross domestic product (GDP) and gross national income (GNI), including per capita values.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_real.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_gni_annual_real.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_annual_nominal_supply",
+  "title": "Annual Nominal GDP by Economic Sector",
+  "data_as_of": "2025",
+  "description": "Annual gross domestic product (GDP) at current prices for the 5 main economic sectors.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_supply.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_supply.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_annual_nominal_supply_granular",
+  "title": "Annual Nominal GDP by Economic Subsector",
+  "data_as_of": "2025",
+  "description": "Annual gross domestic product (GDP) at current prices by economic subsector. The table provides a preview of the full dataset using the latest year's data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_supply_sub.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_supply_sub.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_annual_nominal_demand",
+  "title": "Annual Nominal GDP by Expenditure Type",
+  "data_as_of": "2025",
+  "description": "Annual gross domestic product (GDP) at current prices, by expenditure type.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_demand.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_demand.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_annual_nominal_demand_granular",
+  "title": "Annual Nominal GDP by Expenditure Subtype",
+  "data_as_of": "2025",
+  "description": "Annual gross domestic product (GDP) at current prices, by expenditure type and subtype. The table provides a preview of the full dataset using the latest year's data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_demand_sub.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_demand_sub.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_annual_nominal_income",
+  "title": "Annual Nominal GDP by Income Component",
+  "data_as_of": "2024",
+  "description": "Annual gross domestic product (GDP) at current prices, by income component.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_income.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_annual_nominal_income.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_annual_real_supply",
+  "title": "Annual Real GDP by Economic Sector",
+  "data_as_of": "2025",
+  "description": "Annual gross domestic product (GDP) at constant 2015 prices for the 5 main economic sectors.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_annual_real_supply.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_annual_real_supply.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_annual_real_supply_granular",
+  "title": "Annual Real GDP by Economic Subsector",
+  "data_as_of": "2025",
+  "description": "Annual gross domestic product (GDP) at constant 2015 prices by economic subsector. The table provides a preview of the full dataset using the latest year's data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_annual_real_supply_sub.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_annual_real_supply_sub.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_annual_real_demand",
+  "title": "Annual Real GDP by Expenditure Type",
+  "data_as_of": "2025",
+  "description": "Annual gross domestic product (GDP) at constant 2015 prices, by expenditure type.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_annual_real_demand.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_annual_real_demand.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_annual_real_demand_granular",
+  "title": "Annual Real GDP by Expenditure Subtype",
+  "data_as_of": "2025",
+  "description": "Annual gross domestic product (GDP) at constant 2015 prices, by expenditure type and subtype. The table provides a preview of the full dataset using the latest year's data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_annual_real_demand_sub.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_annual_real_demand_sub.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_nominal",
+  "title": "Quarterly Nominal GDP",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at current prices.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_nominal_supply",
+  "title": "Quarterly Nominal GDP by Economic Sector",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at current prices for the 5 main economic sectors.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_nominal_supply_granular",
+  "title": "Quarterly Nominal GDP by Economic Subsector",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at current prices by economic subsector. The table provides a preview of the full dataset using the latest year's data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply_sub.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_supply_sub.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_nominal_demand",
+  "title": "Quarterly Nominal GDP by Expenditure Type",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at current prices, by expenditure type.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_demand.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_demand.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_nominal_demand_granular",
+  "title": "Quarterly Nominal GDP by Expenditure Subtype",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at current prices, by expenditure type and subtype. The table provides a preview of the full dataset using the latest year's data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_demand_sub.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_nominal_demand_sub.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_real",
+  "title": "Quarterly Real GDP",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at constant 2015 prices.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_real.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_real.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_real_supply",
+  "title": "Quarterly Real GDP by Economic Sector",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at constant 2015 prices for the 5 main economic sectors.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_supply.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_supply.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_real_supply_granular",
+  "title": "Quarterly Real GDP by Economic Subsector",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at constant 2015 prices by economic subsector. The table provides a preview of the full dataset using the latest year's data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_supply_sub.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_supply_sub.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_real_demand",
+  "title": "Quarterly Real GDP by Expenditure Type",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at constant 2015 prices, by expenditure type.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_demand.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_demand.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_real_demand_granular",
+  "title": "Quarterly Real GDP by Expenditure Subtype",
+  "data_as_of": "2026-Q2",
+  "description": "Quarterly gross domestic product (GDP) at constant 2015 prices, by expenditure type and subtype. The table provides a preview of the full dataset using the latest year's data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_demand_sub.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_demand_sub.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_real_sa",
+  "title": "Quarterly Real GDP (Seasonally Adjusted)",
+  "data_as_of": "2026-Q2",
+  "description": "Seasonally adjusted quarterly gross domestic product (GDP) at constant 2015 prices.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_real_sa_supply",
+  "title": "Quarterly Real GDP (Seasonally Adjusted) by Economic Sector",
+  "data_as_of": "2026-Q2",
+  "description": "Seasonally adjusted quarterly gross domestic product (GDP) at constant 2015 prices for the 5 main economic sectors.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa_supply.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa_supply.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_qtr_real_sa_demand",
+  "title": "Quarterly Real GDP (Seasonally Adjusted) by Expenditure Type",
+  "data_as_of": "2026-Q2",
+  "description": "Seasonally adjusted quarterly gross domestic product (GDP) at constant 2015 prices, by expenditure type.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa_demand.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_qtr_real_sa_demand.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_state_real_supply",
+  "title": "Annual Real GDP by State & Economic Sector",
+  "data_as_of": "2025",
+  "description": "Annual state-level gross domestic product (GDP) at constant 2015 prices for the 5 main economic sectors.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_state_real_supply.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_state_real_supply.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_district_real_supply",
+  "title": "Annual Real GDP by District & Economic Sector",
+  "data_as_of": "2020",
+  "description": "Annual district-level gross domestic product (GDP) at constant 2015 prices for the 5 main economic sectors.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_district_real_supply.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_district_real_supply.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "gdp_lookup",
+  "title": "Lookup Table: GDP",
+  "data_as_of": "2024-Q1",
+  "description": "Lookup table, to be left-joined against other GDP datasets if specified.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/gdp/gdp_lookup.parquet",
+  "link_csv": "https://storage.dosm.gov.my/gdp/gdp_lookup.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Gross Domestic Product"
+ },
+ {
+  "id": "bop_balance",
+  "title": "Balance of Key BOP Components",
+  "data_as_of": "2026-Q2",
+  "description": "Overall balance of the 4 main components of Malaysia's balance of payments (BOP).",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/bop/bop_balance.parquet",
+  "link_csv": "https://storage.dosm.gov.my/bop/bop_balance.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Balance of Payments"
+ },
+ {
+  "id": "fdi_flows",
+  "title": "Foreign Direct Investment (FDI) Flows",
+  "data_as_of": "2025-Q3",
+  "description": "Inflows, outflows, and net flows of foreign direct investment (FDI) into Malaysia.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/bop/fdi_flows.parquet",
+  "link_csv": "https://storage.dosm.gov.my/bop/fdi_flows.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "National Accounts",
+  "subcategory": "Balance of Payments"
+ },
+ {
+  "id": "schools_district",
+  "title": "Public Education Institutions by District",
+  "data_as_of": "2025",
+  "description": "Number of primary, secondary, and tertiary public education institutions at national, state, and district level.",
+  "data_source": [
+   "MOE"
+  ],
+  "link_parquet": "https://storage.data.gov.my/education/schools_district.parquet",
+  "link_csv": "https://storage.data.gov.my/education/schools_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Education",
+  "subcategory": "Education Infrastructure"
+ },
+ {
+  "id": "teachers_district",
+  "title": "Teachers in Government Schools by District",
+  "data_as_of": "2025",
+  "description": "Number of teachers in primary and secondary government schools at national, state, and district level.",
+  "data_source": [
+   "MOE"
+  ],
+  "link_parquet": "https://storage.data.gov.my/education/teachers_district.parquet",
+  "link_csv": "https://storage.data.gov.my/education/teachers_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Education",
+  "subcategory": "Education Infrastructure"
+ },
+ {
+  "id": "lecturers_uni",
+  "title": "Lecturers in Public Universities by Citizenship & Sex",
+  "data_as_of": "2023",
+  "description": "Number of lecturers in public universities at national and state level, broken down by citizenship and sex.",
+  "data_source": [
+   "MOHE"
+  ],
+  "link_parquet": "https://storage.data.gov.my/education/lecturers_uni.parquet",
+  "link_csv": "https://storage.data.gov.my/education/lecturers_uni.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Education",
+  "subcategory": "Education Infrastructure"
+ },
+ {
+  "id": "enrolment_school_district",
+  "title": "Enrolment in Government Schools by District",
+  "data_as_of": "2025",
+  "description": "Number of students enrolled in primary, secondary, and post-secondary government schools at national, state, and district level.",
+  "data_source": [
+   "MOE"
+  ],
+  "link_parquet": "https://storage.data.gov.my/education/enrolment_school_district.parquet",
+  "link_csv": "https://storage.data.gov.my/education/enrolment_school_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Education",
+  "subcategory": "Education Outcomes"
+ },
+ {
+  "id": "completion_school_state",
+  "title": "School Completion Rates by State",
+  "data_as_of": "2022",
+  "description": "Proportion of students who complete primary, lower secondary, and upper secondary education at national and state level.",
+  "data_source": [
+   "MOE"
+  ],
+  "link_parquet": "https://storage.data.gov.my/education/completion_school_state.parquet",
+  "link_csv": "https://storage.data.gov.my/education/completion_school_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Education",
+  "subcategory": "Education Outcomes"
+ },
+ {
+  "id": "nutrition_children_sex",
+  "title": "Nutritional Status of Children Under 5 by Sex",
+  "data_as_of": "2019",
+  "description": "Distribution of weight-for-age (WAZ), height-for-age (HAZ), and weight-for-height (WHZ) scores for children under 5 years old based on WHO standards, which are used to assess malnutrition (underweight, stunting, wasting, and obesity).",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/nutrition_status_u5_sex.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/nutrition_status_u5_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "General Health"
+ },
+ {
+  "id": "nutrition_children_strata",
+  "title": "Nutritional Status of Children Under 5 by Strata",
+  "data_as_of": "2019",
+  "description": "Distribution of weight-for-age (WAZ), height-for-age (HAZ), and weight-for-height (WHZ) scores for children under 5 years old based on WHO standards, which are used to assess malnutrition (underweight, stunting, wasting, and obesity).",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/nutrition_status_u5_strata.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/nutrition_status_u5_strata.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "General Health"
+ },
+ {
+  "id": "sanitation_access",
+  "title": "Access to Sanitary Latrines by State",
+  "data_as_of": "2022",
+  "description": "Proportion of households in rural areas covered by sanitary latrines by state.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/sanitation_access.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/sanitation_access.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Infrastructure"
+ },
+ {
+  "id": "hospital_beds",
+  "title": "Hospital Beds by State and Hospital Type",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Number of public sector hospital beds at national, state, and district level, with a breakdown by hospital type.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/hospital_beds.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/hospital_beds.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Infrastructure"
+ },
+ {
+  "id": "healthcare_staff",
+  "title": "Healthcare Staff by State and Staff Type",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Number of public sector healthcare staff at national and state level, with a breakdown by staff type.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/healthcare_staff.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/healthcare_staff.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Infrastructure"
+ },
+ {
+  "id": "blood_donations",
+  "title": "Daily Blood Donations by Blood Group",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Daily blood donations at national level for each of the 4 major blood groups. The table provides a preview of the dataset using the most recent 2 years of data.",
+  "data_source": [
+   "PDN",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/blood_donations.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/blood_donations.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Programs"
+ },
+ {
+  "id": "blood_donations_state",
+  "title": "Daily Blood Donations by Blood Group & State",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Daily blood donations at state level for each of the 4 major blood groups. The table provides a preview of the dataset using the most recent year of data.",
+  "data_source": [
+   "PDN",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/blood_donations_state.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/blood_donations_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Programs"
+ },
+ {
+  "id": "organ_pledges",
+  "title": "Daily Organ Donation Pledges",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Daily organ donation pledges at national level. The table provides a preview of the dataset using the most recent 2 years of data.",
+  "data_source": [
+   "NTRC",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/organ_pledges.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/organ_pledges.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Programs"
+ },
+ {
+  "id": "organ_pledges_state",
+  "title": "Daily Organ Donation Pledges by State",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Daily organ donation pledges at state level. The table provides a preview of the dataset using the most recent year of data.",
+  "data_source": [
+   "NTRC",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/organ_pledges_state.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/organ_pledges_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Programs"
+ },
+ {
+  "id": "pekab40_screenings",
+  "title": "Daily PeKaB40 Health Screenings",
+  "data_as_of": "2026-09-06 23:59",
+  "description": "Daily healthcare screenings conducted under the PeKaB40 program, at national level. The table provides a preview of the dataset using the most recent 2 years of data.",
+  "data_source": [
+   "PHCorp",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/pekab40_screenings.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/pekab40_screenings.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Programs"
+ },
+ {
+  "id": "pekab40_screenings_state",
+  "title": "Daily PeKaB40 Health Screenings by State",
+  "data_as_of": "2026-09-06 23:59",
+  "description": "Daily healthcare screenings conducted under the PeKaB40 program, at state level. The table provides a preview of the dataset using the most recent year of data.",
+  "data_source": [
+   "PHCorp",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/pekab40_screenings_state.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/pekab40_screenings_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Programs"
+ },
+ {
+  "id": "infant_immunisation",
+  "title": "Infant Immunisation Coverage",
+  "data_as_of": "2023",
+  "description": "Annual infant immunisation coverage rates at national level.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/infant_immunisation.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/infant_immunisation.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Programs"
+ },
+ {
+  "id": "covid_deaths_linelist",
+  "title": "Transactional Records: Deaths due to COVID-19",
+  "data_as_of": "2025-05-31 23:59",
+  "description": "Transactional records of deaths due to COVID-19, with various demographic and medical dimensions including COVID-19 vaccination records. The preview shows the most recent 200 records.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/covid_deaths_linelist.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/covid_deaths_linelist.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Infectious Diseases"
+ },
+ {
+  "id": "covid_cases",
+  "title": "Daily COVID-19 Cases by State",
+  "data_as_of": "2025-05-31 23:59",
+  "description": "Daily COVID-19 cases at national and state level, with details on imported, recovered, active, and cluster cases.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/covid_cases.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/covid_cases.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Infectious Diseases"
+ },
+ {
+  "id": "covid_cases_vaxstatus",
+  "title": "Daily COVID-19 Cases by Vaccination Status & State",
+  "data_as_of": "2025-05-31 23:59",
+  "description": "Daily COVID-19 cases at national and state level, broken down by vaccination status.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/covid_cases_vaxstatus.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/covid_cases_vaxstatus.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Infectious Diseases"
+ },
+ {
+  "id": "covid_cases_age",
+  "title": "Daily COVID-19 Cases by Age Group & State",
+  "data_as_of": "2025-05-31 23:59",
+  "description": "Daily COVID-19 cases at national and state level, broken down by age group.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/covid_cases_age.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/covid_cases_age.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Infectious Diseases"
+ },
+ {
+  "id": "vaxreg_covid",
+  "title": "Daily COVID-19 Vaccine Registrations by State",
+  "data_as_of": "2022-02-22 23:59",
+  "description": "Daily registrations for the COVID-19 vaccine via MySejahtera, at national and state level.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/vaxreg_covid.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/vaxreg_covid.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Infectious Diseases"
+ },
+ {
+  "id": "vaxreg_covid_demog",
+  "title": "Daily COVID-19 Vaccine Registrations by State, Sex & Age",
+  "data_as_of": "2022-02-22 23:59",
+  "description": "Daily registrations for the COVID-19 vaccine via MySejahtera, at national and state level, broken down by age group and sex. The table below provides a truncated preview of the full dataset.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/vaxreg_covid_demog.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/vaxreg_covid_demog.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Infectious Diseases"
+ },
+ {
+  "id": "std_state",
+  "title": "Sexually Transmitted Diseases (STDs) by State",
+  "data_as_of": "2022",
+  "description": "Number and incidence of sexually transmitted diseases (STDs) by state, covering HIV, AIDS, chancroid, gonorrhea, and syphilis.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/std_state.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/std_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Infectious Diseases"
+ },
+ {
+  "id": "pharmaceutical_manufacturers",
+  "title": "Approved Manufacturers of Pharmaceutical Products",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Complete list of approved manufacturers of pharmaceutical products with an active license from NPRA. The table provides a preview of the dataset using 10 records as a sample.",
+  "data_source": [
+   "NPRA",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/pharmaceutical_manufacturers.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/pharmaceutical_manufacturers.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Regulation"
+ },
+ {
+  "id": "pharmaceutical_importers",
+  "title": "Approved Importers of Pharmaceutical Products",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Complete list of approved importers of pharmaceutical products with an active license from NPRA. The table provides a preview of the dataset using 10 records as a sample.",
+  "data_source": [
+   "NPRA",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/pharmaceutical_importers.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/pharmaceutical_importers.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Regulation"
+ },
+ {
+  "id": "pharmaceutical_wholesalers",
+  "title": "Approved Wholesalers of Pharmaceutical Products",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Complete list of approved wholesalers of pharmaceutical products with an active license from NPRA. The table provides a preview of the dataset using 10 records as a sample.",
+  "data_source": [
+   "NPRA",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/pharmaceutical_wholesalers.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/pharmaceutical_wholesalers.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Regulation"
+ },
+ {
+  "id": "cosmetics_manufacturers",
+  "title": "Approved Manufacturers of Cosmetic Products",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Complete list of approved manufacturers of cosmetic products with an active license from NPRA. The table provides a preview of the dataset using 10 records as a sample.",
+  "data_source": [
+   "NPRA",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/cosmetic_manufacturers.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/cosmetic_manufacturers.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Regulation"
+ },
+ {
+  "id": "pharmaceutical_products",
+  "title": "Approved Pharmaceutical Products",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Complete list of pharmaceutical products approved by the Drug Control Authority. The table provides a preview of the dataset using 10 records as a sample.",
+  "data_source": [
+   "NPRA",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/pharmaceutical_products.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Regulation"
+ },
+ {
+  "id": "pharmaceutical_products_cancelled",
+  "title": "Cancelled Pharmaceutical Products",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Complete list of pharmaceutical products with registrations cancelled by the Drug Control Authority. The table provides a preview of the dataset using 10 records as a sample.",
+  "data_source": [
+   "NPRA",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Regulation"
+ },
+ {
+  "id": "cosmetic_notifications",
+  "title": "Notified Cosmetic Products",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Complete list of comsetic products notified to and approved by the Drug Control Authority. The table provides a preview of the dataset using 10 records as a sample.",
+  "data_source": [
+   "NPRA",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/cosmetic_notifications.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/cosmetic_notifications.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Regulation"
+ },
+ {
+  "id": "cosmetic_notifications_cancelled",
+  "title": "Cancelled Cosmetic Product Notifications",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Complete list of comsetic products found to contain banned substances, with their notification subsequently cancelled by the Drug Control Authority. The table provides a preview of the dataset using 10 records as a sample.",
+  "data_source": [
+   "NPRA",
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/cosmetic_notifications_cancelled.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/cosmetic_notifications_cancelled.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Regulation"
+ },
+ {
+  "id": "mnha",
+  "title": "MNHA: Total (TEH) and Current (CHE) Expenditure on Health",
+  "data_as_of": "2022",
+  "description": "Total and current expenditure on health in Malaysia, with a breakdown into public and private sectors.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/mnha.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/mnha.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Accounts"
+ },
+ {
+  "id": "mnha_moh",
+  "title": "MNHA: MOH Expenditure on Health",
+  "data_as_of": "2022",
+  "description": "Annual total expenditure on health by the Ministry of Health Malaysia.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.data.gov.my/healthcare/mnha_moh.parquet",
+  "link_csv": "https://storage.data.gov.my/healthcare/mnha_moh.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Healthcare",
+  "subcategory": "Healthcare Accounts"
+ },
+ {
+  "id": "ridership_ktmb_daily",
+  "title": "Daily KTMB Ridership",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Daily-frequency ridership data for the 5 main KTMB services, namely Komuter, Komuter Utara, Intercity, ETS and Shuttle Tebrau. The table and charts provide a preview of the data using the most recent 1 year of data, but you may download the data in full.",
+  "data_source": [
+   "KTMB",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/ktmb/ridership_ktmb_daily.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/ktmb/ridership_ktmb_daily.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "ridership_ktmb_monthly",
+  "title": "Monthly KTMB Ridership",
+  "data_as_of": "2026-08-31 23:59",
+  "description": "Monthly-frequency ridership data for the 5 main KTMB services, namely Komuter, Komuter Utara, Intercity, ETS and Shuttle Tebrau.",
+  "data_source": [
+   "KTMB",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/ktmb/ridership_ktmb_monthly.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/ktmb/ridership_ktmb_monthly.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "ridership_od_komuter",
+  "title": "Hourly Origin-Destination Ridership: Komuter",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Hourly origin-destination ridership data for the Komuter service. The table provides a brief preview of the data, but you may download the data in full.",
+  "data_source": [
+   "KTMB",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/ktmb/komuter_YYYY-MM-DD.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/ktmb/komuter_YYYY-MM-DD.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023"
+  ],
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "ridership_od_komuter_utara",
+  "title": "Hourly Origin-Destination Ridership: Komuter Utara",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Hourly origin-destination ridership data for the Komuter Utara service. The table provides a brief preview of the data, but you may download the data in full.",
+  "data_source": [
+   "KTMB",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_YYYY-MM-DD.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/ktmb/komuter_utara_YYYY-MM-DD.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020"
+  ],
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "ridership_od_intercity",
+  "title": "Hourly Origin-Destination Ridership: Intercity",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Hourly origin-destination ridership data for the Intercity service. The table provides a brief preview of the data, but you may download the data in full.",
+  "data_source": [
+   "KTMB",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/ktmb/intercity_YYYY-MM-DD.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/ktmb/intercity_YYYY-MM-DD.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020"
+  ],
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "ridership_od_ets",
+  "title": "Hourly Origin-Destination Ridership: ETS",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Hourly origin-destination ridership data for the ETS service. The table provides a brief preview of the data, but you may download the data in full.",
+  "data_source": [
+   "KTMB",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/ktmb/ets_YYYY-MM-DD.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/ktmb/ets_YYYY-MM-DD.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020"
+  ],
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "ridership_od_shuttle_tebrau",
+  "title": "Hourly Origin-Destination Ridership: Shuttle Tebrau",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Hourly origin-destination ridership data for the Shuttle Tebrau service. The table provides a brief preview of the data, but you may download the data in full.",
+  "data_source": [
+   "KTMB",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_YYYY-MM-DD.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/ktmb/shuttle_tebrau_YYYY-MM-DD.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023",
+   "2022"
+  ],
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "ridership_od_rapidrail_daily",
+  "title": "Daily Origin-Destination Ridership: Rapid Rail (KV)",
+  "data_as_of": "2026-08-24 23:59",
+  "description": "Daily origin-destination ridership data covering the entire Rapid Rail network in the Klang Valley. The table provides a brief preview of the data, but you may download the data in full.",
+  "data_source": [
+   "Prasarana",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/rail/rapidrail_YYYY-MM-DD_daily.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/rail/rapidrail_YYYY-MM-DD_daily.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023"
+  ],
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "ridership_od_brt_daily",
+  "title": "Daily Origin-Destination Ridership: BRT Sunway Line",
+  "data_as_of": "2026-08-24 23:59",
+  "description": "Daily origin-destination ridership data covering all 7 stop on the BRT Sunway Line. The table provides a brief preview of the data, but you may download the data in full.",
+  "data_source": [
+   "Prasarana",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/bus/brt_YYYY-MM-DD_daily.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/bus/brt_YYYY-MM-DD_daily.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023"
+  ],
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "ridership_headline",
+  "title": "Daily Public Transport Ridership",
+  "data_as_of": "2026-07-31 23:59",
+  "description": "Daily-frequency ridership data for various public transport services across the country.",
+  "data_source": [
+   "Prasarana",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/ridership_headline.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/ridership_headline.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Transportation",
+  "subcategory": "Ridership"
+ },
+ {
+  "id": "registration_transactions_all",
+  "title": "Vehicle Registration Transactions",
+  "data_as_of": "2026-07-31 23:59",
+  "description": "All vehicle registration transactions from 2000 to the present. The table below provides a preview of the full dataset, which contains hundreds of thousands of transactions per year.",
+  "data_source": [
+   "JPJ",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/vehicles_YYYY-MM-DD.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/vehicles_YYYY-MM-DD.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020",
+   "2019",
+   "2018",
+   "2017",
+   "2016",
+   "2015",
+   "2014",
+   "2013",
+   "2012",
+   "2011",
+   "2010",
+   "2009",
+   "2008",
+   "2007",
+   "2006",
+   "2005",
+   "2004",
+   "2003",
+   "2002",
+   "2001",
+   "2000"
+  ],
+  "category": "Transportation",
+  "subcategory": "Vehicle Registrations"
+ },
+ {
+  "id": "registration_transactions_car",
+  "title": "Car Registration Transactions",
+  "data_as_of": "2026-07-31 23:59",
+  "description": "Car registration transactions from 2000 to the present. The table below provides a preview of the full dataset, which contains hundreds of thousands of transactions per year.",
+  "data_source": [
+   "JPJ",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/cars_YYYY-MM-DD.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/cars_YYYY-MM-DD.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020",
+   "2019",
+   "2018",
+   "2017",
+   "2016",
+   "2015",
+   "2014",
+   "2013",
+   "2012",
+   "2011",
+   "2010",
+   "2009",
+   "2008",
+   "2007",
+   "2006",
+   "2005",
+   "2004",
+   "2003",
+   "2002",
+   "2001",
+   "2000"
+  ],
+  "category": "Transportation",
+  "subcategory": "Vehicle Registrations"
+ },
+ {
+  "id": "registration_transactions_motorcycle",
+  "title": "Motorcycle Registration Transactions",
+  "data_as_of": "2026-07-31 23:59",
+  "description": "Motorcycle registration transactions from 2000 to the present. The table below provides a preview of the full dataset, which contains hundreds of thousands of transactions per year.",
+  "data_source": [
+   "JPJ",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/motorcycles_YYYY-MM-DD.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/motorcycles_YYYY-MM-DD.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020",
+   "2019",
+   "2018",
+   "2017",
+   "2016",
+   "2015",
+   "2014",
+   "2013",
+   "2012",
+   "2011",
+   "2010",
+   "2009",
+   "2008",
+   "2007",
+   "2006",
+   "2005",
+   "2004",
+   "2003",
+   "2002",
+   "2001",
+   "2000"
+  ],
+  "category": "Transportation",
+  "subcategory": "Vehicle Registrations"
+ },
+ {
+  "id": "registrations_type_fuel",
+  "title": "Monthly Vehicle Registrations by Vehicle and Fuel Type",
+  "data_as_of": "2026-07-31 23:59",
+  "description": "Monthly count of vehicle registrations, disaggregated by vehicle type and fuel type, from 2000 to the present.",
+  "data_source": [
+   "JPJ",
+   "MOT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/transportation/registrations_type_fuel.parquet",
+  "link_csv": "https://storage.data.gov.my/transportation/registrations_type_fuel.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Transportation",
+  "subcategory": "Vehicle Registrations"
+ },
+ {
+  "id": "crime_district",
+  "title": "Crimes by District & Crime Type",
+  "data_as_of": "2023-12-31 23:59",
+  "description": "Number of crimes in Malaysia by district, crime category, and type of crime.",
+  "data_source": [
+   "PDRM",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicsafety/crime_district.parquet",
+  "link_csv": "https://storage.data.gov.my/publicsafety/crime_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Crime"
+ },
+ {
+  "id": "legal_advisory_branch",
+  "title": "Legal Advisory Services by Branch",
+  "data_as_of": "2024-12-31 23:59",
+  "description": "Number of legal advisory sessions provided by the Legal Aid Department (JBG) each month, by branch.",
+  "data_source": [
+   "JBG"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/legal_advisory_branch.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/legal_advisory_branch.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Justice"
+ },
+ {
+  "id": "prisoners_state",
+  "title": "Prisoners by State and Sex",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Number of prisoners in Malaysia by state and sex from 2017 to 2022.",
+  "data_source": [
+   "Penjara"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicsafety/prisoners_state.parquet",
+  "link_csv": "https://storage.data.gov.my/publicsafety/prisoners_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Justice"
+ },
+ {
+  "id": "legal_advisory_category",
+  "title": "Legal Advisory Services by Branch & Category",
+  "data_as_of": "2024-12-31 23:59",
+  "description": "Number of legal advisory sessions provided by the Legal Aid Department (JBG) each month, by branch and category of legal matter.",
+  "data_source": [
+   "JBG"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/legal_advisory_category.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/legal_advisory_category.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Justice"
+ },
+ {
+  "id": "prisoners_prison",
+  "title": "Prisoners by Prison Centre and Sex",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Number of prisoners in Malaysia by prison centre and sex from 2017 to 2022.",
+  "data_source": [
+   "Penjara"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicsafety/prisoners_prison.parquet",
+  "link_csv": "https://storage.data.gov.my/publicsafety/prisoners_prison.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Justice"
+ },
+ {
+  "id": "legal_advisory_subcategory",
+  "title": "Legal Advisory Services by Branch & Subcategory",
+  "data_as_of": "2024-12-31 23:59",
+  "description": "Number of legal advisory sessions provided by the Legal Aid Department (JBG) each month, by branch and subcategory of legal matter.",
+  "data_source": [
+   "JBG"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/legal_advisory_subcategory.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/legal_advisory_subcategory.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Justice"
+ },
+ {
+  "id": "legal_advisory_case_type",
+  "title": "Legal Advisory Services by Branch & Case Type",
+  "data_as_of": "2024-12-31 23:59",
+  "description": "Number of legal advisory sessions provided by the Legal Aid Department (JBG) each month, by branch and specific type of legal matter.",
+  "data_source": [
+   "JBG"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/legal_advisory_case_type.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/legal_advisory_case_type.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Justice"
+ },
+ {
+  "id": "drug_arrests_ethnicity",
+  "title": "Drug Arrests by Sex & Ethnicity",
+  "data_as_of": "2023",
+  "description": "This dataset provides information on drug-related arrests in Malaysia, categorized by sex and ethnicity. It includes annual data on various types of drug arrests, offering insights into demographic trends in drug-related offenses.",
+  "data_source": [
+   "PDRM",
+   "KDN"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicsafety/drug_arrests_ethnicity.parquet",
+  "link_csv": "https://storage.data.gov.my/publicsafety/drug_arrests_ethnicity.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Drug Addiction"
+ },
+ {
+  "id": "drug_arrests_age",
+  "title": "Drug Arrests by Sex & Age",
+  "data_as_of": "2023",
+  "description": "This dataset provides information on drug-related arrests categorized by sex and age group. It includes data on the type of arrest, whether for possession, supply, or positive urine tests, and is compiled on a yearly basis at the national level.",
+  "data_source": [
+   "PDRM",
+   "KDN"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicsafety/drug_arrests_age.parquet",
+  "link_csv": "https://storage.data.gov.my/publicsafety/drug_arrests_age.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Drug Addiction"
+ },
+ {
+  "id": "drug_addicts_age",
+  "title": "Drug Addicts by State & Age Group",
+  "data_as_of": "2023",
+  "description": "This dataset provides yearly statistics on the number of drug addicts in Malaysia, broken down by state and age group. It offers insights into the demographic distribution of drug addiction across different regions and age categories in the country.",
+  "data_source": [
+   "AADK",
+   "KDN"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicsafety/drug_addicts_age.parquet",
+  "link_csv": "https://storage.data.gov.my/publicsafety/drug_addicts_age.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Drug Addiction"
+ },
+ {
+  "id": "drug_addicts_drugtype",
+  "title": "Drug Addicts by State & Drug Type",
+  "data_as_of": "2023-12-31 09:41:00.000 +08:00",
+  "description": "This dataset provides information on the types of drugs reported by each state in Malaysia, as recorded by the National Anti-Drugs Agency (AADK). The data is categorized based on the type of drug as defined by relevant acts, and includes the number of addicts associated with each drug type per state.",
+  "data_source": [
+   "AADK",
+   "KDN"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicsafety/drug_addicts_drugtype.parquet",
+  "link_csv": "https://storage.data.gov.my/publicsafety/drug_addicts_drugtype.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Drug Addiction"
+ },
+ {
+  "id": "drug_addicts_education",
+  "title": "Drug Addicts by Highest Education Level",
+  "data_as_of": "2023-12-31 00:00:00.000 +08:00",
+  "description": "The dataset provides information on drug addicts categorized by their highest level of education. The data is collected by the National Anti-Drugs Agency (NADA) through various treatment and rehabilitation centers across Malaysia. It includes yearly data at both national and state levels.",
+  "data_source": [
+   "AADK",
+   "KDN"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicsafety/drug_addicts_education.parquet",
+  "link_csv": "https://storage.data.gov.my/publicsafety/drug_addicts_education.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Drug Addiction"
+ },
+ {
+  "id": "drug_addicts_occupation",
+  "title": "Drug Addicts by State & Occupation",
+  "data_as_of": "2023",
+  "description": "This dataset managed by the National Anti-Drugs Agency (NADA) in collaboration with the Department of Statistics Malaysia (DOSM), provides annual statistics on drug addiction in Malaysia. It presents data at both the national and state levels, offering insights into trends and demographic breakdowns of drug addiction by occupation. This information is crucial for understanding the impact of drug addiction across different occupational sectors and aids in policy-making and intervention strategies.",
+  "data_source": [
+   "AADK",
+   "KDN"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicsafety/drug_addicts_occupation.parquet",
+  "link_csv": "https://storage.data.gov.my/publicsafety/drug_addicts_occupation.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Safety",
+  "subcategory": "Drug Addiction"
+ },
+ {
+  "id": "epf_dividend",
+  "title": "Annual EPF Dividend",
+  "data_as_of": "2025",
+  "description": "Annual dividend rates declared by the EPF for conventional and Shariah-compliant investments.",
+  "data_source": [
+   "EPF"
+  ],
+  "link_parquet": "https://storage.data.gov.my/welfare/epf_dividend.parquet",
+  "link_csv": "https://storage.data.gov.my/welfare/epf_dividend.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Welfare",
+  "subcategory": "Retirement"
+ },
+ {
+  "id": "forest_reserve",
+  "title": "Area of Permanent Forest Reserves",
+  "data_as_of": "2021",
+  "description": "The area of permanent forest reserves as of year-end.",
+  "data_source": [
+   "Perhutanan",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/environment/forest_reserve.parquet",
+  "link_csv": "https://storage.data.gov.my/environment/forest_reserve.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Land Use"
+ },
+ {
+  "id": "forest_reserve_state",
+  "title": "Area of Permanent Forest Reserves by State",
+  "data_as_of": "2021",
+  "description": "The area of permanent forest reserves as of year-end, by state.",
+  "data_source": [
+   "Perhutanan",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/environment/forest_reserve_state.parquet",
+  "link_csv": "https://storage.data.gov.my/environment/forest_reserve_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Land Use"
+ },
+ {
+  "id": "electricity_consumption",
+  "title": "Monthly Electricity Consumption",
+  "data_as_of": "2024-09-30 23:59",
+  "description": "Monthly electricity consumption by sector.",
+  "data_source": [
+   "TNB",
+   "SESB",
+   "SWK-ENERGY",
+   "ST",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/energy/electricity_consumption.parquet",
+  "link_csv": "https://storage.data.gov.my/energy/electricity_consumption.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Energy"
+ },
+ {
+  "id": "electricity_supply",
+  "title": "Electricity Supply",
+  "data_as_of": "2024-09-30 23:59",
+  "description": "Monthly electricity supply by sector.",
+  "data_source": [
+   "TNB",
+   "SESB",
+   "SWK-ENERGY",
+   "ST",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/energy/electricity_supply.parquet",
+  "link_csv": "https://storage.data.gov.my/energy/electricity_supply.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Energy"
+ },
+ {
+  "id": "electricity_access",
+  "title": "Households with Access to Electricity",
+  "data_as_of": "2022",
+  "description": "Number of households with access to electricity at home.",
+  "data_source": [
+   "TNB",
+   "SESB",
+   "SWK-ENERGY",
+   "ST"
+  ],
+  "link_parquet": "https://storage.data.gov.my/energy/electricity_access.parquet",
+  "link_csv": "https://storage.data.gov.my/energy/electricity_access.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Energy"
+ },
+ {
+  "id": "water_consumption",
+  "title": "Water Consumption by State and Sector",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Annual water consumption by state, broken down into domestic and non-domestic sectors.",
+  "data_source": [
+   "SPAN",
+   "NRES",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/water/water_consumption.parquet",
+  "link_csv": "https://storage.data.gov.my/water/water_consumption.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Water"
+ },
+ {
+  "id": "water_production",
+  "title": "Water Production by State",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Annual water production by state.",
+  "data_source": [
+   "SPAN",
+   "NRES",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/water/water_production.parquet",
+  "link_csv": "https://storage.data.gov.my/water/water_production.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Water"
+ },
+ {
+  "id": "water_access",
+  "title": "Access to Treated Water by State & Strata",
+  "data_as_of": "2022",
+  "description": "Annual access of households to treated piped water by state and strata.",
+  "data_source": [
+   "SPAN",
+   "NRES"
+  ],
+  "link_parquet": "https://storage.data.gov.my/water/water_access.parquet",
+  "link_csv": "https://storage.data.gov.my/water/water_access.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Water"
+ },
+ {
+  "id": "air_pollution",
+  "title": "Monthly Air Pollution",
+  "data_as_of": "2022-12-31 23:59",
+  "description": "Average monthly concentration of key air pollutants.",
+  "data_source": [
+   "JAS",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/environment/air_pollution.parquet",
+  "link_csv": "https://storage.data.gov.my/environment/air_pollution.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Pollution"
+ },
+ {
+  "id": "ghg_emissions",
+  "title": "Greenhouse Gas Emissions",
+  "data_as_of": "2021",
+  "description": "Annual greenhouse gas (GHG) emissions by source.",
+  "data_source": [
+   "NRES",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/environment/ghg_emissions.parquet",
+  "link_csv": "https://storage.data.gov.my/environment/ghg_emissions.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Pollution"
+ },
+ {
+  "id": "water_pollution_basin",
+  "title": "River Basin Pollution Monitoring",
+  "data_as_of": "2021",
+  "description": "Proportion of river basins classified as clean, slightly polluted, or polluted based on 3 primary indicators of water pollution.",
+  "data_source": [
+   "JAS"
+  ],
+  "link_parquet": "https://storage.data.gov.my/environment/water_pollution_basin.parquet",
+  "link_csv": "https://storage.data.gov.my/environment/water_pollution_basin.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Environment",
+  "subcategory": "Pollution"
+ },
+ {
+  "id": "cellular_subscribers",
+  "title": "Cellular Subscribers by Plan Type",
+  "data_as_of": "2021",
+  "description": "Annual data on the number of postpaid and prepaid cellular subscribers in Malaysia.",
+  "data_source": [
+   "MCMC"
+  ],
+  "link_parquet": "https://storage.data.gov.my/communications/cellular_subscribers.parquet",
+  "link_csv": "https://storage.data.gov.my/communications/cellular_subscribers.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Communications",
+  "subcategory": "Telecommunications"
+ },
+ {
+  "id": "lfs_month",
+  "title": "Monthly Principal Labour Force Statistics",
+  "data_as_of": "2026-06",
+  "description": "Monthly principal labour force statistics, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_month.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_month.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_month_sa",
+  "title": "Monthly Principal Labour Force Statistics, Seasonally Adjusted",
+  "data_as_of": "2026-06",
+  "description": "Seasonally adjusted monthly principal labour force statistics, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_month_sa.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_month_sa.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_month_status",
+  "title": "Monthly Employment by Status in Employment",
+  "data_as_of": "2026-06",
+  "description": "Breakdown of employment into employers, employees, own-account workers and unpaid family workers.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_month_status.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_month_status.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_month_duration",
+  "title": "Monthly Unemployment by Duration",
+  "data_as_of": "2026-06",
+  "description": "Breakdown of monthly unemployed figures by duration of unemployment.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_month_duration.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_month_duration.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_month_youth",
+  "title": "Monthly Youth Unemployment",
+  "data_as_of": "2026-06",
+  "description": "Monthly unemployment statistics focusing on the 15-30 age group.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_month_youth.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_month_youth.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_qtr",
+  "title": "Quarterly Principal Labour Force Statistics",
+  "data_as_of": "2025-Q3",
+  "description": "Quarterly principal labour force statistics, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_qtr.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_qtr.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_qtr_sru_age",
+  "title": "Quarterly Skills-Related Underemployment by Age",
+  "data_as_of": "2025-Q3",
+  "description": "Number and proportion of working individuals with tertiary education working in a semi-skilled or low-skilled job, broken down by age group.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_age.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_age.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_qtr_sru_sex",
+  "title": "Quarterly Skills-Related Underemployment by Sex",
+  "data_as_of": "2025-Q3",
+  "description": "Number and proportion of working individuals with tertiary education working in a semi-skilled or low-skilled job, broken down by sex.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_sex.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_qtr_tru_age",
+  "title": "Quarterly Time-Related Underemployment by Age",
+  "data_as_of": "2025-Q3",
+  "description": "Number and proportion of working individuals who worked less than 30 hours per week even though they were willing to work more, i.e. due to unavailability of work.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_age.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_age.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_qtr_tru_sex",
+  "title": "Quarterly Time-Related Underemployment by Sex",
+  "data_as_of": "2025-Q3",
+  "description": "Number and proportion of working individuals who worked less than 30 hours per week even though they were willing to work more, i.e. due to unavailability of work.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_sex.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_qtr_tru_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_qtr_state",
+  "title": "Quarterly Principal Labour Force Statistics by State",
+  "data_as_of": "2025-Q3",
+  "description": "Quarterly principal labour force statistics by state, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_qtr_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_qtr_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_year",
+  "title": "Annual Principal Labour Force Statistics",
+  "data_as_of": "2023",
+  "description": "Annual principal labour force statistics, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_year.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_year.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_year_sex",
+  "title": "Annual Principal Labour Force Statistics by Sex",
+  "data_as_of": "2023",
+  "description": "Annual principal labour force statistics by sex, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_year_sex.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_year_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_state_sex",
+  "title": "Annual Principal Labour Force Statistics by State & Sex",
+  "data_as_of": "2023",
+  "description": "Annual principal labour force statistics at state level by sex, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_state_sex.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_state_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_district",
+  "title": "Annual Principal Labour Force Statistics by District",
+  "data_as_of": "2024",
+  "description": "Annual principal labour force statistics at district level, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_district.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_district.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_parlimen",
+  "title": "Annual Principal Labour Force Statistics by Parliament",
+  "data_as_of": "2023",
+  "description": "Annual principal labour force statistics at Parliament constituency level, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_parlimen.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_parlimen.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "lfs_dun",
+  "title": "Annual Principal Labour Force Statistics by DUN",
+  "data_as_of": "2023",
+  "description": "Annual principal labour force statistics at DUN constituency level, including unemployment and participation rates.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/lfs_dun.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/lfs_dun.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "employment_sector",
+  "title": "Employment by MSIC Sector and Sex",
+  "data_as_of": "2022",
+  "description": "Annual distribution of employment by MSIC sector and sex.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/employment_sector.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/employment_sector.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Force Survey"
+ },
+ {
+  "id": "productivity_annual",
+  "title": "Annual Productivity by Economic Sector",
+  "data_as_of": "2025",
+  "description": "Annual labour productivity by economic sector, with metrics on value added per worker, value added per hour worked, and total hours worked.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/productivity_annual.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/productivity_annual.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Productivity"
+ },
+ {
+  "id": "productivity_annual_priority",
+  "title": "Annual Productivity for Priority Subsectors",
+  "data_as_of": "2025",
+  "description": "Annual labour productivity for 14 priority subsectors, with metrics on value added per worker, value added per hour worked, and total hours worked.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/productivity_annual_p14.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/productivity_annual_p14.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Productivity"
+ },
+ {
+  "id": "productivity_qtr",
+  "title": "Quarterly Productivity by Economic Sector",
+  "data_as_of": "2025-Q4",
+  "description": "Quarterly labour productivity by economic sector, with metrics on value added per worker, value added per hour worked, and total hours worked.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/productivity_qtr.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/productivity_qtr.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Productivity"
+ },
+ {
+  "id": "productivity_lookup",
+  "title": "Lookup Table: Labour Productivity",
+  "data_as_of": "2025-Q4",
+  "description": "Lookup table, to be left-joined against other productivity datasets if specified.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/labour/productivity_lookup.parquet",
+  "link_csv": "https://storage.dosm.gov.my/labour/productivity_lookup.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Labour Markets",
+  "subcategory": "Labour Productivity"
+ },
+ {
+  "id": "monetary_aggregates",
+  "title": "Monetary Aggregates: M1, M2, M3",
+  "data_as_of": "2026-06",
+  "description": "The total value of the money supply, as measured by M1, M2, and M3.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/money_aggregates.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/money_aggregates.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Money Supply"
+ },
+ {
+  "id": "currency_in_circulation",
+  "title": "Monthly Currency in Circulation",
+  "data_as_of": "2026-06",
+  "description": "The value of currency in circulation by denomination, for instance RM 1, RM 5, RM 10.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/currency_in_circulation.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/currency_in_circulation.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Money Supply"
+ },
+ {
+  "id": "currency_in_circulation_annual",
+  "title": "Annual Currency in Circulation",
+  "data_as_of": "2025",
+  "description": "The value of currency in circulation by denomination, for instance RM 1, RM 5, RM 10.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/currency_in_circulation_annual.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/currency_in_circulation_annual.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Money Supply"
+ },
+ {
+  "id": "interestrates",
+  "title": "Monthly Interest Rates",
+  "data_as_of": "2026-06",
+  "description": "Various interest rates monitored by Bank Negara Malaysia, such as fixed deposit rates, base rates, and lending rates.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/interest_rates.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/interest_rates.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Banking System"
+ },
+ {
+  "id": "interestrates_annual",
+  "title": "Annual Interest Rates",
+  "data_as_of": "2025",
+  "description": "Various interest rates monitored by Bank Negara Malaysia, such as fixed deposit rates, base rates, and lending rates.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/interest_rates_annual.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/interest_rates_annual.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Banking System"
+ },
+ {
+  "id": "trnsc_daily_fpx",
+  "title": "Daily FPX Transactions",
+  "data_as_of": "2026-09-01 23:59",
+  "description": "Daily volume and value of FPX transactions by business model.",
+  "data_source": [
+   "PayNet",
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/payments/trnsc_daily_fpx.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/payments/trnsc_daily_fpx.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Payments"
+ },
+ {
+  "id": "trnsc_daily_san",
+  "title": "Daily Shared ATM Network (SAN) Transactions",
+  "data_as_of": "2026-09-01 23:59",
+  "description": "Daily volume and value of Shared ATM Network (SAN) transactions by geographic segment.",
+  "data_source": [
+   "PayNet",
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/payments/trnsc_daily_san.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/payments/trnsc_daily_san.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Payments"
+ },
+ {
+  "id": "trnsc_daily_jompay",
+  "title": "Daily JomPAY Transactions",
+  "data_as_of": "2026-09-01 23:59",
+  "description": "Daily volume and value of JomPAY transactions.",
+  "data_source": [
+   "PayNet",
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/payments/trnsc_daily_jompay.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/payments/trnsc_daily_jompay.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Payments"
+ },
+ {
+  "id": "trnsc_daily_directdebit",
+  "title": "Daily DirectDebit Transactions",
+  "data_as_of": "2026-09-01 23:59",
+  "description": "Daily volume and value of DirectDebit transactions.",
+  "data_source": [
+   "PayNet",
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/payments/trnsc_daily_directdebit.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/payments/trnsc_daily_directdebit.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Payments"
+ },
+ {
+  "id": "payment_instruments",
+  "title": "Monthly Usage of Payment Instruments",
+  "data_as_of": "2026-06",
+  "description": "Monthly volume and value of transactions, disaggregated by payment instrument.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/payments/instruments.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/payments/instruments.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Payments"
+ },
+ {
+  "id": "payment_channels",
+  "title": "Monthly Usage of Payment Channels",
+  "data_as_of": "2026-06",
+  "description": "Monthly volume and value of transactions, disaggregated by payment channel.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/payments/channels.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/payments/channels.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Payments"
+ },
+ {
+  "id": "payment_systems",
+  "title": "Monthly Usage of Payment Systems",
+  "data_as_of": "2026-06",
+  "description": "Monthly volume and value of transactions, disaggregated by payment system.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/payments/systems.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/payments/systems.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Payments"
+ },
+ {
+  "id": "exchangerates_daily_0900",
+  "title": "Daily Exchange Rates (0900)",
+  "data_as_of": "2026-09-09 09:00",
+  "description": "Daily rates of exchange of the Malaysian ringgit vis-à-vis selected currencies at 0900, acting as a start-of-day reference. The table and charts provide a preview using the latest 1 year of data, but you may download the full dataset containing daily rates since 2003.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/exr/daily_0900.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/exr/daily_0900.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Foreign Exchange"
+ },
+ {
+  "id": "exchangerates_daily_1130",
+  "title": "Daily Exchange Rates (1130)",
+  "data_as_of": "2026-09-09 11:30",
+  "description": "Daily rates of exchange of the Malaysian ringgit vis-à-vis selected currencies at 1130, which are the best counter rates offered by selected commercial banks. The table and charts provide a preview using the latest 1 year of data, but you may download the full dataset containing daily rates since 2003.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/exr/daily_1130.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/exr/daily_1130.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Foreign Exchange"
+ },
+ {
+  "id": "exchangerates_daily_1200",
+  "title": "Daily Exchange Rates (1200)",
+  "data_as_of": "2026-09-09 12:00",
+  "description": "Daily rates of exchange of the Malaysian ringgit vis-à-vis selected currencies at 1200, acting as a mid-day reference. The table and charts provide a preview using the latest 1 year of data, but you may download the full dataset containing daily rates since 2003.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/exr/daily_1200.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/exr/daily_1200.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Foreign Exchange"
+ },
+ {
+  "id": "exchangerates_daily_1700",
+  "title": "Daily Exchange Rates (1700)",
+  "data_as_of": "2026-09-08 17:00",
+  "description": "Daily rates of exchange of the Malaysian ringgit vis-à-vis selected currencies at 1700, acting as a end-of-day reference. The table and charts provide a preview using the latest 1 year of data, but you may download the full dataset containing daily rates since 2003.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/exr/daily_1700.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/exr/daily_1700.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Foreign Exchange"
+ },
+ {
+  "id": "exchangerates",
+  "title": "Monthly Exchange Rates",
+  "data_as_of": "2026-04-30 12:00",
+  "description": "Monthly rates of exchange of the Malaysian ringgit vis-à-vis selected currencies.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/exr/monthly.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/exr/monthly.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Financial Markets",
+  "subcategory": "Foreign Exchange"
+ },
+ {
+  "id": "cpi_annual",
+  "title": "Annual CPI by Division (2-digit)",
+  "data_as_of": "2025",
+  "description": "National-level CPI for 13 main groups of goods and services, from 1960 to the present day.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d_annual.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d_annual.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_annual_inflation",
+  "title": "Annual CPI Inflation by Division (2-digit)",
+  "data_as_of": "2025",
+  "description": "National-level CPI inflation for 13 main groups of goods and services, from 1961 to the present.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d_annual_inflation.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d_annual_inflation.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_headline",
+  "title": "Monthly CPI by Division (2-digit)",
+  "data_as_of": "2026-07",
+  "description": "National-level CPI for 13 main groups of goods and services.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_headline_inflation",
+  "title": "Monthly CPI Inflation by Division (2-digit)",
+  "data_as_of": "2026-07",
+  "description": "National-level CPI inflation for 13 main groups of goods and services",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d_inflation.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d_inflation.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_core",
+  "title": "Monthly Core CPI by Division (2-digit)",
+  "data_as_of": "2026-07",
+  "description": "National-level core CPI for 13 main groups of goods and services.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d_core.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d_core.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_core_inflation",
+  "title": "Monthly Core CPI Inflation by Division (2-digit)",
+  "data_as_of": "2026-07",
+  "description": "National-level core CPI inflation for 13 main groups of goods and services.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d_core_inflation.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d_core_inflation.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_state",
+  "title": "Monthly CPI by State & Division (2-digit)",
+  "data_as_of": "2026-07",
+  "description": "State-level CPI for 13 main groups of goods and services.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d_state.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_state_inflation",
+  "title": "Monthly CPI Inflation by State & Division (2-digit)",
+  "data_as_of": "2026-07",
+  "description": "State-level CPI inflation for 13 main groups of goods and services",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d_state_inflation.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d_state_inflation.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_3d",
+  "title": "Monthly CPI by Group (3-digit)",
+  "data_as_of": "2026-07",
+  "description": "National-level CPI at group granularity. The table below provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_3d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_3d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_4d",
+  "title": "Monthly CPI by Class (4-digit)",
+  "data_as_of": "2026-07",
+  "description": "National-level CPI at class granularity. The table below provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_4d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_4d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_5d",
+  "title": "Monthly CPI by Subclass (5-digit)",
+  "data_as_of": "2026-07",
+  "description": "National-level CPI at subclass granularity. The table below provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_5d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_5d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_strata",
+  "title": "Monthly CPI by Strata & Division (2-digit)",
+  "data_as_of": "2026-07",
+  "description": "CPI by strata (urban/rural) for 13 main groups of goods and services.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d_strata.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d_strata.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "cpi_lowincome",
+  "title": "Monthly CPI for Low-Income Households",
+  "data_as_of": "2026-07",
+  "description": "National-level CPI for low-income households (< RM3000 per month) across 13 main groups of goods and services.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/cpi/cpi_2d_lowincome.parquet",
+  "link_csv": "https://storage.dosm.gov.my/cpi/cpi_2d_lowincome.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "pricecatcher",
+  "title": "PriceCatcher: Transactional Records",
+  "data_as_of": "2026-09-08 23:59",
+  "description": "The table below provides a preview of the full dataset, which contains over a million price records per month. We recommend that you download and work with the data in your preferred coding environment - Microsoft Excel will likely be insufficient due to the size of the dataset. This data should be used in conjuction with the Item Lookup and Premise Lookup tables.",
+  "data_source": [
+   "KPDN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/pricecatcher/pricecatcher_YYYY-MM-DD.parquet",
+  "link_csv": "https://storage.data.gov.my/pricecatcher/pricecatcher_YYYY-MM-DD.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": [
+   "2026-09",
+   "2026-08",
+   "2026-07",
+   "2026-06",
+   "2026-05",
+   "2026-04",
+   "2026-03",
+   "2026-02",
+   "2026-01",
+   "2025-12",
+   "2025-11",
+   "2025-10",
+   "2025-09",
+   "2025-08",
+   "2025-07",
+   "2025-06",
+   "2025-05",
+   "2025-04",
+   "2025-03",
+   "2025-02",
+   "2025-01",
+   "2024-12",
+   "2024-11",
+   "2024-10",
+   "2024-09",
+   "2024-08",
+   "2024-07",
+   "2024-06",
+   "2024-05",
+   "2024-04",
+   "2024-03",
+   "2024-02",
+   "2024-01",
+   "2023-12",
+   "2023-11",
+   "2023-10",
+   "2023-09",
+   "2023-08",
+   "2023-07",
+   "2023-06",
+   "2023-05",
+   "2023-04",
+   "2023-03",
+   "2023-02",
+   "2023-01",
+   "2022-12",
+   "2022-11",
+   "2022-10",
+   "2022-09",
+   "2022-08",
+   "2022-07",
+   "2022-06",
+   "2022-05",
+   "2022-04",
+   "2022-03",
+   "2022-02",
+   "2022-01"
+  ],
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "lookup_premise",
+  "title": "PriceCatcher: Premise Lookup",
+  "data_as_of": "2026-09-07 23:59",
+  "description": "Lookup table, to be left-joined against premise code in the main PriceCatcher data.",
+  "data_source": [
+   "KPDN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/pricecatcher/lookup_premise.parquet",
+  "link_csv": "https://storage.data.gov.my/pricecatcher/lookup_premise.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "lookup_item",
+  "title": "PriceCatcher: Item Lookup",
+  "data_as_of": "2023-11-09 23:59",
+  "description": "Lookup table, to be left-joined against item code in the main PriceCatcher data.",
+  "data_source": [
+   "KPDN",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/pricecatcher/lookup_item.parquet",
+  "link_csv": "https://storage.data.gov.my/pricecatcher/lookup_item.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Consumer Prices"
+ },
+ {
+  "id": "ppi",
+  "title": "Monthly Producer Price Index (PPI)",
+  "data_as_of": "2026-07",
+  "description": "Monthly headline producer price index (PPI), with and without seasonal adjustment.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/ppi.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/ppi.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "ppi_1d",
+  "title": "Monthly PPI by Section (1 digit)",
+  "data_as_of": "2026-07",
+  "description": "Monthly producer price index (PPI) by MSIC section (1 digit), with and without seasonal adjustment.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/ppi_1d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/ppi_1d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "ppi_2d",
+  "title": "Monthly PPI by Division (2 digit)",
+  "data_as_of": "2026-07",
+  "description": "Monthly producer price index (PPI) by MSIC division (2 digit). The table provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/ppi_2d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/ppi_2d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "ppi_3d",
+  "title": "Monthly PPI by Group (3 digit)",
+  "data_as_of": "2026-07",
+  "description": "Monthly producer price index (PPI) by MSIC group (3 digit). The table provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/ppi_3d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/ppi_3d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "ppi_sitc",
+  "title": "Monthly PPI by SITC Section (1 digit)",
+  "data_as_of": "2026-07",
+  "description": "Monthly producer price index (PPI) by SITC section (1 digit).",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/ppi_sitc.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/ppi_sitc.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "ppi_sop",
+  "title": "Monthly PPI by Stage of Processing",
+  "data_as_of": "2026-07",
+  "description": "Monthly producer price index (PPI) by stage of processing, per the SITC classification.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/ppi_sop.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/ppi_sop.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "sppi",
+  "title": "Headline Services Producer Price Index (SPPI)",
+  "data_as_of": "2026-Q1",
+  "description": "Headline services producer price index (SPPI), covering 8 key services sub-sectors.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/sppi.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/sppi.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "sppi_1d",
+  "title": "SPPI by Section (1 digit)",
+  "data_as_of": "2026-Q1",
+  "description": "Services producer price index (SPPI) by MSIC section (1 digit).",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/sppi_1d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/sppi_1d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "sppi_2d",
+  "title": "SPPI by Division (2 digits)",
+  "data_as_of": "2026-Q1",
+  "description": "Services producer price index (SPPI) by MSIC division (2 digits).",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/sppi_2d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/sppi_2d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "sppi_3d",
+  "title": "SPPI by Group (3 digits)",
+  "data_as_of": "2026-Q1",
+  "description": "Services producer price index (SPPI) by MSIC group (3 digits). The table provides a preview of the full dataset using the most recent 4 quarters of data.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ppi/sppi_3d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ppi/sppi_3d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Producer Prices"
+ },
+ {
+  "id": "fuelprice",
+  "title": "Price of Petroleum & Diesel",
+  "data_as_of": "2026-09-03 00:01",
+  "description": "Weekly retail prices of RON95 petrol, RON97 petrol, and diesel in Malaysia.",
+  "data_source": [
+   "MOF"
+  ],
+  "link_parquet": "https://storage.data.gov.my/commodities/fuelprice.parquet",
+  "link_csv": "https://storage.data.gov.my/commodities/fuelprice.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Prices",
+  "subcategory": "Commodity Prices"
+ },
+ {
+  "id": "federal_finance_qtr",
+  "title": "Quarterly Federal Government Finance",
+  "data_as_of": "2024-Q1",
+  "description": "Quarterly revenue, operating and development expenditure, overall surplus/deficit, and sources of financing for the Federal Government of Malaysia.",
+  "data_source": [
+   "JANM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_qtr.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_qtr.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "federal_finance_qtr_revenue",
+  "title": "Quarterly Federal Government Revenue",
+  "data_as_of": "2024-Q1",
+  "description": "Quarterly Federal Government revenue from direct taxes, indirect taxes, non-tax sources, as well as non-revenue receipts.",
+  "data_source": [
+   "JANM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_revenue.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_revenue.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "federal_finance_qtr_oe",
+  "title": "Quarterly Federal Government Operating Expenditure by Object",
+  "data_as_of": "2024-Q1",
+  "description": "Breakdown of quarterly Federal Government operating expenditure into key categories.",
+  "data_source": [
+   "JANM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_oe.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_oe.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "federal_finance_qtr_de",
+  "title": "Quarterly Federal Government Development Expenditure by Function",
+  "data_as_of": "2024-Q1",
+  "description": "Breakdown of quarterly Federal Government development expenditure by key sectors describing the area of impact of development projects.",
+  "data_source": [
+   "JANM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_de.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_qtr_de.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "federal_finance_year",
+  "title": "Annual Federal Government Finance",
+  "data_as_of": "2023",
+  "description": "Annual revenue, operating and development expenditure, overall surplus/deficit, and sources of financing for the Federal Government of Malaysia.",
+  "data_source": [
+   "JANM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_year.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_year.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "federal_finance_year_revenue",
+  "title": "Annual Federal Government Revenue",
+  "data_as_of": "2023",
+  "description": "Annual Federal Government revenue from direct taxes, indirect taxes, non-tax sources, as well as non-revenue receipts.",
+  "data_source": [
+   "JANM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_year_revenue.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_year_revenue.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "federal_finance_year_oe",
+  "title": "Annual Federal Government Operating Expenditure by Object",
+  "data_as_of": "2023",
+  "description": "Breakdown of annual Federal Government operating expenditure into key categories.",
+  "data_source": [
+   "JANM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_year_oe.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_year_oe.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "federal_finance_year_de",
+  "title": "Annual Federal Government Development Expenditure by Function",
+  "data_as_of": "2023",
+  "description": "Breakdown of annual Federal Government development expenditure by key sectors describing the area of impact of development projects.",
+  "data_source": [
+   "JANM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_year_de.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_year_de.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "state_finance_expenditure",
+  "title": "State Government Expenditure",
+  "data_as_of": "2022",
+  "description": "Annual data on state government expenditure across various categories, including development expenditure (DE) and operating expenditure (OE).",
+  "data_source": [
+   "AUDIT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/state_finance_expenditure.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/state_finance_expenditure.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "state_finance_revenue",
+  "title": "State Government Revenue",
+  "data_as_of": "2022",
+  "description": "Annual data on state government revenue by source, covering tax, non-tax, and non-revenue receipts.",
+  "data_source": [
+   "AUDIT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/state_finance_revenue.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/state_finance_revenue.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "federal_budget_moe",
+  "title": "Annual Budget Allocation for the Ministry of Education",
+  "data_as_of": "2022",
+  "description": "Annual federal budget allocated to the Ministry of Education (B/P.63) with a breakdown by expenditure categories, including development expenditure (DE) and operating expenditure (OE).",
+  "data_source": [
+   "MOF"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/budget_allocation_moe.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/budget_allocation_moe.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "federal_budget_moh",
+  "title": "Annual Budget Allocation for the Ministry of Health",
+  "data_as_of": "2022",
+  "description": "Annual federal budget allocated to the Ministry of Health (B/P.42) with a breakdown by expenditure categories, including development expenditure (DE) and operating expenditure (OE).",
+  "data_source": [
+   "MOF"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/budget_allocation_moh.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/budget_allocation_moh.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Finance"
+ },
+ {
+  "id": "parliament_sex",
+  "title": "Female Representation in Parliament",
+  "data_as_of": "2022",
+  "description": "Proportion of women and men in Malaysian Parliament, covering both the House of Representatives (Dewan Rakyat) and the Senate (Dewan Negara).",
+  "data_source": [
+   "Parlimen"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/parliament_sex.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/parliament_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Service"
+ },
+ {
+  "id": "local_authority_sex",
+  "title": "Female Representation in Local Authorities",
+  "data_as_of": "2022",
+  "description": "Proportion of women and men in Malaysian local authorities.",
+  "data_source": [
+   "KPKT"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/local_authority_sex.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/local_authority_sex.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Public Service"
+ },
+ {
+  "id": "government_apps",
+  "title": "Transactional Data: Official Government Mobile Applications",
+  "data_as_of": "2026-04-21 23:59",
+  "description": "List of official government mobile applications registered with GAMMA, including their names, platforms, date of publication and purpose.",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/government_apps.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/government_apps.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Digital Services"
+ },
+ {
+  "id": "government_apps_reviews",
+  "title": "Transactional Data: User Reviews of Government Mobile Applications",
+  "data_as_of": "2026-04-21 23:59",
+  "description": "Transactional data on the user reviews of government mobile applications",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/government_apps_reviews.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/government_apps_reviews.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Digital Services"
+ },
+ {
+  "id": "government_apps_active",
+  "title": "Number of Active Government Mobile Applications",
+  "data_as_of": "2026-04-21 23:59",
+  "description": "Monthly data on the number of active government mobile applications, including data on the number of apps published and shut down.",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/government_apps_active.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/government_apps_active.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Digital Services"
+ },
+ {
+  "id": "government_apps_downloads",
+  "title": "Downloads of Government Mobile Applications",
+  "data_as_of": "2026-04-21 23:59",
+  "description": "Download statistics for official government mobile applications across different platforms (Android, Huawei, iOS), including platform-specific counts.",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/government_apps_downloads.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/government_apps_downloads.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Digital Services"
+ },
+ {
+  "id": "domains",
+  "title": "Number of Registered .MY Domains",
+  "data_as_of": "2025-01",
+  "description": "Number of .MY domains registered with MYNIC Berhad.",
+  "data_source": [
+   "MYNIC",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/domains.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/domains.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Digital Infrastructure"
+ },
+ {
+  "id": "domains_ipv6",
+  "title": "Number of Registered .MY Domains with IPv6 DNS",
+  "data_as_of": "2025-01",
+  "description": "Number of .MY domains with IPv6 DNS registered with MYNIC Berhad.",
+  "data_source": [
+   "MYNIC",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/domains_ipv6.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/domains_ipv6.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Digital Infrastructure"
+ },
+ {
+  "id": "domains_dnssec",
+  "title": "Number of Registered .MY Domains with DNSSEC",
+  "data_as_of": "2025-01",
+  "description": "Number of .MY domains with DNSSEC registered with MYNIC Berhad.",
+  "data_source": [
+   "MYNIC",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/domains_dnssec.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/domains_dnssec.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Digital Infrastructure"
+ },
+ {
+  "id": "domains_idn",
+  "title": "Number of Registered Internationalised .MY Domains",
+  "data_as_of": "2025-01",
+  "description": "Number of internationalised .MY domains registered with MYNIC Berhad.",
+  "data_source": [
+   "MYNIC",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/domains_idn.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/domains_idn.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Public Administration",
+  "subcategory": "Digital Infrastructure"
+ },
+ {
+  "id": "iowrt",
+  "title": "Headline Wholesale & Retail Trade",
+  "data_as_of": "2026-06",
+  "description": "Overall performance of the wholesale & retail trade subsectors, covering sales value and volume.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/iowrt/iowrt.parquet",
+  "link_csv": "https://storage.dosm.gov.my/iowrt/iowrt.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Services"
+ },
+ {
+  "id": "iowrt_2d",
+  "title": "Wholesale & Retail Trade by Division (2 digit)",
+  "data_as_of": "2026-06",
+  "description": "Performance of the wholesale & retail trade subsectors by MSIC division (2 digit), covering sales value and volume.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/iowrt/iowrt_2d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/iowrt/iowrt_2d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Services"
+ },
+ {
+  "id": "iowrt_3d",
+  "title": "Wholesale & Retail Trade by Group (3 digit)",
+  "data_as_of": "2026-06",
+  "description": "Performance of the wholesale & retail trade subsectors by MSIC group (3 digit), covering sales value and volume. The table provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/iowrt/iowrt_3d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/iowrt/iowrt_3d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Services"
+ },
+ {
+  "id": "ipi",
+  "title": "Industrial Production Index (IPI)",
+  "data_as_of": "2026-05",
+  "description": "Real output of the three main industrial sectors, namely mining, manufacturing and electricity.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ipi/ipi.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ipi/ipi.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Manufacturing"
+ },
+ {
+  "id": "ipi_1d",
+  "title": "IPI by Section (1 digit)",
+  "data_as_of": "2026-05",
+  "description": "Real output of the three main industrial sectors by MSIC section (1 digit).",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ipi/ipi_1d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ipi/ipi_1d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Manufacturing"
+ },
+ {
+  "id": "ipi_2d",
+  "title": "IPI by Division (2 digit)",
+  "data_as_of": "2026-05",
+  "description": "Real output of the three main industrial sectors by MSIC division (2 digit). The table provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ipi/ipi_2d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ipi/ipi_2d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Manufacturing"
+ },
+ {
+  "id": "ipi_3d",
+  "title": "IPI by Group (3 digit)",
+  "data_as_of": "2026-05",
+  "description": "Real output of the three main industrial sectors by MSIC group (3 digit). The table provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ipi/ipi_3d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ipi/ipi_3d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Manufacturing"
+ },
+ {
+  "id": "ipi_5d",
+  "title": "IPI by Item (5 digit)",
+  "data_as_of": "2026-05",
+  "description": "Real output of the three main industrial sectors by MSIC item (5 digit). The table provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ipi/ipi_5d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ipi/ipi_5d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Manufacturing"
+ },
+ {
+  "id": "ipi_export",
+  "title": "IPI for Export-Oriented Divisions (2 digit)",
+  "data_as_of": "2026-05",
+  "description": "Real output of the three main industrial sectors for specific MSIC divisions (2 digit) which are critical for Malaysia's export performance. The table provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ipi/ipi_export.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ipi/ipi_export.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Manufacturing"
+ },
+ {
+  "id": "ipi_domestic",
+  "title": "IPI for Domestic-Oriented Divisions (2 digit)",
+  "data_as_of": "2026-05",
+  "description": "Real output of the three main industrial sectors for specific MSIC divisions (2 digit) which are critical for Malaysia's domestic economic performance. The table provides a preview of the full dataset using the latest month of data only.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/ipi/ipi_domestic.parquet",
+  "link_csv": "https://storage.dosm.gov.my/ipi/ipi_domestic.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Manufacturing"
+ },
+ {
+  "id": "crops_state",
+  "title": "Crop Area and Production by State",
+  "data_as_of": "2022",
+  "description": "Production and planted area of crops by state from 2017 to 2022, broken down by crop type.",
+  "data_source": [
+   "MAFS",
+   "DOA",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/agriculture/crops_state.parquet",
+  "link_csv": "https://storage.data.gov.my/agriculture/crops_state.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Agriculture"
+ },
+ {
+  "id": "crops_district_area",
+  "title": "Crop Area by District",
+  "data_as_of": "2022",
+  "description": "Planted area of crops by district, broken down by crop type and species. The table shows a preview of the dataset using the first 100 rows only, as the full dataset is over 10,000 rows in size.",
+  "data_source": [
+   "MAFS",
+   "DOA",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/agriculture/crops_district_area.parquet",
+  "link_csv": "https://storage.data.gov.my/agriculture/crops_district_area.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Agriculture"
+ },
+ {
+  "id": "crops_district_production",
+  "title": "Crop Production by District",
+  "data_as_of": "2022",
+  "description": "Production of crops by district, broken down by crop type and species. The table shows a preview of the dataset using the first 100 rows only, as the full dataset is over 10,000 rows in size.",
+  "data_source": [
+   "MAFS",
+   "DOA",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/agriculture/crops_district_production.parquet",
+  "link_csv": "https://storage.data.gov.my/agriculture/crops_district_production.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Agriculture"
+ },
+ {
+  "id": "timber_production",
+  "title": "Production of Major Timber Products by State",
+  "data_as_of": "2021",
+  "description": "Production of major timber products by state from 2000 to 2021, broken down by product type.",
+  "data_source": [
+   "Perhutanan",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/agriculture/timber_products.parquet",
+  "link_csv": "https://storage.data.gov.my/agriculture/timber_products.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Agriculture"
+ },
+ {
+  "id": "fish_landings",
+  "title": "Monthly Landings of Marine Fish by State",
+  "data_as_of": "2023-12",
+  "description": "Monthly landings of marine fish by state and coast from 2018 to 2023.",
+  "data_source": [
+   "Perikanan"
+  ],
+  "link_parquet": "https://storage.data.gov.my/agriculture/fish_landings.parquet",
+  "link_csv": "https://storage.data.gov.my/agriculture/fish_landings.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Agriculture"
+ },
+ {
+  "id": "mineral_extraction",
+  "title": "Extraction of Minerals by State and Commodity",
+  "data_as_of": "2021",
+  "description": "Annual extraction of mineral commodities by state from 2016 to 2021.",
+  "data_source": [
+   "JMG",
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/mining/mineral_extraction.parquet",
+  "link_csv": "https://storage.data.gov.my/mining/mineral_extraction.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "Mining & Quarrying"
+ },
+ {
+  "id": "trade_headline",
+  "title": "Headline Monthly Trade in Goods",
+  "data_as_of": "2026-07",
+  "description": "Monthly exports, imports, total trade, and trade balance statistics for Malaysia.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/trade/trade_headline.parquet",
+  "link_csv": "https://storage.dosm.gov.my/trade/trade_headline.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "External Trade"
+ },
+ {
+  "id": "trade_sitc_1d",
+  "title": "Monthly Trade by SITC Section (1 digit)",
+  "data_as_of": "2026-07",
+  "description": "Monthly exports and imports by SITC commodity sections.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/trade/trade_sitc_1d.parquet",
+  "link_csv": "https://storage.dosm.gov.my/trade/trade_sitc_1d.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "External Trade"
+ },
+ {
+  "id": "trade_enduse_bec",
+  "title": "Monthly Retained Imports by End Use and BEC",
+  "data_as_of": "2026-07",
+  "description": "Monthly retained imports by end use and Broad Economic Categories (BEC).",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/trade/trade_enduse_bec.parquet",
+  "link_csv": "https://storage.dosm.gov.my/trade/trade_enduse_bec.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Economic Sectors",
+  "subcategory": "External Trade"
+ },
+ {
+  "id": "sdg_03-3-1",
+  "title": "SDG 03-3-1: HIV Incidence per 1,000 Uninfected Population",
+  "data_as_of": "2022",
+  "description": "Number of new HIV infections per 1,000 uninfected population by sex, as per the specifications of SDG Indicator 3-3-1.",
+  "data_source": [
+   "MOH"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/sdg/sdg_03-3-1.parquet",
+  "link_csv": "https://storage.dosm.gov.my/sdg/sdg_03-3-1.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Statistical Indicators",
+  "subcategory": "SDG Indicators"
+ },
+ {
+  "id": "sdg_04-6-1",
+  "title": "SDG 04-6-1: Proficiency in Functional Literacy and Numeracy",
+  "data_as_of": "2022",
+  "description": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional literacy and numeracy skills by state and sex, as per the specifications of SDG Indicator 4-6-1.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/sdg/sdg_04-6-1.parquet",
+  "link_csv": "https://storage.dosm.gov.my/sdg/sdg_04-6-1.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Statistical Indicators",
+  "subcategory": "SDG Indicators"
+ },
+ {
+  "id": "sdg_10-c-1",
+  "title": "SDG 10-C-1: Remittance Costs as a % of the Amount Remitted",
+  "data_as_of": "2022",
+  "description": "Annual data on remittance costs as a proportion of the amount remitted, as per the specifications of SDG Indicator 10-C-1.",
+  "data_source": [
+   "DOSM",
+   "BNM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/sdg/sdg_10-c-1.parquet",
+  "link_csv": "https://storage.dosm.gov.my/sdg/sdg_10-c-1.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Statistical Indicators",
+  "subcategory": "SDG Indicators"
+ },
+ {
+  "id": "sdg_16-1-1",
+  "title": "SDG 16-1-1: Victims of Intentional Homicide",
+  "data_as_of": "2022",
+  "description": "Number of victims of intentional homicide per 100,000 population by sex, as per the specifications of SDG Indicator 16-1-1.",
+  "data_source": [
+   "PDRM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/sdg/sdg_16-1-1.parquet",
+  "link_csv": "https://storage.dosm.gov.my/sdg/sdg_16-1-1.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Statistical Indicators",
+  "subcategory": "SDG Indicators"
+ },
+ {
+  "id": "sdg_16-2-2",
+  "title": "SDG 16-2-2: Victims of Human Trafficking",
+  "data_as_of": "2022",
+  "description": "Number of victims of human trafficking per 100,000 population by sex, age, and form of exploitation, as per the specifications of SDG Indicator 16-2-2.",
+  "data_source": [
+   "KDN"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/sdg/sdg_16-2-2.parquet",
+  "link_csv": "https://storage.dosm.gov.my/sdg/sdg_16-2-2.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Statistical Indicators",
+  "subcategory": "SDG Indicators"
+ },
+ {
+  "id": "economic_indicators",
+  "title": "Malaysian Economic Indicators",
+  "data_as_of": "2026-05",
+  "description": "Indices for the purpose of monitoring Malaysia's economic situation on a monthly basis, consisting of leading, lagging, and coincidence indicators.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/mei/mei.parquet",
+  "link_csv": "https://storage.dosm.gov.my/mei/mei.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Statistical Indicators",
+  "subcategory": "Economic Indicators"
+ },
+ {
+  "id": "currency_codes",
+  "title": "Currency Codes (ISO 4217)",
+  "data_as_of": "2025",
+  "description": "ISO 4127-compliant lookup for currency codes used on the site.",
+  "data_source": [
+   "JDN"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/exr/currency_codes.parquet",
+  "link_csv": "https://storage.dosm.gov.my/dictionaries/currency_codes.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "International"
+ },
+ {
+  "id": "msic",
+  "title": "MSIC",
+  "data_as_of": "2008",
+  "description": "This table provides a complete lookup for the MSIC (Malaysian Standard Industrial Classification) 2008, as applied and used in data publications in Malaysia. The MSIC is primarily used by the Department of Statistics Malaysia (DOSM), for the purpose of categorising economic data, such as during the production of GDP data.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/dictionaries/msic.parquet",
+  "link_csv": "https://storage.dosm.gov.my/dictionaries/msic.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "National"
+ },
+ {
+  "id": "poskod",
+  "title": "Postcode Dataset",
+  "data_as_of": "2026-06",
+  "description": "This dataset contains a list of postcodes in Malaysia, associated with their respective cities and states. Postcodes are a series of numbers (or letters) added to a mailing address to facilitate the sorting and delivery of mail by postal and courier services. Each postcode is assigned to a specific zone, area, or district, helping to ensure efficient mail delivery.",
+  "data_source": [
+   "MCMC"
+  ],
+  "link_parquet": "https://storage.data.gov.my/dictionaries/postcodes.parquet",
+  "link_csv": "https://storage.data.gov.my/dictionaries/postcodes.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "National"
+ },
+ {
+  "id": "mcoicop",
+  "title": "MCOICOP",
+  "data_as_of": "2018",
+  "description": "This table provides a complete lookup for 2, 3, 4, and 5-digit codes under Malaysia's COICOP (Classification of Individual Consumption According to Purpose), as applied and used in data publications in Malaysia. The MCOICOP is primarily used by the Department of Statistics Malaysia (DOSM), for instance when categorising and analysing consumer price inflation.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/dictionaries/mcoicop.parquet",
+  "link_csv": "https://storage.dosm.gov.my/dictionaries/mcoicop.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "National"
+ },
+ {
+  "id": "sitc",
+  "title": "SITC",
+  "data_as_of": "2006",
+  "description": "This table provides a partial lookup for codes under the Standard International Trade Classification (SITC) Revision 4, as applied and used by publications in Malaysia. The SITC is primarily used by the Department of Statistics Malaysia (DOSM), for instance when categorising and analysing external trade and commodity data.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/dictionaries/sitc.parquet",
+  "link_csv": "https://storage.dosm.gov.my/dictionaries/sitc.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "National"
+ },
+ {
+  "id": "sitc_sop",
+  "title": "SITC: Stage of Processing",
+  "data_as_of": "2006",
+  "description": "This table provides a complete lookup for the classification of stage of processing, as applied and used by publications in Malaysia, primarily by DOSM.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/dictionaries/sitc_sop.parquet",
+  "link_csv": "https://storage.dosm.gov.my/dictionaries/sitc_sop.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "National"
+ },
+ {
+  "id": "bec",
+  "title": "Broad Economic Categories (BEC)",
+  "data_as_of": "2026-03",
+  "description": "This table provides a lookup for codes under the Broad Economic Categories (BEC) classification, as applied and used by publications in Malaysia. The BEC is primarily used by the Department of Statistics Malaysia (DOSM), for instance when categorising and analysing imports by end-use.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/dictionaries/bec.parquet",
+  "link_csv": "https://storage.dosm.gov.my/dictionaries/bec.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "National"
+ },
+ {
+  "id": "lookup_federal_finance",
+  "title": "Lookup Table: Federal Finance",
+  "data_as_of": "2024-01",
+  "description": "Lookup table, to be left-joined against category and variable name in the other Federal Government Finance datasets if specified.",
+  "data_source": [
+   "JANM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/federal_finance_lookup.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/federal_finance_lookup.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "Internal"
+ },
+ {
+  "id": "lookup_money_banking",
+  "title": "Lookup Table: Money & Banking",
+  "data_as_of": "2024-01",
+  "description": "Lookup table, to be left-joined against variable name in the other Money and Banking datasets if specified.",
+  "data_source": [
+   "BNM"
+  ],
+  "link_parquet": "https://storage.data.gov.my/finsector/money_banking_lookup.parquet",
+  "link_csv": "https://storage.data.gov.my/finsector/money_banking_lookup.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "Internal"
+ },
+ {
+  "id": "almanak_astronomi",
+  "title": "Astronomy Almanac ",
+  "data_as_of": "2026-04-01 16:11:00.000 +08:00",
+  "description": "This dataset provides information on astronomical phenomena observable from Malaysia, including the phases of the Moon, the Moon's perigee and apogee, Earth's perihelion and aphelion, meteor showers, planetary elongations, the solstices, equinoxes, and other related astronomical events. The data are calculated using Kuala Lumpur as the reference location and Malaysia Time (MYT, UTC+8), based on internationally recognized astronomical sources. This almanac is intended to support astronomical observations, education, and the planning of astronomy-related activities.",
+  "data_source": [
+   "MYSA"
+  ],
+  "link_parquet": "https://storage.data.gov.my/publicadmin/alamanak_astronomi.parquet",
+  "link_csv": "https://storage.data.gov.my/publicadmin/alamanak_astronomi.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Data Dictionaries",
+  "subcategory": "Other"
+ },
+ {
+  "id": "usage_metrics",
+  "title": "Daily Usage Metrics for data.gov.my",
+  "data_as_of": "2026-09-08 23:59",
+  "description": "Total views, OpenAPI hits, and downloads for data.gov.my",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/metrics/metrics_agg.parquet",
+  "link_csv": "https://storage.data.gov.my/metrics/metrics_agg.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Metadata",
+  "subcategory": "Site Metrics"
+ },
+ {
+  "id": "usage_metrics_openapi",
+  "title": "Daily OpenAPI Hits by Endpoint",
+  "data_as_of": "2026-09-08 23:59",
+  "description": "Daily GET requests made to api.data.gov.my, disaggregated by endpoint.",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/metrics/metrics_openapi.parquet",
+  "link_csv": "https://storage.data.gov.my/metrics/metrics_openapi.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Metadata",
+  "subcategory": "Site Metrics"
+ },
+ {
+  "id": "usage_metrics_openapi_cumul",
+  "title": "Cumulative OpenAPI Hits by Endpoint",
+  "data_as_of": "2026-09-08 23:59",
+  "description": "Total GET requests made to api.data.gov.my, disaggregated by endpoint.",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/metrics/metrics_openapi_cumul.parquet",
+  "link_csv": "https://storage.data.gov.my/metrics/metrics_openapi_cumul.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Metadata",
+  "subcategory": "Site Metrics"
+ },
+ {
+  "id": "metrics_content",
+  "title": "Number of Datasets on data.gov.my",
+  "data_as_of": "2026-09-08 23:59",
+  "description": "Monthly and cumulative number of datasets published via the data catalogue",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/metrics/metrics_content.parquet",
+  "link_csv": "https://storage.data.gov.my/metrics/metrics_content.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Metadata",
+  "subcategory": "Site Metrics"
+ },
+ {
+  "id": "metrics_dataset_cumul",
+  "title": "Cumulative Views and Downloads by Dataset",
+  "data_as_of": "2026-09-08 23:59",
+  "description": "Total views and downloads of datasets on data.gov.my, disaggregated by dataset.",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/metrics/metrics_dataset_cumul.parquet",
+  "link_csv": "https://storage.data.gov.my/metrics/metrics_dataset_cumul.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Metadata",
+  "subcategory": "Site Metrics"
+ },
+ {
+  "id": "datasets",
+  "title": "List of Datasets on data.gov.my",
+  "data_as_of": "2026-09-08 23:59",
+  "description": "List of datasets published via the data catalogue",
+  "data_source": [
+   "JDN",
+   "KD"
+  ],
+  "link_parquet": "https://storage.data.gov.my/metrics/dataset_list.parquet",
+  "link_csv": "https://storage.data.gov.my/metrics/dataset_list.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Metadata",
+  "subcategory": "Site Content"
+ },
+ {
+  "id": "arc_dosm",
+  "title": "DOSM's Advance Release Calendar",
+  "data_as_of": "2026-09-09 08:00",
+  "description": "Release date and metadata for all DOSM's publications in 2026.",
+  "data_source": [
+   "DOSM"
+  ],
+  "link_parquet": "https://storage.dosm.gov.my/meta/arc.parquet",
+  "link_csv": "https://storage.dosm.gov.my/meta/arc.csv",
+  "size_parquet": null,
+  "size_csv": null,
+  "link_editions": null,
+  "category": "Metadata",
+  "subcategory": "Site Content"
+ }
+]

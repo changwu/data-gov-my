@@ -1,0 +1,60 @@
+{
+ "id": "enrolment_school_district",
+ "title": "Enrolment in Government Schools by District",
+ "description": "Number of students enrolled in primary, secondary, and post-secondary government schools at national, state, and district level.",
+ "data_as_of": "2025",
+ "last_updated": "2026-08-03 12:00",
+ "next_update": "—",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOE"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/education/enrolment_school_district.csv",
+ "link_parquet": "https://storage.data.gov.my/education/enrolment_school_district.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia for national-level data"
+  },
+  {
+   "name": "district",
+   "title": "District",
+   "description": "[Categorical] One of the administrative districts, or 'All Districts' for state-level data"
+  },
+  {
+   "name": "stage",
+   "title": "School Stage",
+   "description": "[Categorical] Either primary (Standards 1 to 6), secondary (Form 1 to 5), or post-secondary education (Form 6)"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes, male, or female"
+  },
+  {
+   "name": "students",
+   "title": "Number of Students",
+   "description": "[Integer] Number of students enrolled"
+  }
+ ],
+ "methodology": "This dataset is tabulated from individual-level administrative records maintained by the Ministry of Education Malaysia via the Education Management Information System (EMIS).",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "enrolment_school_district"
+ },
+ "query": {
+  "id": "enrolment_school_district"
+ },
+ "agency": "MOE",
+ "category": null
+}

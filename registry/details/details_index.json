@@ -1,0 +1,2322 @@
+{
+ "births": {
+  "title": "Daily Live Births",
+  "agency": "JPN",
+  "frequency": "DAILY",
+  "data_as_of": "2023-07-31 23:59",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:26"
+ },
+ "population_parlimen": {
+  "title": "Population Table: Parliamentary Constituencies",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-31 13:00",
+  "fetched_at": "2026-09-09 16:03:26"
+ },
+ "population_dun": {
+  "title": "Population Table: State Legislative Assemblies (DUNs)",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-31 13:00",
+  "fetched_at": "2026-09-09 16:03:26"
+ },
+ "population_state": {
+  "title": "Population Table: States",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2026",
+  "next_update": "2027-07-31 12:00",
+  "fetched_at": "2026-09-09 16:03:26"
+ },
+ "population_malaysia": {
+  "title": "Population Table: Malaysia",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2026",
+  "next_update": "2027-07-31 12:00",
+  "fetched_at": "2026-09-09 16:03:26"
+ },
+ "population_district": {
+  "title": "Population Table: Administrative Districts",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2026-10-31 12:00",
+  "fetched_at": "2026-09-09 16:03:26"
+ },
+ "births_annual": {
+  "title": "Annual Live Births",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:27"
+ },
+ "births_annual_state": {
+  "title": "Annual Live Births by State",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:27"
+ },
+ "births_annual_sex_ethnic": {
+  "title": "Annual Live Births by Sex & Ethnicity",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:27"
+ },
+ "births_annual_sex_ethnic_state": {
+  "title": "Annual Live Births by State, Sex, & Ethnicity",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:27"
+ },
+ "births_district_sex": {
+  "title": "Annual Live Births by District & Sex",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-16 12:30",
+  "fetched_at": "2026-09-09 16:03:27"
+ },
+ "stillbirths": {
+  "title": "Annual Stillbirths",
+  "agency": "MOH,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:27"
+ },
+ "stillbirths_state": {
+  "title": "Annual Stillbirths by State",
+  "agency": "MOH,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:27"
+ },
+ "deaths": {
+  "title": "Annual Deaths",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:27"
+ },
+ "deaths_sex_ethnic": {
+  "title": "Annual Deaths by Sex & Ethnicity",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:27"
+ },
+ "deaths_sex_ethnic_state": {
+  "title": "Annual Deaths by State, Sex, & Ethnicity",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:28"
+ },
+ "deaths_state": {
+  "title": "Annual Deaths by State",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:28"
+ },
+ "deaths_district_sex": {
+  "title": "Annual Deaths by District & Sex",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:28"
+ },
+ "deaths_early_childhood_sex": {
+  "title": "Annual Early Childhood Deaths by Sex",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:28"
+ },
+ "deaths_early_childhood": {
+  "title": "Annual Early Childhood Deaths",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:28"
+ },
+ "deaths_early_childhood_state": {
+  "title": "Annual Early Childhood Deaths by State",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:28"
+ },
+ "deaths_early_childhood_state_sex": {
+  "title": "Annual Early Childhood Deaths by State & Sex",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:28"
+ },
+ "deaths_maternal": {
+  "title": "Annual Maternal Deaths",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:28"
+ },
+ "deaths_maternal_state": {
+  "title": "Annual Maternal Deaths by State",
+  "agency": "JPN,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:29"
+ },
+ "marriages_age": {
+  "title": "Annual Marriage by Age Group",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "2024-11-21 12:00",
+  "fetched_at": "2026-09-09 16:03:29"
+ },
+ "marriages": {
+  "title": "Annual Marriages",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "2024-11-21 12:00",
+  "fetched_at": "2026-09-09 16:03:29"
+ },
+ "marriages_state_age": {
+  "title": "Annual Marriage by State & Age Group",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "2024-11-21 12:00",
+  "fetched_at": "2026-09-09 16:03:29"
+ },
+ "marriages_state": {
+  "title": "Annual Marriages by State",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "2024-11-21 12:00",
+  "fetched_at": "2026-09-09 16:03:29"
+ },
+ "fertility": {
+  "title": "TFR and ASFR",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:29"
+ },
+ "fertility_state": {
+  "title": "TFR and ASFR by State",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-10-15 12:30",
+  "fetched_at": "2026-09-09 16:03:29"
+ },
+ "hh_profile": {
+  "title": "Number of Households and Living Quarters",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2025-07-31 12:00",
+  "fetched_at": "2026-09-09 16:03:29"
+ },
+ "arrivals": {
+  "title": "Monthly Arrivals by Nationality & Sex",
+  "agency": "Imigresen",
+  "frequency": "MONTHLY",
+  "data_as_of": "2024-10-31 23:59",
+  "next_update": "2024-12-25 16:00",
+  "fetched_at": "2026-09-09 16:03:30"
+ },
+ "passports": {
+  "title": "Monthly Passport Issuances by State and Branch",
+  "agency": "Imigresen",
+  "frequency": "MONTHLY",
+  "data_as_of": "2024-10-31 23:59",
+  "next_update": "2024-12-25 16:00",
+  "fetched_at": "2026-09-09 16:03:30"
+ },
+ "arrivals_soe": {
+  "title": "Monthly Arrivals by State of Entry, Nationality & Sex",
+  "agency": "Imigresen",
+  "frequency": "MONTHLY",
+  "data_as_of": "2024-10-31 23:59",
+  "next_update": "2024-12-25 16:00",
+  "fetched_at": "2026-09-09 16:03:30"
+ },
+ "hh_profile_state": {
+  "title": "Number of Households and Living Quarters by State",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2025-07-31 12:00",
+  "fetched_at": "2026-09-09 16:03:30"
+ },
+ "hh_income": {
+  "title": "Household Income",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:30"
+ },
+ "hh_income_state": {
+  "title": "Household Income by State",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:30"
+ },
+ "hies_malaysia_percentile": {
+  "title": "Household Income by Percentile",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "TBC",
+  "fetched_at": "2026-09-09 16:03:30"
+ },
+ "hies_state_percentile": {
+  "title": "Household Income by State & Percentile",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "TBC",
+  "fetched_at": "2026-09-09 16:03:30"
+ },
+ "hh_income_district": {
+  "title": "Household Income by Administrative District",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:30"
+ },
+ "hh_income_parlimen": {
+  "title": "Household Income by Parliament",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:31"
+ },
+ "hh_income_dun": {
+  "title": "Household Income by DUN",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:31"
+ },
+ "hh_poverty": {
+  "title": "Poverty",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:31"
+ },
+ "hh_poverty_state": {
+  "title": "Poverty by State",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:31"
+ },
+ "hh_poverty_district": {
+  "title": "Poverty by Administrative District",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:31"
+ },
+ "hh_poverty_dun": {
+  "title": "Poverty by DUN",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:31"
+ },
+ "hh_inequality": {
+  "title": "Income Inequality",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:31"
+ },
+ "hh_inequality_state": {
+  "title": "Income Inequality by State",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:31"
+ },
+ "hh_inequality_district": {
+  "title": "Income Inequality by District",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:32"
+ },
+ "hh_inequality_parlimen": {
+  "title": "Income Inequality by Parliament",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:32"
+ },
+ "hies_state": {
+  "title": "Household Income and Expenditure: States",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:32"
+ },
+ "hh_inequality_dun": {
+  "title": "Income Inequality by DUN",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:32"
+ },
+ "hh_poverty_parlimen": {
+  "title": "Poverty by Parliament",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:32"
+ },
+ "hies_district": {
+  "title": "Household Income and Expenditure: Administrative Districts",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:32"
+ },
+ "hh_expenditure_parlimen": {
+  "title": "Household Expenditure by Parliament",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:32"
+ },
+ "hh_expenditure_dun": {
+  "title": "Household Expenditure by DUN",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:32"
+ },
+ "hh_access_amenities": {
+  "title": "Access to Basic Amenities by State & District",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:32"
+ },
+ "gdp_gni_annual_nominal": {
+  "title": "Annual Nominal GDP & GNI: 1947 to Present",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-02-12 12:00",
+  "fetched_at": "2026-09-09 16:03:33"
+ },
+ "gdp_gni_annual_real": {
+  "title": "Annual Real GDP & GNI: 1970 to Present",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-02-12 12:00",
+  "fetched_at": "2026-09-09 16:03:33"
+ },
+ "gdp_annual_nominal_supply": {
+  "title": "Annual Nominal GDP by Economic Sector",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-05-31 12:30",
+  "fetched_at": "2026-09-09 16:03:33"
+ },
+ "gdp_annual_nominal_supply_granular": {
+  "title": "Annual Nominal GDP by Economic Subsector",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-05-31 12:30",
+  "fetched_at": "2026-09-09 16:03:33"
+ },
+ "gdp_annual_nominal_demand": {
+  "title": "Annual Nominal GDP by Expenditure Type",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-05-31 12:30",
+  "fetched_at": "2026-09-09 16:03:33"
+ },
+ "gdp_annual_nominal_demand_granular": {
+  "title": "Annual Nominal GDP by Expenditure Subtype",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-05-31 12:30",
+  "fetched_at": "2026-09-09 16:03:33"
+ },
+ "gdp_annual_real_supply": {
+  "title": "Annual Real GDP by Economic Sector",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-05-31 12:30",
+  "fetched_at": "2026-09-09 16:03:33"
+ },
+ "gdp_annual_nominal_income": {
+  "title": "Annual Nominal GDP by Income Component",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2027-07-31 12:30",
+  "fetched_at": "2026-09-09 16:03:34"
+ },
+ "gdp_annual_real_demand": {
+  "title": "Annual Real GDP by Expenditure Type",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-05-31 12:30",
+  "fetched_at": "2026-09-09 16:03:34"
+ },
+ "gdp_annual_real_supply_granular": {
+  "title": "Annual Real GDP by Economic Subsector",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-05-31 12:30",
+  "fetched_at": "2026-09-09 16:03:34"
+ },
+ "gdp_qtr_nominal": {
+  "title": "Quarterly Nominal GDP",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:34"
+ },
+ "gdp_annual_real_demand_granular": {
+  "title": "Annual Real GDP by Expenditure Subtype",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-05-31 12:30",
+  "fetched_at": "2026-09-09 16:03:34"
+ },
+ "gdp_qtr_nominal_supply": {
+  "title": "Quarterly Nominal GDP by Economic Sector",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:34"
+ },
+ "gdp_qtr_nominal_supply_granular": {
+  "title": "Quarterly Nominal GDP by Economic Subsector",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:34"
+ },
+ "gdp_qtr_nominal_demand": {
+  "title": "Quarterly Nominal GDP by Expenditure Type",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:35"
+ },
+ "gdp_qtr_nominal_demand_granular": {
+  "title": "Quarterly Nominal GDP by Expenditure Subtype",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:35"
+ },
+ "gdp_qtr_real": {
+  "title": "Quarterly Real GDP",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:35"
+ },
+ "gdp_qtr_real_supply": {
+  "title": "Quarterly Real GDP by Economic Sector",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:35"
+ },
+ "gdp_qtr_real_supply_granular": {
+  "title": "Quarterly Real GDP by Economic Subsector",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:35"
+ },
+ "gdp_qtr_real_demand": {
+  "title": "Quarterly Real GDP by Expenditure Type",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:35"
+ },
+ "gdp_qtr_real_demand_granular": {
+  "title": "Quarterly Real GDP by Expenditure Subtype",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:35"
+ },
+ "gdp_qtr_real_sa": {
+  "title": "Quarterly Real GDP (Seasonally Adjusted)",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:36"
+ },
+ "gdp_qtr_real_sa_supply": {
+  "title": "Quarterly Real GDP (Seasonally Adjusted) by Economic Sector",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:36"
+ },
+ "gdp_qtr_real_sa_demand": {
+  "title": "Quarterly Real GDP (Seasonally Adjusted) by Expenditure Type",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:36"
+ },
+ "gdp_state_real_supply": {
+  "title": "Annual Real GDP by State & Economic Sector",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-07-01 12:30",
+  "fetched_at": "2026-09-09 16:03:36"
+ },
+ "gdp_district_real_supply": {
+  "title": "Annual Real GDP by District & Economic Sector",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2020",
+  "next_update": "2025-11-02 12:00",
+  "fetched_at": "2026-09-09 16:03:36"
+ },
+ "gdp_lookup": {
+  "title": "Lookup Table: GDP",
+  "agency": "DOSM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2024-Q1",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:36"
+ },
+ "bop_balance": {
+  "title": "Balance of Key BOP Components",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q2",
+  "next_update": "2026-11-18 12:00",
+  "fetched_at": "2026-09-09 16:03:36"
+ },
+ "fdi_flows": {
+  "title": "Foreign Direct Investment (FDI) Flows",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2025-Q3",
+  "next_update": "2026-02-13 12:00",
+  "fetched_at": "2026-09-09 16:03:36"
+ },
+ "schools_district": {
+  "title": "Public Education Institutions by District",
+  "agency": "MOE",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:37"
+ },
+ "lecturers_uni": {
+  "title": "Lecturers in Public Universities by Citizenship & Sex",
+  "agency": "MOHE",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:37"
+ },
+ "enrolment_school_district": {
+  "title": "Enrolment in Government Schools by District",
+  "agency": "MOE",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:37"
+ },
+ "teachers_district": {
+  "title": "Teachers in Government Schools by District",
+  "agency": "MOE",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:37"
+ },
+ "nutrition_children_sex": {
+  "title": "Nutritional Status of Children Under 5 by Sex",
+  "agency": "MOH",
+  "frequency": "YEARLY",
+  "data_as_of": "2019",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:37"
+ },
+ "completion_school_state": {
+  "title": "School Completion Rates by State",
+  "agency": "MOE",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:37"
+ },
+ "nutrition_children_strata": {
+  "title": "Nutritional Status of Children Under 5 by Strata",
+  "agency": "MOH",
+  "frequency": "YEARLY",
+  "data_as_of": "2019",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:03:38"
+ },
+ "hospital_beds": {
+  "title": "Hospital Beds by State and Hospital Type",
+  "agency": "MOH",
+  "frequency": "YEARLY",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:38"
+ },
+ "sanitation_access": {
+  "title": "Access to Sanitary Latrines by State",
+  "agency": "MOH",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:38"
+ },
+ "healthcare_staff": {
+  "title": "Healthcare Staff by State and Staff Type",
+  "agency": "MOH",
+  "frequency": "YEARLY",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:38"
+ },
+ "blood_donations": {
+  "title": "Daily Blood Donations by Blood Group",
+  "agency": "PDN,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 10:00",
+  "fetched_at": "2026-09-09 16:03:38"
+ },
+ "blood_donations_state": {
+  "title": "Daily Blood Donations by Blood Group & State",
+  "agency": "PDN,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 10:00",
+  "fetched_at": "2026-09-09 16:03:38"
+ },
+ "organ_pledges": {
+  "title": "Daily Organ Donation Pledges",
+  "agency": "NTRC,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 10:00",
+  "fetched_at": "2026-09-09 16:03:38"
+ },
+ "organ_pledges_state": {
+  "title": "Daily Organ Donation Pledges by State",
+  "agency": "NTRC,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 10:00",
+  "fetched_at": "2026-09-09 16:03:38"
+ },
+ "pekab40_screenings": {
+  "title": "Daily PeKaB40 Health Screenings",
+  "agency": "PHCorp,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-06 23:59",
+  "next_update": "2026-09-08 10:00",
+  "fetched_at": "2026-09-09 16:03:39"
+ },
+ "pekab40_screenings_state": {
+  "title": "Daily PeKaB40 Health Screenings by State",
+  "agency": "PHCorp,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-06 23:59",
+  "next_update": "2026-09-08 10:00",
+  "fetched_at": "2026-09-09 16:03:39"
+ },
+ "infant_immunisation": {
+  "title": "Infant Immunisation Coverage",
+  "agency": "MOH",
+  "frequency": "ANNUAL",
+  "data_as_of": "2023",
+  "next_update": "2025-11-30 12:00",
+  "fetched_at": "2026-09-09 16:03:39"
+ },
+ "covid_deaths_linelist": {
+  "title": "Transactional Records: Deaths due to COVID-19",
+  "agency": "MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2025-05-31 23:59",
+  "next_update": "2025-06-08 12:00",
+  "fetched_at": "2026-09-09 16:03:39"
+ },
+ "covid_cases": {
+  "title": "Daily COVID-19 Cases by State",
+  "agency": "MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2025-05-31 23:59",
+  "next_update": "2025-06-08 12:00",
+  "fetched_at": "2026-09-09 16:03:39"
+ },
+ "std_state": {
+  "title": "Sexually Transmitted Diseases (STDs) by State",
+  "agency": "MOH",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:40"
+ },
+ "covid_cases_age": {
+  "title": "Daily COVID-19 Cases by Age Group & State",
+  "agency": "MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2025-05-31 23:59",
+  "next_update": "2025-06-08 12:00",
+  "fetched_at": "2026-09-09 16:03:40"
+ },
+ "covid_cases_vaxstatus": {
+  "title": "Daily COVID-19 Cases by Vaccination Status & State",
+  "agency": "MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2025-05-31 23:59",
+  "next_update": "2025-06-08 12:00",
+  "fetched_at": "2026-09-09 16:03:40"
+ },
+ "vaxreg_covid_demog": {
+  "title": "Daily COVID-19 Vaccine Registrations by State, Sex & Age",
+  "agency": "MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2022-02-22 23:59",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:40"
+ },
+ "pharmaceutical_importers": {
+  "title": "Approved Importers of Pharmaceutical Products",
+  "agency": "NPRA,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 12:00",
+  "fetched_at": "2026-09-09 16:03:40"
+ },
+ "pharmaceutical_wholesalers": {
+  "title": "Approved Wholesalers of Pharmaceutical Products",
+  "agency": "NPRA,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 12:00",
+  "fetched_at": "2026-09-09 16:03:40"
+ },
+ "pharmaceutical_products": {
+  "title": "Approved Pharmaceutical Products",
+  "agency": "NPRA,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 12:00",
+  "fetched_at": "2026-09-09 16:03:40"
+ },
+ "cosmetics_manufacturers": {
+  "title": "Approved Manufacturers of Cosmetic Products",
+  "agency": "NPRA,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 12:00",
+  "fetched_at": "2026-09-09 16:03:41"
+ },
+ "cosmetic_notifications_cancelled": {
+  "title": "Cancelled Cosmetic Product Notifications",
+  "agency": "NPRA,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 12:00",
+  "fetched_at": "2026-09-09 16:03:41"
+ },
+ "mnha": {
+  "title": "MNHA: Total (TEH) and Current (CHE) Expenditure on Health",
+  "agency": "MOH",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:41"
+ },
+ "vaxreg_covid": {
+  "title": "Daily COVID-19 Vaccine Registrations by State",
+  "agency": "MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2022-02-22 23:59",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:41"
+ },
+ "pharmaceutical_products_cancelled": {
+  "title": "Cancelled Pharmaceutical Products",
+  "agency": "NPRA,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 12:00",
+  "fetched_at": "2026-09-09 16:03:41"
+ },
+ "ridership_ktmb_daily": {
+  "title": "Daily KTMB Ridership",
+  "agency": "KTMB,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 03:45",
+  "fetched_at": "2026-09-09 16:03:42"
+ },
+ "ridership_od_komuter": {
+  "title": "Hourly Origin-Destination Ridership: Komuter",
+  "agency": "KTMB,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 03:45",
+  "fetched_at": "2026-09-09 16:03:42"
+ },
+ "ridership_ktmb_monthly": {
+  "title": "Monthly KTMB Ridership",
+  "agency": "KTMB,MOT",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-08-31 23:59",
+  "next_update": "2026-10-01 03:45",
+  "fetched_at": "2026-09-09 16:03:42"
+ },
+ "mnha_moh": {
+  "title": "MNHA: MOH Expenditure on Health",
+  "agency": "MOH",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:42"
+ },
+ "pharmaceutical_manufacturers": {
+  "title": "Approved Manufacturers of Pharmaceutical Products",
+  "agency": "NPRA,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 12:00",
+  "fetched_at": "2026-09-09 16:03:42"
+ },
+ "ridership_od_komuter_utara": {
+  "title": "Hourly Origin-Destination Ridership: Komuter Utara",
+  "agency": "KTMB,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 03:45",
+  "fetched_at": "2026-09-09 16:03:42"
+ },
+ "ridership_od_ets": {
+  "title": "Hourly Origin-Destination Ridership: ETS",
+  "agency": "KTMB,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 03:45",
+  "fetched_at": "2026-09-09 16:03:43"
+ },
+ "ridership_od_intercity": {
+  "title": "Hourly Origin-Destination Ridership: Intercity",
+  "agency": "KTMB,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 03:45",
+  "fetched_at": "2026-09-09 16:03:43"
+ },
+ "cosmetic_notifications": {
+  "title": "Notified Cosmetic Products",
+  "agency": "NPRA,MOH",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 12:00",
+  "fetched_at": "2026-09-09 16:03:43"
+ },
+ "ridership_od_shuttle_tebrau": {
+  "title": "Hourly Origin-Destination Ridership: Shuttle Tebrau",
+  "agency": "KTMB,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "2026-09-09 03:45",
+  "fetched_at": "2026-09-09 16:03:43"
+ },
+ "ridership_od_rapidrail_daily": {
+  "title": "Daily Origin-Destination Ridership: Rapid Rail (KV)",
+  "agency": "Prasarana,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-08-24 23:59",
+  "next_update": "2026-08-26 22:00",
+  "fetched_at": "2026-09-09 16:03:43"
+ },
+ "ridership_od_brt_daily": {
+  "title": "Daily Origin-Destination Ridership: BRT Sunway Line",
+  "agency": "Prasarana,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-08-24 23:59",
+  "next_update": "2026-08-26 22:00",
+  "fetched_at": "2026-09-09 16:03:43"
+ },
+ "registration_transactions_all": {
+  "title": "Vehicle Registration Transactions",
+  "agency": "JPJ,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-07-31 23:59",
+  "next_update": "2026-09-10 16:00",
+  "fetched_at": "2026-09-09 16:03:44"
+ },
+ "registration_transactions_car": {
+  "title": "Car Registration Transactions",
+  "agency": "JPJ,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-07-31 23:59",
+  "next_update": "2026-09-10 16:00",
+  "fetched_at": "2026-09-09 16:03:44"
+ },
+ "registrations_type_fuel": {
+  "title": "Monthly Vehicle Registrations by Vehicle and Fuel Type",
+  "agency": "JPJ,MOT",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07-31 23:59",
+  "next_update": "2026-09-10 16:00",
+  "fetched_at": "2026-09-09 16:03:44"
+ },
+ "registration_transactions_motorcycle": {
+  "title": "Motorcycle Registration Transactions",
+  "agency": "JPJ,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-07-31 23:59",
+  "next_update": "2026-09-10 16:00",
+  "fetched_at": "2026-09-09 16:03:44"
+ },
+ "ridership_headline": {
+  "title": "Daily Public Transport Ridership",
+  "agency": "Prasarana,MOT",
+  "frequency": "DAILY",
+  "data_as_of": "2026-07-31 23:59",
+  "next_update": "2026-09-12 12:00",
+  "fetched_at": "2026-09-09 16:03:44"
+ },
+ "crime_district": {
+  "title": "Crimes by District & Crime Type",
+  "agency": "PDRM,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2023-12-31 23:59",
+  "next_update": "2025-12-31 12:00",
+  "fetched_at": "2026-09-09 16:03:45"
+ },
+ "prisoners_prison": {
+  "title": "Prisoners by Prison Centre and Sex",
+  "agency": "Penjara",
+  "frequency": "YEARLY",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "2024-12-31 12:00",
+  "fetched_at": "2026-09-09 16:03:46"
+ },
+ "legal_advisory_category": {
+  "title": "Legal Advisory Services by Branch & Category",
+  "agency": "JBG",
+  "frequency": "MONTHLY",
+  "data_as_of": "2024-12-31 23:59",
+  "next_update": "2027-08-31 12:00",
+  "fetched_at": "2026-09-09 16:03:46"
+ },
+ "legal_advisory_branch": {
+  "title": "Legal Advisory Services by Branch",
+  "agency": "JBG",
+  "frequency": "MONTHLY",
+  "data_as_of": "2024-12-31 23:59",
+  "next_update": "2027-08-31 12:00",
+  "fetched_at": "2026-09-09 16:03:47"
+ },
+ "prisoners_state": {
+  "title": "Prisoners by State and Sex",
+  "agency": "Penjara",
+  "frequency": "YEARLY",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "2024-12-31 12:00",
+  "fetched_at": "2026-09-09 16:03:47"
+ },
+ "legal_advisory_subcategory": {
+  "title": "Legal Advisory Services by Branch & Subcategory",
+  "agency": "JBG",
+  "frequency": "MONTHLY",
+  "data_as_of": "2024-12-31 23:59",
+  "next_update": "2027-08-31 12:00",
+  "fetched_at": "2026-09-09 16:03:48"
+ },
+ "legal_advisory_case_type": {
+  "title": "Legal Advisory Services by Branch & Case Type",
+  "agency": "JBG",
+  "frequency": "MONTHLY",
+  "data_as_of": "2024-12-31 23:59",
+  "next_update": "2027-08-31 12:00",
+  "fetched_at": "2026-09-09 16:03:48"
+ },
+ "drug_addicts_drugtype": {
+  "title": "Drug Addicts by State & Drug Type",
+  "agency": "AADK,KDN",
+  "frequency": "YEARLY",
+  "data_as_of": "2023-12-31 09:41:00.000 +08:00",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:49"
+ },
+ "drug_addicts_age": {
+  "title": "Drug Addicts by State & Age Group",
+  "agency": "AADK,KDN",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:49"
+ },
+ "drug_arrests_age": {
+  "title": "Drug Arrests by Sex & Age",
+  "agency": "PDRM,KDN",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:49"
+ },
+ "drug_arrests_ethnicity": {
+  "title": "Drug Arrests by Sex & Ethnicity",
+  "agency": "PDRM,KDN",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:49"
+ },
+ "epf_dividend": {
+  "title": "Annual EPF Dividend",
+  "agency": "EPF",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-03-15 12:00",
+  "fetched_at": "2026-09-09 16:03:49"
+ },
+ "forest_reserve_state": {
+  "title": "Area of Permanent Forest Reserves by State",
+  "agency": "Perhutanan,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2021",
+  "next_update": "n/a",
+  "fetched_at": "2026-09-09 16:03:49"
+ },
+ "forest_reserve": {
+  "title": "Area of Permanent Forest Reserves",
+  "agency": "Perhutanan,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2021",
+  "next_update": "n/a",
+  "fetched_at": "2026-09-09 16:03:50"
+ },
+ "electricity_consumption": {
+  "title": "Monthly Electricity Consumption",
+  "agency": "TNB,SESB,SWK-ENERGY,ST,DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2024-09-30 23:59",
+  "next_update": "2024-10-01 12:00",
+  "fetched_at": "2026-09-09 16:03:50"
+ },
+ "drug_addicts_education": {
+  "title": "Drug Addicts by Highest Education Level",
+  "agency": "AADK,KDN",
+  "frequency": "YEARLY",
+  "data_as_of": "2023-12-31 00:00:00.000 +08:00",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:50"
+ },
+ "drug_addicts_occupation": {
+  "title": "Drug Addicts by State & Occupation",
+  "agency": "AADK,KDN",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:50"
+ },
+ "electricity_access": {
+  "title": "Households with Access to Electricity",
+  "agency": "TNB,SESB,SWK-ENERGY,ST",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:50"
+ },
+ "electricity_supply": {
+  "title": "Electricity Supply",
+  "agency": "TNB,SESB,SWK-ENERGY,ST,DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2024-09-30 23:59",
+  "next_update": "2024-10-01 12:00",
+  "fetched_at": "2026-09-09 16:03:50"
+ },
+ "water_consumption": {
+  "title": "Water Consumption by State and Sector",
+  "agency": "SPAN,NRES,DOSM",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:51"
+ },
+ "water_production": {
+  "title": "Water Production by State",
+  "agency": "SPAN,NRES,DOSM",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:51"
+ },
+ "water_access": {
+  "title": "Access to Treated Water by State & Strata",
+  "agency": "SPAN,NRES",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:03:51"
+ },
+ "air_pollution": {
+  "title": "Monthly Air Pollution",
+  "agency": "JAS,DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2022-12-31 23:59",
+  "next_update": "2024-11-27 12:00",
+  "fetched_at": "2026-09-09 16:03:51"
+ },
+ "ghg_emissions": {
+  "title": "Greenhouse Gas Emissions",
+  "agency": "NRES,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2021",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:03:51"
+ },
+ "water_pollution_basin": {
+  "title": "River Basin Pollution Monitoring",
+  "agency": "JAS",
+  "frequency": "YEARLY",
+  "data_as_of": "2021",
+  "next_update": "2024-12-31 12:00",
+  "fetched_at": "2026-09-09 16:03:52"
+ },
+ "cellular_subscribers": {
+  "title": "Cellular Subscribers by Plan Type",
+  "agency": "MCMC",
+  "frequency": "ANNUAL",
+  "data_as_of": "2021",
+  "next_update": "2025-12-31 12:00",
+  "fetched_at": "2026-09-09 16:03:52"
+ },
+ "lfs_month": {
+  "title": "Monthly Principal Labour Force Statistics",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-11 12:30",
+  "fetched_at": "2026-09-09 16:03:52"
+ },
+ "lfs_month_status": {
+  "title": "Monthly Employment by Status in Employment",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-11 12:30",
+  "fetched_at": "2026-09-09 16:03:52"
+ },
+ "lfs_qtr": {
+  "title": "Quarterly Principal Labour Force Statistics",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2025-Q3",
+  "next_update": "2026-02-11 12:00",
+  "fetched_at": "2026-09-09 16:03:53"
+ },
+ "lfs_month_duration": {
+  "title": "Monthly Unemployment by Duration",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-11 12:30",
+  "fetched_at": "2026-09-09 16:03:53"
+ },
+ "lfs_month_youth": {
+  "title": "Monthly Youth Unemployment",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-11 12:30",
+  "fetched_at": "2026-09-09 16:03:53"
+ },
+ "lfs_month_sa": {
+  "title": "Monthly Principal Labour Force Statistics, Seasonally Adjusted",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-11 12:30",
+  "fetched_at": "2026-09-09 16:03:53"
+ },
+ "lfs_qtr_sru_age": {
+  "title": "Quarterly Skills-Related Underemployment by Age",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2025-Q3",
+  "next_update": "2026-02-11 12:00",
+  "fetched_at": "2026-09-09 16:03:53"
+ },
+ "lfs_qtr_sru_sex": {
+  "title": "Quarterly Skills-Related Underemployment by Sex",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2025-Q3",
+  "next_update": "2026-02-11 12:00",
+  "fetched_at": "2026-09-09 16:03:54"
+ },
+ "lfs_year": {
+  "title": "Annual Principal Labour Force Statistics",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "2025-02-09 12:00",
+  "fetched_at": "2026-09-09 16:03:54"
+ },
+ "lfs_qtr_state": {
+  "title": "Quarterly Principal Labour Force Statistics by State",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2025-Q3",
+  "next_update": "2026-02-11 12:00",
+  "fetched_at": "2026-09-09 16:03:54"
+ },
+ "lfs_qtr_tru_sex": {
+  "title": "Quarterly Time-Related Underemployment by Sex",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2025-Q3",
+  "next_update": "2026-02-11 12:00",
+  "fetched_at": "2026-09-09 16:03:54"
+ },
+ "lfs_qtr_tru_age": {
+  "title": "Quarterly Time-Related Underemployment by Age",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2025-Q3",
+  "next_update": "2026-02-11 12:00",
+  "fetched_at": "2026-09-09 16:03:54"
+ },
+ "lfs_year_sex": {
+  "title": "Annual Principal Labour Force Statistics by Sex",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "2025-06-24 12:00",
+  "fetched_at": "2026-09-09 16:03:55"
+ },
+ "lfs_state_sex": {
+  "title": "Annual Principal Labour Force Statistics by State & Sex",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "2025-06-24 12:00",
+  "fetched_at": "2026-09-09 16:03:55"
+ },
+ "lfs_district": {
+  "title": "Annual Principal Labour Force Statistics by District",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2024",
+  "next_update": "2026-12-31 12:00",
+  "fetched_at": "2026-09-09 16:03:55"
+ },
+ "employment_sector": {
+  "title": "Employment by MSIC Sector and Sex",
+  "agency": "DOSM",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "2025-01-01 12:00",
+  "fetched_at": "2026-09-09 16:03:55"
+ },
+ "lfs_parlimen": {
+  "title": "Annual Principal Labour Force Statistics by Parliament",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "2026-12-31 12:00",
+  "fetched_at": "2026-09-09 16:03:56"
+ },
+ "lfs_dun": {
+  "title": "Annual Principal Labour Force Statistics by DUN",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "2026-12-31 12:00",
+  "fetched_at": "2026-09-09 16:03:56"
+ },
+ "productivity_annual_priority": {
+  "title": "Annual Productivity for Priority Subsectors",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-02-23 12:30",
+  "fetched_at": "2026-09-09 16:03:56"
+ },
+ "productivity_lookup": {
+  "title": "Lookup Table: Labour Productivity",
+  "agency": "DOSM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2025-Q4",
+  "next_update": "2026-05-21 12:30",
+  "fetched_at": "2026-09-09 16:03:56"
+ },
+ "productivity_annual": {
+  "title": "Annual Productivity by Economic Sector",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-02-23 12:30",
+  "fetched_at": "2026-09-09 16:03:57"
+ },
+ "productivity_qtr": {
+  "title": "Quarterly Productivity by Economic Sector",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2025-Q4",
+  "next_update": "2026-05-21 12:30",
+  "fetched_at": "2026-09-09 16:03:57"
+ },
+ "monetary_aggregates": {
+  "title": "Monetary Aggregates: M1, M2, M3",
+  "agency": "BNM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2027-08-31 18:00",
+  "fetched_at": "2026-09-09 16:03:57"
+ },
+ "currency_in_circulation": {
+  "title": "Monthly Currency in Circulation",
+  "agency": "BNM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2027-08-31 18:00",
+  "fetched_at": "2026-09-09 16:03:57"
+ },
+ "currency_in_circulation_annual": {
+  "title": "Annual Currency in Circulation",
+  "agency": "BNM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2025",
+  "next_update": "2027-01-31 15:00",
+  "fetched_at": "2026-09-09 16:03:57"
+ },
+ "interestrates_annual": {
+  "title": "Annual Interest Rates",
+  "agency": "BNM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-01-31 15:00",
+  "fetched_at": "2026-09-09 16:03:57"
+ },
+ "interestrates": {
+  "title": "Monthly Interest Rates",
+  "agency": "BNM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2027-08-31 18:00",
+  "fetched_at": "2026-09-09 16:03:58"
+ },
+ "trnsc_daily_fpx": {
+  "title": "Daily FPX Transactions",
+  "agency": "PayNet,BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-01 23:59",
+  "next_update": "2026-09-03 02:00",
+  "fetched_at": "2026-09-09 16:03:58"
+ },
+ "trnsc_daily_jompay": {
+  "title": "Daily JomPAY Transactions",
+  "agency": "PayNet,BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-01 23:59",
+  "next_update": "2026-09-03 02:00",
+  "fetched_at": "2026-09-09 16:03:58"
+ },
+ "trnsc_daily_directdebit": {
+  "title": "Daily DirectDebit Transactions",
+  "agency": "PayNet,BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-01 23:59",
+  "next_update": "2026-09-03 02:00",
+  "fetched_at": "2026-09-09 16:03:58"
+ },
+ "trnsc_daily_san": {
+  "title": "Daily Shared ATM Network (SAN) Transactions",
+  "agency": "PayNet,BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-01 23:59",
+  "next_update": "2026-09-03 02:00",
+  "fetched_at": "2026-09-09 16:03:58"
+ },
+ "payment_instruments": {
+  "title": "Monthly Usage of Payment Instruments",
+  "agency": "BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-06 18:00",
+  "fetched_at": "2026-09-09 16:03:59"
+ },
+ "payment_channels": {
+  "title": "Monthly Usage of Payment Channels",
+  "agency": "BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-06 18:00",
+  "fetched_at": "2026-09-09 16:03:59"
+ },
+ "payment_systems": {
+  "title": "Monthly Usage of Payment Systems",
+  "agency": "BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-06 18:00",
+  "fetched_at": "2026-09-09 16:03:59"
+ },
+ "exchangerates_daily_0900": {
+  "title": "Daily Exchange Rates (0900)",
+  "agency": "BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-09 09:00",
+  "next_update": "2026-09-10 09:30",
+  "fetched_at": "2026-09-09 16:03:59"
+ },
+ "exchangerates_daily_1130": {
+  "title": "Daily Exchange Rates (1130)",
+  "agency": "BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-09 11:30",
+  "next_update": "2026-09-10 12:00",
+  "fetched_at": "2026-09-09 16:03:59"
+ },
+ "exchangerates_daily_1200": {
+  "title": "Daily Exchange Rates (1200)",
+  "agency": "BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-09 12:00",
+  "next_update": "2026-09-10 12:30",
+  "fetched_at": "2026-09-09 16:04:00"
+ },
+ "exchangerates_daily_1700": {
+  "title": "Daily Exchange Rates (1700)",
+  "agency": "BNM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-08 17:00",
+  "next_update": "2026-09-09 17:30",
+  "fetched_at": "2026-09-09 16:04:00"
+ },
+ "exchangerates": {
+  "title": "Monthly Exchange Rates",
+  "agency": "BNM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-04-30 12:00",
+  "next_update": "2026-05-29 12:30",
+  "fetched_at": "2026-09-09 16:04:00"
+ },
+ "cpi_annual": {
+  "title": "Annual CPI by Division (2-digit)",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-01-22 12:00",
+  "fetched_at": "2026-09-09 16:04:00"
+ },
+ "cpi_annual_inflation": {
+  "title": "Annual CPI Inflation by Division (2-digit)",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2025",
+  "next_update": "2027-01-22 12:00",
+  "fetched_at": "2026-09-09 16:04:00"
+ },
+ "cpi_headline": {
+  "title": "Monthly CPI by Division (2-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:01"
+ },
+ "cpi_headline_inflation": {
+  "title": "Monthly CPI Inflation by Division (2-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:01"
+ },
+ "cpi_core": {
+  "title": "Monthly Core CPI by Division (2-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:01"
+ },
+ "cpi_state": {
+  "title": "Monthly CPI by State & Division (2-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:01"
+ },
+ "cpi_core_inflation": {
+  "title": "Monthly Core CPI Inflation by Division (2-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:01"
+ },
+ "cpi_state_inflation": {
+  "title": "Monthly CPI Inflation by State & Division (2-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:01"
+ },
+ "cpi_3d": {
+  "title": "Monthly CPI by Group (3-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:01"
+ },
+ "cpi_4d": {
+  "title": "Monthly CPI by Class (4-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:02"
+ },
+ "cpi_5d": {
+  "title": "Monthly CPI by Subclass (5-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:02"
+ },
+ "cpi_strata": {
+  "title": "Monthly CPI by Strata & Division (2-digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:02"
+ },
+ "cpi_lowincome": {
+  "title": "Monthly CPI for Low-Income Households",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-18 12:30",
+  "fetched_at": "2026-09-09 16:04:02"
+ },
+ "pricecatcher": {
+  "title": "PriceCatcher: Transactional Records",
+  "agency": "KPDN,DOSM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-08 23:59",
+  "next_update": "2026-09-10 12:00",
+  "fetched_at": "2026-09-09 16:04:02"
+ },
+ "lookup_item": {
+  "title": "PriceCatcher: Item Lookup",
+  "agency": "KPDN,DOSM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2023-11-09 23:59",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:03"
+ },
+ "ppi_1d": {
+  "title": "Monthly PPI by Section (1 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-28 12:00",
+  "fetched_at": "2026-09-09 16:04:03"
+ },
+ "ppi_2d": {
+  "title": "Monthly PPI by Division (2 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-28 12:00",
+  "fetched_at": "2026-09-09 16:04:03"
+ },
+ "ppi": {
+  "title": "Monthly Producer Price Index (PPI)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-28 12:00",
+  "fetched_at": "2026-09-09 16:04:03"
+ },
+ "lookup_premise": {
+  "title": "PriceCatcher: Premise Lookup",
+  "agency": "KPDN,DOSM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2026-09-07 23:59",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:04:04"
+ },
+ "ppi_3d": {
+  "title": "Monthly PPI by Group (3 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-28 12:00",
+  "fetched_at": "2026-09-09 16:04:04"
+ },
+ "sppi": {
+  "title": "Headline Services Producer Price Index (SPPI)",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q1",
+  "next_update": "2026-08-06 12:30",
+  "fetched_at": "2026-09-09 16:04:04"
+ },
+ "sppi_1d": {
+  "title": "SPPI by Section (1 digit)",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q1",
+  "next_update": "2026-08-06 12:30",
+  "fetched_at": "2026-09-09 16:04:04"
+ },
+ "ppi_sitc": {
+  "title": "Monthly PPI by SITC Section (1 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-28 12:00",
+  "fetched_at": "2026-09-09 16:04:04"
+ },
+ "sppi_2d": {
+  "title": "SPPI by Division (2 digits)",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q1",
+  "next_update": "2026-08-06 12:30",
+  "fetched_at": "2026-09-09 16:04:04"
+ },
+ "ppi_sop": {
+  "title": "Monthly PPI by Stage of Processing",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-28 12:00",
+  "fetched_at": "2026-09-09 16:04:05"
+ },
+ "sppi_3d": {
+  "title": "SPPI by Group (3 digits)",
+  "agency": "DOSM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2026-Q1",
+  "next_update": "2026-08-06 12:30",
+  "fetched_at": "2026-09-09 16:04:05"
+ },
+ "fuelprice": {
+  "title": "Price of Petroleum & Diesel",
+  "agency": "MOF",
+  "frequency": "WEEKLY",
+  "data_as_of": "2026-09-03 00:01",
+  "next_update": "2026-09-09 23:59",
+  "fetched_at": "2026-09-09 16:04:05"
+ },
+ "federal_finance_qtr_oe": {
+  "title": "Quarterly Federal Government Operating Expenditure by Object",
+  "agency": "JANM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2024-Q1",
+  "next_update": "2024-08-30 15:00",
+  "fetched_at": "2026-09-09 16:04:05"
+ },
+ "federal_finance_qtr_revenue": {
+  "title": "Quarterly Federal Government Revenue",
+  "agency": "JANM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2024-Q1",
+  "next_update": "2024-08-30 15:00",
+  "fetched_at": "2026-09-09 16:04:05"
+ },
+ "federal_finance_qtr": {
+  "title": "Quarterly Federal Government Finance",
+  "agency": "JANM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2024-Q1",
+  "next_update": "2024-08-30 15:00",
+  "fetched_at": "2026-09-09 16:04:05"
+ },
+ "federal_finance_qtr_de": {
+  "title": "Quarterly Federal Government Development Expenditure by Function",
+  "agency": "JANM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2024-Q1",
+  "next_update": "2024-08-30 15:00",
+  "fetched_at": "2026-09-09 16:04:05"
+ },
+ "federal_finance_year": {
+  "title": "Annual Federal Government Finance",
+  "agency": "JANM",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "2025-05-31 15:00",
+  "fetched_at": "2026-09-09 16:04:06"
+ },
+ "federal_finance_year_oe": {
+  "title": "Annual Federal Government Operating Expenditure by Object",
+  "agency": "JANM",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "2025-05-31 15:00",
+  "fetched_at": "2026-09-09 16:04:06"
+ },
+ "federal_finance_year_revenue": {
+  "title": "Annual Federal Government Revenue",
+  "agency": "JANM",
+  "frequency": "YEARLY",
+  "data_as_of": "2023",
+  "next_update": "2025-05-31 15:00",
+  "fetched_at": "2026-09-09 16:04:06"
+ },
+ "federal_finance_year_de": {
+  "title": "Annual Federal Government Development Expenditure by Function",
+  "agency": "JANM",
+  "frequency": "QUARTERLY",
+  "data_as_of": "2023",
+  "next_update": "2025-05-31 15:00",
+  "fetched_at": "2026-09-09 16:04:06"
+ },
+ "state_finance_expenditure": {
+  "title": "State Government Expenditure",
+  "agency": "AUDIT",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:04:07"
+ },
+ "state_finance_revenue": {
+  "title": "State Government Revenue",
+  "agency": "AUDIT",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:04:07"
+ },
+ "federal_budget_moe": {
+  "title": "Annual Budget Allocation for the Ministry of Education",
+  "agency": "MOF",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:04:07"
+ },
+ "federal_budget_moh": {
+  "title": "Annual Budget Allocation for the Ministry of Health",
+  "agency": "MOF",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:04:07"
+ },
+ "parliament_sex": {
+  "title": "Female Representation in Parliament",
+  "agency": "Parlimen",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:07"
+ },
+ "local_authority_sex": {
+  "title": "Female Representation in Local Authorities",
+  "agency": "KPKT",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:07"
+ },
+ "government_apps_reviews": {
+  "title": "Transactional Data: User Reviews of Government Mobile Applications",
+  "agency": "JDN,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-04-21 23:59",
+  "next_update": "2026-04-23 02:00",
+  "fetched_at": "2026-09-09 16:04:08"
+ },
+ "government_apps_active": {
+  "title": "Number of Active Government Mobile Applications",
+  "agency": "JDN,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-04-21 23:59",
+  "next_update": "2026-04-23 02:00",
+  "fetched_at": "2026-09-09 16:04:08"
+ },
+ "government_apps": {
+  "title": "Transactional Data: Official Government Mobile Applications",
+  "agency": "JDN,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-04-21 23:59",
+  "next_update": "2026-04-23 02:00",
+  "fetched_at": "2026-09-09 16:04:08"
+ },
+ "government_apps_downloads": {
+  "title": "Downloads of Government Mobile Applications",
+  "agency": "JDN,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-04-21 23:59",
+  "next_update": "2026-04-23 02:00",
+  "fetched_at": "2026-09-09 16:04:08"
+ },
+ "iowrt": {
+  "title": "Headline Wholesale & Retail Trade",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-11 12:30",
+  "fetched_at": "2026-09-09 16:04:09"
+ },
+ "domains": {
+  "title": "Number of Registered .MY Domains",
+  "agency": "MYNIC,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2025-01",
+  "next_update": "2025-03-15 12:00",
+  "fetched_at": "2026-09-09 16:04:09"
+ },
+ "domains_ipv6": {
+  "title": "Number of Registered .MY Domains with IPv6 DNS",
+  "agency": "MYNIC,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2025-01",
+  "next_update": "2025-03-15 12:00",
+  "fetched_at": "2026-09-09 16:04:09"
+ },
+ "domains_dnssec": {
+  "title": "Number of Registered .MY Domains with DNSSEC",
+  "agency": "MYNIC,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2025-01",
+  "next_update": "2025-03-15 12:00",
+  "fetched_at": "2026-09-09 16:04:09"
+ },
+ "domains_idn": {
+  "title": "Number of Registered Internationalised .MY Domains",
+  "agency": "MYNIC,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2025-01",
+  "next_update": "2025-03-15 12:00",
+  "fetched_at": "2026-09-09 16:04:09"
+ },
+ "iowrt_2d": {
+  "title": "Wholesale & Retail Trade by Division (2 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-11 12:30",
+  "fetched_at": "2026-09-09 16:04:09"
+ },
+ "ipi": {
+  "title": "Industrial Production Index (IPI)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-05",
+  "next_update": "2026-08-11 12:30",
+  "fetched_at": "2026-09-09 16:04:10"
+ },
+ "iowrt_3d": {
+  "title": "Wholesale & Retail Trade by Group (3 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-06",
+  "next_update": "2026-09-11 12:30",
+  "fetched_at": "2026-09-09 16:04:10"
+ },
+ "ipi_1d": {
+  "title": "IPI by Section (1 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-05",
+  "next_update": "2026-08-11 12:30",
+  "fetched_at": "2026-09-09 16:04:10"
+ },
+ "ipi_2d": {
+  "title": "IPI by Division (2 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-05",
+  "next_update": "2026-08-11 12:30",
+  "fetched_at": "2026-09-09 16:04:10"
+ },
+ "ipi_3d": {
+  "title": "IPI by Group (3 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-05",
+  "next_update": "2026-08-11 12:30",
+  "fetched_at": "2026-09-09 16:04:10"
+ },
+ "ipi_5d": {
+  "title": "IPI by Item (5 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-05",
+  "next_update": "2026-08-11 12:30",
+  "fetched_at": "2026-09-09 16:04:11"
+ },
+ "ipi_export": {
+  "title": "IPI for Export-Oriented Divisions (2 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-05",
+  "next_update": "2026-08-11 12:30",
+  "fetched_at": "2026-09-09 16:04:11"
+ },
+ "crops_state": {
+  "title": "Crop Area and Production by State",
+  "agency": "MAFS,DOA,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "2024-12-31 12:00",
+  "fetched_at": "2026-09-09 16:04:11"
+ },
+ "ipi_domestic": {
+  "title": "IPI for Domestic-Oriented Divisions (2 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-05",
+  "next_update": "2026-08-11 12:30",
+  "fetched_at": "2026-09-09 16:04:11"
+ },
+ "crops_district_area": {
+  "title": "Crop Area by District",
+  "agency": "MAFS,DOA,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "2024-12-31 12:00",
+  "fetched_at": "2026-09-09 16:04:11"
+ },
+ "crops_district_production": {
+  "title": "Crop Production by District",
+  "agency": "MAFS,DOA,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "2024-12-31 12:00",
+  "fetched_at": "2026-09-09 16:04:12"
+ },
+ "timber_production": {
+  "title": "Production of Major Timber Products by State",
+  "agency": "Perhutanan,DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2021",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:04:12"
+ },
+ "fish_landings": {
+  "title": "Monthly Landings of Marine Fish by State",
+  "agency": "Perikanan",
+  "frequency": "MONTHLY",
+  "data_as_of": "2023-12",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:04:12"
+ },
+ "mineral_extraction": {
+  "title": "Extraction of Minerals by State and Commodity",
+  "agency": "JMG,DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2021",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:04:12"
+ },
+ "trade_headline": {
+  "title": "Headline Monthly Trade in Goods",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-28 12:30",
+  "fetched_at": "2026-09-09 16:04:12"
+ },
+ "trade_sitc_1d": {
+  "title": "Monthly Trade by SITC Section (1 digit)",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-28 12:30",
+  "fetched_at": "2026-09-09 16:04:13"
+ },
+ "trade_enduse_bec": {
+  "title": "Monthly Retained Imports by End Use and BEC",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-07",
+  "next_update": "2026-09-28 12:30",
+  "fetched_at": "2026-09-09 16:04:13"
+ },
+ "sdg_03-3-1": {
+  "title": "SDG 03-3-1: HIV Incidence per 1,000 Uninfected Population",
+  "agency": "MOH",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "tbc",
+  "fetched_at": "2026-09-09 16:04:13"
+ },
+ "sdg_16-1-1": {
+  "title": "SDG 16-1-1: Victims of Intentional Homicide",
+  "agency": "PDRM",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:14"
+ },
+ "sdg_04-6-1": {
+  "title": "SDG 04-6-1: Proficiency in Functional Literacy and Numeracy",
+  "agency": "DOSM",
+  "frequency": "YEARLY",
+  "data_as_of": "2022",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:14"
+ },
+ "sdg_10-c-1": {
+  "title": "SDG 10-C-1: Remittance Costs as a % of the Amount Remitted",
+  "agency": "DOSM,BNM",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:14"
+ },
+ "sdg_16-2-2": {
+  "title": "SDG 16-2-2: Victims of Human Trafficking",
+  "agency": "KDN",
+  "frequency": "ANNUAL",
+  "data_as_of": "2022",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:14"
+ },
+ "currency_codes": {
+  "title": "Currency Codes (ISO 4217)",
+  "agency": "JDN",
+  "frequency": "ONE-OFF",
+  "data_as_of": "2025",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:14"
+ },
+ "economic_indicators": {
+  "title": "Malaysian Economic Indicators",
+  "agency": "DOSM",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-05",
+  "next_update": "2026-08-24 12:30",
+  "fetched_at": "2026-09-09 16:04:14"
+ },
+ "poskod": {
+  "title": "Postcode Dataset",
+  "agency": "MCMC",
+  "frequency": "YEARLY",
+  "data_as_of": "2026-06",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:04:15"
+ },
+ "mcoicop": {
+  "title": "MCOICOP",
+  "agency": "DOSM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2018",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:04:15"
+ },
+ "sitc": {
+  "title": "SITC",
+  "agency": "DOSM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2006",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:15"
+ },
+ "sitc_sop": {
+  "title": "SITC: Stage of Processing",
+  "agency": "DOSM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2006",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:15"
+ },
+ "bec": {
+  "title": "Broad Economic Categories (BEC)",
+  "agency": "DOSM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2026-03",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:15"
+ },
+ "msic": {
+  "title": "MSIC",
+  "agency": "DOSM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2008",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:15"
+ },
+ "lookup_federal_finance": {
+  "title": "Lookup Table: Federal Finance",
+  "agency": "JANM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2024-01",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:16"
+ },
+ "lookup_money_banking": {
+  "title": "Lookup Table: Money & Banking",
+  "agency": "BNM",
+  "frequency": "INFREQUENT",
+  "data_as_of": "2024-01",
+  "next_update": "—",
+  "fetched_at": "2026-09-09 16:04:16"
+ },
+ "almanak_astronomi": {
+  "title": "Astronomy Almanac ",
+  "agency": "MYSA",
+  "frequency": "DAILY",
+  "data_as_of": "2026-04-01 16:11:00.000 +08:00",
+  "next_update": "-",
+  "fetched_at": "2026-09-09 16:04:17"
+ },
+ "usage_metrics_openapi_cumul": {
+  "title": "Cumulative OpenAPI Hits by Endpoint",
+  "agency": "JDN,KD",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-08 23:59",
+  "next_update": "2026-09-10 00:10",
+  "fetched_at": "2026-09-09 16:04:17"
+ },
+ "usage_metrics": {
+  "title": "Daily Usage Metrics for data.gov.my",
+  "agency": "JDN,KD",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-08 23:59",
+  "next_update": "2026-09-10 00:10",
+  "fetched_at": "2026-09-09 16:04:17"
+ },
+ "usage_metrics_openapi": {
+  "title": "Daily OpenAPI Hits by Endpoint",
+  "agency": "JDN,KD",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-08 23:59",
+  "next_update": "2026-09-10 00:10",
+  "fetched_at": "2026-09-09 16:04:17"
+ },
+ "metrics_content": {
+  "title": "Number of Datasets on data.gov.my",
+  "agency": "JDN,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-09-08 23:59",
+  "next_update": "2026-09-10 00:10",
+  "fetched_at": "2026-09-09 16:04:17"
+ },
+ "metrics_dataset_cumul": {
+  "title": "Cumulative Views and Downloads by Dataset",
+  "agency": "JDN,KD",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-08 23:59",
+  "next_update": "2026-09-10 00:10",
+  "fetched_at": "2026-09-09 16:04:17"
+ },
+ "datasets": {
+  "title": "List of Datasets on data.gov.my",
+  "agency": "JDN,KD",
+  "frequency": "MONTHLY",
+  "data_as_of": "2026-09-08 23:59",
+  "next_update": "2026-09-10 00:10",
+  "fetched_at": "2026-09-09 16:04:18"
+ },
+ "arc_dosm": {
+  "title": "DOSM's Advance Release Calendar",
+  "agency": "DOSM",
+  "frequency": "DAILY",
+  "data_as_of": "2026-09-09 08:00",
+  "next_update": "2026-09-10 08:00",
+  "fetched_at": "2026-09-09 16:04:18"
+ }
+}

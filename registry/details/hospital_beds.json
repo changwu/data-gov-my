@@ -1,0 +1,55 @@
+{
+ "id": "hospital_beds",
+ "title": "Hospital Beds by State and Hospital Type",
+ "description": "Number of public sector hospital beds at national, state, and district level, with a breakdown by hospital type.",
+ "data_as_of": "2022-12-31 23:59",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/hospital_beds.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/hospital_beds.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia for national-level data"
+  },
+  {
+   "name": "district",
+   "title": "District",
+   "description": "[Categorical] One of 160 administrative districts, or 'All Districts' for state-level data"
+  },
+  {
+   "name": "type",
+   "title": "Hospital Type",
+   "description": "[Categorical] Either an MoH-administered hospital ('hospital_moh'), MoH-administered special medical institution ('special_medical_institution'), or non-MoH hospital ('hospital_non_moh'). Special medical institutions refer to institutions with a specific focus, such as on cancer, heart disease, etc. Non-MoH hospitals refer to government hospitals under the purview of other agencies, such as army hospitals."
+  },
+  {
+   "name": "beds",
+   "title": "Number of Beds",
+   "description": "[Integer] Number of hospital beds"
+  }
+ ],
+ "methodology": "This dataset is tabulated from the operational hospital-level records maintained by the Health Informatics Centre (PIK) of the Ministry of Health. The data reflects the number of active hospital beds as at 31 December each year.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "hospital_beds"
+ },
+ "query": {
+  "id": "hospital_beds"
+ },
+ "agency": "MOH",
+ "category": null
+}

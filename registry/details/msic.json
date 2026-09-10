@@ -1,0 +1,90 @@
+{
+ "id": "msic",
+ "title": "MSIC",
+ "description": "This table provides a complete lookup for the MSIC (Malaysian Standard Industrial Classification) 2008, as applied and used in data publications in Malaysia. The MSIC is primarily used by the Department of Statistics Malaysia (DOSM), for the purpose of categorising economic data, such as during the production of GDP data.",
+ "data_as_of": "2008",
+ "last_updated": "2008-12-31 23:59",
+ "next_update": "-",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/dictionaries/msic.csv",
+ "link_parquet": "https://storage.dosm.gov.my/dictionaries/msic.parquet",
+ "link_preview": "https://storage.dosm.gov.my/dictionaries/msic.parquet",
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "digits",
+   "title": "Digits",
+   "description": "[Integer] Number of digits; this column can be used as a filter if you only want to keep 2 digit codes, for example"
+  },
+  {
+   "name": "section",
+   "title": "Section",
+   "description": "[String] 1-digit code; unlike the 2 to 5-digit codes, this is a letter rather than than a number"
+  },
+  {
+   "name": "division",
+   "title": "Division",
+   "description": "[String] 2-digit code; please ensure that you read this column as a string, because the (intentional) leading zeroes will be dropped if read as an integer (e.g. upon opening in Microsoft Excel)"
+  },
+  {
+   "name": "group",
+   "title": "Group",
+   "description": "[String] 3-digit code, with dashes where not applicable (e.g. for rows providing 2-digit definitions)"
+  },
+  {
+   "name": "class",
+   "title": "Class",
+   "description": "[String] 4-digit code, with dashes where not applicable (e.g. for rows providing 2 and 3-digit definitions)"
+  },
+  {
+   "name": "item",
+   "title": "Item",
+   "description": "[String] 5-digit code, with dashes where not applicable (e.g. for rows providing 2, 3, and 4-digit definitions)"
+  },
+  {
+   "name": "desc_en",
+   "title": "Description (EN)",
+   "description": "[String] Description for the code, in English"
+  },
+  {
+   "name": "exclude_en",
+   "title": "Exclusions (EN)",
+   "description": "[String] List of inclusions, in English, provided for avoidance of doubt"
+  },
+  {
+   "name": "include_en",
+   "title": "Inclusions (EN)",
+   "description": "[String] List of exclusions, in English, provided for avoidance of doubt"
+  },
+  {
+   "name": "desc_bm",
+   "title": "Description (BM)",
+   "description": "[String] Description for the code, in Malay"
+  },
+  {
+   "name": "exclude_bm",
+   "title": "Exclusions (BM)",
+   "description": "[String] List of inclusions, in Malay, provided for avoidance of doubt"
+  },
+  {
+   "name": "include_bm",
+   "title": "Inclusions (BM)",
+   "description": "[String] List of exclusions, in Malay, provided for avoidance of doubt"
+  }
+ ],
+ "methodology": "The MSIC was adapted from the [ISIC published by the United Nations Statistics Division](https://unstats.un.org/unsd/classifications/Econ/isic), which is used as a global reference for the classification of economic activities.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "msic"
+ },
+ "query": {
+  "id": "msic"
+ },
+ "agency": "DOSM",
+ "category": null
+}

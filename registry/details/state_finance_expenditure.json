@@ -1,0 +1,50 @@
+{
+ "id": "state_finance_expenditure",
+ "title": "State Government Expenditure",
+ "description": "Annual data on state government expenditure across various categories, including development expenditure (DE) and operating expenditure (OE).",
+ "data_as_of": "2022",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "—",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "AUDIT"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicadmin/state_finance_expenditure.csv",
+ "link_parquet": "https://storage.data.gov.my/publicadmin/state_finance_expenditure.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 13 states with their own State Legislative Assembly (does not include Federal Territories)"
+  },
+  {
+   "name": "category",
+   "title": "Expenditure Category",
+   "description": "[Categorical] The category of expenditure; either development expenditure (DE), operating expenditure (OE), or a more detailed OE breakdown covering Emoluments (oe_10000), Services and Supplies (oe_20000), Assets (oe_30000), Fixed Payments (oe_40000), and Other Expenditures (oe_50000)."
+  },
+  {
+   "name": "expenditure",
+   "title": "Acutal Expenditure",
+   "description": "[Float, RM mil] Actual expenditure for the given category; note that this may be different from the originally budgeted amount"
+  }
+ ],
+ "methodology": "This dataset is produced from the financial statements of state governments in Malaysia, as published by the National Audit Department in the Auditor General's Report. Categorisation of expenditure is based on the [Classification Codes for Revenue and Expenditure](https://storage.data.gov.my/publicadmin/penjenisan_kod.pdf) published by the Federal Treasury.",
+ "caveat": "The latest actual expenditure data (rather than budgeted expenditure) is as of 2022, except for Sarawak which is as of 2020. Values for Sarawak will be updated to 2022 when available. Furthermore, it should be noted that because this dataset shows the expenditure of state governments, it does not include the Federal Territories of Kuala Lumpur, Labuan, and Putrajaya, which do not have their own State Legislative Assemblies.",
+ "publication": "—",
+ "params": {
+  "id": "state_finance_expenditure"
+ },
+ "query": {
+  "id": "state_finance_expenditure"
+ },
+ "agency": "AUDIT",
+ "category": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "metrics_content",
+ "title": "Number of Datasets on data.gov.my",
+ "description": "Monthly and cumulative number of datasets published via the data catalogue",
+ "data_as_of": "2026-09-08 23:59",
+ "last_updated": "2026-09-09 08:32",
+ "next_update": "2026-09-10 00:10",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "JDN",
+  "KD"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/metrics/metrics_content.csv",
+ "link_parquet": "https://storage.data.gov.my/metrics/metrics_content.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] Date in YYYY-MM-DD format"
+  },
+  {
+   "name": "datasets",
+   "title": "Datasets (monthly)",
+   "description": "[Integer] Number of new datasets published in the given month"
+  },
+  {
+   "name": "datasets_cumul",
+   "title": "Datasets (cumulative)",
+   "description": "[Integer] Cumulative total number of datasets published up to (and including) the given month"
+  }
+ ],
+ "methodology": "This data is aggregated from the list of datasets extracted from the site's internal API.",
+ "caveat": "—",
+ "publication": "The count of datasets here is fully consistent with the site's [data catalogue](https://data.gov.my/data-catalogue/).",
+ "params": {
+  "id": "metrics_content"
+ },
+ "query": {
+  "id": "metrics_content"
+ },
+ "agency": "JDN,KD",
+ "category": null
+}

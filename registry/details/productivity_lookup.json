@@ -1,0 +1,45 @@
+{
+ "id": "productivity_lookup",
+ "title": "Lookup Table: Labour Productivity",
+ "description": "Lookup table, to be left-joined against other productivity datasets if specified.",
+ "data_as_of": "2025-Q4",
+ "last_updated": "2026-02-23 12:30",
+ "next_update": "2026-05-21 12:30",
+ "frequency": "INFREQUENT",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/labour/productivity_lookup.csv",
+ "link_parquet": "https://storage.dosm.gov.my/labour/productivity_lookup.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "code",
+   "title": "Code",
+   "description": "[String] Reference for the variable as contained within the dataset"
+  },
+  {
+   "name": "variable_en",
+   "title": "Variable Definition (EN)",
+   "description": "[String] Definition of the variable in English"
+  },
+  {
+   "name": "variable_bm",
+   "title": "Variable Definition (MS)",
+   "description": "[String] Definition of the variable in Malay"
+  }
+ ],
+ "methodology": "This lookup table is not part of any standardised data dictionary; it was custom-made to serve the productivity datasets made available via data.gov.my and OpenDOSM only. Furthermore, it should be noted that the coding employed here is the same as the [coding used in](https://open.dosm.gov.my/data-catalogue/gdp_lookup) DOSM's GDP publications, except for the manufacturing and services subsectors. This is because the groupings have been calibrated to ensure optimal suitability for the productivity datasets.",
+ "caveat": "—",
+ "publication": "—",
+ "params": {
+  "id": "productivity_lookup"
+ },
+ "query": {
+  "id": "productivity_lookup"
+ },
+ "agency": "DOSM",
+ "category": null
+}

@@ -1,0 +1,51 @@
+{
+ "id": "drug_addicts_education",
+ "title": "Drug Addicts by Highest Education Level",
+ "description": "The dataset provides information on drug addicts categorized by their highest level of education. The data is collected by the National Anti-Drugs Agency (NADA) through various treatment and rehabilitation centers across Malaysia. It includes yearly data at both national and state levels.",
+ "data_as_of": "2023-12-31 00:00:00.000 +08:00",
+ "last_updated": "2024-01-01 00:00:00.000 +08:00",
+ "next_update": "-",
+ "frequency": "YEARLY",
+ "data_source": [
+  "AADK",
+  "KDN"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicsafety/drug_addicts_education.csv",
+ "link_parquet": "https://storage.data.gov.my/publicsafety/drug_addicts_education.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "The date representing the year of data collection, formatted as YYYY-MM-DD."
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "The state in Malaysia where the data was collected. It includes individual states and the national level (Malaysia)."
+  },
+  {
+   "name": "education",
+   "title": "Education Level",
+   "description": "The highest level of education attained by the drug addicts. Categories include 'none', 'primary', 'pmr', 'spm', 'stpm', 'tertiary', and 'others'."
+  },
+  {
+   "name": "addicts",
+   "title": "Number of Addicts",
+   "description": "The total number of drug addicts recorded for each education level and state."
+  }
+ ],
+ "methodology": "The data is compiled annually by the National Anti-Drugs Agency (NADA) from records at various treatment and rehabilitation centers throughout Malaysia. Each entry in the dataset represents the number of drug addicts identified within a given year, categorized by their highest level of education and the state in which they were recorded.",
+ "caveat": "The dataset is based on administrative records from NADA's treatment centers and may not capture all cases of drug addiction within the community. The education level is self-reported by the individuals and may not be verified. Additionally, the data does not account for individuals who may have relapsed or those who have not sought treatment.",
+ "publication": "N/A",
+ "params": {
+  "id": "drug_addicts_education"
+ },
+ "query": {
+  "id": "drug_addicts_education"
+ },
+ "agency": "AADK,KDN",
+ "category": null
+}

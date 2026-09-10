@@ -1,0 +1,46 @@
+{
+ "id": "stillbirths",
+ "title": "Annual Stillbirths",
+ "description": "Annual number of stillbirths recorded by the Ministry of Health.",
+ "data_as_of": "2024",
+ "last_updated": "2025-10-16 12:00",
+ "next_update": "2026-10-15 12:30",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOH",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/demography/stillbirth.csv",
+ "link_parquet": "https://storage.dosm.gov.my/demography/stillbirth.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at yearly frequency"
+  },
+  {
+   "name": "abs",
+   "title": "Stillbirths",
+   "description": "[Integer] Number of stillbirths in that year"
+  },
+  {
+   "name": "rate",
+   "title": "Stillbirth Rate",
+   "description": "[Float] Number of stillbirths per 1000 births (both live and still)"
+  }
+ ],
+ "methodology": "A stillbirth is a birth after 28 completed weeks or more of gestation without any sign of life during delivery. The data on stillbirths in Malaysia is tabulated based on information collected and reported by the Ministry of Health. For a deeper understanding of the methodology and associated definition, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/vitalstats-technotes).",
+ "caveat": "—",
+ "publication": "OpenDOSM features a dashboard on [Population & Vital Statistics](https://open.dosm.gov.my/dashboard/population) where you can explore this data in a more interactive manner!",
+ "params": {
+  "id": "stillbirths"
+ },
+ "query": {
+  "id": "stillbirths"
+ },
+ "agency": "MOH,DOSM",
+ "category": null
+}

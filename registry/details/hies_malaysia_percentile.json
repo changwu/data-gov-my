@@ -1,0 +1,50 @@
+{
+ "id": "hies_malaysia_percentile",
+ "title": "Household Income by Percentile",
+ "description": "Percentile-resolution household income data at national level.",
+ "data_as_of": "2024",
+ "last_updated": "2025-10-08 12:00",
+ "next_update": "TBC",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/hies/hies_malaysia_percentile.csv",
+ "link_parquet": "https://storage.dosm.gov.my/hies/hies_malaysia_percentile.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as this is annual data"
+  },
+  {
+   "name": "percentile",
+   "title": "Percentile",
+   "description": "[Integer] Number from 1 to 100"
+  },
+  {
+   "name": "variable",
+   "title": "Variable",
+   "description": "[Categorical] Either mean, median, minimum or maximum, as explained in the methodology"
+  },
+  {
+   "name": "income",
+   "title": "Income",
+   "description": "[Integer, RM] Gross monthly household income, in RM. Values for the minimum for the 1st percentile and maximum for the 100th percentile have been nulled due to identifiability concerns."
+  }
+ ],
+ "methodology": "This data is is based on Household Income Surveys (HIS) and Household Income & Expenditure Surveys (HIES) carried out from 1970 to 2024. The survey is carried out at least twice in any rolling five-year period to produce representative data regarding income, poverty and access to basic amenities for Malaysian households. In particular, this dataset provides deeper insight into the distribution of household income at national level, by tabulating key household income metrics by percentile (100 equally sized groups), rather than the typically-published decile (10 groups) or quartile (4 groups). There are 4 metrics on monthly household income provided in the dataset:\n - *Mean* for percentile K, which is the average among households within percentile K only.\n - *Median* for percentile K, which is the median among households in percentile K only. An additional implication is that (K - 0.5)% of households have monthly household income less than or equal to this amount. For example, 12.5% of households have monthly household income less than or equal to the median _within_ the 13th percentile.\n - *Minimum* income for percentile K, which is the minimum among households in percentile K. All households within percentile K have income greater than or equal to this amount.\n - *Maximum* income for percentile K, which is the maximum among households in percentile K. No households within percentile K have income exceeding this amount.",
+ "caveat": "This data should be used with caution as the relative standard errors are larger due to the higher resolution. For a full account of the relative standard errors for the survey as well as the detailed survey methodology, please refer to the [HIES Technical Notes](https://storage.googleapis.com/dosm-public-publications/technote_hies_income_en.pdf).",
+ "publication": "The [Household Income Survey Report, 2024](https://open.dosm.gov.my/publications/household_income_2024).",
+ "params": {
+  "id": "hies_malaysia_percentile"
+ },
+ "query": {
+  "id": "hies_malaysia_percentile"
+ },
+ "agency": "DOSM",
+ "category": null
+}

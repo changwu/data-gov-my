@@ -1,0 +1,51 @@
+{
+ "id": "registrations_type_fuel",
+ "title": "Monthly Vehicle Registrations by Vehicle and Fuel Type",
+ "description": "Monthly count of vehicle registrations, disaggregated by vehicle type and fuel type, from 2000 to the present.",
+ "data_as_of": "2026-07-31 23:59",
+ "last_updated": "2026-08-18 06:46",
+ "next_update": "2026-09-10 16:00",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "JPJ",
+  "MOT"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/transportation/registrations_type_fuel.csv",
+ "link_parquet": "https://storage.data.gov.my/transportation/registrations_type_fuel.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 as the data is at monthly frequency"
+  },
+  {
+   "name": "type",
+   "title": "Vehicle Type",
+   "description": "[Categorical] One of 6 vehicle types for analysis: Cars ('car'), motorcycles ('motorcycle'), lorries ('lorry'), vans ('van'), buses ('bus'), and others ('other'). The value 'all_types' represents the total across all vehicle types. "
+  },
+  {
+   "name": "fuel",
+   "title": "Fuel Type",
+   "description": "[Categorical] Fuel type used by the vehicle's engine(s), either petrol ('petrol'), diesel ('diesel'), green diesel ('greendiesel'), natural gas ('ng'), liquefied natural gas ('lng'), hydrogen ('hydrogen'), and electric ('electric'). Hybrid vehicles are classified as 'hybrid_petrol' or 'hybrid_diesel'. The value 'all_fuels' represents the total across all fuel types."
+  },
+  {
+   "name": "registrations",
+   "title": "Registrations",
+   "description": "[Integer] Number of vehicle registrations recorded in that month for the given vehicle type and fuel type combination"
+  }
+ ],
+ "methodology": "This dataset is derived from the [transactional vehicle registrations data](https://data.gov.my/data-catalogue/registration_transactions_all) made available via data.gov.my, and is provided to facilitate high-level analysis of the private transportation sector.",
+ "caveat": "This dataset captures the registration of vehicles, not their sale, import, or any other transaction. Therefore, if a vehicle is not registered for use on the road, it will not be counted in this dataset (e.g. vehicles purchased purely for private display). Furthermore, users should note that the dataset includes rows for 'all_types' and 'all_fuels' to facilitate top-level comparisons; these should not be double-counted with the breakdown rows.",
+ "publication": "data.gov.my features a [dashboard on vehicle registrations](https://data.gov.my/dashboard/vehicle-registrations), which enables you to explore this dataset in an interactive manner!",
+ "params": {
+  "id": "registrations_type_fuel"
+ },
+ "query": {
+  "id": "registrations_type_fuel"
+ },
+ "agency": "JPJ,MOT",
+ "category": null
+}

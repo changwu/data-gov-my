@@ -1,0 +1,60 @@
+{
+ "id": "nutrition_children_sex",
+ "title": "Nutritional Status of Children Under 5 by Sex",
+ "description": "Distribution of weight-for-age (WAZ), height-for-age (HAZ), and weight-for-height (WHZ) scores for children under 5 years old based on WHO standards, which are used to assess malnutrition (underweight, stunting, wasting, and obesity).",
+ "data_as_of": "2019",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "—",
+ "frequency": "YEARLY",
+ "data_source": [
+  "MOH"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/healthcare/nutrition_status_u5_sex.csv",
+ "link_parquet": "https://storage.data.gov.my/healthcare/nutrition_status_u5_sex.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as this is annual data"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes ('both'), male ('male') or female ('female')"
+  },
+  {
+   "name": "indicator",
+   "title": "Indicator",
+   "description": "[Categorical] Either weight-for-age (WAZ), height-for-age (HAZ), or weight-for-height (WHZ)"
+  },
+  {
+   "name": "range",
+   "title": "Range",
+   "description": "[String] The range for the indicator (e.g., < -2SD, -2SD to 2SD, > 2SD)."
+  },
+  {
+   "name": "description",
+   "title": "Description",
+   "description": "[String] The interpretation of the range (e.g., Underweight, Normal, Overweight)."
+  },
+  {
+   "name": "prevalence",
+   "title": "Prevalence (%)",
+   "description": "[Float, %] The proportion of the population in the range, expressed as a percentage."
+  }
+ ],
+ "methodology": "This data is tabulated based on survey records collected via the National Health and Morbidity Survey (NHMS), which is conducted by the Ministry of Health once every 4 years. The NHMS is design to collect representative data on various healthcare outcomes, especially those which cannot be assessed through administrative hospital data. For a fuller description of the methodology, please refer to the [NHMS 2019 report](https://storage.data.gov.my/healthcare/nhms_2019.pdf).\n\nFor this dataset specifically, the distributions of WAZ, HAZ and WHZ for Malaysia were calculated by comparing the weights and heights of children under 5 years old to the World Health Organization Growth Standard 2006 (WHO 2006). Following that, the prevalence of 4 key malnutrition indicators is defined as follows:\n\n- Underweight: Weight-for-age (WAZ) less than 2 standard deviations below the median\n- Stunting: Height-for-age (HAZ) less than 2 standard deviations below the median\n- Wasting: Weight-for-height (WHZ) less than 2 standard deviations below the median\n- Obesity: Weight-for-height (WHZ) more than 2 standard deviations above the median",
+ "caveat": "These figures are based on the 2019 NHMS. Changes due to the pandemic will only be reflected in data based on the 2023 NHMS.",
+ "publication": "—",
+ "params": {
+  "id": "nutrition_children_sex"
+ },
+ "query": {
+  "id": "nutrition_children_sex"
+ },
+ "agency": "MOH",
+ "category": null
+}

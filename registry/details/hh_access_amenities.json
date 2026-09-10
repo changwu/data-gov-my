@@ -1,0 +1,60 @@
+{
+ "id": "hh_access_amenities",
+ "title": "Access to Basic Amenities by State & District",
+ "description": "Proportion of households with access to basic amenities such as electricity, piped water, and sanitary latrines by state and district.",
+ "data_as_of": "2024",
+ "last_updated": "2026-08-03 12:00",
+ "next_update": "—",
+ "frequency": "YEARLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/hies/hh_access_amenities.csv",
+ "link_parquet": "https://storage.dosm.gov.my/hies/hh_access_amenities.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, including the 3 Federal Territories"
+  },
+  {
+   "name": "district",
+   "title": "District",
+   "description": "[Categorical] One of 160 administrative districts, including the 4 states (Perlis and the 3 Federal Territories) which do not have subdivisions, or 'All Districts' for the state totals"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at annual frequency"
+  },
+  {
+   "name": "piped_water",
+   "title": "Piped Water",
+   "description": "[Float] Percentage of households with access to piped water at home"
+  },
+  {
+   "name": "sanitation",
+   "title": "Sanitation",
+   "description": "[Float] Percentage of households covered by sanitary latrines"
+  },
+  {
+   "name": "electricity",
+   "title": "Electricity",
+   "description": "[Float] Percentage of households with access to electricity at home"
+  }
+ ],
+ "methodology": "This data represents estimates of households' access to various basic amenities, and is tabulated from household-level survey data collected via the Household Income and Expenditure Survey (HIES), which is conducted at least twice within any 5-year period. For full details on the methodology, especially on the nuances involved in sampling, please refer to the [technical notes](https://open.dosm.gov.my/publications/technical-notes/hies-technotes).",
+ "caveat": "—",
+ "publication": "The [Household Income Survey Report, 2024](https://open.dosm.gov.my/publications/household_income_2024), the latest edition of the household income statistics published by DOSM. OpenDOSM also features a [dashboard on household income](https://open.dosm.gov.my/dashboard/household-income-expenditure) which enables you to explore Malaysia's household income data interactively.",
+ "params": {
+  "id": "hh_access_amenities"
+ },
+ "query": {
+  "id": "hh_access_amenities"
+ },
+ "agency": "DOSM",
+ "category": null
+}

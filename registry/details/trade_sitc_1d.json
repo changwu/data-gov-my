@@ -1,0 +1,50 @@
+{
+ "id": "trade_sitc_1d",
+ "title": "Monthly Trade by SITC Section (1 digit)",
+ "description": "Monthly exports and imports by SITC commodity sections.",
+ "data_as_of": "2026-07",
+ "last_updated": "2026-08-28 12:30",
+ "next_update": "2026-09-28 12:30",
+ "frequency": "MONTHLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/trade/trade_sitc_1d.csv",
+ "link_parquet": "https://storage.dosm.gov.my/trade/trade_sitc_1d.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 since the data is at monthly frequency"
+  },
+  {
+   "name": "section",
+   "title": "SITC Section",
+   "description": "[Categorical] SITC section (from 0 to 9) or 'overall'"
+  },
+  {
+   "name": "exports",
+   "title": "Exports",
+   "description": "[Float] The value of exports in RM millions."
+  },
+  {
+   "name": "imports",
+   "title": "Imports",
+   "description": "[Float] The value of imports in RM millions."
+  }
+ ],
+ "methodology": "This dataset presents monthly trade in goods, broken down by SITC section. The SITC classification is a widely used international system for classifying traded goods and services. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/trade-technotes).",
+ "caveat": "Data for the most recent two months is provisional and subject to revision in future updates.",
+ "publication": "[External Trade, Mar 2026](https://open.dosm.gov.my/publications/trade_2026-03), the latest edition of the monthly trade statistics published by DOSM. OpenDOSM also features a [dashboard on trade](https://open.dosm.gov.my/dashboard/external-trade).",
+ "params": {
+  "id": "trade_sitc_1d"
+ },
+ "query": {
+  "id": "trade_sitc_1d"
+ },
+ "agency": "DOSM",
+ "category": null
+}

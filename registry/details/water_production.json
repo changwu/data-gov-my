@@ -1,0 +1,47 @@
+{
+ "id": "water_production",
+ "title": "Water Production by State",
+ "description": "Annual water production by state.",
+ "data_as_of": "2022-12-31 23:59",
+ "last_updated": "2024-09-01 12:00",
+ "next_update": "tbc",
+ "frequency": "ANNUAL",
+ "data_source": [
+  "SPAN",
+  "NRES",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/water/water_production.csv",
+ "link_parquet": "https://storage.data.gov.my/water/water_production.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 as the data is at monthly frequency"
+  },
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states, or Malaysia, which has been included for ease of analysis"
+  },
+  {
+   "name": "value",
+   "title": "Water Consumption",
+   "description": "[Float] Amount of water produced in millions of litres per day (MLD)"
+  }
+ ],
+ "methodology": "In Malaysia, all public and private operators of water provision services must be licensed by the National Water Services Commission (SPAN), and must report key performance indicators as specified in the terms of the license issued by SPAN. This dataset represents part of that reporting, and is compiled from the transactional operational records of water supply companies across Malaysia. It should be noted that:\n- Data for Sarawak includes LAKU Management Sdn. Bhd. (Bintulu, Miri & Limbang, Sibu Water Board, Kuching Water Board and Sarawak Rural Water Supply Department (JBALB).\n- Data for W.P. Kuala Lumpur and W.P. Putrajaya are subsumed under Selangor.",
+ "caveat": "Data for the most recent year is provisional and may be revised in future updates.",
+ "publication": "—",
+ "params": {
+  "id": "water_production"
+ },
+ "query": {
+  "id": "water_production"
+ },
+ "agency": "SPAN,NRES,DOSM",
+ "category": null
+}

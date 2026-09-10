@@ -1,0 +1,56 @@
+{
+ "id": "drug_arrests_ethnicity",
+ "title": "Drug Arrests by Sex & Ethnicity",
+ "description": "This dataset provides information on drug-related arrests in Malaysia, categorized by sex and ethnicity. It includes annual data on various types of drug arrests, offering insights into demographic trends in drug-related offenses.",
+ "data_as_of": "2023",
+ "last_updated": "2023-12-31",
+ "next_update": "-",
+ "frequency": "YEARLY",
+ "data_source": [
+  "PDRM",
+  "KDN"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.data.gov.my/publicsafety/drug_arrests_ethnicity.csv",
+ "link_parquet": "https://storage.data.gov.my/publicsafety/drug_arrests_ethnicity.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "arrest_types",
+   "title": "Arrest Types",
+   "description": "The type of drug-related arrest, such as possession, supply, or positive urine test."
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "The date of the data entry, formatted as YYYY-MM-DD, representing the year of record."
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "The sex of individuals involved in drug arrests, categorized as male, female, or both."
+  },
+  {
+   "name": "ethnicity",
+   "title": "Ethnicity",
+   "description": "The ethnicity of individuals involved in drug arrests, including categories such as Malay, Chinese, Indian, non-citizens, and others."
+  },
+  {
+   "name": "drug_arrests",
+   "title": "Drug Arrests",
+   "description": "The number of drug-related arrests recorded for the specified category."
+  }
+ ],
+ "methodology": "The dataset compiles annual records of drug-related arrests in Malaysia, categorized by sex and ethnicity. The data is collected from law enforcement agencies and reflects arrests made throughout the year. Arrest types include possession, supply, and positive urine tests for drugs. The data is aggregated to provide national-level insights into drug arrest trends.",
+ "caveat": "The dataset represents aggregated annual data and may not capture all nuances of individual cases. Rounding may cause slight discrepancies in totals. Data accuracy depends on reporting by law enforcement agencies.",
+ "publication": "N/A",
+ "params": {
+  "id": "drug_arrests_ethnicity"
+ },
+ "query": {
+  "id": "drug_arrests_ethnicity"
+ },
+ "agency": "PDRM,KDN",
+ "category": null
+}

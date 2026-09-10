@@ -1,0 +1,50 @@
+{
+ "id": "lfs_qtr_sru_age",
+ "title": "Quarterly Skills-Related Underemployment by Age",
+ "description": "Number and proportion of working individuals with tertiary education working in a semi-skilled or low-skilled job, broken down by age group.",
+ "data_as_of": "2025-Q3",
+ "last_updated": "2025-11-10 12:00",
+ "next_update": "2026-02-11 12:00",
+ "frequency": "QUARTERLY",
+ "data_source": [
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_age.csv",
+ "link_parquet": "https://storage.dosm.gov.my/labour/lfs_qtr_sru_age.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with DD set to 01 since the data is at quarterly frequency"
+  },
+  {
+   "name": "variable",
+   "title": "Variable",
+   "description": "[Categorical] Rate (%) or persons ('000)"
+  },
+  {
+   "name": "age",
+   "title": "Age Group",
+   "description": "[Categorical] 10-year age groups, or overall"
+  },
+  {
+   "name": "sru",
+   "title": "Skills-Related Underemployment",
+   "description": "[Float] The number or proportion of employed individuals with tertiary education but who were working in a semi-skilled or low-skilled job as classified under MASCO"
+  }
+ ],
+ "methodology": "This data is produced based on the Labour Force Survey (LFS), which is designed to collect representative data on the labour force at national and state level. Consistency in methodology has been maintained to ensure that the data is comparable over time. Survey findings are a monthly, quarterly and annual basis. For a full description of the methodology, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/lfs-technotes).",
+ "caveat": "The sum of each category may not always equal to the totals shown in related tables because of independent rounding to one decimal place. However, the differences are not obvious.",
+ "publication": "The [Labour Force Report, 3Q 2025](https://open.dosm.gov.my/publications/labour_qtr_2025-q3), the latest edition of the monthly labour force statistics published by DOSM. OpenDOSM also features a [dashboard on the labour force](https://open.dosm.gov.my/dashboard/labour-market).",
+ "params": {
+  "id": "lfs_qtr_sru_age"
+ },
+ "query": {
+  "id": "lfs_qtr_sru_age"
+ },
+ "agency": "DOSM",
+ "category": null
+}

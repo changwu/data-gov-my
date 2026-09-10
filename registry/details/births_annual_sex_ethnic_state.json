@@ -1,0 +1,56 @@
+{
+ "id": "births_annual_sex_ethnic_state",
+ "title": "Annual Live Births by State, Sex, & Ethnicity",
+ "description": "Annual number of births with signs of life upon delivery, with breakdowns by sex, ethnic group and state.",
+ "data_as_of": "2024",
+ "last_updated": "2025-10-16 12:00",
+ "next_update": "2026-10-15 12:30",
+ "frequency": "YEARLY",
+ "data_source": [
+  "JPN",
+  "DOSM"
+ ],
+ "exclude_openapi": false,
+ "link_csv": "https://storage.dosm.gov.my/demography/birth_sex_ethnic_state.csv",
+ "link_parquet": "https://storage.dosm.gov.my/demography/birth_sex_ethnic_state.parquet",
+ "link_preview": null,
+ "link_editions": null,
+ "fields": [
+  {
+   "name": "state",
+   "title": "State",
+   "description": "[Categorical] One of 16 states"
+  },
+  {
+   "name": "date",
+   "title": "Date",
+   "description": "[Date] The date in YYYY-MM-DD format, with MM-DD set to 01-01 since the data is at annual frequency"
+  },
+  {
+   "name": "sex",
+   "title": "Sex",
+   "description": "[Categorical] Either both sexes ('both'), male ('male') or female ('female')"
+  },
+  {
+   "name": "ethnicity",
+   "title": "Ethnicity",
+   "description": "[Categorical] All ethnic groups ('overall'), Malay ('bumi_malay'), other Bumiputera ('bumi_other'), Chinese ('chinese'), Indian ('indian'), other citizens ('other_citizen'), or non-citizen residents ('other_noncitizen')"
+  },
+  {
+   "name": "abs",
+   "title": "Live Births",
+   "description": "[Integer] Number of live births in that year"
+  }
+ ],
+ "methodology": "A live birth is a birth with signs of life upon delivery, even if only for a short while. The data on live births in Malaysia is tabulated based on information reported during the births registration process, specifically in the in Register of Birth Form (JPN.LM01). In particular, the 'state' reported in this dataset is based on the place of usual residence of the mother, not the geographical location in which the baby was born. For example, a baby born in a hospital in Kedah to a family who resides in Perlis will be counted as a live birth for Perlis. For a deeper understanding of the methodology and associated definition, please refer to the [Technical Notes](https://open.dosm.gov.my/publications/technical-notes/vitalstats-technotes).",
+ "caveat": "This data is derived based on births registered with JPN. Accordingly, if a birth is not registered with JPN (for instance, if a foreigner chooses to register their child in their home country, or if a resident in a remote area does not register the birth of their child), it will not count in this dataset.",
+ "publication": "There are two dashboards where you can explore this (and related) data more interactively:\n - data.gov.my features a dashboard on [Birthday Popularity](https://data.gov.my/dashboard/birthday-explorer)\n - OpenDOSM features a dashboard on [Population & Vital Statistics](https://open.dosm.gov.my/dashboard/population)",
+ "params": {
+  "id": "births_annual_sex_ethnic_state"
+ },
+ "query": {
+  "id": "births_annual_sex_ethnic_state"
+ },
+ "agency": "JPN,DOSM",
+ "category": null
+}
